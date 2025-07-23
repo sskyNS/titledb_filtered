@@ -33,11 +33,9 @@ for x in range(len(files)):
     keys = list(DUMP.keys())
 
     num = len(keys)
-    print("                        ")
-    print(files[x])
+    print("Processing", files[x])
     added = []
     for i in range(num):
-        print("Key %d/%d" % (i, num), end="\r")
         entry = DUMP[keys[i]]
         entry_id = DUMP[keys[i]]["id"]
         if (entry_id == None):
@@ -74,6 +72,6 @@ print("Dumping...")
 new_file = open("output/main.json", "w", encoding="UTF-8")
 json.dump(LIST, new_file, ensure_ascii=False)
 new_file.close()
-with lzma.open("output/main.xz", "w", encoding="UTF-8") as f:
-    json.dump(LIST, new_file, ensure_ascii=False)
+with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
+    f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
