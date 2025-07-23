@@ -36,7 +36,24 @@ jobs:
       # 4. Clone the titledb repository
       # This will always clone the latest version of the 'master' branch
       - name: Clone TitleDB
-        run: git clone --branch master https://github.com/blawar/titledb
+        run: |
+          mkdir titledb
+          cd titledb
+          wget https://raw.githubusercontent.com/blawar/titledb/master/US.en.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/GB.en.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/JP.ja.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/FR.fr.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/DE.de.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/ES.es.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/IT.it.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/NL.nl.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/CA.fr.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/PT.pt.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/RU.ru.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/KR.ko.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/HK.zh.json
+          wget https://raw.githubusercontent.com/blawar/titledb/master/BR.pt.json
+          cd ../
 
       # 5. Run your Python script
       - name: Run Python script
