@@ -60,7 +60,7 @@ for x in range(len(files)):
         entry["screenshots"] = DUMP[keys[i]]["screenshots"]
         entry["releaseDate"] = DUMP[keys[i]]["releaseDate"]
         if (DUMP[keys[i]]["size"] < 1024*1024*1024):
-            entry["size"] = "%.2f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
+            entry["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
         else:
             entry["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
         new_file = open("output/titleid/%s.json" % DUMP[keys[i]]["id"], "w", encoding="UTF-8")
