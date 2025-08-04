@@ -2,7 +2,14 @@
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6fc39473598c3b8ec237e075d44a20d431ac6467ba0f3180182b72b121cc980e.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3e80d9fadae0b1675efb1e80d5a99913ae55510fd2fbaad63d7db5aa2f60fb9a.jpg",
 	"publisher": "\u30bf\u30a4\u30c8\u30fc",
-	"screenshots": null,
-	"releaseDate": 20230309,
+	"screenshots": [
+		"https://img-eshop.cdn.nintendo.net/i/821767d9f9a33fe540320255facfa2f557a8b1b9c2ed30d373b78619a69ec0cb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c13bb24ab3f2649dd3b17e4f75e044aea7f03750c60b82879b5f9ec14c04f3b3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/64872929fd9e62072f7c9231d6ce83f5eaa0e8bcdddb4be97725337caf623fdc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/27580972b7687f820c1ea4a28a6b0e902b34c7ac371af576edaff5c7c79b4f07.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/381a55adf88dd3b7795e53ee984c51f095cee58b4b7a96e2972a5ea19e5d2bb8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5e7bc030f64afa50fded79493fada68b70874a6af18bad7501382bbad4c2ff98.jpg"
+	],
+	"releaseDate": 20250804,
 	"size": "102 MiB"
 }
