@@ -39,7 +39,8 @@ for x in range(len(files)):
         entry = DUMP[keys[i]]
         entry_id = DUMP[keys[i]]["id"]
         if (entry_id == None):
-            continue
+            if (keys[i] == "70010000074799"): entry_id = "010054E01D878000"
+            else: continue
         ending = int("0x" + entry_id[12:16], base=16)
         if (ending % 0x2000 != 0):
             continue
@@ -75,3 +76,4 @@ new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
