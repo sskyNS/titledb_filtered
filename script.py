@@ -57,6 +57,8 @@ for x in range(len(files)):
         entry = {}
         entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
         entry["iconUrl"] = DUMP[keys[i]]["iconUrl"]
+        if (entry["iconUrl"] = None):
+            if (keys[i] == "70010000074799"): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
         entry["publisher"] = DUMP[keys[i]]["publisher"]
         entry["screenshots"] = DUMP[keys[i]]["screenshots"]
         entry["releaseDate"] = DUMP[keys[i]]["releaseDate"]
@@ -76,4 +78,5 @@ new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
