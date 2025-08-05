@@ -62,7 +62,7 @@ for x in range(len(files)):
         entry["releaseDate"] = DUMP[keys[i]]["releaseDate"]
         if (DUMP[keys[i]]["size"] == 0):
             entry["size"] = "Unknown"
-        else if (DUMP[keys[i]]["size"] < 1024*1024*1024):
+        elif (DUMP[keys[i]]["size"] < 1024*1024*1024):
             entry["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
         else:
             entry["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
@@ -81,6 +81,7 @@ new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
