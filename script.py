@@ -57,15 +57,18 @@ for x in range(len(files)):
         entry = {}
         entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
         entry["iconUrl"] = DUMP[keys[i]]["iconUrl"]
-        if (entry["iconUrl"] == None):
-            if (keys[i] == "70010000074799"): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
         entry["publisher"] = DUMP[keys[i]]["publisher"]
         entry["screenshots"] = DUMP[keys[i]]["screenshots"]
         entry["releaseDate"] = DUMP[keys[i]]["releaseDate"]
-        if (DUMP[keys[i]]["size"] < 1024*1024*1024):
+        if (DUMP[keys[i]]["size"] == 0):
+            entry["size"] = "Unknown"
+        else if (DUMP[keys[i]]["size"] < 1024*1024*1024):
             entry["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
         else:
             entry["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
+        if (keys[i] == "70010000074799"):
+            if (entry["iconUrl"] == None): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
+            if (DUMP[keys[i]]["size"] == 0): entry["size"] = "32.11 GiB"
         new_file = open("output/titleid/%s.json" % DUMP[keys[i]]["id"], "w", encoding="UTF-8")
         json.dump(entry, new_file, indent="\t", ensure_ascii=True)
         new_file.close()
@@ -78,6 +81,7 @@ new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
