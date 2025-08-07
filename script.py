@@ -53,7 +53,7 @@ for x in range(len(files)):
         isOunce = false
         if (entry_id[0:2] == "04"):
             isOunce = True
-        if (!isOunce):
+        if (isOunce == False):
             if (entry_id in LIST.keys()):
                 if ((entry["name"] not in LIST[entry_id]) and (entry_id not in added)):
                     LIST[entry_id].append(entry["name"])
@@ -67,7 +67,7 @@ for x in range(len(files)):
                 continue            
         LIST[entry_id] = {}
         LIST[entry_id] = [entry["name"]]
-        if (isOunce):
+        if (isOunce == True):
             added2.append(entry_id)
         else: added.append(entry_id)
         entry = {}
@@ -85,7 +85,7 @@ for x in range(len(files)):
         if (keys[i] == "70010000074799"):
             if (entry["iconUrl"] == None): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
             if (DUMP[keys[i]]["size"] == 0): entry["size"] = "32.11 GiB"
-        if (!isOunce):
+        if (isOunce == False):
             new_file = open("output/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
         else: new_file = open("output2/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
         json.dump(entry, new_file, indent="\t", ensure_ascii=True)
@@ -104,6 +104,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
