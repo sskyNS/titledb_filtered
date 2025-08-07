@@ -50,7 +50,7 @@ for x in range(len(files)):
             continue
         if (entry["publisher"] == None):
             continue
-        isOunce = false
+        isOunce = False
         if (entry_id[0:2] == "04"):
             isOunce = True
         if (isOunce == False):
@@ -104,6 +104,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
