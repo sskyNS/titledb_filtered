@@ -21,8 +21,11 @@ files = [
 ]
 
 shutil.rmtree("output/titleid", ignore_errors=True)
+shutil.rmtree("output2/titleid", ignore_errors=True)
 os.makedirs("output/titleid")
+os.makedirs("output2/titleid")
 LIST = {}
+LIST2 = {}
 
 for x in range(len(files)):
 
@@ -35,6 +38,7 @@ for x in range(len(files)):
     num = len(keys)
     print("Processing", files[x])
     added = []
+    added2 = []
     for i in range(num):
         entry = DUMP[keys[i]]
         entry_id = DUMP[keys[i]]["id"]
@@ -46,14 +50,26 @@ for x in range(len(files)):
             continue
         if (entry["publisher"] == None):
             continue
-        if (entry_id in LIST.keys()):
-            if ((entry["name"] not in LIST[entry_id]) and (entry_id not in added)):
-                LIST[entry_id].append(entry["name"])
-            added.append(entry_id)
-            continue
+        isOunce = false
+        if (entry_id[0:2] == "04"):
+            isOunce = True
+        if (!isOunce):
+            if (entry_id in LIST.keys()):
+                if ((entry["name"] not in LIST[entry_id]) and (entry_id not in added)):
+                    LIST[entry_id].append(entry["name"])
+                added.append(entry_id)
+                continue
+        else:
+            if (entry_id in LIST2.keys()):
+                if ((entry["name"] not in LIST2[entry_id]) and (entry_id not in added2)):
+                    LIST2[entry_id].append(entry["name"])
+                added2.append(entry_id)
+                continue            
         LIST[entry_id] = {}
         LIST[entry_id] = [entry["name"]]
-        added.append(entry_id)
+        if (isOunce):
+            added2.append(entry_id)
+        else: added.append(entry_id)
         entry = {}
         entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
         entry["iconUrl"] = DUMP[keys[i]]["iconUrl"]
@@ -69,7 +85,9 @@ for x in range(len(files)):
         if (keys[i] == "70010000074799"):
             if (entry["iconUrl"] == None): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
             if (DUMP[keys[i]]["size"] == 0): entry["size"] = "32.11 GiB"
-        new_file = open("output/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
+        if (!isOunce):
+            new_file = open("output/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
+        else: new_file = open("output2/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
         json.dump(entry, new_file, indent="\t", ensure_ascii=True)
         new_file.close()
 
@@ -80,7 +98,13 @@ json.dump(LIST, new_file, ensure_ascii=False)
 new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
+new_file = open("output2/main.json", "w", encoding="UTF-8")
+json.dump(LIST2, new_file, ensure_ascii=False)
+new_file.close()
+with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
+    f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
