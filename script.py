@@ -65,11 +65,14 @@ for x in range(len(files)):
                     LIST2[entry_id].append(entry["name"])
                 added2.append(entry_id)
                 continue            
-        LIST[entry_id] = {}
-        LIST[entry_id] = [entry["name"]]
         if (isOunce == True):
+            LIST2[entry_id] = {}
+            LIST2[entry_id] = [entry["name"]]
             added2.append(entry_id)
-        else: added.append(entry_id)
+        else: 
+            LIST[entry_id] = {}
+            LIST[entry_id] = [entry["name"]]
+            added.append(entry_id)
         entry = {}
         entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
         entry["iconUrl"] = DUMP[keys[i]]["iconUrl"]
@@ -104,6 +107,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
