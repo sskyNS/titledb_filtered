@@ -104,6 +104,7 @@ for x in range(len(files)):
             added2.append(entry_id)
         else: 
             LIST[entry_id] = {}
+            if (entry["name"] == "Borderlands: The Handsome Collection"): entry["name"] = "Borderlands 2: Game of the Year Edition"
             LIST[entry_id] = [entry["name"]]
             added.append(entry_id)
         entry = {}
@@ -154,6 +155,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
