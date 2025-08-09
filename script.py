@@ -40,7 +40,7 @@ Switch1_cartdidge_exclusives = {
         "title": "TIEBREAK+ - Ace Edition",
         "bannerUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/2x1_TiebreakAceEdition_image1600w.jpg",
         "iconUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/1x1_TiebreakAceEdition_image500w.jpg",
-        "publisher": "Activision",
+        "publisher": "Nacon",
         "screenshots": [
             "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_01.jpg",
             "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_02.jpg",
@@ -154,6 +154,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
