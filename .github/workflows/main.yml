@@ -64,8 +64,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add output/
-          git add output2/
+          git add --ignore-removal output/
+          git add --ignore-removal output2/
           timestamp=$(date -u)
           git commit -m "Last update: $(timestamp)" || exit 0
           git push
