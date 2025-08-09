@@ -20,6 +20,24 @@ files = [
     "BR.pt"
 ]
 
+Switch1_cartdidge_exclusives = {
+    "0100CCC0002E6000": {
+        "title": "Skylanders Imaginators",
+        "bannerUrl": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/H2x1_WiiU_SkylandersImaginators_image1600w.jpg",
+        "iconUrl": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SkylandersImaginators_image500w.jpg",
+        "publisher": "Activision",
+        "screenshots": [
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_01.jpg",
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_02.jpg",
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_03.jpg",
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_04.jpg",
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_05.jpg",
+            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_06.jpg"
+        ],
+        "releaseDate": "20170303"
+    }
+}
+
 shutil.rmtree("output/titleid", ignore_errors=True)
 shutil.rmtree("output2/titleid", ignore_errors=True)
 os.makedirs("output/titleid")
@@ -94,6 +112,20 @@ for x in range(len(files)):
         json.dump(entry, new_file, indent="\t", ensure_ascii=True)
         new_file.close()
 
+cartridges = list(Switch1_cartdidge_exclusives.keys())
+for i in range(len(cartridges)):
+    LIST[cartridges[i]].append(Switch1_cartdidge_exclusives[cartridges[i]].title)
+    entry = {}
+    entry["bannerUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["bannerUrl"]
+    entry["iconUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["iconUrl"]
+    entry["publisher"] = Switch1_cartdidge_exclusives[cartridges[i]]["publisher"]
+    entry["screenshots"] = Switch1_cartdidge_exclusives[cartridges[i]]["screenshots"]
+    entry["releaseDate"] = Switch1_cartdidge_exclusives[cartridges[i]]["releaseDate"]
+    entry["size"] = "Unknown"
+    new_file = open("output/titleid/%s.json" % cartridges[i], "w", encoding="UTF-8")
+    json.dump(entry, new_file, indent="\t", ensure_ascii=True)
+    new_file.close()
+
 print("                        ")
 print("Dumping...")
 new_file = open("output/main.json", "w", encoding="UTF-8")
@@ -107,6 +139,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
