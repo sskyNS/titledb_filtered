@@ -35,6 +35,21 @@ Switch1_cartdidge_exclusives = {
             "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_06.jpg"
         ],
         "releaseDate": "20170303"
+    },
+    "010008301AA96000": {
+        "title": "TIEBREAK+ - Ace Edition",
+        "bannerUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/2x1_TiebreakAceEdition_image1600w.jpg",
+        "iconUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/1x1_TiebreakAceEdition_image500w.jpg",
+        "publisher": "Activision",
+        "screenshots": [
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_01.jpg",
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_02.jpg",
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_03.jpg",
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_04.jpg",
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_05.jpg",
+            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_06.jpg"
+        ],
+        "releaseDate": "20250515"
     }
 }
 
@@ -139,6 +154,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
