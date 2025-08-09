@@ -114,7 +114,7 @@ for x in range(len(files)):
 
 cartridges = list(Switch1_cartdidge_exclusives.keys())
 for i in range(len(cartridges)):
-    LIST[cartridges[i]].append(Switch1_cartdidge_exclusives[cartridges[i]].title)
+    LIST[cartridges[i]] = [Switch1_cartdidge_exclusives[cartridges[i]].title]
     entry = {}
     entry["bannerUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["bannerUrl"]
     entry["iconUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["iconUrl"]
@@ -139,6 +139,7 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
 
 
 
