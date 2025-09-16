@@ -2,6 +2,8 @@ import json
 import os
 import shutil
 import lzma
+import glob
+from pathlib import Path
 
 files = [
     "US.en",
@@ -19,39 +21,6 @@ files = [
     "HK.zh",
     "BR.pt"
 ]
-
-Switch1_cartdidge_exclusives = {
-    "0100CCC0002E6000": {
-        "title": "Skylanders Imaginators",
-        "bannerUrl": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/H2x1_WiiU_SkylandersImaginators_image1600w.jpg",
-        "iconUrl": "https://www.nintendo.com/eu/media/images/11_square_images/games_18/wii_u_20/SQ_WiiU_SkylandersImaginators_image500w.jpg",
-        "publisher": "Activision",
-        "screenshots": [
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_01.jpg",
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_02.jpg",
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_03.jpg",
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_04.jpg",
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_05.jpg",
-            "https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_6/nswitch_skylandersimaginators/NSwitch_SkylandersImaginators_06.jpg"
-        ],
-        "releaseDate": "20170303"
-    },
-    "010008301AA96000": {
-        "title": "TIEBREAK+ - Ace Edition",
-        "bannerUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/2x1_TiebreakAceEdition_image1600w.jpg",
-        "iconUrl": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/1x1_TiebreakAceEdition_image500w.jpg",
-        "publisher": "Nacon",
-        "screenshots": [
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_01.jpg",
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_02.jpg",
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_03.jpg",
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_04.jpg",
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_05.jpg",
-            "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/tiebreakaceedition/nswitch_tiebreakaceedition/TiebreakAceEdition_06.jpg"
-        ],
-        "releaseDate": "20250515"
-    }
-}
 
 shutil.rmtree("output/titleid", ignore_errors=True)
 shutil.rmtree("output2/titleid", ignore_errors=True)
@@ -76,8 +45,7 @@ for x in range(len(files)):
         entry = DUMP[keys[i]]
         entry_id = DUMP[keys[i]]["id"]
         if (entry_id == None):
-            if (keys[i] == "70010000074799"): entry_id = "010054E01D878000"
-            else: continue
+            continue
         ending = int("0x" + entry_id[12:16], base=16)
         if (ending % 0x2000 != 0):
             continue
@@ -119,26 +87,32 @@ for x in range(len(files)):
             entry["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
         else:
             entry["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
-        if (keys[i] == "70010000074799"):
-            if (entry["iconUrl"] == None): entry["iconUrl"] = "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_5/1x1_NSwitch_EaSportsFc25_20240812_image500w.jpg"
-            if (DUMP[keys[i]]["size"] == 0): entry["size"] = "32.11 GiB"
         if (isOunce == False):
             new_file = open("output/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
         else: new_file = open("output2/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
         json.dump(entry, new_file, indent="\t", ensure_ascii=True)
         new_file.close()
 
-cartridges = list(Switch1_cartdidge_exclusives.keys())
-for i in range(len(cartridges)):
-    LIST[cartridges[i]] = [Switch1_cartdidge_exclusives[cartridges[i]]["title"]]
+
+missing_games = glob.glob("missing/*.json")
+for i in range(len(missing_games)):
+    titleid = Path(missing_games[i]).stem
+    if (titleid in LIST):
+        continue
+    file = open(missing_games[i], "r", encoding="UTF-8")
+    DUMP = json.load(file)
+    file.close()
+    LIST[titleid] = [DUMP["name"]]
     entry = {}
-    entry["bannerUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["bannerUrl"]
-    entry["iconUrl"] = Switch1_cartdidge_exclusives[cartridges[i]]["iconUrl"]
-    entry["publisher"] = Switch1_cartdidge_exclusives[cartridges[i]]["publisher"]
-    entry["screenshots"] = Switch1_cartdidge_exclusives[cartridges[i]]["screenshots"]
-    entry["releaseDate"] = Switch1_cartdidge_exclusives[cartridges[i]]["releaseDate"]
-    entry["size"] = "Unknown"
-    new_file = open("output/titleid/%s.json" % cartridges[i], "w", encoding="UTF-8")
+    entry["bannerUrl"] = DUMP["bannerUrl"]
+    entry["iconUrl"] = DUMP["iconUrl"]
+    entry["publisher"] = DUMP["publisher"]
+    entry["screenshots"] = DUMP["screenshots"]
+    entry["releaseDate"] = DUMP["releaseDate"]
+    if ("size" not in DUMP.keys()):
+        entry["size"] = "Unknown"
+    else: entry["size"] = DUMP["size"]
+    new_file = open("output/titleid/%s.json" % titleid, "w", encoding="UTF-8")
     json.dump(entry, new_file, indent="\t", ensure_ascii=True)
     new_file.close()
 
