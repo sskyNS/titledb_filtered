@@ -132,19 +132,3 @@ new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
