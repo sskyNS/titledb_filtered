@@ -102,7 +102,10 @@ for i in range(len(missing_games)):
     file = open(missing_games[i], "r", encoding="UTF-8")
     DUMP = json.load(file)
     file.close()
-    LIST[titleid] = [DUMP["name"]]
+    if isinstance(DUMP["name"], list):
+        LIST[titleid] = DUMP["name"]
+    else:
+        LIST[titleid] = [DUMP["name"]]
     entry = {}
     entry["bannerUrl"] = DUMP["bannerUrl"]
     entry["iconUrl"] = DUMP["iconUrl"]
