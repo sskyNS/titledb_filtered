@@ -109,7 +109,7 @@ for i in range(len(missing_games)):
     entry["publisher"] = DUMP["publisher"]
     entry["screenshots"] = DUMP["screenshots"]
     entry["releaseDate"] = DUMP["releaseDate"]
-    if (("size" not in DUMP.keys()) or (entry["size"] == 0) or (entry["size"] == None)):
+    if (("size" not in DUMP.keys()) or (DUMP["size"] == 0) or (DUMP["size"] == None)):
         entry["size"] = "Unknown"
     else: entry["size"] = DUMP["size"]
     new_file = open("output/titleid/%s.json" % titleid, "w", encoding="UTF-8")
