@@ -37,8 +37,6 @@ jobs:
       # This will always clone the latest version of the 'master' branch
       - name: Clone TitleDB
         run: |
-          git clone https://github.com/blawar/titledb.git
-          cd ../
 
       # 5. Run your Python script
       - name: Run Python script
