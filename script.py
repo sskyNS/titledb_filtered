@@ -19,7 +19,54 @@ files = [
     "RU.ru",
     "KR.ko",
     "HK.zh",
-    "BR.pt"
+    "BR.pt",
+    
+    "PL.en",
+    "AR.en",
+    "AR.es",
+    "AT.de",
+    "AU.en",
+    "BE.fr",
+    "BE.nl",
+    "BG.en",
+    "BR.en",
+    "CA.en",
+    "CH.de",
+    "CH.fr",
+    "CH.it",
+    "CL.en",
+    "CL.es",
+    "CN.en",
+    "CN.zh",
+    "CO.en",
+    "CO.es",
+    "CY.en",
+    "CZ.en",
+    "DK.en",
+    "EE.en",
+    "FI.en",
+    "GR.en",
+    "HR.en",
+    "HU.en",
+    "IE.en",
+    "IL.en",
+    "JP.en",
+    "LT.en",
+    "LU.de",
+    "LU.fr",
+    "LV.en",
+    "MT.en",
+    "MX.en",
+    "NO.en",
+    "NZ.en",
+    "PE.en",
+    "PE.es",
+    "RO.en",
+    "SE.en",
+    "SI.en",
+    "SK.en",
+    "US.es",
+    "ZA.en"
 ]
 
 shutil.rmtree("output/titleid", ignore_errors=True)
@@ -27,7 +74,9 @@ shutil.rmtree("output2/titleid", ignore_errors=True)
 os.makedirs("output/titleid")
 os.makedirs("output2/titleid")
 LIST = {}
+LIST_REGIONS = {}
 LIST2 = {}
+LIST2_REGIONS = {}
 
 for x in range(len(files)):
 
@@ -58,22 +107,26 @@ for x in range(len(files)):
             if (entry_id in LIST.keys()):
                 if ((entry["name"] not in LIST[entry_id]) and (entry_id not in added)):
                     LIST[entry_id].append(entry["name"])
+                if ((files[x][0:2] not in LIST_REGIONS[entry_id]) and (entry_id not in added)):
+                    LIST_REGIONS[entry_id].append(files[x][0:2])
                 added.append(entry_id)
                 continue
         else:
             if (entry_id in LIST2.keys()):
                 if ((entry["name"] not in LIST2[entry_id]) and (entry_id not in added2)):
                     LIST2[entry_id].append(entry["name"])
+                if ((files[x][0:2] not in LIST2_REGIONS[entry_id]) and (entry_id not in added2)):
+                    LIST2_REGIONS[entry_id].append(files[x][0:2])
                 added2.append(entry_id)
                 continue            
         if (isOunce == True):
-            LIST2[entry_id] = {}
             LIST2[entry_id] = [entry["name"]]
+            LIST2_REGIONS[entry_id] = [files[x][0:2]]
             added2.append(entry_id)
         else: 
-            LIST[entry_id] = {}
             if (entry["name"] == "Borderlands: The Handsome Collection"): entry["name"] = "Borderlands 2: Game of the Year Edition"
             LIST[entry_id] = [entry["name"]]
+            LIST_REGIONS[entry_id] = [files[x][0:2]]
             added.append(entry_id)
         entry = {}
         entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
@@ -131,4 +184,15 @@ json.dump(LIST2, new_file, ensure_ascii=False)
 new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
+new_file = open("output/main_regions.json", "w", encoding="UTF-8")
+json.dump(LIST_REGIONS, new_file, ensure_ascii=False)
+new_file.close()
+with lzma.open("output/main_regions.json.xz", "w", format=lzma.FORMAT_XZ) as f:
+    f.write(json.dumps(LIST_REGIONS, ensure_ascii=False).encode("UTF-8"))
+new_file = open("output2/main_regions.json", "w", encoding="UTF-8")
+json.dump(LIST2_REGIONS, new_file, ensure_ascii=False)
+new_file.close()
+with lzma.open("output2/main_regions.json.xz", "w", format=lzma.FORMAT_XZ) as f:
+    f.write(json.dumps(LIST2_REGIONS, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
+
