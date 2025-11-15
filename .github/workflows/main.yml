@@ -4,7 +4,7 @@ name: Run Python Script and Push Output
 on:
   schedule:
     # Runs at the top of every hour (e.g., 1:00, 2:00, 3:00)
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
