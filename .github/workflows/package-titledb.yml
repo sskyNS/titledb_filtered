@@ -1,0 +1,36 @@
+name: Package and Release TitleDB
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  package-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Merge directories and create ZIP
+        run: |
+          mkdir -p temp_merge
+          rsync -a --ignore-existing output/titleid/ temp_merge/ 2>/dev/null || true
+          rsync -a --ignore-existing output2/titleid/ temp_merge/ 2>/dev/null || true
+          
+          echo "文件合并完成。准备打包..."
+          zip -r titleid.zip temp_merge/
+          echo "ZIP包创建完成。"
+
+      - name: Upload to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ""
+          name: "TitleDB Merged Package"
+          body: |
+            自动更新于 ${{ github.event.schedule || '手动触发' }}
+            此包合并了 `/output/titleid/` 和 `/output2/titleid/` 目录下的内容。
+          replace_assets: true
+          files: titleid.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
