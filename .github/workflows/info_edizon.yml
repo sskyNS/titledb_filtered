@@ -1,11 +1,8 @@
 name: Package and Release TitleDB
 
 on:
-  # 定时触发器：每天UTC时间0点（北京时间8点）运行一次
   schedule:
     - cron: '0 0 * * *'
-  
-  # 手动触发器：允许你在GitHub网页界面上手动运行工作流
   workflow_dispatch:
 
 jobs:
@@ -17,28 +14,22 @@ jobs:
 
       - name: Merge directories and create ZIP
         run: |
-          # 创建临时工作目录
           mkdir -p temp_merge
-          # 复制两个output目录下的所有titleid文件夹内容到临时目录
-          # 使用 rsync 的 -a (归档) 和 --ignore-existing 选项来合并，避免覆盖
           rsync -a --ignore-existing output/titleid/ temp_merge/ 2>/dev/null || true
           rsync -a --ignore-existing output2/titleid/ temp_merge/ 2>/dev/null || true
           
           echo "文件合并完成。准备打包..."
-          # 将合并后的目录打包为ZIP文件
           zip -r titleid.zip temp_merge/
           echo "ZIP包创建完成。"
 
       - name: Upload to Release
         uses: softprops/action-gh-release@v1
         with:
-          # 更新现有的、未打标签的"latest"发布
-          tag_name: ""  # 不指定特定标签，更新未关联标签的发布
+          tag_name: ""
           name: "TitleDB Merged Package"
           body: |
             自动更新于 ${{ github.event.schedule || '手动触发' }}
             此包合并了 `/output/titleid/` 和 `/output2/titleid/` 目录下的内容。
-          # 覆盖现有附件，确保始终只有一个文件
           replace_assets: true
           files: titleid.zip
         env:
