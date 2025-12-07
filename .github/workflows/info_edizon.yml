@@ -3,9 +3,10 @@ name: Package and Release TitleDB
 on:
   # 定时触发器：每天UTC时间0点（北京时间8点）运行一次
   schedule:
-    - cron: '0 0 * * *'[citation:5][citation:9]
+    - cron: '0 0 * * *'
+  
   # 手动触发器：允许你在GitHub网页界面上手动运行工作流
-  workflow_dispatch:[citation:1]
+  workflow_dispatch:
 
 jobs:
   package-and-release:
@@ -31,11 +32,11 @@ jobs:
       - name: Upload to Release
         uses: softprops/action-gh-release@v1
         with:
-          # 更新现有的、未打标签的“latest”发布
+          # 更新现有的、未打标签的"latest"发布
           tag_name: ""  # 不指定特定标签，更新未关联标签的发布
           name: "TitleDB Merged Package"
           body: |
-            🗓️ 自动更新于 ${{ github.event.schedule || '手动触发' }}
+            自动更新于 ${{ github.event.schedule || '手动触发' }}
             此包合并了 `/output/titleid/` 和 `/output2/titleid/` 目录下的内容。
           # 覆盖现有附件，确保始终只有一个文件
           replace_assets: true
