@@ -44,19 +44,9 @@ jobs:
           tag_name: "latest-package"
           name: "Switch游戏信息库"
           body: |
-            🎮 **Switch游戏信息库**
-            
+            Switch游戏信息库
+
             此项目内容为Switch游戏信息数据，每小时定期更新，支持显示游戏截图，游戏厂商以及游戏大小等内容。
-            
-            **更新时间:** ${{ github.event.schedule || '手动触发' }}
-            **生成时间:** ${{ github.event.head_commit.timestamp || github.run_started_at }}
-            **工作流运行:** [#${{ github.run_number }}](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
-            
-            **包含内容:**
-            - `/output/titleid/` - 游戏信息数据
-            - `/output2/titleid/` - 附加游戏信息
-            
-            📊 本仓库每小时自动更新一次，确保数据最新。
           # 使用 append_body 来保留之前的更新记录
           append_body: false
           # 每次覆盖同标签的Release
