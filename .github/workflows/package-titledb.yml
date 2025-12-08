@@ -44,7 +44,7 @@ jobs:
           tag_name: "latest-package"
           name: "Switch游戏信息库"
           body: |
-            Switch游戏信息库
+            烤鸭包风灵月影专用游戏数据库
             每小时自动更新，包含游戏截图等内容。
           # 使用 append_body 来保留之前的更新记录
           append_body: false
