@@ -45,7 +45,7 @@ jobs:
           name: "Switch游戏信息库"
           body: |
             Switch游戏信息库
-            每小时定期更新，支持显示游戏截图等内容。
+            每小时自动更新，包含游戏截图等内容。
           # 使用 append_body 来保留之前的更新记录
           append_body: false
           # 每次覆盖同标签的Release
