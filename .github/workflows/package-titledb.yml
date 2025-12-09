@@ -20,30 +20,28 @@ jobs:
           if [ -d "output/titleid/" ]; then
             echo "找到 output/titleid/ 目录"
             # 复制所有文件，忽略已有文件（避免重复）
-            cp -n -r output/titleid/* temp_merge/ 2>/dev/null || true
+            find output/titleid/ -type f -exec cp -n {} temp_merge/ \; 2>/dev/null || true
           else
             echo "警告: output/titleid/ 目录不存在"
           fi
           
           if [ -d "output2/titleid/" ]; then
             echo "找到 output2/titleid/ 目录"
-            cp -n -r output2/titleid/* temp_merge/ 2>/dev/null || true
+            find output2/titleid/ -type f -exec cp -n {} temp_merge/ \; 2>/dev/null || true
           else
             echo "警告: output2/titleid/ 目录不存在"
           fi
           
           # 检查temp_merge目录是否为空
           if [ -z "$(ls -A temp_merge/ 2>/dev/null)" ]; then
-            echo "错误: temp_merge 目录为空！"
-            echo "创建空的titleid.zip"
-            touch temp_merge/README.txt
-            echo "这是空的游戏数据库包" > temp_merge/README.txt
+            echo "错误: temp_merge 目录为空！创建示例文件..."
+            echo "这是空的游戏数据库包，请检查output和output2目录" > temp_merge/README.txt
           fi
           
-          echo "文件合并完成。准备打包..."
-          echo "temp_merge目录内容:"
-          ls -la temp_merge/ || echo "目录可能为空"
+          echo "文件合并完成。temp_merge目录文件数:"
+          ls temp_merge/ | wc -l
           
+          echo "准备打包..."
           # 进入目录创建zip，避免路径问题
           cd temp_merge
           zip -r ../titleid.zip .
@@ -59,6 +57,41 @@ jobs:
           # 创建latest.txt文件用于重定向
           echo "titleid-${TIMESTAMP}.zip" > latest.txt
           echo "最新文件: titleid-${TIMESTAMP}.zip"
+          
+          # 创建简单的重定向文件
+          cat > index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <title>TitleDB Latest File Redirect</title>
+              <script>
+                  // 从GitHub API获取最新文件
+                  fetch('https://api.github.com/repos/sskyNS/titledb_filtered/releases/tags/latest-package')
+                      .then(response => response.json())
+                      .then(data => {
+                          if (data.assets && data.assets.length > 0) {
+                              // 按创建时间排序，获取最新的文件
+                              const sortedAssets = data.assets.sort((a, b) => 
+                                  new Date(b.created_at) - new Date(a.created_at)
+                              );
+                              const latestFile = sortedAssets[0].browser_download_url;
+                              window.location.href = latestFile;
+                          } else {
+                              document.body.innerHTML = '<h1>No files found</h1>';
+                          }
+                      })
+                      .catch(error => {
+                          document.body.innerHTML = `<h1>Error: ${error.message}</h1>`;
+                      });
+              </script>
+          </head>
+          <body>
+              <h1>Redirecting to latest TitleDB package...</h1>
+              <p>If not redirected automatically, please visit:</p>
+              <a id="manual-link" href="#">Manual Download</a>
+          </body>
+          </html>
+          EOF
 
       - name: Create or Update Release
         id: create_release
@@ -79,10 +112,7 @@ jobs:
             ### 📥 下载链接
             **当前版本文件:** [titleid-${TIMESTAMP}.zip](https://github.com/sskyNS/titledb_filtered/releases/download/latest-package/titleid-${TIMESTAMP}.zip)
             
-            **固定链接（始终指向最新版）:**
-            ```
-            https://sskyNS.github.io/titledb_filtered/latest
-            ```
+            **历史版本:** [查看所有版本](https://github.com/sskyNS/titledb_filtered/releases/tag/latest-package)
             
             ### 📋 包含内容
             此包合并了以下目录的内容：
@@ -91,31 +121,37 @@ jobs:
             
             ---
             
-            *注意：每个版本的文件下载量会被独立统计，不会被重置*
+            *每个版本都有独立的下载统计，不会被重置*
           draft: false
           prerelease: false
           generate_release_notes: false
           files: |
             titleid-*.zip
-          # 添加到现有release而不是创建新的
-          append_body: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Upload redirect file via API (替代GitHub Pages)
+        run: |
+          # 使用GitHub API上传文件到根目录（作为普通文件）
+          LATEST_ZIP=$(ls -t titleid-*.zip | head -1)
+          
+          # 创建README.md文件，包含重定向信息
+          cat > REDIRECT.md << EOF
+          # TitleDB 最新文件重定向
+          
+          此文件用于重定向到最新的TitleDB包。
+          
+          固定重定向链接（通过jsDelivr CDN）：
+          \`\`\`
+          https://cdn.jsdelivr.net/gh/sskyNS/titledb_filtered@latest-package/latest.txt
+          \`\`\`
+          
+          最新文件：[${LATEST_ZIP}](https://github.com/sskyNS/titledb_filtered/releases/download/latest-package/${LATEST_ZIP})
+          
+          ## 使用方法
+          1. 访问 https://github.com/sskyNS/titledb_filtered/releases/tag/latest-package
+          2. 下载最新的titleid-*.zip文件
+          
+          ## 自动更新
+          此数据库每小时自动更新一次。
+          EOF
