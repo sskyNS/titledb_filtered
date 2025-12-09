@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TitleDB 最新文件重定向</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            background: #f6f8fa;
+            border-radius: 10px;
+            padding: 30px;
+            margin-top: 50px;
+            border: 1px solid #e1e4e8;
+        }
+        h1 {
+            color: #24292e;
+            border-bottom: 1px solid #eaecef;
+            padding-bottom: 10px;
+        }
+        .button {
+            display: inline-block;
+            background: #2ea44f;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            margin: 10px 0;
+        }
+        .button:hover {
+            background: #2c974b;
+        }
+        .info {
+            background: #e8f4ff;
+            border-left: 4px solid #0366d6;
+            padding: 12px;
+            margin: 20px 0;
+        }
+        code {
+            background: #f6f8fa;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🦆 TitleDB 游戏数据库</h1>
+        
+        <div class="info">
+            <p><strong>注意：</strong>这个页面会自动重定向到最新版本的文件。</p>
+            <p>如果重定向没有自动发生，请点击下面的链接。</p>
+        </div>
+        
+        <p>正在获取最新版本信息...</p>
+        
+        <script>
+            // 从GitHub API获取最新文件信息
+            fetch('https://api.github.com/repos/sskyNS/titledb_filtered/releases/tags/latest-package')
+                .then(response => response.json())
+                .then(data => {
+                    // 查找最新的zip文件
+                    const assets = data.assets;
+                    if (assets && assets.length > 0) {
+                        const latestAsset = assets[assets.length - 1]; // 最后一个是最新的
+                        const downloadUrl = latestAsset.browser_download_url;
+                        
+                        // 显示下载链接
+                        document.getElementById('download-link').innerHTML = `
+                            <p><strong>最新版本:</strong> ${latestAsset.name}</p>
+                            <p><strong>生成时间:</strong> ${new Date(data.published_at).toLocaleString()}</p>
+                            <p><strong>文件大小:</strong> ${(latestAsset.size / 1024 / 1024).toFixed(2)} MB</p>
+                            <a href="${downloadUrl}" class="button">下载最新版本</a>
+                            <p><small>或者复制此链接：<code>${downloadUrl}</code></small></p>
+                        `;
+                        
+                        // 自动重定向
+                        setTimeout(() => {
+                            window.location.href = downloadUrl;
+                        }, 2000);
+                    } else {
+                        document.getElementById('download-link').innerHTML = 
+                            '<p>错误：未能获取最新版本信息。</p>';
+                    }
+                })
+                .catch(error => {
+                    document.getElementById('download-link').innerHTML = 
+                        `<p>错误：${error.message}</p>`;
+                });
+        </script>
+        
+        <div id="download-link">
+            <p>正在加载...</p>
+        </div>
+        
+        <hr>
+        
+        <h2>📖 使用说明</h2>
+        <p><strong>固定链接：</strong></p>
+        <p>使用以下链接始终可以获取最新版本：</p>
+        <code>https://sskyNS.github.io/titledb_filtered/</code>
+        
+        <h2>📊 统计信息</h2>
+        <p>查看所有版本和下载统计：</p>
+        <a href="https://github.com/sskyNS/titledb_filtered/releases" class="button">访问Release页面</a>
+    </div>
+</body>
+</html>
