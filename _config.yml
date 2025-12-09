@@ -1,0 +1,12 @@
+title: "TitleDB 重定向服务"
+theme: jekyll-theme-cayman
+baseurl: "/titledb_filtered"
+permalink: pretty
+
+# 禁用Jekyll处理（我们只做重定向）
+exclude:
+  - output/
+  - output2/
+  - temp_merge/
+  - .github/
+  - README.md
