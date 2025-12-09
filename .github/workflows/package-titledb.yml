@@ -39,7 +39,7 @@ jobs:
           echo "ZIP包创建完成。文件大小:"
           ls -lh titleid.zip
 
-      # [新增步骤] 计算历史累计下载量并更新 Body
+      # [步骤] 计算历史累计下载量并更新 Body
       - name: Calculate Cumulative Downloads
         id: calc_stats
         env:
@@ -66,13 +66,11 @@ jobs:
           echo "Current Asset Downloads: $CURRENT_COUNT"
           echo "New History Base: $NEW_TOTAL"
           
-          # 5. 清理旧 Body 中的统计标签，准备新的 Body 内容
-          # --- 修改部分开始 ---
+          # 5. 准备新的 Body 内容 (已修复引号并精简内容)
           BASE_TEXT="自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
-          风灵月影专用，每小时定期更新，支持显示游戏截图等内容
-          # --- 修改部分结束 ---
+          风灵月影专用，每小时定期更新，支持显示游戏截图等内容"
           
-          # 拼接新的隐藏标签
+          # 拼接新的隐藏标签 (用于下一次累计)
           FINAL_BODY="$BASE_TEXT
           <!-- history_downloads:$NEW_TOTAL -->"
           
@@ -87,14 +85,13 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: "latest-package"
-          # --- 修改部分：Release 标题 ---
           name: "Switch游戏信息库"
           # 使用我们计算好并包含历史数据的 Body
           body: ${{ env.NEW_RELEASE_BODY }}
           files: titleid.zip
           draft: false
           prerelease: false
-          # 必须设为 true 以便覆盖旧文件，但 Release 页面本身不会被删除重建
+          # 必须设为 true 以便覆盖旧文件
           overwrite: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
