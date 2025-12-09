@@ -70,14 +70,6 @@ jobs:
           # --- 修改部分开始 ---
           BASE_TEXT="自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
           风灵月影专用，每小时定期更新，支持显示游戏截图等内容
-          
-          此包合并了以下目录的内容：
-          - \`/output/titleid/\`
-          - \`/output2/titleid/\`
-          
-          **文件信息：**
-          - 工作流运行: [#$GITHUB_RUN_NUMBER]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)
-          "
           # --- 修改部分结束 ---
           
           # 拼接新的隐藏标签
