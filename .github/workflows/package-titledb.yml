@@ -67,8 +67,9 @@ jobs:
           echo "New History Base: $NEW_TOTAL"
           
           # 5. 清理旧 Body 中的统计标签，准备新的 Body 内容
-          # 基础描述文本
-          BASE_TEXT="🗓️ 自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
+          # --- 修改部分开始 ---
+          BASE_TEXT="自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
+          风灵月影专用，每小时定期更新，支持显示游戏截图等内容
           
           此包合并了以下目录的内容：
           - \`/output/titleid/\`
@@ -76,9 +77,8 @@ jobs:
           
           **文件信息：**
           - 工作流运行: [#$GITHUB_RUN_NUMBER]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)
-          
-          📦 每次更新都会替换之前的文件。
           "
+          # --- 修改部分结束 ---
           
           # 拼接新的隐藏标签
           FINAL_BODY="$BASE_TEXT
@@ -95,7 +95,8 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: "latest-package"
-          name: "TitleDB Merged Package (最新版)"
+          # --- 修改部分：Release 标题 ---
+          name: "Switch游戏信息库"
           # 使用我们计算好并包含历史数据的 Body
           body: ${{ env.NEW_RELEASE_BODY }}
           files: titleid.zip
