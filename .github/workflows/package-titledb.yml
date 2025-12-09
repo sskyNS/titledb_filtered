@@ -9,6 +9,8 @@ on:
 jobs:
   package-and-release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须赋予写权限才能更新 Release
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,22 +39,69 @@ jobs:
           echo "ZIP包创建完成。文件大小:"
           ls -lh titleid.zip
 
-      - name: Upload to Release (使用标签)
-        uses: softprops/action-gh-release@v1
-        with:
-          # 使用固定标签而不是无标签Release
-          tag_name: "latest-package"
-          name: "Switch游戏信息库"
-          body: |
-            烤鸭包风灵月影专用游戏数据库
-            每小时自动更新，包含游戏截图等内容。
-          # 使用 append_body 来保留之前的更新记录
-          append_body: false
-          # 每次覆盖同标签的Release
-          draft: false
-          prerelease: false
-          generate_release_notes: false
-          files: titleid.zip
+      # [新增步骤] 计算历史累计下载量并更新 Body
+      - name: Calculate Cumulative Downloads
+        id: calc_stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 1. 获取当前 Release 的 JSON 信息 (如果不存在则忽略错误)
+          RELEASE_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/repos/${{ github.repository }}/releases/tags/latest-package || echo "{}")
+          
+          # 2. 提取当前 titleid.zip 的下载量 (如果提取失败默认为0)
+          CURRENT_COUNT=$(echo "$RELEASE_INFO" | jq -r '.assets[] | select(.name=="titleid.zip") | .download_count // 0')
+          
+          # 3. 提取 Body 中保存的历史基数 (格式: <!-- history_downloads:123 -->)
+          OLD_BODY=$(echo "$RELEASE_INFO" | jq -r .body)
+          if [ "$OLD_BODY" == "null" ]; then OLD_BODY=""; fi
+          
+          # 使用 grep 提取数字，如果没找到则设为 0
+          HISTORY_BASE=$(echo "$OLD_BODY" | grep -oP '(?<=<!-- history_downloads:)[0-9]+(?= -->)' || echo "0")
+          
+          # 4. 计算新的历史总数
+          NEW_TOTAL=$((HISTORY_BASE + CURRENT_COUNT))
+          
+          echo "Previous History: $HISTORY_BASE"
+          echo "Current Asset Downloads: $CURRENT_COUNT"
+          echo "New History Base: $NEW_TOTAL"
+          
+          # 5. 清理旧 Body 中的统计标签，准备新的 Body 内容
+          # 基础描述文本
+          BASE_TEXT="🗓️ 自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
+          
+          此包合并了以下目录的内容：
+          - \`/output/titleid/\`
+          - \`/output2/titleid/\`
+          
+          **文件信息：**
+          - 工作流运行: [#$GITHUB_RUN_NUMBER]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID)
+          
+          📦 每次更新都会替换之前的文件。
+          "
+          
+          # 拼接新的隐藏标签
+          FINAL_BODY="$BASE_TEXT
+          <!-- history_downloads:$NEW_TOTAL -->"
+          
+          # 将多行内容写入环境变量文件
+          {
+            echo 'NEW_RELEASE_BODY<<EOF'
+            echo "$FINAL_BODY"
+            echo 'EOF'
+          } >> $GITHUB_ENV
 
+      - name: Upload to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "latest-package"
+          name: "TitleDB Merged Package (最新版)"
+          # 使用我们计算好并包含历史数据的 Body
+          body: ${{ env.NEW_RELEASE_BODY }}
+          files: titleid.zip
+          draft: false
+          prerelease: false
+          # 必须设为 true 以便覆盖旧文件，但 Release 页面本身不会被删除重建
+          overwrite: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
