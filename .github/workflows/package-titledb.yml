@@ -2,7 +2,6 @@ name: Package and Release TitleDB
 
 on:
   schedule:
-    # 每小时运行一次（每小时的第0分钟）
     - cron: '0 * * * *'
   workflow_dispatch:
 
@@ -15,43 +14,65 @@ jobs:
 
       - name: Merge directories and create ZIP
         run: |
-          mkdir -p temp_merge
-          
-          # 检查目录是否存在
-          if [ -d "output/titleid/" ]; then
-            echo "找到 output/titleid/ 目录"
-            rsync -a --ignore-existing output/titleid/ temp_merge/ 2>/dev/null || true
-          else
-            echo "警告: output/titleid/ 目录不存在"
-          fi
-          
-          if [ -d "output2/titleid/" ]; then
-            echo "找到 output2/titleid/ 目录"
-            rsync -a --ignore-existing output2/titleid/ temp_merge/ 2>/dev/null || true
-          else
-            echo "警告: output2/titleid/ 目录不存在"
-          fi
-          
-          echo "文件合并完成。准备打包..."
+          # ... 合并目录和创建zip的代码保持不变 ...
           zip -r titleid.zip temp_merge/
-          echo "ZIP包创建完成。文件大小:"
-          ls -lh titleid.zip
+          
+          # 添加时间戳到文件名
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          mv titleid.zip titleid-${TIMESTAMP}.zip
 
-      - name: Upload to Release (使用标签)
+      - name: Create or Update Release
+        id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          # 使用固定标签而不是无标签Release
           tag_name: "latest-package"
           name: "Switch游戏信息库"
           body: |
             烤鸭包风灵月影专用游戏数据库
             每小时自动更新，包含游戏截图等内容。
-          # 使用 append_body 来保留之前的更新记录
-          append_body: false
-          # 每次覆盖同标签的Release
+            
+            📅 最新版本: $(date +'%Y-%m-%d %H:%M:%S')
+            
+            **历史版本下载统计:**
+            - 总下载量: [查看统计页面](https://github.com/sskyNS/titledb_filtered/releases/tag/latest-package)
+            
+            ---
+            
+            ### 最新版本下载：
+            [titleid-latest.zip](https://github.com/sskyNS/titledb_filtered/releases/download/latest-package/titleid-*.zip)
+            
+            *注意：链接中的 * 会自动重定向到最新版本*
           draft: false
           prerelease: false
           generate_release_notes: false
-          files: titleid.zip
+          files: |
+            titleid-*.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create redirect file
+        run: |
+          # 获取最新的zip文件名
+          LATEST_ZIP=$(ls -t titleid-*.zip | head -1)
+          
+          # 创建HTML重定向文件
+          cat > latest.html << EOF
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta http-equiv="refresh" content="0; url=https://github.com/sskyNS/titledb_filtered/releases/download/latest-package/${LATEST_ZIP}">
+          </head>
+          <body>
+              <p>正在重定向到最新版本... <a href="https://github.com/sskyNS/titledb_filtered/releases/download/latest-package/${LATEST_ZIP}">点击这里</a></p>
+          </body>
+          </html>
+          EOF
+
+      - name: Upload redirect file to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          keep_files: true
+          file_name: latest.html
