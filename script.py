@@ -128,22 +128,42 @@ for x in range(len(files)):
             LIST[entry_id] = [entry["name"]]
             LIST_REGIONS[entry_id] = [files[x][0:2]]
             added.append(entry_id)
-        entry = {}
-        entry["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
-        entry["iconUrl"] = DUMP[keys[i]]["iconUrl"]
-        entry["publisher"] = DUMP[keys[i]]["publisher"]
-        entry["screenshots"] = DUMP[keys[i]]["screenshots"]
-        entry["releaseDate"] = DUMP[keys[i]]["releaseDate"]
+        
+        # 提取新增的字段
+        entry_output = {}
+        entry_output["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
+        entry_output["iconUrl"] = DUMP[keys[i]]["iconUrl"]
+        entry_output["publisher"] = DUMP[keys[i]]["publisher"]
+        entry_output["screenshots"] = DUMP[keys[i]]["screenshots"]
+        entry_output["releaseDate"] = DUMP[keys[i]]["releaseDate"]
+        
+        # 提取游戏类型(category)
+        entry_output["category"] = DUMP[keys[i]].get("category", [])
+        
+        # 提取游戏介绍(intro/description)
+        entry_output["intro"] = DUMP[keys[i]].get("intro", "")
+        if not entry_output["intro"] and "description" in DUMP[keys[i]]:
+            entry_output["intro"] = DUMP[keys[i]]["description"]
+        
+        # 提取游戏语言(languages)
+        entry_output["languages"] = DUMP[keys[i]].get("languages", [])
+        
+        # 提取最大游玩人数(numberOfPlayers)
+        entry_output["numberOfPlayers"] = DUMP[keys[i]].get("numberOfPlayers", 1)
+        
+        # 保持原有的size处理逻辑
         if (DUMP[keys[i]]["size"] == 0):
-            entry["size"] = "Unknown"
+            entry_output["size"] = "Unknown"
         elif (DUMP[keys[i]]["size"] < 1024*1024*1024):
-            entry["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
+            entry_output["size"] = "%.0f MiB" % (DUMP[keys[i]]["size"] / (1024*1024))
         else:
-            entry["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
+            entry_output["size"] = "%.2f GiB" % (DUMP[keys[i]]["size"] / (1024*1024*1024))
+        
         if (isOunce == False):
             new_file = open("output/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
-        else: new_file = open("output2/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
-        json.dump(entry, new_file, indent="\t", ensure_ascii=True)
+        else: 
+            new_file = open("output2/titleid/%s.json" % entry_id, "w", encoding="UTF-8")
+        json.dump(entry_output, new_file, indent="\t", ensure_ascii=True)
         new_file.close()
 
 
@@ -159,17 +179,35 @@ for i in range(len(missing_games)):
         LIST[titleid] = DUMP["name"]
     else:
         LIST[titleid] = [DUMP["name"]]
-    entry = {}
-    entry["bannerUrl"] = DUMP["bannerUrl"]
-    entry["iconUrl"] = DUMP["iconUrl"]
-    entry["publisher"] = DUMP["publisher"]
-    entry["screenshots"] = DUMP["screenshots"]
-    entry["releaseDate"] = DUMP["releaseDate"]
+    
+    # 处理缺失游戏的数据提取
+    entry_output = {}
+    entry_output["bannerUrl"] = DUMP.get("bannerUrl", "")
+    entry_output["iconUrl"] = DUMP.get("iconUrl", "")
+    entry_output["publisher"] = DUMP.get("publisher", "")
+    entry_output["screenshots"] = DUMP.get("screenshots", [])
+    entry_output["releaseDate"] = DUMP.get("releaseDate", "")
+    
+    # 提取新增的字段
+    entry_output["category"] = DUMP.get("category", [])
+    entry_output["intro"] = DUMP.get("intro", DUMP.get("description", ""))
+    entry_output["languages"] = DUMP.get("languages", [])
+    entry_output["numberOfPlayers"] = DUMP.get("numberOfPlayers", 1)
+    
     if (("size" not in DUMP.keys()) or (DUMP["size"] == 0) or (DUMP["size"] == None)):
-        entry["size"] = "Unknown"
-    else: entry["size"] = DUMP["size"]
+        entry_output["size"] = "Unknown"
+    else: 
+        # 如果size是数字，转换为合适的格式
+        if isinstance(DUMP["size"], (int, float)):
+            if DUMP["size"] < 1024*1024*1024:
+                entry_output["size"] = "%.0f MiB" % (DUMP["size"] / (1024*1024))
+            else:
+                entry_output["size"] = "%.2f GiB" % (DUMP["size"] / (1024*1024*1024))
+        else:
+            entry_output["size"] = DUMP["size"]
+    
     new_file = open("output/titleid/%s.json" % titleid, "w", encoding="UTF-8")
-    json.dump(entry, new_file, indent="\t", ensure_ascii=True)
+    json.dump(entry_output, new_file, indent="\t", ensure_ascii=True)
     new_file.close()
 
 print("                        ")
@@ -195,4 +233,3 @@ new_file.close()
 with lzma.open("output2/main_regions.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2_REGIONS, ensure_ascii=False).encode("UTF-8"))
 print("Done.")
-
