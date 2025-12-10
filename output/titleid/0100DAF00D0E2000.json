@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/903bb404bb9d36395c302b549f3e9d6677242ccb04fdb8943727d2aed99224a4.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Person of European Heritage #112: Welcome to Relocation Block B, your new home. Your designated role is 'Bouncer'. Work hard, stay out of trouble, and we might let you stay in the UK.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

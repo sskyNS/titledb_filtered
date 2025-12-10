@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b8c75a22180d7caa5a00e555aa415567defdbc17d5a5594a0e11a4440c9a40a.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "SNOW MADNESS is an arcade game developed by Erik Games. \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "148 MiB"
 }

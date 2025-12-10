@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f00cf4e7a050a74b2f9b4df2a8b3e580f7f70c93e0beed6d9b5a2e9fc7f53bfd.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The band is in town, and it\u2019s time for some fun!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/75fb91b0717be2aeba8575385db5ac66c95ac9d2bde03303571dfbaed3235a29.jpg"
 	],
 	"releaseDate": 20250423,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Play upgraded, more difficult versions of familiar minigames to your heart's content! Are you up to the challenge? Are you ready...for THOSE GAMES EXTREME?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "566 MiB"
 }

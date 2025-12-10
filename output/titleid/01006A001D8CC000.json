@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/50a28cc2fb758a29884be49aa74cfad42adc3208058c1f10f079b1e499cef496.jpg"
 	],
 	"releaseDate": 20240101,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Embark on an exhilarating lunar mission where precision and finesse are your keys to success. Your spacecraft is equipped with limited fuel, and your mission is to land safely on the lunar surface to score points. But beware, the lunar gravity is tricky, and a misstep can cost you precious fuel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

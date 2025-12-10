@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbaa232f25a1d3027828d78da363785dadc3bffc9f2ea8464dbf127a6380587a.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Get your inner Sherlock ready for a little mind training!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.41 GiB"
 }

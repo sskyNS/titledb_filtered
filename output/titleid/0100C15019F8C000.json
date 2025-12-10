@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1f1484928da0ceba25cd92d73874117ba481efab2d5ad592d59ee19a719c1c4.jpg"
 	],
 	"releaseDate": 20221223,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Truck Simulator 3 is a game that presents a unique driving challenge! Can you efficiently drive a vehicle that at first glance seems impossible to control?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "592 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7345cbd206b7fd122fe757a710edb36c8bf7cef108e70044fae2f512bba9c0c0.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Caligo is a small atmospheric walking simulator. It's an interactive story where you mainly have to look and listen.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.10 GiB"
 }

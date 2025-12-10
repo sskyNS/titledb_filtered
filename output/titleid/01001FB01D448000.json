@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bf676e7289d8859b11f32fbc3f9a99cefbf3b4abffd2ca9028ded1777fad4d2.jpg"
 	],
 	"releaseDate": 20240111,
+	"category": [
+		"RPG",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Alien monsters have invaded Earth! It's up to the Star Guardians, a dysfunctional group of heroines, to protect the planet and awkwardly save the day (yet again)!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

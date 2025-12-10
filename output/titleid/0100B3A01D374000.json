@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e20f9033f7ee6294cec4b39028cdb21a740b0f5ca8d07438ff8e1bdf6f14e05f.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Murder mystery at the annual Venice Masquerade. Can you solve it?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "801 MiB"
 }

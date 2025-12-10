@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca005d0f3b9250b9a02f7eb838577039fdc37b5e7c5f1745f2ed2061a0bee9e9.jpg"
 	],
 	"releaseDate": 20201016,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Murder, mystery, puzzles and cats.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

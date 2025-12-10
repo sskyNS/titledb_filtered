@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc847c649e4a439fa773c54ec6254b1a1d06948eda82488f8d9f318ff712ffb8.jpg"
 	],
 	"releaseDate": 20210813,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "It's like writing with a pen on paper.\nand the ease of playing the game.\nCustomizable Sudoku",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

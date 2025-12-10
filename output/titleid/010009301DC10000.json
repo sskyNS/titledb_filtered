@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5daaf92c416a5ad39e99e0c2a601ae13ed91545b3535b7338b8c8d22b9a1b20c.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Action",
+		"Simulation",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Welcome to a magical, flour-filled world!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

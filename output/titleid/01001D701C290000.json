@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a58faa3facc415aa337ebadb516be62002b91e229a5c9515e0c2a2e16c22c45.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Seek vengeance on the gray squirrel in this retro-inspired Beat 'em up!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc2e56c6207f0ec315a6d42a38c527a019f9829ed3695e07d17eaab3c1dad531.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u4eca\u306b\u3082\u5d29\u308c\u305d\u3046\u306a\u6697\u3044\u6821\u820e\u3002\n\u898b\u899a\u3048\u306e\u3042\u308b\u8ab0\u304b\u304c\u3001\u541b\u3092\u6bba\u305d\u3046\u3068\u5f8c\u3092\u8ffd\u3063\u3066\u304f\u308b\uff65\uff65\uff65\uff01\n\u97d3\u56fd\u30a4\u30f3\u30c7\u30a3\u30fc\u30ba\u30fb\u30af\u30e9\u30c3\u30b7\u30c3\u30af\u30db\u30e9\u30fc\u306e\u4e16\u754c\u3092\u63a2\u7d22\u3057\u3088\u3046\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

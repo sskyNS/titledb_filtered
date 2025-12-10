@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/796c5bfa16be677e9c247dcf6c557cb95e4ac2bac1518d579a087586e5815c8d.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Turn-based RPG, inspired by classic titles from the golden age of handheld gaming. But make no mistake: This ain't no f@#%ing kid's game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "549 MiB"
 }

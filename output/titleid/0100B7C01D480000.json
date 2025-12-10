@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a795924a85716e16b26ae7fe0361a90806845afc39b7df0cec8d23c2b2fc3c5.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Dive into a classic 3D platformer experience with Boti: Byteland Overclocked. Explore the stylized insides of a computer with Boti and save Byteland from an ominous threat. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.59 GiB"
 }

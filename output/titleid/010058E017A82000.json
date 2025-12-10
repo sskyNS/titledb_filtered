@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/237e17dc2a9505053c0dbd80446c73ab28b9e3fe984824a4a4fe8262f21b58df.jpg"
 	],
 	"releaseDate": 20231114,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Share the love and die trying!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "768 MiB"
 }

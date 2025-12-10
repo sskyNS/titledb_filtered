@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae2b79288ffb7db934fceb05fea840d935f801b64d16334474ffbcd5976c8cc4.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Save the animals from the darkness that has opened in the sky. Jump, shoot and dash through the mazes and levels and defeat the big bad from beyond.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

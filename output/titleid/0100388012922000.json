@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b9a81d5dfab1ba2b5da88b4482d74b73969f7705058bfd6f46c0417c0ee8a42.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "Feel the PURE SPEED at its best. Become a professional drag racer. Take part in underground races, outrun your racing rivals to win cash and new amazing cars. Tune your cars!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

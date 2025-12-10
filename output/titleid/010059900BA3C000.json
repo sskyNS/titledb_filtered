@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8b49cffc7205723c8ebdee0bc9f76566c261cfad208184bc9b0776f2efb7a3d.jpg"
 	],
 	"releaseDate": 20190327,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Embark on a journey across fantastical sky islands and discover their secrets.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.64 GiB"
 }

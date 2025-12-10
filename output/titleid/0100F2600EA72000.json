@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/151754d4fa6a7edb6d3e7c60bed8fc1063ac0b1844c93cd641a789b4d4cac3cc.jpg"
 	],
 	"releaseDate": 20191015,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "No gears, no glory! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.33 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee82d0a3d069e1948d5902681a814fb572e7ea3defe183f955ff865ccad7aa5e.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u88c5\u5099\u3092\u6574\u3048\u3001\u77f3\u3092\u98df\u3079\u3001\u30d0\u30ca\u30ca\u30d6\u30fc\u30e1\u30e9\u30f3\u3092\u6295\u3052\u3066\u3001\u5de8\u5927\u30dd\u30c6\u30c8\u3068\u6226\u3044\u3001\u9b54\u6cd5\u72ac\u3092\u6551\u3048\uff01 1\uff5e4\u4eba\u306e\u30ed\u30fc\u30ab\u30eb\u5354\u529b\u30a2\u30af\u30b7\u30e7\u30f3RPG\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.28 GiB"
 }

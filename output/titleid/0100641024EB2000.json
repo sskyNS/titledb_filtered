@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9ff31d772416258c4c45e535d7b13428baafcdb3ed2d439ed185d05f5437de5.jpg"
 	],
 	"releaseDate": 20250924,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Get ready to stretch your brain and your belly \u2014 the cutest ramen puzzler is piping hot!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "412 MiB"
 }

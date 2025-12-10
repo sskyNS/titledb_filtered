@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/88d34c0116cde8b3dd930f5f050acb846d5797ecf54a71d8efa6a5ea87930998.jpg"
 	],
 	"releaseDate": 20240614,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Revenge Awaits ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "13.98 GiB"
 }

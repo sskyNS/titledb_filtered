@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e091aa1ad4bae384c8ff0f26f32f661cf26e16b2cd68998934ce07a428ce1adf.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Monsters and Zombies from all the world are trying to steal the gift packages, they want it all and they want it now. But Santa has guns, big guns!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

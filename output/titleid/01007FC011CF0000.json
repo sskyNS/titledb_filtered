@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d16a44f895b58272e42b86801f4d071e411ac7d60c032d532a68a92ed318978a.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Squish 'em and send 'em flying! Use the plates to deal with those pesky bugs!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "38 MiB"
 }

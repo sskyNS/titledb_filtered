@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f77fe58bdd32b086b3d168795bb0d30c2a88caa65ccd14a0d1254bd88d1086d.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Make your way through a vast world to unravel the secrets of your past in this fast-paced action adventure game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

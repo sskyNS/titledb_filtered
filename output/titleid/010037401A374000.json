@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/53c9634e69899b5097f65e2270f80fb3d7422d900a06ac50157e56eb7742edd4.jpg"
 	],
 	"releaseDate": 20231103,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "All-Star Cast, All-Star Fun!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.55 GiB"
 }

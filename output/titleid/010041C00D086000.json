@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfc248c5e4278a35d3918f122896580133e9bcb573eb4cfbca5d6059f6e479f8.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Ion Fury is a true old-school first-person shooter from legendary 3D Realms, publisher 1C Entertainment and indie studio Voidpoint, set in a cyberpunk metropole.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

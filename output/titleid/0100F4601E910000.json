@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb2688e2ee182e5142fe9169a1d8a68951344290daa8d45b808349db41f46b6a.jpg"
 	],
 	"releaseDate": 20240326,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Explore, Inspect, Report: Master the Skills of a Restaurant Health Inspector.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

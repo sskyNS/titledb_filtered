@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/71a6027dd1160b6e5580fec396f8b59cb8676f8285484ee9c83da2594414ff61.jpg"
 	],
 	"releaseDate": 20180315,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Unmatched high-speed fighters fly on their advanced reciprocating planes to fight!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

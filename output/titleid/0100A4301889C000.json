@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f719efede34064b42368493fdceba34cf9c3d44735957acca566eebf454dc63c.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Escape from a creepy rehab center in Host 714",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

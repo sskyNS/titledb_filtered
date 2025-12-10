@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/52234ce8e33a0893a4df539b5eb942db4dc17b33ecd9c6b47ebb0f63b894c097.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "What would you do if you knew you would die today?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

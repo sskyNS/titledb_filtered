@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/47ef0ec87a03fad4a9e9685e2e0a725a8f4760fe6917ffce10f16f65d88ec6ad.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Platformer",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A unique platformer puzzle where you have to duplicate yourself to solve the puzzles and progress without your other self catching up with you!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

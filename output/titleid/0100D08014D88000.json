@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9ce8deef4ca70a135b12182af8a08d3699669108b19c4659afacb24d086572a.jpg"
 	],
 	"releaseDate": 20211105,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Tina \u2013 a nine-year-old orphan \u2013 lives with SAM-53 \u2013 her big clumsy robot guardian \u2013in a rooftop makeshift shelter in Neo-Berlin, a dark megalopolis controlled by corporation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.25 GiB"
 }

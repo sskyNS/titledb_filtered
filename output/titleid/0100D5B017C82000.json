@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6aec4b304941adc94afcddf7e4cc14bc7b2297335eacbe022104e28abec1624c.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Shoot your way to become the richest cowboy in the old wild west",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "40 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d531f58f786f2bb0f63335775ba0d2cee44d15091342c580ee3d7cf82a31d1f.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Retro roguelite FPS chaos with Survivors-like combat action.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "558 MiB"
 }

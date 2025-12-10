@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c62967d207c9e27f23a69d13440a0d3904d3c692afacef558d08bd20e0062e2.jpg"
 	],
 	"releaseDate": 20210118,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Spinny's Journey is a challenging 2D action-puzzle game. Help Spinny to find his way through mazes, dodge traps and repair his spaceship to get back home.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

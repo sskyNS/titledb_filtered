@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3851031d167212ca1eb64dfcd8bf7758590160d783a19e34f717339b5bd9e1d5.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Will you be able to overcome all obstacles? Challenges and overcoming await you in this game, try to win in all 4 modes and be the CHAMPION OF CAOS!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

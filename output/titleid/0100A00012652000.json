@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e4194175142ad3dc8628cf3db68dbeb9d9d65fc153fbd13d2727252e884fdc1.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "You are about to be a part of an adventure of the Dark Age. Follow Rick in his damned path of vengeance and help him to redeem his soul.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

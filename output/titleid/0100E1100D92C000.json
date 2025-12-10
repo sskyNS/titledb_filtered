@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/15d2e6dca769557a71f17f0e984b2143c4c721e191aa00f177d8cf94d5b246af.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Study",
+		"Education"
+	],
+	"intro": "\u0410n indirect-control tile-twisting puzzled adventure ...with traps!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "436 MiB"
 }

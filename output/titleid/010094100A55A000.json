@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee3aa23800ec41376b78976a42225d2b2e265774807950ccb5e2e95becbe76ee.jpg"
 	],
 	"releaseDate": 20201012,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Freshly Blossomed Fantasy Action Puzzle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

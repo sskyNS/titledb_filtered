@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/be9bf7b36b3c04e27ddefb7003e962d985f90be59200eee94ab1666d3ed7b3e7.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Action",
+		"Other"
+	],
+	"intro": "A non-linear, dark first person adventure game with horror, rogue-like elements and 5 endings. Inspired by the works of Lovecraft, Poe and King, Procedurally generated user path.",
+	"languages": [
+		"en",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.43 GiB"
 }

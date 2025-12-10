@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/880429072a0163f7557cb9fa7311d0db1a55fb276dfcac0f73493fd313dc88ff.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Lifestyle",
+		"Board Game"
+	],
+	"intro": "Brain Workout. Daily.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

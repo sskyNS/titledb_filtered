@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/00e50807a0c9edf9e61c110a697084023bdb1cfb802b7b0b1879f9a8ea1f4f2d.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Cult of the Lamb casts players in the role of a possessed lamb saved from annihilation by an ominous stranger, and must repay their debt by building a loyal following in his name.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.87 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ded9cba89cc39a871be69fbd873c5bad23d19231054323785e032287b5feb45c.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "In a world where all colors have been stolen by a villain,\na child, who has been abandoned by the world,\nrealizes that their unique ability\u2014the power of the paint emanating from their feet\u2014can defeat this villain.\nJoin this child on an epic journey to confront the villain,\nretrieve the stolen colors, and restore beauty to the world once again!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "820 MiB"
 }

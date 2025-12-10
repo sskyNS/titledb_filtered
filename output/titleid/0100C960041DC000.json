@@ -8,5 +8,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0879722f0a7e92fc52d797c0bcbaaac2815b895e9be83fd7427ee3b17cc9a582.jpg"
 	],
 	"releaseDate": 20170713,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Board Game",
+		"Other"
+	],
+	"intro": "It's easy, but it's difficult. It's simple, but it has depth.\nA puzzle game that you'll get so hooked on, you'll lose sleep.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

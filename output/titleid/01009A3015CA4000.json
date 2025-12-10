@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/14e7b261ca3b525d4e366329ae978ad6def42d5acdd211345f2cdbd0f49e01ea.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A first arcade 3D parkour collectathon with a giraffe!  ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.07 GiB"
 }

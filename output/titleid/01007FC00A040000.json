@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/248903d1659b1ddf3536a5f49502a98f11747f29b09424758a0070db4f5ad2fa.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "A collection of popular party and arcade games.\nSet in an immersive arcade environment with multiplayer support for 1 - 4 players on local networks or online.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1004 MiB"
 }

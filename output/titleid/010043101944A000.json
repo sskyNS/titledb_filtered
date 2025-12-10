@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b350d82389fdd19a4cf03a0bd69d2369656271589f9d26346398999db9aedf3.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Find the essence of life in a fantasy RPG from the Alphadia series!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

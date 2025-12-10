@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a8ae20009d7018f8ff23d6539c9a1ae6ca41cd7039af0524b7e1f6ec6f8cd4f.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Either stop early and return to calm, or go all out and transform into a demon",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.43 GiB"
 }

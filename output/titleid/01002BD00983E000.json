@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd05852fcbf4318689bae04752332352f7d550d6b5f86df500c77a908e3cd22a.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Other",
+		"Adventure",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A branching folktale adventure game about the misadventures of a trio of large, bearded fishermen.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

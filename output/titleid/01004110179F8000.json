@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18f19f4e6f5625e6e71b30a6b2ac8908f3348b3508e42b5e7e9f3dbdbd78afdf.jpg"
 	],
 	"releaseDate": 20220429,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Scavenge, fight, and loop through time to achieve your goal!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

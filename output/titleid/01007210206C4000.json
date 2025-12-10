@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b2f2d406ec6059b40df3a04e49e30989d5faa4d4b859578c3a7a91e1d82cd16.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Embark on a magical journey with Alice through the Wonderland labyrinths. Solve challenging mazes, explore unimaginable worlds",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

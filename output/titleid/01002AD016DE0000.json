@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e51ece04cdc74b0ec946d1d35ff7b7d69c89ebcf9602d9c20fcebfe032a4406a.jpg"
 	],
 	"releaseDate": 20211224,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Travel through alien planets, forgotten caves and old castles. Collect powerful, toxic drinks to get those special powers and be the strongest bounty hunter. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.25 GiB"
 }

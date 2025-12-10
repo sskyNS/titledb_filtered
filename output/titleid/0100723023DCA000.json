@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d479a447cd6dec1657dac45f043b3346d7a46ae21f9f71d9a4f7266cb22b9bba.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Wreak havoc as the naughtiest cat in town!\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

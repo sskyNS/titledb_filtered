@@ -4,5 +4,17 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20180913,
+	"category": [
+		"\uc2dc\ubbac\ub808\uc774\uc158",
+		"RPG",
+		"\uc804\ub7b5",
+		"\uc561\uc158"
+	],
+	"intro": "\ud639\ud55c\uc758 \ub545\uc5d0\uc11c\uc758 \uc804\ud22c\ub294 \ub728\uac70\uc6b4 \uc6b0\uc815\uc758 \uc774\uc57c\uae30\uc600\ub2e4.",
+	"languages": [
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.41 GiB"
 }

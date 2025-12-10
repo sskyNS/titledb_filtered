@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7745f1a54a5fa5581be2b3af07c3c00f1dce2193014462550b04339f0f8b47b5.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Racing"
+	],
+	"intro": "Race, stunt, and dominate in the ultimate dirt bike challenge!\nMaster extreme parkour-inspired tracks and become the champion.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

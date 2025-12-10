@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e418963e3262260cffc853ef01b0a6a9b2e354b4ecc29d792d141de30ee3a18a.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Where do you want to die?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

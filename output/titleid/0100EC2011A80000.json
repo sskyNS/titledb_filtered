@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/25ac9f8d4379715ad059bed08e1b2023337c43bdf961f013913ff45b80db88f9.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In LUXAR, you control an alien luminescent organic entity that has just been born and must pass its first survival trials to show its adult peers that it deserves to grow among them. It will have to cross 16 dark and hostile sectors with labyrinth-shaped alien architectures populated by toxic substances, obstacles, patrol drones and mechanisms of all kinds.\n\nYou are its only chance to make it happen...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/13d988e3b474b53b431da0093af458b9bdcef56ce8a0994430ecaafc4cb3e223.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Research into the causes of the mysterious epidemic will have rather unpredictable consequences\u2026",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

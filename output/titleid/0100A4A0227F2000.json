@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ff77a8e7deba472cd3c287a5641fa7e50cecbda69df8cace884095a11ebbe38.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Board Game",
+		"Practical"
+	],
+	"intro": "The legendary \"TONGTONG\" returns!\nA fun animal matching game anyone can understand instantly!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

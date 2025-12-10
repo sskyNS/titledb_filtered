@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/928227cce1a40e4e06352b4deed6b3d54b2bbbf45160b3eacf548afbd8bc4081.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A whimsical romantic comedy centered around the Maid Club!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

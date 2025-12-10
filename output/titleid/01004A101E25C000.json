@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0889a5571e16ed1bcd9fce1d27990e5223f23e48bdeb56b9ceea24c2b49c1653.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's time for a taiyaki-making challenge!\nCan you master this traditional Japanese sweet?\nMake as many as you can!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "312 MiB"
 }

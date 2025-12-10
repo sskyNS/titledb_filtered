@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfa610b7e122433e57596a1413a227a42b442289cfb401d73d42e859d010125c.jpg"
 	],
 	"releaseDate": 20211110,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Join the battles that changed the world in this Arcade Shooter Game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "86 MiB"
 }

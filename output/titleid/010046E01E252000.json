@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5182b1f3b12a3b4a4dbd856f6d39ab2a3ef7f41d47a7fb5c566531b0713cf72d.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Originally created as part of The Dread X Collection II, Squirrel Stapler is a short (less than an hour long) horror hunting simulator that satirizes low budget edutainment games with pitch black humor and panic-inducing absurdist horror.\n\nA lonely man living in a remote cabin wakes up one day and realizes his beloved--a dismembered corpse nailed to the cabin wall--has been made ugly and rotten by the flies that swarm her. He wishes she were beautiful, like the squirrels of the wood. And so he sets out to hunt the squirrels of the wood, so that he might staple them to her and make her beautiful again.\n\nBut that is easier said than done. A sinister presence lurks in the deep forest, and it has only one rule: \"Thou shalt not staple squirrels!\"",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

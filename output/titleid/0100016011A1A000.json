@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e643e9f9025940c9d600cd758c7fed41696de18e1f9b3e1bd30ffbbce9ee177e.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Sail the Mediterranean with cruise ships, gigantic cargo ships and oil tankers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

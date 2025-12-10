@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d3e521141694a6ad4b56dea4e51c6d03cd130041a19a0c87d51132c0fb3d22e.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Lead your own DnD-like adventuring party on an epic adventure narrated by Laura Bailey. ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.59 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5aaad9ebd1d29ff138a32d792bf4cc69b86e6f1f91f53c44d3d2f1dc7cf360be.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Someone\u2019s getting River City\u2019s biggest beatdown when these girls find whoever nabbed their boyfriends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.81 GiB"
 }

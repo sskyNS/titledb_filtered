@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/88d1bdb8164dfb07af56935787ce806f0767ec5cef7d559f09e62876a3570654.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "The most exciting sausage race in the world!\nLet the bodies hit the floor in a ketchup bath!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "957 MiB"
 }

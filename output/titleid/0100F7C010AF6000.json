@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9ec15440e555831e9f790c428d8d7d8b93d7804e054c4caf770b63b08fe3bb4.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Rock and Roll.  \n\nSpin and smash through the colorful, chaotic worlds of Tin & Kuna. Explore levels filled with puzzles and peril. As Kuna collects power crystals, he obtains special abilities; jumping higher, catching fire, and attaching to magnetic objects to rescue Tin. Use all your skills and abilities to bring the world into balance and defeat Chaos!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.44 GiB"
 }

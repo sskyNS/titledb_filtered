@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/db099c9727fc2399d2fe75d5e12c836fb208160eaa58048fd1c0cfb398b9a0e4.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Lead a space agency from the dawn of the Space Age to landing humans on Mars in this strategy simulation game.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.57 GiB"
 }

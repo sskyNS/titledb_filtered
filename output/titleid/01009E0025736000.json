@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e293114bf4072b1a765caa4d35196575261728d99bedae93a7ebebb1da54f40a.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "\u201cFunimal\u201d is a turn-based sliding puzzle\n that you move the ground to lead Funimal and\n < you can always clear in 5 moves or fewer! >",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "886 MiB"
 }

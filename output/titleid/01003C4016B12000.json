@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/57c5fd18fa6404de4cc0750f29d60a7f521faf939b4ecc43012ce5c8c8d0fb44.jpg"
 	],
 	"releaseDate": 20220324,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Discover your inner fire!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

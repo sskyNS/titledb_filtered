@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b61bf53ae876913d4a3140f1c768bb6f8e27265cbabe3e4e9826bbeeb3791065.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Inspired by the old-style isometric arcade racing games, an insane journey through one unknown solar system and facing the most amazing racers in the galaxy.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.12 GiB"
 }

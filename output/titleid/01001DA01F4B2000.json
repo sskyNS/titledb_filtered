@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d2bc87192b631115bd4bbe2dfc4a1a92f64be4a6051f994b3e2f4f5bab1017e.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Become the best bus driver in the world!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

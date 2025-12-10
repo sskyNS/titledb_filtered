@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/529ffb27bd18e3aaebffdd5a0b2934b6297d7bb99751b5633fe8798df87ee086.jpg"
 	],
 	"releaseDate": 20210127,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Dodge and blast your way through a parody-filled shmup as Swagthulhu!",
+	"languages": [
+		"ja",
+		"en",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

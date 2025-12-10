@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f30a23fdd5b3941d50f6c609e994ae4793f318d875230fb672e6843772c476f.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Racing",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Challenge Accepted\u2122, Gear Selected!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.28 GiB"
 }

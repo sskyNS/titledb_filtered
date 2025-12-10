@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6fe632616a96fb854c5b0246d1b3f48740bea8b33e7d3449da636d65f5f3ed2e.jpg"
 	],
 	"releaseDate": 20250521,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Communication"
+	],
+	"intro": "Another Life Awaits in this Fantasy World!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.59 GiB"
 }

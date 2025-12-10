@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc3a14fb35ffda3a9a5166a9bc70973049e9c26f3f50c85c015a457a8ebfde64.jpg"
 	],
 	"releaseDate": 20220222,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Follow your Ego, control the madness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.96 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f7fafa0d01223b733884e3d472e0d28380151981ebdfa31abdba4a7eb7ab5d3.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "  a a a a a a a a a a\na                            a\na                            a\na                            a\na                            a         a a\na                            a\n  a a a a a a a a a a     a a\n\nis a 2D-Platformer.\n\nFeatures:\n- Fast paced platforming gameplay\n- Top-down Overworld",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "604 MiB"
 }

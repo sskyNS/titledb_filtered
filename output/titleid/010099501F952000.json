@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a155aba6c1193672ddc2e814b2615323536e3a430c302cde1439e64f23bb0dca.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A happy life of living together. I thought it was going well all this time.\nLet's start over. Let's go back to six months ago...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/83daab9b151e0c9f5299b2dbfefcca16c9d8dbf85b75bec678ff1b69a729ecf2.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "The classic \"roguelike platformer\" that paved the way for other roguelike-inspired indie titles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "275 MiB"
 }

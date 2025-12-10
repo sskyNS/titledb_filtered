@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8511e3161791989b923f342132481b6fef93c8aeda28276023da6176341a82d5.jpg"
 	],
 	"releaseDate": 20251111,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Marbles and Checkers need your help finding their way home after being swept away in a storm. In this 90s buddy-platformer there's a ton of stuff to do and even more to collect!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "309 MiB"
 }

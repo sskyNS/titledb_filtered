@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/88ad2a61e5bc9245da71a2828bee385704938c6366c109a46b4c1fc6cef777ac.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Party",
+		"Shooter"
+	],
+	"intro": "An intense game of ricochet duels",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "118 MiB"
 }

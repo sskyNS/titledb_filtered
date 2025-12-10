@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/563908668ef31c61a575b5968dc6167226664f03308ebb781487db2a992256a3.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Garage Mechanic Simulator lets you live the life of a car dealer! Build a car trading business from scratch and expand into a real empire.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "92 MiB"
 }

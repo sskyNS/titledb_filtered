@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/48051fe525a9da2b8acfbb3cd7631c14afc583b2194f12c8d00108a92c1070b3.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Sports",
+		"Racing",
+		"Lifestyle",
+		"Action"
+	],
+	"intro": "Pure Flow and Adrenaline!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "539 MiB"
 }

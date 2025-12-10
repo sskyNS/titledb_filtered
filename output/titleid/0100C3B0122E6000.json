@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/97bf050fb39baa325a2f5205ead646dba365b574b016c72337c24bf4f27a77cc.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "~ FoxyLand + FoxyLand 2 ~",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "46 MiB"
 }

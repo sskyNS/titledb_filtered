@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95a72e10a3286a526fbcc7807292c9835084fbf759fa556b0d8770b9627554d4.jpg"
 	],
 	"releaseDate": 20251129,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Training"
+	],
+	"intro": "Build, expand and shape a glorious ancient empire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "729 MiB"
 }

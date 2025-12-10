@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/75895f607d0461605d59967c06f6948ccbb268b561a2c6b4f1567ba48ac14bf8.jpg"
 	],
 	"releaseDate": 20190422,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "\nRobox is an easy to play fast action, fierce fighting game, with breathtaking graphics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "588 MiB"
 }

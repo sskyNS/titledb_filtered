@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9db1d1f0c40d9d99e9568d228db7f810966f8fa397d7d8f522ebdc50bb3938b7.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Change forms, combine abilities, save the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "983 MiB"
 }

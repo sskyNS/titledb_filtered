@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2bcab586d3e4438d10cd85c356d1a07fb040766c99609df4c7c153fd49a372bf.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The high-speed platforming of Freedom Planet returns with new features and more ways to play! Become a full-time heroine to defend the world of Avalice!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

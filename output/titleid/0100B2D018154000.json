@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e14c1d51e3a53cbc99331c4f74e7d182bc1592f40bb87a58c3a5b85abeacd293.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Action",
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Every war has its heroes...Some heroes become legends.",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "657 MiB"
 }

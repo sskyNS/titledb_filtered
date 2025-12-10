@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d60fb2fbff5e3abfba3e2e53f08cd9e1d904cd6ec605eb098895604097e8b729.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Star in a hilarious adventure alongside your family and friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.05 GiB"
 }

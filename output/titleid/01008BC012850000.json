@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c1a39df227ee7070df796cda4f6e12c044ccba469ce263b4456df2866f56e0.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The craziest arkanoid. Everyone has a normal job, and we have houses with ghosts. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "453 MiB"
 }

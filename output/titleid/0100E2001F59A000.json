@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/43dfec87c29e674cdf2a37daed1e664c9f2136197334572e2af3f1f7037ed869.jpg"
 	],
 	"releaseDate": 20241223,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Take care of sick zoo animals!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "926 MiB"
 }

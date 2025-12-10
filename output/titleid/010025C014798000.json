@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b36449c9e80eab68f2140f16c2aa887ecc3557915f3e9ce14ef974a2a4a3dbef.jpg"
 	],
 	"releaseDate": 20210512,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Journey into the Stone Age and face the most challenging task of this era: The search for fire!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "2.39 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/377cf649221d7cc37fbc12f550b112907856eac463d3a4048d21de916d3d6764.jpg"
 	],
 	"releaseDate": 20220123,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Study",
+		"Training"
+	],
+	"intro": "Realistic car parking simulator where you have to park different cars with highest precision!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

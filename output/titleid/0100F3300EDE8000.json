@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f474cb1abc1f4f3167e7ffa41fd6276d85418c01b38c301d72ec4d908755b7c0.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Take control of your team and battle against your opposition in some of the wackiest games of 5-a-side action ever!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "562 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b073a2e0904bfd55d7e906de5587ede913ac847924e0227c7a960bed4d0b0461.jpg"
 	],
 	"releaseDate": 20240506,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Farmyard Frenzy: Gather, Dodge, and Win!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

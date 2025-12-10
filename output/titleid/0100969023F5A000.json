@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/336526fc4b6282982fc4069b005264d43c3cf65e50b57d3a5df5f5701b629ec6.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Three absurd retro puzzle games starring Grunio the food-loving guinea pig!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

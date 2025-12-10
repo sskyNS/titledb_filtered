@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bac25a534ed8d1851fd0b7c448fac9dece79c6cbf7ff1caeeef7921df23734d4.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Music",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Rolling Sky 2 is a Running Game that combines music and story.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

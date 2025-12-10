@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bdcf1c4b5833ad943c7c52aee434c844ab44b88c224d1796b5b3fa36c45b0f6.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A love and suspense story set in a city by the Yangtze River, where players must uncover the truth behind Mystery and make choices between two girls.",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.51 GiB"
 }

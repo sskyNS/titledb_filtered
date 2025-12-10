@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d39f6726f1a189beb5ca220c123a8990c6c4abea255f9ac68f70d1e0396f11a.jpg"
 	],
 	"releaseDate": 20200623,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Is that a Duke in your pocket, or are you just happy to see me?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "610 MiB"
 }

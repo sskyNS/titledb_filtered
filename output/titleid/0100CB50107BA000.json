@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a972ca2961dc9124683360137d75dca2727cb3c57c5a5966ade422d6833e95d8.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.83 GiB"
 }

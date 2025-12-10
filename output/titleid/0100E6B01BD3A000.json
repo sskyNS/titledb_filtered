@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/759c345dadb1adb421a3ab40c4fabf80068f6044a5fa174ceb9ca061f727eb45.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "\"Glitch\" your way to victory!\nA card-battling RPG adventure through the eras of gaming!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.46 GiB"
 }

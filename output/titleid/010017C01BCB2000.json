@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bc8dd3172d18588ca6a64d77801b3ec605e823b2e30ee25cc8704f3f829e44b.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "You are Father Karras, the only one who can enter the hell castle and defeat the dark army and its demonic creations. Explore every corner of the castle and get all kinds of items.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

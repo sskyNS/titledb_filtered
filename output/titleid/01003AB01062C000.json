@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1bae980b2f8a8c4d8bcb29d810c7b0bcaa2bc57bc59fc7ff52e49b1d5f567b5.jpg"
 	],
 	"releaseDate": 20200907,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Shaolin vs Wutang is a 1 on 1 INDIE CASUAL combat game featuring hand to hand and weapon combat, great music and inspired graphics. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.21 GiB"
 }

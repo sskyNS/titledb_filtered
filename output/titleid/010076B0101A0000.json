@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a54ab241874d48039db5a61a0b6adeeb91f6bb03c2b3c5aaa4c482c85253e2b.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "In this 2D platformer adventure, follow Yui's journey into the past as she navigates parallel timelines to save her family and a world trapped in the Never-ending Night.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

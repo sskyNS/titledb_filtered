@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/34b12ad598231a79237402be9d9771b93c9d20dd54bebc8d7c5fa7abd1b004e7.jpg"
 	],
 	"releaseDate": 20210605,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"First-Person Shooter",
+		"Platformer"
+	],
+	"intro": "A first person photography game set during a crisis event",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3d7b0c725eef3e68e7e561fabbffbc7b6349ffdf60c3a46a48ce18f71d6c1d7.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Slugs are SLOW, but not this slug!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "724 MiB"
 }

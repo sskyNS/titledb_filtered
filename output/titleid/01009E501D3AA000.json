@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/169719c37850ef361737056ef64e589403dda78f637b24c12d3433beddcfefca.jpg"
 	],
 	"releaseDate": 20231216,
+	"category": [
+		"Adventure",
+		"Other",
+		"Action"
+	],
+	"intro": "story mode and survival mode",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7522eeae5c9401088490a264ccaeda1447c6c9492997f7a1b1b0e8ec3ec789e9.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Five young people unleash dark secrets through a Ouija board, challenging their perception of reality and blurring the line between legends and fiction. ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "457 MiB"
 }

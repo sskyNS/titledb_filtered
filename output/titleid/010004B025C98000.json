@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/29c5e6eed462e806ea6945176c479a8d46e4d8485c590c5ff2f3ee823fe7431d.jpg"
 	],
 	"releaseDate": 20251206,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other",
+		"Adventure"
+	],
+	"intro": "Explore the depths of an underground facility, facing deadly dinosaurs and uncovering an intriguing story. Find and utilise a variety of weapons along the way to aid your survival.",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

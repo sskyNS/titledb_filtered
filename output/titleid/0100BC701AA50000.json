@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1738c2ed1ac5689c15d18de01d6e21142b84f247b1be1fba247e7f05d37b9888.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A story of three girls and one season in the snowy town of Minamiouse.",
+	"languages": [
+		"ja",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.28 GiB"
 }

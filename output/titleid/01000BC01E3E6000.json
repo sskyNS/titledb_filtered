@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/73d4ef2a3e058582e850d257b5030c37f88727e950b33ccfdeea72b417882e2f.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Are you ready for a totally spy-tacular challenge? It's time to make the world safe again!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.90 GiB"
 }

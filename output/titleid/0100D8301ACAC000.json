@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fde5e9915152cb9b6259d61dc458c2caf904158fee0824dfc81a8a9f64181631.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Race for Treasures in a Moving Maze!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "683 MiB"
 }

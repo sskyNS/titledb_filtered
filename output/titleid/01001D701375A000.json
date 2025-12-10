@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/367f7a3447d7ed0b323eda4f46b432768335981bcc29e02fc658ff407427938e.jpg"
 	],
 	"releaseDate": 20220219,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Party",
+		"Action"
+	],
+	"intro": "Casual puzzles meet big adventures, whether alone or with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.16 GiB"
 }

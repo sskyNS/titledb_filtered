@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/60d74e52acaa2180d1f13c01c0bc4032c96752db72da5ab3cae5aba38fcaa689.jpg"
 	],
 	"releaseDate": 20220324,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Nanaru - the baker girl vs. Yako - the devil!\nHelp sweet Nanaru save her bread \nand her town from Yako!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "306 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/30f13be707df50f2b6aaaa81b99cf5d90ee1ff82b6b2d5b1c1e5513467557e52.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Try your hand at managing an auto racing team!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

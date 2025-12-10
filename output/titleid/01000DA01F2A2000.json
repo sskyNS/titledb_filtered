@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef3ead3d2d48b6304f3a52b18f8b1e16fa52ba1e7d470daa06afe116fb562b03.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Action",
+		"Party",
+		"Arcade",
+		"Communication"
+	],
+	"intro": "It's time for a carnival game classic: goldfish scooping!\nScoop as many as you can and become a master!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "281 MiB"
 }

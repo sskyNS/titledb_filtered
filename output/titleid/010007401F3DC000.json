@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/38d05d855336890e7a65eda692d0f903e06547cb9f1ba1b610887b1ae623c9ba.jpg"
 	],
 	"releaseDate": 20240603,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "The stars are falling and something strange happened to the moon! Something's definitely going on. Only little Kittey can save Kitty Island, and maybe even the whole world.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "478 MiB"
 }

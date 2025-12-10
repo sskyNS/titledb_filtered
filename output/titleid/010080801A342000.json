@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c44acfbcc590a7b839d861bb886b8b58e0a8f365ed05813e213e0584b830299.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The tile-matching puzzle genre gets put through the meat grinder.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

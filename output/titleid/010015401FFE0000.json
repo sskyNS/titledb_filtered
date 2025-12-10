@@ -7,5 +7,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7f1da8fcac6a89be0fe56e0540ff010695df5946c87563c10814a32defe9fe7.jpg"
 	],
 	"releaseDate": 20241119,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Meet New Friends and explore all the New Lands\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

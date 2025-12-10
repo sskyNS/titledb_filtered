@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/421cf5229a2bdda1d549236e9601ba762c04af59f8ad2de6b244c2c59d0faead.jpg"
 	],
 	"releaseDate": 20210326,
+	"category": [
+		"Puzzle",
+		"Education"
+	],
+	"intro": "All-new cute animal puzzle game featuring over 80 adorable animals! Playful learning of animal names for Toddlers and Kids thanks to voice output in many different languages!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

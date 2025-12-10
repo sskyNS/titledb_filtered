@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8ac9cc076ebfa7111aa4f6efcdfec11294be54bc405e59f33e4d14db0aaa402.jpg"
 	],
 	"releaseDate": 20190326,
+	"category": [
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "From the creators of Puzzle Quest comes the ultimate evolution of the Puzzle-RPG-Strategy mashup, Gems of War!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

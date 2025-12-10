@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4bcd63217d2d2a84483575ed56731510700fdc410e81887ba152c5093422441.jpg"
 	],
 	"releaseDate": 20220427,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Unsouled is a 2D action RPG game requiring immense elaborate control. Take a break from repetitive attack and dodge action by challenging yourself with the world of Unsouled.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

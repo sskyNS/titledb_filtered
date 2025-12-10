@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3549c1d9269ef5010c51c25dc10c3bbef7266dc05ff35c8a1548e0238872fc86.jpg"
 	],
 	"releaseDate": 20200225,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Thomas the Allergic Mailman gather all his lost letters in this challenging and unique 2D platformer! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "703 MiB"
 }

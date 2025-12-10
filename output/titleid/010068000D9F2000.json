@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdccfeeb3e51f3e2b99232b9f79fdf393c5f45cf2b5c9780802ec4a2aef85255.jpg"
 	],
 	"releaseDate": 20210308,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "In Noble Armada: Lost Worlds, players take on the role of a noble in one of the five Royal houses, vying against rival fleets and houses for control of human space.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

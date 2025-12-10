@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd227127782f27d5dee50769ba932cc0cc0cddab5657d7e60224a290379a6921.jpg"
 	],
 	"releaseDate": 20210326,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Three friends. One Escape.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

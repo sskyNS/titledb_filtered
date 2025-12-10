@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2f9afac3b5b0fe144c267fa2d6de0bbb82c6be69c8336d56997d9f58d94ea4c.jpg"
 	],
 	"releaseDate": 20201225,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Take on the 2048 challenge alone or battle it out in a 1-vs-1 multiplayer mode with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "110 MiB"
 }

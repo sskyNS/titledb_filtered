@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c69b9d081ed8eaf90b7cd17e0e0aa5836f2c5c713a187b1f446db34b2b2b7b57.jpg"
 	],
 	"releaseDate": 20210115,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Help Megara free the hero and then accompany him in all of his adventures, including the forest of the Amazons and Mount Olympus in 12 Labours of Hercules III: Girl Power!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

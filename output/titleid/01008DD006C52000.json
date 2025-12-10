@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/45f9859f637046ed25a56e1dfafce22feeba462e5b1b850eb39a520a96be8a8f.jpg"
 	],
 	"releaseDate": 20180607,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The magic beckons you!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

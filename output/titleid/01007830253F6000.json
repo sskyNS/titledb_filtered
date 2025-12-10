@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2bb18aca7414015ec0ff6f063e3fa68555125c2c1a4b56f49736703bcb2a9533.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30ec\u30fc\u30b9",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "Ride Fast. Trick Hard. Stay Agile.\n\u30a2\u30eb\u30d7\u30b9\u3092\u5236\u8987\u305b\u3088\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "851 MiB"
 }

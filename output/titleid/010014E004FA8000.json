@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/46d70626d85075cbc8d1efe2ebc992b315a2de8afab3070a71b29c995f327860.jpg"
 	],
 	"releaseDate": 20171116,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "The beginning is now. Intense fighters have gathered under the legendary fighter K!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "112 MiB"
 }

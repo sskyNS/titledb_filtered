@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3eb97b8be0c7e6b2cc821a8f7f44cbc5842d17c7c289c62c086baff1df158f7.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Garlant: My Story is a pixel-style RPG that combines management, combat, and farming.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

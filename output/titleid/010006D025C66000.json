@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7918fd139b7e79e1fff1c59afbe9a82429a56361f53a4b8966f30f8905c45945.jpg"
 	],
 	"releaseDate": 20251119,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Practical",
+		"Lifestyle"
+	],
+	"intro": "Discover beauty, piece by piece.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

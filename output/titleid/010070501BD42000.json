@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1715253183a5d651b60e57ae12df405e3130b92ec64382598f724ad112b84e8b.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Mystic Academy is an escape room that will put your wizard skills to the test. Solve puzzles, decipher magical artifacts, learn new spells, and find hidden objects!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.40 GiB"
 }

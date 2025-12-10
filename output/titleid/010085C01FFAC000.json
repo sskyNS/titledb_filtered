@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9bb60173edf99c60dd1288f9c62ac304bb939318568753e5bc1a1550a1d04ff.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "A retro-inspired, action packed, twin-stick shooter full of bullets, blood and explosions.",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.96 GiB"
 }

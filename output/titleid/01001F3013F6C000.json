@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff22b9b53797295ef0e675d1738360c7516e0460e817e3e691c8781eaf39f2fc.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education",
+		"Training"
+	],
+	"intro": "Beautiful relaxing puzzler, challenge your color perception!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

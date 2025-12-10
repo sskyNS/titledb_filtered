@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/88315721b2483390f440805fb4d14bc64bfac2c3fa358468f11626d5dd5b704a.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Action",
+		"Music",
+		"Arcade"
+	],
+	"intro": "Temp Zero is a minimalist roguelike which mixes intense action and musical bullet hell.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "340 MiB"
 }

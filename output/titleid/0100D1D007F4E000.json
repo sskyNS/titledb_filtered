@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e2cb4431da35dfd58c5978316be6b922bb30e7d777a34c6c843ed3bbadf33b9.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Face the enemy soldiers and vehicles trying to cross the battlefield. Collect power-ups to call in an airstrike, use a special triple-shot skill, or slow time to get them all. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/be4e68d64e9645e737ac97f862b6f08e58f1e23388f25be0a3a4a3f04cec86aa.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "90\u2019s arcade style vertically scrolling shooters!\nBeat enemies up with various 3 weapons and 2 formations!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

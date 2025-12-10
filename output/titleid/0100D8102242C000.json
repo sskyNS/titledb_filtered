@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ae71f12530fe2b8c039f8721065780a358eb8f9c2fdc1f90b33f34224b885c0.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Obtain the legendary sword \"Dragon Slayer\" and defeat the King Dragon! The latest MSX version features UI changes and balance adjustments!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "47 MiB"
 }

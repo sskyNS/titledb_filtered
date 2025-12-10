@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ef9e74f8918b55d52f5efd87e281a1515fd3452e85caa64a1bda9d44c39df8f.jpg"
 	],
 	"releaseDate": 20191018,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An Insurance Adventure with Minimal Color",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.34 GiB"
 }

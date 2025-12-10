@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2472948535d3052fcf574725911d535d0d1eae2f9153d4a2c166db5dab1ee2b3.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Choose your hero among three different characters and go through procedural dungeons to eliminate your formidable opponents!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

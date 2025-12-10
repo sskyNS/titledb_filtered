@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6351d2a8d5e76c5797118cf715c1c720b97541cce1f73ca476de3a5a2434a16.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Punch, snap, and clap your way through baddies and bosses in a comical campaign, clash against your friends, or survive endless swarms of corporate goons! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "642 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d07df85e5e954513b6c5b6dea8ea919b5938d073d01e1f280e87e0adc13110c5.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Get ready for endless winter fun with a fantastic collection of arcade-inspired games!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.34 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/66aa29f9ee56c4b0db02ad12e06a59d974abd20c6b0ef0927b7678a314fdf462.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Prepare for a new kind of RPG\n",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.48 GiB"
 }

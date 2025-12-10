@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8629507b2de86f72b499cc9d5b506633a66bce6e04edabf574628cf516ad4aaf.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Four player dungeon crawling chaos for friends and family!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.34 GiB"
 }

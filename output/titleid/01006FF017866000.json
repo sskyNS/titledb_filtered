@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5993829920e04aec906704bfb23e0a3b70ba898b72591878fd5892c7574842a.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Move without sound. Clean without emotion. Disappear without trace.\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.68 GiB"
 }

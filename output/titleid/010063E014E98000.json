@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/91600dfa34baef03bdc7e2598de37f5b9da4262289484d81f5ad8c04bddd664c.jpg"
 	],
 	"releaseDate": 20230824,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "A 2D party platformer where you fight with a hat!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "441 MiB"
 }

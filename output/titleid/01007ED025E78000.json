@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d37a080809ab63412c165606718800db555c7a7497d207a61540eac8433f13d2.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Immerse yourself in the search for hidden objects challenge.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "469 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/648684c9f2fca5eface01d679c8a9b3cc5590249cd1a0f7c503cc8fa206c6508.jpg"
 	],
 	"releaseDate": 20250621,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Rusty Rangers is an action platformer and roguelike with elements of metroidvania. Choose your ranger and explore procedurally generated dungeons!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "393 MiB"
 }

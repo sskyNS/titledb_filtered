@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c816afde9aebd387923477800ad9649ec9f364f63132fd9711017fe012adb4c.jpg"
 	],
 	"releaseDate": 20240515,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Welcome to the enchanting world of Purple Explorer, where cuteness and adventure collide!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

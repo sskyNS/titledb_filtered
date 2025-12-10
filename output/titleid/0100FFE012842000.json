@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eebbc5e427405984d72635674286465b3bfaf202f7f59e1b89ee23085a78edb0.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Enjoy the Casino Experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0539b27f50ce9caa2ed602f41eeaafae57b7ac4fc8f189e7885fc16d410222b.jpg"
 	],
 	"releaseDate": 20250830,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Can you survive the flood?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "525 MiB"
 }

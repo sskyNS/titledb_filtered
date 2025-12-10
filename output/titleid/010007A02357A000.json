@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/01695bcb5edf511b32380cdbe10b1fda4d3412082eb79caa1246a64b06ed5ded.jpg"
 	],
 	"releaseDate": 20250704,
+	"category": [
+		"Simulation",
+		"Music",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Hit every note. Own every stage",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

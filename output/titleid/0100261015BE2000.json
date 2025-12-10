@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c49423791a5aeeddccdeec21faf928b0a1c5565038df18a75fd282a4239704e.jpg"
 	],
 	"releaseDate": 20211207,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Discover a whole new way to Duel!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.51 GiB"
 }

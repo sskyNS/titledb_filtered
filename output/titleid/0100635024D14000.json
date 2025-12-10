@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbdc44dc871543a2333ddf9ef7990a570ca382b22645c20e2d60c702252a7632.jpg"
 	],
 	"releaseDate": 20251220,
+	"category": [
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Gear up, soldier - it\u2019s time to reclaim freedom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "548 MiB"
 }

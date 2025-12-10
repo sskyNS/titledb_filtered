@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ce8004e973c7dad3ac0d30caa41656e760e59966184d53f0ca4160fed0d20bc.jpg"
 	],
 	"releaseDate": 20220913,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Go on a mission to find the Sacred Valley that's been a urban legend for as long as you remember.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "978 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d849e43af882f6f92b063d3ef843eeb6ee586de72c26c0cb510e05ce5bd04de3.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "A creative homage to Japanese horror exploration games.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

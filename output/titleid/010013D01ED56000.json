@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09ca9c236771ec332d9ec1384d1d740bb71c844e198cccff19f8ea96f3dba447.jpg"
 	],
 	"releaseDate": 20240430,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Jetpack George! is a fun and addictive endless runner.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

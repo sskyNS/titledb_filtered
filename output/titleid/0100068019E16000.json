@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f41697d3f32bae10e4a7e95c8534d7060c1eda63a82f907345d18a7830367fd.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A colosseum for laser battles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "86 MiB"
 }

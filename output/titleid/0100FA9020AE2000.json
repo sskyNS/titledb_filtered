@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bff646824af4bd328d07b06f1fb1b4ece69e9e0779b4f4825baf0e80d545953.jpg"
 	],
 	"releaseDate": 20241030,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Other",
+		"Arcade"
+	],
+	"intro": "An exciting puzzle game with 50 levels story mode and easy to pick gameplay mechanics. Embark on an adventure to destroy viruses using futuristics nano ships and help the patients!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "566 MiB"
 }

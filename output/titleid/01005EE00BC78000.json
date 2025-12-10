@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/85edfd485d1c7b9c9d24e6a2d9785a629b4bf85ff71f241ef137395a844faed0.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Work your fingers to the bone to save the princess!\nLet's play as a skeletal minion turned hero in this fairy tale action puzzle game on Nintendo Switch !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "332 MiB"
 }

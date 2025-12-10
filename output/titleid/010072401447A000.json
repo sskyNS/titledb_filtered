@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/48598cfea3cdcd7dbc36552025482b678ae329442c5dfdc53df3ac2f5baf4182.jpg"
 	],
 	"releaseDate": 20210604,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Sweeten up your life!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "354 MiB"
 }

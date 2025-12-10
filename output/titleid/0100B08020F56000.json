@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c5bbb78cb7f97d443e1470b2d8019a9b06f07771493ffded6e2680b280de30.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Arcade",
+		"Party"
+	],
+	"intro": "A multiplayer space combat game. From 2 to 8 players, take on your friends on the various destructible planets.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "121 MiB"
 }

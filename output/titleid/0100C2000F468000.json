@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fede5026b2c87ad20bca574d912b27278e17b825c3d2bbb83b0b8c51e546f812.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Wintermoor Tactics Club is a story about surviving high school, with gameplay inspired by tactics RPGs and visual novels.\n\nIt was hard enough for Alicia at the famed Wintermoor Academy before it erupted into a snowball war! Now her club's only hope is to transform from nerdy nobodies into fantasy heroes.\n\nUnravel a reality-bending mystery. Test your strategic mettle against an avalanche of colorful characters. And don't forget to make friends!\n\n\u25cf Unlock your Potential: Discover the power of 7 playable characters and dozens of unlockable upgrades across more than 40 battles.\n\u25cf Explore the School: Get to know Wintermoor in visual novel-inspired gameplay. Break down the walls between high school cliques such as the Psychic Detectives and Young Monarchists.\n\u25cf Make New Friends: Write tabletop campaigns to help students overcome their personal problems, and discover their fantasy selves as your club grows.",
+	"languages": [
+		"en",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "809 MiB"
 }

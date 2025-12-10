@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/83912aed148c216ec74c1d8e8c7d6422d8f3092cb57f30a01c490593610de317.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Explore a mysterious planet to find your way home",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "26.35 GiB"
 }

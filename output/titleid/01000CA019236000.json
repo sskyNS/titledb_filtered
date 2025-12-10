@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/10901b4e0363e6022f5a0aaf30201dee1ca390d082b624fdbbeed7b1fa13b246.jpg"
 	],
 	"releaseDate": 20221001,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Rescue breakfast in this action-packed arcade style shoot -em-up!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "189 MiB"
 }

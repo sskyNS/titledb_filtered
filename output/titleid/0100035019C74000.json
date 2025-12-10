@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f552ad3fb3fb0dc8b1f93ab5ccb558566a8709581b32875a9db8118253e23206.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Music",
+		"Simulation"
+	],
+	"intro": "Embark on an adventure to a magical world beyond time and space. Witness the heartbreaking story of a shattered family and become a part of their tale before it ends in tragedy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

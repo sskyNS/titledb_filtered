@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/88429c126cf321d7d9cd9ad69ddf7704224979449b33d09cb6a606b74c7ea2f2.jpg"
 	],
 	"releaseDate": 20201020,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A single player, 2-D side-scrolling sci-fi shooter. Take on the role of Delta, who along with her AI companion must defend the space station against alien intruders.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e768e165157c4d0bc6669c267644c9266842c2dbb96b286d5457a6c6612ce8d8.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "An exploration-driven platformer about closeness and distance.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6aa8f4ab1f9d8a919cbf76af7681002f3f28d74f758d03ad87ebbb2fc788ffba.jpg"
 	],
 	"releaseDate": 20181210,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Juan saved the world once -- but this time, the entire Mexiverse is at stake!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.15 GiB"
 }

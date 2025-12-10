@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/98f4d3c475356e37bbe9a06d8b1b0a09c11a0f437c9173be91d19ce53ba36482.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Action"
+	],
+	"intro": "Fight your way to freedom.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.84 GiB"
 }

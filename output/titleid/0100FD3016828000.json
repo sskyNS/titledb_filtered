@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1fcb684bbdc816fc8c1529abe4e8d8471327da2bcb9d103c87ed7d593c0abe2.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Gunborg: Dark Matters is an arcade style, action packed platformer in space, with smooth gameplay and a slick 80\u2019s synthwave soundtrack.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

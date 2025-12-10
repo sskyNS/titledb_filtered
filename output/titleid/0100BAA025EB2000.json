@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/031ae91e6674b45f284d864c34100a66d54e5998b5d2001e2e8808df1c971fc1.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Immerse yourself in the atmosphere of European adventures with \"Trip to Europe 10\" and discover the continent from the comfort of your home!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "601 MiB"
 }

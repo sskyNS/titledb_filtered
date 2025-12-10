@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7eda7d4dd65f0b8bea9e5a8c20155bab4f824f5de29457b80164c457327a17ca.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Experience the ultimate soccer showdown with Goal!, the original NES\u2122 and Super NES\u2122 classics that first brought real-world tactics and Cup intensity to your living rooms.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "509 MiB"
 }

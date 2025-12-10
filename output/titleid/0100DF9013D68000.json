@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/72bd974d0246c2ac278ae24797eb944e11a9efb023c51e8b8eaf67dcaf14de31.jpg"
 	],
 	"releaseDate": 20210119,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Pull the Pins\nRescue Princess, Kill Enemy,\nCollect Treasure Chests",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c32890e810c941127057b4b59627196091c2e90da4136031873fd246bcd0563.jpg"
 	],
 	"releaseDate": 20240814,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Jump on your hoverbike and blast off for unlimited ninja-themed bullet hell mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

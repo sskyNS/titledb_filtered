@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad9707fdf3fb92b7edb9d072e6dd516bbcc6b157752a57cb1912dd2b41c7f7a2.jpg"
 	],
 	"releaseDate": 20201016,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Rock and Roll.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

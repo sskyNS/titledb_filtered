@@ -7,5 +7,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d1b220cb056f6165c260d87bcd7eac31ce3627ac28a6e440ccdc68516da89f2.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Powered-up, high-speed ninja action that is even faster and more beautiful than before.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.03 GiB"
 }

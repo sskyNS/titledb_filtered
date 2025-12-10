@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/619f960940d0d1814f30ac130fbf7b939703c2783f42a21c1703c0f7fdf5d26a.jpg"
 	],
 	"releaseDate": 20190427,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "GoatPunks is a rip-roaring multiplayer party game with fire-throwing goats that headbutt their way up mountain tops to become the ultimate king of the hill.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "574 MiB"
 }

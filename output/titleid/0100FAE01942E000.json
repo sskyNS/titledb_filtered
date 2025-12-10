@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f0c1a93215a989f6f0cc6858cd7f19239a4171590932386e9df1fbe1be9dc9d.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Action",
+		"Simulation",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Eastern Europe Truck Simulator offers everything a trucker\u2019s heart desires!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

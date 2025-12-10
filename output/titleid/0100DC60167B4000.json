@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a980a94e311537652bff78d0826354b855c7f40247323362539e92020a235509.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Play more of your favorite arcade hits from yesteryear.\nIncludes SONSON for free!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.50 GiB"
 }

@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/af482787b760b6141395be5272f56386f6ec7c5fde2c26fecaff7a095f0541ed.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Conquer intense turn-based battles, recruit allies, adapt to ever-shifting events, and grow stronger with every run.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.03 GiB"
 }

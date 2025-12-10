@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0dbcd27ba1cc4fbe1ffeed3ced650d6fe72cce0e7635165628c3a574783d91f1.jpg"
 	],
 	"releaseDate": 20220506,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Being a cook is a vocation!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

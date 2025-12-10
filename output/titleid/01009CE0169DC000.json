@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af5e1a57e7c1ab0211d8327168410c85326ba7da9a897c82d2ca02130b549cbe.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Join Louise in the 1960s USA and secure the future of her son Mitch.",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/af84ba74d72919c7f197dc79693fad2cf8c2dc8699900e3e6b1d7b8f3bd28898.jpg"
 	],
 	"releaseDate": 20200529,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Climb, jump, swing. Invent your own climbing style: effective and attractive! Overcome obstacles lying before you and reach your goal the most efficient way.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "452 MiB"
 }

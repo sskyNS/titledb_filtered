@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dfa9a28468b2f8e1fcb4d6023fed2494fae3d64116bedfa7ddd564b0211dba9.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "LOSE YOUR MIND. EAT YOUR CREW. DIE. Take the helm of your steamship and set sail for the unknown!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

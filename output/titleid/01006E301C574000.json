@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4432add1b2e90f312dacbbc0a973c09ae9d1c5153514aff0cda9b1dddb235fce.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Get ready for the wildest and most thrilling adventure!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

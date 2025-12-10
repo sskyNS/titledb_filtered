@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/17ee398fac27a8c6fdc3c36619d08560ac97928550cebfe72998ca0921985a04.jpg"
 	],
 	"releaseDate": 20190802,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A little robot became a test subject in a mysterious lab.  Improvise, adapt and overcome this hostile prison. Only you can find a way out!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.65 GiB"
 }

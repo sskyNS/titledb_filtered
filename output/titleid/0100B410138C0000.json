@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b74c327f81c26098e94922724b50e6a73da82cef3e0c07821e5f18c897dc9f6e.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "\"Walk like a robot and punch like a human!\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1014 MiB"
 }

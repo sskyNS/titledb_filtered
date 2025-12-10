@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a84538e193a80a32ef16381bd5a13daef79ac219077af6606fe89252b9a6f10f.jpg"
 	],
 	"releaseDate": 20230623,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Army of Ruin is an auto-shooter where you become the Bullet Hell.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

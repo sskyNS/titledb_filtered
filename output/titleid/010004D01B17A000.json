@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ca9a17b4d1edeb26f4a427459898d93ba5483ee7222484760e93da05d0efcb1.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Once the Darkness rises above all, It's your time to take the reins and hit the ground running on a mission to discover the light once again.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

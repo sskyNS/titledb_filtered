@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5aceb730cbf8077d1a9e1be58e54c4afa8213536f22cbea434cad15ccee35d8f.jpg"
 	],
 	"releaseDate": 20250610,
+	"category": [
+		"Action",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Save the world in this steampunk roguelite full of mystery.",
+	"languages": [
+		"en",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "558 MiB"
 }

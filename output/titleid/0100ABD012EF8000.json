@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/800043e773009e06d830733354f8decf423e07bae6d09074344b43e229161801.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "The perfect bundle when you're gaming in a hurry",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "951 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c040d9d76f8d9ebb4c32144418b425b4247d397ac1b857c1af0607b753d0c4b3.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Other"
+	],
+	"intro": "A simple great sliding puzzle game, where you need to let the ball roll into the goal !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

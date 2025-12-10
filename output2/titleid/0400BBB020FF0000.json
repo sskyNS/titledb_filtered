@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/954c05ebeb591c60259aa3f864e274f2281168fe4d56bf6ce96db57de87d63f4.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Discover the decadence and danger of 1988 Japan.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "Unknown"
 }

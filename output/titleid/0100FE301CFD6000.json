@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/439c9c5ec3bf90fc8d7022314ed0423800a900b42a1cbe74d6231b4120bd38c9.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Momotaro's adventurous action game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce13be544997ab7b093b6e6dc37b64937d18d4f60f2b68d594f46e3cda5db6d1.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education",
+		"Other"
+	],
+	"intro": "Relax, make time for yourself and collect unique and beautiful gifts from the sea.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

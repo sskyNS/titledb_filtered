@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a032ddb36c8dd5b5e16e83ba64e5e10e890564c59d81d69d9fc9d9d1db6b6d36.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Party",
+		"Action",
+		"Fighting",
+		"Racing"
+	],
+	"intro": "Become a shadow warrior in a world of ninjas!\nOur Ninja World, here we go!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "238 MiB"
 }

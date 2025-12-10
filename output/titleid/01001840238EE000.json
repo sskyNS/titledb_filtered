@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a832ba60cead62e80953caff6cb36232ef07c9db13032c663bf3191a241efe71.jpg"
 	],
 	"releaseDate": 20250621,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Enter the mission and become a legend of espionage.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

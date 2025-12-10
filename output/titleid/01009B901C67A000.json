@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/81e818837c7871d7cd2285111730eaf588dfc90eab05ae2a7829f9ff6dbd6e31.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Put an end to the plague by destroying the White Lotus!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

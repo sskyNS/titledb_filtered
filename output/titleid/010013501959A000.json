@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/454fe3462f31c9414709f9c56ae521f56f3dc6c353e6e1386dc5c7b3fdf88253.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The Many Pieces of Mr. Coo is a whimsical point\u2019n\u2019click adventure with a surrealist story, astounding hand-drawn animations and hilarious puzzles. Mr. Coo is trapped and broken into pieces. But most of all, he has no idea of what\u2019s going on. Is that a giant chicken over there?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "895 MiB"
 }

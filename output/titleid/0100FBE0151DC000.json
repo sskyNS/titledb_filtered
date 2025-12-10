@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1785ef9e4c7ac18296a73d5e1bcb0c43fab20e168800637d93f8eab73fa1bb09.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Adventure",
+		"Board Game",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Exhilarating battles with moving cards!\nTeam up with unique characters to win it all!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.71 GiB"
 }

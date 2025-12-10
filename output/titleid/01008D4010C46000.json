@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/77106201a94d8690f7f161adc57627c91cc3851c0d50ee335c8c47fac399a689.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blasting through infinite void\u2026",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "996 MiB"
 }

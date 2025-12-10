@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/341d7123d001c2ab6eae60a8694ce1fd6978aa711a2c002677e3c98b181191b8.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "In Hourglass you can create a time-clone of yourself to solve challenging puzzles. You will play as Aywa, a young adventurer who is traveling to Egypt to find her missing father - an archeologist, who never returned from his latest expedition.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.88 GiB"
 }

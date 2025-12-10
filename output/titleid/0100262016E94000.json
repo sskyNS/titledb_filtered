@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/216a2cd46620f17912d301e1d089ec595206c906639393235e3141836d945f3a.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Shooter",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Alien robots are attacking. The last piece of land is rapidly collapsing. Destroy all enemies and survive.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

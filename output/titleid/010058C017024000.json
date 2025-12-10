@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b35501762916f10aa09731cd8edcb9b8bed93d0fe0dd19456fa757143d0ff10.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"RPG"
+	],
+	"intro": "SWITCH TO THE DARK SIDE AND LEAD THE HORDE TO VICTORY! Designed to take full advantage of Nintendo Switch\u2122 interface and portability.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.08 GiB"
 }

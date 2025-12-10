@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/84140347ef60b702d5e902907382e0a4210d15c33c43d591f287dfb16e2afddd.jpg"
 	],
 	"releaseDate": 20190215,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The Ultimate Panic!\nSave people from imminent doom in this science-fiction, reaction-testing, hyper-arcade game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

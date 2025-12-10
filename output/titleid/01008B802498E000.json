@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8c394e198a07edaa55b22030f9385d1a35deb7d34a90e28f3f2d08034b3b9e6.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Party",
+		"Action"
+	],
+	"intro": "Chase the treasure, reach the peak",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "934 MiB"
 }

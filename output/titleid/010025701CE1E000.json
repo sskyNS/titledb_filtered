@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6bd3b1e60176f8cfef1988f1aecea9f1451a552836360a26692370df721f59f.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Simulation",
+		"Training",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Riddles of the deep sea await you. Become the number one underwater explorer!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "591 MiB"
 }

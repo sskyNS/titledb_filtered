@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/50b115c212f70ad7eccf593cac644b2288a16137e9465536d8f3717695a90280.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "The legendary hero Hercules and his wife Megara are back, ready to embark on their next adventure! The Gods are outraged at their defeat and have summoned a fearsome beast who can match Hercules's god-like strength. The beast has trampled the countryside, turning lush gardens into desert wastelands! Restore the world's beauty by using everything at your disposal, from Megara's magical abilities to even a fire hydrant! Team up with friendly allies like King Midas and Epeius with his famous Trojan Horse to save Mother Nature from destruction.\n\n- Over 50 levels with new music and a new story!\n- Secret Challenges! Certain levels have hidden objects!\n- Build the mighty Trojan Horse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "418 MiB"
 }

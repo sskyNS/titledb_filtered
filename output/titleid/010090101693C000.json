@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbc77e4cb334dfb03b2e852d398fe42358738dee896a0045a4dd6c40585f2307.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Fighting",
+		"Party"
+	],
+	"intro": "Take on friends and family in this fast-paced couch-based party game featuring a wide variety of hectic battle modes and sports minigames in the far reaches of space!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "916 MiB"
 }

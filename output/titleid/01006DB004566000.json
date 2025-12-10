@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/97f72ea201f84364a676432892dbafc8486fa636c0ee7109993950f65c0abe20.jpg"
 	],
 	"releaseDate": 20171205,
+	"category": [
+		"Multiplayer",
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Jump back in time and free your inner caveman. Smash heads in this cooperative platformer game. Play solo or team up with up to 4 players. \n\nDifferent playable characters: Choose one of the playable characters, but don\u2019t worry! You can change your character at any time in the game and play with them all!\n\n1-4 players: Play solo, with one, two or three friends. Work together to become unstoppable!\n\nVaried Enemies: Each level has different enemies, watch out as they can catch you unguarded.\n\nSecret Levels: Unlock secret levels inside the game for more excitement!\n\nChallenging: Challenge yourself to unlock all the achievements! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "757 MiB"
 }

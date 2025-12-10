@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/44fe4fc8ed7eb5feaccefd13e347176875ea500d452b9a6c185e5f17fad2f923.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Classic retro beat-em-up with contemporary design.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "202 MiB"
 }

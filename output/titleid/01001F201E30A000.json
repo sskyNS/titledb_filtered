@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f22591938d07f4b9c12f0dfe7001ec950e79268f512b390316934c9f78b790bf.jpg"
 	],
 	"releaseDate": 20240507,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Puzzlerio is a puzzle game about creating a factory that takes ores from one point to another. Use transport belts, inserters, furnaces and tunnels to complete the factory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb95f8b70aaffe0d9817cf6bf50f82cd41add8b4d4aa4fd9e41f3868652372b7.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u300c\u9b5a\u300d\u306b\u5236\u5fa1\u3055\u308c\u305f\u30ed\u30dc\u30c3\u30c8\u306e\u904b\u547d\u306f\uff1f\n\u624b\u66f8\u304d\u98a8\u306e\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u304c\u9b45\u529b\u306e\u30a2\u30af\u30b7\u30e7\u30f3RPG",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

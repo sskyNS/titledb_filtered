@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8410164173bd59eb69cb13927b55a62a98aace895bd555f53d7aeb5f4a29d80c.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Jump into a Western adventure inspired by the classic JRPGs of yore and and the legendary American Wild West! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.81 GiB"
 }

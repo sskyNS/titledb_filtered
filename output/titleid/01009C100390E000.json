@@ -8,5 +8,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8011c8500ab7e5e332216bdbf6436a877e66085d0925de4f176c675277c4370e.jpg"
 	],
 	"releaseDate": 20170831,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "League of Evil is an action game where you, as a bionic super agent take on the mission to defeat the League of Evil.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "60 MiB"
 }

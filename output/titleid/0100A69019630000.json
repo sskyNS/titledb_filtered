@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e1c9db8e64dda54065fcbc7eceb23cf3adf9f4e80930cf7e4b0e1b90f95781f.jpg"
 	],
 	"releaseDate": 20231122,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Battle across parallel worlds!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "89 MiB"
 }

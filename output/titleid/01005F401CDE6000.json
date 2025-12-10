@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1795ee8956bd051c26763fa9211f325ae1c491a8c14ce720225e3bd9b0a7c174.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Eat, shoot, dash, and explode your way through the cosmos in this adrenaline-fuelled arcade action game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "768 MiB"
 }

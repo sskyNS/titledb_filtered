@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/03af311d9cce1c145db1cd613095ac02df0134adf44108a9718178dc61b209f8.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Jump, roll, and stomp through Donkey Kong Island in 2D platforming action ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "8.32 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0c4440699a5f851ac1cc864b1f01cfa8ba191296d9cb2cc07056641038cbe88.jpg"
 	],
 	"releaseDate": 20230210,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Do you know how to drive a fast car on open roads and a lot of traffic? With realistic vehicle physics, traffic density and roads?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.62 GiB"
 }

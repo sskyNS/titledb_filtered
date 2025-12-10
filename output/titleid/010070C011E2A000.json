@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11f3f91b282a5b5292cfb3815d86f5806fd812612029d1414909fe014a1ae747.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "Beat your friends in classic board strategy game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "186 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/16ebb97383af395e40559f54b9d7e1a5a3ff2bef8b908ca9393e79de4caac9ab.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Meet Munch, hero of the Oddest Oddysee of all. His luck is about to change - for the worse.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "790 MiB"
 }

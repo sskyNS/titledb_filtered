@@ -8,5 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/05cc739f2aaa78f0485728e30ab19d965d2c3ec23a62f392b63dd2f824f34bd3.jpg"
 	],
 	"releaseDate": 20230228,
+	"category": [
+		"Education",
+		"Study"
+	],
+	"intro": "Become a chess master and practice the best moves. Basic guide for all those who want to start or improve their skills.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

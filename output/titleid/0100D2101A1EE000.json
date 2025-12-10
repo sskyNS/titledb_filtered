@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d43196b157d02dcac46b17377c7603a05f47c49037faf46156a0469a932addee.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Born without meaning, just rolling through life...\nAn action-adventure ball game to discover the meaning to life!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f94eba93df6fa3e0eb52d33966bbc02f3a6813459555d91b7af576dc8592110d.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Training"
+	],
+	"intro": "Easter Bunny: Bubble Shooter is a new exciting game with the Easter Bunny in the main video.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

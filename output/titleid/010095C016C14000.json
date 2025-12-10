@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b082f72181e98ddc76b96a3d208fcb391ff15316b2cebdac8bbf0a2e2ca7c5b4.jpg"
 	],
 	"releaseDate": 20211130,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Project Iridium : Vanquish the invading enemy, protect the human race. You are our last, best and ONLY hope.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "520 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/36ab842c713f02a2c81aa8137a4f691b17c135baf4f174555ddb6b21498acf22.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Play as an elite pilot driving the Interstellar Recon Mecha geared with a unique set of weapons and special abilities. Choose your favorite fighter and face the procedurally generated enemy fleet",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "980 MiB"
 }

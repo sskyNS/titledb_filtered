@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca202f3c9c82e5c6a56809bd88e34060fa731f827eda699567bea84c0897b5d2.jpg"
 	],
 	"releaseDate": 20250611,
+	"category": [
+		"Simulation",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "Highly realistic first-person online multiplayer fishing simulator.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.45 GiB"
 }

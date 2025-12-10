@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9e6d9ecad054001f4eaea6cc4f0d95dcd55dcf06bee7a627395ec914fc2b23e.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Solve mystery of missing antiques.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "591 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fdb50e2c9ee446a576a0e8020a785ad4f5d1f3d0d39d61c44dad8c1abca1290.jpg"
 	],
 	"releaseDate": 20231223,
+	"category": [
+		"RPG",
+		"Communication",
+		"Action"
+	],
+	"intro": "Masarada Town is a desolate town with few tourists.\nThis is the story of Jewel, an apprentice miner who was sent to such a town.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

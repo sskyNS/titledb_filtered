@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdf34a3ec16d009cb7947ea4569e21d01a85996474bdec4968b4222bc066e249.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Simulation",
+		"Study",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Step into the studio and produce your\nown hit anime with an original hero!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

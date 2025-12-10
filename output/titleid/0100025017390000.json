@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b289782c0fcc509dddb09aa1ec4ef58d59c22b936554d9641b5d42400f4029c.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "Infernax\u3067\u63cf\u304b\u308c\u308b\u306e\u306f\u3001\u3072\u3068\u308a\u306e\u52c7\u6562\u306a\u6226\u58eb\u306e\u5192\u967a\u3002\u7269\u8a9e\u306f\u90aa\u60aa\u306a\u9b54\u6cd5\u306b\u8755\u307e\u308c\u305f\u6545\u90f7\u3078\u3068\u6226\u58eb\u304c\u5e30\u3063\u3066\u304d\u305f\u3053\u3068\u304b\u3089\u59cb\u307e\u308a\u307e\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

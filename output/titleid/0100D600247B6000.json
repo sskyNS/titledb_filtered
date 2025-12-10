@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2be578be68bd82f867574d184ce979c293e7e32a9c4825c389e933623c83949c.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Party"
+	],
+	"intro": "Find the target character hidden in the illustration!\nA picture puzzle game to boost your brain",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

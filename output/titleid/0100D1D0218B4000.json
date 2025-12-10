@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6146af4071bac3e308a73e33ec82f3cabe422cefad8560ecaa84ec46a5884879.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Santa needs you! Become a Scout Elf, gathering Christmas Spirit and dodging obstacles. Pledge to make things merry and be a Christmas Hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

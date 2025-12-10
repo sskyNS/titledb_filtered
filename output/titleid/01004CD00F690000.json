@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f018795457dcac9083d9f33b72097922ceea2a22d2655b2b0ce77b5914ceaa1c.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Education",
+		"Party",
+		"Study"
+	],
+	"intro": "The quiz app for smart people. It\u2019s designed to stimulate your brain with over 6,000 high-quality, challenging, and informative questions. For one or more players.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "208 MiB"
 }

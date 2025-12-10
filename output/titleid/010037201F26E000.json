@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ba3e8a4630f6f9fb1e31e72f87d9eb687dea742347354b71452bf37176d1219.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Sports",
+		"Platformer"
+	],
+	"intro": "Dive into a story-driven fishing adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "823 MiB"
 }

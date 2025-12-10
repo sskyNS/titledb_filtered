@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/eec838dd3fa799639aa81957a9aa91cf2fdf4dc89855c3d8df293b8d771a1a87.jpg"
 	],
 	"releaseDate": 20230824,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "A classic logic puzzle that's immensely fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

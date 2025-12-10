@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7334da2948092d5878ce355538d918716884d6197c7dabfb2631b71e240cb7f1.jpg"
 	],
 	"releaseDate": 20180413,
+	"category": [
+		"Action",
+		"Fighting",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Ahoy Pirates! \nTh' sea be callin' - choose a ship, brin' yer mates 'n set sail on th' vast seas - All hands hoay!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "993 MiB"
 }

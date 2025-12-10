@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/77cf5d8139ca63fecaec53b3e35f6e4b29e39e0a815ce3b5b0811fdd10f64e52.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "It's time to ROLL!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.48 GiB"
 }

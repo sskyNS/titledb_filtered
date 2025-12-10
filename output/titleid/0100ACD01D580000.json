@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8151fc1e6268f59518e3ed22517fa7a7b7d3b389e7c60e431afadbef44d0819.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Can the cat-eared princess' song rescue her people and find true love?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "677 MiB"
 }

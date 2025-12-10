@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0fef1eb726e22ba61339494e8640e3548a187280718094d5ae5cff8350749ef.jpg"
 	],
 	"releaseDate": 20200729,
+	"category": [
+		"Adventure",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Descend alone or with a friend into a remastered horror classic",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "294 MiB"
 }

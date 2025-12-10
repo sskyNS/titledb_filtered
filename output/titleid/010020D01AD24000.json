@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f8c684800a55a971e27523f78caa84041f686e02cb07e4f193960d8dc011331.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the intricate labyrinth and uncover its many secrets",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

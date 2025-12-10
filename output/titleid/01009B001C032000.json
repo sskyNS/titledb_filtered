@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6095b76450182eb2059d6eacdf22afa09d5352dcfa41703d45a68d9b61c8dfb7.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Tourists disappearing and blood-curdling screams from a mysterious island out to sea...What secrets does this holiday paradise hold? Perhaps it's time to find out...",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83f66eb5847b6c17cb7f0b5f9adfbf41ef6ad5325aadcce3bec33a519a743260.jpg"
 	],
 	"releaseDate": 20250212,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "In a forest full of life, a shining river connects all the creatures that inhabit it. Three young adventurers discover that this river is not just running water.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

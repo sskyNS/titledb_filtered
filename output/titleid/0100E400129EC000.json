@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d580e46eeff17d31750f483ff7c21aee201b3127471e42436a3422035feb1f4.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Commander Keen is back. In the modernised Definitive Edition of the lost episode \"Keen Dream\",  Keen has to fend off a nasty nightmare about evil vegetables. The Definitive Edition features full widescreen support, twelve all-new levels - doubling the length over the 1990 original - and a full music score. The game structure has been reworked to make the game a more modern experience without sacrificing any of the original charm!\n\nControls:\nLeft Control Stick: Move Keen, look up and down\nB Button: Jump, drop down from platforms that are not solid from below (if Control Stick is pressed down)\nY Button: Run\nZR Button: throw a seed to stun enemies. You can throw seed up, too, by keeping up pressed on the Control Stick\nPlus Button: Pause the game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "240 MiB"
 }

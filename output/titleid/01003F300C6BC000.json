@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e35fcae1121b8aea75ee470c82364d8908bf708515d01cc8ad10382a34bf668.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Step up a gear: Pressure returns with Overdrive! Start your steam buggy and join \u201cLa Resistance\u201d\u2026it\u2019s still time to prevent Count Soap from powering his Uber-Spa with stolen water!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1010 MiB"
 }

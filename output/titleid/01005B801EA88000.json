@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/011705355a8f9826795ae008d7f3f91c6ffce274c4a2a5a3ee490240c7293058.jpg"
 	],
 	"releaseDate": 20240329,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "30 unique levels in a relaxing atmosphere. Go on a colorful adventure through the seasons and complete beautiful jigsaws!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "328 MiB"
 }

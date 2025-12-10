@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7efa588759e1f6ddbcb07dd4d6093c7a64fa35136b9456855586a3b3dd20030c.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Welcome to The Greatest Union!",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "732 MiB"
 }

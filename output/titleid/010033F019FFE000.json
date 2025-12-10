@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d251136e2ed12094af4bed3e30f08dcfca90210e5617e080bc5abe30d75f17d.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Multiplayer",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Explore a colorful coop life-sim RPG set on a tropical Archipelago",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

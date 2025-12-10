@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d726fcd902e3c73fb1da99768d0cced2ce97659eac59d3b6f44236f5374f4572.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Use your camera to copy and paste items in this side-scrolling action game! Collect memories to bring the smile back to your depressed friend's face!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/efee14454e5c39d7a5c3910c8ba4625dc0a389cc7eec3648d7511ef0092decc3.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Take the title of the best football player in a cute cartoon world.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

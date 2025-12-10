@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/09cb51c79c2e29d7eedc9cf906fc349204ac235733dfd1ed13d22a480969bc32.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "A malevolent presence has corrupted the Trail, and it's up to you to stop it.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7babe48c17971b80150e9695ef25b674fbae7208ba42a41c7ce591bef4e52bb0.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Education"
+	],
+	"intro": "Dive into Ultimate Puzzle Adventure: Kitties with 60 playable images and three game modes. Customize your puzzle piece count and enjoy unlocked levels from the start.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

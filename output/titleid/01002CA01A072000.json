@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a0b1566bba3229d623d646b76dd1fe196f1e84e6e15c7ff8e8cf6a9b91f4472.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Fire all the humans in splatastic fun and solve the puzzles. With hilarious explosions, addictive physics based shooting of your humans to reach the end goals! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

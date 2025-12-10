@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2fb3e343a933296dbfca2debd283d5bc0d30a140901611cff9e4334ee1455d2.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Play as a bomb laying chicken in this action puzzle platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

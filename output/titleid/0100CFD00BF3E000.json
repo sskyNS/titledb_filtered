@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/322a9fdf324023fd060aa0348fcbe48b378625ad0e75bb83856cf0d4a4dd1ed0.jpg"
 	],
 	"releaseDate": 20200408,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A turn-based meta RPG about a group of players rolling dice in the year 1999!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

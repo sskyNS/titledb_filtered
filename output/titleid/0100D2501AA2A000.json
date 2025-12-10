@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/03f5bc222dba0575a8ebdbbdc31ae260f6705107fe8c6648ad678d965cb4fd13.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A relaxing puzzle escape game! Make your way through a variety of hand-crafted 3D dioramas, look for useful objects, find hidden clues and solve fun puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

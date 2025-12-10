@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8163f5b1621e365104a5f34273641550fd8625179f938b69104844734e09eb95.jpg"
 	],
 	"releaseDate": 20230927,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Join the PAW Patrol pups in a free-roaming 3D adventure full of pup-tastic fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.99 GiB"
 }

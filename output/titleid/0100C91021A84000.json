@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b139537506b6e484a1ed9b100e6e27330df65d8284315d5ca63e3fc6ee71801e.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Rebus Rush is an exciting educational puzzle game where players solve word based puzzles by interpreting images. Levels presents a series of visual clues that represent an English word.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

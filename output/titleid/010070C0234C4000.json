@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c7292041a42e66ebf6645c008f937dd97cee70e039ce19c6dea86a48d4a5f77.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Embark on an epic adventure set in the world of Rune Worth. This game features a unique spell system where casting spells requires time to chant before activation.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

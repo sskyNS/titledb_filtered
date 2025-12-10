@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c666b18e61187d2eac10d89f4659920fa0fc83b9b344ecddd4e0a86776b7e29.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Embark on a rock 'n' roll 8-bit adventure with Space Raft and save the music!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

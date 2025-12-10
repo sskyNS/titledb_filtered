@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/73b73b97c18c453152ac652de972c23fa783ba5f961d8a763866942417e28b37.jpg"
 	],
 	"releaseDate": 20210709,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Monster Hunter's turn-based RPG series returns with its second installment! Will your special bond with these monsters bring hope or destruction?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.33 GiB"
 }

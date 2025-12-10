@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c15bb30d82d4f9ff929ac1773f2566bf6922dd77d43b3d939adf9934ea39f330.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Behold the thrilling action puzzle game!\nColor the world rainbow!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

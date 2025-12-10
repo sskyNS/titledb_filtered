@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1d35124cfd87f257a00bba7ce1f1735a2c79424d769a2539ecc5625a521f9ca.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Don the cloak of a Grim Reaper and free tormented souls in a non-violent, spooky adventure with 11 haunting tales.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.43 GiB"
 }

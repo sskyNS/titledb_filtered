@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8be0298a892ed051a9bfebe4a6603f94d13b7b79894e0a3c21c90097d36f322a.jpg"
 	],
 	"releaseDate": 20201214,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Board Game",
+		"Party"
+	],
+	"intro": "Piece it together with up to 4 players, across 200+ unique puzzling levels!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

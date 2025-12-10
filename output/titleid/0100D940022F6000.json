@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f4e8dfcb676a80813753f99facc6e049b12d25bf7b800302339e8ec849dbebb.jpg"
 	],
 	"releaseDate": 20171010,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Muscles Ready to Flex? It's Tiny Barbarian DX!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "163 MiB"
 }

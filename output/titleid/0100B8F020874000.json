@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/51dfc7e5e6636888002db390b7a46ddc39e9d064440d19d1c300f0e30b149571.jpg"
 	],
 	"releaseDate": 20241108,
+	"category": [
+		"Simulation",
+		"Multiplayer",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Master the chaos or get burned in this kitchen showdown, Only the fastest and smartest chefs survive this madness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.01 GiB"
 }

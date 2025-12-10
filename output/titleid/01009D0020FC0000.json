@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d841c0508bb4983814b59f53976d46fdf359ab94cb222196558340d7e23d83e1.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Platformer"
+	],
+	"intro": "Ready, set, dash! Join the omtastic Om Nom Run 2 challenge and prove you\u2019re the speedster champion.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

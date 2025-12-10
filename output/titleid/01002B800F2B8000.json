@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa8ea50d24e86f8c36057c29e7c51a65dc2ba5706b8278b1d13a1c78e6eef459.jpg"
 	],
 	"releaseDate": 20191121,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Fight your way through swarming enemies in the blue deep sea!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4caa69b9468590d22df9699439361538ac0bd8d95d2ebaf3be96cc777078a828.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "JUMP INTO THE BEAST, SWITCH BETWEEN YOUR POWERFUL MECHA AND AGILE PET, AND DOMINATE THE BATTLEFIELD IN THIS FAST-PACED HERO SHOOTER !",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

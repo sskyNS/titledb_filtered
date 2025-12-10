@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9cbec1769f0b67dbad25f596bd3a2aa7f8d431221b3fa8338ba36c79901b13c.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Board Game",
+		"Lifestyle",
+		"Other",
+		"Party"
+	],
+	"intro": "You need to place 4 tokens next to each other (horizontally, vertically or diagonally) which requires strategy and tactical thinking from you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "57 MiB"
 }

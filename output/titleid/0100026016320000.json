@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d123759f99745779aa26389a8eded7de6809059da2411a81f6601c0405179f6f.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Higher stakes. Meaner streets. The River City Girls are back in action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.70 GiB"
 }

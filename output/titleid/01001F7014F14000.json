@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0312501caf74401b18c40e27094f252d6ed5ed26dc5443c6d07284c3374c750f.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Set in a huge tower that randomly transforms everyday,\ncompete with rivals all over the world\nto reach the top in this social roguelike action game!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "457 MiB"
 }

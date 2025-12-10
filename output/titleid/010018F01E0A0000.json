@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ce63a9a6f66df47e5d571e8d1dc174a5d950c412b5198a9363d287eb1f1c1fb.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Save the world, and find love along the way.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.29 GiB"
 }

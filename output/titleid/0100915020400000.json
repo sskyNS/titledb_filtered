@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d0c775506928e44766afdbb049f7b0e0fd9a5c34f0e4275cce19c112be45be5.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Cabernet is a 2D narrative RPG set in a 19th century Eastern European inspired world, with a modern twist. Guide Liza, a young vampire in her new unlife among the unsuspecting town.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.94 GiB"
 }

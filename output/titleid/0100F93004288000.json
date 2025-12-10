@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/582a0ff32fe8c4a49c3a38ce93eb7e004f93156563f36b347d667d309ff2b35f.jpg"
 	],
 	"releaseDate": 20170803,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A puzzle adventure that will put your head in a spin!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

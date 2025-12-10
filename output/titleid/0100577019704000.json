@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdf279e62162f9f5026b6e10622431fee193f24882781ed54b40b5948dd667d7.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Shooter"
+	],
+	"intro": "Oda Nobunaga was kidnapped by a group of ninjas as a result of a ruse by Takeda Shingen, and was turned into a \"lotion samurai\" after a magical transformation! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

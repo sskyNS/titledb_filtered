@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/391f825d5e581d2ae0ce954f9d96f54331d5dda15263cfdb039a146ae6787505.jpg"
 	],
 	"releaseDate": 20200320,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Mist Hunter - is a blistering fast rogue-like arena shooter. A deadly magic poison runs through your veins, there is no cure and your heart will stop beating in 90 seconds.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

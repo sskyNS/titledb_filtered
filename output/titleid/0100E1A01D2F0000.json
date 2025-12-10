@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f3857ce04041aa9fc1db9adc5b006c9133bb4211d264568fad36017c9e32f45.jpg"
 	],
 	"releaseDate": 20231014,
+	"category": [
+		"Action",
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The player will play the role of a taxi driver who worked for so long that he became a millionaire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "520 MiB"
 }

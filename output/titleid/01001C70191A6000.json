@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/923f6983cee7db43f1a4bad299ce2ab93b70e81c25b80b32f16c6fff1c082660.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "To survive, you must fight your way through an apocalyptic city.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "491 MiB"
 }

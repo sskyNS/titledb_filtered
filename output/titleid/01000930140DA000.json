@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ebc3c670cc0df074dd6c6daabc49b7b16e9ac05158d960b869e1e1a7cb502bf.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "Qube Qross is a challenging logical puzzle game, like Nonogram in 3D, solving the cute voxel puzzles with chill music and neon graphic style. ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

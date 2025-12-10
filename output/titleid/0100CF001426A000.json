@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0de77c4f849a303c49e336f346a2cdf8947867fd9d84ddc08932f402c934822.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The sinister Dr. Voo Doom has kidnapped the Princess of Ririland and incited a civil war! It's up to repairman extraordinaire, Jack and his boomerang hat to save her!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "159 MiB"
 }

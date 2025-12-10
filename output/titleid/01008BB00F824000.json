@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ac66d4226a7797da2864ebf7306e86784102bd7737150631d1383f04f4e0160.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Defenders of Ekron mixes shoot'em up action and the exploration of an adventure game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "809 MiB"
 }

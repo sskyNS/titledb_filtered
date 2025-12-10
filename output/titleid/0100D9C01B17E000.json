@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f90a50ef34f2900caa1c747222e178f9f310746b0ca69403ed950feb0e8f0c8.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Forever Lost is a first-person adventure/puzzle game set in an abandoned asylum where nothing is quite what it seems.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

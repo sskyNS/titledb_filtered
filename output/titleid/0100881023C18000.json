@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/557c6c714d3f2b49110a94cee499d9e3c71b8d909e7be7843025d8e64403331d.jpg"
 	],
 	"releaseDate": 20250625,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Help Ferdinando find treasures in a labyrinth full of puzzles!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

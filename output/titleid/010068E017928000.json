@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53c0f6a219f22d34e76f85d9216ae2ef5d2d2a51f3e9c703a69f4a7c44e808da.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Choose your champion from a roster of various robots or humanoids and fight swarms of enemy robots in this classic hack and slash!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "447 MiB"
 }

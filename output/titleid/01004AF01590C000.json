@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6201aa80ff1f56daa085f0991c9bb1506f63031f9324e98c3ab905e70441f234.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "A minimalist and relaxing experience. Challenge yourself to move pieces to assemble a safe path for your car and collect all the items on the way, while listening to a relaxing soundtrack.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b44c05c4a02e497ee08e8e8e822ced6711b83d6fc72fdbd2052f02064fa3641e.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Communication",
+		"Multiplayer"
+	],
+	"intro": "Lost in a frozen wasteland and split up from your partner inside an abandoned castle, the only thing you have is a walkie-talkie with a voice on the other end. Can the two of you get out?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "828 MiB"
 }

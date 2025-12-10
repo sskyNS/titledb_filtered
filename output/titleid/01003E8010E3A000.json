@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c417b273ab5f8a38a9e51185dbd1af7fdb8d2580f5915fc4862287d1110f03a.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "If all the world is a stage, what role do YOU play? Solve the Ivory Cane mystery to find out!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f223f4109f7048c403e89e6af5461778035827c6d25feaeef55312a12bcd44f.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Platformer",
+		"Music",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Surf, Ascend, Escape!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "422 MiB"
 }

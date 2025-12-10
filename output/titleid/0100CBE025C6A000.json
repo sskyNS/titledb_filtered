@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e62014e1eeff43d2a8ba39f3c63dab5358835d3d8fea011b55349e8448ad68f5.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Unpack your memories, relax, and let the summer linger a little longer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

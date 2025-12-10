@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/de34e56deb88cfc1dd674f35e9ba1d2153c12303dc888237c561ab818dc3a522.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "The NASCAR Beasts are Unleashed! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.93 GiB"
 }

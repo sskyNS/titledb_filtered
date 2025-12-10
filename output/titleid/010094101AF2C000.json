@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/05152db12ae56a01f40763f5754d04d7c697f404b6b942c88f5dfb98b2d11125.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A whole new loony dream world to explore!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.60 GiB"
 }

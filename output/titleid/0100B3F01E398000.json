@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/537bf7b27de3e06b6ae4b2c862b631855b2c06b1ac4d86b5fa13f66e5618b0f8.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Other"
+	],
+	"intro": "It is time to fight! Challenge yourself with this intense, fast-paced, and super-sweet tank arena shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "617 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5299b14181884dbcb8256561eac62ac7aabb66f837e1ae9c8e31abf2a4701319.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Action",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Become a glutton for punishment and persevere, alone or with a friend, against 20+ merciless bosses and legions of skeletal nightmares in this savage yet charming 2D souls-like.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.42 GiB"
 }

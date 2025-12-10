@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f0a64426122eaae0a51e46dee52089cab653599260ea08ead11b971528e176a.jpg"
 	],
 	"releaseDate": 20200122,
+	"category": [
+		"Sports",
+		"Strategy"
+	],
+	"intro": "Football, Tactics & Glory is a strategy game in the football world.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.01 GiB"
 }

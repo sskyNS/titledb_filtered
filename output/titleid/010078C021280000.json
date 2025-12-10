@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/637673818982b8b79d0a24903c58bc51a8ca68329c4ce6e3232819d8c4fe47ac.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A Story of Parenthood, Growth, and Discovery",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "329 MiB"
 }

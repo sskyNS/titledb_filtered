@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d6fa4258c92a4b6c9eb0f71bc9db72abf95e46739d1b91a344182cce5bebf1a.jpg"
 	],
 	"releaseDate": 20230222,
+	"category": [
+		"RPG"
+	],
+	"intro": "Welcome Back to the Digital World",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.76 GiB"
 }

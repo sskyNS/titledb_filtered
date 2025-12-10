@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/70090d1416924c1e086ee4f7a6a99cb91cb5ef681cb5bf54032e817bfb0034ad.jpg"
 	],
 	"releaseDate": 20200317,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Renowned archaeologist Lemeza Kosugi has gone missing, and only his daughter Lumisa can find him! Enter Eg-Lana, an upside-down version of the legendary ruins of La-Mulana. Think fast, act fast, and whip hard in order to overcome dangerous traps and elaborate puzzles in your quest to uncover unfathomable secrets. What will you find at the end of your journey: triumph, or defeat?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.33 GiB"
 }

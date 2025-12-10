@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/715252a0c88deac456be5c0cf53298a116a9096025e16a91534907e2a70adbd8.jpg"
 	],
 	"releaseDate": 20231104,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Imagine an internet cafe that contains 10 fun little games. You can play any game you want in this internet cafe.  ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "691 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cf360a6a2f46838ef3d2668d3f69c36e7a54954e0e4d7ba7f392a57e2b9a86d.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Play your way to a calmer day!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

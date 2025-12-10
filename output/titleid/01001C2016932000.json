@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c36981f29b8c30b42aa89f917f47bf7a4c24a05296773a744761106e984e10bd.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Build your dream farm with your friends & animals in Big Farm Story. Grow crops, tend your fields, craft and explore the world in this farming adventure. Write your own story!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "307 MiB"
 }

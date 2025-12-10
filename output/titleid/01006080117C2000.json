@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/65d543cca1e3bfb73b3ce531211c3e4d323a5355f7cc69b5ea276cd97d39fa37.jpg"
 	],
 	"releaseDate": 20220902,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Become a Cave Raider and explore the world of the Abyss!\n\nTwo game modes to satisfy your delving desires:\n\nHELLO ABYSS Mode\nFollow the anime's story!\n\nDEEP IN ABYSS Mode\nEnjoy an original story!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.58 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d392ac99cddc44da93e6daf603914b5836914149aa69dac115cc46ace7ed14d3.jpg"
 	],
 	"releaseDate": 20190719,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Competitive party game featuring bears in space suits.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "405 MiB"
 }

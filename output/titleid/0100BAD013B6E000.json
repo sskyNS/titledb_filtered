@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5442a2cf26eba67ee195f879e351afe33622a79bdd0ff346c020c012316a8c19.jpg"
 	],
 	"releaseDate": 20210111,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "In Radio Commander you are playing as an American military commander serving in US Army during the Vietnam War. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

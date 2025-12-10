@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd16aca168d89d5a968c67916f5ea979a6f8829f9300afef19a7047bf1aa692c.jpg"
 	],
 	"releaseDate": 20230627,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A story-driven zombie RPG full of drama and pixels! Survive the raging bytes!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

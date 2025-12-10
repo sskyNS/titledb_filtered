@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f276281680f65b7e3a7149f7f3e28eff7e15b4f3b92930e657ddbc4859553164.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A full-blown mystery investigation adventure",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

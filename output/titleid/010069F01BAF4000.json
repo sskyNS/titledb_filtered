@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f726a8226b4a0e631a41ef7d7521e280451cc76ed7b41bd607205b283f2394e7.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The mysterious curse from the Lost Lands has destroyed Susan's family idyll.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.51 GiB"
 }

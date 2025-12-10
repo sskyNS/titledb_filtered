@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/84e4414ffc745acfc84c739d796ae35a85ef78a0636b1ad0a3877b41a607cc7c.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Use your lives and souls wisely to finish the levels and save your friend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

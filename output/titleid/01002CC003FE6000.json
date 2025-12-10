@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b44b69971813c744e1685496406fd62d0463d63f7e263f200d352eee160d6194.jpg"
 	],
 	"releaseDate": 20181016,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Lead a group of interstellar pilots dedicated to free the Atlas Star System from Grax and the Forgotten Legion. Featuring guest pilot Fox McCloud and his Arwing. Plus bonus Star Fox missions!\n\nStart your adventure with 5 Starships, 7 pilots, and 12 weapons \u2013 all included. \n\nStarships:\nArwing\nZenith\nNeptune\nPulse\nLance \n\nPilots:\nFox McCloud\nMason Rana \nLevi McCray\nJudge\nChase da Silva\nHunter Hakka\nRazor Lemay \n\nWeapons:\nFlamethrower \nFrost Barrage \nShredder\nIron Fist\nCrusher\nShockwave\nLevitator\nVolcano\nImploder\nFreeze Ray Mk.2\nShredder Mk.2\nGauss Gun Mk.2 \n\nMix and match parts to customize your starship, and build your own playstyle with unique pilot abilities and weapons. Nintendo Switch\u2122 System exclusive:  Fox McCloud pilot, Arwing ship, and exclusive missions!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "16.54 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/58d29b9a32e647456f93e6d851cb48b04c5aa10c554f329ca11f0cd4aa3149b7.jpg"
 	],
 	"releaseDate": 20220629,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Ingredients are falling, collect them to make tacos!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "304 MiB"
 }

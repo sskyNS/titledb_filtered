@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc7fabffb7fbbc17d1f20a5960be3428968ad9a12727a1538c883eb21626f0e4.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Lead Josie into her retired superhero dad's training simulator! But beware, the training room might go rogue, and keep you inside... ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

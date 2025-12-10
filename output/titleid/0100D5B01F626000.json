@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6aa8c3c78a9198715aa4b14dfbba1237531a26ad8da75d5149a209fd2c9de94c.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Defeat ZOUNA, the incarnation of evil, and restore peace!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

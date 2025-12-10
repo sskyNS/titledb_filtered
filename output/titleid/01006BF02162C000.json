@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c8f595402f15d0e1319c69c6d5c0437c1d97de27f54d4e80584631f09897bcf.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Realistic watercraft boat parking simulator - test your ship mooring skills in dangerous conditions!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "875 MiB"
 }

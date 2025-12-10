@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1fd215b97f355f086e5e4acf142871842edd68d6bda70d6ec16eb8821e39381.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Welcome to ISLANDERS: New Shores. Build your island retreat in a calm, minimalist world with exciting new features that keep the classic charm while inspiring fresh creativity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "518 MiB"
 }

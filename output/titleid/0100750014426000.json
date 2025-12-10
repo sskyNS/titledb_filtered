@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2e54704286bb05d7ee50e5e07e9e78cd5d94d74b68adf42d8ca6c0397d82752.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can you prevent a disaster on Titanic II?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

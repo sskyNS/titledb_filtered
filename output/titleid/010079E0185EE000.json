@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/31620ec8f8d5ca5d4ebbe78b6bb4dd51a176b390034038047a04968562a31744.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Survive in the wilderness and become the wild",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

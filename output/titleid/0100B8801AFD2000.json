@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/168824c89cc949aa78e83473914f07fe6290660b0bc26bb0c87923de94510065.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Shooter",
+		"Board Game"
+	],
+	"intro": "A classic puzzle game in which you have to clear the game field by shooting colored bubbles, candies and lollipops!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

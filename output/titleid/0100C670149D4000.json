@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/307a38bd87941d272f1a26207c5ae4f423bef1be0caffcc3d6413966db4b30cb.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Welcome to an old, ruined train station. A place that will give you a lot of fun! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.28 GiB"
 }

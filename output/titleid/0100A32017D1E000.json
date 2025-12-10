@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/593cf3dcbda3bded60f237dedee4c848dbb7bb0140686d652600f3b690a10603.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Vzerthos is a 2D isometric old-school techno-fantasy styled Top-Down Shooter.",
+	"languages": [
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

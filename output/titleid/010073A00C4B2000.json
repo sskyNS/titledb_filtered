@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b70a605c291afbd7c719e7b5f840a9161703950da816953f1ee1cf0fe0c9c6b4.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A time-twisting, puzzle-platforming adventure through realms unknown and a world at stake.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1567da97299238a6a5d1ab29a6a88831cebdbed9b40cad0520579d20341a1e8.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Take to the stars in the retro-futuristic adventure-RPG, Beyond Galaxyland, in an exhilarating, planet-hopping journey to save the Universe itself.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/35aa0a08d4a3b05ceed02e9530b492b5ecb6e003f839a68d991cf392ed8f2988.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Platformer",
+		"Party"
+	],
+	"intro": "Play against your friends in this frenzied arena fighting game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "848 MiB"
 }

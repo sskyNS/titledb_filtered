@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c17fe6ecab2e625b1be0627a53315449c7ba7c02a36036735ee44878c0f8c6.jpg"
 	],
 	"releaseDate": 20240625,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Frogun ENCORE is a dashing standalone expansion/sequel to indie hit FROGUN! Explore the world with your trusty Frogun in this cute, lowpoly adventure!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.35 GiB"
 }

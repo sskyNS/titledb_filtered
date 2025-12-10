@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/34bcd7431f19650437627b6ea8fc857de371acb239ac4d2225c66ee1af8d1403.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Adventurers must challenge the \"trials\" that await them beyond the gate in order to make their wishes come true.\nA roguelike dungeon exploration shooting game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "255 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f58e5ed4c0167186c4c8b536ac518e85409e2b24e22e271d5f429190fa77d6c.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "A mysterious curse has turned your human body into a small mushroom and your world is invaded by molds, but not all is lost! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

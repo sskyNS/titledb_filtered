@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f716d1195059a8e27b56229f4724ae4db11efb95af746262d9e57bf6ae556c43.jpg"
 	],
 	"releaseDate": 20220921,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "In Cthulhu pub, you can build your own pub or restaurant. Create cute characters, and creepy monsters and establish a small pub or make a large cafe with a big amount of options.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

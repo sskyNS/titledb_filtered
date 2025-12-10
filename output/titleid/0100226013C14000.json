@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/095e88f4411384f56b1219d52db286749225a7dc6b2e8e4a3dbd8739cbe56d6f.jpg"
 	],
 	"releaseDate": 20210111,
+	"category": [
+		"Party",
+		"Shooter",
+		"Fighting",
+		"Simulation"
+	],
+	"intro": "Team up or duke it out in survival battles, set in the virtual world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "362 MiB"
 }

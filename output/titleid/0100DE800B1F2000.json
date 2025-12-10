@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/282a0375e4d3398ee7d7a9f88945b200d18bcc0ff42d59fa3e2133b8c3a0dd4a.jpg"
 	],
 	"releaseDate": 20190719,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "It\u2019s all about stomping down on your friends! Up to 4 players, dive head first into this party game with crazy, easy to learn gameplay!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "774 MiB"
 }

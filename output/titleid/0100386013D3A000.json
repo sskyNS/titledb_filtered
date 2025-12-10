@@ -4,5 +4,20 @@
 	"publisher": "CAPCOM",
 	"screenshots": null,
 	"releaseDate": 20201221,
+	"category": [
+		"Action"
+	],
+	"intro": "Rise to the challenge and join the hunt!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

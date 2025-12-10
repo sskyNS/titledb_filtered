@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bf54f37073880b8aeff4fe696e7c9e8ab04b8ba3327053ac72485be0e15f23a.jpg"
 	],
 	"releaseDate": 20221101,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "The puzzle-solving fantasy adventure with social simulation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1017 MiB"
 }

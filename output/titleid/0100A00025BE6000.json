@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/975674250e114ecf5d30562b07f10d54a6ebfb12c55184687c3c43dd7073920d.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "A simple strategy board game featuring 20 different immune systems!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "251 MiB"
 }

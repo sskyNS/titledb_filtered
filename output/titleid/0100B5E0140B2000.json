@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0a047add094a2f2b84a1ddc6a6f6b4709142f7767ce8c2bb5856fa889b99c77.jpg"
 	],
 	"releaseDate": 20210727,
+	"category": [
+		"Adventure",
+		"Video"
+	],
+	"intro": "One story, several different paths and endings.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.77 GiB"
 }

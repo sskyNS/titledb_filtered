@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/89bdcd79d9b41542dd1fc9e9c249af7eeb21e909e10359e03b5fe5879bf7b5b1.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "First-Person Puzzle Adventure and sequel to the indie classic, Q.U.B.E. Use special gloves to solve puzzles of this mysterious world and find a way back home.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.03 GiB"
 }

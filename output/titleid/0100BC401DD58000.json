@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b673ec11ff2103bc590e8c0d51beb1ac0c905560d0403d46c0186216e12e20d3.jpg"
 	],
 	"releaseDate": 20240719,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Prove yourself as the ultimate frog samurai",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

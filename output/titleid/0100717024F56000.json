@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/021aa23e31791c1ff4006fa1537f713e4770f313e056a576c7a75611dc34969b.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Run the store, stock the shelves, serve the customers!\nOrganize, upgrade, and grow your supermarket empire!\nFrom carts to checkout, be the boss of your own store!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

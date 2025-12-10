@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/87f37df5126dcc94f9fe9be24ec4128fc484fe5cd11a6c4a61fe1860830e728b.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Study",
+		"Training",
+		"Communication",
+		"Practical"
+	],
+	"intro": "An exciting adventure around the world!\nFind the hidden World Heritage sites!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

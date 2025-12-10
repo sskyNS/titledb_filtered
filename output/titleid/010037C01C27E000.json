@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/40265a42739d4c58881611b80d7a3d9e2641de55378cbdb92b5ac806209c0580.jpg"
 	],
 	"releaseDate": 20231025,
+	"category": [
+		"Music",
+		"Utility",
+		"Lifestyle",
+		"Simulation"
+	],
+	"intro": "Composer is back with new sounds, features, and the ability to share your songs online with the world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "878 MiB"
 }

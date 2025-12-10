@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe015655571fe7bca59ca98e995847d3a62a0cb59bf1bba41e480e3c60783cfa.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Party",
+		"Action"
+	],
+	"intro": "Gather your friends and join the illustrious Space Fleet in this fast-paced party game!\n\nCan you deal with unrelenting disaster and hold your ship together long enough to destroy the enemy invaders? Repair systems, extinguish fires, arm the torpedoes, avoid deadly solar flares, destroy your friends and clone them back again; it's all in the life of a Catastronaut!\n\nEnlist today!\n\nLocal Co-Op\nCaptain the ship alone or with friends as a team of 2-4 and become the crew of a spaceship that must hold together in the face of enemy fire - teamwork is essential for success!\n\nThe Ultimate Party Game\nJump in and play instantly without learning complicated controls - anyone can be a Catastronaut! However, not everybody can survive the challenges of space...",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.10 GiB"
 }

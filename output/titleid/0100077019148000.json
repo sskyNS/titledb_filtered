@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/46f42b1b386f6bf4403dadf00b700e73d70c7a910b342df170028343667ae701.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore 3D space and escape\nYou can also play a game to find cards as a bonus",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "965 MiB"
 }

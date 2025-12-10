@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a04366028fd31b5c5d9cacad6eb573ba97feeb98a64bd093e2370955fa5bb54.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The pixel-art platformer for the winter season - also playable as an advent calendar or all year round. Cozy or challenging, it's up to you!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "918 MiB"
 }

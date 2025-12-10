@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fb3b811c6bf30fdf6c127b1b8f44ef121fcff7b350b41240f65038c18063851.jpg"
 	],
 	"releaseDate": 20250915,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Tumble, jump, snap together, and build your way through rich brick worlds\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.17 GiB"
 }

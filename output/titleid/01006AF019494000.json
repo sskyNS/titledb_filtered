@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e5ba509062c906bc26e4e3ee7c894b0cec0be853cca4867ff47f753c3e35b46.jpg"
 	],
 	"releaseDate": 20220921,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Party",
+		"Other"
+	],
+	"intro": "Relaxing coloring book game. Enjoy filling a variety of pictures depicting the world of dinosaurs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

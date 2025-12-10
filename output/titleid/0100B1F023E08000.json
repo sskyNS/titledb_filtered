@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a636aac21177c66826c8905421fbf7b5603e8fb9f126c395bb71c7674bd04db1.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Play seating matchmaker to please picky characters and solve satisfying puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

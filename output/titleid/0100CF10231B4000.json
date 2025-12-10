@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/96992ec475a0baf7d793586bcc60d663865cc012f79a52be278ae7c5e02070a7.jpg"
 	],
 	"releaseDate": 20251001,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Trapped on the top floor, 99 stories off the ground, you hope to reach the ground floor and escape. With limited food and supplies, find your exit and survive the apocalypse!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

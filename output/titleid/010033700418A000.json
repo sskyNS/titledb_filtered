@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/81fe7bbd1621ded7c73411470c83f6b6ce63a6b90c405e44046197368965ae48.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Defend the North",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.66 GiB"
 }

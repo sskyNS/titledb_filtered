@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/47d727bf7b83d06a5636650decf201fd8dfc0eb74415d5f3a5f82561b94fcbd0.jpg"
 	],
 	"releaseDate": 20250205,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A captivating logic puzzle combining Minesweeper and Nonograms mechanics.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

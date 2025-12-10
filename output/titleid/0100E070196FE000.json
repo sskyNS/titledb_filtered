@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d73263e42a989e0d50ebc04807cce956592c0a7a72b9d968f2da02c36dbf5e7.jpg"
 	],
 	"releaseDate": 20240612,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Master arena-style pinball stages to save the day and break the witch\u2019s evil curse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

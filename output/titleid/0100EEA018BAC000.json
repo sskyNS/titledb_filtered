@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef40881f3b2f0a1cba00eeba816259c19475b48a3a3e3c6f2578bb3a51217da9.jpg"
 	],
 	"releaseDate": 20230109,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Adventure game meets Point-N-Click and Beat 'Em Up!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.85 GiB"
 }

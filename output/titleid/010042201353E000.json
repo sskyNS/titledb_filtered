@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/32ad048eae57bcd2d513c783717d23e5cd10169f9602a55ee74d07be2cf0803b.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "A New Kong Has Appeared!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "315 MiB"
 }

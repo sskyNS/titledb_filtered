@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8786a6fc8cbb0cb10e7c7a402cca5c7de8d71eaa12f628af1652e3ac8de337e1.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "When the imagination comes to life, only the heart can trace the way back",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "558 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa7a5074b0bcfccbd4fd60fc84f872f46378bfdb6693b9ebd332cf4d2f6f53a5.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Will you be a loved Queen? Or, at least, reach your coronation?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

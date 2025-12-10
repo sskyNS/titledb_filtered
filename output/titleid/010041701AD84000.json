@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca4fc2f4f8fc82c2c9d434f6a0b433709ee0859a70f7b7b46026ebe134885849.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Strategy",
+		"Party"
+	],
+	"intro": "This game will AMAZE you!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6b898a9f358e84fbf2e55a8b0413f5dcf664da0e8f211a14be815c727a69180.jpg"
 	],
 	"releaseDate": 20210910,
+	"category": [
+		"Action",
+		"Party"
+	],
+	"intro": "Welcome to microgame mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

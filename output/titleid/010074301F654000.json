@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a25b15c8e3432e57af04091ddc96cdc8c9d1458745f216ec40e2491b0c55b43.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A single-player FPS game that fights against terrorists around the world! Defeat your enemies and get your weapons! Weapons that excite military fans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

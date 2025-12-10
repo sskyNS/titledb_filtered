@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/09fdef96ce07c3001593e57769180511c3b088b95cd2bd64bcf3a41d652abf7a.jpg"
 	],
 	"releaseDate": 20190802,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A Hat That Changes Everything",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "352 MiB"
 }

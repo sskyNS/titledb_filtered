@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b849c0022aec5ebea0849e0f9b240375fec948138987bf3a0df0a4501530333.jpg"
 	],
 	"releaseDate": 20251001,
+	"category": [
+		"Simulation",
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Control the border, safeguard countless lives.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "444 MiB"
 }

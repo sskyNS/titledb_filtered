@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c789b02dfad03e962e050fddc5153ad1c9a3010a307fc647869f21e3fe4628.jpg"
 	],
 	"releaseDate": 20231010,
+	"category": [
+		"RPG"
+	],
+	"intro": "RPG exploring modern conflict, language barriers, and empathy during war.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/03827cbbc261fff7bf2d7138e88e039873641ee487caa8f99cc78bee0101347c.jpg"
 	],
 	"releaseDate": 20240527,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "retro action platformer\nnice pixel art graphics",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

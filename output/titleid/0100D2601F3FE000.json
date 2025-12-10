@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cb393c6a021affd005de6d9027e327f9950005237e4d84cddb6593a05557565.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "In this book-based puzzler, a captivating tale unfolds before you. Its narration blends seamlessly with the conundrums and riddles you must face.",
+	"languages": [
+		"en",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0ff1959399710722ecbab001b22aa3b9edff1be9ca1a1b6f45d83dd9a260ddb.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Asterix and Obelix make an XXL comeback in a Romastered version full of Romans!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.05 GiB"
 }

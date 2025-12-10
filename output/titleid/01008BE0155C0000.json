@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d1cb05cda671c9c30b45cd4392067995383ae2bc0cd340ee2c32df2d87c69f.jpg"
 	],
 	"releaseDate": 20210704,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Sports",
+		"Training"
+	],
+	"intro": "Will you run out of arrows?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "63 MiB"
 }

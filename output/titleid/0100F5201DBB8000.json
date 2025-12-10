@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed199c4b5704cc9fcb7b53722922e4b59b1fa77ba84f5be7343fcc8a9adf25e6.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Experience realistic forklift operations, diverse environments, and challenging missions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

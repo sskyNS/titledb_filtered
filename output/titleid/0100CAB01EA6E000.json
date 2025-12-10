@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e05072ffc0ff6360c8e5f2cf6c6b1de6ed3cbdb4b072c2b91d4bcabecb11ec37.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "In a time when might was the only justice...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d9259a531ce1998dfc53b8fb1c0fbedd5ad738870f5eb3e5a498ae33e34fbe0.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Save the baby kangaroo and take out those enemy monkeys!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "87 MiB"
 }

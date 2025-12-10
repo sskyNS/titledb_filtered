@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/794130db9768cd42cc12c28012210c3b96e40ae0b299a26755eca56f6dd9ab46.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Study"
+	],
+	"intro": "Start your journey in the unlimited world of numbers!\n",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f197dcb690d64e8f88474b0a4c94d7d7fb93b11893a22a43718387a31f33589.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "With a world on the verge of being frozen in ice, hearts unite once more in a sequel to the smash hit RPG series!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "247 MiB"
 }

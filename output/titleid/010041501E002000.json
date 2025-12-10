@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1f7a24013ef8de5e39e086490f7dced52c38de626492467637a4056702bd0ca.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Simulation",
+		"Action",
+		"Party",
+		"Shooter"
+	],
+	"intro": "Survive, Adapt, Unravel: Conquer the Martian Frontier!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

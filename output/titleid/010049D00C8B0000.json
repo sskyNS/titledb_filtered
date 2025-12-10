@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a085de9db6e1424fd24502a290b750e8480c074d9371f9b38b3017c4bf1934f.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Unleash Swimsanity! - 4 Player Underwater Shooter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "769 MiB"
 }

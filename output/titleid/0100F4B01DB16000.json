@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/71f203bdacfacdfe9e62a2eb9a644f1a92dda4a3bbac7aebab1498a3900e0e0f.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Go for Gold!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "886 MiB"
 }

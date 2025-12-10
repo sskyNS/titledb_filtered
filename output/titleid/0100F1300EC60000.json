@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab90da4bed39407d362926d0948e24e0f4fbd258d5cfe737c4d5e0bd9a992a2b.jpg"
 	],
 	"releaseDate": 20191004,
+	"category": [
+		"Adventure"
+	],
+	"intro": "You\u2019ve just woken up next to a stranger. What do you do?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

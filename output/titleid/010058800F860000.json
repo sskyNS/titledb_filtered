@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/afdd4e0f86cb6c26cd17f4d6a2ee1ca65ee4e79f18ca825b0b175d98b381d99a.jpg"
 	],
 	"releaseDate": 20200107,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Nicky is a fun and challenging strategy game in which you have to carefully calculate your movements to get to the end of the course.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "858 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/44b2fa9be58bf023d777fd9fe5a1b3a25dbf62e2e20ee054afdd3d1f58c5bd44.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "aMAZEing Fun From Down Under!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "57 MiB"
 }

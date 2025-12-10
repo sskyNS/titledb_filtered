@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bbb289a228490bd351c3e257638322ec310d23f826414b60c37ba1b2aca9a03.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Action",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "A cosmic horror comedy, your buddy goes around the world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa6289547323878fc7a15243b33b069b8f147811441795ab83af5203a3d20516.jpg"
 	],
 	"releaseDate": 20200908,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "An adventure in an enchanted world!",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ad3b8ed76bb89d0dad4ac005855ae9b6d95cd6597a65c0af193f498328d8378.jpg"
 	],
 	"releaseDate": 20250307,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Defend your cash, outsmart the heist!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

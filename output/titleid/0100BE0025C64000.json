@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fb1e5c371f8f88fddbb32e7fd23e0c4b90652f018895e120f0b22e4d7136827.jpg"
 	],
 	"releaseDate": 20251105,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Practical",
+		"Lifestyle"
+	],
+	"intro": "Relax and enjoy completing beautiful picture puzzles piece by piece.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

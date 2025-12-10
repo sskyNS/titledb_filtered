@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5ddab10227fab5d22b3230910d9931e21efa7998cd88018a85960c11db321a4.jpg"
 	],
 	"releaseDate": 20251210,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "You play as Morgan, an aspiring engineer headed home to complete your family's dream project - a rocket ship! Finding home not quite how she left it, Morgan will need to research and build clever contraptions and sprawling factories to help the locals. From simple drills and furnaces to complex assemblers, cranes and miles of conveyor belts, you'll convert local resources into useful materials and bring industry back to sleepy St. Ambroise.\n\n- Build clever contraptions and sprawling factories to solve puzzles and help the town\n- Get to know the locals, make lifelong friendships and become the heart of the community\n- Research and invent new machines, energy sources and mechanical friends\n- Discover a heartwarming story as Morgan, an aspiring engineer with high hopes for town!\n- Finally build your family's rocket ship!\n\nOutside of smashing together crazy contraptions, you'll need to mine out resources, explore coasts, railyards, quarries and underground areas - each part of town has its own materials to inspire you! You'll need to complete challenges, incorporate electrical elements, water, cranes, furnaces, crafting, automate through robotics, and loads more to ensure St. Ambroise returns to its former glory. Are you ready to roll up your sleeves?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.47 GiB"
 }

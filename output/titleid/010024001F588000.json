@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e429bfc06c8c47ce42e09eabdadc0568b25341d928c1d1c0640f1b04c54a2f77.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Build the town of Heropolis.Gather your strongest heroes and destroy Evilcorp!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

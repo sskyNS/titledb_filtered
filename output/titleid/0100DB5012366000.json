@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f43ed9ce139efb062efc1837df437f050edcdbf5bf240641fbd4d631b1bcf479.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "What The Fork - a chaotic couch coop forklift simulation is the best use of forks since dinner! Face the new challenges alone or with up to four players in story, vs or freeplay mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.66 GiB"
 }

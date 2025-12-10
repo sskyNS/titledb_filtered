@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de693104f0c01258cbf5aed575ec1ca4dd3b62420310c6a811c797a42479bba4.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Slide squares, fill the grid, and solve tricky puzzles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

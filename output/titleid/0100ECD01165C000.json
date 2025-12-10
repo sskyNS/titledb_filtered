@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9601c462b0872073d4ede8230a3e4411e8399a0c3fc570b63c35830f8d6d7550.jpg"
 	],
 	"releaseDate": 20201007,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Trouble has occurred in the lands of Shmubedi Boo! An evil rabbit stole supplies of apples from the inhabitants of the city. Help stop the villain and bring the stolen apples home.\n\n\u2022 It's more fun together.\nPlay with your friends on the same screen. Who will defeat all the bosses and save the inhabitants of Shmubedi Boo?\n\n\u2022 Real hardcore.\n100+ levels of increasing difficulty, 5 unique bosses, tons of bonuses, traps and monsters await you on your way.\n\n\u2022 Majestic heroes.\n7 heroes to choose from. Try to play for each of them.\n\n\u2022 Apple shop.\nWould you like to buy yourself a hat or an ice bomb to freeze your friend?\nNo problem! In our apple shop, your hero can even buy a life for himself, if you have enough apples, of course.\n\n\u2022 Purgatory of Heroes.\nTry your luck in the purgatory to cheat death itself.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "299 MiB"
 }

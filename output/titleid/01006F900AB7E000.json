@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0144904affe1db5c7b541bc53619b7dd731f6e0f061a900477f3febfb2449555.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Ruin your friendships with some jetpack and watergun mayhem!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "518 MiB"
 }

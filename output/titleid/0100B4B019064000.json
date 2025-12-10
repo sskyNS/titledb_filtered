@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d288cc59596ea0e185b43fe85adb0140a9105eb837fbd0e461dd02eb31b56643.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Use your barista skills and reflexes to mix the perfect latte and rebuild your family home and cafe to their former glory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

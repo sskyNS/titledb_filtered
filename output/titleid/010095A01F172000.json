@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6ebcbc893ca6eba618d9b784d7069a376235cd2f6de3ee4d3c81b6f891f2aad.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "A cozy visual novel about running a tavern in a D&D-inspired fantasy! Gather rumors, serve magical drinks, and meet adventurers on a life-changing quest.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

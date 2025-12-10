@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6107b9acc9797e7610bd8fec51cdf715b9a3605381a6de918ab5ab3fe90fd9f8.jpg"
 	],
 	"releaseDate": 20181115,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Make use of the controls, items and training systems to completely dominate the GI Races with your favorite horse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "115 MiB"
 }

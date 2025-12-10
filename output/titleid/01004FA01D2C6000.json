@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/40293131dae3d2b29012c8123a834ca15be501bb40f0ccf778e6085a985573d9.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"RPG",
+		"Other"
+	],
+	"intro": "Set Forth in a Co-Op Rougelike Deckbuilder Where Every Decision Matters",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.15 GiB"
 }

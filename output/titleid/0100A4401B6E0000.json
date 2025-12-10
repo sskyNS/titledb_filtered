@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/af8861664797cf8e1767ed611d661422c3c4baee1a097a33a63debf593b63b79.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The nameless dragon has left his valley to save a friend, but the lands beyond lie in ruin.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

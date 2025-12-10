@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7f2b0959b400daba5a757eb0b71a1e09fb055787e2ecb824fc5ef3e022ef057.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Super Gravity Ball is a gravity manipulating puzzle platformer that takes place in a sprawling galaxy amongst the furthest reaches of the universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "800 MiB"
 }

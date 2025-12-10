@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6f10828d654cfeb53614c9265f82ce0dd82c28373c59f0b4828b6764b9d9fbc.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Logic puzzle game with RPG elements",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "285 MiB"
 }

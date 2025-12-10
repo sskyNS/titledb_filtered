@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d32ca5daec86afd98754ec97124987062f03c92d802ed371f4ea2a608e3e08e.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Action"
+	],
+	"intro": "A visual novel where you play as a beleaguered henchman working for a bumbling supervillain, and a superhero satire packed with colorful characters and meaningful choices.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

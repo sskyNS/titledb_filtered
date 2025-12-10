@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc5aef66eb4aca0a0f76f6a2cd58d255019e498eee54201672cbbdb3057f3618.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"RPG",
+		"First-Person Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment and Private Division.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "17.28 GiB"
 }

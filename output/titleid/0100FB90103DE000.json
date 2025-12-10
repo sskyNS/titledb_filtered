@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b8ff6afd15996d43225474850dd5126047b7c06f0893b1987e6b3b0f4f63123.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Onward To Adventure!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.97 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd6dd15dca514dc7da5b7c31f1851160eb32bde8087ac0c48b8d2b1d1edf0cc4.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Super Toy Cars 2 is a fast-paced arcade racing game where you control miniature cars that speed across amazing tracks made of supersized everyday objects",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.13 GiB"
 }

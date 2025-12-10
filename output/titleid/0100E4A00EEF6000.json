@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/24f094dbb09b1b49cce3991a52053e768b3c17ad326f47976fc428fb86f0523f.jpg"
 	],
 	"releaseDate": 20190816,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Help a Duck gravitate to golden eggs to become rich!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

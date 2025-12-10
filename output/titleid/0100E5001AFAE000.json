@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c8247fa7c71872985a9de8b5a26f4057c8a54598a1d58e8964d3b29f9c93b91.jpg"
 	],
 	"releaseDate": 20231024,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Unleash Your Pickleball Fever! Serve, Dink, and Smash your way to victory!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

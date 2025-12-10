@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f941cfd551d1ce82c17830e2586961e6d067d206d4c9f4bc72e431729343c9c.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Party",
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "WSS'91 is here! Welcome to the 90's, kid! Soccer, action and graphics on par with the arcades! Gather up a bunch of friends on your own living room! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "671 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7d8f396dfc72e538839654de16abc711ee5b3a78a263e0e629c0a5a7a8020ce.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "End the super population on hell to earn back your life on earth!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

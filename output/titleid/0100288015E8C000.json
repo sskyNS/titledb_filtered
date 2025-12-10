@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa56f81e38e551d701cf356f7b46839b4299aa781231675d4b52ba95b695285e.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Klonoa is back!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.33 GiB"
 }

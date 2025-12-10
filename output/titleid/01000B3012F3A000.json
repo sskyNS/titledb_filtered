@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/93197e77922d487a24b51ad08eb8474b1f06211e8384f33c093292cd19c6ad1b.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "An action-adventure roguelike with a bit of RPG tossed in. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

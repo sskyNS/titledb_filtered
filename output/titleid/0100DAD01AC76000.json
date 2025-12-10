@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfbf85a946d79ec8225e10d4449dc76f09e369c305cb19e06292dba8cd993cb9.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Study"
+	],
+	"intro": "The answer to life, the universe, and everything. Connect the numbers. Fill the board. You will find out.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

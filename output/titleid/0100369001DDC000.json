@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/de3c92baa2efceb7206b6253e24d4e9e15a61fe2b3cba0e34a29fc7d068c522e.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Infiltrate the castle and use your special shurikens and body-slams to defeat enemies and get the treasure back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "70 MiB"
 }

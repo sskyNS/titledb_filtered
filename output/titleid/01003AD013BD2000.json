@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1890f542501699976bc24d6b27bcedf97d28e0ebe83667114f6a6933df29de77.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "An old-school scrolling beat-'em-up for up to eight players!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "536 MiB"
 }

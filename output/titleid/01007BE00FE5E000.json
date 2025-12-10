@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c8bc4fa14b4a93c56c4a9020b3c3b8f05e8ce68d7b2ac3a716f733ac94735f0.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Hop into your spaceship and battle waves of opponents!\nNow 100% more Deluxe than ever!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "263 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d9cebbfe0ac9dc8ab51c1c4c9a917f7e3004530531d6f3bbc7c3303e932eea3.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "BraveMatch is a Match 3 inspired RPG game with lots of fun!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

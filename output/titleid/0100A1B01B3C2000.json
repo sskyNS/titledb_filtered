@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfeb594049fe8f98f4113fd10d19686cee586eae4b77d88f1dcc992e5c3335fc.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "This is a survivor combat and tower defense game\nWield various weapons, engage in battles \nTake lost animal friends to the teleport",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "302 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/95964f1c3c274f94a442362a41013236572d0b7c1943df2456155454afb07962.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "Have a Blast is a high energy, kinetic, multiplayer party game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "97 MiB"
 }

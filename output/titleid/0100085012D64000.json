@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/152fa2a4f4493b23c37eaad5829c6d6e3d4295b611e0d1c30b4a62287cdf2aca.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Join in a mad journey of an ex-veteran while Cthulhu awakens his eternal sleep.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "897 MiB"
 }

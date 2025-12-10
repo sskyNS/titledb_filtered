@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0545a39006f41de383a55a9c515d4a807a2a3cc548516e1bcd5c64f7d0b9caca.jpg"
 	],
 	"releaseDate": 20210407,
+	"category": [
+		"Arcade"
+	],
+	"intro": "It's an all-new flavor of PAC-MAN! Test your chomping chops in a 99-player Pac-Royale!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "850 MiB"
 }

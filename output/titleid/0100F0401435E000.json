@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/112b0ee6e2cd8b79c1dffb6dc126dbbc90887d36324ff854455ced01bf4c3138.jpg"
 	],
 	"releaseDate": 20230418,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Drift into the ultimate hero-based combat racing game, set on high-speed circuits inspired by Disney and Pixar worlds. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.22 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3095e03cc5e214de2a7e22f7786ca1911e94c46dd096b22616a0d1f2dff41944.jpg"
 	],
 	"releaseDate": 20190129,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "To your spellbook! Design your very own spells to fight enemies, explore, and right past wrongs in the kingdom of Mystralia.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

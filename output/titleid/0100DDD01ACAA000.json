@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9594c58ecac6282a0b8f00ad86b0c38734731d34212e87234632744a7234ed5e.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A mind-bending first-person adventure where you solve ingenious and complex puzzles by rewinding objects through time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.44 GiB"
 }

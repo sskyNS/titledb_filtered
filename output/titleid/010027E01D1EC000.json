@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc21eb8b47622e214d89be2559866e7b78b80b429722246dce99c469db08081b.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Study"
+	],
+	"intro": "This game offers you different educational game puzzles for preschool children. And you can play a find the pairs memory game against a virtual cat.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

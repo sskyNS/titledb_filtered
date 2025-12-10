@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/52b12a1b604102144976f51919d0fd64df30778995b4069b204db89e031ba966.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Save your friends from the clutches of the evil Lord Vicious and stop the Trials of Darkness!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "247 MiB"
 }

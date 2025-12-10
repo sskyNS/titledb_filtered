@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/90c9f292da28e77adfd3216100b9072dfeeb00d896f41c64e6803e88d4407d67.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A simple, yet challenging puzzler to keep you on your toes at home or on the go.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

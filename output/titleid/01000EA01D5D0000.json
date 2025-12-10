@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dcda89b4c12eec8796bef32022c2e5bc0aa4a5c63cdaefa1fa08c800f69bcd4.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Training"
+	],
+	"intro": "Draw, paint, choose your painting tools, and progress with Draw and Color!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "86 MiB"
 }

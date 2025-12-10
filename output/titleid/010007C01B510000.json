@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e2dc7dbae78315069aba066b42893c759afd342b3a657123175db67332252f6.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": " The dog takes the hindmost!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "367 MiB"
 }

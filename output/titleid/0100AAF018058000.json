@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/91be0b970be12cb30d1cc5cebb9be6eede4b5b35881819cdafb1181f50df8a37.jpg"
 	],
 	"releaseDate": 20231107,
+	"category": [
+		"Party",
+		"Music",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Step into the spotlight. | It's your time to shine!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.16 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7df1b54021a96fe1111c063e66e5179c75fd2994c5abfabae55dd0d2ba29d6e4.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Blast through a thrilling rogue-lite campaign for 1-4 players where different environments, enemies and mission types are blended together. No two playthroughs will be the same!\n\nLIMITLESS SOLO & CO-OP PLAY \u2013 Blast through campaigns solo or in 2-4 player co-op (supports online and local wireless play).\nDEVASTATING ARSENAL \u2013 Unleash destructive weapons and awesome special equipment, from laser-guided missiles and artillery to EMPs and shield boosts.\nCUTTING-EDGE UPGRADES  \u2013  Unlock ever more powerful tanks, weapons and special equipment and pick from hundreds of deadly combinations! \nFIGHT WITH STYLE \u2013 Customise your tank with new skins, cockpit bobbleheads, and horns, now all included in the Gold Edition!\nCLASSIC MODE \u2013 Travel back to the 80s with the retro-inspired Classic Mode, featuring Battlezone\u2019s original two-track controls and worldwide leaderboards!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.95 GiB"
 }

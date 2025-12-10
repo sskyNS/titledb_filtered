@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/62d52a1f326bff12746a8ec7cdbcc6fa901b5ec157ca4c35e1fd520a08f528c2.jpg"
 	],
 	"releaseDate": 20180323,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Prove that under the skin of stone beats a heart of a true hero!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.11 GiB"
 }

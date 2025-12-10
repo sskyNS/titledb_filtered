@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9254a1c7075d0b5264739604e8d6b2faef9cb1b761f2c25c01248d98fe0f483.jpg"
 	],
 	"releaseDate": 20220408,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "You are about to get on a journey around small planet-like worlds as if you were in the Little Prince's world.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

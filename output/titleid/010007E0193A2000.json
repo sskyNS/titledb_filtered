@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5af40671ce4099eb33f483f239856db158f84bd26d4126816c8742f95cd6b667.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Polish those magic and thinking skills, because there's no turning back!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

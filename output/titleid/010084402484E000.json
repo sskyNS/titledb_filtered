@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b495f30b9d7ca64ea66eafa09e89555b2e214e9c4467f0cb59b4b92ac6f4edb9.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Simulation",
+		"Shooter",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Plan. Strike. Escape.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.71 GiB"
 }

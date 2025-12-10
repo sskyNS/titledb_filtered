@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/91a006c361bc89bcf99edad824ae68703aa0baa0e6c87d12c928a84e8bf3d2cd.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Gear up for grappling action with Get-A-Grip Chip!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "588 MiB"
 }

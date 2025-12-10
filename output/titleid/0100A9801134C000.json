@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f77d1152bce72dfdc8a012cc1efcc96bef4e24ea2db0afe88ae57d7a6c5bc277.jpg"
 	],
 	"releaseDate": 20210630,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Anna's Quest is a point&click adventure full of dark humor and creative puzzles\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "903 MiB"
 }

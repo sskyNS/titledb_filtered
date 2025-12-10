@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be3fd874bf6b72fb0649a0abd85b1530b092ad86609c2e0a66d74fd33d1266a6.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Take on the challenge and take flight in To the Sky!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf4aa29cf64fe11908286ee7d16d20a3e757320cec770ffab140f0a811e5ac2b.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Blend in, hunt your friends, and become the sneakiest animal at the party!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 8,
 	"size": "230 MiB"
 }

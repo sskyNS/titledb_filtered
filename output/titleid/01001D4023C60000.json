@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e20d7ae9badbe4a13343efd91d770ba1b8dd86192d32140501489dcf4b77362.jpg"
 	],
 	"releaseDate": 20250729,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Day of the Shell is a \u201cone-click, one-turn\u201d tactical rogue-lite",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.49 GiB"
 }

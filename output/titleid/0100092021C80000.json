@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a1e86ecaea4189685779a04ec690265690e362b6460d90158d4c5459b5e1132.jpg"
 	],
 	"releaseDate": 20251118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "The Definitive Edition of the critically acclaimed action-adventure, now available on Nintendo Switch\u2122 & Nintendo Switch\u2122 2!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "27.19 GiB"
 }

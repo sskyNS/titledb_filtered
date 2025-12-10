@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7466f91604e0105349545b55de4583cde46279d17a6096eaddc23d5c4ac67b38.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Immerse yourself in an exciting crime story and solve the mystery of a dangerous criminal surrounded by lightning!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/374ee72669a5fac5b25b51e29aa6b6a37e4b9d3b46042589ad091f1b283e5203.jpg"
 	],
 	"releaseDate": 20240416,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "The world is a vast, beautiful, and dangerous place \u2013 especially when you have been shrunken to the size of an ant.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.51 GiB"
 }

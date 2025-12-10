@@ -8,5 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae6e9a46876ce68ee854c49295307b6f49c2d22584818ce561cc38fb67481af4.jpg"
 	],
 	"releaseDate": 20220614,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Guide the ball snake and break the bricks that have the correct answer. The key is to break as many bricks as possible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "54 MiB"
 }

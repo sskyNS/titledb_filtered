@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fcb4353103d56499f42ebaefaeafebd5a6474199c6f0ce8e0c3498dffc5a06a.jpg"
 	],
 	"releaseDate": 20240629,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Puzzle Your Way Through the Ocean!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1e7fcb1e58950232b2e23b4c107cd986fe8136cb0b230280596e8863e708a72.jpg"
 	],
 	"releaseDate": 20250819,
+	"category": [
+		"Simulation",
+		"Party",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Avoid the boss, dodge traps, and skate your way to the desk!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b69c03cb22f61f71a5d33f45818d8d3b6a5ea305c3b12c7b3d1ed0cd925f992.jpg"
 	],
 	"releaseDate": 20191225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "The pit awaits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

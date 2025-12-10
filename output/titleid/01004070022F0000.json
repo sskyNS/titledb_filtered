@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/acb7670103c35d4e39f5739e39a06a4c7e5a8ec73fbbbd4c6dd4dac9676b95a0.jpg"
 	],
 	"releaseDate": 20171114,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "An Unforgettable Adventure, Bursting With Puzzles and Oozing With Charm!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.96 GiB"
 }

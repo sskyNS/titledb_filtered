@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7ec86d1ee0cad528519310823937696d89e6d71145096e0502aa359118413ab.jpg"
 	],
 	"releaseDate": 20250301,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Dive into a nostalgic retro 3D DOT RPG world!\nA significant level of suspense awaits you.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "160 MiB"
 }

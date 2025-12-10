@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eaa5f2020060b896c48deece5b29cce82e22aa32892f47806961802ec94e54f.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Turn the page and shape destiny in a card deck-building roguelite JRPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "646 MiB"
 }

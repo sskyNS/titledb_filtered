@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/aaa3dcdf3d96946023874983496005f79b9f1f86494461f7e6766894473db164.jpg"
 	],
 	"releaseDate": 20230707,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Where one trail ends, another begins...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.58 GiB"
 }

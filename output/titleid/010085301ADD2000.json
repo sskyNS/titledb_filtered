@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/47423f86b0a0abd4986eca262441bd4b35751b4451d31f3727f111ddbdd1db8f.jpg"
 	],
 	"releaseDate": 20230502,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Experience the pixelated sensation, beloved by thousands of people. Discover a coloring book, unlike any other.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "188 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca1ee695a59d34b981d4a18df25c6a52abd3fb8df4400ece30a8f2af760bbf52.jpg"
 	],
 	"releaseDate": 20230510,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Develop a video game with some help from your cute friends",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

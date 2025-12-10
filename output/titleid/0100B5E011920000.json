@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d9489f7c55d05dc7a5d99005dd040204592a8eaa32406aa4f01b7268d761d17.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore beautiful environments and solve intricate puzzles in a brand new adventure game set amongst a world of wonderful fish planets.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.71 GiB"
 }

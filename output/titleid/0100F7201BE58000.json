@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f42c31506f4157067f9bd2313fd00eaedc3c9fc56ced2399bd8daf58cbf369c4.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Action"
+	],
+	"intro": "Control the puppet's limbs with a touchscreen and attack aliens!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "315 MiB"
 }

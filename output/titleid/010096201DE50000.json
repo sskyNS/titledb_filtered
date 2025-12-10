@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb8171b3425576769ccca148e1ff9465d43015792cf92cb2236f3ee0f08c344d.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Over 140 brain-busting puzzle levels!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

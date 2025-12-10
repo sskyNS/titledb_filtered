@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fce3cef2bd8cdcd19e3eca2dfa02ca8ae4757f4e434475d88dfacf80202191ad.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Think you\u2019re a puzzle master? Prove it! Roll the ball down the twisty roads and see how you do in this tricky puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

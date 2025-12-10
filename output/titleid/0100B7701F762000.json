@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ed3358eb7d3727645ce3c1e5ff5278efc3a780b09120e9902d28468e5d45fb2.jpg"
 	],
 	"releaseDate": 20240705,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Cats Hidden in Cozy Places invites players to discover hidden felines in the cutest and coziest places known to mankind, embarking on a charming and relaxing cat-hunting adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c730e2c9d5e4e944abde9efe4a002dd59fbea1f9bf39bec27a54a51dd59b7ee.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "It\u2019s co-op space survival fun, Jim, but not as we know it. This Means Warp is an intense spaceship management roguelite experience for 1-4 players.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.09 GiB"
 }

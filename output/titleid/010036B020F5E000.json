@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a83e88ed03af6ce3bf68c57d37068504289e7ca946af7953145d2f0eda8496fd.jpg"
 	],
 	"releaseDate": 20241225,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Descend into the cursed tombs of Myra and free the souls of ancient warriors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

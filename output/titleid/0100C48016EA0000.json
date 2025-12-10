@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/33343488f7c396a087ff2a6b26b5f3ac5ee6b1f472b31864e378658d21ae403e.jpg"
 	],
 	"releaseDate": 20220125,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An unusual find changes the life of a young girl forever. From that moment on, Alice is part of the eternal battle between Darkness and Flame.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

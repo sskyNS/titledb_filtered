@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fcb0236d6ac5fa0f680346e3d37587d8182db37c3f01bdcd2e660586f7bd9bf.jpg"
 	],
 	"releaseDate": 20210801,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Demons of Asteborg is an action-platform game with elements of Metroidvania. Play as Gareth and stop Zadimus, the powerful demon who wants to take his revenge on Asteborg.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f8f3fd1eed751c46615dc9650167cc86551f226cdf200393573c650dee4161b.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Fight your way out of this cursed world!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

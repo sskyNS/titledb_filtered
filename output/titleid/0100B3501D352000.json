@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fce410fd175ea13813e42868d6316a5a690583d349114cb007e4e5b0c17d3af5.jpg"
 	],
 	"releaseDate": 20231124,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "The thrill of victory awaits! Conquer challenging tracks, become a rally legend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "743 MiB"
 }

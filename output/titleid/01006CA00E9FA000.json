@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/20b01f456d81c03224c785328614eaf5e1957197f023c3ac7a1682abcaab0031.jpg"
 	],
 	"releaseDate": 20220913,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "WHO ARE YOU, REALLY?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "7.28 GiB"
 }

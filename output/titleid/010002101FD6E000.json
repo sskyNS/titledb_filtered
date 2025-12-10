@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d284b7dc08b56ce484af110ed4aa02317d6a388f8e7bee15e97d06fdbb103ca9.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Your mission is to eliminate enemies, free hostages and defuse bombs to ensure safety and peace in an exciting first-person shooter!",
+	"languages": [
+		"en",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

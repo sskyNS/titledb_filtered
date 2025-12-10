@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/182580b533092ee1b4166ac05e916e8f5c8207c60cb24a91ff6e676489494384.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Not men, not turtles; they\u2019re puppet kids!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "152 MiB"
 }

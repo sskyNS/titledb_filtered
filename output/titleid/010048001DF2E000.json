@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d34f647bb1f44776ce1508dde8b2e113bb665af5953e87cf33de60c563a36efa.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "I don't want to lose any more people ......",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.35 GiB"
 }

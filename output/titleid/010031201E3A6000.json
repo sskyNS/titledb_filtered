@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb68c5a5b9ac1120e7ae809f530d713fb1b774c6a50637a22793640af8a4b143.jpg"
 	],
 	"releaseDate": 20240911,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "A story of love, war and betrayal on an intergalatic scale. A epic third person shooter with both sandbox and linear story progression.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

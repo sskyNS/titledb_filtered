@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d499d95f9789fe4a5c2bf51c9649fc65d745a71ca69164210feb17cb0d53393.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Exploration, puzzles and a touch of classic horror awaits you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e155d6bdacebada7723f38982ba2504e21dea1fdd426eeaf7d0962d64d129da.jpg"
 	],
 	"releaseDate": 20211213,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The most brain-melting platformer is here even more trippy! Ultimate Edition brings you a whole new endless mode of Affinity with new themes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

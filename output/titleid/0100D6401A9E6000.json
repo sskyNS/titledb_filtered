@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c668e0599b9e76553cb08d2fecb42df84fdeaab49486cd9b1f62a775575d887.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Help Alice and her sister save their mother!",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "88 MiB"
 }

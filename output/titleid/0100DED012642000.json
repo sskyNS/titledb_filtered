@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/17abb192d7fc722319da1e80b558f25c5cc2fb3e2e3e909156bbc105a18ea6f6.jpg"
 	],
 	"releaseDate": 20200703,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "The widely popular Switchy Road endless roller now comes in a new enhanced deluxe version. \n\nThe challenging road crossing game now has amazing new levels each with different themes, backgrounds, designs and music! Play starts with the original Switchy Road theme but with skill you will quickly progress through each level to unlock the next unique theme. Once you unlock them all you can go back and select whichever level you want to play again.\n\nPlay all the levels or stick with your favorite ones. Random generated crossing roads make the challenge different every time you play.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

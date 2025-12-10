@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7724e9fbd1443da20142c065c85c1dcb1f82747ea7c0151309ffd8a3c515afed.jpg"
 	],
 	"releaseDate": 20210226,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Includes the entire saga of Watracio's adventures! Country of Woods and Creepy Tales.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "710 MiB"
 }

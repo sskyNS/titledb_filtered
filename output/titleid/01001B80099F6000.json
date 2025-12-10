@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc714a9cd89b175501edec4973c328033c7e03707470885f6ee7c5d2d6fa2879.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Mystery Hidden Object Puzzle Adventure Game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

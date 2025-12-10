@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/21532b01c08b5124a143aa8c0fe2b161b91c3e36ce36aedc4cdaa9f15bf28a55.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "Unleash Heroism or Harness Darkness in AdventureQuest 8-Bit: Dungeons & DoomKnights - Where Your Choices Forge Legends.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

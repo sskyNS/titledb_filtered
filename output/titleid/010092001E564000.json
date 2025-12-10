@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bee5cbb0b14fd4932296f00b88f182be9da2cb19303012260d8167de31092f7.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "\"I'm the one who discovered the hot spring. Let's enjoy this together.\"\nRefresh your daily fatigue with a soothing hot spring!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

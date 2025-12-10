@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/513e8fbc5da36ec4189e8a8b6a1c59b9dac05d0db1af5853fbe66b8ac0b1bda0.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "Rebuild their memories.\nRelive their lives.\nThe future ends without the past.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbc63e382ff9999d08175ccb2c37651a8cbd216f874bdc5f7650fcd01db5e39f.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A new picture logic puzzle from the makers of Pic-a-Pix Deluxe.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

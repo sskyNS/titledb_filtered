@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f96ccfadc815caf42e726900a007a0f34300009e07eee5b71b6e154a33bd69bc.jpg"
 	],
 	"releaseDate": 20240826,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Fly Fly is an endless game where players take flight as an eagle, collecting feathers while navigating through randomly generated hoops at varying distances.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

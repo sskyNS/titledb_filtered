@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89157f603379d07322b0a6b1440dd86b12f9504a3a8ce3219825d435ec15b803.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Hop your way to victory in minimalistic pixel art style!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

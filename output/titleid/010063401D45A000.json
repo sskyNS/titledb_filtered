@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0ca35480a6e15b6c529f1a6ea87a4a843aab374bf002f28cafe0269c314d5f6.jpg"
 	],
 	"releaseDate": 20240206,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A narrative-driven puzzle adventure where a voice wakes you with a purpose, guiding you to explore an apparently abandoned house, with the sole help of a mysterious notebook.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

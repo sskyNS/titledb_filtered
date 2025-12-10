@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c38cd56a0614bfc8e4833bfc4e81f835f46c1d8776f9fbc94c092369d24f445.jpg"
 	],
 	"releaseDate": 20240319,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Embark on a journey with these unique and daring kids as they discover a secret island and encounter dinosaurs of all kinds",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "376 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/724d7f919c44d1e0f14c6035212eb03f01839d34e198f78f7de1e57cb11cb099.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Relive the excitement of lock-on laser shooting and epic sci-fi battles with two of TAITO\u2019s most respected vertical shoot\u2018em ups \u2013 Both original arcade and HD versions!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "654 MiB"
 }

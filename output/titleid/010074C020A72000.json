@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3318d7fad5c9e004121623694e1599e8652713b49b1fe95873507e605ded9039.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Fast, fun arcade football action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.71 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6fdc8c4f1fb6f129a4b0fa014498947a60b42dc0f00c74aa3b78cde69a69f6f.jpg"
 	],
 	"releaseDate": 20190710,
+	"category": [
+		"Board Game",
+		"Party",
+		"Strategy",
+		"Study"
+	],
+	"intro": "Play 3 little pigs with parents and children",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "93 MiB"
 }

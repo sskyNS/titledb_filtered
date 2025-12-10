@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2258205f7c8c5ab256f04e85f603cfec74918d0141073a4f25a1f452cac53ecd.jpg"
 	],
 	"releaseDate": 20221220,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Punch your way to the treasure of the mountain in THE PUNCHUIN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "97 MiB"
 }

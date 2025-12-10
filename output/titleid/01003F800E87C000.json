@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e867ddce53095110fc82864d3c73341307afeaf0aaa3c0c847e62b894b8cf8b4.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Play as an exiled 'wum' looking for a new home in this bizarre but charming world, filled with strange creatures, puzzles, monsters and political chaos.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "507 MiB"
 }

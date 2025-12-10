@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0aa8efd1397766ead8ae6413b526aa9cfa94b6f742d97bcc82cb5c89e066c0e.jpg"
 	],
 	"releaseDate": 20230902,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Advance from novice to crafty pro, executing daring heists and outsmarting police in a captivating world of intrigue and danger!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.01 GiB"
 }

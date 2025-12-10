@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f1d6d3cc3142d8f67d12ddf25e4e54836e6354d2e7b8732f594b2ea32a60731.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Welcome to a spooky party!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "553 MiB"
 }

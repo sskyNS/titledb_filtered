@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/70afa418ab576b49f70f4b1676d17c1c0c574bdafebe328d6699fbb8878f4836.jpg"
 	],
 	"releaseDate": 20240528,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Study"
+	],
+	"intro": "The perfect learning game for kids aged 2 to 10 years. Fun included!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "378 MiB"
 }

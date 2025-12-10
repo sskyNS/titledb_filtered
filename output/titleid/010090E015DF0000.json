@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6b3c35de6c35ed28d973cb945b0ae7b06847d43a9478c89cf4f86f76f7796f7.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Party",
+		"Other"
+	],
+	"intro": "Join a group of adorable Preschoolers on their daily adventures. Watch them play around, and learn valuable lessons about our world. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "651 MiB"
 }

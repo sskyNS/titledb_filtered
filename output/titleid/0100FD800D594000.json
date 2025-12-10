@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f35fd12d773502816a34dcc79cd9bd5fc463817307aec4d37e3fa94ace2bcaf0.jpg"
 	],
 	"releaseDate": 20190410,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Delicious dishes, intense gameplay, now available to-go! Run your restaurant and pick up shifts in your quest to be the best chef in the world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

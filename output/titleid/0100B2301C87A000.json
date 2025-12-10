@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b263a12eeb4ca194d5b8d4351490de5d2100b87f3586ec84e54f552b9e21aaff.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "A shooter inside tramways on suspended railways viewed from below, set in a dystopian future.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "233 MiB"
 }

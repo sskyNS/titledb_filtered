@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/24c3e0a8a54d59aee5d838a301b48538693a69fa3661ec48b2e8424eb0a785c0.jpg"
 	],
 	"releaseDate": 20180626,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Lifestyle",
+		"Party"
+	],
+	"intro": "Sound, light, puzzle-action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "898 MiB"
 }

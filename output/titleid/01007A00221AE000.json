@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f30b6ec649fcf776248685e09afb3f45d66e23a21c9456e71ab2b55fdc0dc16.jpg"
 	],
 	"releaseDate": 20250210,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Solve 45 beautiful puzzles of city princesses drinking coffee, at school or other activities you love!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "297 MiB"
 }

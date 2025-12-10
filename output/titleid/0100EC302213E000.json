@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9cdbd215a496a31d6b8b792e465d4d2d312e1315f42c70a57a0ec044dea4b18.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Escape a haunted hotel\u2014and the bunny that won\u2019t let you leave alive.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

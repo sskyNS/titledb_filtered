@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddd6ee198c354b0bef3a83df2fadc16cdec02a019ea84df494dde1e5c628c4fa.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Adventure",
+		"Action",
+		"Video",
+		"Other"
+	],
+	"intro": "Dead Reset is a blood-soaked interactive horror, where each death brings you closer to the truth.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.18 GiB"
 }

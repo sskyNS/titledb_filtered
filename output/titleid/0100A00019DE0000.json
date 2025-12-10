@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/50ecd22aee5319d239edbcce4681483c9d300981137a6754bb4857372edc1f58.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Battle beyond the Underworld using dark sorcery to take on the Titan of Time in this bewitching sequel to the award-winning rogue-like dungeon crawler. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.58 GiB"
 }

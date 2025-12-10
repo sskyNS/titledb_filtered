@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a13b7483067bc69d2ff6516a9e9ad8fd8da01f458d73fa73cd1d4cc6c68a1de.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "There\u2019s No Case Snoopy Can\u2019t Solve!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

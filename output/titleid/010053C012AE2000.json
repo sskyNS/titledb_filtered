@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/53f39879e0053640f6dcbe9aa2fd95d171902a8e38c9beda2c685088e9dd95e5.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Training"
+	],
+	"intro": "Simple rules, challenging solutions - excellent brain trainer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

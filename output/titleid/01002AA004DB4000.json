@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ff9edbf88af400c4afbc0d7b00b694255359b0f53b2cedb602c1a9436b7c04.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Wipe out the evil from Japan and the US! Brawl with the mobs!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

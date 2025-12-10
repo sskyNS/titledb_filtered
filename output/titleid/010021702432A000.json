@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0316f9ed29e5fbf749c5d6cec7a7b8648f5f8be7edcd5ca74b461530efb7c6d3.jpg"
 	],
 	"releaseDate": 20251007,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "In Dawnfolk, you will explore an uncharted medieval fantasy world, manage resources, build cities, and survive against many dangers. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

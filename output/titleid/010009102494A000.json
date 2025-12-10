@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/144dd7852dacb88c219ffa129e59dcf3a43acb59c5a2746ac6dc687ae9cb7142.jpg"
 	],
 	"releaseDate": 20251218,
+	"category": [
+		"Simulation",
+		"Sports",
+		"RPG"
+	],
+	"intro": "Catch rare fish, upgrade your gear and reel in legendary catches - all with your loyal companion by your side.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "556 MiB"
 }

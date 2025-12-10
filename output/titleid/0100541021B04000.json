@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7b59cfe0267374eee2f088cf33bf07daf2b5988387b1725c2a1163634041c8d.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Solve puzzles as a crab, pushing barrels on a beach in 40 fun levels!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

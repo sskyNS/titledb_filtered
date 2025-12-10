@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/73f631a56d1b973d69c8a432ba0185c06aa78cd01d62c30cfdbd45d6682fbfb7.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "The Crisis Zone is a sci-fi exploration game with horror elements in a dramatic atmosphere. You have found yourself in a secret quarantine area, explore and survive",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

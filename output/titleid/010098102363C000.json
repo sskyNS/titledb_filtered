@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a74fe3f92f4dd21e7972a91bcbbc5d38b312447c13fefff12af0c01635a9119.jpg"
 	],
 	"releaseDate": 20250423,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Search the dark. Sell what you find. Survive what finds you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4805a532895aa42675a01ffc83ccecc14153ca138c5f9e7c885fa542e4c87524.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Get your hands on crystals!!\nPlay in split-screen multiplayer for 1-4 players!\n30 stages in total! normal and hard difficulty!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "140 MiB"
 }

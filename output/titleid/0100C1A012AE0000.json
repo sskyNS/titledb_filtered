@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f659d3a480092d3a7fea96ffe669930a36fdd3046d1d6bce9c6840b2e63172dd.jpg"
 	],
 	"releaseDate": 20201204,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Sudoku + a little bit of math = Futoshiki. Try it!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

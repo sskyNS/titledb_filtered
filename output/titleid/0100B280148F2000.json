@@ -8,5 +8,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/abbe8fcc5c3c6556b3f4813935918abc65bd387df848c4e5fbd3dd5c44a86d96.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Swap the sweets to match three of the same kind and advance to the next level. Simple enough but not always easy ! Play now !",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d276c20041707c3cc4b26b6a8fef515ab23eb12a5769109f4f97a0730a74706c.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Sports",
+		"Training",
+		"Study",
+		"Board Game"
+	],
+	"intro": "Throw, Dodge, Catch! Grab victory with all your might!\nEngage in intense battles in this new and improved dodgeball game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "371 MiB"
 }

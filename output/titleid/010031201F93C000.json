@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f0d663bf6bcda179fba73275976c8a74188818dc481cf2dc7100d78131b43c8.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Old-school first person shooter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9db9ef299bd29a96dcd8f182c567ffe6aa031ff3f69b01bb603b8b296212fb50.jpg"
 	],
 	"releaseDate": 20220513,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "The Cyan Galaxy is in peril! Your trusty little star fighter and rag tag squad of wingmen are the only hope against the evil EXODON!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "620 MiB"
 }

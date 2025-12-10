@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/56c205b01e4274552f2c173638e941ea0c9f097c86ec76d0d8e8e1ac685b800b.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Join big-eared Fin on a journey across ten magic platform worlds to destroy six huge bosses, master magic, and save the world. You are the one with the strength to succeed! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

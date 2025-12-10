@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af9513e2aaa3b9bd4c45f0004d0fd49bd61b6730c2a8a16e98ab2f73a1f711df.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Lydia finds herself alone and trapped in a deserted manor during an undead apocalypse. Will she survive this retro survival horror nightmare?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.71 GiB"
 }

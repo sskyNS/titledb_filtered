@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d721fe9102b885c5d3e8a96f304caa5e9d4e3baca2c9959df09008569355bc5.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "The shadow of a dead king summons you to battle. Strike down the corrupt whom taint the land.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

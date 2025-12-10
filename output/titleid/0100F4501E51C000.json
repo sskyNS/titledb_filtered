@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/488c5934c35b29fd442c4aef60ee8b64910438bbae35993815a310af1f6b296a.jpg"
 	],
 	"releaseDate": 20240526,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Fly high and deliver parcels across continents quickly, with your favorite airplane.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

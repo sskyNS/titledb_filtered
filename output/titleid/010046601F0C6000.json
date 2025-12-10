@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/490c6a9edc9ddfcc2fcec1bcbc26b0a0cbe4d0dbbf84540f26bb71b6178ed4d6.jpg"
 	],
 	"releaseDate": 20240818,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Education",
+		"Training"
+	],
+	"intro": "Become Chess King: Command Your Strategy, Master the Game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

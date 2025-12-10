@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0053c8fadcfdfeb0b88bdf464b78ad70eb8a2c35e959fb1c0cd6caf39a0065b4.jpg"
 	],
 	"releaseDate": 20250311,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An unreliable narrative-driven adventure game. You are trapped, and you must escape. But is that really the goal?",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "447 MiB"
 }

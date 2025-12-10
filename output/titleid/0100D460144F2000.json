@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d7be161e63fc62f1e1ab7087ff2614192b6124a52eb795f61610431ee64e068.jpg"
 	],
 	"releaseDate": 20210427,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Your gun and your baseball bat are the only tools you need to wipe criminal scum from the streets in this 8-bit retro platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

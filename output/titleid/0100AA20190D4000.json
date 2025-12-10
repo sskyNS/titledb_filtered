@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e5760a6328d4119d21a6779fa5fdcadfdb465c043439ac610184add8d916798.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Explore the mysteries of magic in 'Spells & Secrets', a captivating Rogue-Lite adventure \u2013 play solo or in co-op mode!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.95 GiB"
 }

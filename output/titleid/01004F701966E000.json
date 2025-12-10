@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9d000d450f473d5501342f62be3c5d9105f8af36c9600982373b58b926359dd.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Absorb and unleash enemy fire back at them!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

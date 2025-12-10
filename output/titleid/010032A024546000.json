@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4aa9cc7ef65a1ba1b0af317003f2e454374e1a452dc210f104a04d77317bfe08.jpg"
 	],
 	"releaseDate": 20250714,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "An adorable adventure full of mischief, laughter, and bubbles!\nJoin the Trabus family and meet magical creatures, enjoying their humor and friendship.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

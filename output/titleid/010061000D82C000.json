@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d4278aa70af8c71c0614f0fa19114bdecd3c98fe65e1a112bf770c9ac8fe415.jpg"
 	],
 	"releaseDate": 20200821,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Bring Balance to the World!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "445 MiB"
 }

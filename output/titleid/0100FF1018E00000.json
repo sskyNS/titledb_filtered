@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7632ab43087d77b53c7d3e171e51578e0bdeeccbbac46fc04ca3f8b626741154.jpg"
 	],
 	"releaseDate": 20230317,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play in the bigger, wider world of Peppa Pig, and bring your whole family into the story!",
+	"languages": [
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.33 GiB"
 }

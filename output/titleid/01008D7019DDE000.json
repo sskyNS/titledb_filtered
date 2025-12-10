@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c16137f12b3d3e899f0979ef46320d6147ad2dfb52c4651371794462d60c31b3.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A survival horror puzzle game with haunting memories of the past",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

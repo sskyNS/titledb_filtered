@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/06a91f00739e7d7602fd7779334b712886493484a4c3cfc1f831082c9e9d01e0.jpg"
 	],
 	"releaseDate": 20220517,
+	"category": [
+		"Lifestyle",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "Have fun while learning more about horses and riding!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.43 GiB"
 }

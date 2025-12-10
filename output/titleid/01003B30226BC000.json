@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f52e61fbc833d07b7522bd88c076d43c436d2a71a58bf5edd970a9cf89082cdc.jpg"
 	],
 	"releaseDate": 20250219,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Survive the hordes of minions and defeat the bosses! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

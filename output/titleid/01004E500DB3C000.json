@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc8b5d5808e6e14d4fb0494513db9abdd3777182e17f66d8d3cb8b56cdbfdb0b.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Ever wondered what a cross between Tetris and Lemmings would look like?\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

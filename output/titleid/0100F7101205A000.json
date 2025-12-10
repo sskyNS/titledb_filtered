@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf0df03fb61b4d769b6af465c465997e001a6b78e2ae6254f517280529a2b583.jpg"
 	],
 	"releaseDate": 20211126,
+	"category": [
+		"Action",
+		"Fighting",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Take the fight to the next level in award winning Real Boxing\u2122 2. Train hard, fight harder. Prove your worth in the career and multiplayer mode.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.66 GiB"
 }

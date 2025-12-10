@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/be8f62ce59b79fce0ec4314f518a36978da5debe30826dd50f826f8835aca5ca.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Paddles at the ready!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.75 GiB"
 }

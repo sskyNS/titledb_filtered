@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2305987ee4cb88e69fc4a57d5792569155b0b33f91526cac2002a3dacfec2e0.jpg"
 	],
 	"releaseDate": 20210113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Help Hed in reaching the destination by avoiding all obstacles and skilfully maneuvering his body.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

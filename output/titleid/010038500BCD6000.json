@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b36ad19e5a1e896fdb6b5c5e71abde9a4a1bc998c7bd71e760277c9f3a85359c.jpg"
 	],
 	"releaseDate": 20180912,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "The zombie apocalypse has never been this funny!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d22dc6828d4e8ab9d71410eef583ea057bb462fe3adb63247dc7dcd8a97127c7.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"RPG"
+	],
+	"intro": "Explore an underground labyrinth in search of mythical seeds in this 3D dungeon crawler RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d881dba6433db3823f2fd7705335f7aa7f9def90b91f886294c6d5e7449c2f5.jpg"
 	],
 	"releaseDate": 20200825,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Music"
+	],
+	"intro": "Start a rock band & end the EDM empire in NO STRAIGHT ROADS!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "4.70 GiB"
 }

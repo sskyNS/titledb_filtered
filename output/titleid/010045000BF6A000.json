@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/57d4861e02f58ab1e247dd8b4c8985b0fed9fd1052577271e1eee2812c96b843.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "High-speed swordplay battle action!!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

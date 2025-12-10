@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/793e7b2daab491cc4fb8020f9eb8a8c8906aa4e50e350a2bd91d0b312083251e.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Party Hats Go Head to Head! Bounce, float and zoom through the air in this frantic party game and bring back memories from the good old days of couch co-op!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.59 GiB"
 }

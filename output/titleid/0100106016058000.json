@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b8189d52aa6b618931094a515d6e034e6eb58c02719497c7134a9e92e350200.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"\uc561\uc158",
+		"\uc2a4\ud3ec\uce20",
+		"\uc544\ucf00\uc774\ub4dc",
+		"\uae30\ud0c0"
+	],
+	"intro": "\uc778\ub958\uac00 \uc808\uba78\ud558\uace0, \uc9c0\uad6c\ub294 \uc774\uc81c \uc5c4\uccad\ub09c \ubd80\uc790\ub4e4\uc744 \uc704\ud55c \uace8\ud504 \ucf54\uc2a4\uac00 \ub418\uc5b4\ubc84\ub838\uc2b5\ub2c8\ub2e4. \ubd80\uc790\ub4e4\uc740 \ud654\uc131\uc73c\ub85c \ub3c4\ub9dd\ucce4\uc9c0\ub9cc \ud669\ud3d0\ud55c \uc9c0\uad6c\ub85c \uace8\ud504 \ub77c\uc6b4\ub529\uc744 \uc704\ud574 \ub2e4\uc2dc \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "929 MiB"
 }

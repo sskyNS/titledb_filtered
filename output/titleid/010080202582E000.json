@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/40f4ea10f88b2f700d96e4eb293ff8e72c022d7d01b1e3bd60eff08cf3af5e7d.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "In Chronoquartz, every move matters! You have 10 turns per loop: explore, solve puzzles, and use your past knowledge to progress.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "457 MiB"
 }

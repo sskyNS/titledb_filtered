@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/468e0a7773103b7af15b213b576cb9ebe8f0e390f27928670e8350b518847494.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Get the rice back! Help Ikki succeed against the cruel bailiff!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

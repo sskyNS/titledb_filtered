@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f216d63a7c515d890fbb27cf0c7b285d0d5079c2e3df596eb1f7fe49fece951.jpg"
 	],
 	"releaseDate": 20250422,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Join Maliki and her wacky family in their epic battle against Poison, a fearsome plant creature that has colonized space-time.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.43 GiB"
 }

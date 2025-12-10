@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e676ffc89e0e804e9494717ba9e53717a7b4f8824b880115e5aacc0c90ed13d.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A challenging action role-playing game set in a world of dark fantasy. Master 5 unique characters with their own distinctive combat style.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.61 GiB"
 }

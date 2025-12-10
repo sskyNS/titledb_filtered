@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0825b47bb874da9faf320abaa1cc05aeccf2df1acffee7b2f4f5651b624148b.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Believe in the Magic and save Santa!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

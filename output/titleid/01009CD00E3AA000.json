@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8bdc9e7f0b0d1cd01ea01d4a520ecbb0d68efdb166492d8717bff80e3bc76ab.jpg"
 	],
 	"releaseDate": 20201009,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Evil Hex has cursed Europe \u2013 and only Ben 10 can stop him! Explore a 3D world filled with combat, puzzles and secrets as you save the day!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.94 GiB"
 }

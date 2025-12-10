@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/009979ec5d9916993d4ecdb1188ce7d0764149babfc3226dd32bf3b5ec22b5c6.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Wargroove is back! ",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.24 GiB"
 }

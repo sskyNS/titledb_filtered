@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/543eed44d4f5f9ab7bca50d9402603ffac867f7a09607fd38c0aae51811ce58f.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Fighting",
+		"Shooter",
+		"Strategy",
+		"First-Person Shooter"
+	],
+	"intro": "Feel the thrill of real combat, a shooter like no other!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

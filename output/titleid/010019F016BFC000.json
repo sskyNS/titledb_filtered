@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec03c77357ebdd95974351d6296c37ab7cf922d86ce87591ff923463920205c4.jpg"
 	],
 	"releaseDate": 20211222,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An immersive 2D puzzle experience about sustaining natural harmony.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

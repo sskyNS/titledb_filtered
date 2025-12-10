@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/066ce1a1789b9c72e12006d278a392c1a54d5a1a64e3332f082909c872b4f864.jpg"
 	],
 	"releaseDate": 20200106,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The ultimate top-down racing game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "742 MiB"
 }

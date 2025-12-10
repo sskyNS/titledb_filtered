@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6fb7d88fb4ff34ed06965fbbc70c3c0fb1362a140e449fe0d054d86592ac5aa.jpg"
 	],
 	"releaseDate": 20251105,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Communication"
+	],
+	"intro": "Find adventure in every direction!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "811 MiB"
 }

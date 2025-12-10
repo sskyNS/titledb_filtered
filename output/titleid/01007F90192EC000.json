@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/819e1f5c8b5a2f7e466bbb79efc5e27a6e02ca977dce8d7fd17ca250353445ed.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Multiplayer",
+		"Lifestyle"
+	],
+	"intro": "Trivia fun for everyone!\nFully customizable rounds, single rounds, lifeline and more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "529 MiB"
 }

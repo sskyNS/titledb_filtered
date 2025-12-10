@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dde0350ce1842adcf77fe9b593b9f3b37df5aa1c1c34fdd885e903389dcbd02.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A tale of friendship and jelly beans.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

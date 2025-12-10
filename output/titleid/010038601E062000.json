@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cb1404137baf2a16d4fb76a15c4feb90ab41e87149a2ddf4890ef74bdc9487a.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Join Kirm on a touching tale of wisdom, courage & spirit to become a legend!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.64 GiB"
 }

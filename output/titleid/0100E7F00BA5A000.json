@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/184eccd78f6730926e9a54ee36ace0e014c3d84ccbbcfd79a6a169077d3b75bb.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer",
+		"Practical"
+	],
+	"intro": "Recreate Japan's colorful traditional summer game with beautiful graphics. \nTilt the Joy-Con like you're really scooping fish.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "250 MiB"
 }

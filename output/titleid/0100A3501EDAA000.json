@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/483f6ece77c6ee41d75fc9e434b176f79712a613bc9ae02f64031ec7514dbc9e.jpg"
 	],
 	"releaseDate": 20250304,
+	"category": [
+		"Action",
+		"Music",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "AN UNCONVENTIONAL ARPG where you battle enemies through musical encounters.",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

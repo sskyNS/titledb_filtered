@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/29aad478fa3d9050ccad57a55a630cc000c030f20149de436971698807dec481.jpg"
 	],
 	"releaseDate": 20221219,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "A ravaged world in the palm of your hands.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.20 GiB"
 }

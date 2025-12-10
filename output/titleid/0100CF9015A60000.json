@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ad88dc869899777964d626a3b755ae6d233115334f416cdc60f236092c4b61c.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Study",
+		"Education"
+	],
+	"intro": "Chess Brain is a chess puzzle game. Draw the correct path and don't let the King get killed by the opposite pieces! Every second all the pieces will move!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

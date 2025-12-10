@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a0e349198276ea231a9b3239793e813d7edea0293b0bc6d46ae2fd37957e141.jpg"
 	],
 	"releaseDate": 20220611,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Grab your axe and save the environment by chopping and recycling every man-made thing in your path and solving puzzles with your charming animal friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "553 MiB"
 }

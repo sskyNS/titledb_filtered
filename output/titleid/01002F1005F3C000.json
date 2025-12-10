@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b277e4f8ac80f0d10ba9194bc994cecfae69a33953ec567bb72cdef4c1866a0.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Adventure",
+		"RPG",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "A feel-good FPS",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.26 GiB"
 }

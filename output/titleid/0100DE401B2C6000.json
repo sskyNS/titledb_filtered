@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb1d1a08ddcab24c74c45d2c2267db0d9f788d0bb44264827d9e8ec45f06b70c.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Party"
+	],
+	"intro": "    Welcome to the anime girls puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

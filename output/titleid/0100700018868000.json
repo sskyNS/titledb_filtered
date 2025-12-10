@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/31f2aae7be5e7821925f2f8999c90f6ac9bc16e2aa6e5c55711516178ff46a3e.jpg"
 	],
 	"releaseDate": 20220706,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "The best game for everyone who loves to dig!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

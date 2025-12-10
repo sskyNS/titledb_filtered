@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2ad2b9286f204ef89e833bcf5be14dc8c3b164ec5ed9e371731274bb6a99f1b.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Three limbs ripped off,\ninfected with a deadly parasite,\nyou must save your research!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d30a7a85e3deb81862f76bed6bb11842ea9c9b7d499f0188b953d56e4c349ccc.jpg"
 	],
 	"releaseDate": 20190604,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Everyone has a secret. Everybody has a dark side.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "966 MiB"
 }

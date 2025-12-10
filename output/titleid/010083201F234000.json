@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f73bca6a1ee8dba83cd68fa9c1bc1d4cecf8f3f6db003ce207aac8b05f80193.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Caged in a cocoon, the silkworm dreams its last dream.\nExplore a recreated Japan of the 80's, and what truth awaits you as you endure the horror...",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1009 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/13b152382b354d514876bcefb225c4e6d9c9ed97d2f299271d5dd5261039ceef.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "A classic puzzle game in which you have to move blocks and match them three in a row!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

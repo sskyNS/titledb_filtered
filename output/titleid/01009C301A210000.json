@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/17c7eaab27b8210435d48a3ed3bafa0bf2c077818478012d5c3a79ccb60c178b.jpg"
 	],
 	"releaseDate": 20230725,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Run. Jump. Repeat!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

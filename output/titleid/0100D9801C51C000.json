@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b01f4dfe04f70697b8cbc299c73c6353a008dc5bef1f3f6bd08eccb6980495f6.jpg"
 	],
 	"releaseDate": 20240127,
+	"category": [
+		"Simulation",
+		"Shooter",
+		"First-Person Shooter",
+		"Strategy"
+	],
+	"intro": "Immerse yourself in an adrenaline-fueled world of tactical challenges, weapon upgrades, and hidden treasures in this gripping shooter adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "522 MiB"
 }

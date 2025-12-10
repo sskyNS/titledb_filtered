@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bdf0ab890cd13225d7fe1d6f51da9da8672a78890ead3bf4749443ece67807d.jpg"
 	],
 	"releaseDate": 20241009,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Hidden-object adventure where you can decorate to complete missions and create levels!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a496d4eecaf5d28e9dc1b6941810f1606ea7d17abe771c151eca333027e42396.jpg"
 	],
 	"releaseDate": 20240203,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Torn Away is an interactive story with a unique blend of adventure games, side-scrollers, and cinematic first-person levels. Help little Asya find her way home in the middle of war.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

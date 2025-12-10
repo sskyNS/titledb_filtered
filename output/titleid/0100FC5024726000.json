@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/949e719dd8737fb62e3e637e667b89ce18e3bf8a5155d48be8640277c6623fe5.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Use your whip to fly through the sky and defeat your enemies",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "384 MiB"
 }

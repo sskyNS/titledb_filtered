@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e5e36664476f93470a62f08382a7506ffbc6207460302348b0e358b21ec60d9.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Mind the gap and start managing your railways through this strategic journey!\nAll aboard! This train is ready to depart!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "682 MiB"
 }

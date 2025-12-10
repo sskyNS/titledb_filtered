@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd505a3110a9a30284b85a2fe34e48e539212a8bdf2a18111236db13216b489e.jpg"
 	],
 	"releaseDate": 20200207,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "You just have to put the ball in the hole, it shouldn't be hard, right? Wrong! Accuracy, reflexes, patience and a lot of pulse is what you will need to overcome Super Korotama...",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "380 MiB"
 }

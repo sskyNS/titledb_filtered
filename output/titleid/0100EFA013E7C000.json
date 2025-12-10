@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2737a68605ea6ea8428855c17e0412ae25758e08b5ea7bab621ba27cb42e5f11.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Danger Scavenger is fast-paced action, cyberpunk-themed, roguelite skyline crawler. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.19 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb4841b033939b4e382d16171c3f795d81479ee30825bbfdba86ec63cb71acb2.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Start from the very bottom and spend your money and fame in gaining new techniques and exploits to fight the increasingly stronger enemies. Stories and skill sets are inspired by real life events. Heartbleed or Shellshock won\u2019t be enough!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "144 MiB"
 }

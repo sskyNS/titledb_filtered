@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b78cddca8b5bd0dc58cb56ce9286bca90e958cec63e2ea95cc040b1b24a84215.jpg"
 	],
 	"releaseDate": 20220826,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "FEED YOUR APPETITE FOR ADVENTURE IN PAC-MAN WORLD Re-PAC!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.55 GiB"
 }

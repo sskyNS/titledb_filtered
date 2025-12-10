@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b1754a097060af348b76d30d42bb31c5c0b6799d2515723aae9720eca046db3.jpg"
 	],
 	"releaseDate": 20241221,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Plan, match, and clear the board in Block Jam, where every move counts and every block needs the perfect match!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "354 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca1b68a47c9baef1375672f6b664d2c1549eb8d155a8acc5388af8c17ea074db.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Relaxing puzzle game, telling the story of Eon through gorgeous art and music.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f3b0404e422b4b428b1bdb4617ca5f81c16eba91539d8729775e27aa432cd83.jpg"
 	],
 	"releaseDate": 20180411,
+	"category": [
+		"Arcade",
+		"Action",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "A Wild West action game filled with explosive single player action and hectic 4-player deathmatch battles!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "410 MiB"
 }

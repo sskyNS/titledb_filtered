@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e699a4e3884f871b385caa8e54b3c7275cee14b177430774d3dbcc9eab211857.jpg"
 	],
 	"releaseDate": 20250611,
+	"category": [
+		"Strategy",
+		"Action",
+		"RPG"
+	],
+	"intro": "A combination of Action RPG and Tower Defense: slay monsters, find weapons, upgrade your armies, defend your base. Don't let them cross the gate, commander!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.80 GiB"
 }

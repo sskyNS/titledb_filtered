@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e68565349ca69fc1322465f599a605f8c4847948250eb900a9031a91ed550458.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Join Sayo the shrine maiden on her adventure to save the Seven Gods of Fortune. Using charms and her purification wand, Sayo takes on the spirits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d35d8d542fb9956ce2fe8955dc4f635e098043058f8a2cdc2816a789045a95c9.jpg"
 	],
 	"releaseDate": 20230802,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Embark upon a tragic tale and discover the ravaged world of Elypse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "773 MiB"
 }

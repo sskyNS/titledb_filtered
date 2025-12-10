@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/15780be75861caad23ac3ea0209ba6f70ee20f9df5096b1f0492569a8e59ccb2.jpg"
 	],
 	"releaseDate": 20260122,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Grow your trading empire in a post-apocalyptic wasteland.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "415 MiB"
 }

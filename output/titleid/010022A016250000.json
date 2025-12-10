@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed98fc3ff7aad596ad58157d7cdfd1bd5c255c43bb5d37010a1cf69fc06eb77d.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Hokko Life is a cosy, creativity filled community sim game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

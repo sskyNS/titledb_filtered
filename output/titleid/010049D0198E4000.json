@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bd8909e0d60c7e89992f490c6bf073fa8d540c22701d9c2bdac45cd9a5399ae.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Start a scary adventure and be the first to solve all the mysteries of this horror game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

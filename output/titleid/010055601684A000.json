@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0b42d7da857a7168a57ae97a0160608d3215d66acdb31c29b49325dec92236b.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Laugh in the face of death in this hauntingly humorous comedy adventure about a wayward soul trying to make it back to the land of the living. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "315 MiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a47d9b7bdec2b8c21dc853d2c64049adb4a6fe2a53a8245bafe8314af31da1fe.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Simulation",
+		"Education",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Raise baby Dragons and teach them their elemental magic! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

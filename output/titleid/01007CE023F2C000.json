@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad24c13c18d4f4a8c2d012d49a2389535b037c3e69b26eba005cbf40d309f2bc.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Aim your burgers and shoot!\nRaise the level of your burgers and create the ultimate King Burger!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "252 MiB"
 }

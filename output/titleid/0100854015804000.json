@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/386182c42b67122298467e34135d64a2e8aa12028022d570823d9d6fc07863b4.jpg"
 	],
 	"releaseDate": 20251107,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Engage in fast-paced dogfights in this nostalgia-filled world, take on clever foes, and fight to save your fellow toy friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

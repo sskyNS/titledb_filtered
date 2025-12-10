@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a1da4e153572cf7b3050e0b6aa21c2b9462ba1f35055a9b41960f0fb04d936e.jpg"
 	],
 	"releaseDate": 20231027,
+	"category": [
+		"Action",
+		"Fighting",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Are you up for the challenge? Dive into the heart of World War II and prove your tank commander skills in this epic gaming experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

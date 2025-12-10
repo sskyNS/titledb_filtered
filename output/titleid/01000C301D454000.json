@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f22f32bd06f58f1af89dc1bcd5df9fff9455d0f033983d41a6af05111458e895.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Simulation",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Create the most welcoming cat rescue centre around!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

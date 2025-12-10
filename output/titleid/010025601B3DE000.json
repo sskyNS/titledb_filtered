@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/39e314ee1061d1a56a6699e4f1621da65742f5003e3f5afd5c50f4b6f8a7c0c2.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The ultimate sorting and matching game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

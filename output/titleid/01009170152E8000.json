@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce6714bf78cad0d6569cebe358bb9872f1f8d6efc6570c75893587e79578f120.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Hunt space pirates and shoot to score in this accessible, retro-infused shmup.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "222 MiB"
 }

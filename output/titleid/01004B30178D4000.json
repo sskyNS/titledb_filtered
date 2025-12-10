@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b804dd51b5512487e3ee3d7aaf539d1eecd21ff5050c3330280144d2b0f0003.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Decode the mysteries of GUMP!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

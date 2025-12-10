@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5983ee14a06539a33803e37be806da58f410f3917b605583ceeac681bd82721.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Classic board game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "640 MiB"
 }

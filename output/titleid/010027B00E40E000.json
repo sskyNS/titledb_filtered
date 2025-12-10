@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/08b0c942a5f696fb141c775d5b3967869bfc6905e4453703bee6c39ee2a23308.jpg"
 	],
 	"releaseDate": 20191209,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "4.94 GiB"
 }

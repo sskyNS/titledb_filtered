@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/37fe4a3f3c6684fbc3c089d991a32bc1c27787df407a957cf31c6d3b4980eb12.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Simulation",
+		"Education",
+		"Training",
+		"Practical"
+	],
+	"intro": "Become a journalist who researches old car accident cases. Help victims and perform first aid, obtain evidence and reconstruct the events to discover what really happened.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.82 GiB"
 }

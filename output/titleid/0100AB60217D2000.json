@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b87afec404b97db4732b892b222f460808bd370abeb43132647383db27b1ab5.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Dog Ears! Cat Ears! Fox Ears!\nIs this a curse, or a test of love?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc5b542753a31b14b21a57a36226e477e7cad773fd4a39ed151ce4a92924c85b.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Lead a ninja clan in the war to unify feudal Japan!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

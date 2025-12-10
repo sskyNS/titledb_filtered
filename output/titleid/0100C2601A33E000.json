@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ec768297f1af1a0f65bfa5f2ebc35e87de0475de2d33b450a37ec483612b946.jpg"
 	],
 	"releaseDate": 20230919,
+	"category": [
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc",
+		"\u683c\u95d8"
+	],
+	"intro": "\u5973\u306e\u6226\u3044\u306f\u83ef\u306e\u3054\u3068\u304f\n\u54b2\u304d\u8a87\u308c \u304a\u30d3\u30f3\u30bf\u306e\u5d50\n\u6c7a\u7740\u306fNintendo Switch\u2122\u3067\u3064\u3051\u307e\u305b\u3046",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.90 GiB"
 }

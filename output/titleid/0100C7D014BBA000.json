@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5847577af2b44ff5119c47bea5f7e4456acc668bac982cbcf62ce8f310d7706e.jpg"
 	],
 	"releaseDate": 20210616,
+	"category": [
+		"Strategy",
+		"Action",
+		"Platformer",
+		"First-Person Shooter"
+	],
+	"intro": "Change your playground into a battlefield. Square off against an out-of-control 3D Printer with an army of your old-school toys, and stop the Plastic Rebellion!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.00 GiB"
 }

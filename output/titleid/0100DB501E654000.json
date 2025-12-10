@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/62162963974c33507ad4634e38c2c30f1fedd65465c3560bb6ffa55b0d3d571c.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Aim your sushi and shoot!\nBattle against players from all over the world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "315 MiB"
 }

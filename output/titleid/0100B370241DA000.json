@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e02331a767f7e5a683f5718cebef1d6e7cd32e7113473eff5b24a5a6ed61f9f.jpg"
 	],
 	"releaseDate": 20250707,
+	"category": [
+		"Arcade",
+		"Education",
+		"Music",
+		"Communication"
+	],
+	"intro": "A magical adventure where a curious turtle, a clumsy dinosaur, and an inventive hummingbird travel through enchanted lands to restore harmony to their home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

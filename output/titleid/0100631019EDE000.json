@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/202362f709859555c0c87f4af14ac85aa6aed834720b973dc9a433df54d2521b.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Study"
+	],
+	"intro": "A classic puzzle game in which you have to move blocks and make way for the main block!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

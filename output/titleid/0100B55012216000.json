@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f823e7986987f4b7da011705827c2193916c660877af31515390f0a8ea43947b.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Help our Hero in this difficult mission, discover new powers, solve puzzles, climb, jump, swim and face the opponents.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

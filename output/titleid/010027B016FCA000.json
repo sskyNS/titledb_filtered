@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/26af932e692a29f28efe3388be8f990267109ba25b3919f358af06e0a4d89936.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing"
+	],
+	"intro": "This is a delivery action game where you carefully deliver food to customers while kicking other deliverymen out of the way using items such as missiles and shock waves.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "655 MiB"
 }

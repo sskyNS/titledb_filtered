@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4f994c0779e1032afce08e6a9ae4448398c3388d78c459bd73fbdda9e88cf06.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Smash, collect, upgrade!\nCrush objects with your Hydraulic Press, earn coins, and unlock faster presses, bigger rewards, and brand-new objects to destroy!\nEach with unique visuals and satisfying effects.\n\nHydraulic Press is a simple destruction game where every object is made to be crushed!\nUse your press to smash different items and collect coins with each destruction.\n\nSpend your coins to unlock exciting upgrades:\n- Increase the press speed and power to crush faster\n- Gain a coin bonus for extra earnings\n- Unlock new objects to keep the fun going\n\nSimple, addictive, and endlessly satisfying!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "377 MiB"
 }

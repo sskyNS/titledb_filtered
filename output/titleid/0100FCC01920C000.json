@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6031c10f6d238f2607c8862de34cda2dca2bfa56d440b5e55288158de94b9311.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Tank game to participate in the famous battle of Modern War! Win the battle and strengthen your own tank! Destroy enemies with friendly tanks!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

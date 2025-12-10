@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/81af0bf635d1d24e8d9096992f9a40ff70f4eb9af5f9d4624e21ce7589a10779.jpg"
 	],
 	"releaseDate": 20190916,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "As the first girl raised in your village in over 200 years, your choices will decide your fate, and the future of your people.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

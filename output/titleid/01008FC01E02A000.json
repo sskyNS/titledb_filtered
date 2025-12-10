@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/386bbeebaf9fa771131e49fc4784975438f6ed8105c3dbb4bb112ea0796ee14a.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Sling to flagstick through a maze of challenging puzzles! Use precision and wit on this fun rolling adventure!",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "555 MiB"
 }

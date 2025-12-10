@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/264d774158f0c13c0b533fdbf3571fd083aba5eee8a5d670307ccce5a7c961e2.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "As Sara tries to find the miracle cure for her ailing brother, she unravels the dark events of her own past. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.27 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a338363c9a1bf28964b50fa3e11201fe2886c828da0d0c32585e3b1b5734706a.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "A fierce 3 minute do-or-die battle! Feel the thrill of pro-wrestling with your own hands! Now, the excitement in the ring is up 120%!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

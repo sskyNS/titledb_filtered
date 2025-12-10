@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/23a994936b2006a2b82207ad68d6eea443a1230966eec881a34808813e8b071e.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Join our little frog on a journey to save its world!\nBattle your friends in party mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "475 MiB"
 }

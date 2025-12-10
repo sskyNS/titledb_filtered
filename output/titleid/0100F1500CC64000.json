@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/13129ff997a66c48f874d6514e4b2f686597d284b3fcb6843b235a6fe2aa8c31.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Make your own metropolitan utopia! Stores, mansions, towers--anything goes!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

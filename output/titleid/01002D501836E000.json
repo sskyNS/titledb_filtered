@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/716fc15e3024658e0ec9f9a0c08842491fd59b04ce3327bec16cd315e2b93fe5.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Defeat the Nightmare Monsters to save the Province World in Josh Journey: Darkness Totems",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.57 GiB"
 }

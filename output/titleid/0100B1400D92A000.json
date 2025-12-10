@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcd5de619a3d356341047d97b7a056e9b49e418215dc7ff4c3ed50d3ea5ffb26.jpg"
 	],
 	"releaseDate": 20190315,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fast-paced platformer, coop for up to 4 players, space travels, impossible tricks, evil bosses, items trade, mini-games and much more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "422 MiB"
 }

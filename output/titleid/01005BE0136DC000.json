@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/07ae682643a6192f58307734dcb015c931bf9085eba330a323ec20302a4a0bde.jpg"
 	],
 	"releaseDate": 20210123,
+	"category": [
+		"Action",
+		"Party"
+	],
+	"intro": "You are a new seal driver working in Antarctica.\nTilt the Joy-Con\u2122 to control the train for a new kind of electric train action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

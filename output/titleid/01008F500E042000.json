@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d5a0c6dfe4d3593c990976eb2eb4ecf81e06a6c42d96f425bce7279eff64b05.jpg"
 	],
 	"releaseDate": 20201006,
+	"category": [
+		"Multiplayer",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Build and discover in Charterstone - a digital board game campaign. Shape your village into the new Eternal City!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "721 MiB"
 }

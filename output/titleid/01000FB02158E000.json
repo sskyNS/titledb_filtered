@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1af2611ff7a94ff5bd06c675a42c9b358cc69a73852326d2cd9126c9800cc021.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A top-down point-and-click detective adventure. Follow Waffles in his first days as an inspector but beware\u2026 Your worst enemy is lurking in the shadows.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

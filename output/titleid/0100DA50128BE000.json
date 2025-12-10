@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a80025dc836d36eac20879336f623ad037d0ee105aecd858564be5ba7f93e318.jpg"
 	],
 	"releaseDate": 20210702,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Epistory is an atmospheric adventure typing game that tells the story of a writer lacking inspiration who asks her muse to help write her latest book. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.43 GiB"
 }

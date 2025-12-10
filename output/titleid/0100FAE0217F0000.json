@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4237b353e3697ffeeed3e9f462d1305037025693de78ac0c8b4a7e397875d400.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Roam freely, mark, explore and try to unravel the story - however you are not alone. Don't scream. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "734 MiB"
 }

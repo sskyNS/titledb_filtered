@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/858e87271a6ce06cdd0e42efdd869a49ee785e5e7128e379df0ac8cba26f33dd.jpg"
 	],
 	"releaseDate": 20210630,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A unique explosive mixture of platformer and arkanoid! Hit the ball! Move around, jump! Smash the bricks! Destroy the enemies! Destroy everything destroyable!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b34905c7c96b2b225959f86badb068056a0b3acdda1bb84fbaac1c8ab975ddd1.jpg"
 	],
 	"releaseDate": 20231103,
+	"category": [
+		"Action",
+		"Party"
+	],
+	"intro": "Get moving with a multitude of motion-based microgames in a brand-new entry in the WarioWare\u2122 series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.31 GiB"
 }

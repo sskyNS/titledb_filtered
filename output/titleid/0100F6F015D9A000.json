@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd46a8465d2fdf70300bdb20b3f65d5814ddb4141910286d1ca70995b615bb7d.jpg"
 	],
 	"releaseDate": 20220117,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Party",
+		"Other"
+	],
+	"intro": "Get the Cute Characters and Swing to the Max!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/be7c5cc575109459cbf447fd92c752dd9ce0e8222948b4f16e77b204e3106192.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The order has now been given to begin the operation!\nBreak through the enemy's encirclement \nand destroy the enemy fortress!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "83 MiB"
 }

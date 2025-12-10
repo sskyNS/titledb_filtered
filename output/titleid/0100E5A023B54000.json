@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad5d0d11afdce00d38dfe0c2e1c939c01d7433f4722e95dd6b030411cb48c975.jpg"
 	],
 	"releaseDate": 20250725,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Master hospitality, grow your empire. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

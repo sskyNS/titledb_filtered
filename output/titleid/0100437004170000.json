@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c086a7266afe955f96d4eb052e864dc8dffef534743fe319015b01ce20cc7b34.jpg"
 	],
 	"releaseDate": 20171123,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.71 GiB"
 }

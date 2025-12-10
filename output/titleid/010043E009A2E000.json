@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdafe65fdc41d05432546afd2d238717777fcdc8b64ba6e7ce966d5acae40ddd.jpg"
 	],
 	"releaseDate": 20180208,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Get ready for your most creative adventure yet!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "679 MiB"
 }

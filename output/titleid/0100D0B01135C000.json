@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d85a40523f9e221b39c99afadb2bed6e1ce1b3972834b6a4c68dad747c177fcf.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Taking place in the Cyanide & Happiness universe, you play as a weird, unpopular ginger-headed orphan, and it's time to save the world. Or, maybe make things even worse. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

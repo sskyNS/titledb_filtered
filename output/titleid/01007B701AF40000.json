@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/388b8f3d812ce41baa6b12d95048231ee8b5894bb65d568bf76da1c16cfbb098.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Fight with grappling hooks in this party brawler for one to four players. Play as a treasure hunting cat or a land swimming shark as you swing around the stage taking out your opponents.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.15 GiB"
 }

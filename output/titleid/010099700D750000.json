@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/76b92fb0867f78e0afb4f7df4561dfb30739ccbf84fa0ee7f55c22820b1e981c.jpg"
 	],
 	"releaseDate": 20190816,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Sports"
+	],
+	"intro": "6 SPORTS TO PLAY WITH FRIENDS AND FAMILY!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.93 GiB"
 }

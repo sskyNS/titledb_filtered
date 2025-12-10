@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3b5faaeb658f57a90d8d13d40fdbe8e35ccbd7ad4efbcfbf09389624d6e65ac.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Strategy"
+	],
+	"intro": "ISLANDERS is a relaxing, minimalist strategy game about building cities on colourful islands.\n\nWith simple and intuitive building mechanics, you have the freedom to create your own cities on the rugged cliffs of the game\u2019s islands in half an hour or less. \n\nExplore these procedurally generated Islands from lush green grasslands to dry deserts and snowy mountainscapes and expand your settlements from sprawling villages to vast cities.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "228 MiB"
 }

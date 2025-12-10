@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8d1fc9195cb0bbedec96c54327bdef83f37ae28961865c3e9df0a3402c48082.jpg"
 	],
 	"releaseDate": 20200428,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Moving Out is a ridiculous physics-based moving simulator that brings new meaning to \"couch co-op\"!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.10 GiB"
 }

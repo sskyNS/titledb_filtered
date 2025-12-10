@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ab96ec3b067249bda0a6227f2124d6aa8d0059c6d4df30ea4b772c578a80d36.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Join the Union of Magical Girls, as they navigate the free market of Magical Girl heroics, in tactical, grid-based combat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

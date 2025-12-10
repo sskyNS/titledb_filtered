@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b96fdcd597d6a1878f09e18c72e899676631a7a41a75a64dc7fe4d915c3e6950.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Party"
+	],
+	"intro": "The Earth is in pieces...again! We've gotta do more to save the planet!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.46 GiB"
 }

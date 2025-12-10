@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab978d63b63ae7988e67836b741a28e2465617a7c87ad5289e329302ef424ee6.jpg"
 	],
 	"releaseDate": 20230508,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Poosh XL is a neon-infused one button arcade game. It is an addictive 'just-one-more-round' score attack that will test your reflexes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

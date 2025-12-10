@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a14eab12ec06c2b1b22b00ed330fdd4c852b0dc1edc7ab0329b0f9cbc4d08971.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Shooter"
+	],
+	"intro": "A side-scrolling shooting game with a unique power-up system. Instantly assess the numbers on the items and power up skillfully!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "42 MiB"
 }

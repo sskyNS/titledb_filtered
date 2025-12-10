@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bae3d794045729fd2782a9799747f883af88eb17e1b57f2953ca9ead2ebe7b79.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"Simulation"
+	],
+	"intro": "Just because others call you a loser, doesn't mean you are one. Make the journey to the 90s Moscow and experience an adventure about friendship and finding your true self. ",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

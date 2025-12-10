@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c25425e66385b8445a465789240d70b47bd439509e211dc022ff1dc1eada1d8.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Shooter",
+		"Action",
+		"Other",
+		"First-Person Shooter"
+	],
+	"intro": "Welcome to the Resistance. Welcome to Cover Fire.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

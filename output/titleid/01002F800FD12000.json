@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a5d61b582ade8a4854c8e194d28aca135607fc48007dcf806b8f4855de7ecce.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Make telephone calls to embark on a journey.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

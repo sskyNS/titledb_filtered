@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/83b2dd60d800e58b959719dd981cd3667aacb4b5c52d5f818bfa4dcea999afa6.jpg"
 	],
 	"releaseDate": 20190402,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Train your brain with SpellKeeper!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

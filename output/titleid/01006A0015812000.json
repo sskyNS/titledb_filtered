@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/35c4990b00cdbe4674da2a51c392b0c847c100824eac5b2390a01fe4073524fb.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Action",
+		"RPG",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "A contract binds you to Death who seeks to eradicate immortality. Will you do his bidding and restore the natural order, or succumb to its power in this hardcore 2D action RPG?",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

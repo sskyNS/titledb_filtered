@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/085ac505ef1fc8a5cba9525fb51e7f2e63c207c578dce303106a0d03e04b90d9.jpg"
 	],
 	"releaseDate": 20181211,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Explore the farthest reaches of space and solve celestial puzzles in Solar Flux! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

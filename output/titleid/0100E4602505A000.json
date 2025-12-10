@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/395dc8224d5b0fb040eb1b62eb75a332d5ab9e4e24f7ddf1fe0f23bb16f90739.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Immerse yourself in a Comicvania adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

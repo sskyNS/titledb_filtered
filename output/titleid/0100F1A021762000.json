@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/17f4c62e9dde7699633caabb00b9cb015f38339c788bb80c6777d5a0dabd7f3c.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "War, Kingdom, Top Battle, RPG",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

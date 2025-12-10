@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/298083cd546a79af16d285d16f9e4ce32a71b02df27665981ab2a523378fec26.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Hand-drawn horror adventure. Uncover the dark truth behind Carole's fate.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.91 GiB"
 }

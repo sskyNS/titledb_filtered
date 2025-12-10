@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec69cff045bc2bc08aa59421ced2092afb5ca09982489b9e60bb267a4dc4635e.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Sticks Collection is a special compilation of two puzzle games with matchsticks that won't burn you but will light up your mind!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/af33a60190be9387988377d4f741df13c2c1e0715cc91fe7665f02ec17a0a439.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "New town, new friends, new adventures!",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "998 MiB"
 }

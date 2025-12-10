@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d0004db1b3c68d900a43bcd4c20f0b7a58eb7f6ec6389fd3a8ec5234b5d00b3.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Run, Gun and Eat your way through this roguelite RPG shooter where every enemy is edible. Shoot fast. Eat big. Satisfy your appetite for destruction.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.82 GiB"
 }

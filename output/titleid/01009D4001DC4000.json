@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/70e586ec68bee5898ab6db9ca36be996b56079cd32c9fc183b285aec599ad1ca.jpg"
 	],
 	"releaseDate": 20170309,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Who is the winner who will survive outrunner\nin the fighting beyond the generations!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

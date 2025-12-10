@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36fb2c44cda1797fff06fb148bdc30084e3d3bdcfbfe46ed3315d0a4466a7e94.jpg"
 	],
 	"releaseDate": 20190320,
+	"category": [
+		"Strategy",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Get ready to defend your metallic planet from human and orc invaders in this intense, challenging and addictive action tower defense game! Play solo or in cooperation on one console!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "435 MiB"
 }

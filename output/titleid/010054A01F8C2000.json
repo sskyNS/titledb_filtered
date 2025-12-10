@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a6307854cacf41bc6c535483a6af0d6d7958a944cab88252571e2d5965b4109.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Manage your supermarket in siMarket! Purchase products, stock shelves, serve customers, hire staff, and expand your store. Can you turn your small shop into a retail empire?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "517 MiB"
 }

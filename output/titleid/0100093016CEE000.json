@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9761ce639f99e746d388691d38b292a1e1be57f90cb8913baa0359d67b7d992.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Puzzle Frenzy is a compilation game where you play 6 different casual puzzle games.\n*Color Connect\n*Pipes\n*Word Connect\n*Block Escape\n*Luminous Loops\n*Move the Ball",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

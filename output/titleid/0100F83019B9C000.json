@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e44559f096203f513e9f914153297e6b1e05abafc51cf17440fa997384ac4f4.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Restore your light, torn by shadows and face beings deformed by their emotions",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.20 GiB"
 }

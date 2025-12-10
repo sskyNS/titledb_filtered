@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/41f73c9af5bcc956290da013254deed19b6cf733fa67a9df5a84ab3fda4392f2.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Jumping Quest is a game where you need to jump and push enemies off the platform as quickly as possible. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "137 MiB"
 }

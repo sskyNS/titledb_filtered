@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b5cea6ec439f0cc3e130e88b31cd8545d9b049b500ffadde65d470eca2249b5.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "ANIMUS is a high-end Action RPG that offers superb graphics, incredible sound and music, and responsive combat controls.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.66 GiB"
 }

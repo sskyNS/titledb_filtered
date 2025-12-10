@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec8015e9dd9f881aaa59ab043f5cee9a15e7e09dc9b8b3a60fa07df0b5740f5a.jpg"
 	],
 	"releaseDate": 20230824,
+	"category": [
+		"RPG",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Penance Never Ends",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.57 GiB"
 }

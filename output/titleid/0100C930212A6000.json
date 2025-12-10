@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d476808389c971706c1ada62ac3816e820785b2d62120535e4745321c4259e07.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Heart-pounding 2D action returns! Play until your fingers hurt and zombie heads explode! Survive while drenched in blood. The bloody feast begins at your fingertips!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "744 MiB"
 }

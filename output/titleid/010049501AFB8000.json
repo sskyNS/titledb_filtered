@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b67204072e0b8ee09e648045b800fa0c97503b80622ab36b499ba37a13e5375.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Study",
+		"Education"
+	],
+	"intro": "A cute jigsaw puzzle game with over 60 cute cartoon kitties to unlock",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

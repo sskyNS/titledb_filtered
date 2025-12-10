@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/29a79d0f0cfc6241f7b14118df0a046a6c117d86fc2ec2f46087c82478340a05.jpg"
 	],
 	"releaseDate": 20231117,
+	"category": [
+		"Multiplayer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "FOR REAL LIFE.",
+	"languages": [
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.26 GiB"
 }

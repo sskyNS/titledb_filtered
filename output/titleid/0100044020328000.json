@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b02e28c21c4be38531d75bf7f423a11eaaefbe79898d98902080b87fb398318e.jpg"
 	],
 	"releaseDate": 20240928,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Match 3 and ride the roller coaster",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

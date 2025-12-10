@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcaa3eebcbf8ccba5df82863d7990d7e23053da73c0689546dd4d150056e6526.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "1990\u5e74\u4ee3\u3092\u4ee3\u8868\u3059\u308b\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0\u306e\u540d\u4f5c\u304c\u8607\u308b\uff01",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "28 MiB"
 }

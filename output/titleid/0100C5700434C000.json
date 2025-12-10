@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2d194f23c9e5754b87258b1337c0d240bf4448071228021d4b1a71ef09923d8.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Sky Rogue is a fwooshy rogue-lite action flight simulator! Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Choose one of a diverse set of aeros and kit it out with a dizzying array of weaponry. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers and battleships, but watch out for volleys of missiles; when you die, you're dead.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "409 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/956bc60bb5ea31e29e297f53bc685c655a8d65978f1fc5f108f7fc5d0c3e0754.jpg"
 	],
 	"releaseDate": 20230905,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "True Virus is a point-and-click adventure game that takes players to an abandoned psychiatric hospital.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "742 MiB"
 }

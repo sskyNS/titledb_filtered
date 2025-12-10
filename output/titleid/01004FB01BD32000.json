@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ab74cc7028c691375d195fddd2e8379a2f04082bfb4417e70c64738f321b755.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Immersive action-adventure where action scenes come alive in fluid Kung-Fu combat",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

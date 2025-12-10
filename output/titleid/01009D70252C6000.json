@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7492f298328f362c9df176d29f97501fd04d2b0766180dcd21f9a0536f2df82d.jpg"
 	],
 	"releaseDate": 20251004,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other",
+		"Arcade"
+	],
+	"intro": "Enemies advance without mercy, and only you can hold the front line!\nChoose the best upgrades.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "329 MiB"
 }

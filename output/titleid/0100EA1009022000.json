@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6226bd934252ec1202dd36ca851e01548cb5a8559dfdd829eb229e04c7f31fe.jpg"
 	],
 	"releaseDate": 20180503,
+	"category": [
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Bigger. Better. MORE CHOPS!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "202 MiB"
 }

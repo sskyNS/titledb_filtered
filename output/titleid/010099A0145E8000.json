@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/78df9acad891cb51f277344ab1bdb5a89df4c7d9e7e323087e1bde4ea1697058.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Run, jump and slash your way through an epic, vast world of challenges and embark on a heroic journey! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "452 MiB"
 }

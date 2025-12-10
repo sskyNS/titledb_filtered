@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c752f3f6f836bbb4e5f6f11521785f1b4decc2934827c6f270c8e18b88ae7b1a.jpg"
 	],
 	"releaseDate": 20240120,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "Your craziest Monster Truck driving experience ever!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

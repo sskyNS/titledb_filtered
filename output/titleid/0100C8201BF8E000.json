@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b19de58fc8741c2cdd27c52c46f860ecf375be5ecebd21674a9c05b70cbddc2c.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Join the mermaid sisters in their new, underwater adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6b3c0a8d75bceddeb3da31fed9d3e56a7734ba3cf148ea81ce46bfadbfa3394.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Shooter",
+		"Action",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Join the resistance and reclaim Earth from an army of invaders who won\u2019t go down without a fight!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

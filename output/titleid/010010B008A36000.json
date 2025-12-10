@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/11b769cf6c5b1958a1e51bd1bb5ca21ea6105514a0d8f239f7bc05660bf40801.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The extremely energetic Yanchamaru is here! Things are going to get wild!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "75 MiB"
 }

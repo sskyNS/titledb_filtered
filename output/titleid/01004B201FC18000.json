@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/98791819c677b77e43f4de8854965e322373de9b3c3ce29bb76e8089e922fed0.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Music",
+		"Other"
+	],
+	"intro": "Puzzle Through the Seasons\nConduct the Tempopo\nKeep on Beat ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

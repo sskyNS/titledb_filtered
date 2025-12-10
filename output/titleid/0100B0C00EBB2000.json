@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ae326428130be961546f83a8af98278d23a69af1fc50acabc3d6a0c89736618.jpg"
 	],
 	"releaseDate": 20200109,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Protect the world's oceans from giant sea monsters!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

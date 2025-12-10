@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a166242d8d5a1da0c36b0e132b5f44a80a41305f8eeb7fb9b58ba1c0f1f38b.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Shooter",
+		"Party",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Will you be able to protect the obsidian portal from zombies and survive at any cost?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

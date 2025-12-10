@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/237c60b7d7d49ad70f13094c3fedf44f9522f253d5426d1d5a2c055a65270430.jpg"
 	],
 	"releaseDate": 20181115,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Platformer"
+	],
+	"intro": "Cleaning is the new fun!\nSlide the soap squad and clear your enemies through the mazes of a bathroom.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c701f34fd877eebe70b80ed9201934be78e0cf3db707cbe037c1e5696c822102.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "The Power is in Your Cards",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "539 MiB"
 }

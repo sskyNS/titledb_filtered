@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a88e826c0b70c136821025c8ee30f80d39ae1de1a6a25a9a88a9ab2888e8008.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "SokoMage is a new Top-Down puzzle that will push your brain to the limit. Slap rocks, avoid bushes, and hit the crystal to reach the end!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

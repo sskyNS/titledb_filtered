@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3faca8a7b4c129702b32dd2176f0167228216f5d58f36f29d820ef796d1a02b2.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Play poker like a champion!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

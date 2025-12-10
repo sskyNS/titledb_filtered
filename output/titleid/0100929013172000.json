@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/21f4816521d16674ae439a027087fb518cb7b0ab608710155a03f40af4a7881c.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Fly through the fierce enemy defense net to claim the spoils of war.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "38 MiB"
 }

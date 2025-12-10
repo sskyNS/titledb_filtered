@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/032b060ee350033266bc9e5f220e34985728db6574e3290812b57f38ec74691d.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "CONSTRUCT CONNECT RESTORE",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.68 GiB"
 }

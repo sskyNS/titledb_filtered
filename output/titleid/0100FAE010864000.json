@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d48cfa628083d258bb9469805e75cb753be5bec29c05015425aa09ffacf4c424.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A Tale of Ink and Blood.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "675 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d452de1685f951b66a9c532cbaefd8f339f0efa2c20b64997010809c8d4f955d.jpg"
 	],
 	"releaseDate": 20220613,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Play the Jumanji board game from the original 1995 movie. Roll the dice, read the riddles and face the dangers in card-based encounters. Add to your deck, work together and win!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "854 MiB"
 }

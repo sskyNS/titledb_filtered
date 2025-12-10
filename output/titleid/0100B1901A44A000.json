@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c9c57e52a5664413f4e96756538f7cd25bed82183d0a8ed90b622113f9841df.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Brick-busting action returns with outfits to unlock for an even larger cast of beautiful companions!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

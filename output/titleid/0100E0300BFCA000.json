@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f666af5ba1f7e51c0608362b6c410f5db3818b943f5f259d05aab0399cbcb5f.jpg"
 	],
 	"releaseDate": 20181121,
+	"category": [
+		"Education",
+		"Multiplayer",
+		"Party",
+		"Board Game"
+	],
+	"intro": "A Quiz game with The Maus for the whole Family!\nGerman only!",
+	"languages": [
+		"de"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.19 GiB"
 }

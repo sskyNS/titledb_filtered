@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2786ddb582776786c5f7d950fe95ce4be1252bec686923a91ce797dcddecb570.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "An idle game about making cookies! Originally released in 2013 on the web, and actively developed since then.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

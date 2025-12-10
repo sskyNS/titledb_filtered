@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/302aae891b0f7568bc02e56005043c804c5920e5d43b97abeb65dcf18528cad5.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "A soulslike adventure set in a crumbling underwater world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.92 GiB"
 }

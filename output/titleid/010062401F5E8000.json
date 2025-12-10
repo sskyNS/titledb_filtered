@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/76313dc5bcaa7601e32c4813890f86c8f27d0ddcc9be9098b921cc8ebf9b4f82.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Find the key to the toilet in this unlock doors game! Help the little fella!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "660 MiB"
 }

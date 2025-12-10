@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e727a2a6959ad6638af3c94fc48d80e7a81c30ae731da384c506b50ca009c4e9.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Rodent Warriors is an epic 2D rogue-like rpg / idle / indie / retro game... about rodents!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

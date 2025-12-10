@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/055b95a7245d35149fa01a9617dd3d2d1ffc90300c07089f4c8a6c6d27e0c761.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "GO TO HELL, ARREST SATAN. Propel yourself to justice and glory on a journey through hell in this punchy, crunchy, son-of-a-gun precision platformer from the creator of My Friend Pedro.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "442 MiB"
 }

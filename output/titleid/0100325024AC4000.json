@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c80db4fd1351f4a39cb8f22f7f7af3283c41eda4fd0f692fed7f3cf39f450e80.jpg"
 	],
 	"releaseDate": 20251015,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Pounce with precision as a pixel art kitty in retro platforming style!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

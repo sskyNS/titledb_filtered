@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eda388a46c9402938ca100fcc6ccc351915256a64f598e48c11ea9ea61f7c235.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Party"
+	],
+	"intro": "Here comes a party racing game that's tons of fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "298 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bae58d3f65428837051e184b5daaa69a5b09422f50bccb86603c9b34b34a86c2.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Climb the corporate ladder and overthrow your boss!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/feca1f68dad53753b3d76c5982929bbf9366b1cefdabba57fa349923d7a64b58.jpg"
 	],
 	"releaseDate": 20251111,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Rue Valley is a narrative RPG about a man trapped in a time loop, surrounded by a colorful cast with complex emotional stories, each hiding unexpected secrets.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.54 GiB"
 }

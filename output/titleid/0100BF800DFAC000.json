@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd1dc6ace4a55343fb081d061ff93c15c815698645a94f95fad5292161c735de.jpg"
 	],
 	"releaseDate": 20210804,
+	"category": [
+		"Action",
+		"RPG",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "You\u2019re able to join forces with up to four players to take on a never-ending army of orcs, demons, and dragons! Are your defenses strong enough to save the world of Etheria?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.35 GiB"
 }

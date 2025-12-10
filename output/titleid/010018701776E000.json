@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/370119cfb557faa0ab352afe05c48b51884b0090723b126a350f4782e10509c5.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Investigate a murder aboard an underwater train in a mystery visual novel filled twists and suspense.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

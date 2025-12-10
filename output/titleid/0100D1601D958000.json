@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7a8a95cbd8826d408524ea1420a3c00ef2dbbe83085406992600245a481c419.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Draw shapes to solve physics puzzles! Over 250 levels each with their own unique objective. Put your brain to the test by making bridges, levers, weights and more.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "555 MiB"
 }

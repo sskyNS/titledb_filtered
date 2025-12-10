@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e420095dc7df2fd1cfe01fa578c6959d8e0c10fcf18fa841ba1dc3bbd7370ee.jpg"
 	],
 	"releaseDate": 20230210,
+	"category": [
+		"Lifestyle",
+		"Education",
+		"Party",
+		"Other"
+	],
+	"intro": "Wow yourself. Become an outstanding artist with nPaint.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

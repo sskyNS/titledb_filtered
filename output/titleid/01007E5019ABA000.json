@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9954a8dc956527215847eee7fd7da257da737f980c3f3559190694825947fcef.jpg"
 	],
 	"releaseDate": 20231205,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A wild adventure through the Scottish Highlands,\nwith open platforming and dynamic storytelling\nfrom the creators of 80 Days and Heaven's Vault.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cccecd030ffd06a38fc61eef6f0efda1f627bf200769e05b611f785b26ba4c19.jpg"
 	],
 	"releaseDate": 20181105,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Save your family after a horrible accident with both a boomerang wrench and a clock that controls time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "594 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/07cf695434d36304a621ef475a6e761fad1310c328c6f6b29aa82cc9268aaf66.jpg"
 	],
 	"releaseDate": 20251022,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Survive a relentless battlefield in side-scrolling retro arcade style!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

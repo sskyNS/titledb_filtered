@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cc12ad35ea1832d3b7a8448c9e4754bb0c02485ebcc3b201d2015edfa166869.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "He slices! He dices! He... mines? Tag along with this crazy ninja on a treasure-filled adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

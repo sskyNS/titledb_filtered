@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/85bb1ab2185d5c56a36935370ef865fa63484de0ebbbcbad83fe557b947758b9.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Death Coming is a non-linear puzzle game where you take on the role of the Reaper. Your sole objective? Cause deaths and harvest souls while abiding by the Free Will Clause.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "481 MiB"
 }

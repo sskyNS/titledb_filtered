@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/31ca7ece8a3df143b26d83083dfd6491ba695eeb682409f7532dee7834692e66.jpg"
 	],
 	"releaseDate": 20211216,
+	"category": [
+		"Action",
+		"Puzzle",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "[ENIGMA TECHNOLOGIES PRESENTS]\nHave you ever wondered... what goes on inside the mind of an android?",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "345 MiB"
 }

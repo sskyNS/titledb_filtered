@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c002b8e75e8d9e2cd0f17e362113946d0da74a0bb358584933f0868ddbbb146.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Blast aliens to smithereens!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "189 MiB"
 }

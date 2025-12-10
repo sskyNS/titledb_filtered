@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/046d25c9b79883d83351685e8340404cbcd7ad11d3b13e1735781f13ed424f72.jpg"
 	],
 	"releaseDate": 20241023,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "The rabbit has commenced its revenge on humanity! A fast-paced action platformer where teleportation is key.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

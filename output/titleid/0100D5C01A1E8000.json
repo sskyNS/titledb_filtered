@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/df1a2d3857c987e4a61b8a2dd949b547d3aba34dea7c8217daad10cd8265284a.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Roguelike Demon City shooting game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

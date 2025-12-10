@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/286530c0d67465fd87e170de97dc4d04cb841e3d90326948f3b54a94b94e48e2.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Stunning 3D Graphics using Toon Rendering Techniques! Experience a Unique Attack Style with Different Characters. Attack! Avoid! SD action to Enjoy Control!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

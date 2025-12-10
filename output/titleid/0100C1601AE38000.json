@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/670463b71a5a6a29d0c2b827d5d3db3494e171625a98ba40f965ea9803193fba.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "UNITED AGAINST FIRE.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

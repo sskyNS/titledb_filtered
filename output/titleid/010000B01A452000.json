@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/93514f264c58528dbb8137ec1791c044988327b99953ef5b6e193ae0c1e7c396.jpg"
 	],
 	"releaseDate": 20240202,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Master a new Domain!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.37 GiB"
 }

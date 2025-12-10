@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/25031763cae8116df42b57ba48a0fe1b3a072655f9fec459357c40fa34a72c5a.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Will you master the art of rally?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.54 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/922d590e15bed780cea7777526cd209e82a3e31246dc0a1be6196b142ed5f80b.jpg"
 	],
 	"releaseDate": 20201218,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Hours of brain challenge, great for both beginners and pros!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

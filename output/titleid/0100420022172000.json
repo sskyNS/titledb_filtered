@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/353f0d1658ed3b18c2b9ee81aca287e3f0f4f4ec00b2e3c91bf537b01b9994a9.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Spread your wings and discover the beauty of a boundless world, one landmark at a time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "204 MiB"
 }

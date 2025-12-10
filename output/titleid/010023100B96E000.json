@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/578eb55869a6dc0a1fe2927255c1163dc47d8aeee2b5f7d576aa3e2cb0d4eb04.jpg"
 	],
 	"releaseDate": 20180817,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Save Persia from mysterious plague!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "674 MiB"
 }

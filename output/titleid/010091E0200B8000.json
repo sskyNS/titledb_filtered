@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2d8f1d62900d6fac8f9df4427db17d633f4ecdc537c650d30dc1b1b13e1521b.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Immerse yourself in the twisted world of H.P. Lovecraft and unearth the horrors that lie within.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d133400a840e2df36ad70a89f1bd7e3c7d1dd687593635a2d308f30988293e3.jpg"
 	],
 	"releaseDate": 20180503,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Staying alive in the electro abyss",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

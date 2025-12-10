@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/75c787fc63bb64860aa803e966a38c10bfed68f1992687ad00cf5cf4c07df7c5.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Gathering of wizards and sorcerers of the world is about to happen in Albian Castle. They have no idea what secret the castle holds!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "625 MiB"
 }

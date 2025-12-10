@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a651ae6eeccbd1df09bb320b446b521c5edbf738b8dfa8aff176f4b90d49e6f.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Can you conquer the castle?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "592 MiB"
 }

@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dea7ba4a42fca9967cfb08ba8f7318e3fd0243c00b4fa48ef82c0fffa4f44ba6.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "When a nightmare creeps into reality, the only ones that can help are those whose magical powers we\u2019ve believed in since childhood.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.64 GiB"
 }

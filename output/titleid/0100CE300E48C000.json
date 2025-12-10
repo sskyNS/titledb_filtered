@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f7b7de82c27eacff56ed8f2e631cce99c3655af1761d7bc914f048852e5c6da.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "The original River City Ransom for NES \nand its featured quality-up version are now available!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "360 MiB"
 }

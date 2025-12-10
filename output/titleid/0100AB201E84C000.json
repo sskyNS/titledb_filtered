@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a45575ae1ab952aec739161938008dfd0c96f59106cea5263979f8e7ed39dd73.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Help Julia save her kidnapped sister from a sinister cult!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "864 MiB"
 }

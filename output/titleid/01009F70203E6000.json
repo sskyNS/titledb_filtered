@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/036104b49041c8b37c620e23acdcaceb7ee5529878c871708082aa58091ac7e2.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "In a race against time, Betty embarks on a thrilling, comedy-packed adventure to crack a conspiracy that starts with a bang and ends at 3 Minutes to Midnight.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.26 GiB"
 }

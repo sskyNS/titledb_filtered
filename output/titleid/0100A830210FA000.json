@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a8f7da66528d7b71d17877426a7945ce1e97056a8ce918fe6c16a2d5ef24b09.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Cursed Feed is a short, first-person horror game where you hunt down ghost sightings using your tools.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.19 GiB"
 }

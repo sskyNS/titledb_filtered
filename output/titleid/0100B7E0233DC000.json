@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6fd661a780245655e9a5c28b0ffddc47cf9b20b82fb574533721000b6f261dca.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Time-travel with a cat! Explore ancient worlds, find hidden felines, and uncover history\u2019s secrets in this purr-fect adventure!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/789b3a15d983274d50e90f3d2827458b0d12b50ec9492ea653609d685a9fa226.jpg"
 	],
 	"releaseDate": 20170420,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "The original NEOGEO fighting game! Experience how the legend started!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "158 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e026c1a414c9ba35f7fa0f13f4dffe0c685021423aa7a614e1a34267bc05b3e.jpg"
 	],
 	"releaseDate": 20190614,
+	"category": [
+		"Action",
+		"Simulation",
+		"Party",
+		"Shooter"
+	],
+	"intro": "Sail Stylishly Through Surreal Stages \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

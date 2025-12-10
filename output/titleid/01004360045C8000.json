@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d20600443f5c667fe05b6eed86cadf621f5729bedc775f03b591dd02f7f71fb5.jpg"
 	],
 	"releaseDate": 20170907,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Arcade lightspear-throwing simulator based in an Ancient Germanic Future. Co-op for 2 players included!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "682 MiB"
 }

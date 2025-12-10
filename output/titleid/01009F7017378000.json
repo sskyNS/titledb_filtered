@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d0474a093fa6144f4e7ee1c1bcfc8de2d2e893175da1eeae22b0dc592c0c54b.jpg"
 	],
 	"releaseDate": 20220205,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Police and thief",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "41 MiB"
 }

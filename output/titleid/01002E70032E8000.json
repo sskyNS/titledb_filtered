@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4ced13a4a714d7f5dcbe674d5ce5b6f9304bc74907de4d50cedfbbd20d901dc.jpg"
 	],
 	"releaseDate": 20170323,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The ultimate golf game! \nMeet glory in all the greatest courses around the world, and clear the Grand Slam!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "188 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/26531ab670344ce82569ed2c6dd609ab8b025ee53d000c46ff1a417834516337.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Manage a restaurant and inn where heroes and former foes gather in friendship from across time and space!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.85 GiB"
 }

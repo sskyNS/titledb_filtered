@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/470c7be82177b7f65de845d4eac5096580cc40a18d48f3000f607da91e6a14df.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Sports",
+		"Board Game",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Join the Mini Football Cup! Upgrade your team, refine your tactics, and become a champion!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

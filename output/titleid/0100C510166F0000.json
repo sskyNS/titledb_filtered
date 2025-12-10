@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a43e0a202709360c75aa752cf57b2239b0fb722709d73900278daec8d3b8117c.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Grab your sword, board your mech and save Valandis!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

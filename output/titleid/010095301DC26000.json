@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aea9eb415a085c9e6da6523ea5386934e0c573fcdae5545a3c365ec764db2bf0.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Buddy is back! Leading his friends on an exciting mission to save Christmas, collecting and protecting gifts in Santa's frenetic factory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.07 GiB"
 }

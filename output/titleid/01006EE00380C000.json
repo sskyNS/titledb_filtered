@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e695a624a71d2cea7fffce5cd07c64b63229b3eab46a814eef4139a1132d7291.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Platformer",
+		"Party",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "A physics game about floppy animals competing on a reality TV show!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.23 GiB"
 }

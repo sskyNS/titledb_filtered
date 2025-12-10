@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/917a313f6cf1b4592658cded5b478d57b817f86d4ecc91698567ba5060705040.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A funny and charming visual novel adventure. Be a rogue among heroes in this professionally voiced fantasy story!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "498 MiB"
 }

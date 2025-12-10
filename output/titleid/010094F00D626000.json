@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f6279d5c4070ef41e3945945d033afe1e42c36b9fd448fa655f2b48d6cfe2cf.jpg"
 	],
 	"releaseDate": 20190529,
+	"category": [
+		"Multiplayer",
+		"Board Game",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Create words and connect them to the existing ones.\nScore high points and defeat your friends.\nPlay online, solo or in local mode with your friends and family.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.14 GiB"
 }

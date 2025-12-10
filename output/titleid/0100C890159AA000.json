@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2151c343b420930fdf62bdbb8660fcff8d4ebc0ea363d74f9634a5f92787aac3.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A room escape, puzzle and adventure game! \nHelp Vala fulfil her dream and become an astronaut!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "132 MiB"
 }

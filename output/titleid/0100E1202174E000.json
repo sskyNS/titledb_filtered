@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/714b12c3c38b685c0eb2d5420c28d01dd61bce77f9ec7b32d4ae968d08ac648a.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "The long-awaited sequel to \"Nibansen Plus\" and \"Sanbansen Plus\" is finally here!\nBoard the rear car when strange events occur!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "679 MiB"
 }

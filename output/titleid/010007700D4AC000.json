@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/559cdcae588aae27630e9bbc3d9e40b1d7b85e2f4e54c64e18336f4b77f0ac8b.jpg"
 	],
 	"releaseDate": 20190807,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "The Forbidden Arts is an action adventure platformer with a focus on discovery and exploration. You play as a young boy who seeks to master the element of fire.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.34 GiB"
 }

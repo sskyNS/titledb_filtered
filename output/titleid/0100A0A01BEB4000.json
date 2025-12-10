@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6c2eed35ce7be492706b982b1d608a3b8cba72cfaff78d460f082c3a74380fc.jpg"
 	],
 	"releaseDate": 20231115,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Turbo Shell is a fast-paced precision platformer with a unique movement mechanic: instead of running and jumping, you push and pull yourself through levels. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

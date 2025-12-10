@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df6ecac0696e8df91f9f3c3e3ffff9a99ff786450d4ea5f5b1263127403671c2.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Action",
+		"Fighting",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "This is the ultimate test of your bravery and power and you have to prove yourself as the real superhero fighting immortal Gods!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

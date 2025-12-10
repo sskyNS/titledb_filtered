@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bf791643af24e6ee322e20ca98872b367fea6a00b31b904eb50a8da162a6bb8.jpg"
 	],
 	"releaseDate": 20231120,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Inertia 2 is a first-person action platformer with free-run and old school FPS inspired movement mechanics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "438 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f29625061a9ca5cb100b45d0ba1be04709b465003d9fffbad0dc059e8e86751.jpg"
 	],
 	"releaseDate": 20251202,
+	"category": [
+		"Fighting",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "A wild party beat 'em up with crazy challenges!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

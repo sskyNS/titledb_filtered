@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/624952b929a53c42fcd586e513ad85aba4cd65825ad0ab621a764d264191697b.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Help an adorable husky get his donuts!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

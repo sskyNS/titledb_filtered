@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6cf0d2a6f2e2542cb9eeb9afc27a1c884e2c9186c1cba1911edc339d8004c8a.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "This is the 3rd in a series of online co-op coin pusher games, \"Old Coin Pusher Friends,\" set in the Edo period. In this installment, with a Sugoroku (board game).",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

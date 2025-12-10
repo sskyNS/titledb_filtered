@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3eeb5f178301deeaab1a4b8a508efcf81bc2a33ac2a3cc3ca67a66b36b3d9187.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Embark on an archaeological adventure inside an ancient pyramid built by aliens!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.40 GiB"
 }

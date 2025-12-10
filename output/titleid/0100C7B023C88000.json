@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e8b4d33ae98ef15db34e5972d55a30873113685108cff66fdffd2c472e3f719.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"RPG"
+	],
+	"intro": "Adrift, alone, and alive\u2014survive the flood and uncover the truth.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "662 MiB"
 }

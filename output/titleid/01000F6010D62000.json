@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cb18eb1bbfe77270552298e5ff90a67dc97cb0747d97ce2b865f0221ebcd085.jpg"
 	],
 	"releaseDate": 20220315,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "THE FIRE IN YOUR HEART IS BURNING!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "9.42 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/119ebd8f2c88359e64f923ac69dddafd69dca7b13c859d8ee1419b40fb6ab87a.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Do you have the pistol shooting skills to fight wild west robots? \nIt\u2019s a theme park gone mad, with out of control robots.\nAll you need is a shot right to the circuits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

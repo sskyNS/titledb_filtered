@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5165e182e023d7be1bc17a626575faaba917acec9d6d7258478caed7446aa685.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "A fast-paced platformer set in a cyberpunk world",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.07 GiB"
 }

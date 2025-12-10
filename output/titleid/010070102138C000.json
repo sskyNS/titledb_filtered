@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1209464772df452abd82f9a062e3b4dc898f65a9e9c60c281ea01901cbfa852b.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Experience a thrilling top-down twin-stick shooter roguelike. Battle zombies, upgrade your gear, and face fresh challenges in every playthrough!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

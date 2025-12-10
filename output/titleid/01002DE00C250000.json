@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6672539584fabd63c1c9ae13857f6612cd0e47d4377b720379fc515dde70e4fa.jpg"
 	],
 	"releaseDate": 20191120,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "It runs in the family",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.44 GiB"
 }

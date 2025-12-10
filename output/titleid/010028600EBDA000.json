@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/45536e58ea924fcaabc2316aa67afc2bab8ede26379b9f071ceb3435cb05d8ba.jpg"
 	],
 	"releaseDate": 20210212,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Power up, team up, one up to save the Sprixie Kingdom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.97 GiB"
 }

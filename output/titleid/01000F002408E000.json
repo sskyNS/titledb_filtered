@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/390673d0140385495dbf89e9b27591fa3a03a0d8727a504d96e74f40d9816493.jpg"
 	],
 	"releaseDate": 20250704,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Boost Zero is a vibrant homage to classic anti-gravity arcade racing games, where excitement and speed merge in adrenaline-fueled futuristic competitions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9330f2fc0285097a9e20b14f115b1ee34e0e582fb7eff506f0c15fd952bae23.jpg"
 	],
 	"releaseDate": 20230710,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Just a toad on the road... on the warpath!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

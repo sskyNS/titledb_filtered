@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b56e5bb278a7688f092050257c22c49cdc39dc7465b0bb1cbe7960c25985666.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A boy and a girl with a mysterious weapon drone in their hands embark on an adventurous journey from their small underground village to the vast world of new lands. ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

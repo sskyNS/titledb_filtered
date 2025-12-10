@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/398efd3ec272b77de78cf362b2bb40875b965e9d2659988476fa99b8d0451387.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Simulation",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "New type of city building game. There is no money in Urbek. Instead, you will have to build everything with your own resources, such as food, coal, or skilled work. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "523 MiB"
 }

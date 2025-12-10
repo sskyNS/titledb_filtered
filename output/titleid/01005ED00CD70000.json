@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb69eab587e773385da9856da7c32ff1778b3f8f79f98abf0849116bf5d1bf01.jpg"
 	],
 	"releaseDate": 20191028,
+	"category": [
+		"Action",
+		"Strategy",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Rescue hostages, disarm bombs and save the day in this old school, side scroller action with retro graphics and retro sensibilities. Online and Couch Coop Included.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5951a6e1febc82644bee8189d29dcfb040e9259e84b35aa3211557b8360cd6b.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The riddles deepen each time you play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "116 MiB"
 }

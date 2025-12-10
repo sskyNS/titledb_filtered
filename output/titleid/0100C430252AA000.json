@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/146179d0ecbfc2a44b6be9b57578d0be8b311c900a4e91460128022aed13a5ef.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "\"Smith and Dungeon\" is a hack-and-slash roguelite where you play a blacksmith exploring dungeons, fighting monsters, and forging powerful weapons.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

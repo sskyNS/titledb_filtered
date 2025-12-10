@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0212338ddc7033e21a743e5256c0c94309c6284c64edadc49c62cea653c65d20.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Education",
+		"Simulation",
+		"Puzzle",
+		"Utility"
+	],
+	"intro": "Discover the colors of the world in Coloring Pages: Lumberhill Tales!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

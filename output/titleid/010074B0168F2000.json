@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f54f8dde1c2a4c8b5d44adcf4d6235b0b13535f71e82cafc62c9eb0ac4f36caf.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Music",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Rhythm can open the doors of hell!\nLet's escape hell by getting into the rhythm.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.93 GiB"
 }

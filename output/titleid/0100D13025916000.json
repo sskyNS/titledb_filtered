@@ -7,5 +7,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1143925240d91fcf4bea655e65c61b96f5ada1e50a15edfb7b74b3ef8aa97da.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "One pilot, thirty stranded workers, hundreds of asteroids heading their way.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

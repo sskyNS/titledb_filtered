@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d2e6bd72874e7d9bd80ba896a32564cd208f6dae4baf4a8a9e7e9bf2f3f87d2.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Training"
+	],
+	"intro": "A real world physics-based game about manipulating the gravitational forces. Shrink and enlarge bodies, move them around to find your way through over 100 different levels!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

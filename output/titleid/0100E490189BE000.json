@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/50864facebea674f326d431a7fd4a0982a711b11a3cc2dc154215c8dabfe8c72.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Drive legendary sport cars and take part in races! Realistic physics and game mechanics! Tons of new cars to choose from and drive!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "780 MiB"
 }

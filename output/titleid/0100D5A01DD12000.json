@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a59921d8d112ee7180fe560844a1ffc42652afa3a9530d6b51d391aa07ba6cb5.jpg"
 	],
 	"releaseDate": 20240120,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Swing your partner round and round!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

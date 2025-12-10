@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d82df6a0e714d85ec85710600eb502e30921505236c6c5809ed0577cceb6a97.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Fantastic action game.\nAmazing soundtrack.\nBeautiful colors.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "539 MiB"
 }

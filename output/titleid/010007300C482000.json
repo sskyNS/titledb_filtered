@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb7e1288a4f1c80c2defd2a2694a87fc3d99c6594cfc060d9cffea01bbefcf44.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "In this pixel-perfect homage to the classics, you play as Sydney Hunter \u2013 an explorer who gets trapped inside a Mayan pyramid while he\u2019s out exploring!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "370 MiB"
 }

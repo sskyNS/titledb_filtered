@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/645b35ee0b44774098a56bda39c53746c9748deb5dc2540f15d40818e939cc62.jpg"
 	],
 	"releaseDate": 20220302,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Together with Hercules, save the kids kidnapped by god Ares, who is gathering an army to conquer the whole world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

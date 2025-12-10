@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/49491a85d6097a3463f3090aa881b86b7ab3cfebaa044c2da191d97bf8eab940.jpg"
 	],
 	"releaseDate": 20200609,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Turn-based strategy game which combines military tactics and close combat. In a frozen world, eight characters have to join forces in a journey to find Dr. Margaret Blythe, their last hope.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

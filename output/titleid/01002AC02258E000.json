@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0612c85f692bd187877cb1d05781ab758beec7a79cb13afb39f01a11288b7f03.jpg"
 	],
 	"releaseDate": 20250425,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Gnome hunting reaches a new level!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

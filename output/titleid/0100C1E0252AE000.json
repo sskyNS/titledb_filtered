@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/69184479fda639156af694c7a247bef091a25cb180a4d0903c0530ff0407d765.jpg"
 	],
 	"releaseDate": 20250908,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Get ready for a crazy adventure with little animals jumping through mysterious forests and magical caves full of surprises, where every place is pure fun.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "371 MiB"
 }

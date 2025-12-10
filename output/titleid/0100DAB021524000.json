@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2adf8a897f931b5ea871c5f4beff608737c8c74842a8427d1779f3598a13578.jpg"
 	],
 	"releaseDate": 20250117,
+	"category": [
+		"Racing",
+		"Sports",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Fuel your ambition, ignite the streets, and race beyond the horizon!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

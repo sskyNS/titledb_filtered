@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e5137da14d40b7d5ffd4a1db99201849ef6e3372285e989b3d0ca59f035284f.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"\uc561\uc158",
+		"\ud30c\ud2f0",
+		"\ub808\uc774\uc2f1",
+		"\uae30\ud0c0"
+	],
+	"intro": "\ub2f9\uc2e0\uc740 \ub0a8\uadf9\ub300\ub959\uc5d0\uc11c \uc77c\ud558\ub294 \uc2e0\ucc38 \ubc14\ub2e4\ud45c\ubc94 \uc6b4\uc804\uc0ac.\nJoy-Con\uc744 \uae30\uc6b8\uc5ec \uc804\ucc28\ub97c \uc870\uc885\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc804\ucca0 \uc561\uc158 \uac8c\uc784!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "115 MiB"
 }

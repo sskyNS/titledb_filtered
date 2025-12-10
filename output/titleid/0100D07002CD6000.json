@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7abdc4392368d971e6c252fb78c0fb7371c39c3460f25a21dc2552b81a80237.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "Join the game show and blast your way through 5 intense levels gathering power-ups and special weapons, including a special super power.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "70 MiB"
 }

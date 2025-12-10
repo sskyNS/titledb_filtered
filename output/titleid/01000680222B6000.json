@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b94c2fd2bb8e5bd12ee705aa2b85b2b3c7d2647f11152c164b002ee0e5f02b10.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A must-have for fans of engineering puzzles and creative sandbox games",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

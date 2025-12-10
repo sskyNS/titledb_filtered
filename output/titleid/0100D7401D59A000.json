@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1755f5d4c25275fb479ed242d3761b265991f674deba61b29cdf855483976dec.jpg"
 	],
 	"releaseDate": 20250820,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Manage a shop and navigate community dynamics in this cozy management sim RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

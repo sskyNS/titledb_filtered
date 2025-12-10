@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f974b9be2257c1cbeb7e3764834ec6cd16a4fe564323130baa3fab4fc4e951e4.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Racing",
+		"Training"
+	],
+	"intro": "RUN: The World In-Between is a \u201cDie and Retry\u201d procedural platformer game",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

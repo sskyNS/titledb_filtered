@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4754a0a8273a33fb97254d8a39b321d83c4db04a9168060b30b8f919b925aa9d.jpg"
 	],
 	"releaseDate": 20170608,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Four mercenaries armed to the teeth suit up to put an end to a reckless giant corporation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "140 MiB"
 }

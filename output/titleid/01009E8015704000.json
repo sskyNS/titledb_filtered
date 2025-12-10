@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a36e9ba3bd1d444250f397f8d46cde02e6a2bf82666d3b4cc00730af7b15135.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Use spatial logic to defeat monsters and be a hero!",
+	"languages": [
+		"ja",
+		"fr",
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

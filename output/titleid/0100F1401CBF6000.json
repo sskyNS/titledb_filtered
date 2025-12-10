@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e87c8a67a3e6b20fb66f11578b25174d397c5bd9701f597a605bba87358e8b3e.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Jump, fly, and blast your way through nostalgic gaming",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c52b2572abe77c9143c5a5f9c376cd0d0580d462253242c28817c83077dcafc.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education",
+		"Arcade"
+	],
+	"intro": "Get the city moving",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "219 MiB"
 }

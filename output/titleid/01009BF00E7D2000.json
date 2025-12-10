@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd722931617bf28e9df4198282e2b864b396b91080121142a180de1ba7c181bf.jpg"
 	],
 	"releaseDate": 20201216,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "SYNTHETIK is an unforgiving tactical shooter rogue-lite where freedom and experimentation is key.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

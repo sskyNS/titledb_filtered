@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/19d56773151569a61a0bb27f82b1a1c90cd2135fb25f7d805333b9bc8ed46934.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Prepare to fight with shadows!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.52 GiB"
 }

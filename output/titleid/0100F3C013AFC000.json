@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/53314b4975bcce1ebddc5797b448e1156e17775d94c78e203841fd6933fe3121.jpg"
 	],
 	"releaseDate": 20210209,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Rotate, Shoot, Repeat.\nBringing the newest innovation to the arcade game industry.",
+	"languages": [
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "262 MiB"
 }

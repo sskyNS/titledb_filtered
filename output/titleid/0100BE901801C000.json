@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa72a71f9e001f9b6228fa00ab818efb66b91acd3bdaea94d15f3bf33e7c0cee.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A lone pilot, far from home, must navigate an abstract universe of uncharted planets and space stations guarded by mysterious, hostile aliens in Gravitar: Recharged. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "378 MiB"
 }

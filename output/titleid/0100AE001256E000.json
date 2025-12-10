@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e7b96b05f65983c92b54457900880ee6719aaa1172a819c110aa5bc3da8301e.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "FORECLOSED is a narrative-driven action-adventure set in a Cyberpunk world filled with action, suspense, and experimental augmentations. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1016 MiB"
 }

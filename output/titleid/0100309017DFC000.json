@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c71a0fabdd0fb245a1143a8708268686f4348a53ebc00af920ed0ad7f8fe79c8.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Other",
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Collect cards, evolve and become strong to avoid becoming zombie food",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "637 MiB"
 }

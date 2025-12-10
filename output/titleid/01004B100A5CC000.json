@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/68be3940a7764e2c05c487c0cfa0af771776052d517add414f2e235fe74e274a.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A world of mystery and intrigue awaits. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.99 GiB"
 }

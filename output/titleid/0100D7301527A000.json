@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/629fa14ef3f753e8807a9adc35f3b35d2688f36cf8eda3d48c7f64e6162400d9.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "Zombie Survival Shooting\nset in a Japanese hospital",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "547 MiB"
 }

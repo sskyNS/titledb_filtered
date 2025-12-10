@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a6a3f31e04375882be11710647c5545bb7e837907792fe08d1431a8b5601a9e.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Assume the role of the daring demolition worker Mike and start a devastating chain reaction on earth!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

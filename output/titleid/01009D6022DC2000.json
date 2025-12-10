@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/33eb5fdd2ec1c6a1e25490b8002cc6c9a62072d66f7c501e7fbea03929293fb5.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Design symbiotic worlds with godly titans and watch humanity flourish.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

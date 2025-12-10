@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d55c0f8788d1792114634705a5891f87d311a46b56e0712ccd6df7f6a65152e.jpg"
 	],
 	"releaseDate": 20240515,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Fast precision platformer about the adventures of Pea, who loves gold",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

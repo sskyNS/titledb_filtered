@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2ea1d164f01f23d61f9ad526e3ceba061e7e3bbb3874f4db0bdd72538c0991a.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Fight destiny through the darkness that lurks in history in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "595 MiB"
 }

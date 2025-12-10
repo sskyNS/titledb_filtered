@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/71a0b1632d7affcb70664b4df33065473563ed55e714a6b4f917ab7c77324375.jpg"
 	],
 	"releaseDate": 20201110,
+	"category": [
+		"Action",
+		"Simulation",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Rice is Power!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.38 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32ab5dce551be45cbdc29c5272db2b4374882474814595c28d2d20b2a0b779f1.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Turn-based, tactical RPG where players command a powerful band of warriors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.63 GiB"
 }

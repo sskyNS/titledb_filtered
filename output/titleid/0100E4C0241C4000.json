@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c221b3698d1835a7232a51c3e868fbd0fe8c4a72760fc766d57417bf0f58045.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Adventure,Action,Action-Adventure,Action RPG+",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "477 MiB"
 }

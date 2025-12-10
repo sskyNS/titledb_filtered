@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ded47a88f883ab2fd055fef2ccdfae0c394898649320be4fb81ef12846ea460.jpg"
 	],
 	"releaseDate": 20231010,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Education",
+		"Puzzle"
+	],
+	"intro": "It's time to become a true driver and parking master!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

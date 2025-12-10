@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c78775faa81717895901ab5528277a39d291e60e6c7414e59f62ece7627192c7.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "The apocalypse has come to the city - all the people become zombies! You are a survivor and you must save this world!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.72 GiB"
 }

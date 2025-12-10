@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5d2d9f554b969f66bae77c0dcfa5ca38c68078cf80ffcaaf70a2a9597c1db41.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Dive into a vibrant universe with Rainbow Snake",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

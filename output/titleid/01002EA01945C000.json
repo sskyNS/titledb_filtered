@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e7e40f945a33a9e8a4b69872ac2b4664ca789e1dfbe5103a9d24fd6fc98420d.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Utility",
+		"Platformer"
+	],
+	"intro": "In a world where most clocks are either boring or colorless, AAA Clock 2 is going to change everything. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "762 MiB"
 }

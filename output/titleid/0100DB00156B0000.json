@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdbe9e3c004d2ae43e3d287907215043fc682f92d00d0e436d2bffdfd7011711.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Put down the catnip and remove the distractions (like that clock on the counter that\u2019s taunting you) and grab a controller cause it\u2019s time to drive one of the wacky Supersonic Tank Cats.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "529 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/945202f675fbff679a3a46108a65cf57a771dadc270f6dd8aaa3269622a7ff6c.jpg"
 	],
 	"releaseDate": 20190822,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The new Action-RPG, ONINAKI tells the story of one Watcher on a journey to protect Life, after Death. ONINAKI features exciting hack and slash style battles, with deep customization of your daemons and weapons. Experience unique action gameplay combined with a deep and satisfying story.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.13 GiB"
 }

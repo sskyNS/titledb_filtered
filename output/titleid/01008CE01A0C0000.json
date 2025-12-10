@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/94d336727e9484d9b59a9a72395d414440f1edd7e23cb4a7c5d75a8d6c689363.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "The grand finale to The House of Da Vinci trilogy is here! Solve numerous new puzzles and mind benders and explore new mystifying locations of ravishing beauty.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.32 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/753ddfeb1e5a4cf217ff980daf51ddc3c293174dae31462f3b938d00a1d7161e.jpg"
 	],
 	"releaseDate": 20251130,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Park Like a Pro. Drive Like an American.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

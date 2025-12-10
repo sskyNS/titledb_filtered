@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b5b41cfc226bffe8fcfac19f378b214ddca6ed5c5c37deb01aff9efb26f37ad.jpg"
 	],
 	"releaseDate": 20210617,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Sneak into the mysterious fortress, \nevade pursuit and launch an attack!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

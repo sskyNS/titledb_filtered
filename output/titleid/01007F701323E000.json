@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7596474add41c6738437513c7e80cf907d52d46f0c2412e48959e47ef1a3158e.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A grand adventure with over 101 stages! How many can you clear?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/04f4afd029a3878db15d0f0809cbac3a69fdc8c69b9d72f5b08ee6d5036e6509.jpg"
 	],
 	"releaseDate": 20211116,
+	"category": [
+		"RPG"
+	],
+	"intro": "Unite a party of League of Legends Champions, explore Bilgewater and set sail for the Shadow Isles to uncover the secrets of the deadly Black Mist.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.31 GiB"
 }

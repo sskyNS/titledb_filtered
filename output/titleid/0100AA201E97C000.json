@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/48946a8d584507ee847604cf0fd8c80350a34bbb4fe9250d1c40be150c8e177e.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Platformer"
+	],
+	"intro": "Remake of a classic old-school hit, one of the first arcade games ever!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

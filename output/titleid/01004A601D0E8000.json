@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/86c8c374e657a5ab4ba1397291d2e2f2caac81e0eef79f1cbaca77a061a73d30.jpg"
 	],
 	"releaseDate": 20231218,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "The average Canadian logger Miles completed his day. On the way home, he is attacked by a bear and Miles loses consciousness.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "474 MiB"
 }

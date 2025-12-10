@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/091085bbf3b08b53b440cee1e60da657e3a3273e2a9a5b6a75cff21d418c7d41.jpg"
 	],
 	"releaseDate": 20251218,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"RPG",
+		"Action"
+	],
+	"intro": "Outsmart, Outgun, Outlast. The Battlefield Awaits!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.81 GiB"
 }

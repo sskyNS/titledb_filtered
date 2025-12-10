@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5259fb8ca2d448e30ec8e341d326332c7d610f7fc6b5b59757e14192411806a.jpg"
 	],
 	"releaseDate": 20191226,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "'Croc\u00b4s World 3' is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n\n+ 60 incredible levels\n+ Nice graphics\n+ 2 different themes\n+ many challenging enemies\n+ 4 evil endbosses\n\nInstructions:\n\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nCollect the special stonebag to throw auto-homing stones!\nCollect special items like 'Firehelmet' (walk through fire) or 'Shield' (Invincible for 10 seconds)!\nIf you collect 100 diamonds you\u00b4ll get an extra life!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "341 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/efbbfe94a29af0079af08c9d1b08303b7b0eb80ebf55e33db7c2b67ff04ab820.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "A popular puzzle where you have to figure out which cells are black and which are white.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

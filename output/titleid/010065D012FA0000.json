@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ca855d3e11d33fc3e56e7e844ef93d9b90a3d79b93f41d1872b972a30b90cc7.jpg"
 	],
 	"releaseDate": 20210216,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Historical battleships come to life to change the tide of battle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.13 GiB"
 }

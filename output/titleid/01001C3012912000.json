@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c85d372a71d53459a0db311007e9c2990e43d44c078c9206edf0c0d2205029bd.jpg"
 	],
 	"releaseDate": 20210409,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Say No! More is the world\u2019s first NPG (NO!-Playing Game)",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

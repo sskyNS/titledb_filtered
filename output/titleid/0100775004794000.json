@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9fe44d9d7de7217132e17654bc0da8f9ab11a60edd9db8e443d4d997b061efb.jpg"
 	],
 	"releaseDate": 20180308,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Endless chaotic space shooter. Ruthless roguelike inside.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "599 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c46be0d598b9bb16eb748475ae6a1871e9a01eedca1217d029bb7b4d8346471.jpg"
 	],
 	"releaseDate": 20210906,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Fun and unique puzzle game in which you must control a man who is traveling through a series of enchanted portals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

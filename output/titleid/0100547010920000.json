@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e69d4111cff1145ae5e46bc14a2a2bd0f0962479c1f2d8ef1bdf0cdcfd12e57.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Escape the hellish POW camp and win your freedom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7a3270ed9465daad2c149ed38d9dfe886064a532c4fc338a0ce5d046cadac75.jpg"
 	],
 	"releaseDate": 20251218,
+	"category": [
+		"Sports",
+		"Strategy",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Build your perfect deck and become a Champion",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "360 MiB"
 }

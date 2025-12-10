@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d720b0236f42b551289e0e27abbc3ff2cdf16a5d31c009d901bc3320d8ce235.jpg"
 	],
 	"releaseDate": 20221109,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Communication",
+		"Other"
+	],
+	"intro": "The note-taking, floor-plan based real estate mystery game is back and bigger than ever, with even more puzzles to solve!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

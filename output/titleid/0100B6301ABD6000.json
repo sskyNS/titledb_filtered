@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed8745b70f861088f6e899a4a24f7864de2d56405009ee63b18849e3b3bfc84a.jpg"
 	],
 	"releaseDate": 20231114,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

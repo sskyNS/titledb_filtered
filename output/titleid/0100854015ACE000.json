@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9731425b5d87e4b0d4cf7f77abcc0f3b2aca2b5ff129573f81710ef5723c8a9b.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A Challenge to Civilization, ALIEN Attack! \nRise up! GALAXIAN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "118 MiB"
 }

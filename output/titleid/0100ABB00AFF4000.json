@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/28867403e1fabe5e72aa0e6daf6b33e1fd0ee64b09951393c58a513e79b3ac1b.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Action",
+		"Shooter",
+		"Racing",
+		"RPG"
+	],
+	"intro": "Crossout Legends is a legendary MMO action game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.01 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/95b9dc24983a67c05411e3fb0b7b6c28284d2b997492f0ebbcb9e80bbcfbe5c0.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "SNEAK & PAINT PUZZLE GAME",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

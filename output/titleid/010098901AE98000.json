@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ae7cd361a92d5085f88435d8e623493eb8d6c454a6934b40de8a2fbf7475cb0.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Over 100 airplane models with random generation\nChoose from routes to over 140 cities worldwide\nA passenger traffic accounting system based on population",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e88f734c4fcc9b4fe0e98f03e03accd95c36120d6eda0082e1245d49d22c330.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "THE HOUSE OF THE DEAD 2: Remake is a remake of the second entry in the well-known and popular rail-shooter series.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.85 GiB"
 }

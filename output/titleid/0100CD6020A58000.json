@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bfd4745414a257894e620a6d17d61a10235bc34c5c13055c950958220e5f6c3.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "Prepare to keep (or lose) your temper online!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "502 MiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f372332ad9e0b0057f9223a94173b20f1ac5690d1521c9404b60fab17347df1f.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Terrifier: The ARTcade Game, a bloody retro-style beat 'em up packed with frantic action, tons of fun, and plenty of references to the Terrifier franchise.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "794 MiB"
 }

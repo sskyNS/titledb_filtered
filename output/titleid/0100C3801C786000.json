@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4284d203e26cb007f51f83c5f90eaae7e10162dcc2d3ffe8e09404f55493ab9f.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": "You must survive the vengeful toys waiting for you in the abandoned toy factory.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.70 GiB"
 }

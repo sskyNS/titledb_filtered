@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc1ec6c1e8458f9c833de274ec695e144c5246588aa4f3d4aacc3daebb70defc.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "puzzle swamp toad logic blocks magic",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

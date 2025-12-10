@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/54e3f914963ac8790c534960b6936153369daf0dcc8abfa56fda29b2670396ee.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Other",
+		"Education"
+	],
+	"intro": "Fun oil business simulator. Start from a single tiny rig and expand it to a large complex of connected platforms.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

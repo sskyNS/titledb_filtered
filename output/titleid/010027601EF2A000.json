@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4b391ea4993f86f3dd6ec7b18bf045b413d135fd7faa0ab5eea2ec04cf628c8.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Enter the enchanted Mysterious Castle inhabited by zombies, maids, and vampire!\nWitness legacy unfold in 2D PIXEL ACTION ADVENTURE!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

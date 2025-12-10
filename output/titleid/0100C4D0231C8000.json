@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d7006e85f32746f7177471665a0396466472337068f6b1e8fe80e1455a13ad0.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "A young fairy from Floralia, with the gift of speaking with animals, lives a tender magical adventure among forests, stars and friendship.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "458 MiB"
 }

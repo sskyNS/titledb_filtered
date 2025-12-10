@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba1ce446cb65b4e338f7fb1390c20b79400d1dd7a8e8b21d8b00a1c5982e022f.jpg"
 	],
 	"releaseDate": 20230222,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "Choose to embrace your new role as a vampire or seek a way to reclaim your humanity!",
+	"languages": [
+		"en",
+		"es",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

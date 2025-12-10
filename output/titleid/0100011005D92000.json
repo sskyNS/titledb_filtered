@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/87f58e490b10438dc9367846bd50c6b0d33a75724dc9bc5420628d6250e84893.jpg"
 	],
 	"releaseDate": 20171114,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Determine the fate of the Batman.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.21 GiB"
 }

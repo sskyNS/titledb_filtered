@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8276a789fbe4d7ce32e5452cdcc68d7cfbeed7ae32e8aacaa6d04809f35af426.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Face epic battles taking control of 4 characters simultaneously.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.96 GiB"
 }

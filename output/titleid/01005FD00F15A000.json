@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46f5038ddcd30c334303bd56e9700fc70ec01737567f30024b45b43f7305beae.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"RPG",
+		"Action",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Ever wonder what would happen if Kingdom met a broad, skill based open world RPG? Welcome to Regions of Ruin.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "828 MiB"
 }

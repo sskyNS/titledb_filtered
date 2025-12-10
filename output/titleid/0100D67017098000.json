@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/aae83ec722c8f6520738a3c25f1cea9fac2d66bdbadfb62d8fd0933b77f618a7.jpg"
 	],
 	"releaseDate": 20230919,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "You Suck at Parking\u00ae is a challenging racing game where your goal is to park your car. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

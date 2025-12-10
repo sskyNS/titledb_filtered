@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9f1cbc2f2e6cab5b9cbc1451f68b38048c7f69e1abd187d2146745eea4ec980.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Traffic has never been this dangerous\u2026 or this fishy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "393 MiB"
 }

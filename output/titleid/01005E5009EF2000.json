@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a5e553d910d5c3bf0f2d2dea6629c224e039080e38c135e2fdef324316a08a3.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "The objective is simple: Race to the finish line while everything tries to kill you.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.28 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/010be3c5dce318ad9aed6d8c294a45c97c519b4e3edea553f726e58ddf00c4e3.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Be an alien. Conquer Earth and decimate humanity.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "41 MiB"
 }

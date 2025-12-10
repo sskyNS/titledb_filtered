@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/feeb8208bc03cc150f56d95222a4a19f296010940a4ef569b2dabcdc56fc7507.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Art Imitates Death",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.44 GiB"
 }

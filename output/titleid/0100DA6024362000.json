@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aef3fa0b0bb2801db394753b9166bd6f4472600d2c9968aa562484c5d4ba8e92.jpg"
 	],
 	"releaseDate": 20251110,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A magical adventure game created as a tribute to the life of my friend Lemon, a young polyglot who died in a car accident while chasing his dream of living in Iceland.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

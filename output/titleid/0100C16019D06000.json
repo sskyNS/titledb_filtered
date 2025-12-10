@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f72f9c0e7581b4ce886e7e18a7a74bc164519c9ab7d3cf66c9d79958671286b.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A trail-twisting, brainteasing puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "133 MiB"
 }

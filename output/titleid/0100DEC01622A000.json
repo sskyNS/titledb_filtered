@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a22b923c70e64b1c45c84d954c9555648f71f92169e4bfaad7feab94fdc2a95b.jpg"
 	],
 	"releaseDate": 20211215,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "A painting adventure game about trying to be somebody",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.93 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/857284a7ee6bee917d200c66e0e6ea404183122842d70dce79dcd9ea5f133b01.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A fantasy action roguelike of exploration and murder.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 3,
 	"size": "717 MiB"
 }

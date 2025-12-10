@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/15ad3fd778ed0445f75f04f37255a58748450f4e0dd683a0adf4f0fbcc4ad6d2.jpg"
 	],
 	"releaseDate": 20200225,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Broken Lines is a story-driven tactical RPG set in an alternate-history version of World War II. It\u2019s a game about a group of eight soldiers who crash-land behind enemy lines.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.93 GiB"
 }

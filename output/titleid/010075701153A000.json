@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ef0437ddba88685f975fe17d0b7fe0fb7ac664592efd0937225864595e890c.jpg"
 	],
 	"releaseDate": 20200707,
+	"category": [
+		"Puzzle",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Perception is reality. Escape from a mind-bending dream where everything is exactly as it seems.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.48 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32158c443e589dab3fba75c3486e5b70d32e5b0cc07eea6b7d976534eb37b4ec.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "When the system fails, the protocol begins.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "453 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2ed3e5d50770a36d79558a47df3f02b6fad9105e9d0d7490bf3510dce7949ed.jpg"
 	],
 	"releaseDate": 20220218,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Lead fantasy army in turn-based warfare with randomly generated maps and complex battle mechanics that can be combined to clash enemy in a war over powerful Omni-gem! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "534 MiB"
 }

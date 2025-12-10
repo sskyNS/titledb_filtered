@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ca36cd3732f6cadfaebabe13ee084427fbb483297dd8e63d20bada423b50c6a.jpg"
 	],
 	"releaseDate": 20231211,
+	"category": [
+		"Action",
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Defy the laws of physics with the wooden puppet and journey through this 2D platformer in a 3D world of handicrafts! Play alone or with friends... or against friends",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "345 MiB"
 }

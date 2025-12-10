@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/238ef98471cd37b1c7928162560fe445898c197bc3416b445659e0ba5d4059bc.jpg"
 	],
 	"releaseDate": 20250121,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Based on an epic romantic poem from the 12th century, \u201cKhosrow and Shirin\u201d, the game is a tale of love, loss, and adventure in a land where magic and bravery collide.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.09 GiB"
 }

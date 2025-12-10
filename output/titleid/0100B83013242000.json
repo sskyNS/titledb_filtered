@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/492660b5f1c35140c182f1bafa58abac9fbaad0ea1d23206870d31d986f9edc5.jpg"
 	],
 	"releaseDate": 20210125,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Training",
+		"Action"
+	],
+	"intro": "Are you ready to break your brain?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "292 MiB"
 }

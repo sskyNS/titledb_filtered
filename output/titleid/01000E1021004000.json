@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d233ff35bc21c61c52606d9bd8f6ceb86eea17e69dc718e3904b20e112f24fa1.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Simulation",
+		"Party",
+		"Practical",
+		"Other"
+	],
+	"intro": "Become a pizzeria owner",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "237 MiB"
 }

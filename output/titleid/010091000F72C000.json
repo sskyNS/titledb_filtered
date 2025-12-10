@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ae7ab92844d58d78305a0f37b8c2fb15a76054ec25383be8156b52e3d26462e.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Sports",
+		"Action"
+	],
+	"intro": "Online Multiplayer, Couch Party up to 8 Players or bots. Competitive Game Modes. Customizable, Power-ups and interactive levels ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.90 GiB"
 }

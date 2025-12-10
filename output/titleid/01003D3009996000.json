@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9139583e3798044e1fa5245e81baaaf2a091dc7b27057527a1b7bdacfcc34b35.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "How totes is your goat? I think this'll totes float your boat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

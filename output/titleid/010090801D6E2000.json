@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb588d26a9629227f3e5c38fac64e4b93704eee634ecc7fa48facb4e1b0184e4.jpg"
 	],
 	"releaseDate": 20240111,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Set off on the most engaging golf adventure you have ever seen and visit breathtaking places from around the world.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

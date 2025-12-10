@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/871aee5e7cab070a36415bd15e81c539efed476964166523ecfd1663ecea3408.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Who said being a courier is boring? Arrange xtreme city bike races and deliver the order on time!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "474 MiB"
 }

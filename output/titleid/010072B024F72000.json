@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/644f11ad0683462d199e6d46b21a7cf38a6bc3e5dbcc6d65d8b66d6a17135cfc.jpg"
 	],
 	"releaseDate": 20251217,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "A thrilling action and shooting game where you battle using weapons with different capabilities.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

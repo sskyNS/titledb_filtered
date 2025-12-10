@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7840ae45d9d778d4143a9f80375004f8c7b584776b46b688304c00643da9b95.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Racing",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Create crazy cars, explore Puppy Town, and experience incredible adventures! A safe and fun game for children.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "566 MiB"
 }

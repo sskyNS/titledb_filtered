@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4acba22b3c9738c460bb6b319e741275678bfa57425b9b85d659d01f6ae37afd.jpg"
 	],
 	"releaseDate": 20251007,
+	"category": [
+		"Action",
+		"Fighting",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Face the unknown, fight with courage, and uncover hidden secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.99 GiB"
 }

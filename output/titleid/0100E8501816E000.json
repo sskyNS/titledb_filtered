@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d8d809af6243be30173bfcc7a6dbf0cb742758005b927d0c188fa0e51d16aa0.jpg"
 	],
 	"releaseDate": 20221129,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The Knight Witch is a hand-crafted metroidvania shoot\u2019em up adventure reminding all the importance of saying thank you.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/522377693b37974afbc93d085bc740675a13e5d1541b0f63f9e58e45be1c8054.jpg"
 	],
 	"releaseDate": 20190613,
+	"category": [
+		"Action",
+		"Adventure",
+		"Music"
+	],
+	"intro": "Keep the beat and keep Hyrule from meeting certain doom",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.65 GiB"
 }

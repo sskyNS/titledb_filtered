@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/65eeed8f5a3cfa74ff39850768c2e10bd874952ca3a5b4f4a790acaa98f17da2.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Puzzle Master: Unleash Your Genius, Piece by Piece!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "350 MiB"
 }

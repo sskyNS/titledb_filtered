@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6588d690ec5870649e1574ce5715b32bd17c1b8f289c19d267510399110f578c.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Sports",
+		"Action",
+		"Fighting",
+		"Simulation"
+	],
+	"intro": "Step into the ring and prepare for the ultimate fighting experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

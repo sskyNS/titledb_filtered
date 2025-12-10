@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ff0f07f4fe0d481a38311b80aa5a9a4eaf7723d911fcf9f61c5a6ead3190106.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "FIGHT FOR PEACE IN THE ULTIMATE VERSION OF AN ALL-TIME CLASSIC!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "348 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b994df41588dd70fb630aa55c59fa38ad4d91e5078910774bbbec8e0249fb272.jpg"
 	],
 	"releaseDate": 20220126,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Summertime Madness is a single-player first-person puzzle game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

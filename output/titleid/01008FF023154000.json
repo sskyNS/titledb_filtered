@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ce7664bc232f87a5bbf852771feb82041f17641367159ec7120dc09e6670322.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "Use Extreme Jump to get to the goal as fast as possible!\nYou can't afford to be off your guard for even a second in this high-speed jumping action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

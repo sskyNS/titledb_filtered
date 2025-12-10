@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/002a277ab1b29e1177bf1f0c42749caa3329b45301c31fc007346ee151835ebb.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A tactical RPG where decisions made for love and power can tear a kingdom apart.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.17 GiB"
 }

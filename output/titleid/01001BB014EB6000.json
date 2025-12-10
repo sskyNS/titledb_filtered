@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7af76887ab2766807ca03090640bf1f582bcc3de4dd989d8464df293cafe84c.jpg"
 	],
 	"releaseDate": 20210709,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Shoot, jump, and slide your way through a ruined, mysterious, dog-filled world as you fight to save humanity from the clutches of a rogue AI named Daddy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

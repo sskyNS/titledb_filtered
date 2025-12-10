@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5498aa90910bf1332281096da9b35497c5de78c78698345f5c3056a4e357c717.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Seed of Life is an epic adventure game about the persistence of life. Will you be the light that conquers the darkness?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

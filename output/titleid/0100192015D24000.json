@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ccae23a9c88548a9bf9a175c89c8c7a21606cb4355494ff8d984b2230f4f8a0.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "BARON and MAX take to the skies, \nfighting to protect Birdland!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "69 MiB"
 }

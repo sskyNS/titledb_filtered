@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cea5614d4ee90c38d416784b4f822a630aeac4ce14d9478de4e490461142d6cf.jpg"
 	],
 	"releaseDate": 20220323,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take on the forces of the Robot Empire in a low-poly run \u2018n\u2019 gun action experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

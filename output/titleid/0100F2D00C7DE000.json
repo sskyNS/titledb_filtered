@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ba690bd9d49abc63ec336fba091285a3b02dd13d9ff492218aca880be45d2bb.jpg"
 	],
 	"releaseDate": 20190813,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Exception is a combat platformer set inside a computer system which has been hijacked by a totalitarian virus.  Lead the resistance across stylistic transforming levels.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/13bfb33a33bbd07247b89b693b3dc7a50ab603a62ea08d13a6545fe91f3cf5ac.jpg"
 	],
 	"releaseDate": 20180522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "IMPORTANT NOTE: Disco Dodgeball: REMIX will be delisted from the store on February 28, 2025. Multiplayer servers will be closed, and the game will not be available for purchase after this date. Owners of the game will be able to enjoy the single player campaign going forward.\n\nDisco Dodgeball \u2013 REMIX is a ridiculous physics-based futuresport combining robots, one-hit-kill projectile combat and crazy dodgeball action. Dodge, deflect and catch enemy fire as you perform ridiculous aerial stunt shots with your mustachio'd unicycle robot and enjoy the voice of a booming monster truck driver announcer when you score! Play a wide variety of classic and expert game modes in singleplayer, local multiplayer, or online multilpayer matches.\u00a0",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "943 MiB"
 }

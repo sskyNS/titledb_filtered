@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f7adc256a1c9be334b08809caaa05ec01cb174698727404567c75d0cdf22d69.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Classic arcade shoot-\u2019em-up action is back! Team up with the entire family for explosive action, signature humor and thrilling adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "818 MiB"
 }

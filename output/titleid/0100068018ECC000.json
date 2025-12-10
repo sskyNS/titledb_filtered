@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e538fe334f4398b31615fec838a3ece6fe45059aa9bd2817125c4dfba4726205.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "A mysterious list, a small Hungarian town, and unimaginable horror. Uncover secrets of Hidegpuszta in this classic survival horror, Remorse: The List!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

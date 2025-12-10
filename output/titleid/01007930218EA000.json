@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de289d4a9b6d2a80c3d900db6e477239c8355b2d5250b1db5e4b943dc1e4b891.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Merge, strategize, and conquer\u2014reach 2048 in this addictive puzzle phenomenon!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

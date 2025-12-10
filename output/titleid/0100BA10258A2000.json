@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c36fa9985ad142ff3df20afb89ca99d6b022e76e5a54d2261e113e834f4c461.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Arcade",
+		"Action",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Do you have what it takes?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

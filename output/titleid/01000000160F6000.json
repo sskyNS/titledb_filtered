@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/96b79ff454478f2a5efe83a035797b0455a029775ba31e44aa9305fc190b97ed.jpg"
 	],
 	"releaseDate": 20211008,
+	"category": [
+		"First-Person Shooter",
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Experience a first-person shooter with bullets bouncing off the walls!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

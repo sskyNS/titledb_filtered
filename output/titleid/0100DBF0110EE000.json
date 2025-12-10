@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6554a66ea16bdf71fcf3a88e36e9ceefc3bec2c82c6fcb8bf92e25997dffaba.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Education",
+		"Study",
+		"Training",
+		"Music"
+	],
+	"intro": "Test your skills and expand your vocabulary in an arcade world of neons, fractals, and electronic trance music!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "187 MiB"
 }

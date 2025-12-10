@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dd716e695245fda754b37a5ade91ec351d663ced96ef7e9fc623f50f5086db8.jpg"
 	],
 	"releaseDate": 20200807,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Make your way to the exit by sliding the walls.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "50 MiB"
 }

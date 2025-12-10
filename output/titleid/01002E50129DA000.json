@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9603f25822587963ac734beacee725e5ec304964b494fb424ed66a521b71f54.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A medieval castle, now a luxury hotel holds secrets beyond the wildest imagination. For detective Bridget Brightstone of NYPD, this is a once-in-a-lifetime investigation!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a091692c49e7907a923ac4a85c72ad2831b1e4e3b50903246d5078662ed72866.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30d1\u30ba\u30eb",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+	],
+	"intro": "\u30b2\u30fc\u30e0\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30a4\u30e4\u30fc\u3092\u7372\u5f97\u3057\u305f\u300cBADLAND\u300d\u306e\u4e16\u754c\u3092\u98db\u3073\u56de\u308a\u3001\u751f\u304d\u6b8b\u308c\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "864 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/77f572392b35dbe577a2d3d431272792a1090e050455fac4def4200852d96576.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Study",
+		"Education"
+	],
+	"intro": "Relax, match, and stitch your way through 126 cuddly puzzles full of plushie charm and cozy vibes!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "308 MiB"
 }

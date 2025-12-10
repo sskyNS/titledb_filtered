@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fb9c7f329cee4ae06f6de3939d91463f89d685673c0f6e4985f0ae0cd7efe56.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"First-Person Shooter",
+		"Multiplayer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Shotgun Farmers is an online multiplayer shooter where missed shots grow new guns! Fire your bullets into the ground to plant your ammo. The longer it grows the more ammo you will get!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.83 GiB"
 }

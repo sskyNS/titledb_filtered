@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddec52cd7e7b8b1bad25455ab24e4812dd318662092bd84b79b06baa240e45d5.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Do you stand a chance against the wicked Queen Evangelyn and her army? \nYou're the last hope to prevent her world domination!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

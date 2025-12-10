@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/937c3974a8334c54fa20c132ebbd36618ad712bee0a4c23ecb3254863febe28c.jpg"
 	],
 	"releaseDate": 20230523,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "The game that started it all comes back for a brand-new, Bubble Bursting 4-player co-op Adventure for the first time in the series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.72 GiB"
 }

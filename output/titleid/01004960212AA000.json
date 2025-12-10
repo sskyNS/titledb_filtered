@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f868643bd88b3bf9f030cfa9cd4008fb65ca33f7f8339192af865c6e94ad9a99.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Have fun, bluff away and play a little trick on your friends! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "944 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9239e8bb29e25138273c18194d0754254110a38a9bfeb43c6b03db1c454da2d.jpg"
 	],
 	"releaseDate": 20201226,
+	"category": [
+		"Strategy",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Door Kickers is an innovative real-time strategy game that puts you in charge of a SWAT team and lets you command them during a tactical intervention. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

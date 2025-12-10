@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2682f3e99c91f4b7573824b07ec98e41b33990dc2595695adc8f13cce3448143.jpg"
 	],
 	"releaseDate": 20250511,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Other",
+		"Study"
+	],
+	"intro": "Join unique characters on their wholesome journeys and guide them through beautifully crafted worlds by solving puzzles with your shining light.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

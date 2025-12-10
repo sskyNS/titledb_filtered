@@ -4,5 +4,19 @@
 	"publisher": "BANDAI NAMCO Entertainment",
 	"screenshots": null,
 	"releaseDate": 20180919,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "DARK SOULS\u2122: REMASTERED\nNetwork Test Version\nGet ready to return to Lordran",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "888 MiB"
 }

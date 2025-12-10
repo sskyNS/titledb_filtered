@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f9c7aa221a4e9c4a3b8415909f826364bc3fd9e24097e31a06c528a5675966b.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "2D puzzle action like Reversi!\nEnjoy it casually and feel the handwriting world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "385 MiB"
 }

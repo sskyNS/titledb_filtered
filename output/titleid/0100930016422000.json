@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cc4df85abbd71c0ad424becef64a2171d2337dc13d2bd6fa657e777a9dbf707.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A puzzle adventure bursting with 80 charming but challenging levels!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "146 MiB"
 }

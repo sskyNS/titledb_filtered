@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffe26e04864cb3416f6cc04fa7f6e5724bc1cb5f84a707c1a4043f298f9ce6bc.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "This battle begins when you go in with guns blazing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "113 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/da240d3b6e06816aa0314089b0423f9df45998ce51c8b38ee7434697c11d4e51.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Help your child harness the hidden potential of their mind. Use these colorful cards to improve their memory skills. Let them become masters of their own minds.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "359 MiB"
 }

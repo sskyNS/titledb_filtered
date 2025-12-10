@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b89a43f72e127c586655504e96c854bad45f7fee88af284ad42954f4ca0039d.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Cast your line and enjoy peaceful fishing adventures.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "539 MiB"
 }

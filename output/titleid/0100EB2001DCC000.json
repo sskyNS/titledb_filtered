@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f35c63aa76d13c354d2af9207a18245c590eaffb1966691662a2da14d511aa1e.jpg"
 	],
 	"releaseDate": 20170316,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Born in the heyday of fighting games, \nthe first work of SNK's flagship series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "194 MiB"
 }

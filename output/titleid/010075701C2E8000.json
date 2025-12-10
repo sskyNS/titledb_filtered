@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bab2481e614ee50d53c0179d03e1d929a43e87f37e68d59c94dc56ea120da590.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "In the best tradition of the worlwide known Russian puzzle game, Digitris will test your agility and dexterity.\n\nAlign digits so their sum equals a target sum that increases at each level, making the game increasingly difficult. Try to make combos (2 lines or more equalling target at same time) for best reward.\n\nWhile fairly simple at beginning, Digitris will make a storm in your brain as levels pill up. It is also a very good brain excercise while having much fun.\n\nYou can play solo or compete against friend/family in the local 2 players game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "163 MiB"
 }

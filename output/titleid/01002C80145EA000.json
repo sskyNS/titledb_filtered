@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/35d02bc516b7b28f24521e2d8957ef2ef8993b9d8e9fcc3fa268b8a07a1ce20a.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A homage to the classic early days of arcade retro, we hope you enjoy!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

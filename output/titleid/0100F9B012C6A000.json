@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec1d429aaecabe61bb4bba297432436c039ef787ffce71f988ffdc01d1866ca6.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Eradicate legendary monsters to allow Columbus the discovery of the New World.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

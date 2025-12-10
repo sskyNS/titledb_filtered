@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9baf73fdff25b73450a8caf80d82f54964574417ba5c63888e05af000e88502.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Take control of a young teacher's destiny! Each decision will influence her relationships and lead her to discover unique endings. Which will you choose?",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "661 MiB"
 }

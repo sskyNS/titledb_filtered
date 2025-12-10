@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a0ea5b84c597a19cf4ce266a9c49db2a3bfab3f2c03312799756b2a5f74b1c8.jpg"
 	],
 	"releaseDate": 20220201,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A frantic bullet filled 2D arcade arena shooter with a focus on replayability and unlockables.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "209 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b166f7d64c88ca2294802eaa154486ef37201b4fa076fb9da86298c8c415b538.jpg"
 	],
 	"releaseDate": 20181101,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Discover the world of Transistor, a sci-fi-themed action RPG from the creators of Bastion.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.10 GiB"
 }

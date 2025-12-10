@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e12afbcb0a39d5f8a34f6e2c7a3088f6ee541980eb05bf96366a75dcf99d86e.jpg"
 	],
 	"releaseDate": 20201103,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A fast, and chaotic, action game - can you defeat the Black Duck army?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "50 MiB"
 }

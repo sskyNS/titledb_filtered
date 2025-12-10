@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2108c53a4b81ff6e7ab4e21f025bb17cbefe7b3729248cc3c8139b0331790437.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Other"
+	],
+	"intro": "ValiDate is a romantic visual novel about 13 adults in Jercy City navigating new relationships and the harsh realities that come alongside them.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

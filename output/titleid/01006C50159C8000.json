@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0915748b6d10bdbc6573a09738b6ab9cf245438bbe03600a92fc2f2aad11815.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "A very fresh and new farm game has come out in which zombies build a village on a farm! A multi-end awaits you when you clear the quests while enjoying countless thing!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "527 MiB"
 }

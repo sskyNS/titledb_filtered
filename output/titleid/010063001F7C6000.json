@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f54bd9a6c3539a574b88b392851b1ec813827ab05bfae546565555bc270b866.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "FUN RETRO ARCADE RACING",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "431 MiB"
 }

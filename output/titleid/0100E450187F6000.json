@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1d9492b695f1dfb1dde9be716bab6a5b1cfc3309b642a12fe613688c5a7d069.jpg"
 	],
 	"releaseDate": 20230125,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "VELONE is a creative automation and logic game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "574 MiB"
 }

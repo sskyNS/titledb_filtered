@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/50ab3b9ea157898b8faeafcdad0ff69aaf21f3a28babd6f7f8a7c2a2faed4c49.jpg"
 	],
 	"releaseDate": 20210922,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Take part in history\u2019s greatest battle of Green VS. Tan. Fight amongst and against others online. Jump, shoot and roll your way into victory with fast-paced objective-based gameplay. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.09 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8793a3d15d44ac797911aca7f870e96b9d5262ff9b54a94d9fa89e9eff03c8e.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Snow won't cover the past.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "836 MiB"
 }

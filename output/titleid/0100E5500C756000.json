@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fad8fc2ab245be9a4aae1753a64a8174057aa1b8d3e2ee67292a0bfd3637e8c5.jpg"
 	],
 	"releaseDate": 20200520,
+	"category": [
+		"Party",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "A chaotic couch co-op cooking game with a cannibal twist!\n1-4 players hunt tourists through jungles, temples and volcanoes to feed the cannibal gods. Fine DIEning!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.24 GiB"
 }

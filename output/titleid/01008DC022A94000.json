@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ba5cc373dc97ff502c4c95c410d12eca8da0804323d2d4916fa2685fe5ea1bb.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "The Nerd is back in a brand new 8-bit adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.54 GiB"
 }

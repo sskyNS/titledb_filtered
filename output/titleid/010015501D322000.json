@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/45b777322f06dfc7a6306f24ef46b69a5a5a74230c19c6045ba10edb9285d1d7.jpg"
 	],
 	"releaseDate": 20260121,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "The RPG that's (not-so) secretly a Personality test!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "955 MiB"
 }

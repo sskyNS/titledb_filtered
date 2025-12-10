@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/42909a94eb9b66878afb34dd674910d56266df085bd3e1f77c6f8cd0e07e1bf2.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "A tactical turn-based roguelike where raw magic is your weapon!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

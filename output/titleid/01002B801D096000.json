@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0923429fcd1bb55cdb20801644122e8c1689b27001fa395432421a8bb1cd46e.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Help Morkull escape this cursed Metroidvania video game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "631 MiB"
 }

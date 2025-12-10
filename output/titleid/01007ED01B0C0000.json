@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ca09f0ce5c948c2104491e4fab4ff672d7a6dda3dd02e89e4b1912152bc2499.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Three Minutes To Eight is a mind-bending pixel art adventure game.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

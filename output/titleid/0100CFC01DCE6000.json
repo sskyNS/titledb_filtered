@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1003010d824b4ff9f56db81025f3bda71f99081611fbbfbea9a1d4f3a95eab98.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Help Cloudi and friends restore their home in this whimsical story-driven farming adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

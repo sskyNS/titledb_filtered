@@ -6,5 +6,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ce41ca50d539d680ef75cd0d4b3faf04066e970b1083ff2f4ea7d231190c63b.jpg"
 	],
 	"releaseDate": 20240131,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Match Fruits to create bigger fruits. Hours of fun and challenge your friends for the highest score on global leaderboards!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

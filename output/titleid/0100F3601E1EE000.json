@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c67ac9aac2d53e8803038365dfc4ae36153811bb44aca0c1f48c722ce008d8c.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Adventure",
+		"Multiplayer",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Get ready for the ultimate bakery game that will satisfy your cooking fever and love for pastries! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "270 MiB"
 }

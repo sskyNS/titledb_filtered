@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f27dde8e7ad1a16a0d98113a09782c4dbe6b0c71decdc0e18460ab609afd4fc.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Gather your squadron and win the day!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.59 GiB"
 }

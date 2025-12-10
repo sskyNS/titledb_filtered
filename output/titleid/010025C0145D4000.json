@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6aa8fafdd73f237edcd9d9fd397f07e371589bd74efc26a2dd4318c5f0ccf09.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Break, Build, Battle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.86 GiB"
 }

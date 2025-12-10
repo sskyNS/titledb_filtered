@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dbbb38f1953ee93f231b2f5771b88f01823f49d4d1d71d957d64a11b8c8dab4.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Tsetseg, the little witch, is in crisis. Her friends are taken and converted by the Mad Wizard. Explore castle, fight Bosses, rescue friends, regain special power, and defeat Mad Wizard!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

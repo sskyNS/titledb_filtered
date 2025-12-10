@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5afba4c64fd1a844d2ef913d6efb9db5a2a97ba2541ef18cf806c5a9b5a0fd5.jpg"
 	],
 	"releaseDate": 20220725,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Puzzle game in which you have to look for differences between two similar pictures. The theme of this game is different professions and occupations.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "366 MiB"
 }

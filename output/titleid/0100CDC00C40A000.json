@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0db699e656961a209b9fffa0832c2c261169c0dcc32c3395a73b517a632f749.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "From the award-winning creators of Stories: The Path of Destinies, Omensight is an Action Murder-Mystery game. You are the Harbinger, a powerful mystical warrior. You have witnessed the destruction of the world. In order to prevent annihilation you are destined to repeat that fateful day and solve the murder of the Godless-Priestess, whose death precipitated the apocalypse.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.06 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4b9d1206ceb6781b66d797d86abc9161fe0b8ec207e79084f3a61786bd635b6.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "Improve your focus and concentration in the most delightful memory game!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

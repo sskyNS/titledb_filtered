@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/34e8d2323164966be6228d064ee1f9af582020fd3688975f195e060e33922347.jpg"
 	],
 	"releaseDate": 20220112,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Education",
+		"Study"
+	],
+	"intro": "Guide Hamlet, Ophelia and Hamlet Sr. to hilarious deaths in To Be Or Not To Be!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "439 MiB"
 }

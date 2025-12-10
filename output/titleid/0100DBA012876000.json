@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/93f1854798af68aef38ccd1b758843c88a5565d73e99e735fb3a51e39834737c.jpg"
 	],
 	"releaseDate": 20210111,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Escape the mysterious space in search of light!\nLet's go on an adventure with your buddy Celluar in outer space, inhabited by little cute characters!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "443 MiB"
 }

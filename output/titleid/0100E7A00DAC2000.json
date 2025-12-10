@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/821eb1067d5361471edd465dd31eae16feb6b45518e95d5f8532914d8274373e.jpg"
 	],
 	"releaseDate": 20190412,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "Enjoy the ultimate basketball experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "305 MiB"
 }

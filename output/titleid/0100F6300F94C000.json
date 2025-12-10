@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/293b2306d35e54feaeb9f1e930aa453e260e3edb98cd01db325b7d47fd66eda0.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Puzzle",
+		"Study"
+	],
+	"intro": "When the head disappears, the body also disappears!?\nKawaii, fish, falling block puzzle game!!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "333 MiB"
 }

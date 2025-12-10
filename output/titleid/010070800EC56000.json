@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e11a9fd23aba8593ffe593b9e1ed19a8b42fed9895fe6979388a38d62f7646cf.jpg"
 	],
 	"releaseDate": 20190911,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Open-world fast-action-RPG with 150+ items! 90+ monsters! 11 classes! One Quest... Claim the Throne!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

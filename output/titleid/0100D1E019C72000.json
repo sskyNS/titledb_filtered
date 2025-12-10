@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/57dcb52be4ddb406800087409c14304cedcb15040ddfa51b909215c0e4b0e658.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Wake up and walk, Warden! Because the siege continues. We must find the Heir... And finally put an end to this cursed night.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

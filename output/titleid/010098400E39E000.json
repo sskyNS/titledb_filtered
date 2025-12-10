@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e46232c3947f925325bb78aee89536c468a1b97f4fc8185bcf95c71b52077bee.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Certified 100% pure arcade action, rendered in eye-melting neon vectors, Vektor Wars is classic first-person blasting for the shooter connoisseur.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

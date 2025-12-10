@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b0041eeaacd757d20411ec671235aa9470e22429782331a0baaa0856f768436.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Chill & drive '80s style. Get into your car and cruise endlessly while listening to synthwave tracks.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0c7de4c2cded9e786b83f1d69d5b80a21c4d278596afc3717322e2a265c7bad.jpg"
 	],
 	"releaseDate": 20190828,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Fight for a cause worth dying for",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

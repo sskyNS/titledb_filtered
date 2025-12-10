@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f4a5be0edb2e7aa2d262c698cd8cd401b7e1c77236dfbf09d38834f363ef11e.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Find all Diamonds in this Top Down Dungeon game.\nCan you get them all ? \n\nOver 60+ dangerous levels are waiting for you. \nAnd it requires all your skills:\n- Be fast sometimes\n- Think about the right way you need to choose\n\nFeatures:\n- 60+ Levels full of Diamonds, Keys and Traps\n- Handmade Pixel Art\n- Easy Gameplay but hard to master",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

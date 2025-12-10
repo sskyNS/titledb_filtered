@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2abaa861a5552d68063d32350722c2036ef7033763240dfa3757d6b962247279.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Skid into the thrilling world of \"Drift Odyssey,\" where city streets become your playground and roaring engines fuel your legend. Experience drifting like never before!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/02276edee008b95f59c28d8406e8c11c3a23b642d63a6adb282f13c4c03597cf.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "TINY METAL: FULL METAL RUMBLE, a turn-based strategy wargame of intrigue with a distinct Japanese flavor",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

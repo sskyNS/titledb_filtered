@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/190092f655b1f771a81dd7566f97b097b38bdd4a41185e119533201253f97a7e.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Have fun and get scared in this co-op horror.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.09 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff560a2a91426578898630421bbbe823626303fd81e0a5d47818162f6733d4ed.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Maze Blaze is filled with endless possibilities. Lock and load, then enter at your own peril.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "418 MiB"
 }

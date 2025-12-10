@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9c794e1b9f0d8da8678d59a1af983691c17a6c538bf3b98a1b2a76001866879.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The curtain rises on pro-golfers playing a splendid, quiet, but intense game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "109 MiB"
 }

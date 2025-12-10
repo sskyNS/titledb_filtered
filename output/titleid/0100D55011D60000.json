@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0335b6ad882e2da9fb9d3b1d4b8e0d2a9acc3e42318374e221094768c74604da.jpg"
 	],
 	"releaseDate": 20200825,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A new perspective for traditional maze games.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1011 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/11225c3914aaf8edf2d232f22bf3ecd9a7101c44daa569c6210946b17d1d50d6.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "From maze to tomb, from desert to fortress, Ataraxie is a living and rich universe that you will need to explore with confidence.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "422 MiB"
 }

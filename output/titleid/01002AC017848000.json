@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/49347b97b904759f528ead0c932feebd60986baafa675117e91fe0f7ad033e13.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Blipz is a unique and addictive arcade puzzler that revolves around the main mechanic of creating order from chaos.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

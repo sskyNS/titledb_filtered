@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc80ec0dfeb370a9df50636569d534578cbb1145b43218d479db4eda4fc684dd.jpg"
 	],
 	"releaseDate": 20211005,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The first motorcycling simulation that combines a realistic riding challenge with engineering and mechanics! ",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.61 GiB"
 }

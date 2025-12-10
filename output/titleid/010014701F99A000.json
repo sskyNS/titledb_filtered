@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcab5db718ac0d1e95beeab216725daaedaf7a5b5635fb0242bd9f0c1c00209f.jpg"
 	],
 	"releaseDate": 20240906,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"First-Person Shooter",
+		"Puzzle"
+	],
+	"intro": "Delve into a digital odyssey of discovery and unravel the mystery!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

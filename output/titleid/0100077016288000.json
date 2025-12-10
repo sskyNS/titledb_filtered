@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d3ca2fcc1eda5ebc799ce9f458b5f032115c92269f9573aea5f1bef972d19de.jpg"
 	],
 	"releaseDate": 20210924,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Haustoria is a 2D puzzle platformer with innovative game mechanics and a unique hand-drawn visual style. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

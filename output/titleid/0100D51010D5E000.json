@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/efddf2edbf33b3f5295bcf725e0ff4d5a7a3678ba2369ab60c0d76ea8d7c1682.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "It's the ultimate, strategic SHMUP ReMix! Control TWO combat wings, flick between THREE different formations, and BLAST your way through overwhelming enemy fleets!",
+	"languages": [
+		"en",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "217 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/72a999a7664236b04ec82427d6ff62394a43189527dd6935b008ecedd1945168.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Record of Lodoss War -Deedlit in Wonder Labyrinth- is a 2D action-exploration \"Metroidvania\"-style game developed under the close supervision of original creator Ryo Mizuno, depicting the previously unknown story of Deedlit and the events leading up to Record of Lodoss War: Diadem of the Covenant.\nBoth fans of Record of Lodoss War and all-new players alike can fully enjoy this latest installment in the series.\n\n\u25a0Story\nDeedlit awakens suddenly in a mysterious, unknown place.\nWhere am I? Why am I here?\nWith nobody around to respond, her questions are met with only silence.\n\nSeeking answers, Deed eventually sets off on foot, alone\u2026\n\n\u25a0Game Features\nSword and Arrow Attacks:\nUse your sword for powerful melee attacks against enemies within range, or employ projectile attacks using your bow and arrows against those farther away.\n\nSwappable Equipment:\nFreely equip and utilize swords and arrows obtained along the way.\nThe powerful weapons and tools you acquire can be used to your advantage throughout your journey.\nYou can also sell off weapons you no longer need.\n\nSwappable Elemental Spirits:\nAlternate among a selection of useful elemental spirits to change Deedlit\u2019s various attributes.\nWhile using Sylph, the wind spirit, wind-based attacks do less damage.\nWhen the flame spirit Salamander is in use, fire-based attacks do less damage.\n\nRaise Elemental Spirit Levels:\nYou can raise the levels of your elemental spirits by absorbing the \u201cSoul Screams\u201d generated when attacking and defeating enemies.\nEach spirit\u2019s level is displayed as Deed\u2019s own power level.\nWhen a spirit\u2019s level has maxed out at 3, HP will be automatically recovered.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

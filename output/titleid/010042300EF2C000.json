@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/61d4ee40bc03e9c4a4e48463a5426fe443a3bd78e7674831277a8dbe5c0e37c4.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Sizzle it up on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "314 MiB"
 }

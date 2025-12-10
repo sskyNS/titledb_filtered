@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7aeb7202fe30d716989527cf42e2a07d50eaaccbd58af16412a6ea80276a18aa.jpg"
 	],
 	"releaseDate": 20211225,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Super American soldier",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "32 MiB"
 }

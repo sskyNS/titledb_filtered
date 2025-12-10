@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/134b7f595dcab2f6b12a25b6b40bcd6796005ffa3145acd71d88fce2bfd6c814.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Epic battles within 5 seconds!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "176 MiB"
 }

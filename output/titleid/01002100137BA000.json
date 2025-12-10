@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf54fb0f4e160c7a9feb3ebef63de4eae48b9bb6ba430e615c16a7085b0fe7d3.jpg"
 	],
 	"releaseDate": 20210107,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "We throw you back to the good old retro console days!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "35 MiB"
 }

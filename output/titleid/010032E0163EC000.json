@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4be15451daa0ff8df98ee360e01cba0c6ccec8fe5d4276e5d9478d5d1e4600f5.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Board Game",
+		"Training",
+		"Strategy",
+		"Communication"
+	],
+	"intro": "Play classics like Othello, Mahjong, Shogi, Go, and Texas Hold 'em,Chase, Backgammon,all in one game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.28 GiB"
 }

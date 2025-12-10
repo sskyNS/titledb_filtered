@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb189013dcdae0b08ffb1014d9e6e4485bcf8fd43738c2e1e87ef80e332dfd68.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Board Game",
+		"Party",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Classic Oriental Board Game",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.25 GiB"
 }

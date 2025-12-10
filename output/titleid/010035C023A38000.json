@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bcb1f652b127cbb6f717cd7bf586f680271880143e9271736223ff5f39c4a40.jpg"
 	],
 	"releaseDate": 20251015,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Welcome back to the hottest kitchen in the underworld!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

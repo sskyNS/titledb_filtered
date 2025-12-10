@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5e46f39e784a907da543f5cfbb2ea8aeb560a5c781cc6daf8aeba53b062d761.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy the enemy and infiltrate the base!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "85 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/df7902a3d5ca0a018686b26f601b4f11db92e2977560d431988062eb4e83cfda.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Navigate the masked deceptions and deadly magic of a vividly Venetian city in this fully voiced tactical RPG.",
+	"languages": [
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.81 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fed895eb04c269888d05f65dd56d02b345bde299695f4efaa27595ec415ca48c.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Action",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Play dodgeball as Kunio-kun in the second entry of the 'Nekketsu' series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "75 MiB"
 }

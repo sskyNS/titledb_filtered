@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a72b5deac9a2bef3762e0f8707d347486eea1e24dcd75e618f0f5f7f294ccaed.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Stop the mysterious killer!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "692 MiB"
 }

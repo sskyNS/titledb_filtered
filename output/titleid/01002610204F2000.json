@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6705e1218d9dcfd1d32348786901f8c1fb7c13bdbcf2822d09a25ce2d46e58e6.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "One day, the soul-starved Youkai escape from the depths of hell. Now, the story of the Grim Reaper and the girl who has fallen into this land begins!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "894 MiB"
 }

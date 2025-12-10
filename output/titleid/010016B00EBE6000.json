@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/577b823759aca3dfb5bb65e9bea90cc238f87342c40ca11d8d9da038b0521c41.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Command firefighters, paramedics and many other rescue units. \nBuild your base and expand your team.\nSave lives. Be a hero.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

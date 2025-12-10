@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/055111f2cfbf79caa180445c3cdf11d9bfe44fbab02b5d1e68f675f3bf31bcb2.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports"
+	],
+	"intro": "An iconic course for motorbike fans. 200km of open roads to practise on. Challenging physics. A simulation for the best riders. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.83 GiB"
 }

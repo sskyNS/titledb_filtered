@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a9666fc5e37e331494df2a2b69a74446b99da1d95d0a29fa73891f6e125007.jpg"
 	],
 	"releaseDate": 20200515,
+	"category": [
+		"Action",
+		"Strategy"
+	],
+	"intro": "A thrilling mix of dungeon defense and roguelike",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

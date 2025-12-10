@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b776e5a097c038618df76af3a7300bc6314fcdda87695843852ad0a65e57d356.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Lifestyle"
+	],
+	"intro": "Where 3D space shooter and deep narrative experience meet",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

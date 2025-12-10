@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/912395078f9e8a906f71dc2734d2b678547e14463bca44e588f88ee73d32dd2b.jpg"
 	],
 	"releaseDate": 20231117,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore a mini-sized metroidvania versed in epic viking mythology",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

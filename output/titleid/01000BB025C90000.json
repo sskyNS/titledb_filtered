@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36c5772bcdd3753e6409dc5c9f9414b8bb6afb59cb78c098359d1caf01fa8151.jpg"
 	],
 	"releaseDate": 20251107,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore. Discover. Uncover the secrets of the Isle.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "299 MiB"
 }

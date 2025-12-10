@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/10cba5748b3f2c6fd3b31992468f76c8574667708d5fecc3b756d00dcfc2507e.jpg"
 	],
 	"releaseDate": 20250514,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "In this chaotic era, a journey to exterminate demons begins.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

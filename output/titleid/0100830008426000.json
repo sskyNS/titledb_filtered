@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/090e1b61c6f0d386f4af485ab626da556da399b32fe5a360b4c805538e2223cb.jpg"
 	],
 	"releaseDate": 20180531,
+	"category": [
+		"Action",
+		"Music",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "A game about shapes, and about beats.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.37 GiB"
 }

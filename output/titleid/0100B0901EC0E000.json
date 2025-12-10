@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1398e0ee7f8d17245494015a4f6b32b33a7775a125f3653a08b1da0eb7b08158.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Defeat the aliens and repair your spaceship to survive!\nEach stage equipped with a hot skill!\nA roguelike shooter that blows everything away!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "592 MiB"
 }

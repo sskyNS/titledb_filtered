@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c3bc56c4cae44f572924a98200e3bef482bb03f21739d53964e26bb42423d04.jpg"
 	],
 	"releaseDate": 20190613,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Training",
+		"Action"
+	],
+	"intro": "A pixelated, brain-racking, button-pushing puzzle game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

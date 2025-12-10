@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/025959121a83299abaaf1ed3586bff9ef1ee9c5081004b7bc9f97c1fce494394.jpg"
 	],
 	"releaseDate": 20200226,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "In the puzzle platformer Portal Dogs, a horde of dogs are following their king through the portal world. The catch: you play with all dogs simultaneously.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

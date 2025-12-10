@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/11be0075ec0599afe5b685e25bd36105dab302f435b76a0595d0b421b71d4509.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "In the game you have to play as a young girl named Sarah, who has to find out what happened in Robotec lab.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "646 MiB"
 }

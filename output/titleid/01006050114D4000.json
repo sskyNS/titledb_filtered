@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/99be7e3298595f7916656f04ee99cbd3372eb3a33479472c70a4c4000406528e.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "\"The Experiment\" is an escape room puzzle game! You took part in an experiment that went out of control, can you escape the facilities before it's too late?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "979 MiB"
 }

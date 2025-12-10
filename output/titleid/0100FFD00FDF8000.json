@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e959b79106bc01eebf2e33154ce1db80b377bedd67c6dfc3fe890c6369b1164.jpg"
 	],
 	"releaseDate": 20210324,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "With science as your superpower, team up with Tesla, Curie, Lovecraft, and Shelley to save the world from an invasion of cosmic horrors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "316 MiB"
 }

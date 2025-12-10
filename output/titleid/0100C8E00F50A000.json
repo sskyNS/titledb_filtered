@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e34a4e25a4cb23b9bd9a90103b2857b1d5b6ccffbfbbeeb8f2225066c03d5c7.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Take back a stolen world in the new saga from the acclaimed RPG series of Asdivine, this time based in a world reminiscent of ancient Japan!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

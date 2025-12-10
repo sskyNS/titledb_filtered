@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c29a3957010f49a5805a629b395f9c4f55b703055686094f6e8ae26c3203e4b5.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Become Sherlock Holmes and solve crimes on the go!",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.24 GiB"
 }

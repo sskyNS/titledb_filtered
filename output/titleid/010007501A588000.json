@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e66df49d7f2b68b84207b48fe2e4d39810c10e20f861b5bde13f90421ada1cee.jpg"
 	],
 	"releaseDate": 20230411,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Something has been taken. Enter a new Grid and forge alliances via visual novel gameplay, uncovering truths through Identity Disc puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.60 GiB"
 }

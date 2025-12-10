@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/13776d6eebbb080a666fd638e66a98ef70e316eb5091df597c278ff6b009f339.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Feudal Alloy is an epic action adventure featuring fish-controlled medieval robots! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

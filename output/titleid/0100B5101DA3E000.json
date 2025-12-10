@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/78e853740a10103bc3c7e2dd6a5a842f881bae31104fb538e0da16892bbc9e1e.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Embark on a magical quest as Fynn the dragon to rescue your unhatched siblings from the mysterious Cavern of Dreams in this 3D platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

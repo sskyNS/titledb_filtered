@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa9cdb34c33e0533cb782b59bac7c5b9d9502f4fcc03a29fcda6aea922d76a6a.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Time To Get Eve\u2019n\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "562 MiB"
 }

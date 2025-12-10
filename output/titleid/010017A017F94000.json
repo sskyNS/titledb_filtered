@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d90bfa63c0950a4218aef32ab84acca80766c70e74409ccf1d820c3c0fe911c.jpg"
 	],
 	"releaseDate": 20220617,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Test your mettle in Plunder Dungeons, a card-collecting, monster-bashing Adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "92 MiB"
 }

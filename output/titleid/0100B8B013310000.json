@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6e4bb32ff5e43f257ec767e7d9ac4ef551cdee8cf4f2f7a26842623f334a6b6.jpg"
 	],
 	"releaseDate": 20201014,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "He\u2019s a dad AND a radish! His kids have gone missing from the vegetable patch, and he needs your help to find them.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

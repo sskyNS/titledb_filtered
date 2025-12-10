@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c03509db6d4ae0b6be010366699e8444c0e3449c3e7aa7ca56f303786784328.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "See through their eyes.\nStay out of their sight.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.93 GiB"
 }

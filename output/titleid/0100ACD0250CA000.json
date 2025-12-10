@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/db3fcefdc5d926ca00ad318a250ab6aa65a4ad085377b418ac733b19c1e94e34.jpg"
 	],
 	"releaseDate": 20250910,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Follow the dream of haven to reclaim your freedom.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.26 GiB"
 }

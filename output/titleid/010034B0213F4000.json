@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1596b0582a09a643b63af8c26ec1ab6d30459bc57a3d009578a19a415a2c635a.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Embark on a Christmas quest to uncover hidden cats in charming holiday scenes filled with snowmen, festive shops, and a grand tree adorned with gifts.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

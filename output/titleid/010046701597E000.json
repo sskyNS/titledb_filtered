@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/32626cdbfa55eb731b948b6cf01c7d2cb1ef118cd48d56d7920dcca318bf4e5e.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Set in the neon-colored landscape of Neo Barcelona, Aeon Drive is an action platformer with a speedrunning twist!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "800 MiB"
 }

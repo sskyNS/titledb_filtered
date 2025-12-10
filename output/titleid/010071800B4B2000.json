@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0062a824b43ccc72abb77118395e349cc8ddfa51c4a01a2cbae22a8453bd7cfb.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Do you remember all the toys from your childhood? Do you remember what happened to them? Where are they now? Though once best friends, they have now become your worst nightmare!\n\n \n\nYour Toy is a 3D first person horror room escape game that features an advanced non-repeat puzzle system with challenging riddles, heart-pounding escape sequences and a mysterious narrative that dives deep into your darkest subconsciousness. Players will experience a fully immersive 3D environment, where the realistic art style provides an eerie and engaging atmosphere. Are you ready to enter your nightmares? \n\n \n\nWaking up in darkness, you find yourself trapped in a place long forgotten. Cryptic messages, one after another, lure you deeper into the abyss of an intriguing unknown, and a feeling that someone is watching you from the other side of this surreal dimension. Caught between your own memory and a false dream, a forgotten victim returns, but now play-time is reversed. Who is the toy now?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "907 MiB"
 }

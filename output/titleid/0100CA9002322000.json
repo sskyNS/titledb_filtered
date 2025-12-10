@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a44317387c505c739cbf19b17c2cf560947e9b01ef52b265c37d49077622634.jpg"
 	],
 	"releaseDate": 20170921,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Adventure waits below the surface... ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "274 MiB"
 }

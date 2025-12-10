@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca2837d9e9f410e48c6991a136047b0adf357a26828af455bfdcb60d897ba2e3.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Join mage-in-training Lily on an epic adventure! Explore a multitude of worlds, including forests, deserts, and dungeons, in hopes of becoming a full-fledged mage!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

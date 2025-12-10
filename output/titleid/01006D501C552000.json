@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c0db694a8e186f37bbb0a74464667b6ae2555fc27585842b457493ffbbec00e.jpg"
 	],
 	"releaseDate": 20231213,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Survive as a dark sorcerer and collect fallen spirits to turn them into your own unholy defense against corrupt angels!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

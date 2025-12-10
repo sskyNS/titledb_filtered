@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/83ab7cabe63fd88ddc209eed94d7cb08697cdebb54d157fa9513d7a76a07730a.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "In this 3 chapter story, you play as a modern day legend, Detective Thomas Moore. He has solved more cases than one can count, where others hit dead-ends, he gets to work. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.48 GiB"
 }

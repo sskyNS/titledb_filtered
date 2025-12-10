@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e85f07693e58f9b2f816c486eae33c33722c1105aebe9465e810bc1866d4b86.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "SCHiM is a game about jumping from shadow to shadow.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "744 MiB"
 }

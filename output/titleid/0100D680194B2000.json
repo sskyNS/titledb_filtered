@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/edcffdda0f554ae3cf63b460992e1bce0e128aa868a7de9121e06ceed98dcfb3.jpg"
 	],
 	"releaseDate": 20230621,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Meet even more Pikmin (and Louie) on a treasure-hunting expedition\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.04 GiB"
 }

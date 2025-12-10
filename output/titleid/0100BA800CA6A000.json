@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c79a68cebb5446335f511475626c6ffd9a133f635236aab9528bf261ac67471.jpg"
 	],
 	"releaseDate": 20190104,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "The saga continues after 99Bullets. Now your problem isn't the number of bullets, rather the amount of time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "109 MiB"
 }

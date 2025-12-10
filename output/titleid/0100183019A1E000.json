@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ded6409b1bc8ddde5b554e7f79c6cb0d46bde5a015c8ea5f791a9635fd71dcc.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "\"Becoming a girl in a year!?\nShyly, ended up transferring to a girl's academy in girl's clothes...\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

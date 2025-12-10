@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/070050a3a88f5afa1fb4165115bf4daca60f734f071d82c77bd605b2ff62446f.jpg"
 	],
 	"releaseDate": 20250705,
+	"category": [
+		"Shooter",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "This is the Digital edition of Furi's artbook.\n\nA stunning official artbook that gathers all the concept art from the artists who brought Furi to life over two years of development. Including the jail worlds concept arts, storyboards, combat research drawings, and detailed character sketches by Takashi Okazaki, creator of Afro Samurai.\n\nThe artbook has 144 pages. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

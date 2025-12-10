@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a6786dde4c8055eed40a113c64497b022004bc8192ee9ff62d0652ab93223d5.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Unleash the bouncy power of Mj\u00f6lnir in this retro platformer. Use the mighty hammer and many other power-ups to travel the realms of Asgard.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

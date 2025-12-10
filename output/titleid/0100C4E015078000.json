@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e40df3d64a7bfefb0aaaa9c020416eb65e14435d01812d1ac5c7bd0e3f39647b.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "These words have one letter missing. Deduce the correct letters to fill the gaps and spell a new word, but watch out for red herrings!\n\nThere are 150 puzzles to solve - and 150 terrible jokes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

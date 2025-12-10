@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6afcd2453cbb5f13f2cba953b6afd38f5db827cae4efa693f0b4e90940967718.jpg"
 	],
 	"releaseDate": 20240324,
+	"category": [
+		"Action",
+		"Adventure",
+		"Party",
+		"Lifestyle"
+	],
+	"intro": "Fur-tastic fun! Thrill with animal pals in vibrant adventures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

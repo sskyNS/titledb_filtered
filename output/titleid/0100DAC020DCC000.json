@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/62ac0eb101cf84d1120a0518461a5de57ee310816cf69c0889a8ab1d7815dd48.jpg"
 	],
 	"releaseDate": 20241018,
+	"category": [
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Realistic local multiplayer Boxing game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "385 MiB"
 }

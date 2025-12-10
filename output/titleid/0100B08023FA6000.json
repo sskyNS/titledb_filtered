@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/574a240976aada969075adbdcd4c1c5de24aa6e9ccbbb9d23c3d30919e77105c.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Become the king of Tokyo\u2019s underground races!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "665 MiB"
 }

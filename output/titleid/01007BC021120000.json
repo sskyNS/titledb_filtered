@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/53d3152d99893fc83cced5c3c39391235f30799f508b6189e346b852b7d4c6f6.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": "Enter the endless hall where reality distorts. Spot anomalies, correct them, and uncover the dark truth\u2014miss one, and you may be lost forever.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

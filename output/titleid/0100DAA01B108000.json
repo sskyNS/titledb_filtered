@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/156ddf4f97409e15d604829ebb500dfffe9a2139710a3a1e0d07cf02440b0884.jpg"
 	],
 	"releaseDate": 20240521,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Video"
+	],
+	"intro": "Are you ready to go through the gate?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

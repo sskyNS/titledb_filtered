@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f93c5e3f42b355e6952f2c198092c27ab429912be54d448ba3e382c22ad0dea6.jpg"
 	],
 	"releaseDate": 20260227,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A path forged by vengeance",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "8.84 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d359964c5496e5a14469f93bcbe9ab94f3b2b61984f122acb9514169d6eb19ff.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Become the main protagonist of this ambitious JRPG!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.62 GiB"
 }

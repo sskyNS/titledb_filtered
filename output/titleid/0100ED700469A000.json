@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0804bdf4429b5eab2088b172c16bbdcfd48b7376e5f4b870997e6cc3e5ddc84.jpg"
 	],
 	"releaseDate": 20181107,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "The art is the puzzle and the puzzle is the art.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "727 MiB"
 }

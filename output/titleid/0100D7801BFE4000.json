@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbd6e15f8ff4123ab094117eb18972cb7f1aca8407c17e4678de4d53489d84d4.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "CarX Highway Racing is a racing game on traffic-packed tracks.\nMore than 100,000,000 fans worldwide.\nNow on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

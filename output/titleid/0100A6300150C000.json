@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/876a49a34fc1e2c536fb5b5d85371217227ba30e04b945d7b26505c4e6faf813.jpg"
 	],
 	"releaseDate": 20170418,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Boasting beautiful, hand-drawn animations and a re-orchestrated soundtrack, the cult classic returns with a unique blend of exploration, action, and adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "894 MiB"
 }

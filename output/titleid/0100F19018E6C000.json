@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/698a92a1db4639700385734ca2e39efc292cfd7d2ab551747a27b46de6a44ebe.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Platformer",
+		"Training"
+	],
+	"intro": "Mixx Island Remix Plus is a high-energy, action-packed shooter set in a fantastic 2D world. Gather your wits, sharpen your reflexes, and prepare for the ultimate challenge. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

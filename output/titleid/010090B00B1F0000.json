@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/745905789f27d147c73064f353c39e1374e7ed454390e7b363b3e6398747e9a0.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Build and manage the ultimate Japanese hot springs inn.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

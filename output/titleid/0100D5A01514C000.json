@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1a406ebc7f792fa710901404a970387205bacdb781c98758a0bec6637777d67.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Simulation"
+	],
+	"intro": "Water the soil of your ranch and watch your crop grow.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "357 MiB"
 }

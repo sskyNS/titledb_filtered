@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1c3be16f3470831c566a4d153d827c3b9eba2925b0a30cf7bfab5610572cf23.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "When the colours of the world are no more\u2026 Little Lumi must embark on a journey across a variety of wonderful sceneries to bring them back. Let the adventure begin!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

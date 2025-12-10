@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0142b9b28102e3afec4ee001f22d638ef0863b01ab424ef1f622227ef3f36dfa.jpg"
 	],
 	"releaseDate": 20220910,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Destroy Lord Zaiden's army and save captured souls in this medieval RPG which is set in a fictional place called Soulsland",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.15 GiB"
 }

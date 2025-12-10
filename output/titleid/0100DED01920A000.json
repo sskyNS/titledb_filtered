@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/35709e89a2060046a482dd577c5acbf831c1f550139a6338c24e3940951ea693.jpg"
 	],
 	"releaseDate": 20220917,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Squids play volleyball! Smash the ball in your friend's face and start a fight with them that will last at least for the 10 generations to come.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "380 MiB"
 }

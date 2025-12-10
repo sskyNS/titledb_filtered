@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/14168b4459ce59005ffcab894abb6f949541e58edd77f62c4c4e667ed39c594e.jpg"
 	],
 	"releaseDate": 20251212,
+	"category": [
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "When Dino rolls into a ball he can knock down the mightiest dinosaurs!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "64 MiB"
 }

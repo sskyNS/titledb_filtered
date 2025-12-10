@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8b205d1bb9d5ac9963eaa804c241a4458e934427dd9eb5d48200fb3a0522849.jpg"
 	],
 	"releaseDate": 20220913,
+	"category": [
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Discover the secret history of your own family in a captivating story about reconciliation set in the chaotic aftermath of World War 2.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.45 GiB"
 }

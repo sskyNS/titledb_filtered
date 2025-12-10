@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b715675268901576be160f517c655d1be2e1baa88a627123e9befb35631e5676.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Find the differences \nsolo or with family/friends.\nWho is the quickest spotter?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "801 MiB"
 }

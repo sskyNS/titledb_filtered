@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce0a4ac2cc01a761ed05ea7b9a48dcd6628222287eb6f2cbf6690b0d13ea619c.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Board Game",
+		"Party",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Enjoy four fun and classic card games!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

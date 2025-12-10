@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46a2123531eca1aaa25fb5b3437c910a8a729782a36142840ba9539cbbfaa22c.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Survive the Darkness, Fight the Horde!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "498 MiB"
 }

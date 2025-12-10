@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/43a850e27a3d11ca0aee8ee357570f2d867094c76522ad626cffd56238062caa.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Fighting",
+		"Party",
+		"Action",
+		"Sports"
+	],
+	"intro": "Silly physics based ragdoll fighting game. Ready to compete?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "367 MiB"
 }

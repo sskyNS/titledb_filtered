@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4eb8675e0db5ed335b9267ca2afc8779e2b5e53494c14c0f1a7bd6441cfea5ca.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Sparks flare around the man all five sisters wish to claim.\nIntroducing the new vertical scrolling shooter game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "529 MiB"
 }

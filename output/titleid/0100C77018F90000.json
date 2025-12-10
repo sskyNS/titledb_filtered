@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/49c86727dd5124aa0ccda10ac91a5f7792fba6bae4a45733fe562a35d8201c32.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"RPG",
+		"Other"
+	],
+	"intro": "Choose your FACTION, build a COMBAT CASE and take to the streets in this one-of-a-kind CARD BATTLER.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

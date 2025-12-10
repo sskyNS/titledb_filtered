@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc42d15c810c930e0166bbb6b881612f62353325435ec6552a54994765b264e0.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Will you be able to guide these 2 robots through intricate puzzles full of traps? It will not be easy to overcome the 42 levels that separate them from freedom.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

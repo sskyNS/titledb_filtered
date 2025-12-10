@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac9e17d424ef8a9a0ebe7779f8a2dff4c8f01750e10275ff28a344cf3af05acf.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Music",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "\u201cWait, I know this song...but what was the title?\u201d\nLet\u2019s learn about classical music by playing this game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

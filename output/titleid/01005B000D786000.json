@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d71e0c2cdc5531052bc4989f3af1c3639806a5ae31f357b4abfcd66d18f729b7.jpg"
 	],
 	"releaseDate": 20190806,
+	"category": [
+		"Action",
+		"RPG",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Your character. Our universe. Create your own Superhero or Supervillain in DC Universe Online.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "22.45 GiB"
 }

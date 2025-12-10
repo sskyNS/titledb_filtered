@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8d2302a8a5032649ccc5b78bdabea5bcf6a4fe24be09551be857e700abf28a4.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "A boring game like bowling that actually is not boring!\nLet\u2019s go to Brazil from Japan!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

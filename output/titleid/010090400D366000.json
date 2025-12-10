@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2eb7cfaa3352e7468c1b2e9d480d40dc98bc9710cbc2f86b5c9fa52df7854d3.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "The award-winning action RPG is back, bigger and better than ever!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.09 GiB"
 }

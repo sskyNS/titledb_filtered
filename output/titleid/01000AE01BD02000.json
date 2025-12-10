@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab711a294264c7f7f872ea8b2587324856e22547d99992de3e19130de138b215.jpg"
 	],
 	"releaseDate": 20230626,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "SHIMAZU is a side-scrolling action/dark art style game. Take on the role of a samurai named Shimazu.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "532 MiB"
 }

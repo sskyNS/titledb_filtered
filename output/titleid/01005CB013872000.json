@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d409e087da0d9613d503cd9f7a1d39acb8e39a3db895eab24176abcbee52593.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Fall Gummies is a relaxing, colorful 3D puzzle game. The story takes place in a fantastic world of happy jellies. Unfortunately one day a huge meteorite hit the planet pushing it towards the black hole. It sucked all the emotions out of the planet and then collapsed. Help our little friends to regain their happiness by collecting the magical essence through the labyrinth!\n\n\u2022 1000 challenging puzzles to complete\n\u2022 Customize your characters appearance\n\u2022 Create profiles for each Jelly\n\u2022 Cute and colorful graphics\n\u2022 Intuitive controls\n\u2022 Chilling music\n\nBECOME A FRIEND OF GUMMIES AND MAKE THEM HAPPY AGAIN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

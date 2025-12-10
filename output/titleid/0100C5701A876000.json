@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/8eb5d39094b1e0b2e7e44233cc3794b44f51d7acbff5febc038aefce95b37f25.jpg"
 	],
 	"releaseDate": 20250825,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Roadwarden is an illustrated text-based RPG that uses isometric pixel art and combines mechanics borrowed from RPGs, Visual Novels, adventure games and interactive fiction.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "937 MiB"
 }

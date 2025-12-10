@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e19eb93645a28ed5925e86e7ac1c034845ded0823558ca6c63195e181fcf228.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Other"
+	],
+	"intro": "A story-driven, adventure game combining exploration with making key choices. Unravel the mystery and help find your friend.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "305 MiB"
 }

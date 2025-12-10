@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b177a5edf860b42214cf877743bae5db9e9db7c64ef244ec43a0ec4cdacf44ee.jpg"
 	],
 	"releaseDate": 20250322,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Save the princess, be the hero!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/244db780eb49dda9e773204b8803df01450865483760c8d0dbdd422ce2b24739.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Platformer",
+		"Action"
+	],
+	"intro": "The Return of the Iconic Block-Breaker!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "445 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b25c0c293b7e5926c02c34102555b9a979bf55f1755c9fc188938008e9aa6e9.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Explore the thrilling life of \"Kaito Yamazaki\"",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.32 GiB"
 }

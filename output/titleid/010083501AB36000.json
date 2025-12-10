@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c6b8fe48129bbe0223cdd6e77c8a180e0f0c8ba79293f62612f6eb0ad19cc86.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The Void is calling...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.47 GiB"
 }

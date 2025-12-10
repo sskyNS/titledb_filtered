@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/88bc89c022960d7bb7bfa09bccc570afcfce33df970fbac34a00bbb09df2fd91.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Boxville is an award-winning adventure puzzle game about speechless cans living in the city of boxes and drawing doodles on cardboards to tell the stories.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/aaed99d42cafb5ed16a2b1e469cce325326c7c6b41d200783b4ffe102ad567bf.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Jump! Fight! Grab! Use the assassination arts known as the Five Ninja Fighting Arts to put an end to this unwanted evil!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "123 MiB"
 }

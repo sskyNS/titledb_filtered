@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5658c0c868c60da7af936a599f09404ec7aeff645e5e906565f2ece903b7dbc6.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Enter this procedural world, battle foes, and find monster parts for abilities!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.85 GiB"
 }

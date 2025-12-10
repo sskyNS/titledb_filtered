@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/148ded0e7fc4bde5a6ef614f38662417c5f26c30b818bf0f3c5340ba873a8de2.jpg"
 	],
 	"releaseDate": 20250606,
+	"category": [
+		"Simulation",
+		"Party",
+		"Action",
+		"Study"
+	],
+	"intro": "Hello.\nGunma Prefecture makes Japan Gunma Prefecture.\nEveryone Gunma.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "103 MiB"
 }

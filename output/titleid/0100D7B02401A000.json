@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7df6dde1cbc96cc8cd55affcc20eaad5eaa9f96e306994625929c4701a9bfdb.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Chomp and blast marbles in a cute zombie invasion!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "608 MiB"
 }

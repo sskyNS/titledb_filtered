@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ca79687f8c0d59105ad6932d10d302cf51cc240e20244405891c6794395d1b3.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Open World Pirate Action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

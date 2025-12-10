@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b4fef6b59f17d13d4f0620bbc7db6810b8913715bf4bebca87c87fbb2d6c5a9.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Retro Tanks is an intense, fast-paced tank shooter game. It is fun, easy to learn and addicting. Play alone, together with friends or against your friends and show your navigation and reaction skills in 6 different game modes and countless levels.\n\nIt\u2019s fast. It\u2019s fun. It\u2019s addicting.\nDeafest the enemy tanks while dodging their deadly bullets. \nImprove your aim and maneuver skill while war itself is trying to end your adventure.\nLevel by level the enemies tanks get faster, smarter and deadlier. \nCan you make it to the end and defeat their leader?\n\nPlay alone. Play with your friends. Play against your friends.\n- Play the singleplayer campaign to practice your skills and beat the game by yourself.- Finish the campaign with 2 players in the co-op mode. \n- Defeat your friends in the VS Mode for up to 4 players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "635 MiB"
 }

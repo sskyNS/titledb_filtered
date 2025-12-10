@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c1cf4899bc07576e7177f449e3aa93b11535968799dfe70ff4c562cc9387571.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Action",
+		"Strategy",
+		"Fighting",
+		"Other"
+	],
+	"intro": "You were turned into a dark creature by evil scientists and finally managed to break free! It's time for revenge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

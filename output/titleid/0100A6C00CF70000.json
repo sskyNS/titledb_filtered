@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c9925258423d9fbd4c3de4b0fd126f17d0b25b3f24ea867d2dbc07d94bce844.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Grab Lab is a crazy mix of puzzle and arcade game. Complete all unique levels - from simple to extremely advanced and demanding. Save the world - fix the gravity and rules of physics.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "344 MiB"
 }

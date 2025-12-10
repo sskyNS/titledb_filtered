@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb6cdd06c22b8bcb5b4cdbd67bcbc0e143071e4b02df706b7331f0b492d11804.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Welcome to Pamuria",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.16 GiB"
 }

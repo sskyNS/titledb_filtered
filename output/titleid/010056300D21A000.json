@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a514fbcbd4e74c98c289fa80ed0bd643d77b64cdf3a541b7f477677229554311.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Sports",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Voxel wrestlers intensely and furiously slamming into each other!Enjoy the fun, over the top moves that this game has to offer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "405 MiB"
 }

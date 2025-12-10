@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dabee59bdf34cabec3d21fbe620783b173dd3579073c2a736da03765abd165da.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Hacker vs AI, can you save all the kidnapped girls?",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

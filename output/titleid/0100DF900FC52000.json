@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2777a0cbc7e6d165e3e76cf205de721ae28a21d3d9636dad7136f282d9da876f.jpg"
 	],
 	"releaseDate": 20191122,
+	"category": [
+		"Fighting",
+		"RPG",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A terrifically fun fighting game with a white-hot RPG core!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "438 MiB"
 }

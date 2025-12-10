@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddfe967c1c04d10d2d92d4cc838c83477e4157f0e8294bdc459fe948bb6f290f.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "In this platform game, you control Buddy, a ball-throwing dog who must rescue his brother from the evil goblin king and his minions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

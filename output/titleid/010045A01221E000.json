@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8a9ef8cfdb62a3b066ead0fa99c5a0086f629f7160f1faba47b1d23c93b4ddc.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "You and your dog are the lone survivors of a zombie apocalypse. Keep it that way! ",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

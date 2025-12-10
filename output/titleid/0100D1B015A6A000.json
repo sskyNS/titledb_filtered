@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/028e77809b2e231302af3a31564ed24c9b0a3b8598a68fa1ce9acd7ed4aef026.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Embark on a unique, deeply atmospheric and blinding haze of retro-styled violence.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "319 MiB"
 }

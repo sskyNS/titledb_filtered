@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2833a46d294301ca0d181352d20d5881dd051bab24d8defb9608f136ca6d2fa3.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "As a paranormal investigator fueled by curiosity and a thirst for the unknown, you've been dared to enter the abandoned halls of Crimson Asylum.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "848 MiB"
 }

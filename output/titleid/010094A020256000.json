@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/56df240a5bd9483a05d8e1a3e3ebf96cca24f4aa2c520f7aa07096dce75d1dcf.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "What made the MZ-700, which couldn't even display graphics, a national computer? \nOnly the MZ-700 knows the answer...",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

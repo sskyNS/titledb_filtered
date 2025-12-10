@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/23491d5b807ca97d65cd7c745a5e9eaf86b42112c81f752dc1d99a0cd518ecd4.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Action",
+		"Strategy",
+		"RPG",
+		"Other"
+	],
+	"intro": "MAINFRAME DEFENDERS - turn-based tactics centered around gear and unit customization. It offers simple combat, high replayability, and tons of loot.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3714f90af2519d213f02d0bf97f3328974abbf31cfd0c33a34d7ed05d05292a7.jpg"
 	],
 	"releaseDate": 20230818,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Sports",
+		"Lifestyle"
+	],
+	"intro": "Bomb Rush Cyberfunk is 1 second per second of advanced funkstyle. Battle rival crews and dispatch militarized police to conquer the five boroughs of New Amsterdam. Become All City.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

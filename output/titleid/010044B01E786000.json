@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/06fd3548a00052553f5984bd7886e1d8009aeb8a109c64498ba577cfcfe36270.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Fighting",
+		"Party",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Pick your hero and save the princess! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.13 GiB"
 }

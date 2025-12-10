@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdc66c62fd17197d03e7d6bd87f1cf45e8c44d421361d6e5fe2b9982aa13fa57.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Join Hoggy and Hogatha as they set out on a quest to save their children!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "204 MiB"
 }

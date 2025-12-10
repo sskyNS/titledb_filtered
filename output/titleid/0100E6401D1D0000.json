@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b74c4079c47f7469263b8feceb58c88925596d085d18c0a5376bc4c5f1ffed0e.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Japanese Gangster High School Tactics RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

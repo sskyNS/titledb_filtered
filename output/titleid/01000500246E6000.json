@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1a2adf8a8d91f01b9cf1d7c9a42a5f244eafb2706cf86c8db2dbbb28bc189ab.jpg"
 	],
 	"releaseDate": 20251111,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"RPG",
+		"Education"
+	],
+	"intro": "Transform a tiny shop into a bustling supermarket empire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "736 MiB"
 }

@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/85c2bdb95a2d976521f5fa457e8cd5567648b686a0edc0c3acd80fc76dce95aa.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Shape stones into masterpieces as Michelangelo.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "648 MiB"
 }

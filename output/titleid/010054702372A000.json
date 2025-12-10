@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdfd2fd6cefeb4adced01ac3add3c5f928ed1b2c1e50547e174b3bc4a806cc68.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Study",
+		"Adventure"
+	],
+	"intro": "Rescue, sort, and settle the wild!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

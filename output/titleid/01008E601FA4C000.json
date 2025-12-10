@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab4d046dc3d7157304078f5392c70b2c01d97df39f93284ab49043c8682c28fb.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Brutal upgradable cars, big guns and daredevil speed will steer you through places that are chock-a-block with zombies...",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

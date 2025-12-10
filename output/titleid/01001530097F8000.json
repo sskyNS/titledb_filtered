@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a381663e7404dabcf5add43f616c37ddcc0ab1c403dfcfe90e81d57d8d3b09e1.jpg"
 	],
 	"releaseDate": 20180330,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Power. Speed. Technique! Who will be the one to knock the champion down?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

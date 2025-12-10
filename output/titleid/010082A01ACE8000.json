@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d9a5e9ee2f25be875a9da1727963ee36e3e0fc4f9ed30a878ad82737a273a53.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Meet Paperman and the team in an adventure to find the lost mail and defeat the greedy dragon. Explore colorful worlds and collect all golden letters in this 3D collectathon platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "966 MiB"
 }

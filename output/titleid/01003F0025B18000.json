@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdca4bd4ac4f89c9b128f260d53e9379a992305c3d278bdc9c27feaf9853cd85.jpg"
 	],
 	"releaseDate": 20251123,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Blast through shapes and numbers in this addictive hand-drawn arcade shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"pl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

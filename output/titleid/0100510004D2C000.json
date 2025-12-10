@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee0ee8da585a336f74f2e982faa66eaeee96ac3fb0c4d3043968023378a66951.jpg"
 	],
 	"releaseDate": 20180208,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Play locally or compete online!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.89 GiB"
 }

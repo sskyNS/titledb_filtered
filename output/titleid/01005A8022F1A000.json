@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/81a1e28c35dbe1d33558094a1177224d0661315b8b54f25763ac376bcf7e610f.jpg"
 	],
 	"releaseDate": 20250425,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Who is this superhuman bunny girl?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

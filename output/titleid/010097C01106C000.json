@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc6672184b9396747776fe64d5afd67a7ac8a1573c6498ea554f59f7b4378fff.jpg"
 	],
 	"releaseDate": 20200213,
+	"category": [
+		"Party",
+		"Shooter",
+		"Fighting",
+		"Racing"
+	],
+	"intro": "Compete for control of the seven seas with yer mateys in wild cooperative battles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "912 MiB"
 }

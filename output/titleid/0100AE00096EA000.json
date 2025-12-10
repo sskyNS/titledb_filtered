@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1416ff068cbb5f99fb204487a7085f936395f4da24704911e3865094d3763db.jpg"
 	],
 	"releaseDate": 20180518,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Save Hyrule on your TV\u2014or on the go!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "12.92 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/8acd262bdff5855f880d2ca165949e184ff7f9567846ccaa53b8212213a3cd24.jpg"
 	],
 	"releaseDate": 20251205,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "A spooky Visual Novel where you try to convince cultists not to sacrifice you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "481 MiB"
 }

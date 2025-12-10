@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/51125de57d6b30b5a2d29cba341e2886a87d23c35909327c55de685ddb5fa105.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Awaken\u2026 begin a quiet journey of discovery and companionship after rousing the slumbering Spirit of the North.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

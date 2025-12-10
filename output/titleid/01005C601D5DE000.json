@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c5d36124f3fc205c7daceed5dc4c4fcf4eaf986d66da873996a9474d8af6e7.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Party",
+		"Training"
+	],
+	"intro": "\u201cPicto\u201d-san is missing!?\nFind the \u201cPicto\u201d-san, famous as a pictogram of emergency exit!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "236 MiB"
 }

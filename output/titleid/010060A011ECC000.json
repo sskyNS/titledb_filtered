@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eba8f490d43b77531884bea0a0a3c4738389c60265af1968e035e1e0835e7000.jpg"
 	],
 	"releaseDate": 20210910,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Knight in shining armor, fight your way... with Guns!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.17 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff719a7d5e03837399f47802dbed15a872cb2cc3f00f57ed88e933eadbc70b1e.jpg"
 	],
 	"releaseDate": 20210522,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "RoboPhobik is a 70s sci-fi inspired, top-down arcade shooter that has a unique twist: enemies won't move or attack you while you're standing still. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

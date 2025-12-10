@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/77393bec70bc7ecb09b8878431fbf74503d43ed93ec953004e6abbe82acfda7f.jpg"
 	],
 	"releaseDate": 20200609,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Dungeon-RPG roguelike with arcade and adventure elements",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

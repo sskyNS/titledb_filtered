@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/30f4776e2437f5a8e1ec45390ed3b3b3a764e9eb1d97d8553a3ae7a6d670b346.jpg"
 	],
 	"releaseDate": 20240111,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Defend the jewel from the evil pirates",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

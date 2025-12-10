@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/986cf28fba028db67ae6f5e0fbff2c11d31d0511a4e35979ce9b8fe546b13103.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Are you drunken enough for that game?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

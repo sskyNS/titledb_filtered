@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/eef57185c313e16548d1ee2ebcc0a3728475347e9199ccc95d465c24878da134.jpg"
 	],
 	"releaseDate": 20200221,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Sports",
+		"Lifestyle"
+	],
+	"intro": "Fishing Adventure is a typical fishing game, where the player can (drums) catch different fish species! Fish in USA, Hawaii and other unique fisheries.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cd8096d487dd2ee48e53c076de225df350dcf98730e9e41f85ce267185d2e26.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Explore alternate dimensions, fight interdimensional criminals, and solve crimes in this thrilling action platformer! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "548 MiB"
 }

@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/818a7fd704a5034b219ae84c42c9afb0411e190eb55c87468ac6069c69d5dd27.jpg"
 	],
 	"releaseDate": 20190712,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Fancy yourself a good driver? Well... we shall see!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

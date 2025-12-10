@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3450cf0f98a301496c293b5bdecf5bccca8a511aa506a81c7912d01853aa0bb8.jpg"
 	],
 	"releaseDate": 20181030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A Blast From the Portable-Gaming Past!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "786 MiB"
 }

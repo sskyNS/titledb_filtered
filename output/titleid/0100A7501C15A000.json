@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3cb2582cdf7d3f5776c2d3bcc5d5e88b6564ce760d4323a1da96c55cc57ecce.jpg"
 	],
 	"releaseDate": 20230807,
+	"category": [
+		"Education",
+		"Study",
+		"Other"
+	],
+	"intro": "Cinderella. Interactive classic stories for all ages.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

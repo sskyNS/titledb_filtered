@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/249120be2da0d1a212ba8b6419552cc957cd8614c1b5801c916d9f10673b6a82.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Platformer action game, mixing gothic and mythological atmospheres.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "346 MiB"
 }

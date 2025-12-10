@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e7f6cc704fa3bb86cbba8acea026067962a698be61f3a08e096e5d2705f89f4.jpg"
 	],
 	"releaseDate": 20240316,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Platformer"
+	],
+	"intro": "Wobble your way to victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

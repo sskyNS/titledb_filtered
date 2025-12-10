@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7898382a6b5781b05c13a76056f20893239e0ef282e87b0fa8ca21086f556f39.jpg"
 	],
 	"releaseDate": 20210518,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Fast & fluid arcade-style SHMUP meets hardcore roguelike! Take flight on a pimped-up jetboard and face off against massive, multi-stage bosses. A classic for the next generation!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

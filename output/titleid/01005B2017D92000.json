@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d41db7c8e3e6705b8cb4dc53be1af4a0153da7ee626772b3de0bd3d57c3b16cb.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Sports",
+		"RPG",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Let's experience the exciting golf in the world of BIRDIE WING!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.19 GiB"
 }

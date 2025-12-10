@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f9186b415aa6f97ed6158a0bf0750a2096c01bfe2e286a0ca97ab18117db04a.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "A cool arcade scrolling shooter with incredible visuals!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "757 MiB"
 }

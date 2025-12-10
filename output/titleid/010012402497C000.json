@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/13aa89ae1edb25b8a767dfad1cdfcf203699edf6e1472d51bb7d2f01d92af5a2.jpg"
 	],
 	"releaseDate": 20250809,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Master the chaos. Evolve nonstop!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/188d215fd1eb55570316e8aee01cdde4b107a95d95cd6250d0435e0fe9e04dc7.jpg"
 	],
 	"releaseDate": 20230317,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Music",
+		"Education"
+	],
+	"intro": "Leap into a world of imagination alongside Treflik and his sister Treflinka. Give in to this magical land and see it through their eyes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.30 GiB"
 }

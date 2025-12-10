@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be550421883f488d42fe49aefbc666a3d9976efc5a70b55acf5336dbe4602c80.jpg"
 	],
 	"releaseDate": 20250705,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Quiet paths lead to hidden wonders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

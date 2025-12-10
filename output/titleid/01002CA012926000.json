@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7ee1162aeccf40274f8f1c31a8b3f4a9ad6202649e09a506e1850c8f59a4e28.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "Kholat\u306f\u3001\u5b9f\u969b\u306b\u3042\u3063\u305f\u51fa\u6765\u4e8b\u300c\u30c7\u30a3\u30a2\u30c8\u30ed\u30d5\u5ce0\u4e8b\u4ef6\u300d\u3092\u3082\u3068\u306b\u3057\u305f\u3001\u30db\u30e9\u30fc\u306e\u8981\u7d20\u3092\u5099\u3048\u305f\u63a2\u7d22\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b2\u30fc\u30e0\u3067\u3059",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.75 GiB"
 }

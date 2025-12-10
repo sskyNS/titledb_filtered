@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/16764990097089bb2f52e4981f4d34a48ce20222df6b1a942e753804f9ec44af.jpg"
 	],
 	"releaseDate": 20250405,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Strategy"
+	],
+	"intro": "Aim true, throw hard, and become the champion!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

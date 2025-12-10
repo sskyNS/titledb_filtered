@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/073a127b819a3c390f2a4c01184ad9e2e806db7759cc5778d5ac526bd83b996f.jpg"
 	],
 	"releaseDate": 20170803,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Aid Slime-san in his escape from a giant worm!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.53 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccee1d68d519c8446bd5dc85a2aa2a9be9e92677a5646d40dd6129f37467da6b.jpg"
 	],
 	"releaseDate": 20240406,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "A puzzling universe of talkative rabbits to jump.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

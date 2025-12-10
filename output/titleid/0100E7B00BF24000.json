@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6fc7de3382ab894445fcc463daf706d2fc804ee57cb3d1d3718962448501565.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Multiplayer",
+		"Communication"
+	],
+	"intro": "An exhilarating puzzle game chock-full of Funghis!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

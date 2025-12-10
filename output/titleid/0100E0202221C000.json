@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/68a20fc680647a148099db054b66f5e9b080f8d182010679460353663f178081.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Action",
+		"Training",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A Mind-Bending Run Action Game\nA bizarre game where you control the left hand with your left hand and the right hand with your right hand.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

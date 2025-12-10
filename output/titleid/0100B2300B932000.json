@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c45673a727902ee61f94b1f168dbf522b8a8dd29098ca68cb879869c978bd7f.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A Magical Teacup Ride!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/328a419db473c4c1b48f2016be8b54b077ee1bb874f23d0f03d193de316217d4.jpg"
 	],
 	"releaseDate": 20241008,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Survive the zombie apocalypse in \"Deads on the Road\"!\nScavenge for supplies, battle hordes of the undead, and uncover hidden secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "886 MiB"
 }

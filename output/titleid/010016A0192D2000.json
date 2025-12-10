@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/46d2222477c8ea9c5d5f691a26bf0f57ec81481c353f918701ead5e27d824c5d.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Free your people from the Iron Lord\u2019s merciless grasp!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.60 GiB"
 }

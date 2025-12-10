@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4090e6b5146de7135d7c3c3671c76a79ead7d59e79c69f44324a94e888dfaf35.jpg"
 	],
 	"releaseDate": 20211105,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Challenge your reflexes and defeat your friends on the way with treacherous hurdles!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 8,
 	"size": "360 MiB"
 }

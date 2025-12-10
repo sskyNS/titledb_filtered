@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3812d3afd97170fb7df31b82c4e0742270dee1575d609ec01273bf80a15f0299.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Blast hordes of alien ships into junk. Collect the scrap to upgrade your ship into an unstoppable force of destruction.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "391 MiB"
 }

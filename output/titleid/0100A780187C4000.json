@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f87ed28dddde31d93d915134dc4b53718cb87d9ee76e37b2d98e885fd876517.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "FALLING OUT is a light-hearted action-packed roguelite where you take control of an oddball couple who are on a vacation from hell.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "257 MiB"
 }

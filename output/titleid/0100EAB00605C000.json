@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/24bb77c93f986adeb0a42748a9950463d12dc30c8cc296c477d0b15c7e13d186.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Unleash your engineering creativity!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

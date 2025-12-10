@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4660cda13b37de5ba593e0f249700ca8b6365c1cead9a54f9850bce7b53f8664.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The story of a young museum worker who suddenly finds herself in a parallel world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

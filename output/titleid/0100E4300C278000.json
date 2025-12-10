@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/03343d07733b9e540eb6d1c08f1bb10384b926cdef98d5228075c102b894f1ee.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Hell is Other Demons is a juicy arcade shooter with bold color schemes and a heavy synthwave soundtrack.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "462 MiB"
 }

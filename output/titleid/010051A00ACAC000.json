@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ce1820111f0461c547d189eb6671969d6973293e37c7f1756b4522a2e2b8510.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "The HD shoot' em up: vertical, fast & fun ! \nRelive the pleasures of arcade shoot'em ups in plenty of Game-Modes, from 1 to 4 Players in Local Co-op. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "237 MiB"
 }

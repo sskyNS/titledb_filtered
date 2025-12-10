@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6c7350b508bfe20026d74840c4956f8b7dfa42c735a854a3de3e7d11acd35dc.jpg"
 	],
 	"releaseDate": 20210519,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Experience true horror in this co-op survival horror roguelike.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "9.66 GiB"
 }

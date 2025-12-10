@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/563700972d7f50cada8312e772fb08a7cee5882c842bcd4ceafe532aa251a9dc.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Defeat the greatest evil man has ever know to save our planet!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

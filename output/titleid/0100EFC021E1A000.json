@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/130b6398a662ea395cb418d02c648c1d9519ee349419d5a4bc1bfb63dc86e454.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Build, sell, and drive your way to success!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "969 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bea808f62ec5ccf802ebb2dda2bb2084b6df6487e57717e52439593d5566049.jpg"
 	],
 	"releaseDate": 20230801,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "The vampire-slaying action-RPG AKIBA'S TRIP: Undead & Undressed returns with an all new true ending route starring the lovable Finnish maid Kati!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.16 GiB"
 }

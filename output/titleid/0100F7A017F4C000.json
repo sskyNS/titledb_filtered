@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d400c10b11ca36f648b20a90044a0f3fc6de180b3d8a4d4d710880ed5f10c01c.jpg"
 	],
 	"releaseDate": 20220801,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "WAVECADE is a sci-fi, arcade-style, shoot-em-up where YOU control the speed of the game. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "439 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd159a6f25c98e4dbeb123fbfd63055198dc8a956683cd27384f2d168dc0510a.jpg"
 	],
 	"releaseDate": 20210226,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Dungeons & Bombs - challenging puzzle game where you need to save your princess... with the beard.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

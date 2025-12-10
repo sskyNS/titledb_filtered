@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/41247b27650aa944b6a36db6e91fd853d6780c9fc1c761bed5207f7f98fec1ef.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Action",
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Farm. Marry. Kill.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

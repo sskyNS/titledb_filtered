@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc6f13265b5c241bb3e50c010f8a1a1c6cc7c0f98dcf0bee6564cf58ab65db5b.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "The most exquisite Xiangqi game ever made!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.17 GiB"
 }

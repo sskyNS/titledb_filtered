@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6773f9b47c1c3d13492a946da222c7833203c8cfbbf4ad15a77f909e2818d4bf.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Toss coins and rule the high seas!\nGolden riches slumber on the treasure islands that await you!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "917 MiB"
 }

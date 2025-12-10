@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1160cce6039bace884c7758bd1517d9bfb5121ffb1b827b1334cba01018b114b.jpg"
 	],
 	"releaseDate": 20240604,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Make your way through breath-taking landscapes, face ancient guardians and unravel the deep mystery that lies behind the disappearance of humanity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.86 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6959059e9f772b5c6b90a1a8be1cb06ad762dcccac0ca043fe309faecae9b2ca.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Action",
+		"Sports",
+		"Party"
+	],
+	"intro": "Win the home run race!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "169 MiB"
 }

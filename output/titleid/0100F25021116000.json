@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0d5957f659e58d353925f816e35a636ab6c2d4ea786463e50fdd458e8a9d87e.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Fighting",
+		"Party",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Hunt your prey, escape your predator - the 1v1v1 party brawler. Pick from 12 shamans with unique abilities and special attacks. Three forces, one fight - who will prevail?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"it"
+	],
+	"numberOfPlayers": 3,
 	"size": "457 MiB"
 }

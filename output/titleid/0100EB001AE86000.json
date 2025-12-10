@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/15830f999637c45162ee7bf627d87825a804459b6bcbcf705c8380e89e3e23fd.jpg"
 	],
 	"releaseDate": 20230909,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Fighting",
+		"Education"
+	],
+	"intro": "Relive your school days on Nintendo Switch\u2122, where old school graphics bring back timeless fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "520 MiB"
 }

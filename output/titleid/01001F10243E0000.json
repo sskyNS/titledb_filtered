@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0da554e32b5af9567376ea7efc5119591a86aa7dedea8d580a14e606e7120ef.jpg"
 	],
 	"releaseDate": 20250930,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Simulation"
+	],
+	"intro": "The chain binds you\u2026 but can it save you?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

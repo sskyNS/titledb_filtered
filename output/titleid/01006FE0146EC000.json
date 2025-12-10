@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcb9746ed83f960c8f68023a496d98d82a6a866f674fcc09e4f87e51cb56fd70.jpg"
 	],
 	"releaseDate": 20230505,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Other"
+	],
+	"intro": "hack-n-slash action-platformer",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.67 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9695eabc4710e90d467263b7be310cfd2ef022e55e14d649a707a3d3d357614.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Ultra Foodmess is a competitive party game for up to 4 players in which food characters battle against each other in a variety of crazy and fast-paced modes!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "828 MiB"
 }

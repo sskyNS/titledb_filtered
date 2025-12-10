@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b529df432f3bbb99ad3f94979c95961ef4a639d4135a0a88b635eb32cacb02c.jpg"
 	],
 	"releaseDate": 20190613,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Radiation City",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.76 GiB"
 }

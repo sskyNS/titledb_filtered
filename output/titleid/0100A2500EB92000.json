@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6047a62b04b3a82c88c7320b584933a21ba75041fdab31ed41f553c0badad3fc.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Platformer",
+		"Sports"
+	],
+	"intro": "Defy gravity with killer tricks!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

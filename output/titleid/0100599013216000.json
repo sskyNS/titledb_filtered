@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c685b01079a44234e09fe0098dbca8603547fb31eadee267abb516259b698a1.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "A well thought-out, smart, polished, \u2018console quality\u2019 educational game pack is out for your kids.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

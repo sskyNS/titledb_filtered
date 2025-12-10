@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5c1c5cf5fb37cea93c0da21d6ccef1d69f81f124e516f491dc026cbf5d9e799.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Hunt, Grow, and Reign Over the Ocean!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "447 MiB"
 }

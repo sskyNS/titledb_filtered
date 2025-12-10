@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/497e3254cc1fd1a7cf066459acb39084e3a662044ac4a2689d1b142cefeddb0f.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Shinobi alert!\nUse your 7 shinobi weapons to survive the bloodshed! ",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "363 MiB"
 }

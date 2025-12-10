@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a28db4d54e1401d1c2883bb82e0999a3ec8e7189606eb5fe293a930f6e120f08.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Start an adventure as a courageous paper plane hunts evil ghosts across vibrant worlds. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.57 GiB"
 }

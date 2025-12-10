@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e81dc937cf4f0e7c7d708c3e8fe80ecb61c2aff72f4aed2c35c9fcf1be295d8.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Become an animal transporter driver.Hurry to get as many orders as possible. Get behind the wheel, but also be careful with the animals. Fun but challenging game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

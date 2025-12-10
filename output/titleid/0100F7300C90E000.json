@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fac893f29e5e2244d8be18a48a23b7e51886715d9ab3f7379cce7d083ab1e40.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Monsters, mutants and zombies threaten to transform the world into a Kingdom for the Dead. Conquer the creatures of the night and save the humans!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "78 MiB"
 }

@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/933522853eb8c4e90106d009fb8d6e9d3022c3772372d688ea85e96b9b56900d.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "Die Again \u306e\u4e16\u754c\u3067\u306f\u3001\u6b7b\u306f\u7d42\u308f\u308a\u3067\u306f\u306a\u304f\u3001\u59cb\u307e\u308a\u306b\u904e\u304e\u306a\u3044\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.73 GiB"
 }

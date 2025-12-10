@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/09d0cce76ab9355249ec2a35d6f820b531cf91e5f5f0ab1fa0f641a831720f43.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Platformer",
+		"RPG",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The Swindle is a steampunk cybercrime caper about breaking into buildings, hacking their systems, stealing all their cash, and quickly running away again before the police show up.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/db01b7caa82e6d8a52de43aec9d2c278e383b2e3e18d841413cd263f34eabb01.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy the microscopic aliens! The battle against invasion takes place inside the body!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

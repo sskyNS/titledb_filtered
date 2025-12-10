@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/552a48d158db2911c17891b8360ef1f6cc7714981097d07dc9e5915c85cd1313.jpg"
 	],
 	"releaseDate": 20251018,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Fill her grid and reveal the picture.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

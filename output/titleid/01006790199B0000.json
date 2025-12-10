@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c9dc840d585fdd6c6db6fb0486e4caedf490fec736c78445222c019b49e51c.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Who hasn't tried their luck at the fair booths fishing for ducks? Catch the funny rubber duckies and get the highest score. Show your skills and good luck!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "439 MiB"
 }

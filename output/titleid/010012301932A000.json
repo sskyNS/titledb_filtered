@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a36ea14d378c6fe07cb60c1257f0573ede35084354aaab487c0e186c8a45e3b0.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Music",
+		"Puzzle"
+	],
+	"intro": "A rhythm game about dreams and reality merging together.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

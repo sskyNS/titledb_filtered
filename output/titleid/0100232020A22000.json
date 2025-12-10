@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/28bbd91be0fb60c1af1d4d5210993e8bbb925a609d5183f1bf5842a1f37e5a07.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Great painters love cats\u2026 So they hid some in their paintings! Can you spot them?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "663 MiB"
 }

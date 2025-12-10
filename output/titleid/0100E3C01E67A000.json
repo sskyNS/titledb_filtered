@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba366689dd0a4c9c069d494bd530fd39e131c32e78f056e7231667fb2b59f6fd.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Can you get your car out of a jammed parking lot? Let's find out!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "179 MiB"
 }

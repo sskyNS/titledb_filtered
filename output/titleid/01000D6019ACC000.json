@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cd788a0c8cd14ce38f5443e0cbe5ebf0f6274bfbe248bafb7611c6b7f04fbf6.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Help Turtle and friends swim home to the ocean",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

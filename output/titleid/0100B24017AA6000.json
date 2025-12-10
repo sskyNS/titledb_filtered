@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dac0cbf9fb8adc82024bd3c23e0fd414876da1c16aeaa6a79d9d5f59c246429e.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Education"
+	],
+	"intro": "The Allies need your help!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.04 GiB"
 }

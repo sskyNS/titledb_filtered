@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/159dde55965912775a1323ad48104fc6d9b383df2ff863abcac4dd00ba1c0679.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Explore Westminster, London on a journey to the ruins of Hanwell. Fight with whatever you can find to defend yourself against an ever increasing scourge of Anomalies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.90 GiB"
 }

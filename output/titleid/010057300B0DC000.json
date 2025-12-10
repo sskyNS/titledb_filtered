@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb411e76097d9d138d241aef445d5f8ff85b96549d060e5798aa1398508aebfc.jpg"
 	],
 	"releaseDate": 20180720,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "CLEAR THE SKIES FOR A NEW HERO!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

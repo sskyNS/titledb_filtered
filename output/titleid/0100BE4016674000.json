@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c2fa6a4f10a2b4fdc4f033cf57fc6e4a801ad48978440eaf5edbaf1be4f8915.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Time Loader is a story-driven puzzle-platformer with tiny robots, alternate realities, nostalgic music, and primitive tech from the 90s!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.34 GiB"
 }

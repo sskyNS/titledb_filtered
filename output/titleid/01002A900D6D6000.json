@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6858a69da09c1314e0c92badc2fb8b19a8496ed2275401c6aa0453625da878b7.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Strategy",
+		"Sports"
+	],
+	"intro": "Have you got what it takes to become the manager of a high-performance Motorsport team?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

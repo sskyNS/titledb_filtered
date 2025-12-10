@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f09af291af68f6eeefbb29bbf62185e06cba7cabd9dc58b7fa94168aadf76612.jpg"
 	],
 	"releaseDate": 20190322,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Party"
+	],
+	"intro": "Peasant Knight is a challenging puzzle-platformer that you can play with only two buttons: jump and stop.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "45 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/666e378141b7824060579ce896d783c098d5c5db37584015aee1c22cc9133364.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "WALK THE PATH OF MADNESS",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.48 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2e7db088646b7884f676d67f2084843e9427808052d63ae7f1a105a8947379e.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Unwind a 10 billion yen conspiracy in Tokyo's red-light district, fueled by your fists and unyielding resolve that will make you a legend.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "22.95 GiB"
 }

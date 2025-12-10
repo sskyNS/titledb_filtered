@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3f9f49c300f7e4751d6ea87387e8eb9c4375637a2f83d3de4849f10d3385112.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "The infection goes nation-wide in Outbreak: Epidemic, an action-focused co-op survival horror adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "8.21 GiB"
 }

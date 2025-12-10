@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f149d40fa62c5a7475d1701fec80a7285bf4905473c9a4ef24d8a007a0a5caa.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "One that challenges to the limit and the other the true path. A shocking revelation will occur through this psychological thriller!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "650 MiB"
 }

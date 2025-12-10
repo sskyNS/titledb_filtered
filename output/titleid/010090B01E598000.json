@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/75b82d2825c5917841fa30d905389a1cd9354b676624a97e5d94eb14c411f74a.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "A game with one objective - to get to the moon. As frustrating as stock market manipulation.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "531 MiB"
 }

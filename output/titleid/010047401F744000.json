@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9d1f0f128d1777f6252a55006814447674725518bd9bea44c94938d75ddaeeb.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover Lupin's journey from burglar to hero in Arsene Lupin: Once A Thief",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.86 GiB"
 }

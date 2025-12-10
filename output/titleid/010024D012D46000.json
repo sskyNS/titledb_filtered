@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cd1473dcac3bd6df0d510ec91138c4b60b8f9a768de983ead0db0fcad3203d0.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The famous game remastered!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "898 MiB"
 }

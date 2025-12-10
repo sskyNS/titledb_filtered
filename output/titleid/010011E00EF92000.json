@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c38b3c088733f8db6318206c3fe85da067d1d9c60cd48ba8efd2815212fe835f.jpg"
 	],
 	"releaseDate": 20200415,
+	"category": [
+		"Action",
+		"Sports"
+	],
+	"intro": "Let the Super Dodge Ball begin!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "320 MiB"
 }

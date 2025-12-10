@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/67c028747e8c692e906605c4edbfac8ef001ea6d647a75ca239e0bba8204ba7f.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Grab your walk-man, and take a trip to your favourite arcade with our classic retro Pinball machines.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1002 MiB"
 }

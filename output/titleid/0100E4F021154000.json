@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6314decbfb591945025bce18203a30064f7be7946142bc1a14fddc4cae491869.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Party",
+		"Action"
+	],
+	"intro": "BECOME THE ULTIMATE HUNTER!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.21 GiB"
 }

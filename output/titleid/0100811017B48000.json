@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4898972fc323db15d1abf79bd447c4b4379d6212e26098a0af976934c5a530f.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Atmospheric turn-based dungeon crawler with Japanese yokai folklore reimagined!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

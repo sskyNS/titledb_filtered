@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d49388ff876405cf2481cfef12ec9976683966865e427523f4552a63b6dbe5d9.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Adventure",
+		"Music",
+		"Action",
+		"Other"
+	],
+	"intro": "An UNCONVENTIONAL ADVENTURE RPG that takes place in an inexpressible world filled with amusing musical battles and strange delightful encounters.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

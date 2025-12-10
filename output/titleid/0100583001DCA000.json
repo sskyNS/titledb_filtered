@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd20bbf94f1fe7968c9a70d968ba1bcb307f9992df45dc68ba9e991ebb4eb259.jpg"
 	],
 	"releaseDate": 20170525,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Take part in the \"NESTS\" chapter of KOF! Uncover the mysteries of the tournament together with a new hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "132 MiB"
 }

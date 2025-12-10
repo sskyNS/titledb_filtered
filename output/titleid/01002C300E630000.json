@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8234b51032fb12ab064dbbd686b6dc8aee9124bd82724625191cb743529a1285.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "This game can be played by up to 4 people. It's just like playing the real sports!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "93 MiB"
 }

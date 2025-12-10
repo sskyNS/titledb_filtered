@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba9db85526422173cba423d65e73ad6cf0ebf1e5f6bc50e47f89642a9f3583b4.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Guide the world toward the right direction through Judgments in a fantasy RPG with multiple endings!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "318 MiB"
 }

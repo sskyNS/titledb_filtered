@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14f6155f48fd6a507e20c425d93437c6612caf962ad7e6e232335c0e34f41c2d.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "These monsters have no mercy for you...",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.94 GiB"
 }

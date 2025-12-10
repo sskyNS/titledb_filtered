@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ecf2a884f56468a0d8f3cbe8eb950ce0453f6379388e761c3477bd55fd0e29e2.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "When the Moon God turns the inhabitants of the forest to stone, four Animal Ninja Masters must fight their way to Mt. Fuji and break his spell. Use swift moves, an arsenal of tools, and each Master\u2019s unique abilities to save your home!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.26 GiB"
 }

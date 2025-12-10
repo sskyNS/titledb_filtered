@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f26bcb83ebadee4a7da553c233ead7c0959ffbf7e9df5e4ba0e49ff4e6d25ae4.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A 2D puzzle game set in a square-shaped world whose walls can suddenly change position, rearranging the game\u2019s gravity force",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "738 MiB"
 }

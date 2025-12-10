@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d436bf7395c5699ce43fde92ba6c4d7c52297d46377a6dc25800ad8ecc8757b8.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.\nPlay as Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price from a violent altercation.\nThe pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "17.16 GiB"
 }

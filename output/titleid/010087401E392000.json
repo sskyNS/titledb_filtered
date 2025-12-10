@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bd3f34b3736dfe20e0b5d33269345cdc0f4d88153139f84ac81393c4f40f5fb.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "You play a little bird on its journey to find a home after losing its dear friend.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.34 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/53498c02cda0f5a7f2b416cd9cd35ce0b7c72dabd11ff4de1512818f07ea3838.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Mankind's final fight is at hand.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "112 MiB"
 }

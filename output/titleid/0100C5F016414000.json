@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6259a051eb1252f8090e9ca2a4acecc054b579fd6bada159d7045243da3b655.jpg"
 	],
 	"releaseDate": 20220105,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Use your wits, reflexes and the mean streets around you to take down the city\u2019s most ruthless gangs!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "123 MiB"
 }

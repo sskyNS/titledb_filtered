@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d578dca29fb92cb575be74bd0da731fc6be669d72b4c89ef0dd2ccd47a4394f8.jpg"
 	],
 	"releaseDate": 20211027,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Journey through a series of unique and puzzling vignettes that unfold into a deeper abstract narrative!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

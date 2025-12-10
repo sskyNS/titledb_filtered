@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac2a7a11e31381f05af410186e05f7eb42260c79e03b29414515b96f910d49d4.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Where cubes find love, shoot lasers, and lay waste to handcrafted arenas.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.60 GiB"
 }

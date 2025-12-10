@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0c484880f2b335f983050d4aa07847316e964951cc57175aefd01c92447cdd0.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Find the best view to enjoy your snack!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

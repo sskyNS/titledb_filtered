@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa1f826bc084e794c269d598cab207fb94c84d9db69d7b33d62d97d224cf7ed5.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Turn platforming on its head with The Gravity Trickster!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "943 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1168275fd196fd6e28cd1474b1a63515d3af726d6bb38ba407376d8e2032f53a.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Make it Your Way, Play it Your Way. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.06 GiB"
 }

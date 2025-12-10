@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cfb55d2020b200a28ef1e508df7f2d548a28031dd154148a1fbdc2be60a456e.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Please connect, my user!",
+	"languages": [
+		"en",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "430 MiB"
 }

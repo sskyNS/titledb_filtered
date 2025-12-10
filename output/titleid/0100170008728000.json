@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0c47d67f34d419a55dbdcb355370a8f90c04c3e07bd34f177ee0c76e8296225.jpg"
 	],
 	"releaseDate": 20180726,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "A total of 29 characters are available along with 2 gameplay modes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "129 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e19aa047a15336d616d5619af5f8e090c420c4801cd0ebd47c702231304dda72.jpg"
 	],
 	"releaseDate": 20230916,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Unleash Your Inner Speed Demon in the Neon-Lit Streets!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

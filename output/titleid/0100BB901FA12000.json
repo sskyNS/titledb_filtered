@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/967ceebad3903af0c7b2e164254593e4db7e8c5e845df547a0e753822b49ba56.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Discover a modernized remake of the cult action-adventure game",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.17 GiB"
 }

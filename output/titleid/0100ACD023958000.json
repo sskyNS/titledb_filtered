@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ba3a1fda9e201e420465c0dbc834e625bfb34de0df527b7d73522737ed13081.jpg"
 	],
 	"releaseDate": 20250718,
+	"category": [
+		"Action",
+		"Adventure",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Where roads end, your journey begins.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "925 MiB"
 }

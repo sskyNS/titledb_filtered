@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5231a67220f9219015a315f784966a14df3e73a4a310d1c02edeb35b7cc12aa6.jpg"
 	],
 	"releaseDate": 20251124,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Roki has cast a curse!\n\nHelp Tera save the Pumpkin Festival!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

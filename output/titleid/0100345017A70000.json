@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/57f93482e9a14fa4a1536e89fa5db0b8e179ae826d0723e23fdb0c066ae7782b.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Vanaris Tactics is a short narrative tactical RPG experience that tells a story about refugees fleeing their occupied motherland.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

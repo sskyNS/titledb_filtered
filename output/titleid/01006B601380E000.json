@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7a4135edf2401d60c908c7ea0b9cd2c492612a46f728dfe50024e6004004d42.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Adventure through Dream Land with Kirby and his allies\u2014solo or with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.01 GiB"
 }

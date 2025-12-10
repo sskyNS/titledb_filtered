@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e46f4a82073fcc8918daadf4a3349d726dfa42a6d689cb06fdc24493a41bd17.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Find a way out",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.22 GiB"
 }

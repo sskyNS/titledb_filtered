@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9bdb3a1009ff94011ed1bc7c2caeaa8a2cc92130392e7168728e5d216ea5d3f.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Welcome to an anime world of care and fluffy patients!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "741 MiB"
 }

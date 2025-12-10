@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d92c075ce0bb738f85ec1365acd19945d38b72094062a2ed8a13a8a0a24261e1.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Imported into Japan by its own parent company after \nsucceeding in the US, QIX finally joins the Arcade Archives!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "116 MiB"
 }

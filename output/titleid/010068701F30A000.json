@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af39e99c29048010ad317a2d27c63ecfc927449aabec2d543405183781fee966.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"RPG",
+		"Other"
+	],
+	"intro": "Start an action-packed adventure solo or with friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.70 GiB"
 }

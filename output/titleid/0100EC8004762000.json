@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d7503347bd0291ee1d5d90201b115a97924117da31e03753fde3a49216d9286.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Music",
+		"Practical",
+		"Utility",
+		"Party"
+	],
+	"intro": "Play Games. Make Music.\nA Music Creation Studio That Feels Like a Game.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "873 MiB"
 }

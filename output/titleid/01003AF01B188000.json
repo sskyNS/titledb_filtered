@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/905b21e60e617b272b7c037784f754c4ce5669bfd888a5a0eb63a0fbb0883802.jpg"
 	],
 	"releaseDate": 20231113,
+	"category": [
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "A double helping of slaps!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.40 GiB"
 }

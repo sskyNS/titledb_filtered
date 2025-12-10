@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfb763837b03eb3712edd117daf809528e3fc424f712c8dea719593437d5cf58.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Discover a 3D wooden puppet style world while exploring as a platformer, and taking battles in a turn-based combat as an old school RPG where timing and strategy is all!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

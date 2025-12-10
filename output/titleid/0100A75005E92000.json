@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/98fe920c015517ff42bb66dc98e8edf154f4c343e251ac5d44cca481ad33d988.jpg"
 	],
 	"releaseDate": 20210827,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The prophecy is coming true, a pure-heart child has been born. The no-heart creature sealed in the underworld by the wise owls is destined to rise again.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

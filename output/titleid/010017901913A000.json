@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f24ed666eb4357c57cc6361d96e9b0857ea598949c2291b3a062520fa9de886.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A arcade game from the 80's. Donut Dodo is a classic 2D platformer from the golden era, tough as nails and challenging for the whole family! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

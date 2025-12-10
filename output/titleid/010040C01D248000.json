@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c8e3f7fb51c929c3f98a20d507f2b7de2c3070e474f4f7fa0855380d8805863.jpg"
 	],
 	"releaseDate": 20240705,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Between law and chaos lies the dawn of adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.65 GiB"
 }

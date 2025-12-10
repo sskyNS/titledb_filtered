@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/720e6fd20993e3be88b37b760a6df0785449f6c3fa886b4acfe1b72ca2c1f043.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "in the Maze of Demons",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "199 MiB"
 }

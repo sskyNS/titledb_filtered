@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e44d246b34fb8c34d48aebfdd10a29f65c61a1aede897e95337378570f9845a.jpg"
 	],
 	"releaseDate": 20231117,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "The next entry in the STORM series celebrates 20 years of the anime's debut!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "15.27 GiB"
 }

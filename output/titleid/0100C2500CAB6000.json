@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ded47cec7482a3a4ddcb17d3a8f42fffc5182f9db10853c5368960f923cf57aa.jpg"
 	],
 	"releaseDate": 20200901,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Journey across the magnificent world of Valdi!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.16 GiB"
 }

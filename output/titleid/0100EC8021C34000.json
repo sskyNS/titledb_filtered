@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7f05fc96da3e6e2a2eb8998c4daaebcc2c991629ccc2e5287cf84107976188b.jpg"
 	],
 	"releaseDate": 20250729,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Every door hides a terror. Will you open it?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.18 GiB"
 }

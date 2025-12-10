@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/77aefde34f6cf98b09718e5500929394a7911826abb2aa5a5c67ee3e2032cdab.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other",
+		"Adventure"
+	],
+	"intro": "Sci-fi stealth action with zombies and shooting",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.54 GiB"
 }

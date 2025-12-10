@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8d2b83ffc75a90ad5f5708faf49b743b76c0cc16580fc895031dbe8fed46fc2.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "A casual co-op game about coloring with friends! ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.60 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a79cada765331bf8767c2fd6537212798551a2d201c88f2a232acb335c4347ac.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Education"
+	],
+	"intro": "Solve over 100 tricky screw puzzles und unsrew them all!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

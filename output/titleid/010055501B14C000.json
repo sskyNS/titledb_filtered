@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e45af0d2c750498a5830c379561cb35f50395d4c8d7996b5b34d02a4bf4154a.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.64 GiB"
 }

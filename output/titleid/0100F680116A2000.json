@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7ee1162aeccf40274f8f1c31a8b3f4a9ad6202649e09a506e1850c8f59a4e28.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Kholat is an exploration adventure game with horror elements, inspired by a true event known as the Dyatlov Pass incident. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.52 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/53b806577f39b5f25c0c64ce6c88ec2418fc70743e098151fff07f4fd64c4e48.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Wield runic power and save your planet from evil in this fast-paced action RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.53 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d21f80c69dacd3d7903817d567daf84c524f0a25d0713a85190b09c9229f7faf.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Music"
+	],
+	"intro": "Piano bridges, dancing plants and musical showdowns. Will you muster enough courage to dive into the human psyche?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.57 GiB"
 }

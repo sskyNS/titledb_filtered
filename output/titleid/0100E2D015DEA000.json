@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb1fdcd7039b54879631cc62d6dff9a3c86099efc417bf3d1bf05827546d1f42.jpg"
 	],
 	"releaseDate": 20220214,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "See how the River City Girls story began with this 16-bit retro rumble!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.78 GiB"
 }

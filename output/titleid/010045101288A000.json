@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b4afb24478c72a413e400c19b11a4713635f51ef561853bedbad809b79cc3e0.jpg"
 	],
 	"releaseDate": 20210514,
+	"category": [
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Control time, reclaim your memories.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.24 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/038bc7eab3c8f877a62aabc4c1d92f9cde8ca629eff91cc54760e18df22a5452.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Crisis on the earth. Transform! Cosmo Police Galivan!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

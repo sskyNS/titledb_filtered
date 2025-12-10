@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8fb8f323c1005324d6e104accda9ac8b4995b0adc2edb994d8d93686894d6fd3.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Join Leif and his loyal sidekick Ghost as they combine their strengths to overcome the sinister forces of the Netherworld. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.50 GiB"
 }

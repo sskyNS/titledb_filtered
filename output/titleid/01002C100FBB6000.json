@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac36d7f5a487df0a86bcf4bbf415b48f4ba1a097001eea7eeb13d8f86b7bf740.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "\"Dude, Stop\" is a puzzle game, where the main goal is to make everyone hate you!",
+	"languages": [
+		"en",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

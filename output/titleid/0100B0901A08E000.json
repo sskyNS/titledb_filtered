@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2827b805fd64d8efcc673d2c5b3aa7fb1ab9c158d24e7bf53d00fae14f0b3ef5.jpg"
 	],
 	"releaseDate": 20230426,
+	"category": [
+		"Platformer",
+		"Action",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Old school action platformer game with pixel art graphics.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

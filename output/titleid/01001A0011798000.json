@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f56a21268dba4ad432b8e9e99849b083d87bbcbf45b7bd9d378bc37665b252f8.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "WRC 9 is the leading off-road simulation franchise endorsed by the world's top drivers. It is the most in-depth rally game on the market:\n3 new rallies (Kenya, Japan, New Zealand), over 15 classic cars and 100 special stages to tackle!\n\nWRC 9 has new game modes specially designed for the community, including a Clubs system where each player can create their own championship and compete in it online with the rest of the world!\n\nTake control of all official drivers and cars in 3 WRC categories with improved physics for even greater realism, redesigned environments and all-new pacenotes for total immersion.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.56 GiB"
 }

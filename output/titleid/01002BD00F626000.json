@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/882aa6b1b039c4f5d71092171e62cc9f7fdeb919b508469fc68b94cd9a7a3699.jpg"
 	],
 	"releaseDate": 20200911,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Forget everything you know about drifting. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.15 GiB"
 }

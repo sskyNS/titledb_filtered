@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a759ca03748d82ded3a218421d8afb6ec097384e32d001d6d9d474b869e1d88.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An evil sorcerer has escaped from prison, and now you must collect a band of heroes to save the land from fear and darkness.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

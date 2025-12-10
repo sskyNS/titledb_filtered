@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6a578525c647e08e9027188fef2f8fbbdf4f9a52258f6dce56765e2617e0ecd.jpg"
 	],
 	"releaseDate": 20231205,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Reforge a blacksmith\u2019s village in a crafty adventure filled with mystery and charm! Play as an expert smith, and prove that a hammer, anvil, and wits can overcome any challenge.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

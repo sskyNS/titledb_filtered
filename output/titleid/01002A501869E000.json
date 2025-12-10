@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5b73a06b8dc641c657b78265e07a26c73bf2e9c4547b561b6de89c379740ebb.jpg"
 	],
 	"releaseDate": 20220701,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Welcome to Warsaw City of the XXII century",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.73 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e6ca1830d2bb8ddd24f0f7f0ca1f34ff5b10dfc81830166e7897212355163fc.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Can you change the repeating doomed fate of the world in a fantasy RPG?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

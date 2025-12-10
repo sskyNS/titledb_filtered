@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8810b309c763ae8bbb06d069bfb15af2e323bce57af539d33c430a2ae3970ec4.jpg"
 	],
 	"releaseDate": 20230621,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "SUPER-DUPER-FUN SIDE-SCROLLING LASER SHOOTING ACTION!!! JOIN LUKA IN HIS JOURNEY TO BECOMING A FULL-FLEDGED HERO!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

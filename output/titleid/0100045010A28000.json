@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f535a3668adf65a0de2158d3cd3268fcd2520076ddb4ab5c10aa171e234a9de3.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Now calling on our greatest warriors, get in formation for your most thrilling battle yet!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

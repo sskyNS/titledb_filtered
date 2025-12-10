@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee925c70b36a5807879c66d795ec88634984af2b51971a67080ce8947eca6887.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Sci-fi puzzle with portals and time management. Get out of the mysterious laboratory and find out who kidnapped you!",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

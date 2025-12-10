@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1dae0069fafc642ee36645802232632eb8044645d36452653a193ba0c6d0749.jpg"
 	],
 	"releaseDate": 20180309,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "TURTLE-Y AWESOME! NEW PLATFORM-PUZZLE GAME TURTLEPOP IS HERE!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.33 GiB"
 }

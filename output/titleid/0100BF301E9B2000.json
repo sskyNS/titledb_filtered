@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dce0862ac7e87b03dc19986bbc536bc78aefd8285b4869363eb4876b6a1a1103.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Swing, jump, and blast through dimensions in the follow-up to the critically-acclaimed 2D action-platformer Grapple Dog.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "817 MiB"
 }

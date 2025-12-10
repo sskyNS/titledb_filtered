@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b7d7c078aeaf0773b3fdb53a35f1df588371a91e0e3f76b4620aa7f6ac8b21a.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Simulation",
+		"Education"
+	],
+	"intro": "In the world of knights, your courage is your greatest weapon.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "858 MiB"
 }

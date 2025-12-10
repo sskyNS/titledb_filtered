@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/93b46dcee0806e903e9060ac389b1139cd88caa6c3c66ade90cee12972edd6f1.jpg"
 	],
 	"releaseDate": 20230210,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "This is the biggest trip in Europe, where you will visit 10 countries and 24 cities.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

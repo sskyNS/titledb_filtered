@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cf7e8c6f587d550327a965f10332cfdec50f38d7774b566041917d635e7c8ba.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Use the Boombox to smash your opponents, capture their tiles and dominate the arena! Take on your friends in Battery Jam, a local multiplayer game of competitive territorial mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "932 MiB"
 }

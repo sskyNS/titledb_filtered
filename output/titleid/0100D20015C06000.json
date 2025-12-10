@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb31340e7af5c834d972c90e26a8b6e74547e37febc414f21d50a9f8e4854ffb.jpg"
 	],
 	"releaseDate": 20220125,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Classic point-and-click adventure. Enjoy Hell! We made it just for you.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "458 MiB"
 }

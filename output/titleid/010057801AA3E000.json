@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e8e8e404c66b317211596b6ad1f53e058e1bdbdbe5a107ab45a3988c2e257da.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Hands down the most adventurous and handsome hand in the world!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

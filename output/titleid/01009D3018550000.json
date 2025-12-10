@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb1c81f3d115c4673aee4865ba8f50a94c7505194d69b08586d58bc177895407.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Knock out anyone who gets in your way!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "120 MiB"
 }

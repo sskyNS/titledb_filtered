@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ec039723fef439c23b8aefb8bad5210b3eac53cd45f2fe43595778d8c8bc53a.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Recycle, sort, and clean up - turn trash into fun!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "142 MiB"
 }

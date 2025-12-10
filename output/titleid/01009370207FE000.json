@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/14f5187e594c7213327d104276e24654bfafb8a1439d1976d75de267af4ac1a4.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Become the Savior from the outer realm and bring everlasting peace to Kreisia in an epic fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

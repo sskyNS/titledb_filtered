@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c36f95446645c8da28579ee73827687dbd1543845defd4aec0cb86beccf61b0.jpg"
 	],
 	"releaseDate": 20230722,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Become a hero of the hospital - help and heal in Hospital Doctor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

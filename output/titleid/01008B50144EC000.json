@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e33b5db83a380c528307452d380594cdeea8b43bbcdf1873d22fb3c7ed1fff7.jpg"
 	],
 	"releaseDate": 20210416,
+	"category": [
+		"Arcade",
+		"Lifestyle",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Amazing and fun arcade game, a combination of strategic shooter and golf. Try to use the less quantity of shoots possible to beat all the levels. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

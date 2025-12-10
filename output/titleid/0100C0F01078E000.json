@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac1b8fc11e4837f5bc1f7efaab2b4f098e225bdf203872ac5e34be28423ec839.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Study",
+		"Training"
+	],
+	"intro": "A new brain training game has been released!\nMake full use of \u201cDUAL TASK\u201d to compete with players around the world for scores!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

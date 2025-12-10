@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b84736b1b7eb180fe1a36c1409717d522a219f1c6da9de2910692522b71fa7cd.jpg"
 	],
 	"releaseDate": 20251122,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "\u201cExtremely difficult challenge.\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

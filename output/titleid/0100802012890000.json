@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d52c3990250cb26549228c836ec78fdfd3483af0f771a5fb917dc2a54eb74d8d.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Adventure",
+		"Music",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A classic platform with a twist: A dynamic soundtrack and funny lyrics that sings the player's actions and responds to what is happening during the adventure. ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.83 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bd8f6741525e8808cc7f498db0535e8055fd363c987e2a9fde9769c9d7a0a94.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A hot new word game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

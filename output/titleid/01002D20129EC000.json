@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/05c3e356e4c335ec45b88825ad6ebe30038d1dbebdb615a2024949c3d424247d.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "The evil Wizard of Woe has invaded Gameland",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/902b2568ed8ce74779e9d4dbc15f89aba794f2ceaac1c73d94419290818b50ad.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Grow Your Farm. Survive the Apocalypse. Defend Against the Undead.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

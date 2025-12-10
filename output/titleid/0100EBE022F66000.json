@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e26c5234b6f4362de063162274f9ee80aff6d243b855886b304f6db2a909ca9.jpg"
 	],
 	"releaseDate": 20250503,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Party",
+		"Action"
+	],
+	"intro": "Master the art of hospitality and rise to the top.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

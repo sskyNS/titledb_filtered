@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/245146d1413b6e1a933263c91572543539a5f5fbded55e6309043d087ba42f7c.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.35 GiB"
 }

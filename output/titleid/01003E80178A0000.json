@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb31838dc63111a80cda2d95460d59033c788f471f1a95a1075c22e22fe4bb19.jpg"
 	],
 	"releaseDate": 20221018,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Them\u2019s Fightin\u2019 Herds is a 2D fighting game featuring a cast of adorable animals designed by acclaimed cartoon producer Lauren Faust. Beneath the cute and cuddly surface, a serious fighter awaits! \n\nKey Features\n\u25cf Streamlined Combat - 4-button fighting mechanics, magic system, enhanced super attack, and juggle decay to prevent infinite combos.\n\n\u25cf Story Mode - An episodic adventure filled with exploration, combat challenges, minigames, and boss fights!\n\n\u25cf Local Versus and Online Matchmaking - Fight opponents offline or battle across the globe with GGPO\u2019s powerful rollback netcode.\n\n\u25cf Tutorial and Training Modes \u2013 Learn the ropes with combo trials and guided tutorials, practice combos in the data-rich training room, and view replays from your matches!\n\n\u25cf Pixel Lobby - Unlock accessories, customize your avatar, and explore a top-down visual lobby with other players online.\n\n\u25cf Dynamic Music System - Rockin' battle music adapts to the characters to make every match feel like a clash of champions.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.72 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6f6bbdf82ebf2d4b09c51571e146e3290ad31b131405c65eb424f26a14b8a4a.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "An exciting 3D battle arena with lovable characters and unique customisable gear!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

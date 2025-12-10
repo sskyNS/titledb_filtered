@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59b20363d24c2fe2b958a6b30e17109175d0fb366d0d3aff731d2a854b71fc20.jpg"
 	],
 	"releaseDate": 20190524,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Taste a unique recipe presented by the original publisher of Astro Bears Party and the creators of Timberman VS. \nParty with your friends as delicious treats.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "477 MiB"
 }

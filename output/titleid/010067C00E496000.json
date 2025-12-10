@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/09cee887c9e8463f48d0b7ed51931f891943ccdfe0684eafbd107436bd22b115.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "The explosive NES original game that sparked the worldwide fame of \nBeat them all games: Double Dragon!!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "363 MiB"
 }

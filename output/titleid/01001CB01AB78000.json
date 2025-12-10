@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e74937b9b73c56ebcf275df4437bad12a2b058e47f548018fe5c6a4d5602b0db.jpg"
 	],
 	"releaseDate": 20230603,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Not all heroes wear capes\u2014some purr.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

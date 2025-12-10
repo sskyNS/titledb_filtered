@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/89cee41311d611c3d4ae7a4844295715993ae97a2970225a379984d3f3c2b60a.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Take a deep breath and find your fianc\u00e9e who went missing in the dark abyss of the ocean.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

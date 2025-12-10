@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e52b8092a9946c1fe137ea9ce4b1c249745046d23c9bd160554db593b843b09.jpg"
 	],
 	"releaseDate": 20231226,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Take part in exciting turn-based space races with up to 5 players. Navigate astral paths, avoid obstacles and claim intergalactic glory.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 5,
 	"size": "1.68 GiB"
 }

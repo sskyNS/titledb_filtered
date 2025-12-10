@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5f9f5aff6a434d5f6398fd59bbb23ec65fa9ab25d14cc3ddae6b9c8826b5202.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Adventure"
+	],
+	"intro": "It\u2019s a game about trying to find something.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

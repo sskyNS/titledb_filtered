@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1ef9f590197a42a25437d656f5628963288ab8861752bfc11dca75825ac0a04.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Racing",
+		"Sports"
+	],
+	"intro": "The official Monster Energy AMA Supercross Championship game is back!\nLive like a champion with the updated career mode and set weekly activities in your agenda: new challenges, sponsors and incredible prizes all await you!\nTrain in the Compound. Ride freely or put your custom rider's skills to the test, competing against rivals on four different tracks. Learn to control your bike when leaning, starting, braking, cornering and scrubbing. \nCompete against more than 80 official 2018 championship 250SX and 450SX riders, including Jason Anderson, Marvin Musquin and the superstar, Eli Tomac! \nCustomize your bike and rider with more than 3000 objects and show everyone what you're made of!\nCreate new tracks and share your creations thanks to an upgraded track editor. New features and simplified accessibility will help you design and share your custom tracks online!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.00 GiB"
 }

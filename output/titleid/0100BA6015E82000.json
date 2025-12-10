@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3009cd3a816b6f5e4ae22e64076c1f5b4527cf82c79a6e0fc576c581ab89f54d.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Action",
+		"Party",
+		"Utility"
+	],
+	"intro": "Hokkaido, Japan's Kingdom of Gastronomy!\nCollect all the delicious foods in Hokkaido to defeat the aliens who are targeting the island!",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.11 GiB"
 }

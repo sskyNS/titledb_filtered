@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/98250ff0af4394a208cff8bc5db0d344cdb6caee2562d2ff19e70278994046d6.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Shoot all the ghosts and restore peace as a paper plane!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.27 GiB"
 }

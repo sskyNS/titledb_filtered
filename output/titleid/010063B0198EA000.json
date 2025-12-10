@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/54608ae616b4a11c4e0f7ac279ce4b572ed9b8ec8269f2afaf8263396f61dc34.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc"
+	],
+	"intro": "\u300e\u30f4\u30a1\u30ca\u30ea\u30b9\u30fb\u30bf\u30af\u30c6\u30a3\u30af\u30b9\u300f\u306f\u3001\u5360\u9818\u3055\u308c\u305f\u7956\u56fd\u304b\u3089\u9003\u4ea1\u3092\u8a08\u308b\u77ed\u3044\u7269\u8a9e\u304c\u4f53\u9a13\u3067\u304d\u308b\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3RPG\u3060\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "167 MiB"
 }

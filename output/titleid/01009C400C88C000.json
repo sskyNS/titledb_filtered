@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4b8423df3651c53daa35728a9d3b37d6e538d2927291d8e0ca2a7af55f50e6f.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Pure. Precision. Platforming.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "371 MiB"
 }

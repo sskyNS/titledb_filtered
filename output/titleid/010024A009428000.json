@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35b11acc9caca3c2e0c7e2cc2b53a17820bf1d8d8f7fe2babf067eb83a0f2969.jpg"
 	],
 	"releaseDate": 20180202,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Follow John Carnage in his post-apocalyptic adventure in the world of Mad Carnage, created in collaboration with Evan Currie, a bestselling sci-fi novelist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "804 MiB"
 }

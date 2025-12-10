@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fb3c1566e8b444b908da0800935076d9843a589e958e3ae8dcc41e3bc51213e.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Fighting",
+		"Sports",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Do you have what it takes to be a champion? Train, fight, and win like Adonis Creed and Rocky Balboa in this knockout boxing game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.77 GiB"
 }

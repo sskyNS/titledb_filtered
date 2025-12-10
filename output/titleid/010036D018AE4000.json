@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/26ded24262b559963f64f7a2def2db70a34ec4d51de2783d1645683321b78b43.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Racing"
+	],
+	"intro": "It's time for some summer fun!\nThe competition heats up in this series of sports contests!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "252 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/efdb5a5f4554f055d378be78f2d1ac2afcf4b2b247b2aee6e21a5ffb02b6a72e.jpg"
 	],
 	"releaseDate": 20250716,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Design and program cooking machines in a dystopian future where food controls society!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

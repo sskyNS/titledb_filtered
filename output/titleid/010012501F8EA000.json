@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c290ab89ce421a627881a3c55de11a540e08f60c541607fc4c2a3160ba2a9d3.jpg"
 	],
 	"releaseDate": 20240719,
+	"category": [
+		"Music",
+		"Lifestyle",
+		"Practical",
+		"Utility"
+	],
+	"intro": "Start your musical fun and create a catchy beat with the Music Box!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "642 MiB"
 }

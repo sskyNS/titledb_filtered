@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9af4dd72ccefce85bbbd47d46fbf40b60180f8962298b4cc07c2f836d1e58c91.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Other"
+	],
+	"intro": "SHAPESHOOTER is literally an on-rail shooter, you'll have to clear colonies across 4 planets from a little creatures infestation called polygoneers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

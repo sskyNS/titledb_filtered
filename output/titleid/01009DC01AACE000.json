@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/51d15eba70fa0df161126a0e5f1969235014c898e08ffcb119c799bc42b44722.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Be a duckling - a squeaky duckling!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.05 GiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c9767194b0a1fd543ce4b975b6e9716d53038e4d62b3ae69e11f8c38ec047f4.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "Team Avatar is back in this action-adventure\u00a0game! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.69 GiB"
 }

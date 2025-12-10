@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd19adbd828cc0aee4562e508e68f2f0a868299bb5076504e81da6f1c4ff3bd0.jpg"
 	],
 	"releaseDate": 20180517,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party",
+		"Action"
+	],
+	"intro": "Keep moving ! Roll and jump - but never stop in this new addicting game! The longer you keep moving without getting stopped by one of the many obstacles or traps, the more points you get. How long can you manage this thrill of speed? Will you be able to dominate your friends in multiplayer?\n\nFeatures:\n\u2022 Speedy gameplay\n\u2022 Unique graphic style\n\u2022 Multiplayer mode up to 4 players\n\u2022 Many powerups",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "59 MiB"
 }

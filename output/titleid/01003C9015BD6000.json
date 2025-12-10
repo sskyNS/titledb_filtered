@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7cd992a1edd661122cbb92da7468967f3d22d3c75386b8c05d7e04a733dfaad.jpg"
 	],
 	"releaseDate": 20211009,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Toroom is a dungeon crawler roguelike top-down shooter. Fight your way through multiple biomes, clear rooms full of enemies, get as much loot as possible and defeat the bosses.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "188 MiB"
 }

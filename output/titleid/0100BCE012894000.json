@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f53e9bf5f11424223d4debcc27ebecf067b099a9b460ee419a7f4436c1d7589.jpg"
 	],
 	"releaseDate": 20201016,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore an adaptive, inhospitable alien planet.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "318 MiB"
 }

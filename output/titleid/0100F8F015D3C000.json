@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b485225c5ef916b63c006d583e61dc54bac4d3d70a6ad27f4de46162e710b6d.jpg"
 	],
 	"releaseDate": 20210924,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Help blind postman, who sees only walls, to collect all the letters and to find an exit out of labyrinth.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "377 MiB"
 }

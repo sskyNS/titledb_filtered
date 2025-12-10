@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/da8486ca89ef266a971b24559bf5e3885d4dc19b2d5a660651fa8d54d25536c2.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Welcome to the dancehall! The only music here are the aircrafts soaring the skies! Make your way through the enemy lines and save us from the final war!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/76ed4e9545eab8e6c25bbc5ea8bb007271a3fded5762206c4ecdd27842710525.jpg"
 	],
 	"releaseDate": 20210107,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Welcome to a world of magical fairies!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "77 MiB"
 }

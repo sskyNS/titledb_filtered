@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/034caf87872bf407cae3fe65e761207b628e691d5babb8078c2efd41fe0a9e51.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Dig deep to rescue survivors, battle monsters, and escape the mine!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

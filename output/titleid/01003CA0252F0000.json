@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/646071268fba4fa4e24906e087dc1514bd20049b6ecb3d8d5d4c186e4b0e6011.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Discover a magical world full of secrets and hidden treasures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

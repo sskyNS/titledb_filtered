@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/37101c215b1e8fb6d760da0c608912e93bc03f051a28780e4df4828818a9baf4.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Step into the wacky heroic fantasy universe of the Dungeon of Naheulbeuk!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.13 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/30f11731f14a5ad3f4e201407e2bfaabf29018985732190297e7cd0b5d813612.jpg"
 	],
 	"releaseDate": 20191105,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "It\u2019s party time, and everyone\u2019s invited! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.42 GiB"
 }

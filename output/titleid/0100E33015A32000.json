@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be23092dc956c3399851b76eeb50b241a7ede4bf47e2dbb2c50fc74cd4364da7.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Racing",
+		"Sports",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Start your journey to becoming a true driving pro! Your personal tutor will meet you on the race track. Follow his advice, and start your career in a race team!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "610 MiB"
 }

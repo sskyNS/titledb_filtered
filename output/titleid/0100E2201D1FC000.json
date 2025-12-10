@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/adad0e5e4da4d0ccc48b64b55b7f73ebb627c5470e860dada409a09bccf32434.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Other"
+	],
+	"intro": "History, Told Through Cricket",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "680 MiB"
 }

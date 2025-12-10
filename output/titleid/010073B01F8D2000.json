@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/08d16b38eb1d861d39acc6198ddeb27643e6e39c2ea5cb0923baeee99b6add84.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Study",
+		"Puzzle",
+		"Training",
+		"Party"
+	],
+	"intro": "Find the Hidden Secret Items in Cute Illustrations!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

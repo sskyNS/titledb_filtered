@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a0d050cd3231fa6b4ccee2d2f1c75fa129339b478037559bd0ed20460879d94.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A spooky puzzle adventure, in which the task is to help a rather sleepy fellow catch some rest\u2026 In a haunted house. Look for secrets, avoid obstacles\u2026 And Let Him Sleep!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "782 MiB"
 }

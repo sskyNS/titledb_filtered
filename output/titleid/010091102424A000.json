@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/404c79f48287e68d72983adb1244bfe24018b5bad987c46b88d73861df95c0bf.jpg"
 	],
 	"releaseDate": 20250909,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An otherworldly tale of mystery and love",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.25 GiB"
 }

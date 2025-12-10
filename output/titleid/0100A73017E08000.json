@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e38ded3448fd6cee9ad3bca66b6a35994eaa5b5f974d2df414c3ce565184d14.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the exciting world of slavic legends!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "627 MiB"
 }

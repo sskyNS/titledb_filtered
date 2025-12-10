@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6eb921908f4a425cdef5faff191880593b8cacbd9aa0d7c92c6fb58f0aca1ab2.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Study",
+		"Training",
+		"Utility",
+		"Party"
+	],
+	"intro": "Find mistakes in cute panda pictures!\nEnjoy brain training while being healed by pandas!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

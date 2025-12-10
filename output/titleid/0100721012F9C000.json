@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c98896dce4aef0c740bc53d8231c87405aca983e0b31f564927244b5e86da12d.jpg"
 	],
 	"releaseDate": 20201112,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Battle resumes! Shatter GOFER's ambitions!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "84 MiB"
 }

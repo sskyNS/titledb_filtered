@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/806771f72cc51956551df491b8cc66f0b59e95cc40181fd12fc831c1350ad073.jpg"
 	],
 	"releaseDate": 20250822,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Save not the world, but a friend.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.20 GiB"
 }

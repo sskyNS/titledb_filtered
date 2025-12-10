@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef57459b66248eb8520c96263b0731dbdc0b01f5284ba373ccdb57efbe2f077e.jpg"
 	],
 	"releaseDate": 20200728,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Interrogate suspects & manage your police unit. How far will you go to stop criminals? Manipulation, threats, torture? Does the end justify the means? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "872 MiB"
 }

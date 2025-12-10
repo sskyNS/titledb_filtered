@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5621b8891a028c76505ac04c6d05c347d380f0799f6c92aaf116b8140fcca0a.jpg"
 	],
 	"releaseDate": 20230418,
+	"category": [
+		"Action",
+		"Strategy"
+	],
+	"intro": "Uncover an epic legend from the Minecraft universe!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.35 GiB"
 }

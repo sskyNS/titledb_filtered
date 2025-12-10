@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebcbd1484d7a25954b873795f7fddfd8f405f7b173a4ea48d3bd8f3373523222.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "You were desperate for money and accepted a shady job at a doll factory. What seemed like an easy way to make a quick buck turned out to be something much more sinister.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "609 MiB"
 }

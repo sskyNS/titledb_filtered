@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/38186512c30de42037691752188d651f31c178211656ba76f3917d52eb243d5d.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Guess the word before you lose all the petals from the sunflower.\n\nGo through 50+ levels and complete them all to learn new words and phrases.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

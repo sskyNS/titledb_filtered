@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bba858f3f69b2994f0231d58ad3721410c72f66c34da701cf30987fa1700649.jpg"
 	],
 	"releaseDate": 20190506,
+	"category": [
+		"Strategy",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "\u2022 A Tower Defense/RTS game with RPG elements\n\u2022 From the team behind Death Squared & Super One More Jump",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

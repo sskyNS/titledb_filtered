@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e23b6893c5c65c0295cea5828fd2dc26fe982b2de47820e324b20ec310f6472c.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Become the hero of Micetopia in this exploration platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

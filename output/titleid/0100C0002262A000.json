@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a705d0d876132fdbe9a4ebc3028c21ac99ca7accb1bb46500110b57826744439.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A collection of seven retro beat 'em ups with enhanced features like rewind, cheats, screen filters, and more!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.26 GiB"
 }

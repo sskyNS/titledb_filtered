@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4369c07063c2676ac0da4afc5ab7bd45afa8e05c228c7b0438b6cc92ab85467f.jpg"
 	],
 	"releaseDate": 20201209,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Welcome to the future. It's gonna kill you.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.21 GiB"
 }

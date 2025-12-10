@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3334bda3a9ce9425060bed58ae4adc972d6f9e86b5213f1ddb5523b9ed247d94.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Can you escape the nightmare and find the answers you're looking for?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "377 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/74cf2666438e1fda11cb14fedca00e37c9a4878a1222d55fef70d441860d207e.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "A nostalgic racing game that combines the charm of classic retro style visuals with the thrill of international rally competitions.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

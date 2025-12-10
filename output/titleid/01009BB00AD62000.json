@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c16f6477ccd5a2b2847418f7f29c85bf7b56a8c67a80abaee10c51549ff9e1e2.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Party",
+		"First-Person Shooter"
+	],
+	"intro": "Screencheat is the multiplayer split-screen shooter where everyone is invisible, so you have to \"screencheat\"! Local multiplayer madness for up to 4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.18 GiB"
 }

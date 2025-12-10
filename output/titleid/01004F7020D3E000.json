@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/35dac4b158dd47bde81ca2bc6d121943d71e741afad30c971d5c4e4c2e811eb5.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "A shooting game depicting a rescue drama set in an underwater city. Avoid obstacles and missile interference as you save the people of the underwater city!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

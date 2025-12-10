@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a48760043a9bbbe532fe4190986b84208a6e6939b94872dbcee0306746f720c.jpg"
 	],
 	"releaseDate": 20211102,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "A beautiful hand-drawn adventure awaits! With 5 playable characters (featuring Hat Kid) and a 4-player couch co-op, this beat \u2018em up will capture your heart!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.83 GiB"
 }

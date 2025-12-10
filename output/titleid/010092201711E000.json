@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7381587e20cf489e1637a8d5a7b686981d926bebc1ff53efdac498c1f61d501d.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A battle between light and darkness! \nThe legendary rebirth of dragons, after countless ages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "132 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0dbd9a3af6102b8019b7815d4d408c1af2820211ac1db2bf958459143037129.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Party",
+		"Communication",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "A 1 - 4 player, cooperative and competitive food frenzy party game! Working together and communication is key to getting the best times on the leaderboards!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "310 MiB"
 }

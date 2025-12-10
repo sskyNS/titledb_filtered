@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a78225d6e2fa19bfb66eec03faecf1e782baab666dcf8982540b569b3643ec9.jpg"
 	],
 	"releaseDate": 20181120,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Bendy and the Ink Machine\u00ae is a first person puzzle action horror game that begins in the far days past of animation and ends in a very dark future.\n\nPlay as Henry as he revisits the demons of his past by exploring the abandoned animator's workshop of Joey Drew Studios. With twists and turns around every corner, \"Bendy and the Ink Machine\" is sure to thrill you... and decimate your childhood.\n\nYou'll never look at cartoons the same way again.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.02 GiB"
 }

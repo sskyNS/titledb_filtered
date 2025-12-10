@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/079b49eb4765de2db0f0d44953eb13801ea0c0da406cfc1e639ffbe5318ae8c5.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Atmospheric FPS adventure full of stupidity and twisted humor",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/013a10d9cbca0fd3c2f09d5ec4d36284baa9579baad6e01bc12ffcc34b63e6cc.jpg"
 	],
 	"releaseDate": 20231211,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Embark on a perilous journey through the ancient temples of Zumaji, concealed deep within the jungle and teeming with cunning traps",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

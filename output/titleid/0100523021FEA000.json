@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f55e142a06cdd5d3f9abea4eee6c7c5745dbdf13cd7d435017835def1eeee54.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Saborus is a thrilling horror adventure in which you guide a brave chicken through a deadly slaughterhouse where everything wants to kill you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

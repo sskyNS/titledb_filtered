@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae42ad460dcca0d965931deefe5eb73a1a03549795826e84d08ca131229309c1.jpg"
 	],
 	"releaseDate": 20211203,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Follow the memories, follow the path, and discover what you will find in this puzzle adventure game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "356 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4de26dbc325185f4419cd110c880da4a5a1ea156d9465e5df0fb8466ac3fed5e.jpg"
 	],
 	"releaseDate": 20190426,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Arcade sports for a new generation.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "274 MiB"
 }

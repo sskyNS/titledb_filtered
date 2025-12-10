@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8737cabb16c8961b21a9e9c3d2a54cecb933131ac3ff31540a928d1e62084a3.jpg"
 	],
 	"releaseDate": 20250709,
+	"category": [
+		"Study",
+		"Adventure",
+		"Education",
+		"Music"
+	],
+	"intro": "Blupi and his monster friends embark on a brave mission to make human friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "508 MiB"
 }

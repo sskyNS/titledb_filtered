@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/17c9e2ead97319aa1ada5ed29fd239d40f7a7c5487931a2f8c19cc6c7aa49a4b.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Jamboy and Billy are devoured by a giant and must escape its guts! Fight food monsters and explore its intestines in this frantic, multi-genre adventure!",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

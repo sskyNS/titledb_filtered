@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/260670c371cc81736209b00a6ee61138b76f38c1eb1f02c1a4aeb2ba12c58964.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Welcome to a magical world full of witchcraft.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": null,
 	"size": "1.14 GiB"
 }

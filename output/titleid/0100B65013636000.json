@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/59b14ad9655e09d854961270ec6b7df93531f4a2992cbde1707be0bf8696f0e6.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Super Toy Cars Offroad brings the series off the beaten track, and into the mud, sand, snow and more!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.40 GiB"
 }

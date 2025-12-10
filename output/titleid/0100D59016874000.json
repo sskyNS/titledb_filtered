@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc92875d7a7482d7c8b15a8440c627e0dca9ad1a3404f431e9516f11ce4bd1e6.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Arcade",
+		"Party",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Prepare for chaos and get crafting as Merek, the medieval shopkeeper. Includes solo and couch co-op campaigns. \nYour dark age destiny awaits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.07 GiB"
 }

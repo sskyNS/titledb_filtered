@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cb673b932d768895cd62e5e0c6bd6ae829f3a4bec388866d145656a78006491.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A cute but fierce squirrel solves puzzles using various weapons. Explore maze-like islands and overcome difficult obstacles with the strongest squirrel in the universe.",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "477 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2e149b21982d652122e0350629032aa3de0943ffd11967b4c6944133af8f957.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Embark on a magical journey through enchanted worlds! Help Lina and Theo stop an evil force threatening to erase all the stories ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

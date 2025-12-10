@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/837c825c20150743acf2229b8afd6a7a42cef41e13b53c70df2187e6854a0c43.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Solve creative challenges with your camera in this puzzle platformer game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

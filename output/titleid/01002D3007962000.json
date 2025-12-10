@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/92c69f98328c89fe9dbb9d091ce3bc7fd3653c0e60e322fe3833780e43ea80ac.jpg"
 	],
 	"releaseDate": 20181221,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Sundered is a chaotic hand\u00ad-drawn metroidvania where you resist or embrace ancient eldritch powers. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.22 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/04f4da3002b62721e556f36b3ff439719feaa7dabd00332e05b1d5dc0fe61c5c.jpg"
 	],
 	"releaseDate": 20210223,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "RUSH THROUGH THE CITY TO DELIVER YOUR CRAZY CUSTOMERS!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

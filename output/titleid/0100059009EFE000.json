@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d4780791d3823f7048e8450c98a9bf704f54d0761229ac23a3cf576a1ecbb22.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "An adventure that's off the (dragon) scale!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "695 MiB"
 }

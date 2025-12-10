@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/415a9d9a697086b2f14f2b16b14f12aeb3c2e27025cad9717785b4b35b5b2623.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "A creative indie game from GameJam. Your past self will turn into a ghost and help your current self solve the puzzle together.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "300 MiB"
 }

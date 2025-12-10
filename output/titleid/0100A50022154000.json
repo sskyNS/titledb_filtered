@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/45755fe64e8db4f20c3057291caca887827d6874d2f4e6bd541fb150c9cd21b0.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "A multi-player game for a single player. Learn to control 2 characters at the same time, one with each hand. Rescue both the prince and the princess at the same time. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

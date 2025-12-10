@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/66cf8d81dea54661a8dfb41aba8fdce1fb63ca28f47c4a407d2a16194b940b68.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Create and customize your own golf course in this charming management sim.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

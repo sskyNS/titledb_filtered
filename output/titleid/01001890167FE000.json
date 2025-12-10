@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/16509a682ffb2a404a511916d288eb633623418429426e0442935d72df4eea7e.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Sports",
+		"Action"
+	],
+	"intro": "Race around Cretacia as your favorite dino in a prehistoric kart championship almost as big as Gigantosaurus\u2019s appetite!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.30 GiB"
 }

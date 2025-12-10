@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b5f6b057e97b6ce86b1773abae897105efbd3e16264e2f56fef5046699a14bd.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Other"
+	],
+	"intro": "The apocalypse is here. Zombies flood in from all sides. You have 80 days until the rescue team arrives.\nYour desperate struggle for survival begins now!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

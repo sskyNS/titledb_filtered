@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ce10a50f51a8c14d34dbdc64ac78712d535dbd93eb3a023c1c3c9ce3213ce36.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Adventure",
+		"Education",
+		"RPG",
+		"Study"
+	],
+	"intro": "KURSK is the first ever adventure and documentary video game inspired by real events.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.94 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0aa8efd1397766ead8ae6413b526aa9cfa94b6f742d97bcc82cb5c89e066c0e.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Trust no one. Take everything.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

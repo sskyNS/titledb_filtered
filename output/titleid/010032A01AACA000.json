@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe594337b3910d8739524d0c92c12f6d3b3a23fb2dbaab8599a646feba36f950.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "This colorful fairytale A Tale for Anna will transport you to an enchanting, mysterious world full of puzzles, magical creatures, and secrets.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

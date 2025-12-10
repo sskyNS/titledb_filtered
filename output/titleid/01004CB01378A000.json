@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0873b5d690a262b44727d2bd8cb4ab120f6ed109457b15c2f79a7a2eaef9de67.jpg"
 	],
 	"releaseDate": 20210110,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Most popular Sprint cars dirt racing game!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "704 MiB"
 }

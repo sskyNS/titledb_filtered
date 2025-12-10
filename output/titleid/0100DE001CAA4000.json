@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/75b98fad7f04fed83dcbd290f32b3c0573c1a696a664c88433f3868a7bad4c35.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "An interactive love and relationship quiz",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

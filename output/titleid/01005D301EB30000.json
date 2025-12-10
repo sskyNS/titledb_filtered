@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e86056ae98593021d441ae31529abc293f6ef0f82cbb6c47e42ce48c1b6f679.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "A multiplayer, first-person shooter game where you must survive hordes of deadly aliens in a derelict space station, all of that with beautiful and dark retro aesthetics.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

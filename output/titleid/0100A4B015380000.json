@@ -8,5 +8,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/be525217e6878aac0bd8d536d7a0dce7e947a4bcd115e877a8c7786a4a7a1b4a.jpg"
 	],
 	"releaseDate": 20210529,
+	"category": [
+		"Arcade"
+	],
+	"intro": "Aim! Strike! Knock Down! The target of the game is knocking down the cans with as less throws as possible.\n\nThis may sound easy, and it is early levels, but you'll have to cope with moving objects in higher levels making the game increasingly difficult.\n\nThe game stores your progression in persistant storage alllowing you to suspend a play and take it over whenever your want.\n\n- 90 challenging levels.\n- Xtra Can (Green) - you will get Xtra ball.\n- Explosive Can(Red) - when you hit this can an explosion will occur.\n- Bomb ball - you will get a bomb ball which lets you to knock down as many cans with single strike.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

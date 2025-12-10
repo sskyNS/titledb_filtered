@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/192ddd59d8990c610f1d490958907090f2b7dddbedcd508825211bcf868306be.jpg"
 	],
 	"releaseDate": 20210518,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Board Game",
+		"Other"
+	],
+	"intro": "An original turn-based puzzle game inspired by Chess. Become a Ninja in feudal Japan and prove your skills in the art of infiltration, sabotage and assassination.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

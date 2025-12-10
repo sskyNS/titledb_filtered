@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ca1acbdd0ea2797cad2d2df0cdb7b237c9670896fdc799f2ed0fb23a0365347.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Experience the epic western adventures that defined a generation",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.61 GiB"
 }

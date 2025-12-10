@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/72cf6f925e5429a10925280b38ec511307121899acae626756ef90834c9056b6.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Action",
+		"Party",
+		"Communication",
+		"Sports"
+	],
+	"intro": "Fly, shoe, fly! Up into the sky!\nSwing and kick your shoe as far as you can! \nBecome a shoe-kicking master!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "252 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/012eff449b6b12bf2fd5120ad53c717ad493e6cad7a37d9370e467974d8b9026.jpg"
 	],
 	"releaseDate": 20240812,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "In this visual novel, a group of prehistoric creatures embark on an epic journey to find the legendary Warm Valley.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

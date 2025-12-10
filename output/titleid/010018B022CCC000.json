@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b128b840787d176cc4f6e9c24a993db3f449ffdd1a34875a570410a89279982e.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"RPG",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "An epic 2D ARPG adventure awaits in the world of Wings of Endless!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f20149c14137e26b3622c42421230bc980a0cdf7e793dce9d1baaf3a74ff64d6.jpg"
 	],
 	"releaseDate": 20170428,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Race with Mario and friends anytime, anywhere!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "11.25 GiB"
 }

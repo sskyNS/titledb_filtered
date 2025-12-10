@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ac10712270be13d02a5626eaf5b6c1c2239e2831eb62bb921c65da713e40852.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Addictive gameplay, Stylish minimalistic graphics, Many levels, Gloomy environment,  Space for your imagination",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

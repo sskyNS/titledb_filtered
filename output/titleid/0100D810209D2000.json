@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/936aef61d98644503ea1669efac9c0f8cd3e854d2b71735d28c70c479e1e7f00.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Shooter",
+		"Board Game"
+	],
+	"intro": "Get ready to blast your way through 200 vibrant and challenging levels in Zumba - The Marble Shooter Tikki Adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

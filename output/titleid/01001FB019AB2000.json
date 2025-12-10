@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8762e5fda018a29d45b27e6cfb493f9cdc6c7203c364d6d166b51b6af7911cc.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Get ready for some extreme waterslide action in the world\u2019s craziest water park racing simulator!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "314 MiB"
 }

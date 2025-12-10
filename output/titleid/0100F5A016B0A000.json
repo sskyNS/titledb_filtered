@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f4f7b03317a67d20e01364f849588b457b8105289079ffd82a17e0764c92d6e.jpg"
 	],
 	"releaseDate": 20220223,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Detonate your way through sweet but puzzling physics-based platforming stages!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "44 MiB"
 }

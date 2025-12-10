@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c647beeb8630bb0b70ea82d23d23913c638d30dfe1559a35c6611db2b25680cd.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Action",
+		"Shooter",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Not just a machine - a weapon with memory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

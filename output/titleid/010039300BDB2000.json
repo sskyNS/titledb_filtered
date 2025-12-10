@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/73ec3598d8aa475b3b4e84e0a686e310519a60ee87858e0a31d2421894c0c5af.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Defunct is an indie adventure game with a focus on flow, speed and an engaging world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

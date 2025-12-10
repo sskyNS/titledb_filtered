@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/260e55fb5e959aff7735bb8b52bb899d5465e30350a9cdce09eca9938d54b762.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Music",
+		"Sports",
+		"Party",
+		"Other"
+	],
+	"intro": " Step into a universe where music and movement collide in a spectacular party experience for seasoned rhythm gamers and newcomers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.00 GiB"
 }

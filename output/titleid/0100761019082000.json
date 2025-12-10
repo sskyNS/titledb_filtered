@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/724795e6e2c2ad4846ef6c28b4078008dc78e1eddc13eba05a13e7f1483c0640.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Embark on a journey through a world full of whimsy, enchantment, and danger!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

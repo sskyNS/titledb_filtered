@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b44afdaedb5f0e48c4967f2ad1a0205e9320a2109ea238dc4cf89607a237f0d.jpg"
 	],
 	"releaseDate": 20240211,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "A frantic 2D arena shooter against up to 40 bots. Play Free-For-All or Mission Mode. Unlock guns, perks and characters. Call in helicopters, airstrikes and nukes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "338 MiB"
 }

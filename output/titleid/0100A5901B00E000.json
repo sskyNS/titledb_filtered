@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/521a585d14bb64ce6f8d9ca01c4eac26c87aab4e13f0ef0192fafb87c366ffe8.jpg"
 	],
 	"releaseDate": 20230908,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Action",
+		"Other"
+	],
+	"intro": "The dead will rise for revenge in NIGHT AT THE GATES OF HELL!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "870 MiB"
 }

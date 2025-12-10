@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc211aff89ee9d8ea3b2b21c71c3ab100e3871742228d456e6efc4ddc3099568.jpg"
 	],
 	"releaseDate": 20180104,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Get ready for some speed with your family and friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "751 MiB"
 }

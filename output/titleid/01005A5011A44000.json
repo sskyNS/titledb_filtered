@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7089a199b35b75d62e296692ffe48bbef6a2fe67c89978152d76b6db048119f9.jpg"
 	],
 	"releaseDate": 20200828,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A New Story Begins",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.54 GiB"
 }

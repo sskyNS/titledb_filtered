@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/48c32b7e0ad274a7df78967b3857284906a4f82aec0f7b91ea41b5d3415c846c.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Sports",
+		"Party"
+	],
+	"intro": "Your Special shot is the key to victory!\nUp to 4 players can play simultaneously in this heated tennis game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "242 MiB"
 }

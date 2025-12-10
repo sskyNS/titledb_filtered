@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/794e0503faf50c4c8e8f5fbec48452138390f06beaa9dd34a1502bdea35bab8d.jpg"
 	],
 	"releaseDate": 20210914,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Cruis'n is Back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.65 GiB"
 }

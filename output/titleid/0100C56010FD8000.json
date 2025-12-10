@@ -8,5 +8,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e328b129cdafb0852ccb5f4368ab0e7278060581b496157058a8756655155649.jpg"
 	],
 	"releaseDate": 20210319,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Ready the Juice Cannons and prepare for the wackiest battle!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.43 GiB"
 }

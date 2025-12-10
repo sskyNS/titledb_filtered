@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2da21733ce8fe0a66f9020001dac1e2ccc2ed0028bb6377a1396bca00c77f9c.jpg"
 	],
 	"releaseDate": 20220702,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "This is the Ninjest Ninja Cat in video game history!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "40 MiB"
 }

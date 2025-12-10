@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd5a81fece64cce5a42ea303fd23fac1f449ae90377bc0670e93231808e0e3ae.jpg"
 	],
 	"releaseDate": 20240508,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Other",
+		"Study"
+	],
+	"intro": "Fun Puzzles for Little Hands - Learn, Play and Grow",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

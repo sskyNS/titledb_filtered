@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/295f7a40be7c4723c710291d22c015fce8f017869aaa40465184aa208067f5ba.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "A stylish and visceral single-player FPS",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.46 GiB"
 }

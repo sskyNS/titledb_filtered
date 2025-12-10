@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0a957de5f1845a3d93f5c1e473d19dfe0aec5b544d10efaf761eec7dc662714.jpg"
 	],
 	"releaseDate": 20200730,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Become the captain of a flying ship! Sell items, gather resources and build your own trade company in the clouds! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

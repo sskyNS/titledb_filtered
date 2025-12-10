@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/261a3f084d26fdf9ddca94a504a007164cd50c9026b09748a789c9650cd5bf4b.jpg"
 	],
 	"releaseDate": 20230209,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Board Game",
+		"Training"
+	],
+	"intro": "Draw as many connecting lines as indicated \nby the numbers in the circles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

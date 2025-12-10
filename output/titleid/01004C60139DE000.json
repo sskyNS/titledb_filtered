@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd02ff8cbc03b093a8a39da7f769f5220e439d21222817c6ac84cf2cd04d8eb3.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Experience the real drive, sense the speed and feel a surge of adrenaline from skidding in a new racing game from the creators of Drift Legends! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

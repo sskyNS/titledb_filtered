@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/53750cb415790b42b21daf407d370db0f41a9312d12dda8cf8a74a44bed025a4.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Return to your home planet after 200 years of space travel in this atmospheric, art-driven adventure. Shoot, slash, and roll your way through dangerous enemies and ancient bosses.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1a9c9fac17f10cf0a2af943d9ed74b8e7a5fbd199e0298703554c82f403abb3.jpg"
 	],
 	"releaseDate": 20250808,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Toree Saturn is a speed-based 3D platformer featuring a round bird with sunglasses and a backpack!\n\nRun through linear levels from point A to B with a double jumping bird while avoiding enemies, collecting stars (if desired), and getting all kinds of little speed boosts along the way. \n\n- Simple to understand gameplay: Just run around and jump and you already set to get the highest rankings in each level\n- A variety of levels with different retro and colorful themes\n- Cool tunes inspired by late 90s as well as early Y2K styles.\n- A bird with sunglasses and a backpack!\n- Toree has two new moves! The player can now use a grounddash in mid air to descend faster and get a speedboost when impacting on the ground, as well as homing in on special stars to get a height and movement boost.\n\n- New Looks! Toree Saturns artstyle tries to be a combination of late 90s 3D with some of the more crazy looks of the early Y2K era. It's like a natural evolution of the artstyle of the previous games... I hope.\n\n- Controlling Toree got way easier!\n- Most actions (except for the trigger for the ground dash) only use the Jump button.\n- Ground Dash is performed by the now freed ZR Button",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

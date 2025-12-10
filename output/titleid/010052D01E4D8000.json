@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7968118999cef91d982aa7e59969b6123c2554fe6997fa9ce26a90645d174107.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Adventure",
+		"Education",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Build your town while exercising your memory! \nInvite over 140 adorable animals to Membal and enjoy 20+ mini-games to train your mind. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "519 MiB"
 }

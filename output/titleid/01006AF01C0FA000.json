@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/85dc4cbfd00abe18477d45aefe6acd04a804f866b3d8541f095db0576249d292.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Use a wide variety of weapon and power-up units \nto fight through each stage!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

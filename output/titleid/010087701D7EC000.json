@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec8ed9aa6bd773b83446808f385a3b396f73c36724a27d998f115d59f7e8d568.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Simulation",
+		"Action",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Pilot a radio-controlled and get ready for high speed drone racing in this realistic fly drone simulator!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

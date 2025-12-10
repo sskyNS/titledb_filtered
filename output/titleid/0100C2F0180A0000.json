@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/587c35f73181dafa5073b9913ab59b925b25ae4863614915c0445fef2beb53ce.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Other"
+	],
+	"intro": "Support Ukraine. All profits from the sale of this app will be donated to charities - Habitat for Humanity Poland, Polish Humanitarian Action (PAH) and Save the Children.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "611 MiB"
 }

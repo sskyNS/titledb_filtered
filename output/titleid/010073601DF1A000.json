@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f35608c2a90fa792087186985fa71369643e29e84e5651688639315c2d79008d.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Welcome... to Amber Isle! A shop management/social sim set in a quaint, friendly world of prehistoric animal islanders called Paleofolk!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.57 GiB"
 }

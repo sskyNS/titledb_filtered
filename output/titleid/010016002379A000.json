@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a818fae1b121acb1bf0d8987622da87f99db6c5bdc8a1fea022cb9abb700d811.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "First Racer is a fast-paced arcade racing game with multiple modes, customizable cars, offline play, and smooth, responsive controls.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "377 MiB"
 }

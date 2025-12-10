@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/57ee3280653a47416d14cd5ca55a548441196601050cc7ccd678f283831fef17.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "BigChick is a family-friendly action-puzzle game where you make paths and escort nestlings.\nBe the Chicken Moses! Let your chickens go!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/81311e3882370db810a135e138ca5cd3d34bb29432233a348eb3acb0bf6eee98.jpg"
 	],
 	"releaseDate": 20210813,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Big city,\u00a0bigger adventure!\u00a0The PAW Patrol\u00a0must save Adventure City from\u00a0Mayor Humdinger\u2019s\u00a0selfish scheming\u00a0\u2013 and\u00a0they\u00a0need YOU\u00a0on\u00a0Team\u00a0PAWsome!\u00a0",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.34 GiB"
 }

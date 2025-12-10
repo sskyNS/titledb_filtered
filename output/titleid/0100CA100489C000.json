@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f44d12a40dc34eabda31e3e8876e60ce8378575837dfb3635b24257f76775ce.jpg"
 	],
 	"releaseDate": 20180111,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Take the Ultimate Prison Sandbox Anywhere!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.88 GiB"
 }

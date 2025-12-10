@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1c0c7763aacf61bb6591f5bd9195eefc0740eb91485541af41be813ee0ff337.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Welcome to The Danger Games, where you'll dash, jump, fly, and shrinkatize your way to the finish!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "540 MiB"
 }

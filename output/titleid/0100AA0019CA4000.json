@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3f57118983add43c9a4d1ea42bc30e02abc0adc5f9415587e10c0ffd86dde1d.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A fun-filled soccer game for everyone!\nGet set for the ultimate kickoff!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "378 MiB"
 }

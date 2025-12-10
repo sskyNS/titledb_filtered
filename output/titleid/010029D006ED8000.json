@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c103242ffd9377a17f0d81c5e818de5f573189bc15b66b0ab9bc937a3c18cb2.jpg"
 	],
 	"releaseDate": 20171130,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "A total of 3,700 miles awaits you! Challenge yourself to a ride across America!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "84 MiB"
 }

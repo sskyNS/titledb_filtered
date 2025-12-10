@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/68e96ed022ca8f8fbab81ab511b9ca41873d6b4c71fad753add2b85b0317ccfd.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Party",
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Slice and dice your friends with boomerangs in this frantic physics party game for up to 6 players.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "656 MiB"
 }

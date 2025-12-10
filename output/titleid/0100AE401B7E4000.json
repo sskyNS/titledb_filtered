@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a92655237bac1d9f68f950313f97a2878b7606a254a9ad94bbd6ddb32ed8904.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Defend the sacred island of Zodongga against waves of invaders",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1022 MiB"
 }

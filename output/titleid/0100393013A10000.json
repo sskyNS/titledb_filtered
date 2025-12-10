@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/80e1cc3a0035c49411ffe1f86213c9d96d9ec1aa135e0e51be1c69c137f4e378.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "Timothy it\u2019s an \"old school\" style title with some modern-age ideas. A mix of retro graphics along with meta-narrative, stealth system action combat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "144 MiB"
 }

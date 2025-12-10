@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a5a04fd785db9ebc6a26ec3bb1ff3107f2b4f580042df086dfde6e0b6dcdad3.jpg"
 	],
 	"releaseDate": 20180208,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "EXPLORE. BUILD. DEFEND.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.53 GiB"
 }

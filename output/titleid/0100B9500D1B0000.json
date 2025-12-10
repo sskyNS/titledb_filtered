@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/58bb4309ee0f54ed4f10f1ccc0cab8090dd099bb0fc2c60d88fd5f6fcc35fcfd.jpg"
 	],
 	"releaseDate": 20191210,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "As a Slayer of Ramsgate, you are all that stands between your world and the Behemoths that seek to devour it. Hunt huge monsters, alongside other Slayers on any platform, and craft awesome gear in this stylish free-to-play co-op action RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.06 GiB"
 }

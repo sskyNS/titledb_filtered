@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/20d7dc8fcedd52aa3a448379c5c61852c8ee198b77e6ac0e5b3c508120ac28a5.jpg"
 	],
 	"releaseDate": 20180621,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "What has been cut with that sword? The curtain opens on the second act of the most intense of battles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

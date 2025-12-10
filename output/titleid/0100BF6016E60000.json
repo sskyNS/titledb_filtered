@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/37218ba6538eaec0547ca97478ac3e1f06a7cdd6a7245452e66364232f1184d2.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Mop to clean up, \nhere comes the mind-boggling puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "247 MiB"
 }

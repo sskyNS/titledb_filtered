@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Rock the apocalypse in punk style!\nKnight in shining armor, fight your way... with Guns!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.64 GiB"
 }

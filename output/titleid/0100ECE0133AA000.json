@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7045c60f1e65cdeb5fcced4510d31a65649e33a114ee31b9631f9ed8dd6280fc.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Prepare to balance... A LOT.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

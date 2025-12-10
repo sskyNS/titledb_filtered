@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d987d82595299e410f5bd8a1905913a87e1ffe8bb776b1d8eadf0f0fb9f646c.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"RPG",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A universe of adventures at your fingertips",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "28.01 GiB"
 }

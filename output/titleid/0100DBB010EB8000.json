@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9f77f64b41b8028e9f5700ad22c331d8800173c1f112a26bf6892b1cd710908.jpg"
 	],
 	"releaseDate": 20200221,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Otherworldly is a horror game set in a dungeon-like place, although I'd consider  underestimating its powers by calling it a dungeon.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "300 MiB"
 }

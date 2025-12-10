@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b002ce0bd51bf0f15848c880d8ff9ff0708f3e16afb3e8b7c34cfd7f0d6850ac.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Omen Exitio: Plague inspired by the gamebooks of the '80s and '90s, mixing the alien and horrifying universe created by H.P. Lovecraft.",
+	"languages": [
+		"en",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

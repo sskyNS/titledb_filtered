@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8728b3d6939fc5201ef7504dec88abe6cd2bc921b5d9075ba25b532d0b23711.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Drill for oil like it's 1899!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "800 MiB"
 }

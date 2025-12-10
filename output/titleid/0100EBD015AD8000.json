@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba8f4ae4c965fe9f510086c6bd8dbb8daf26d4f61bfb3470ebef61d74439998d.jpg"
 	],
 	"releaseDate": 20220308,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Enter a mysterious world. The Wild Case is a 2D first-person point-and-click adventure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "606 MiB"
 }

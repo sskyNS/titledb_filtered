@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d64ba84c1d3e85fe95ff2afb7b49c4b193e52dac240046c804387d24f0bf655e.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Unwind and escape into a peaceful world of jigsaw puzzles! Enjoy 30 beautiful levels featuring serene nature scenes and charming little towns.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

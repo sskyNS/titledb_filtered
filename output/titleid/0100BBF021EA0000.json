@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/96d4f3aa6827107d98ae2f9f53717b990ec85a5465d800ebffa15c5f25b2b6a7.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Saga continues, Mona is about to travel through dimensions!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

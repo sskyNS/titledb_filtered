@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bdf4d938b7718a0b1518d860f3be10fb1f2965111cb67832498a4fbaf7ba714.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"Strategy"
+	],
+	"intro": "A point-and-click story driven adventure",
+	"languages": [
+		"en",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

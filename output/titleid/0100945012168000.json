@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/54d70fd45a7a7fa76d7bbefa9eb1180dd144ae574e9f65a7db58e5003e79cd91.jpg"
 	],
 	"releaseDate": 20210107,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Fusing gameplay with light & shadow. The concept of light and shadow runs throughout the design of the game\u2019s story, art and puzzles. Switch between light and shadow and pass through the two realities as you experience unique interlacing of black and white, as well as both 2D and 3D.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

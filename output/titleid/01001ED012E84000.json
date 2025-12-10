@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/08215097c721d098a4253f7393b64ea488d4506dd650eb524636e4cf28402af0.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A hot spring strategy game about healing and friendship!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.15 GiB"
 }

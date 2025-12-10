@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/568e01ad8ce936799767286f99b57886f19be7d3786a5f8328c2ab7c0f65b1c9.jpg"
 	],
 	"releaseDate": 20221021,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Make Mayhem Your Business",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "15.75 GiB"
 }

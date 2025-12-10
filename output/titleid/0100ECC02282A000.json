@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/923e9b0ef3597ccb4fa13230e0d3d9ba14607c718bdb55b7877495216f1ef12b.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Lifestyle",
+		"Practical",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Unwrap the comfort of your dream home!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

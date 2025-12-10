@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c97a00592a1537e07ab408902b79dcfee20ab569a937905cfd24b0a949fb6288.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "After saving the enchanted forest, Little Red Riding Hood and her friends confront the evil witch",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "541 MiB"
 }

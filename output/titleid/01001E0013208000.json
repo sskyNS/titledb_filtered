@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3b9b7a8d6f97dfddd7c4d6dd6aa2a643be8e561549cbd424c429abe0138baaf.jpg"
 	],
 	"releaseDate": 20210217,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Relive the Capcom classics!\n1943 -The Battle of Midway-\ncomes as a free download!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.40 GiB"
 }

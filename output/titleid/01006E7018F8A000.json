@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8636c886ee47e72a3ac2b5a52db63e5bc740e2d929fd679f036f81f8fb8faf37.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Build a school for RPG heroes!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

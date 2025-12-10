@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e633998f3fb4da222058e31adea91347648b4ba851e9ac7631a05919ba251354.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The army's computer has gone berserk! Use a variety of weapons and items to destroy this science-gone-mad! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "109 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4998659bcd435adc59074f210e38bfd62b989db76b642749915b1b2e38fa1038.jpg"
 	],
 	"releaseDate": 20201210,
+	"category": [
+		"Action",
+		"Music",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Jump, Spin, Swing, Explore Beautifully Organic Worlds",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "798 MiB"
 }

@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/670ce38e27402615c4cab1a0a387cd0901b3a37761654624ae8ffb184a710170.jpg"
 	],
 	"releaseDate": 20220131,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Dorothy might just be able to save her teenage skeleton son and undo a terrible curse. All it takes is finding the treasures hidden on this mysterious island.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

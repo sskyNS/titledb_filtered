@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfafc4ead6d391425a1beb2f5f0fe94d734e19a27ee93cb42d9ceffb6c67d0e6.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Tokyo\u2019s cats need a hero - and that hero is you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "881 MiB"
 }

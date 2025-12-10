@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7214aded657d79f1e7ec581d4fa489e4f017b3b454f29fc4f6129963dcc59255.jpg"
 	],
 	"releaseDate": 20221118,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "The Quantum Computer has become self-aware!\nDestroy its image library before it learns enough to take over the world...\n\nBreakout Arcade Game with 300 retro levels prepared by Clive Townsend, famous 8-bit game designer.\n\nMain features:\n- 300 unique levels\n- 10 unique rackets\n- 21 unique upgrades\n- 7 language versions\n- high scores leaderboard",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

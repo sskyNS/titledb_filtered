@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0154afc647f7b1fd724d8ceaca0273fb86e825b918cef5ecf7631f4a56a56c5e.jpg"
 	],
 	"releaseDate": 20230728,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Welcome to the wild and mischievous world of Racoon ! Explore, scavenge, and cause mischief in a vibrant suburban neighborhood.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

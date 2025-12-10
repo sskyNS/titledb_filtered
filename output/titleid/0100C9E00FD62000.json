@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/72fc5d8bbb7c9a9c6a92c0b21107823abedaa4f2d03d2fba7d8cc7d6d5c2c5b0.jpg"
 	],
 	"releaseDate": 20191220,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "The strategy game that starts at the end! You know how to level up, but can you level down? Be smart to survive!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "430 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/94e2184233f3f300569ce941ee09ad77564f309238e5012b89e8dec9786aa715.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "A charming 3D roguelite platformer about a normal day in the life of a knight! Sharpen the spear and make the Dragon run in fear!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.99 GiB"
 }

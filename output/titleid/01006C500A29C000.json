@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/213732290b18ad58e90251521a8a309f2294f24c1e47869133197c137a60b202.jpg"
 	],
 	"releaseDate": 20201020,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Smash. Brawl. Score!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.03 GiB"
 }

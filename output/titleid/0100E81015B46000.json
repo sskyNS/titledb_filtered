@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f77f0385fa06eb2e8083a8ee215b058e612859369a72a8babb35735b796ff1a.jpg"
 	],
 	"releaseDate": 20220513,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "The legendary game of superb quality!\nOne of the best action-puzzle games in the world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

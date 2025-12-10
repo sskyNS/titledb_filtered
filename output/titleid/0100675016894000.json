@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/211626dcca2cac5cc09c6d1235afcff4b9fed1ce818de8bb2d26bd7bdb7ae580.jpg"
 	],
 	"releaseDate": 20230320,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Fighting",
+		"Party"
+	],
+	"intro": "FurryFury: Smash & Roll - the game of skills and tricks! Pick your beasty critter and smash the rivals in the tactical PvP brawls on deadly arenas!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "609 MiB"
 }

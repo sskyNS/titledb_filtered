@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8f1b9ac0e19afd7711de8ae2bba1700f23011a867bbf2f37c209e1e68df6738.jpg"
 	],
 	"releaseDate": 20251122,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Precision, patience, and deadly accuracy in every shot.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

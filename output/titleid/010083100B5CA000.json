@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7caf59fdf6cd9e0059db0c444b8ebb6e686674d30e3c05a143ef24ea4ca3cfe.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Sky Force Anniversary is a re-creation of a near-perfect, air-based shoot 'em up. Over a decade ago, IGN said: \u201cPut simply, Sky Force is amazing.\u201d scoring an incredible 9.5 out of 10.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "501 MiB"
 }

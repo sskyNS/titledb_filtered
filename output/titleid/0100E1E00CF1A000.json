@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0a6178b75359e28a9330e4d187855e2f943cb7d1bff1b6f2b3be35902181b0e.jpg"
 	],
 	"releaseDate": 20190326,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "It's Morphin Time! Power Rangers finally comes to Nintendo Switch. Pit current and classic Rangers like never before in 3 vs. 3 tag battles.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.86 GiB"
 }

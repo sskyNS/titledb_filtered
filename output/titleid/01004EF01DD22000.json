@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe87808697d9135226b1dae7306e1dd94609ddaa86627f2c485814cfc403b69d.jpg"
 	],
 	"releaseDate": 20241002,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Arcade-inspired isometric action shooter. \nMASTER THE DEMON WITHIN.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.29 GiB"
 }

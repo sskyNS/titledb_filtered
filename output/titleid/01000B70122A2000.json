@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b831b0922de3ecb650cc97fbb9843154816c2849704ae9689598400a98df4cdf.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Experience a reactive, intertwining story of three playable characters, working to uncover unfortunate truths that will change the fate of their city forever.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "450 MiB"
 }

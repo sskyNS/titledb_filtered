@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/403c41c8bc4fb1a92894b81aca32a88d02de27df02dad981b483197779099d2e.jpg"
 	],
 	"releaseDate": 20230608,
+	"category": [
+		"\u30ec\u30fc\u30b9",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30b9\u30dd\u30fc\u30c4"
+	],
+	"intro": "MotoGP\u2122\u306e\u516c\u5f0f\u30b2\u30fc\u30e0\u304c\u3001\u305f\u304f\u3055\u3093\u306e\u6700\u65b0\u6a5f\u80fd\u3092\u5099\u3048\u3066\u5e30\u3063\u3066\u304d\u307e\u3059\u3002\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.44 GiB"
 }

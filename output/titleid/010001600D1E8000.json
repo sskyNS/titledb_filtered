@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2c837b6426f6364e718d41cbae864342ca4aa0b09f0ba9b54f84ae262e3517b.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Bigger worlds, more adventure, limitless possibility",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "909 MiB"
 }

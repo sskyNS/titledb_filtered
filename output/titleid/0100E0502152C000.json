@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/616193708dbf22fca9bee2dfae1874535e1e25a7a912463337108fef65db4481.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Classic Ludo in a modern design, enhanced with four different themes of tokens and their drastic destruction instead of kicking them.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "57 MiB"
 }

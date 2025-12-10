@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5d3e8c6e9c8997d3ee609e65571f909ee6265136a13b286ee803e8adaab7387.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Truck Simulator is an intoxicating mix of Precision Driving, Parking and Spatial Awareness in some HUGE Monster Rigs!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "833 MiB"
 }

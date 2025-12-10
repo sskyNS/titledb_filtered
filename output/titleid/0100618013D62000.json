@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/189c70ca34670122f0ee826897410714c0fd359d8ec8c6ee0672ee9bfab5628e.jpg"
 	],
 	"releaseDate": 20210212,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Time-stopping battle action fun.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

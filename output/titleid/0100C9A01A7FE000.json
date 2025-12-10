@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8b9f8c4ebf42ed3df1719aa372625ec3efb024c147011931cb4ff0b3664dafc.jpg"
 	],
 	"releaseDate": 20230315,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Help the little redhead to steal all diamonds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

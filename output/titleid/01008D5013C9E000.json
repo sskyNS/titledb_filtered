@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1909e027404af0818af18c5dd31c20c034096cadb41ff4cd2be2436050ef4174.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "A shooty, slashy, RPG-y game mixing retro and modern sensibilities. ",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.23 GiB"
 }

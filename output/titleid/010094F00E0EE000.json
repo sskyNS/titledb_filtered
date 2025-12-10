@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/181349a2657ebf9b4037cc48c2944c5038f0dafc2e50fd122ce0903d230a450f.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Something's gone wrong in the forest! All the animals are lost, and only you can guide them home.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

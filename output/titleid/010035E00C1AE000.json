@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/610035e979ff9f9d84243b54a086dc232591dd4e916a969ad1447e394818ec49.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Battle of Kings is a tower defense strategy game in which you take the command and use your strategic skills to defend the siege against your fortifications. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.17 GiB"
 }

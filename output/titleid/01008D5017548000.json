@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c15a254bf569371ade0b541875cd146a9fde0900419a83ba3bc64e651ba0020b.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"Shooter",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Save princess Cassiodora from the hands of the evil sorcerer Kenzar!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.61 GiB"
 }

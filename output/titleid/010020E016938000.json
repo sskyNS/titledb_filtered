@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/648f21879904773b9a2b1797cc5279a4aea3662dc4f13add263630932f2c23c6.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "A piece of legacy racing fandom now available on consoles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

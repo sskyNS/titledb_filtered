@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/818c914715d8d4a764b61738cacb5e0076c5e0dfa08ee23860f9dae0ae65a370.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Slash your way through a decrepid interconnected world in search of the Fisher King who has hidden behind the moon.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

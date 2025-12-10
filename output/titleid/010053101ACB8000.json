@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/57b95d27b659972fec7bb1084978e4625099f130b9cc71c1ae82d522fdca64d5.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore the strange town of Barnsworth in this cheeky comedy slapformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

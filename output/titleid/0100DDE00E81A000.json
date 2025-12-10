@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dba52630a5eb280720dbdc1082977d42215744699e7b0b16332046fdc827d7bc.jpg"
 	],
 	"releaseDate": 20190827,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Death is lonely. He has zero friends on his FaceTome account and no one to hang out with. So, in order to feel better he begins \u201cProject Deadlings\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.54 GiB"
 }

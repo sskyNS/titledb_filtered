@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/41c88a64f420d53e096f49f8b0ba2031bff8c05cb0ebcd98438e8ae85a06e18a.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Experience the thrill of solving puzzles in the animal world! Choose from a variety of puzzle sizes to challenge your skills with two game modes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b25aa1af89c4e341e9d60013a6a5c2a8a99220920b7c7e1ffd2b3eeb5bd93682.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Only you (and 3 of your friends) can save breakfast from evil!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "422 MiB"
 }

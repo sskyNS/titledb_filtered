@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cead574ba58caf4ae0de4fcb93977c95720424754a5a369a2af0504b7c054023.jpg"
 	],
 	"releaseDate": 20231027,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Jam with the Trolls in this exciting new adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.85 GiB"
 }

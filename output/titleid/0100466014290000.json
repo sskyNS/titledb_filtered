@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f79b70fe4332365e2b326e0eebb87391c3114a9a3e0bf6e76a224f991556331f.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Find your way out of a magical prison in this non-linear point'n'click adventure full of mini games and challenges. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d95b5b9eebb153f5a5c01fb9437695aa82d7892d7c0be4aff247885cb7b3535b.jpg"
 	],
 	"releaseDate": 20210706,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Unsheathe your curse and smite the darkness.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a0f47e8fbb89ae4cebbbb6874e69e8238ed395e46f8a81bdb9553f8290694b6.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "The vertical shooting game with gorgeous 2D animations and lock-on lasers is back with new features and online ranking!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "861 MiB"
 }

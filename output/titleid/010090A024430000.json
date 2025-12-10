@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c08e3bc5dc37c274668d9470c18eb5f684ba160dff266d74982507658091ff1a.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Music"
+	],
+	"intro": "Hypno Halo is a minimalist score attack game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "307 MiB"
 }

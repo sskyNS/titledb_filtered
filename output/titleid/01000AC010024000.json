@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2aad9f3b40aaa1854b980720c3354ec6e40e15524130b0df0a31e967761843f5.jpg"
 	],
 	"releaseDate": 20200124,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Help Foxy rescue his pups!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "39 MiB"
 }

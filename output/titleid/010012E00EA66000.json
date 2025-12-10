@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8103ea4a992b198fa0b86179b0a16f1493f39b123be98f1c85908c4c8cc0cd6f.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "A tactical RPG about five stunt actors who decide to quit their jobs and start their own Power Rangers-inspired TV show!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "808 MiB"
 }

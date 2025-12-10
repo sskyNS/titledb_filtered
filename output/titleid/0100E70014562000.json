@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7aa7505a7911acaf54039ed74c0144eea2abd7150ad16cefad5bb9ef83560b2c.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Get ready for a tasty blend of life sim, crafting and cooking chaos!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.92 GiB"
 }

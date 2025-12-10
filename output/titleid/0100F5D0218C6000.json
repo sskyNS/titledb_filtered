@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6da9b27aa99c3a9266125100d23b8c43268624b79e8bf43062591c083d15cf3.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Rescue young Sayaka from the DMovie she\u2019s trapped in!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "126 MiB"
 }

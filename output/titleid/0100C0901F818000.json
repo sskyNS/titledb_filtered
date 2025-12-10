@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e08a433f8203c13ec3011171ba0de6e06589a5537ac58920509fa6b19af54243.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Defend the honor of the old master as only you can do.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "96 MiB"
 }

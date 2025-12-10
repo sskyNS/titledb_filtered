@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/25b66723fec0a18d28b744a0ca797defa79146042ab89055a7ed3c06c33b5607.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A satirical point and click inspired by the classic adventure games, set in the Cold War era!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

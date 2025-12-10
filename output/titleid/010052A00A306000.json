@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/73de43591a3e72c1c3e6172ecadb882e7a9f15a08b52a72d3c1f591df79de357.jpg"
 	],
 	"releaseDate": 20180531,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Join the battle to destroy the evil ninja clan KAGE ICHIZOKU!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "86 MiB"
 }

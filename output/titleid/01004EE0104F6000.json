@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6e192d3751135cffd070c90f6d26afc1c47b90aa6c87f91f77baea734fe8969.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Wondrous Discovery",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5869d5fc3aca2f268c90c81d1aa656f3746da842a066b76e08d965afd9d2431.jpg"
 	],
 	"releaseDate": 20181206,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "SEGA\u2019s collection of Mega Drive & Genesis classics comes to a new generation! \n \nIncluding over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat\u2019m ups, puzzlers, old favourites and hidden gems. There is a classic title for every player to enjoy! \n\nNew features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customise your controls. \n \nThe largest collection of retro classics on console in one great package!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.20 GiB"
 }

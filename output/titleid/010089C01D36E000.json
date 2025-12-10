@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/14740bf54e09d1249494bffc6b448a7122316ee3f6a26776ae8af4cd365e257c.jpg"
 	],
 	"releaseDate": 20231218,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can you solve a murder case of Adaline Salfield?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "823 MiB"
 }

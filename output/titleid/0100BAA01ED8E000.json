@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c726417f77dbd800c9e070e2e41bb01a26ebbe0f50afc5a1d23fe4e18287f020.jpg"
 	],
 	"releaseDate": 20240621,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Feel the adrenaline surge as you tear through the circuits, rev up your engines and take on the challenges!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

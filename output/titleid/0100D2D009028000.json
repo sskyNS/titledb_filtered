@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5f8ba44bc4a868e29ffb40e2930ff3aba76b704087c9686a0dfaf7ec320964b.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "From the Creators of LIMBO",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

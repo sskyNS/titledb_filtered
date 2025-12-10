@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c3b0d0de501d2d58b612209fac4cb362942a7a8cf5d5fcf0fd9a1eb5707dc9.jpg"
 	],
 	"releaseDate": 20250328,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Other"
+	],
+	"intro": "Turn-based Rogue-like RPG: build a team, choose events, and stop the apocalypse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

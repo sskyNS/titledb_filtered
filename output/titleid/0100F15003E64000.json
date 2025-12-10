@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/23dadcd8294b9d3a053a81eb970ea7219bb83756e976b76dc4912ea355dbbbd4.jpg"
 	],
 	"releaseDate": 20171020,
+	"category": [
+		"Action",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Battle as Chrom, Lissa, Marth, Corrin, Xander and more!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "13.40 GiB"
 }

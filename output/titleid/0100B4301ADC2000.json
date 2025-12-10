@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bcb5fd512e2277bd92cfa1bfb102429e8948e78b0b4f0a571d9ce15eed171af.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Action"
+	],
+	"intro": "A modern arcade racing game inspired by the retro classics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

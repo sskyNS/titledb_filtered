@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b403df1f1650cbb0ee970150fd2f1bec173f55c86c23ca02e31019a079e01d53.jpg"
 	],
 	"releaseDate": 20190215,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Become the best car mechanic!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

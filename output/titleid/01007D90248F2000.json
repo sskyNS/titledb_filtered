@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c857cffbe571695758c19416424f6c3b559c4af5dfb5619c2fdf129d2168225.jpg"
 	],
 	"releaseDate": 20250806,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Enjoy this puzzle game featuring K-POP-inspired characters! Unlock idols and relax with a music gallery full of K-POP songs. Rhythm, style, and fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

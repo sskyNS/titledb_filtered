@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b7ebd72b0e58fcc37864be5caa2f4b30f371ae54131b3a9f5a8315af41ed597.jpg"
 	],
 	"releaseDate": 20180511,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Pinball Arcade is the most realistic and comprehensive pinball simulation ever created!\n\nPlay digital versions of over 35 real pinball tables including Mary Shelley's Frankenstein\u2122, Ghostbusters\u2122 Premium, Star Trek\u2122 Vengeance Premium, Mustang\u00ae Premium \"Boss\", Doctor Who Master of Time, Wipeout\u2122, and Tee'd Off\u2122!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.11 GiB"
 }

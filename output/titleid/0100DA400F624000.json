@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fd9cdaf9663cd979db3ef47a495d6ce2f61f434908703a056ec6ef701333d6e.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Two heads are better than one!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.26 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac5d409896acf74a54f19c40080025e61f7f44351a1a8291ba44d3911a8b6c23.jpg"
 	],
 	"releaseDate": 20200110,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Go on a dangerous journey into the heart of asteroid to save humanity from disaster!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

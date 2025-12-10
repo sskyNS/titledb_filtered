@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/62d673d75ec2cf77b8faff63596275a3e0b5c42bacaa276f7297e899e52b1054.jpg"
 	],
 	"releaseDate": 20220506,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Dungetris is a game in a Rogue-like genre with an original system of building a level and the elements of a card game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

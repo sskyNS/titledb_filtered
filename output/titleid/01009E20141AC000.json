@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/73e519c620f905a4f8bf635aaedf39fa2a1ba7c9042d98c139b6622515a733c4.jpg"
 	],
 	"releaseDate": 20220222,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "SOL CRESTA, rise like the phoenix and take back the sun!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.97 GiB"
 }

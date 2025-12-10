@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2638495d4bee8f361d0a078ae166a86913f178107ab9fb81c6ea2f0f09de23e5.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A cozy time-nudging adventure on a tiny planet full of adorable animal friends. Walk through time in both directions as you help your friends celebrate the passing of each season!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "344 MiB"
 }

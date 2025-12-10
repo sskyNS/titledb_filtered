@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7cb3d47d333e28b909e5c9de5e50c48ece6afaa27867f763bb90ed6928ba28e.jpg"
 	],
 	"releaseDate": 20180223,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Only you can help the Twin Robots pass their tests and escape the old factory in one piece!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "410 MiB"
 }

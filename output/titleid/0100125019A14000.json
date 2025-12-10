@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/30dd87ba2ff42f3942b7f0c3085c6658fc5c37db534e5f287f87ecf7e0365649.jpg"
 	],
 	"releaseDate": 20230322,
+	"category": [
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Have a Nice Death is a 2D action roguelike where you play as an overworked Death, whose employees have run rampant, completely throwing off the balance of souls - and his vacation.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

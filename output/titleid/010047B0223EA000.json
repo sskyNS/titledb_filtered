@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a99a4444f3394e54e3e57dfde962c72164b95da57fd1cf49a51c84d2c39d764.jpg"
 	],
 	"releaseDate": 20250328,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Show the world that the true hero lives in each of us!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

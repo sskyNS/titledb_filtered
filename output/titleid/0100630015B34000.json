@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e32d91ef34b2694c254096ad3f5933f97b5fc548368e2fe1d807ece93a2a8c2b.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Build your deck, amaze your audience and build a circus empire!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

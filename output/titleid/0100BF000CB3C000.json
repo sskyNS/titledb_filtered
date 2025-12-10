@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a25cc660bd3f109f2e718c273d24b2fe2f4f626b2a7f81ec83bc65c16ad18b2c.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Protect the universe from mysterious enemies and preserve peace in Captain StarONE!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

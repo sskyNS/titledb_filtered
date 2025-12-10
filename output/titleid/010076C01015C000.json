@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/68102a4d5e6559b34caaeaf493550000a5a2bb0441938aaadf0bf648c54a15e9.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Become the Ultimate Battlemage\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.15 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/33bc94d068078665ed711c60326efa0438e35294e12caef81cf32170fd146574.jpg"
 	],
 	"releaseDate": 20221219,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "This game is a highly stylized action-packed flight combat simulator game. Have fun making aliens explode while experiencing the sensation of flying. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.16 GiB"
 }

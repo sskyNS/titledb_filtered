@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dff1aaf257b1a57211a4aeaa31afc7057c15041739edff182384d4744ce068c0.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Become an ace motorcycle mechanic!\nBuy used motorcycles, repair, and sell them for a profit.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.03 GiB"
 }

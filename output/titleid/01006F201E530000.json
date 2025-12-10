@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7705f389b04c458fcb93d9ed6eeee55fd320647fa186cb5cf56be72d4e49df73.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "What would you do if you found yourself in a slasher film?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "988 MiB"
 }

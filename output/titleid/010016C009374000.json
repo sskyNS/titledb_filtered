@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a67846616e91ef52bd6b59abc663e61e57f11fe414e87b290041a44f99fe825a.jpg"
 	],
 	"releaseDate": 20180329,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Lode Runner, the Action Puzzle masterpiece is back!\nRegain stolen gold from the enemies in the labyrinth! Play with your friends in Local Multiplayer Mode! Create levels and characters and share with players all around the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "352 MiB"
 }

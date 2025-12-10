@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd353dcc850eed22768852c8ddef05ec1fd1cbef0fafc14a89ddfc7098108ad8.jpg"
 	],
 	"releaseDate": 20200128,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Can you make it through endless hordes of brain-eating aliens? We mean, like, with your brain intact and everything. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.55 GiB"
 }

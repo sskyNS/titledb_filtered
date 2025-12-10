@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0d6cc1eb79ae30f97a02de6cc3b6aecf6efab78fabfbe07e8ca186c7c44a36c.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Simulation",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Dive in and survey a mysterious underwater world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.01 GiB"
 }

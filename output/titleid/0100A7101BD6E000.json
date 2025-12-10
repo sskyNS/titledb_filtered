@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb6566385a2725539fbc620f4d8430528d732af3a3c1fc933ea2fbed0f1e2364.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Load up and roll out, in this twin stick shooter with roguelike progression! Blast your way through arcade-style levels, using pinball-style physics mixed with devastating weapons. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.41 GiB"
 }

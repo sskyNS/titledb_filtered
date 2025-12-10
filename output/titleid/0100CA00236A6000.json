@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f356303422976ec33cd6e68e567b2dc704a9856e04fb9bc861231c2dc4da4273.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Become humanity's last hope. Gear up, upgrade, and unleash hell in a relentless third-person sci-fi shooter against a ruthless robotic army. The future is yours to forge in fire and steel.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "442 MiB"
 }

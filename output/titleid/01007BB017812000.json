@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/40a79753e019032d780a77db82af42bad27654767dfd43b2f701addb67f73254.jpg"
 	],
 	"releaseDate": 20220628,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "In Portal, you\u2019ll use a highly experimental portal device to solve physical puzzles and challenges. Maneuver objects--and yourself--through space to puzzle your way through the mysterious Aperture Science Laboratories.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

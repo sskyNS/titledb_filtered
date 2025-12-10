@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fc53874a0494f9d36f2070b8e5c27e279768aaf87ea1e1e9a2665fd13cd801a.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "An epic, hand animated, Metroidvania adventure with swashbuckling pirate rats!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "7.65 GiB"
 }

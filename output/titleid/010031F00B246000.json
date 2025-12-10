@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/175a34bb53988b8d533d36b29a849746158395114e9bd712677889e6aae273b2.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Communication",
+		"Other"
+	],
+	"intro": "Whoever you are, whatever you are and where ever you are, you're in the middle - that's the game.",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8608b85400c6e616f17dffd79d91981a182b17f779547a922c785c33b2e787ba.jpg"
 	],
 	"releaseDate": 20250711,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Grow your own farm all by yourself, or cooperate with your friends in the long awaited sequel to the cozy, relaxing farming experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "948 MiB"
 }

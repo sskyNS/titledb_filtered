@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/40295d5314f586a243e66586a8272bf3cf1d35028f9f3401145cc8174833676d.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "//// SENTRY // ACTIVATED\n//// ELIMINATE // HOSTILE // INTRUDERS ////",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

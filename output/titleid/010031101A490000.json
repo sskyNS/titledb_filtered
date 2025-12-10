@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ee6dfa374661c355129f4de3dc9c1d5d70f39cfd75a3d62606caf164605b36.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Experience the side-scrolling beat'em up with the heart of a fighting game and hardcore pixel art anime action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.62 GiB"
 }

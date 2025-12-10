@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7cd03f19cbc3ea526b80b39e776bc1e708187ca36f8d5aeae802360a986776a.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Race tiny vehicles on tiny tracks!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "64 MiB"
 }

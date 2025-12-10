@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/593e93e67ace968cb2b1109855fd12cba33dd355c73a99c10a1c5a753c95728e.jpg"
 	],
 	"releaseDate": 20220110,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "What's more important: the fate of the world or the destiny of your family?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

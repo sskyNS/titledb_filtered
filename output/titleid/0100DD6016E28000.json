@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c01454513a91ddbc0014273b8d172c44b8290ab4f3f611c437664e4d8fb61af9.jpg"
 	],
 	"releaseDate": 20220928,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Climbing game that will take you on adventures to all corners of the globe.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

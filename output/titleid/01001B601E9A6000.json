@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8b60cff56ae96721725a9be5911ab7fd23b4b5c05cf313e74de5becbb59abac.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Help Aero rescue his friends and girlfriend, so everyone can enjoy the circus again!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "133 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b7d899ef5ef8a1231d56a17a9f6436fbc1d503837c6bd51a7c4777076621f61.jpg"
 	],
 	"releaseDate": 20190508,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Meet the kitties, the main heroes of the new go-kart racing game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.48 GiB"
 }

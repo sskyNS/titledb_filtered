@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc96c27ab05f1aca6d57e09c610ed1a23f64e19f2498235af24a6c9c8e0803d1.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Action",
+		"Party",
+		"Communication",
+		"Board Game"
+	],
+	"intro": "It's a classwide eraser battle!\nBe the last one surviving!\nGet ready for a battle royale right on your desk!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "397 MiB"
 }

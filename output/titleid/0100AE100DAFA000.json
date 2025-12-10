@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/839b8d0da8210b561529b3544fd4e9371a88c4d8e8053950e6017a5f9b0c69ac.jpg"
 	],
 	"releaseDate": 20200805,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Welcome aboard your airship, captain! Steam Tactics is an RPG about steampunk airships with tactical turn-based combat.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

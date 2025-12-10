@@ -8,5 +8,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a859c65f4bc037cdbad0b01d5e1df47a70541d9e412d565c3a3461934adfdb4a.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Narrative stealth-action game exploring the perils of government surveillance. government surveillance.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.42 GiB"
 }

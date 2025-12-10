@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/48be52c2d98fff48c92a2d9ead1d743bc951457de120aa618cd0ef814fb55974.jpg"
 	],
 	"releaseDate": 20240703,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "River Tails: Stronger Together is a 3D co-op adventure platformer with a colourful cartoon aesthetic.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.21 GiB"
 }

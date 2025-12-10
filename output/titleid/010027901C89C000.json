@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/73f0064355a3ec4bda40df023eb03014e82c9861ffc5cc72cf8e36c3bf9b27ba.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Multiplayer"
+	],
+	"intro": "Embark on a cozy adventure with Hello Kitty and Friends and restore an abandoned island to its former glory.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.08 GiB"
 }

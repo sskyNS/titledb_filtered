@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/48d4328ae2647bb4da9d9adc885cd39a3a6ca585769b292920b7f5c535257346.jpg"
 	],
 	"releaseDate": 20240326,
+	"category": [
+		"Education",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Child-friendly & colorful introduction to farming.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "927 MiB"
 }

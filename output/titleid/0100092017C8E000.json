@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b2526e77a93da80f3d08bb5134085db9779266061d91760d02379327f82417e.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Bang! Poom Poom! Blam! Boom!  ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.16 GiB"
 }

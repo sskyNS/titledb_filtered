@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dee043e304102f5afc436b0bff08b36c308a02032273ffb9354539d71b5e0444.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Platformer",
+		"Strategy",
+		"Practical",
+		"Other"
+	],
+	"intro": "The dynamic scenario, fluid mechanics and the laws of physics must be manipulated correctly to achieve the goal. Find the city of Underland!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

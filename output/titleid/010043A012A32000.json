@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfc911c794e10d9b8019ff807514bb5cf5c13327dd5a7f550001663fcfd47f6c.jpg"
 	],
 	"releaseDate": 20201020,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Practical",
+		"Training"
+	],
+	"intro": "A puzzle game inspired in Blackjack but with a new way to enjoy the Blackjack hands.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

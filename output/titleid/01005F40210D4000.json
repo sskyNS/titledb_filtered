@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d554dd036d743a9d3e19456f0cb6db637b99c8aa13479a21be8962abb026f190.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Arcade",
+		"Party"
+	],
+	"intro": "In SHOP SIMULATOR: PET SHOP, you can fulfill your dream of running a pet store.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

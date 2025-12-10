@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/117121c1fcd748521dc5f127effe8950278e346970266908fc3992e2b8d9d098.jpg"
 	],
 	"releaseDate": 20200129,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Characters from all the iconic Arc System Works franchises, including Guilty Gear, and BlazBlue, all meet in a 2D pixel art side-scrolling action games!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "304 MiB"
 }

@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/98e81af169f4388ab4bd82a6c49b4961f1d8266b60945721508856100cc88294.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Music",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Unleash your musical genius with WEJAM and make music with people from around the world in real-time. Its intuitive design allows anyone to create stunning grooves.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

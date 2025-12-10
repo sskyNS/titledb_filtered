@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/10af564911c1b9b8c3727b1544329fe6c8516d7bf3ebf0a9f56233efdab1225b.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Explore, gather resources, build defenses, and prepare for battle!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

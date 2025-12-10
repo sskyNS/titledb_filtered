@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/598b230f0e3cea33e2dad198f884a0f23739f8f3721c4a44e844ea006bc7cd7d.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The definitive top down racer",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "649 MiB"
 }

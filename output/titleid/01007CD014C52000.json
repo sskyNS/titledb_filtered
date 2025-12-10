@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/070a54f6f8f7dcf507dcd682e950a2123483f48597d798b02a2ba197d8a9a7c2.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Darker Skies - Survival Horror set after the War of the Worlds. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.11 GiB"
 }

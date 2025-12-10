@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/89701584b5aa0667fa11a642ad4fdac7583880a9c694940426466d64898816aa.jpg"
 	],
 	"releaseDate": 20210622,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A precise 2D platformer with a twist. NO JUMPING. Master your magnetic powers to beat each level with speed and skill.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

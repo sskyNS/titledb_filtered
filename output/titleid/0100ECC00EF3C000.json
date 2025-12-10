@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c374cfea58d8ae85156358637737ab1af95bdca42c977c4fc88cd54275eaf390.jpg"
 	],
 	"releaseDate": 20190830,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Hook your way to defeat the monstrous Skyfish!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

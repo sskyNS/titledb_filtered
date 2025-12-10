@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbfe308f77c3e8074d549e7f78d94700d4cda4d773582e567a1e9e305821dfe9.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Turn into a raging force of destruction or a super speedy gnome to overcome Geki Yaba's ultimate challenge. \nDo you have what it takes to save the princess in peril?",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "692 MiB"
 }

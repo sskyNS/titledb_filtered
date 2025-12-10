@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf30c6466b7860cc971fe2d417377726c83f291567eba80edb5d814df85241c3.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "In a country where women hold all the power, a bandit aspires to take the crown.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/28b3925a29a20f2586880c4dfd6461ad8dc20d45475fc187c114796d37bfcbb0.jpg"
 	],
 	"releaseDate": 20250122,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "An epic RPG/Action Adventure game. With focus on gauntlet-style combat, traps, boss fights and beautiful pixel-art scenery.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "536 MiB"
 }

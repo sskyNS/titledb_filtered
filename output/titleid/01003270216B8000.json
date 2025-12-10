@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/673c086f42524e5dd6feb622c0b6b366517a41ad75bee7dfb91ea7d031ff076e.jpg"
 	],
 	"releaseDate": 20250207,
+	"category": [
+		"Action"
+	],
+	"intro": "The epic adventure of Beef Cat and his friends begins.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

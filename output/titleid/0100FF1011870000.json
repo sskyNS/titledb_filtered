@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bca6f484e94556557e557d01a460ace50033ed07c230128b05561437161d2e7c.jpg"
 	],
 	"releaseDate": 20200410,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Welcome to Depixtion, a relaxing puzzle game where you create beautiful works of art using logic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

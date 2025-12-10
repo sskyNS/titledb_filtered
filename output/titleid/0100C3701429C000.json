@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3a32f0bfb0f6eb2c242bae8875065028a9a1f0dbe37aa68ed83fc9c16f8bcfc.jpg"
 	],
 	"releaseDate": 20210505,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Party",
+		"Racing"
+	],
+	"intro": "With one of these two games you can be a sniper or an application driver. Both very crazy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f415c9ef8b22b5ba3e599d0f66faf93117b78de0efb0f2bd0c067b154c82fa3.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "The Nameless: Slay Dragon is like a mix of CRPG and JRPG.\nIn short - how to slay the immensely powerful and cunning evil dragon?",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.65 GiB"
 }

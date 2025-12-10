@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf6105ddc64b841de5666d172fa7b5d3685a2098379b6fe6458569d624da4582.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "The fun and unique high quality Halloween puzzle for children. Contains a variety of child-friendly spooky motifs. Difficulty is adjustable.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

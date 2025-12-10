@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a442c3d16b971c2d7a505d011f2ee1343eee52dd349cceb7472571c1de5fd859.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Transform an abandoned fuel station into a thriving business hub! Manage, customize, and expand your empire!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "426 MiB"
 }

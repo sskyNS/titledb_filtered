@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12ae3da5796f5ee218b93352ce2e76bc6044af6f23e55f1ca5436b3e0e7127e0.jpg"
 	],
 	"releaseDate": 20250917,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Tralalero, a blue shark with legs and sneakers, embarks on an absurd and chaotic adventure to recover his lost voice in a bugged world filled with betrayals and humor.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "359 MiB"
 }

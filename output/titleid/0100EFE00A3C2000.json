@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aff8ef96b937222d291c7167a269ea9908a4c231e22d0c22c283795512a3287a.jpg"
 	],
 	"releaseDate": 20201031,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "You\u2019re alone. No one will save you and what\u2019s worse, it was your choice\u2026\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "708 MiB"
 }

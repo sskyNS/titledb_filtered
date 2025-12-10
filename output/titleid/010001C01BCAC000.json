@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffa4c8aeb0e067e5d71c13e31173c612fb8dffbd1a2922f77c66ba61077cc1ca.jpg"
 	],
 	"releaseDate": 20240110,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "3rd-person Action-Adventure game with stealth and puzzle solving.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/58807f9bafbf60033f3b311f66cb69a9b3bfdddec3e8a8cde077a126750a11ae.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Party",
+		"Action"
+	],
+	"intro": "In the shadows of abandoned warehouses, tiny kittens await a feline hero to rescue them and scavenge for food.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.07 GiB"
 }

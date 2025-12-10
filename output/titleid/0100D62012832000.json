@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/94a7675acb06a2e93937df182c0f841bc8a76abd45a127bfd244d9509e4e5fcc.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Will you find a way to escape, with or without other survivors?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

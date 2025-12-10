@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4224f528ae1fe01f14d77e78330b65d3b88a628758c5128f76629bb801c4f430.jpg"
 	],
 	"releaseDate": 20210822,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Dark times are looming upon Sarook Kingdom...\nThe Kingdom can feel the burning souls of the calamity...\nSarook will fall again...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.08 GiB"
 }

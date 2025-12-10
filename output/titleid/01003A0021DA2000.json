@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/76f3205b6f83339251367a3fbe303a5d9a3acb32b1391830ccba6f0a18094fe4.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "In a remote provincial town, teenagers mysteriously disappear every 25 years. You're a high school student about to turn 18... But what if you become the next victim?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

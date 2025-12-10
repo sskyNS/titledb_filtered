@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/245b7400867f91cc33c9910cadf3c155d45bc23871e4afa01d9855a8843512f8.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Transform into letters to overcome platforming challenges and save your friend from evil King in this crayon-style adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

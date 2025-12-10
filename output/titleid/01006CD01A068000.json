@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba0df1137fe564d018c19925f9aa14464878715b41c5ad323c226f8474a31993.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Video",
+		"Other"
+	],
+	"intro": "An award-winning indie adventure game about a hospitalized Boy who travels with his Mom to a beautiful fantasy world. Includes an extra game and a 3D animated film collection!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "391 MiB"
 }

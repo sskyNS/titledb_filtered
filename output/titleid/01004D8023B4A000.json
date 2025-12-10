@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/47934b6a6d098c0dfd30d5da44cd5494447669737706326b50da2640964fb756.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Gearbits is a 3D action game with a nostalgic retro aesthetic. Pilot a giant mech, fight massive swarms of vicious giant insects and face off against enemy pilots! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "541 MiB"
 }

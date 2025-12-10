@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/be145d854a88950a251c53d5a7278e5c430f3b434094b65530470531a6858c3d.jpg"
 	],
 	"releaseDate": 20241122,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "In tiny Cats, play as a magic girl exploring a mysterious house. Find, save, and purify hidden cat while uncovering secrets. Each chapter brings new surprises and more cats to collect.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "158 MiB"
 }

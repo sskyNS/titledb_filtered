@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d9df9187d12a8c394d08d631dd8a1a2ca01ef47d850b3ded4060622502701a0.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"Multiplayer",
+		"Communication",
+		"Party",
+		"Other"
+	],
+	"intro": "An online and local party game of teamwork and betrayal for 4-15 players...in space! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

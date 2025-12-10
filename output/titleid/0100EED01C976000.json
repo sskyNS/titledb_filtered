@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/84446da5d1998553f585ec18b699452b89e051053e07bd08d2fc5b794f3f4723.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Adventure",
+		"Action",
+		"Training",
+		"Strategy"
+	],
+	"intro": "Travel the world and catch many creatures to build your team and become the biggest Toonsters collector!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "412 MiB"
 }

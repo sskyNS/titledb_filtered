@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/aba641dbc7d047e03cf52b067142d40e2fb13109dda4505fd164f18065c5e302.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A heartfelt adventure game about taking your grandmother on a walk after she's lost her confidence from a scary fall. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

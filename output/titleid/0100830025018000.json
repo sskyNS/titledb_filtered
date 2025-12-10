@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d95f3076d150c4e56bfed1c64faef14a34e7a748059fb37757eed6fa0e755961.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "An action-packed pseudo-3D shoot-'em-up.\nControl the special armored vehicle INTER-GRAY in third-person view, Strike through the night once more!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "302 MiB"
 }

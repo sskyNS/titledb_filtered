@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9baaab86ecf5d3573ac053879cab3c7614db5edb9baf039e6f260eb405e3a8f.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Face the judgment of winter\u2019s deadly toll as you lead the first Viking clans to settle Iceland in this non-violent, roguelite survival base builder.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "257 MiB"
 }

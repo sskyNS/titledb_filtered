@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1281797ae4dead37ea071f711cd0bbe4c5faddbbd07a9671e0a99f8a9e46363.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Lifestyle",
+		"Education"
+	],
+	"intro": "Embark on a Zen Puzzle Adventure \u2013 Over 900 Levels of Mindful Strategy and Endless Fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

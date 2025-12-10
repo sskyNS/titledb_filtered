@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7643c2accdb8cafa54b8881586725f792e6edb68bfa072815290a087ce98b29d.jpg"
 	],
 	"releaseDate": 20201111,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Area 86 is a physics-based escape room puzzle game.\nControl your robot in an interactive environment.\nPush, pick, throw, activate, or destroy objects to escape.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

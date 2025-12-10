@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/89804245afd39f5f1b845f719c7c49f4a7c01a141c2a10e2c47da01f51184c58.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The world is not ready for the likes of us.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.52 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/36310db453a1c1a8f8ed992738ed5630956994abefb1de61fa1295a4c87e3f79.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "Join with up to four players in this Hectic twin stick bullet bouncing frenzy",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "485 MiB"
 }

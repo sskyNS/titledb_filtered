@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/523b6016dc05e27580a2c8de19e0d128beed0c8ddf2508b11dc5c0df5de0c285.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Fly! Fight! Destroy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "96 MiB"
 }

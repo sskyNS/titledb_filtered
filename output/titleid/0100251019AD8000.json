@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/783f3c8eeec9f8082dd06c3a335b0065d6a55c3adcf774a12bfca5ccfb3a91dc.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Manage 15 cannons attached to a huge battleship\nand shoot down the enemies that appear.\nThis is an exhilarating tower defense shooting game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "194 MiB"
 }

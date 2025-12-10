@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9f9c663bd5915fa07a9d4533cc3acacc15d4d639d6a0eaf0bcfe2940374b953.jpg"
 	],
 	"releaseDate": 20180702,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Action",
+		"Sports"
+	],
+	"intro": "One part tennis, other part magical beat down! Play solo or compete with friends by battling across fantastical realms and unleash the power of the Spirit Spheres!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "331 MiB"
 }

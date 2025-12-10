@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/73b21ec5479366c16d89c259f27c92b4fae8b43639cbce5314d2a3ab237ae7c0.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "This game combines card strategy and marble ejection.\nPlayers can explore, take risks, trade, and recruit mercenaries in randomly generated dungeons and towns.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

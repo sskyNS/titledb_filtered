@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e35bfeffe95573066dbb261a6d46600de97d14fc59eecc22cdf5367b01dfa70e.jpg"
 	],
 	"releaseDate": 20200317,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "548 MiB"
 }

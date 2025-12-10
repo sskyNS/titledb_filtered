@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c010c96fc08686bd3e271481565b229bb90722384b00836b5fb2d829d989d3e3.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Adventure",
+		"Action",
+		"Study",
+		"Communication"
+	],
+	"intro": "A visual novel where a detective must solve intriguing criminal cases while navigating the complexities of his personal relationships.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

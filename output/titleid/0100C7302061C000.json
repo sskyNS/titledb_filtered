@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c26e07fc3a63809f0474f6f403a7f174e6327980337589a53169860dcf55cc5e.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A cozy narrative game about nostalgia and the passage of time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.78 GiB"
 }

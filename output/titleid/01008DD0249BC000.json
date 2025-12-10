@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf084137997209c2ad031878611934a8e64fba4f9da87504d30c9840fdf10ed8.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Blaze through the streets of a future NYC in this 2D run-and-gun, in 1P or 2P!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.30 GiB"
 }

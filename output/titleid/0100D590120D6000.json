@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e37a46728a01335c7d72f39bd019e2faeddb771f8761a3f62516af5d9cb97864.jpg"
 	],
 	"releaseDate": 20200824,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "When MOM needs help, transform yourself and go on a journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

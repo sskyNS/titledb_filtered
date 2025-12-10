@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2860ca122a824850455be21b3ce4875c42e9431e14936b17318a381ae7f4bb38.jpg"
 	],
 	"releaseDate": 20240214,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Embark on a quest for revenge in Lords of Exile.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

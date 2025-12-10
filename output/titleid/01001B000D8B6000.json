@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/14280cdfc83a9f06da6cca2545b35a9c11b570adfeb2130829dc2bb6af47223a.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "It's time for the sheriff to get on his horse and race across the wild western frontier to take down the outlaws!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "70 MiB"
 }

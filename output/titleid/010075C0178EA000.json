@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/523370cdf1445c720465a8735fee9c67fb33ca827d0837e5018a888233f8d5c6.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "A large gathering of people who like tennis!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "110 MiB"
 }

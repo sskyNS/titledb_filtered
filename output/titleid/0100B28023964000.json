@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/183676a5e1d02a3bbde2cb9250a6fddced9e8bb8812451490af085a4e93290a2.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Become the co-author of an amazing book! All you have to do is choose which of the four lovely heroines will inspire you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "785 MiB"
 }

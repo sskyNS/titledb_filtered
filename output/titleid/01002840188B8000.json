@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f913acadf8879b2aba37260df85cbb41e0d178ac5a53d284c672015531cf6b9e.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"\u683c\u95d8",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u6709\u540d\u306a\u6f2b\u753b\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fcLauren Faust\u304c\u30c7\u30b6\u30a4\u30f3\u3057\u305f\u3001\u304b\u308f\u3044\u3044\u52d5\u7269\u305f\u3061\u304c\u767b\u5834\u3059\u308b2D\u683c\u95d8\u30b2\u30fc\u30e0\u3067\u3059\u3002\u30ad\u30e5\u30fc\u30c8\u3067\u30d5\u30ab\u30d5\u30ab\u306a\u5916\u898b\u306e\u4e0b\u306b\u6f5c\u3093\u3067\u3044\u308b\u306e\u306f\u3001\u771f\u5263\u306a\u30d5\u30a1\u30a4\u30bf\u30fc\u3067\u3059\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.72 GiB"
 }

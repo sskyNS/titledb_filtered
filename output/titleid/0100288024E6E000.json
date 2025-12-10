@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/24fd9785cd08824daf188183593d30170b5cb7d6d62eed16a6eb94a4bff7c976.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Unleash the silent fury of a true ninja and uncover the secrets of the Five Moons",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

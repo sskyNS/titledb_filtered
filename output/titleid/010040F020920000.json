@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb6ab33eb05e76585d6fad1d4ef026b945d96a0df03e86e9abb7a71889adca9e.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "Survive the zombie apocalypse! Kill zombies to stay alive in this thrilling game. Experience 2-player arcade-style gameplay and cooperate to defeat approaching zombies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.99 GiB"
 }

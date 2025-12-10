@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/05207e8b53806bc990257cf83858aadaef6d15cd92b9f183c8cb134b1b8908bf.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Assist alien pods to land safely, solve retro puzzles that come with unique mechanics in this ambient sci-fi adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

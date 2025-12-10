@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/95ba51970fef7664665553da65aa202542a1931ed2501604ead74566253fefcb.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "Puts the PUNCH!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

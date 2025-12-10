@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc1949e09014418c8cb5cc0c59f0e466ea13b6a2c84ea56ab9dbe2b978ff71ec.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Beat \u2018em up and Retro Arcade game enjoyers \u2013 welcome to the world of Pangea!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

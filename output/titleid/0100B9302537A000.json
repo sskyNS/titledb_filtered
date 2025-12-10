@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf5ac7149422ff789f3c22edda10ac39c49ed65f11e92c6cf616fd7a84073bc0.jpg"
 	],
 	"releaseDate": 20250909,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Join Buzzy, an energetic bee, along with his friends Lilo the ladybug, Tito the beetle, and Rocco the grasshopper in this exciting visual novel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "305 MiB"
 }

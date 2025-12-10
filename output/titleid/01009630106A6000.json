@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b73be199e584065685cee75c50bbdfd52ea92d493066ccbdb7b4df6ea59b529.jpg"
 	],
 	"releaseDate": 20200501,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Can you run and gun past the bosses?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

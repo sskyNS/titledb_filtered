@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f621d54e7e0be0b436ec420ecedc24c5e70e22a0fba44083dfebdf1aee413f0.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Ramming speed!\nFull speed ahead in the MOTOS.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc4282b339267b7718ce302f9dca98478f3e241b2e1561c1da1dcf9b7a912e5c.jpg"
 	],
 	"releaseDate": 20230329,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Gripper is a story-driven action game with boss fights on wheels. Tear your enemies apart with a grappling hook. Rip out their metal hearts to gain abilities. Rescue your family.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

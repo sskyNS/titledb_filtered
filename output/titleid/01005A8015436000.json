@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/acba74688df9ed1822b70a43fd9c285316a1f99f724f75902fc1523be0a85ed7.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "You are Binary Boy, an agent of OS Omega and your goal is to defeat the virus that wants to format the C drive of the computer you must protect.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "442 MiB"
 }

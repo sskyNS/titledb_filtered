@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c58947dbb42291a73ea56f8228f32b2b28bef281ace70b4971fc1e906ce3a281.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A gravity defying puzzle platform paint adventure, about breaking rules, being upside down and thinking outside the box. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

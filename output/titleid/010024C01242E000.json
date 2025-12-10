@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e0c81f8ba94b131fa70d45bce0ee0581bb507ca8fa2cf3e7ddb1ace5787bc5a.jpg"
 	],
 	"releaseDate": 20200706,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Armed to the teeth and equipped with your trusty laser-diggers, you must fight your way to the depths of the planet, find the source of the alien threat and eliminate it!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "492 MiB"
 }

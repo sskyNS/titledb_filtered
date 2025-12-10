@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c7b2b1eedb4d76524cc4799d28243e4b629323435dc8a42db98c5338101cb78.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Solve logical riddles in this simple, yet challenging game based on the classic star battle format.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

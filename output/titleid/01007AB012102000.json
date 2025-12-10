@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/025f021dde5ce9e45bfc7e082649db14b9c54c40ea482d91f5b379d0e701053e.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in a bizarre black-and-white world with color accents.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

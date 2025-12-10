@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/70f71ce89cc390a931dd5846848b868e71084011243977faa565d05b745e0d07.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Welcome to Local News, it's the small-town-celebrity Cliff Rockslide (seven subscribers, ahem) with his trustworthy cameraperson, YOU!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/896d88d34fd456c713c6667ff503918ff1895cb10e55e030015b0ed32561715a.jpg"
 	],
 	"releaseDate": 20250801,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "The biggest adventures come in small packages!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "97 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/45aca375c34277ec6a242e691ff8bbcd7ab6162c06180aa211baf06d2d92d5d8.jpg"
 	],
 	"releaseDate": 20191001,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Face the infamous Afrika Korps of World War 2 in this award-winning third-person shooter. You are the turning point. Because one bullet can change history...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.34 GiB"
 }

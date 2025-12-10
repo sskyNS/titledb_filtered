@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/737921e9a156ad10f355c604357a3f5c848e040255cda7a9f8a29f40d6e6fd83.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Racing",
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A retrofuturistic racing-shooting game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.13 GiB"
 }

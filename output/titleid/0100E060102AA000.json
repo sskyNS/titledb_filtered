@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/aead540b6bdd9941977af2b3427c3132e3ece1b9741a33104905c04230f84815.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "A story focused spaghetti western platformer with tactical turn-based combat, taking place in a completely hand drawn harsh world inhabited by insects.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4221ea212f9590a873025fb4c9b7edd3925aaedb377728a4af24ca9b627950eb.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "A popular dinosaur for kids appears in the game!\nLet's swell with a simple game that can be enjoyed by the family!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "392 MiB"
 }

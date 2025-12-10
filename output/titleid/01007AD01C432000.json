@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c1fe5c152e6e0bf77e54da0de5bc217c7cdfcc73b4b6e8ae250ed0d21eded14.jpg"
 	],
 	"releaseDate": 20240722,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "SNK and CAPCOM legends clash in this star-studded crossover fighting game!",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "302 MiB"
 }

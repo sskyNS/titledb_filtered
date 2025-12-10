@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/211bf9a993885462aa93ef543f88dc44074f22cbfbbedbdf05366f3f1d2446ed.jpg"
 	],
 	"releaseDate": 20250910,
+	"category": [
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Try your luck or manipulate the game in your favor using special powers in a fast-paced gambling experience!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

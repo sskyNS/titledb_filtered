@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bae125e01cac4203066251fec10ff90f9b6059bacb36ec45ae58245f30519e3a.jpg"
 	],
 	"releaseDate": 20210707,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Join the ranks of the Unavowed, and fight against the oncoming darkness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

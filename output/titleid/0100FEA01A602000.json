@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aff8a3a3a6b4996b02d41b5301611ccf3a8b7104af38c50451536bd1275be3dc.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Strategy"
+	],
+	"intro": "You'll face the challenge of accurately measuring your jumps to land where you intend to...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

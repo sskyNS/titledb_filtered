@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d39d80c645a496d6ee719fa95cf0d224faad765eafe0af646d21f4bf7310c074.jpg"
 	],
 	"releaseDate": 20251007,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Uncover the secret of the girls, step by step!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

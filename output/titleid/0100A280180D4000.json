@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c6e5f1f6c031edac5a271674992a2109d61bb4d53054ee343d1a401c09497cf.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Jurassic World Aftermath Collection is a suspenseful survival adventure. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

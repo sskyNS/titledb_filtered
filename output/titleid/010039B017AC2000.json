@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53e76819546d9519f8e881d0787583dbe0b8a379a2b8cf277ee56e0ce8626faf.jpg"
 	],
 	"releaseDate": 20220520,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Help sCATch to paint all colorful places",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

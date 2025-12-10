@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f75772cceec7e6b69595e36e9e57da64d58c61dd66b3dde4381636f40929f47.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Lamentum is a pixel art survival horror game, set in New England in the mid-nineteenth century.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

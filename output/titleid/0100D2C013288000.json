@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f556fb3a6e9d55f68df30c669a933355cdeea928b6fa8f8ae1eb1460291526a0.jpg"
 	],
 	"releaseDate": 20201208,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Music"
+	],
+	"intro": "Meditative rhythm ping pong",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

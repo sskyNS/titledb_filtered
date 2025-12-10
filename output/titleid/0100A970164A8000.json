@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e573d839acb5dac8db91002f66a150d4799e6e5c87c2f04927f3a78e37708dbb.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Evoke your heroes\u2019 unique, class-based abilities and attack patterns and customize your playstyle to defeat an array of enemies and giant boss monsters.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.33 GiB"
 }

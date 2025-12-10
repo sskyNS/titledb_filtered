@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/66626ddedd60d1674843f567ec40622b527455177232eef1090d62bf466ef511.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Conquer Earth as a fearsome demon in side-scrolling bullet hell style!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "578 MiB"
 }

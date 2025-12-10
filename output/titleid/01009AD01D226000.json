@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f34bda98175576dddd30ba88cc2664fb196e0426e5a17e906de2ce8d0e9d2033.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Blast your way through the Megalith, a labyrinth lodged in the side of a star.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "630 MiB"
 }

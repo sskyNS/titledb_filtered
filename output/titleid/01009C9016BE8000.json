@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b7bd8c1567ac151118d760a4a8692faf93e18506d9dbd65d49f1f5cfe255534.jpg"
 	],
 	"releaseDate": 20220621,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A visual novel about an abusive relationship, idealization, and intimacy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "902 MiB"
 }

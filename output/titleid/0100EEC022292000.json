@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6813a8f5009697e37a1259415d181fbea7506bb393b1a181f9f9e203b5bc5fbe.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Defy your cursed fate as a genie in this dark fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "262 MiB"
 }

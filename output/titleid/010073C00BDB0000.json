@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b8acdd5743ed7e7194e2966ea8ba380d7a4bc3c216f2cdfbc4dbc7a8306a3d9.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Guide Elli on her journey through the land of the Mandragora to reclaim the stolen Crystals of Time before her birthday is over!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "749 MiB"
 }

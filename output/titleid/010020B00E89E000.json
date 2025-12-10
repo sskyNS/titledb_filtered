@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d718f85913ce07622aa35f4b348408b6ef6d33de122091a6b814b81570811ee.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Simulation",
+		"Other",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Build the ultimate bowl to leap past your\nramen rivals and achieve greatness!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c7d575133e781b6fa0361ed4a783465a3d689024d85200435154a979395d41.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Show off ninja skills in the remake of a legendary dark and futuristic classic!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.15 GiB"
 }

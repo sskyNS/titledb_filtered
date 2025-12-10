@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1de23cecee76187978e585a31844be80c587717da6c9bf8726f395114f105a1.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A world where only black and white exist.\n\u201cKuro\u201dsearches for his sister in various places.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

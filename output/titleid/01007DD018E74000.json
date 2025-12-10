@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6fb6efad45618b8aadf041af90b85c631db403ba41bfd768523e9c95d5e84c5.jpg"
 	],
 	"releaseDate": 20221008,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Drive a lawn mower",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

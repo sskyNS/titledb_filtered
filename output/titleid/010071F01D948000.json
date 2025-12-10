@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ecce07a53c7dadbb22c324bc4a6ab3d48b6f7cfe4fd6ae9a16f306ce69ed1238.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A chilling horror game that will push your nerves to the limit... An abandoned house, shrouded in a dark secret with the terrifying ghost of an old woman.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

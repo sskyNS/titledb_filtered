@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a13c212aadd3c1dc0d70c91255c8dc9b3c0a1ce213181959546ad7912d316531.jpg"
 	],
 	"releaseDate": 20250614,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Party",
+		"Sports"
+	],
+	"intro": "Explore, perform, dominate the urban playground.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

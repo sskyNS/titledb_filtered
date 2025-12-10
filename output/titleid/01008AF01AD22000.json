@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/de3a8dacde012c789d36e6d94919339cd7a853f0c966c1b8047c8eaca0af25e4.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Step into Patrick\u2019s shorts and create hilarious, physics-based mayhem, as you make the open world of Bikini Bottom your playground!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "918 MiB"
 }

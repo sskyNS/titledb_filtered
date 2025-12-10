@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/35937982939c725f4bf34ddc42f8fb7945f101f5f8cc13fcd71a46f551f63ccf.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "Fire up \"Bowling Fever\" and be carried away by the emotions!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "533 MiB"
 }

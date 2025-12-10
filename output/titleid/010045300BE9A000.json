@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a01803856aeee2b4a074a0e0a1721ac62b23e141343f6ebf577e813415a7753b.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "An interactive poem and video game about two stars flying into the heavens together.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.81 GiB"
 }

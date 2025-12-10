@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2ebb7632de159b6742441b52b5604ad0877f64063f808d62c4253a401fb5340.jpg"
 	],
 	"releaseDate": 20231224,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Raccoon! Master the longboard as you drift through stunning mountain ranges, swerve through bustling city streets, and ride along the sandy beaches in Tanuki Sunset!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

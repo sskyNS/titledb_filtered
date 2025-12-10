@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b995ef2239910a5000e2dcca130e38fddbee898355231fab79dced23d3b58dc7.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.82 GiB"
 }

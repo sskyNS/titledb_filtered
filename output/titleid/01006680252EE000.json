@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/00489f6ec9e891a0f903ddb125916b2b57b12909bf9b501b2eb9fd7eb16042bc.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Survive the dangers, lead your pack, and become the jungle king.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

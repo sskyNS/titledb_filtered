@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fd63edbbcb502001087ab0f9fbd8aba7c9493eba3d087b254a56acd0dfa1317.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Super Mario Bros.\u2122 35 is playable until 3/31/2021",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

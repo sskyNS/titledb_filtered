@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2c5fd959e717539f98acf3ef4b9ba83f44faea4554fd9a6dc6e410429202d23.jpg"
 	],
 	"releaseDate": 20240702,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Take down zombies as a deadly cutie in 3D low-poly style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/40a5c9ec8344d8fd7617dd0f91ec0d5bba7386eb3fe105285fa9faf43bb9dac8.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Music"
+	],
+	"intro": "Dominate the skies in Air Duel and run and gun your way through GunForce I + II!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "164 MiB"
 }

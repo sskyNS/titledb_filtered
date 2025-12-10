@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6fadad66efa3283d1aaa2f3c3665a669348b8c4acc22db8f73bdade1125baba6.jpg"
 	],
 	"releaseDate": 20220402,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "A Hidden Object Search Game for Kids and Toddlers",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

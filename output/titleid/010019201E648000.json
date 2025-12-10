@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/131a489cdc5501ee1526afae7ca1102354237ee82348e9df39f84b423abc8e22.jpg"
 	],
 	"releaseDate": 20240531,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "It's time to show how smart you are! Test your puzzle-solving skills in this water sorting game!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

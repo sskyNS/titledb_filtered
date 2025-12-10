@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e48f84d7d0a864b598b75b50752a53e43d138e586f0abb68458ebd20ec81fab8.jpg"
 	],
 	"releaseDate": 20191122,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Strategy"
+	],
+	"intro": "Over 380 challenging puzzles in 3 different game modes! From beginners to experts! Solve tricky puzzles, approved by ancient gods! Develop your brain skills using logic and reasoning!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

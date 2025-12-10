@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/12dd547bf5f299640fd12cce387ca86337b3ed000fff417f0da47aa379f4f8da.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "All the classic games you love in one place!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "461 MiB"
 }

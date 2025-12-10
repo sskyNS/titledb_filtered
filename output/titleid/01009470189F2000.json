@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df90d8fdf203fde6bb2e7e7e0d4b75d91aff826f1618dac198a86b01b42fd175.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Do You Have What It Takes to Save the Planet of Gearus 9?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

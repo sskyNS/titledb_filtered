@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bc230a5190fcb2f31cc050b3b85dde8250a0a7ad5ec3b6c4dfb7cb85ffea2a9.jpg"
 	],
 	"releaseDate": 20190301,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "History 2048 is a familiar logic game, with beautiful graphics. Travel trough the evolution of mankind, meet with famous kings, warlords and adventurer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

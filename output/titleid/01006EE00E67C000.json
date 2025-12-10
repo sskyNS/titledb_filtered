@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/93e265d3ad4a2920e88cfa65960538da5b89a0cade6734bdee9a2bdf5692d91d.jpg"
 	],
 	"releaseDate": 20191230,
+	"category": [
+		"Fighting",
+		"Party",
+		"Action"
+	],
+	"intro": "Your judgment will influences the victory! The time has come to \"BATTO\"",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "356 MiB"
 }

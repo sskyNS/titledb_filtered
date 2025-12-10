@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/21c611036d5a8b0dd35a65e7a1d4bb51fa4a4fe147316b582e753af702ead702.jpg"
 	],
 	"releaseDate": 20180921,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Unravel a terrifying conspiracy in the enhanced edition of this epic, award winning adventure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.30 GiB"
 }

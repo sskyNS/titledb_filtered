@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/01e5fc75f97b7b4a69a5cbae48ae1ab99d0a3259d39f6d11d0366561cfa06f86.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Shoot, evade, and detonate Bombers!\n\"Neko Navy\" is an exhilarating horizontal scrolling shooter \nwhere you can shoot them up with easy controls. ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "405 MiB"
 }

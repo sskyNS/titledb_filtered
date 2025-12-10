@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd7223a4179403701f1c7fc8a47ece4a399b390a5b6c8bebe710e8469580d3d1.jpg"
 	],
 	"releaseDate": 20220330,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "The world needs you, Agent!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

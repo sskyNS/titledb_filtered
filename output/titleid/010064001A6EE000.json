@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/21d1cb9ec290369362cc47985a620373e10ad184e4681e84de12b1d0846a69c8.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Smash your way to victory solo or in a team up to 4 knights. Infinite replayable action RPG in Braveland universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.66 GiB"
 }

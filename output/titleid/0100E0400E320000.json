@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc18aa8c7d68fac4da29362509e7dbd20bb5c704cefee4d180029da237959ce2.jpg"
 	],
 	"releaseDate": 20190607,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Become a mighty Warlock in this action-packed, humorous RPG and slay the arrogant Gods that dared to stand in your way. Challenge them alone or with up to 4 friends in local co-op.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.65 GiB"
 }

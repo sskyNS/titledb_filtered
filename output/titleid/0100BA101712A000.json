@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c911d9c1e5caeee975612f1c2b0959ccd82ec47aa6ac10d87cb914a70c0448bc.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Collect, grow, and dance with your new best friends in Ooblets!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

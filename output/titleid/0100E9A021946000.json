@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/21f78fa91b8199f70b832a5171f8173246d99ec7bc70163c253c1cf948da5326.jpg"
 	],
 	"releaseDate": 20250205,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Clear the game by doing nothing, but discover the power of acceptance and patience in numerous situations from birth to death. Learn to embrace life as you wait.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.91 GiB"
 }

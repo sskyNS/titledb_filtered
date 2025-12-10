@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d346116c6f87a3cadfceda22b26e222abfcf0f752b336d2c5139f65c4e75ea04.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Slam evil against the wall!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "77 MiB"
 }

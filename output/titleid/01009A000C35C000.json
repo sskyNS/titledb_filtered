@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/48faa376c937d8941e800caba5830948e9d96ea21056914fc3c0ffa84b6401a0.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "You have inherited your grandparents farm as they set off to travel the world.  Aid Frank and Mayor Wilson in building up the town so it may reach its full potential.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.77 GiB"
 }

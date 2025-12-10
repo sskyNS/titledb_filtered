@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc4e0873fb5bf4afe7237a898cd0732226f86a67b4a846b4434d9e669e15b48c.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Don't let it escape, germs, suck it up and roll it up! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "55 MiB"
 }

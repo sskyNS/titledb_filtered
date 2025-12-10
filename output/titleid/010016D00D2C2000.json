@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/72343577dfb57407f2ba7472cdc6a5ed965c4f3e586a1ea1bcf9dacdaa8da851.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Train your team to battle to the top in this sensational soccer team simulation!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

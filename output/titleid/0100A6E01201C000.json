@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/08a0c54af3a365f9674c1a1c36f5e74fc8e3c50f4d8cb80d0c0dad21ccb4a188.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Supraland is the ultimate \"sandbox\" adventure and offers players a fresh take on puzzles, exploration, and adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "4.62 GiB"
 }

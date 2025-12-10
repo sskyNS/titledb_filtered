@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb6f7f3cb4103b269a4ee9815667d5be0eee827c3209de68a6f877cf6f451398.jpg"
 	],
 	"releaseDate": 20191206,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "There\u2019s something wrong about this house. Fate brought you there but now even your own shadow is frightening. Will you stay sane and solve the cursed mysteries?",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

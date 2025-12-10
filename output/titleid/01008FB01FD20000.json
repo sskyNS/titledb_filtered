@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/40c26edd7dd3d954f18c86d0896dbffdb00abfc8f2713587d1c1a94cfb09698e.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Rise and resist the dragons in a fantasy RPG acquiring enemy skills!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "612 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b822a5ac20ebd4cdaef710aee4159ea3bf9a41545ee1fd2de0628215b9189179.jpg"
 	],
 	"releaseDate": 20201021,
+	"category": [
+		"Shooter",
+		"Fighting",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "From the developers of NeuroVoider, ScourgeBringer is a fast-paced free-moving roguelite platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "389 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e2a07c50a024ae936b91d14398bc9420d3c50d3020cefa860fc59cce8a55878.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Experience a touching tale of a friendship between a girl and a boy, during the darkest moments of our times.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

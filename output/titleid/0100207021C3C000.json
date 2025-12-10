@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/90edc63321d657c629b9a9e667402f35eb8e32c680699886f8666ff5d73c5a42.jpg"
 	],
 	"releaseDate": 20250711,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The inky sequel to the cult classic. Survive the Ink Demon.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

@@ -4,5 +4,23 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20231017,
+	"category": [
+		"Platformer",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Enjoy the art and music of SONIC SUPERSTARS with the Digital Artbook and Mini Original Soundtrack.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "366 MiB"
 }

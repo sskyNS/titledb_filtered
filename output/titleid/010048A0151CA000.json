@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/140f6046dfa52e2ce19b4d50f48523344690881a59b30837241f778b3beadcb1.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Head Over Heels is a Classic Re-Imagined With Beautiful High Res Pixel Art and a Great Soundtrack!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

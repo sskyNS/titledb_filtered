@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/45353123744f49349fd0c437e77c117dda6cd38eead52ee8a4e9e1bbb6b0795a.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A world on the verge of doom, and the girl who holds the key. An exotic puzzle-platformer adventure game based on Aztec myth in South America.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

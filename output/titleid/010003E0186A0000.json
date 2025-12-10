@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e495662fd30cf5045eba046868e0e03bfa61ac70c0b72ec4f3e015ac98d9fa9.jpg"
 	],
 	"releaseDate": 20220722,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Easy to use puzzles for ages two and up. Featuring funny and cute animal motifs with 30 unique puzzles. 100% frustration free and child-safe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

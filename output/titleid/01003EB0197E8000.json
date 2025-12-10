@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4444617cad77a6448e2f82a7fa60e06fcbf0053d5ad95010a3e354c2c4b9a6b.jpg"
 	],
 	"releaseDate": 20221005,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Party"
+	],
+	"intro": "TribeExplorer Is an Retro style 2D Platformer. Play as the Tribe Explorer and try to beat all the different levels littered with sweet platforming, enemies, gravity puzzles and more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

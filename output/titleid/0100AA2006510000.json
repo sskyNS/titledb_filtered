@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d0b5ee87806761bf668b9ab019b593e37bc8c7e8d23bf592b78533b4e0896a1.jpg"
 	],
 	"releaseDate": 20171019,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Become a Revenant and find the truth beyond revenge in this gothic fantasy RPG with stunning 3D battles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

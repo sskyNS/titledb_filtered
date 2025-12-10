@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0fa940009e89224fda9ae22955e1d019041a461f3b1d1ae6f80aea89b89ddf05.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Study",
+		"Practical",
+		"Training",
+		"Puzzle"
+	],
+	"intro": "Let's memorize flags by solving 1000 questions!\nIf you solve all of them, you will be a flag master!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "645 MiB"
 }

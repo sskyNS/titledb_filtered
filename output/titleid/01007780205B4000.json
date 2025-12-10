@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/df8091be7f49409108fee2cb2becd263f684949a3703f9f330d73ce139de98c4.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Repair magical pots with cats!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

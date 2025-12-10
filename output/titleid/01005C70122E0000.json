@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5478a6bc882b5700557b53eed5e2af07b861ba8595bf7da2a373da33a012d4a.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Repair tractors, upgrade skills, improve your workshop.\nVery popular mechanic game with farming vehicles.\n\nNow you can find out how does the mechanic\u2019s work look like on the farm:\n- Repair the tractor and its components \n- Improve the equipment and tools \n- Choose interesting orders \n- Replace or repair damaged parts \n- Plan the purchase of spare parts \n- Perform special tasks and receive awards\n\n  In the game you will find: \n- Almost 50 different parts \n- More than 50 types of faults to be removed \n- Unlimited number of orders to perform \n- Unlimited number of special tasks",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

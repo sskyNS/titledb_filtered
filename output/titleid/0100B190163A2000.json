@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a2d068a6f2d51101a2b4be90c3bb1641ff49aaa8ce208bbbf118acbe7b9df22.jpg"
 	],
 	"releaseDate": 20220118,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Liberate your country as one of twelve unique heroines in retro side-scrolling style!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

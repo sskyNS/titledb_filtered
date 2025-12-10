@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c782371e46be73b077b4b8c4f3eeea588fc3e0b868896e7b2237e0c69590b31.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Training",
+		"Study"
+	],
+	"intro": "The ultimate railway driving game has arrived!\nExperience mind-blowing speeds over 1000km/h or enjoy complete freedom in Free Drive!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

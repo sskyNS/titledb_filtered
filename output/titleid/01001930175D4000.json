@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ca204de7354f26634a58c36c4f77e854df20a352fd8f5898594b9aafce8482b.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Action",
+		"Platformer",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "It's a Car, made of Jelly! Squishy Physics, Tactile, Silly & Imaginative Driving/Platforming",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "457 MiB"
 }

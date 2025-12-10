@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c123279dba2456f788b1c26fbd75288214d884774e7e86447ccee6a851ab3043.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "The MSX2 Version of \u201cPuyo Puyo\u201d,  known as \u201cOld Puyo\u201d and \u201cPrototype Puyo\u201d is here.\nThis is the origin of the classic puzzle game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "64 MiB"
 }

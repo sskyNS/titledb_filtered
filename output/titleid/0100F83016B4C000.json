@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1110d07e3bfa3d510a722f46ca6440055342c5f974e313d4d863717869201943.jpg"
 	],
 	"releaseDate": 20220318,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blast your way through battalions of anime bosses.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

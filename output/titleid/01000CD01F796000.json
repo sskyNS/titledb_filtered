@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d00926a9f06330c24b26f94c1051c2b0cdc078f15b77ed865631b2c763386c14.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Combine cute animal plushies to earn points and create larger plushies! Try not to let the plushies spill out of the claw machine on your quest for a high score.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "283 MiB"
 }

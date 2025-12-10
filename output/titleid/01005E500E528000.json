@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c97c6d2c6b550ea2b4a63b4a6f510903908a2dbf6055af2fd8c29f3a331a272c.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Strategy"
+	],
+	"intro": "BUMBLEBEE and the Autobots have a new commander \u2013 you. Assemble your squad and roll out for battle against the Decepticons... and team up in local multiplayer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.79 GiB"
 }

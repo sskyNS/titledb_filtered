@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4db21f9b45c28ffb16cb9ceac72ff7378b78172cf30c8dfad9f3c057aa1fee7b.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Other"
+	],
+	"intro": "To gain the love of all people, would you dedicate your own heart?",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.03 GiB"
 }

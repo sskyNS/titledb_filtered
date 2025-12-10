@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1dcaa1530abb1a545a1e5172d0bd3fb0718f02e8166caace18dae3fada4963bf.jpg"
 	],
 	"releaseDate": 20220316,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Punish the naughty monster girls who keep stealing your husband!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

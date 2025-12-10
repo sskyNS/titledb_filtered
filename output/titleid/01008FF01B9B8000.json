@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/38b33854e2e34f29f105d48638b91a4aa2665549e6bae0fabe9ad4e34fe36262.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Take control of a powerful drone and face off against hordes of enemies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "817 MiB"
 }

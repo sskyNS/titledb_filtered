@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/61273752fbc17690c042cd77e7e072c588b2f10294c8faa4b8c3a9880033c0df.jpg"
 	],
 	"releaseDate": 20231212,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Return to the Dungeons of Castle Hammerwatch and Explore the Depths of Evil. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "535 MiB"
 }

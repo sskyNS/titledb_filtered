@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bd50f69edb2eeda6d77542671db88391707846db1af323e35f2e6dee5e1ee63.jpg"
 	],
 	"releaseDate": 20200703,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Run-and-Gun your way to victory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

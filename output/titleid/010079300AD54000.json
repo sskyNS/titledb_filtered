@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4621502e88f0eed91d77eb0ef1ac357c680b6972b79555dd0c67b7467a0c0ec.jpg"
 	],
 	"releaseDate": 20181106,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "From the creators of Rogue Legacy comes a \"true-cooperative\" action RPG.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "423 MiB"
 }

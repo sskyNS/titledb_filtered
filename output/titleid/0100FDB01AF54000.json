@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/39f37266eeabc99b7227010b41a129efb6ee1a6bf6cc239f9e4d6abae4e5e9cb.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "You're the bouncer of the Green Door club, where every decision matters",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.43 GiB"
 }

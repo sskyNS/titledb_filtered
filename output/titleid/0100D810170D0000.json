@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd6d87f7cf5384a13146708245ef433e7540b48e125498234c0c49f0ec8439a5.jpg"
 	],
 	"releaseDate": 20241126,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Embark on a journey of Asian fantasy and slay the 9 sols",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.71 GiB"
 }

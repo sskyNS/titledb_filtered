@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2b7c550d3936514bae3a7a79cd7315acd52012f86b13d6eb86e095a584bb879.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Return as Alice and embark on her adventure to find the truth...",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "764 MiB"
 }

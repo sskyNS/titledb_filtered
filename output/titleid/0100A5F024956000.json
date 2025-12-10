@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4568fae6518548747d90a158b4ac846515523490ec40cd55ea95e050e068d621.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Study",
+		"Party",
+		"Education",
+		"Puzzle"
+	],
+	"intro": "Stare closely and a hidden image will pop out!\nTrain your eyes and brain with mysterious stereograms",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "279 MiB"
 }

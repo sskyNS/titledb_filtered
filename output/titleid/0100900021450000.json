@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a96dea0b479c00f5d7e02a651b141062bf399015078fdc09185e0479b5a23da8.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"First-Person Shooter",
+		"Arcade"
+	],
+	"intro": "Wild West Shooter captures the essence of the Wild West, where players engage in epic shootouts against low-poly cartoon-style ragdoll bandits.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.46 GiB"
 }

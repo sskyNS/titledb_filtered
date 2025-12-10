@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bcf742aa1d3490fdbd926080fc0ab181f7dcfbfab3390e0b82932f28cc277ec.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Training",
+		"Board Game"
+	],
+	"intro": "The 30-Year King of Puzzle Games: Shanghai",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "330 MiB"
 }

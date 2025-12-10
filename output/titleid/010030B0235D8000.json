@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/21880718d57f71d87c92c0c24488d494de71ba996d64f05b906c5e2c56168bb3.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A series of murders follows a mysterious ritual dance in rural China.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "952 MiB"
 }

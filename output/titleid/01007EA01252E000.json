@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a5f82c02eda873dd6a7790e2fc321bb6d6cb205fe6fb5cc6be292a249b96ff1.jpg"
 	],
 	"releaseDate": 20200911,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Platformer"
+	],
+	"intro": "A relaxing golf outing soon builds into a crazy physics obstacle course!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "36 MiB"
 }

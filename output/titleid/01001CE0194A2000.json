@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/61db0019141d37ca3ac7f89c7eead0b81bc114902bb53d651fb036b6e50b2fec.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "The classic 3D platforming adventure is back\u2014better than ever! Roll, jump, and shape your journey in this hands-down ball-tastic adventure!",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

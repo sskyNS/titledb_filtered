@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9279aff569c9a1b4c06ceb01afb6f228cbdbb594f5450fb084065d5e1ffdcc1a.jpg"
 	],
 	"releaseDate": 20180329,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Help Zobillie reach the legendary meat farm!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "395 MiB"
 }

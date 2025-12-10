@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4c361ee3a1cdd79cf98d526af411d2aa414bcf0bf2a4b6f0909c6ca7ae2881f.jpg"
 	],
 	"releaseDate": 20210629,
+	"category": [
+		"Adventure",
+		"Communication",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Fly with Friends",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.66 GiB"
 }

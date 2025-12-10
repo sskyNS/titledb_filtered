@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c34063fca350b7ebc02d88b8f6e6936bdfdf91fee849c0e9c97368224e93ca22.jpg"
 	],
 	"releaseDate": 20210617,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Luciform is a color-based precision platformer that demands quick reflexes and nerves of steel. Can you help \u201cLuci\u201d navigate a dangerous forest to save its people from the nasty Red-Eyed ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

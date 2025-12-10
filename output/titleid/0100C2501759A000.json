@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbefacba5d5de2634ecdb455bd534ff6534c786f8bbe8ab0acf9ed367e2c5fa3.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "There is a lot of traffic on the roads today.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

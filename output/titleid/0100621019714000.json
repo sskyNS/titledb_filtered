@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7329cfed43f92ed924919cddc44ddf73086338897889454439e8ab6fd6022e1.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Party",
+		"Other"
+	],
+	"intro": "A Building Full of Cats is a hidden object game where you need to pet all the cats in the building.\n\nDon't leave any cats behind!\n\nFeatures:\n- 300+ cats\n- 5+ Floors\n- 50+ hidden cats\n- Secret cats? Who knows... \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

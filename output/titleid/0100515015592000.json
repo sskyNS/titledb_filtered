@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1682652de373e99936e959ebe6ebd6235b637cfc5ed34addf512f4e9f0ca042.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Education"
+	],
+	"intro": "A Spacey Classic Adventure for All!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

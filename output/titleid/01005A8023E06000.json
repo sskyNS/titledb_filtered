@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2fdc222f8f1fc617a93988d42f833fda8507cdceba98b77c65fbfb9871ac672.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Blast into the stars, bounce through galaxies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "310 MiB"
 }

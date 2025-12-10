@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfce39b606c2718c6a92230d6a3c1213257564d0c7417043a64e37b6debf7340.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Education",
+		"Lifestyle",
+		"Utility",
+		"Other"
+	],
+	"intro": "Eat well without breaking the bank.\nDiscover quick and tasty budget-friendly recipes for every day.\nPerfect for meal planning, batch cooking, and grocery savings.\nIncludes calorie info, simple steps, and low-cost ingredients.\nStart saving money while enjoying every bite.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

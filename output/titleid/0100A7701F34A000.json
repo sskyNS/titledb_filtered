@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bc469fa51f14d80ff9b15acd4f2263a9096e48bdba423a255d22942c0794c80.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Do you have the drive to survive? Take control of your car to see how far you can get and how many zombies you can kill \u2013 and if you can actually escape with your brains intact.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

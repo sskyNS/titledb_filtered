@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ff78b8a7eb5b4c328cad93b64b38442dd8527eb8eadb3dc59ea44a482e0f58b.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Music",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Discover a new dance game playable with the camera of your smartphone connected to your Nintendo Switch\u2122 console!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.52 GiB"
 }

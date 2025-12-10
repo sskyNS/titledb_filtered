@@ -4,5 +4,24 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20241025,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Includes digital artbook and OST. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "484 MiB"
 }

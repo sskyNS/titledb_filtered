@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/15a24457a3b1360faec6c9d05eabba39830339b1e26069a254d87fbcd9b74479.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Embark on an epic quest for treasure in Captain Sabertooth and the Magic Diamond, a pirate platform-adventure game for the whole family!\u00a0",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

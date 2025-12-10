@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b85e1c6a03d0ce6266bbacc9c85d9badcaeb816971d59d35782c14deae9c1c43.jpg"
 	],
 	"releaseDate": 20191025,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "How far will you go to survive?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7b3f861de0d6c747ecb69f18479f3850ee8395848d8da1b024918775513263c.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Action",
+		"Party",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Become a warrior and fight bravely to defeat the oncoming monsters!\nTake on survival battles against other players or work tog",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "675 MiB"
 }

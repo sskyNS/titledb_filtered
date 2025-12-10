@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/56313d6a02517ed8f4b2b60203ff276615d64c5840b4b9297abdea4c4649294d.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Every battle is a new challenge!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.77 GiB"
 }

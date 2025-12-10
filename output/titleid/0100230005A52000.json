@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4a503e50bf274c85b057fdda45f7893a25d691d672e788175054f15119ec180.jpg"
 	],
 	"releaseDate": 20171003,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Deep space is a dangerous place, but you don't have to go alone!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "431 MiB"
 }

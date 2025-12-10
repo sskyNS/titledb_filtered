@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7aef830b01f6bffe1c4900428532a512b30f9ab043fa0a9635084d7395ebd916.jpg"
 	],
 	"releaseDate": 20210611,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "In a colorful and minimalist apocalyptic universe, 1 to 8 players chase each other until only one survives the zombie epidemics.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 8,
 	"size": "199 MiB"
 }

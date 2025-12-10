@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5f01678efba14a0db580cea75eebe6bd8a17f29fc17d6b4dd8747acf5317aa6.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Lifestyle",
+		"Practical"
+	],
+	"intro": "Spot the sneaky cats hidden across beautiful Japan!\nRelax, explore, and test your sharp eyes.\nCan you find them all?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": null,
 	"size": "429 MiB"
 }

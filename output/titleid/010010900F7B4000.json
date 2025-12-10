@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4f95c8fc28eab31b18ec1e45b0ffcd68f71a3fa8d12371069f2e770c829c977.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "The popular dragons Bub and Bob are back! Bubble Bobble 4 Friends - The Baron is Back! is the latest game in the legendary Bubble Bobble series from Taito. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "983 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/44df21e33750c6595c607b00dcc66a5daf0f1b424c258ade6a7243458993d7f4.jpg"
 	],
 	"releaseDate": 20230405,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Sports",
+		"Strategy"
+	],
+	"intro": "Take aim and shoot! Make the shot in one go in this relaxing and minimalist finger football puzzle game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2be0b90f36adab22a1b4bcfe8d337cb6f71cfc19d56bc6123f9fcc5f75d077f8.jpg"
 	],
 	"releaseDate": 20230505,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Jump right into an epic adventure set in a 1-bit world. This Tiny Dragon is no pushover and will do anything in his quest to find the Wizard who stole his stuff. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

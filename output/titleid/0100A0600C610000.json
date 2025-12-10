@@ -8,5 +8,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/69347b888ef6550b43e14b81b952b660f844a1c15545462aa7b7fc93e75d2739.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "\nMatch jewels, fossils, and disks as you jump through time! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "146 MiB"
 }

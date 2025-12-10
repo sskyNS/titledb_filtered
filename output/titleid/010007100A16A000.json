@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cae4de422b79fbc336976973fc16449ad55f5b0b26a489bde2e34dd55d17f13d.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Begin your journey as an Eternal.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.91 GiB"
 }

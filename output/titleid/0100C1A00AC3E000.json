@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe4ec2976fc8f63f55174e7dcc8475cda0f4ac101f78db8ef4883db36f274e25.jpg"
 	],
 	"releaseDate": 20200327,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Children of Zodiarcs is a story-driven, tactical RPG set in the fantasy realm of Lumus; a world divided by affluence and poverty.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

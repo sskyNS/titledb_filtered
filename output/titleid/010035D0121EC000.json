@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6f326de191850783c19365ba3e02b606aad2383ab7d1777e05920419f8fa130.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "A quest-filled bundle for the bravest of heroes!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.57 GiB"
 }

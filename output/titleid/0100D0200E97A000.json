@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/22c0d74581938a59d2105b73e5dbb96d4b0356992005ea4a5ba84ca3f10795cb.jpg"
 	],
 	"releaseDate": 20200930,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "The free version of Rogue Company and its associated download is no longer available.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.61 GiB"
 }

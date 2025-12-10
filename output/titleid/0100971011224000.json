@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/30e83f0a75ccd51ad1cb9d76bdca0bfc72f5d01b8c54225dfdfd544e85ebd57d.jpg"
 	],
 	"releaseDate": 20200522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing"
+	],
+	"intro": "Will your car survive the destruction?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "304 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1f8851b93eea71ff3e32842214eaba0df9ba28dda34412a323de93c17c2c7b8.jpg"
 	],
 	"releaseDate": 20171116,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "An authentic RPG of a journey with a girl made of slime!\nEnjoy fluid 2D turn-based battles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

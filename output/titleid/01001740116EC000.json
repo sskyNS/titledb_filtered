@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/31265e2960f62734bbc6557560aa429b2a58f414bac1dab19dab3cc789116b2b.jpg"
 	],
 	"releaseDate": 20201112,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "The largest zombie mop-up operation this world has ever seen is about to start! Mind you heads, zombies!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

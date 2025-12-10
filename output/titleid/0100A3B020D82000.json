@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a15e70dbd2c92f734f3c66de5d75e6f0ed968e67ef84c194df84bf2e9492d91f.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Dive into a world of fun and adventure with the Care Bears in  \"Care Bears: Unlock the Magic\" Play as Cheer Bear as and his friends in a variety of arcade games!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "752 MiB"
 }

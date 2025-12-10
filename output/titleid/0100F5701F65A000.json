@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d62ebcf1cbdc9f82c7430108435357e8ed005b672cb8937b40372821b524d1d.jpg"
 	],
 	"releaseDate": 20241108,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Only the kiwi can save the world from alien invasion",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

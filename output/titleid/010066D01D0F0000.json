@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2829881a9e42998206cead728fba2c2cc8372365447b621e3e61af59a7ba1c4.jpg"
 	],
 	"releaseDate": 20240522,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "This game combines roguelike-style deckbuilding with SRPGs to create an all-new experience!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/08bee53071f7486b3e0ce14203b348093198a4f20b1f053effdabbbdf8945fae.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Pearl and Grey's battle for treasure.\nA great adventure across 100 stages!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

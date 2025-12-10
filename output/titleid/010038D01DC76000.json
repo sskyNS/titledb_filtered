@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/020b4cb0679c63ed7a3d35c6c4a9e91f88bc9582f437551010bcd29c1c861709.jpg"
 	],
 	"releaseDate": 20240426,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Hey there astronaut! Ready to go on your biggest space adventure?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "353 MiB"
 }

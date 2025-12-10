@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ff3ff84935b7d6170c61ae125fef91ca39dab22e8fe9a575758fc4decdbe352.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Find the Dragon Tools of legend to stand up to the Evil Dragon in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

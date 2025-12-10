@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/43ee2850453633f9091f5bf40adeaa09d1e7aec4246b190f40bab545f3e4ece8.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Explore an interactive nightmare set within a once-happy home while struggling to survive encounters with a relentless entity that stands in the way of finding peace.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.35 GiB"
 }

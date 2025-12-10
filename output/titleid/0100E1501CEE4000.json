@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fb31ecde8aee92d8caf9f3f718c2f5c218cc2c74390adb6fcbcf708ac34a926.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "Are you ready to become a legend among the stars? The galaxy awaits your command!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "574 MiB"
 }

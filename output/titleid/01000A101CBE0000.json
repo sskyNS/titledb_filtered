@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/432958fb9462e1dada276609765b6822519cfb57b0a93d88c406683d1efb8c4e.jpg"
 	],
 	"releaseDate": 20231008,
+	"category": [
+		"Racing",
+		"Lifestyle",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Forward to exciting adventures and thrilling challenges on the roads, all while driving two sedans simultaneously!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

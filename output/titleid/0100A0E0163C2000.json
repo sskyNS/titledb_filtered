@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f3940a2ac0b7daea18dece0858daabf6f5002dfdd6cf8dec933a50fde93687d.jpg"
 	],
 	"releaseDate": 20220309,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Paint the world one neighborhood at a time using your car in an isometric free driving experience!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "192 MiB"
 }

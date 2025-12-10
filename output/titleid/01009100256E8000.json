@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ce147a96f9a130cec60d017f5fbaac685e37d171135e4dc8a4b671111ce38d7.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A surreal, atmospheric and vivid horror game about a mysterious board game and the little Sophie trapped inside it.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/53c293c6cc14a3c1d678af291476b72b97531b5f8eac45f2514e588e687a5393.jpg"
 	],
 	"releaseDate": 20210604,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Travel across Cubold and take full advantage of your resurrected, skeletal body by swapping out body parts and acquiring new abilities during your adventures!",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "789 MiB"
 }

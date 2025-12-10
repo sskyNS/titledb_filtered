@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/adb05a4029abb6589cf083df4a2ac8b78a81bb54be8a7684903661506d0a942e.jpg"
 	],
 	"releaseDate": 20200403,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "This lovely designed interactive picture book for children from two years onwards accompanies Sir Tincan on his adventurous everyday life in the medieval castle.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/73ef32c73a4d5b435e4b776bef869e4dd979a280509fb1b1cdcf0c5ab3eb54e5.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Traverse the dungeon by combining different actions. Join witch Tia, magical lifeform Doll, and demon queen Lilith on a perilous adventure in this turn-based strategy game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "893 MiB"
 }

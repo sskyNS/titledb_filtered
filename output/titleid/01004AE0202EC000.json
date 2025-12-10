@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/79702b460313a66bc5dd2e9a5a21b31905c4cfe2379d5bf3c4e9734cdc2e3571.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Lifestyle",
+		"Utility",
+		"Simulation",
+		"Education"
+	],
+	"intro": "This is a tool that automatically generates, manages, and edits Kaimyou. It can also issue Kaimyou certificates and save them in an album, and it can be used as an Ihai.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

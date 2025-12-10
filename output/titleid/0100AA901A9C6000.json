@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dd13c1dedc9917768c3580b6f3d1c8f4495c928d62a0af54f15d754f4cb42a2.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore Neko Town, break all the locks and uncover the secrets of the anime factory!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "851 MiB"
 }

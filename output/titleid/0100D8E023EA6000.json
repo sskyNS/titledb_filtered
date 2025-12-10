@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c585551b91498e19c4bf0bbdba2c8fdea366e8ea97e7440112f432cbd78e123.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Set off on an adventure to protect Fairyland, where humans and fairies coexist!\nA powered-up version of Hydlide3 with new maps added.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

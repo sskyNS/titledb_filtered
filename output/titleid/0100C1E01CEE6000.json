@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e35367e9ee7caeba2aab9aafb7f96edc8d1f3bdd34b3b03e5f2a76096bb25c6c.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Small Hero, Big Adventures - Craft Your Destiny!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "767 MiB"
 }

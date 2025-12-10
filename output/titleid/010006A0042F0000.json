@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/37c632cb1076ceed8bb85e5433c4a0a34adf3965ef383311aa172cb8b5364c5e.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "They called the best...\nbut the best were busy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

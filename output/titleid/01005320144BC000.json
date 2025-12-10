@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/78e911561f0a1524f0240d40ad3ff71825faef3f0c4ad6a03d9bbf0f0050d7bc.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Face the fears from your dreams to save the kingdom in this 2D retro advenure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7354535ad076eb5232b7ffbe2df3d874f0c7174ff10650f1f3b134b7baed05c1.jpg"
 	],
 	"releaseDate": 20200715,
+	"category": [
+		"Action",
+		"Party",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "An absurdly fun party game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.29 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4f3a74a3f717897f0843fb1ca287fe9f2fcfd0ea5a1030045e20a05425a18a5.jpg"
 	],
 	"releaseDate": 20250923,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Discover the world of the Kingdom, rich in lore and atmosphere.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

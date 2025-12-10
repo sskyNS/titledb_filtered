@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/947f0d49ca463128c1392e6f620662d41264d040eb2a3835080d8bda3bb97566.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Puzzle game in which you need to think ahead and predict the chain reaction. Pop mushrooms and earn as many stars as possible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

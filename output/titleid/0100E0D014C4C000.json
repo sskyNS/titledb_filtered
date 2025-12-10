@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c955c8d9a972645ac698362e1f7e142ec95c334dd200aaba3d8fdc18f3a6f67.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Space Revenge is an action-exploration game. With a top down perspective, twin stick controls and a sci-fi mood to explore the enemy base full of dangers.",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

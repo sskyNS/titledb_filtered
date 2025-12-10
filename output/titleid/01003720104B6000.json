@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f445c2592e6f8bc188741d63e699e7eefb90eb0b9d81fe2a538aaea7588944c7.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "You gold was stolen, time for a crusade to claim it back!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

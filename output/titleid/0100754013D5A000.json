@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1354a2316f453f14fad06a2da7f16cb77634526e35c3ef071052ed55191aea8e.jpg"
 	],
 	"releaseDate": 20210810,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "A narrative adventure about cute animals, friendship, and arcades.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "614 MiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/68293e2080457ab885b1538f3271dbe5ea6a7fe01e7eea38b6b2efcc5f60af47.jpg"
 	],
 	"releaseDate": 20210630,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Race the traffic in the best Motorcycle Racing game ever!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "306 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d60665ca51aae711063971a93452c3fed2c3e4bf3550e86196297316a3b66e8f.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Blub is a cute but radioactive platforming adventure with detailed levels and challenging gameplay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

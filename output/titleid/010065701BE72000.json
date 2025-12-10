@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/141c463593323a932f68be81ca00f02290b224ae6ec307c3216fe9acbe14e792.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Go on a candy puzzle adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

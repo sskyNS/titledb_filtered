@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cd96c9ee7706c658ebb63e12c0c1092f7cfb14ef30e8fec246ec3e42430885d.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Complete puzzles and unlock new paths in a secret-filled school and flee Sister Madeline's religious summer camp in this Stealth Horror adventure. Don't get caught.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

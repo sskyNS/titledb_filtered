@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cfc188dace6120052013d3ec3e186c50f37e91e61365e386429f3af6c837596.jpg"
 	],
 	"releaseDate": 20220810,
+	"category": [
+		"Racing",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Amaze everyone with your speed and tricks!\nThis motocross racing game is impossible to put down! Add to the fun by making your very own racetracks!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "988 MiB"
 }

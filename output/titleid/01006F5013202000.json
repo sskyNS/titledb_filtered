@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7ac130232b7f18e87e1d36e971c7c28b2ea8c88df42e393b2b2cc37e0a72b54.jpg"
 	],
 	"releaseDate": 20210529,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Off And On Again tells the story of a hero tasked with rebooting time. The game world is created and destroyed during play, with the hero having the ability to turn parts of the world off and on ",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "438 MiB"
 }

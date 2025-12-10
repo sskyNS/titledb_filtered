@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f82a3213676f96082eb313dd441736ad3347800c8f12283f14eef7a612e3bce6.jpg"
 	],
 	"releaseDate": 20221012,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "The award-winning strategy game with cute low poly graphics. Fast paced 4X gaming at its best.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 8,
 	"size": "361 MiB"
 }

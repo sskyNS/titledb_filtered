@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/239210257dae7f29f0e40baf116d31f3a4e2061dc15b775863874986deb3799d.jpg"
 	],
 	"releaseDate": 20210531,
+	"category": [
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Protect your beehive fortress against the hornet menace. After all, the best offense is a good BeeFense! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

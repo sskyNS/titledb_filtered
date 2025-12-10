@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a80bf1e08d1f565fcc816edb973c059e95f7f3a578492851531f6e2a1e6b43e8.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Defend your spider web from an onslaught of bugs in this frenetic revival of the cult classic twin-stick shooter, all while jamming to an infectious score by Megan McDuffee",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "467 MiB"
 }

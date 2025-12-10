@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4b825df0394e92a099c3c611d294e4ea20ff84b811c65609bfb8092dc4d0b09.jpg"
 	],
 	"releaseDate": 20200310,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Heroes Die, but Legends Live Forever",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

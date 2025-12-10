@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e17f1ce648526bb2417b2794279a4ab79dd7375df3b921adbfe9534505483518.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Shooter",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Team up as Santa and Mrs. Claus in a wild showdown against Krampus and his wicked crew\u2014save Christmas and restore peace to the North Pole!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "342 MiB"
 }

@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/feaf294e1a3f18131ae9edf0fd7e431a2430840553172cbc073b8078b684d91d.jpg"
 	],
 	"releaseDate": 20220126,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Music",
+		"Other"
+	],
+	"intro": "Easy to play, just connect eggs!\nCollect as many birds and cute illustrations as you can with Miku and her friends!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

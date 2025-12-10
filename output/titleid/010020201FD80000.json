@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c674bd36e09bc1b0e47f741a5d003973fbe47ec4f9a26b7405b0ec8a76c19b0.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Puzzle",
+		"Utility",
+		"Other",
+		"Action"
+	],
+	"intro": "Meet over 50 pretty anime girls in this relaxing puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

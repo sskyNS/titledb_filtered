@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/69782c6dd33ab3e732169b4d4f369852dcf302bda9d2aafa884d48118c5b61bd.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Get ready to hunt down all your foes and reach the ultimate goal!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "939 MiB"
 }

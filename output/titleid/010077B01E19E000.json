@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/300a9067020de9297577e16dbe4ac1df9deba02ae2a5f5c3b655d27a2bb6d77f.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Training",
+		"RPG"
+	],
+	"intro": "Navigate the complexities of young love in a vibrant college setting. Every choice shapes your destiny in this captivating dating simulation game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "612 MiB"
 }

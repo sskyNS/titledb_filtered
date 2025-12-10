@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/88af1094d5f343b9e47a2525815b42241c177ead788949ca3381ca51564285de.jpg"
 	],
 	"releaseDate": 20181222,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "A challenging action RPG with deep souls-like combat and rogue-like elements. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "468 MiB"
 }

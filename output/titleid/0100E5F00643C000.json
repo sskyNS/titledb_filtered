@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9c661e364c937a0a2336a1cc6a8013a8cfab09801be0042f3b3d53f0be7e932.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Party",
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "A competitive party game featuring bears in space suits.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "262 MiB"
 }

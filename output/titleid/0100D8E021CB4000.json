@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/69b978e8578b2c90c70e0b9ea469f49532ac3e1a9a4136a4db2914c5b2885cd0.jpg"
 	],
 	"releaseDate": 20250212,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Soar Beyond Your Dreams",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

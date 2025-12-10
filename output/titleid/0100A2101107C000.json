@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a496fe20e2d9c22738ac7315f4a752e87023864c9e0c4657aa5e2d91d3a26b98.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Puzzle",
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "An essential collection for all puzzle fans! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

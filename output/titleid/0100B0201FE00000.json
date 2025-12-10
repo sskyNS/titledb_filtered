@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e62d6fd9fe624398da68c34d2e16c59cea460b31a5f0406af7fce13b22ff40fc.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Sports",
+		"Racing"
+	],
+	"intro": "MetroLand is a new endless runner that takes what you know and love about the classic endless runner and turns it up to 11!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "329 MiB"
 }

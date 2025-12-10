@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8f7b26a72e46f56bd641127ef3c5afdcfa4f9166a82a5a5f078b8068bea072b.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Sentry City is a cyberpunk-style side-scroller. Traverse the city using your motorcycle,  and fight tough bosses to uncover who is behind the city's AI disruption.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

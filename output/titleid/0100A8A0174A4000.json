@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/49c029e44e9c2bdbc6e023e2edb98578bd61b2f8f7295b97cd1b91d0096c6131.jpg"
 	],
 	"releaseDate": 20220805,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "Invite your friends into the fantastic world of Clumsy Rush: Ultimate Guys.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "765 MiB"
 }

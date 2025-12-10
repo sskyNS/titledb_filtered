@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0bc10d0db75bbe7d6052963bea9f873b4a3fa379643c4c969f09029847cd021.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "You are hungry for truth and maybe this \"caretaker\" is hungry for something else. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.26 GiB"
 }

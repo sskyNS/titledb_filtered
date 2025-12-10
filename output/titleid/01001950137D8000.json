@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de4ddfd6105481f64535d9e671ee2384ba4e2d4954a2a3aa732bf9f901018101.jpg"
 	],
 	"releaseDate": 20201226,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "Blast your way through the streets of Hong Kong in a fast-paced, top-down shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.10 GiB"
 }

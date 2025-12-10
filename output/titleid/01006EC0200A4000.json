@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c8f3c73ae25032407adff7cfa32c632c26bd33fdc985c61b1c30c213405cdd8.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Uncover secrets that shape your destiny!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.35 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/19870198ae5aa0759176e685f4fb5382561bfef16ffa606b70a74d91475f1cb0.jpg"
 	],
 	"releaseDate": 20221025,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Be Strong\u2026Be Brave\u2026Be Miraculous!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.97 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/50a1172ec6fdd8af7b5b0104ed1e45ae8964c1cc63f476a6f2ad49ea3d3ce3dc.jpg"
 	],
 	"releaseDate": 20230526,
+	"category": [
+		"Puzzle",
+		"Fighting",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Take on the role of the Blind Prophet and save the residents of the corrupt city of Rotbork.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

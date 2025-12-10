@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36adc4cae1288c22922d226225ddda9b197d21e35a50571f489c7cbe0a7633c7.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Trust your instincts. The future depends on it.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "875 MiB"
 }

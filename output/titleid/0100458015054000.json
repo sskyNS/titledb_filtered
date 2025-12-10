@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7b04e17e9337622e2fa9ab70da7d13ab8fb6e36efff2157138c06f491cf0685.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Action"
+	],
+	"intro": "Merge cells in this brain busting Piczle puzzle under the microscope!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "361 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c657547b266bb4afb25ded7211f61d9e0a367f5d24a76d42f2c67e18ce9c90c.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "RAZION EX is a 16 bit CGI style horizontal shooting game originally made for arcades, ported and upgraded to Nintendo Switch\u2122",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

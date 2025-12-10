@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0aeba39c36a371a468aa25cef70953cb5f6ef748275861989fc8ebf32e757997.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Escape the claws of dark jail cells in this exciting 100 doors game challenge!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18e76a6c15b72d32590c53882b4608c3fc60a42b61923c825f2e1502062a795e.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Infectious challenge in microscopic world!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

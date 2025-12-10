@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7397ace616c01df67ef0135a19c1abdb4fdd7b6a2df97b8a1d00e63b81b9d65e.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Adventure"
+	],
+	"intro": "YONESAWARA HOSPITAL is a single-player exploration horror game in the first-person perspective.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "796 MiB"
 }

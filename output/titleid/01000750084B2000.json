@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/df6b484597fef0e7ecd68e14fdd3d61e39ba4c7a208b526f9ba374e26f93ccfe.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "A couch co-op where size matters!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.40 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/280baf0c464c206cd462a0cd48d090c68176a1b06f3984c112e9506c60b8c8c9.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Times have come to test you as a worthy ninja. Increase your abilities trough your journey in order to fight for your love. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d58c1bd75032dd6f06ae9ce0d55ad7ebaa145cbcd5795422b3688f3c4d0af7c3.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Board Game",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Table of Tales: The Crooked Crown is a tabletop role-playing game brought to life by a magical table and a mechanical bird. Join a band of scoundrels in this unique sea-faring adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "954 MiB"
 }

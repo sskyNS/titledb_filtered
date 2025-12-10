@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/05cf1895a039a6ab209f3f739b0e8ac7ca982120edbe09614a07da2e7f6953e4.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"RPG"
+	],
+	"intro": "A Winding Path is a hand-drawn adventure game about finding the beauty of the world and enjoying the little things.",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

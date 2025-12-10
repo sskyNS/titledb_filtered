@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5130a75b480ba3abff35bd0be7bd41311c6c55048da7ddfef302d1016d9f9cb.jpg"
 	],
 	"releaseDate": 20220519,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Drive unique super hero vehicles and perform stunts on multiple crazy tracks.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "492 MiB"
 }

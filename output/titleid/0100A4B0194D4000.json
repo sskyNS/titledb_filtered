@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1098c13ee9363becc3c2690902332990cde2833b01c7cf0ee6c13c0864b7ecbd.jpg"
 	],
 	"releaseDate": 20221123,
+	"category": [
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Easy to use puzzles for ages two and up. Featuring funny car motifs with 30 unique puzzles. 100% frustration free and child-safe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

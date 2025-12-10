@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a678a962998a09145da29513fc540d87f34404548e33a38c0b54d36339175171.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Logic puzzles with a light RPG twist, here comes PictoQuest!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "647 MiB"
 }

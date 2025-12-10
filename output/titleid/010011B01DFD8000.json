@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/acc8a59151e07630af3a2197fe63e65f5f588c8a6fd33c207ad4f0897410b7a1.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "2D action game for cat lovers!\nThe main character is the cat Moi.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

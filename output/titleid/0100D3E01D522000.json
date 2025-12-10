@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/41ad6d9ebbf305fa5c5e285dc6aa81a51ade5b343304fbac1cfb1b26859ace6e.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's a street-food classic: a takoyaki-making challenge!\nMake as much takoyaki as you can!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "291 MiB"
 }

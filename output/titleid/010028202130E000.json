@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c115708d70bfc2eaf9b0fcd4cdd91b7b801c3e98b75c3f3a29ad1652c03b0f2.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Experience the Joy of Discovery in Item Frenzy!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

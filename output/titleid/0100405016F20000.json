@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dda49e663c59c1fee240b5673f52bd54730d3aab297901001a650dcf425d8551.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Guard a haunted gallery and solve the murder of a tortured artist",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.96 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/195c4e49d9d591035bf6388b5c5504f0aa3ccbe0d5fc69169c5338c43527bbe4.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Part-time heroes wanted for a retro RPG adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "658 MiB"
 }

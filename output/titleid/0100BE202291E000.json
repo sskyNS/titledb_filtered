@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f445bd3ad96ede338e81b368766a5aaa754f9bdb59c027e9fcf082e995253618.jpg"
 	],
 	"releaseDate": 20250425,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Complete the puzzles together with Spy Guy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "662 MiB"
 }

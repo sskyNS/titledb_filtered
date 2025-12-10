@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/398058102f84783ede2ced3629c5c24e4c0ef64d2241c768a629efaa1f6afb3a.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Gear up for an arcade classic: the crane game!\nWin as many prizes as you can and become a crane game master!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "249 MiB"
 }

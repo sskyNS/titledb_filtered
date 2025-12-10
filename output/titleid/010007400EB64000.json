@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4f37ebcbd14bfd78ec68eb7690a0f39177d7f49bc245d22ef717e4614fe83c3.jpg"
 	],
 	"releaseDate": 20200923,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Aim your catapults! Command your troops!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.51 GiB"
 }

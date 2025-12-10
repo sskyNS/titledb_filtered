@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e10b1119fd653bbc1f0e4e7d35347fb8ed10e56eca0918ff1a86802344e0b511.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Step into the paws of the legendary Catlord! Survive in a shrinking area, fight off hordes of enemies, and grow more powerful with each run to claim victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

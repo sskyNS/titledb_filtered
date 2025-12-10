@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d79d3086f92db0cc6c4ea2e75ed0c72e14c0371388e3278b36fe3b188282f309.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Action",
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Team up, build turrets and bash bots in this casual tower defense brawler.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.88 GiB"
 }

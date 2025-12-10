@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5d72f8ab655d91c182c0ead53a140cd779551e22e59fd43e23b8cd6fc2448b8.jpg"
 	],
 	"releaseDate": 20211008,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Control an orbiting spaceship to avoid enemy ships. Unlock better spaceships. Destroy enemies. Avoid asteroids. It's all about right timing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6392ca2d7273308c58eb3dcb9787fa605bd73d30f583e5f836a78b9a47246162.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Take a walk in nature, sit by the pool, and barbecue in the backyard! ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "485 MiB"
 }

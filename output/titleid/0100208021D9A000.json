@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b059b7ed9965fb35fbb5d60ea639bd119c1bac702795a1486a132b7db6a078ee.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Stunt Flyer is an open-world flying adventure,\nled by the brother and sister team of Jimmy and\nSophie.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "359 MiB"
 }

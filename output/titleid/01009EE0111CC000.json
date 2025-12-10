@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/815eb2b79654bd10e278afa172f352b761c016db0e9527043f09c0cf8e771a2f.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Take command of your army as you storm through medieval Europe in an extensive series of campaigns!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.06 GiB"
 }

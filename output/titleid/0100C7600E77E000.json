@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c1c2057b794f6539d467c41226f29e347ab54ac6e56bca9bf259e7ff8cba4f2.jpg"
 	],
 	"releaseDate": 20200804,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "When the Wizard of Darkness awakened, it was up to one man to defeat him. When that man was accidentally killed by one idiot, Tobuscus (or \"person of extremely low intelligence\" - gently put), the responsibility of becoming an AWESOME WIZARD fell onto him... by default!\n\nWizards: Wand of Epicosity is a thrilling, fast paced Tower Defense game with magic, zombies, and a teleporting castle.\nThe Wizard of Darkness sends forth his undead hordes and it is up to you and your allies to defeat them. \n-\tConjure Blizzards, weave Lightning and summon Tornadoes to destroy your enemies!\n-\tUnlock rare new Wands, Robes, and Items to multiply your killing power!\n-\tUpgrade your Castle to survive the massive onslaught of zombies and demons!\n-\tStrap Mines to your faithful dog and shoot him out of a cannon!\n-\tCollect all of the Magic Runes and summon your courage to defeat the Evil Wizard of Darkness!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.55 GiB"
 }

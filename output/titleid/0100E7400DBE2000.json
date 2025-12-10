@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/53bc45ec42be6f1fd0c7672e9ec4fd45df57733e8fa80d3885ddf83b9624cb74.jpg"
 	],
 	"releaseDate": 20190427,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Training",
+		"Strategy"
+	],
+	"intro": "Gym Hero is an clicker game where your main goal is to reach by your avatar the dream weight, and improving the empty and sad room into a professional personal gym",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbc7601b791242e192e560ba1503be5fc83ec47884a15e702f213059a19a885a.jpg"
 	],
 	"releaseDate": 20221223,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party",
+		"Strategy"
+	],
+	"intro": "All the classic games you love in one place!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "779 MiB"
 }

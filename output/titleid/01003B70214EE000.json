@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/127dd13d1e59f47b0a1c25212102b172444b150400036df1e36787c80e2c958f.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Prove Yourself as the Ultimate Pilot!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

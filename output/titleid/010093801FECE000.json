@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/68b5e2e7df3b5759d8aed3c26e37ea6ab61a20df764dcb75a55331e67b38dd16.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Night Slashers is a pulse-pounding, horror-themed beat 'em up game, in a nightmarish world filled with bloodthirsty creatures and unspeakable horrors.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.22 GiB"
 }

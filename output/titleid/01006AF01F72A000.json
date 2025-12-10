@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3690b5daf6914eb3ebff47723c98fefc38b4f7dc9fceaec6411b6eadbf4f5b41.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Music"
+	],
+	"intro": "Shy Dogs Hidden Orchestra is a hidden object game where you need to find musician dogs that are embarrassed to play their music. When you find them, they will play songs for you.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "512 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/71f16372571714c9edd9b8da65a6a0a194162eb4d09dca29b0310b727e262aca.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Platformer",
+		"Action",
+		"Party",
+		"Music"
+	],
+	"intro": "Ride the neon trails in Chameneon!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "92 MiB"
 }

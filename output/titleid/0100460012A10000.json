@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e607cf19f8f0efadaa71dd34a69113fe5d30f21fd6809d4bded517e427f53ebb.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A woman alone in a house. A mystery and a love story.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "345 MiB"
 }

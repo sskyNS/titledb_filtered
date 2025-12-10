@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5b8e7a7588ce729d4b29d88850e2a388ea63a63221803a59571222c467ffa2d.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "\"Are you ready to escape from hell again, Steve?\"",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

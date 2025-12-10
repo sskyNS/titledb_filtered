@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fbe89fa8a9c2182b175f94fd1de9144ec2b0c1a9f00b0574f076a7d3e9cff47.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Action"
+	],
+	"intro": "Welcome back to Beam Car Crash! Show everyone that speed is your middle name!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

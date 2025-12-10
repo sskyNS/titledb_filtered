@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/abe47e394ce559faf6ac96718e0a4d0f391072b80197722d05d95061f14c3a19.jpg"
 	],
 	"releaseDate": 20211110,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "GUNKID 99 is a fast and frantic 2D arena-shooter that will seriously challenge your skills and reflexes. Craft your own unique play-style and unlock crazy weapons and combos.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

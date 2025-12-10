@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4db4b5bad37e61e11cef1488fa0a80f07cae145b9cbfc7348a30c3908ce96412.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "A top-down shooter with a fully destructible environment, tons of enemies and nuclear explosions. Fight a countless swarm of foes. Tear them to pieces with bullets, lasers and blasts!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "168 MiB"
 }

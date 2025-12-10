@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/51b8ceecb781ae7fbf0d53bda7ac74c44aabf2b96988bf09235a23b9c2119c70.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Enter once again into the world of Survival Horror.",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "435 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/22c0456c9f18eaf4290778f0c438ea185948eb1622cb6db0a28f32abf9769573.jpg"
 	],
 	"releaseDate": 20221005,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Open-world bus driving simulator featuring realistic physics, next-gen graphics, a variety of bus models, three distinct regions to explore (US, Germany, Brazil), multiplayer and more",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.05 GiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/779e700c3e57a5bb381864e4fa86866f3634ccb073022739cca926fa2a6fb576.jpg"
 	],
 	"releaseDate": 20251212,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A strategic game of royal observation and deduction.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "373 MiB"
 }

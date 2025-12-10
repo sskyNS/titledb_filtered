@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1479bfe18e308d5f98aa69d78c2c8d263f592caca3c106f90a6c3d57aaeb8736.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party"
+	],
+	"intro": "Hardway Party is a fast-paced arcade game. \nUnlock over 50 unique cars and over a dozen worlds. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "658 MiB"
 }

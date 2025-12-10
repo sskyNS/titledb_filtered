@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ada313675384e7936b3fd073d7a49368d858a79bb7e4e986a39781f8544efb7.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Triumph over evil with the hand you\u2019re dealt!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

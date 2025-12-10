@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1de357dfe5f6dbc69bfdacd8dcdd48518df06578972226158be79f687c9692cf.jpg"
 	],
 	"releaseDate": 20230127,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "ATONE is a Norse mythology-inspired, hand-drawn game that blends interactive storytelling and complex puzzles with a rhythm game combat system.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.69 GiB"
 }

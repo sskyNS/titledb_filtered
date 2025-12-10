@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9134114a85e3e78cbaba99643b9d995ff03ac700d8bd22db22e18dc32807f17d.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Utility",
+		"Other"
+	],
+	"intro": "Have fun and relax in Pixel Family Fun. Choose from a wide range of drawings and expand your pixel art gallery!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

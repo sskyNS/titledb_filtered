@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/37f4b878a6d3527f725ba607d650d30efe04804aecaa0d280f103672769772c4.jpg"
 	],
 	"releaseDate": 20241207,
+	"category": [
+		"Action",
+		"Simulation",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Survive the Past! Unleash prehistoric power evolve, explore, conquer!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0aca281210d2d97d337cbc61975af6e51f799ca930227e76fd1b406fe643694.jpg"
 	],
 	"releaseDate": 20210322,
+	"category": [
+		"RPG",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Grid-based dungeon crawler RPG in an original steampunk setting. Follow the story of a scientist trying to escape a tower, a place of a secret research project gone wrong.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.82 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3176f61f6bdb2bf1758d94955fdaebce9bba3b38350b49822fcd4ecfc3166f1a.jpg"
 	],
 	"releaseDate": 20250221,
+	"category": [
+		"Simulation",
+		"Action",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Face the challenge. Keep the peace. Survive the pressure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

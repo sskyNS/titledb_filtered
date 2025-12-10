@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc832be2fb65610fd0b2e2cf95bfc598c1673f352c26dff77ea10ca0025c739c.jpg"
 	],
 	"releaseDate": 20211213,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Delve with Shovel Knight into the depths of the Pocket Dungeon in an action-packed puzzle adventure mashup like none other!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "472 MiB"
 }

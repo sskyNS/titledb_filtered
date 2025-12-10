@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfd538c1119c7a056a7f88c2087a1b969dfa33e98c9beda257b1b9d400ad3a31.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Shooter",
+		"Party",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Tacticool Champs combines the best features of shooter and arcade game, where up to four players fight with each other in a closed arena.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.93 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/da23bff7247489d299d5857f5b5009f2f78ed3754c255c520ade59048c1a59bb.jpg"
 	],
 	"releaseDate": 20250516,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Monsters. Masks. Mayhem.\nA retro-style brawler inspired by 1950s Mexican Lucha & Monsters.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.03 GiB"
 }

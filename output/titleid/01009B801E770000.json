@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbf17025f34732df6b0517868910a39ff98fdcf9dccf216e287919b60e79f93d.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "A simulation game where you create a wonderful sweets shop with Doraemon",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

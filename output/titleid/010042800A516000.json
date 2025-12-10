@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b611a225293aac3eb1c475e619f7ca14a496568bd58d688a5eff252b57112a88.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Travel alongside four companions and a cat in a fantasy RPG featuring stunning animated turn-based battles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

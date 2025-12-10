@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/334eb1b6a7dffbb4723e1c5932e140f22c611bcd847793f1a2061de54c3945ea.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "A curated selection of unique short videogame experiences, wrapped in an immersive dynamic menu. These gems are sure to fulfill every gamer's appetite for new, bite-sized experiences.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.77 GiB"
 }

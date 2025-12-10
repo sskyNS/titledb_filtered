@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/71c07b7b2a78eb43bbbeb42f8e69547cb381fa976f6107786b1fd92ff79087b6.jpg"
 	],
 	"releaseDate": 20250212,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Disarm bombs as fast as you can to save the world in platforming superhero style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "288 MiB"
 }

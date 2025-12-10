@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/52cccb2276e6b50e024c6ac030173a9a4fdc9b49a0bab78b018911d5fe9b1729.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Spellbearers is a top-down, 2D, twin-stick shooter. Battle against hordes of magical enemies to liberate the rulers of three kingdoms that have been overtaken by an evil wizard. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "404 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/72ea6b1bc56a9750f1e647d36f6a5bab8a406bbd600e10fd0a60d90895fa934b.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Action"
+	],
+	"intro": "Skul is a fast-paced action rogue-lite where losing your head is encouraged. Featuring 100 playable characters each with their own unique abilities and a ton of items that can create wild synergies, the battles are as electrifying as they are challenging.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

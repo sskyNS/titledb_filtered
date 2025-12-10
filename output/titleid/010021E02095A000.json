@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/679d62c616d24e120049031a5d65b6048bb8a957238c26bdb10ec285b29a3f48.jpg"
 	],
 	"releaseDate": 20250930,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Rounds is a 1v1 rogue-lite shooter where each round gets more intense.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.02 GiB"
 }

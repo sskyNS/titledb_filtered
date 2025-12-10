@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/75cad82cfab2d947c87eeebab172aabe81efe0808c04c2f922abf358edcce373.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Music"
+	],
+	"intro": "Survive with the ultimate 3D guitar-shooter roguelike. Fight the curse on your Metal brothers and deliver them from the ancestral evil.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.04 GiB"
 }

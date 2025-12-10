@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b29ff324f1ccbc4fa82d3818c10ed4b43e50f01a5febfdf3d429d1e64234a661.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Open World Driving Simulator with vehicles, motorbikes and next-gen graphics!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dde8dd0b9c25b23e96a076494cd4858605ed799c0987d4f956d95a4b77dceb5b.jpg"
 	],
 	"releaseDate": 20210621,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Join the fun!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.32 GiB"
 }

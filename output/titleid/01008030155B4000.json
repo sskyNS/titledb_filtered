@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d1020a3d8373aea6850f919f45427fa99862a1fdb967e1685dfb2f947f0b1dd.jpg"
 	],
 	"releaseDate": 20210709,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Drive a large, varied selection of awesome cars around an authentic looking shopping mall environment! Show your driving and parking skills, avoid real traffic!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "739 MiB"
 }

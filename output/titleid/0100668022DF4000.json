@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfdeb0c34a5d0e140e9a8d92203bcc5329c51cc5f61f2ca7a8b1abb8293b64c1.jpg"
 	],
 	"releaseDate": 20250930,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Adventure Calls. Destiny Awaits.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.71 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee30b0354cecc301f280f5948268627395f0816791b92ec341ff3bbaec5775bf.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Thousands of years after the activation of the Vesper Protocol, a small android crosses a fallen world, hunted by merciless machines, to control the power of Light.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

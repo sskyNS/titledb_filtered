@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed287237d1029dd79b70fbba236b084135a24ca7087a71d8291b54daef6d5173.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "MOTHERED is a first-person horror adventure game with point-and-click mechanics, set in a familiar yet eerily unnatural depiction of home. Set over the course of seven days, you play the role of LIANA - a young girl who's arrived home to stay with her mother after having undergone major surgery.\n\nUpon arriving at your new home, all you find is a strange mannequin who claims to be your mother. Through speaking with this mannequin, you will discover more about the role you play in this world. Can Liana help mother go back to the things they were, or will you find yourself repeating past mistakes?\n\nFEATURING:\n\u2022 A dense, engaging narrative that gradually reveals itself over the course of 7 days, each with a morning, afternoon, evening and night time.\n\u2022 An immersive, tense atmosphere that makes use of the uncanny to tell a story that will keep you guessing until the credits roll.\n\u2022 The possibility of breaking the cycle and finding your own path?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1000 MiB"
 }

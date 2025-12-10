@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/95e97f46664e8a8911f1c397f7e5a96bee13f0e4d49807627cb7c6576dfadfe0.jpg"
 	],
 	"releaseDate": 20190927,
+	"category": [
+		"Adventure",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Dreaming Canvas is a first-person adventure game where you can explore magical destinations, collect art-inspirations and paint pictures...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

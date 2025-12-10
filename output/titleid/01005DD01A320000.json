@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/89c3b6db1e1248c5721491f6bdbfe7a3cad323f4350e628193874e15c6aff1b4.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "1v1 Fighting. Ninjas, Pirates, Robots, Aliens and more.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.71 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/80f43e995f379ae105d86167412250be32d90425e34663ae481af525ce901ec2.jpg"
 	],
 	"releaseDate": 20230912,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Welcome to Escape Academy. Become an Escape Room master, alone or in co-op.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.05 GiB"
 }

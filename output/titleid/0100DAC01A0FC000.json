@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e03122b54bf4b8259d4b5a56057aeba9829aae2604360f5e09a07f8f2f644f2b.jpg"
 	],
 	"releaseDate": 20230318,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "It's a new bromance from ancient Greece: when cunning Pelias orders the hero Jason to steal the Golden Fleece from the land of Colchis.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

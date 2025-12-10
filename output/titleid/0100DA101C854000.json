@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6efec19a7f9503de7989ce1cac9c22087ec5df98042cf2d2e2b03ce497e09225.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Platformer"
+	],
+	"intro": "Jump and spin through Jubilee\u2019s precision platforming. No upgrades, no powerups, just you, gems to collect, and animals to rescue on your way to freedom!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "237 MiB"
 }

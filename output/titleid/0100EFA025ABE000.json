@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc9e6460191dae82065024b4a5e0223afa63bae50dadfaa9e119b35113cad090.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Action",
+		"Fighting"
+	],
+	"intro": "A rabbit, a deck of cards, and way too many monsters.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

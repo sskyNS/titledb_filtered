@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df00294c203cf87be3d808a29681144c69395d4a09f1f2739322bff561719364.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "LUMbA: REDUX Is a challenging, fast-paced, bullet hell shooter. Take control of LUMBA and cleanse this world of the monsters that have consumed it. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "568 MiB"
 }

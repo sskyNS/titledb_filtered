@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d704dd56d5a5b1aa015c5f68f179811fcb91674b9224962383ec6e0b70df3d5.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Step into an enchanting RPG world where you will fight in epic Match-3 battles as you traverse the lands to become a Pocket Quest legend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "610 MiB"
 }

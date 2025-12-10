@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/26d31b6c2e92676592acaa4a5ff4303941c6d0323ae9d7f77a6eb88909b67c1a.jpg"
 	],
 	"releaseDate": 20200408,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Change your fate, and fight for your existence in this narrative driven boss-rush adventure! Now with 4 player co-op!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.83 GiB"
 }

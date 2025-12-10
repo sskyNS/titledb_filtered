@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3e7267e39ed94150868d7461874e322a25a358931b1e661f1aebbdb8f74a992.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "A mysterious tower with hundreds of branching paths to the top!\n\nA hardcore action game with GBA-inspired graphics and a pulse-pounding techno soundtrack, Critadel offers a virtually limitless variety of weapon and item configuration options. With upgradeable playable characters and continuously reconfigured branching paths, it\u2019s a game that\u2019s different every time you play it!   \n\n\u2022 Three different playable characters (fearless fighter Nox, mysterious cultist Ahnushu and combat android Alice), each with their own unique starting weapons/items, upgradeable abilities and unlockable costumes \n\u2022 360\u00b0 aiming cursor allows you to blast enemies in any direction \n\u2022 Dodge-roll maneuver with limited invincibility for avoiding attacks\n\u2022 Powerful weapons that can be purchased or found randomly in the tower\n\u2022 Collectible artifacts that give passive bonuses when equipped\n\u2022 Two types of in-game currency: crystals (found throughout the tower) and orbs (earned by defeating bosses)\n\u2022 Two difficulty modes, plus a Boss Rush mode for replaying boss battles\n",
+	"languages": [
+		"en",
+		"es",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "374 MiB"
 }

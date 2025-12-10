@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/78f918c61ad393bd749ef84bdbc21f6fa343617640138a8bf29a752e03f372ba.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Searching for a new game with an engaging story, immersive battles in a dungeon crawler setting or a rogue-like game with RPG elements? If so, then Endurance is the best choice for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

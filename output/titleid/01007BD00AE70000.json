@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/94bc399da461cfe50fee15718478dba14036d1495478240127c1cc2253f2d46f.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Racing"
+	],
+	"intro": "Hit the road to epic adventure in Car Quest: drive, collect, explore, solve, discover.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "335 MiB"
 }

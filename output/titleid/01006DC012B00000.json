@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3f69559e05f80d96b3416d3b6139af7851d6ad1568006fa9d5e1e1bbd01f92c.jpg"
 	],
 	"releaseDate": 20220209,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Become raccoon private eye Howard Lotor and explore dystopian Vancouver inhabited by animals as you uncover a deeply personal story of change and transformation.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

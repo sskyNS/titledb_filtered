@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/639a14d91ee22b689e28a37e4b33a97de93329adff36c0147414e73a3140a271.jpg"
 	],
 	"releaseDate": 20240520,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Beastwatch is a retro-style horror shooter in which you play a security guard working his first night in a slaughterhouse.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

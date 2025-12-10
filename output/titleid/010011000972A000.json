@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/14258fc46582e2c2d967310347890c8e0bfa52dbe2b213471bfa55f1da5da5b7.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A brick breaker game with a unique twist! \nWith 360 degrees of potential moves, \ndestroy the gems scattered throughout the level!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

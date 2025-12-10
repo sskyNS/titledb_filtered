@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e0d8ee112160442430ebcd7fb75171f550a1b44682fcebe3f94888582d25fc1.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Rescue: The Beagles is a challenging platformer/runner with unique parallax based gameplay. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "125 MiB"
 }

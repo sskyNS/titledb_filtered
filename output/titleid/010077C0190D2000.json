@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac29e0322a84c90855800e583fb5620a311da1c1c1734a0150cc295530cc7b56.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party",
+		"Strategy"
+	],
+	"intro": "Welcome to the \"Classic Games Collection Vol.2\"!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "384 MiB"
 }

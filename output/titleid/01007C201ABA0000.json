@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/99484aa6d56ba64741df233ba41f02e0c3fa5a71ea58995052b4fcf19432a97e.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Experience the joy of bouncing through a whimsical world filled with excitement and wonder!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

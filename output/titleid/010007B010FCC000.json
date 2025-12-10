@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/63ebbee10adb0c5a466e91437cae8e054f2854785538837c8ebf1d9314179b02.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "ONE BULLET CAN CHANGE HISTORY",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.16 GiB"
 }

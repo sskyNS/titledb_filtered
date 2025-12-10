@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a508475c4e7c582d5f38eded919215af227745c5afc94bf21e4e7dc415f93d5.jpg"
 	],
 	"releaseDate": 20220720,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A new adventure awaits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.33 GiB"
 }

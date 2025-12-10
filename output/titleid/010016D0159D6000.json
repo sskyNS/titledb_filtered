@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f70c3e7aaa1c76238be91dfa101ab671f19bac23dc4eed690909cead9a9bf40.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Party",
+		"Simulation",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "A hilarious multiplayer party game full of lumberjacks and chaos. Travel around the world and through time in co-op, pvp, or solo mode!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.00 GiB"
 }

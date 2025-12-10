@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a0542834732fbef398a8ed17167aff447e95dc768f59ddb323ea94a75aa73ad.jpg"
 	],
 	"releaseDate": 20210716,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Solve puzzles, explore dungeons, and soar the skies\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.12 GiB"
 }

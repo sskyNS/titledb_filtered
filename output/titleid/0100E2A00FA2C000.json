@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f22c2f3eec9c072b3a6ff960fefa08d4d676b6ae5fe168bbdc1ca556bd24870.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Are you ready for THE craziest multiplayer car stunting playground? Crash Drive is back!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

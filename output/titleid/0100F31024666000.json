@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/81f45767cae62d594b34bb2e036069ee31315f77db5ec9cb608efde7e601c0fa.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Strategy",
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Recruit, position, and synergize in this roguelike autobattler!\nLead your warband through strategic battles to free the Kingdoms.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

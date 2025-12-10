@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ea921d17802383ad786b9b4bef23cac9ac2c46a42f4d341707d91e187a59610.jpg"
 	],
 	"releaseDate": 20250131,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Plan, steal, escape \u2013 live the adrenaline of a perfect heist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

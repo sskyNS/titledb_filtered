@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9407dd14e30ddc678696a8145e3c03bfe9e0f3d5d69b8bb73f020f0033bc243d.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Take a stroll to the Dino Park \u2013 among the dinosaurs, there\u2019s a lot of cats!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

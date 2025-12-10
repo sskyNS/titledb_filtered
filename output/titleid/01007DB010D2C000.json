@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/09053bdbd3dca76ef28875a6a82ba4d2df65cfac65233d2baae8863f4ecd0864.jpg"
 	],
 	"releaseDate": 20200422,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A unique puzzle experience",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

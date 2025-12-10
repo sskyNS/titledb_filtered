@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/234f53c285aba5469f31d58b14dd2f1e9cdf053eee2cb4fbe733f2d847ec0502.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Rush into a battle of giants!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

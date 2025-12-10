@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8ef823d4de4c79d561ecc687a7ca8844a193fa9422891af43ee2bf7eed46caf.jpg"
 	],
 	"releaseDate": 20220528,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "The world of Terrastramba welcomes you back with a new adventure of Buck Bradley. Our heroes embark on a journey to a futuristic city of New Milan.",
+	"languages": [
+		"en",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "557 MiB"
 }

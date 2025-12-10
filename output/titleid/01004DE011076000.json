@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/603f653e691fcfb1addadbdd1f890b36b30d59bc82abe880b0e68fb436b09394.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Excellent indie games handpicked for your playing pleasure \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.15 GiB"
 }

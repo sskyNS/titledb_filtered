@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/01a3556ea3726fa1eaad28609be46d29ec43ebddefca8f00b3c84bd7f42d5a7f.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Adventure",
+		"Communication",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "One Day, One Life. Embark on a mysterious journey to help Sumire achieve her deepest wishes, before the day ends and the sky turns to twilight.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

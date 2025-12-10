@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea109b64bc6e608b03d4f1dbed36e22a4fcfa811a88c221b14ff0857e22b3e48.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Inked is a wholesome narrative-driven puzzle game, a heart-warming story about loss and hope in a time where we all need some comfort.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.54 GiB"
 }

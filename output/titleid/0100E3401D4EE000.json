@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ea015f59594a61b6ab8f9c3fab0411a8e49809f0fb0e16edc4539c122bcffb7.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Alone or with up to 5 friends, follow the story of Hildegarde and Professor Cheshire, explore rich environments to find clues, and solve mind-bending puzzles to escape!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

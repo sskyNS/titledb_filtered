@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcb12694047f2f2c2da2072552e5cf194829c28c9d5748e5b1f1b1f0a65f3ece.jpg"
 	],
 	"releaseDate": 20201104,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "SOS!  Invaders has shown up!\nHurry to the scene and rescue the civilians!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "248 MiB"
 }

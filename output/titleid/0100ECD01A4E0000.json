@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d24befe46086e6fa27c760c2f679df4ee51831a3579ed0264aa95162ce63547.jpg"
 	],
 	"releaseDate": 20230523,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Roll dice, cast spells, and conquer darkest turn-based fantasy battles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

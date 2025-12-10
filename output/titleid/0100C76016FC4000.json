@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fcd7e03f2b967c5e3f8bdb0c0ce107993f78d245a9f683c4518b0188f31ec25.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Jigsaw puzzle for kids in \"Jigsaw Masterpieces\" series !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

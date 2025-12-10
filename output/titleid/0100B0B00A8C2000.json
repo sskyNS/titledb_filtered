@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3010a64ec47a243c1259386f72c0017b2cce3217be6f9390ab44f54305718033.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Powerful and exciting! All the wonders of baseball are here for you to experience! Play ball!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "194 MiB"
 }

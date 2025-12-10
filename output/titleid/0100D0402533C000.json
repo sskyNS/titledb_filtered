@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9458e263df4c95b23d5d02e785d373a6eea9938f6477b9e9f4d1314e09cc033.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Rotate the world. Change your path.\nGuide Bibi, the bunny-eared TV: rotate the stage to overcome platforms, dodge traps, and solve puzzles across 8 levels",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

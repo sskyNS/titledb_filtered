@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab7e9978e7f5a1a332a4345d6d755e5770fd5adee929d4f9af48fe075a0b8a47.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Updates"
+	],
+	"intro": "Guide hungry ducklings through 30 levels full of challenges.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

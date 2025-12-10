@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/11cacad743a56278d5efabef0bd6be04a77abb17965cfc212711de2c31017a64.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Soccer with the alpacas! Win the cup and humiliate your opponents in this fun, crazy and chaotic party-game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.72 GiB"
 }

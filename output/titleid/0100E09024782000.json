@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/49008bf625f5a7eb5b86ee1cd1c03bd3095b88deb83d7dac421067b68d06ffdc.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Fly smart, deliver faster.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

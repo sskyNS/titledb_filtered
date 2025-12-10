@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9124b056304edfa393a04e735ebb9510790c7357c4742b0efbb5ac11c78d2b00.jpg"
 	],
 	"releaseDate": 20230209,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "A chaotic shoot-em-up roguelite with magic spell casting. Stack tons of passive spells that trigger when you shoot while weaving your unique active spell in between.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e8722d5a018cfce1d577d75efbc7b695257304bf8cf88b3f6fb20070d32dbfb.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Board Game",
+		"Other"
+	],
+	"intro": "You have just found a phone. Now find out the truth.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

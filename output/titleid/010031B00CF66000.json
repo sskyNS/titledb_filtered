@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab8d573e74cb9741f96a22b1b098eae169d61cacd2685a4786ab348d1ebdad89.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Lightning Strikes Again! Take control of the AI ship Andraste and blast through hordes to destroy the Devil Engine!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

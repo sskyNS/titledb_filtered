@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c6295283517ccd969bc08ede062a56ab78ae96d82bca0f71cac9c51cac1752b.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Break It is a fast paced casual game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

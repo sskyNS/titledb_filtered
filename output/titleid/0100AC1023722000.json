@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/81557a805422ebdb4807fb5470dd4c160ad19b5f4d20dbed05e16cae7421c888.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Simulation",
+		"Party",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Craft your legacy from battle and stone.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

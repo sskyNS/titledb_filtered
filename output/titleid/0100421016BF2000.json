@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8802cc185c0e65f6f16c348f3b4762d6962f747d31ac72df5f70be0e49637af5.jpg"
 	],
 	"releaseDate": 20211203,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Uncover the Clifford family disappearance!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

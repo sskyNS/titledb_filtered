@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/52a8adc4ac49bc4b790492dcf0c7ef4d4da132cf83db55a73104b67137765320.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Why play shoot 'em ups one ship at a time? \nLaunch them all at once! \nUnleash an entire armada of ships in Shoot 1UP DX!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "290 MiB"
 }

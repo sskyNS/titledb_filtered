@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d426ba3ce5939f92c3614248c4c720757e7b818fdcd85ad777557d5ab8b29338.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The Odyssey of Cutie Athena, breaking free of the strange Fantasy World!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "78 MiB"
 }

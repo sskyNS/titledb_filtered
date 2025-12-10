@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cb5fb91d67fd6c15e38d07921bdb0b1843a274d5b1f7e8221a003a7ca19a719.jpg"
 	],
 	"releaseDate": 20181115,
+	"category": [
+		"Racing",
+		"Sports"
+	],
+	"intro": "Welcome to the Trailblaze Tournament!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.33 GiB"
 }

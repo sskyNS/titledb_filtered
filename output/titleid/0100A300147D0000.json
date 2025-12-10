@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f40adbcd7a380e19d130a72efa30bed045ac840534f8763db69e7e4ebcad61b3.jpg"
 	],
 	"releaseDate": 20211023,
+	"category": [
+		"Adventure",
+		"Communication",
+		"Other",
+		"Simulation"
+	],
+	"intro": "A choose your \u201cno\u201d adventure for people who have had enough. An interactive sitcom where you can only say \u201cno\u201d (or nothing at all). Your choices control the story.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

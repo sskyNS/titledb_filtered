@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d99114496a4ed93ba7f5a600bfcac71603298aacd0ae3560dab47c57c67e0b9.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Will you rise to the challenge and guide the Borzoi to victory in his grand adventure?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

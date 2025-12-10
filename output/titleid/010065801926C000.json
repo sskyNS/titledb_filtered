@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a05ad8db1746d5e85d63da8a725c62c1432ff92ec7b0fae73a1372bbe9f275a.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Classic arcade racer. Chase, ram and destroy enemies with your police car.\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "176 MiB"
 }

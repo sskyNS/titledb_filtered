@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c841225f9c4a6563538367b7ac3250ce8cbd5e6778fba49733a517fe876d3c0.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Magnum close call!!\nPull your gun before the enemy does!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "120 MiB"
 }

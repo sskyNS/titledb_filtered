@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a40a240d1b688d0289ec55bf76c77ec3905013a54fe0e120241399b29ce01482.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Shape up for a 2D quest to save The Flat Kingdom from 3D chaos",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

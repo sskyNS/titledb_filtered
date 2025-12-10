@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/65d82d0aa8191e9b90d38410676b682b0c3d785264446266bdb386c7aed480e9.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Save the kingdom of Ceim from the monstrous dragon!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "104 MiB"
 }

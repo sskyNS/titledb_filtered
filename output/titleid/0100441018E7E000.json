@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3fdb3e212d34c19e1d5bfe2a6d5adcf9872fdb90a8605812acb033d65ed9d18.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Earn gold and spend it on awesome loot boxes filled with amazing pictures of anime girls. It's simple, yet addicting. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

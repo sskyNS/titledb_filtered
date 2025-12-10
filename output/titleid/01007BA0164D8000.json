@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/625bb5f231a3c8ebf94abe6fa332c345f5a4660ac01a134ecddf6fdb93967bf3.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Protect your little islands in this unique puzzle-battler with adorable animals!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "99 MiB"
 }

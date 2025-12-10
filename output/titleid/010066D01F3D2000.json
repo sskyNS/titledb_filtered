@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdb97fafcc285187213b9548e5d56c87cd9a870e5b2da58d7ca10700c3e8c366.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Magical beat 'em up with RPG progression.\nCraft gear, master magic, and fight for the light.\nSolo or co-op, the fate of Helia is in your hands.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.47 GiB"
 }

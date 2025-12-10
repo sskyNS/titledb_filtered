@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/914cdf530251fbf24928a32f8787f3ab9a48bf22a88db0ae41de38972e326c5e.jpg"
 	],
 	"releaseDate": 20210208,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "LET\u2019S GO SMASH! Bash, crash and smash through bizarre pools, enemies and hazards while trying to collect stars, solo or with a friend to become the ultimate SMASHER!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "817 MiB"
 }

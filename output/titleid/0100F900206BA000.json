@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/62589773484c8670192255a149d71369051b7877f15f99e9ae0fa334fb6ab0cb.jpg"
 	],
 	"releaseDate": 20240819,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Other"
+	],
+	"intro": "Enjoy this charming graphic novel set on a magical and lively farm.The story follows the exciting adventures of Clara, a curious and intelligent hen, and her brave friends.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

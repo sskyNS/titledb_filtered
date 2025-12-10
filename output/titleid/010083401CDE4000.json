@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/29a185bc027cb6f2a8b37e54eb747243a599381fec358c604e0c5ac3e58f8cc6.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Arcade"
+	],
+	"intro": "Sokobond Express is a beautifully minimalist puzzle game that combines chemical bonds and puzzling pathfinding in novel ways.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "388 MiB"
 }

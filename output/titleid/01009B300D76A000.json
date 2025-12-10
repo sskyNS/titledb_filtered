@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6762864b2ca9cdaba8c99eaef30160d904f8867b6526db9a65b51642cdfc4219.jpg"
 	],
 	"releaseDate": 20191004,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Music"
+	],
+	"intro": "Five vastly different chapters and over 30 exciting brain teasers (minigames)",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

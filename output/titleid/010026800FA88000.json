@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7785a7290aadeab2410bdc81f1f5382f364b6bd1da234976202daa1fd77280bc.jpg"
 	],
 	"releaseDate": 20200316,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Education",
+		"Sports"
+	],
+	"intro": "Submerge yourself in one of the most immersive diving simulators to date. Gather your gear, choose your diving spot and discover what lies beneath the surface.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

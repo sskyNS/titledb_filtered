@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca00a1d17ea09ae8b907dd4fd4e8ddb39ad7d2698c36d10337355089aae4a7b5.jpg"
 	],
 	"releaseDate": 20230825,
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Destroy furniture, mess up the house, and anger your foster parents!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

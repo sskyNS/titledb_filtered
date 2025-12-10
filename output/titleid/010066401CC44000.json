@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95b92df4cfe3033bc02b024e6b2b743cb3ddb298bcf4b7ac5adc45d6a645a705.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Strategy",
+		"Action",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "Are you ready to become the ultimate champion in the world of tower defense battles? Create, grow and lead!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.17 GiB"
 }

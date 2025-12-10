@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a879addf8a52562f628d0d6d21038ae94f8ff65d019383150f524c1506382ac5.jpg"
 	],
 	"releaseDate": 20191024,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Lethis - Path of Progress is a city-builder in a victorian steampunk setting.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "554 MiB"
 }

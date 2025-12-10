@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/38b7c51470c6cff29d7eb91ef366a56f6f420a911709b14e0139c6a9eeadeacf.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Discover vast landscapes in Caravan SandWitch, a narrative exploration adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

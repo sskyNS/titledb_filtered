@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e312847be7be3233913bdff4c1954c0dcc3b314e8e22c7d29fd0bd713d975445.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "In Deserted you are on a mysterious and dramatic journey into the past of a forgotten ancient world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.93 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f6f50c56cd587d706edcaeb9cfb26ad7962bab34f8095388a13915eaf7a4b5b.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Sonya and Arnold battle a new mysterious enemy in Shockman 3!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "468 MiB"
 }

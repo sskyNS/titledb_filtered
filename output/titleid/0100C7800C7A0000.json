@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed89c141a2b93ce3eef0772dc84c5c111db50def635addeb90c25153cbcae5b0.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A battle of powerful heavy tanks! Use a variety of equipment and items to destroy the enemy's development facilities!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

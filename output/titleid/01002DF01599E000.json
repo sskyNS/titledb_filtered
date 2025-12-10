@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/078ce09f03690c507279a573aae0b02a45e38b0887e324ec576c4cb7f248c547.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "I'll find a solution to the goddess' problems!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6345a723d50103c94f893551077a6ff000f4119273052d82b1ad65bba505f066.jpg"
 	],
 	"releaseDate": 20220914,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Use the powers of gravity and magnetic attraction to fling yourself across the laboratory and solve puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

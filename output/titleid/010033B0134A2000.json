@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a852e49ca09f7bab9ceb9d13194bcf7d2d67d72b9dac612326c126fca87ca9c3.jpg"
 	],
 	"releaseDate": 20201218,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Meet Freddy. Freddy is spaghetti. Oh, and conscious. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

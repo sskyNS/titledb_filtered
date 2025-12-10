@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b22c7a3e7bf06d75cc9756a2b0d984fd437ee9badf48cec2b9dcd22144e17f2.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Become Catboy, Owlette, and Gekko and use your superpowers to explore the world of PJ Masks. Can you stop villains Romeo, Luna Girl, and Night Ninja?",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.78 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6058e2e62ab6b1a7dc2cf34ea69292ca27dbe85cb788b439756a67e6d11cf75.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Play as the \"Cat Chef\" in the spooky but cute underworld. Earn your coin by tending the trees, fishing and creating incredible dishes.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "959 MiB"
 }

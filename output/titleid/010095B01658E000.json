@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/09ec4a43fa92d2ac57f5403c5fff117f8dc23f8989d70dbf6009fa33a085b0ff.jpg"
 	],
 	"releaseDate": 20220928,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"First-Person Shooter"
+	],
+	"intro": "Entirely rebuilt from the ground up, Q.U.B.E. 10th Anniversary is the ultimate celebration of the decade-old original, bringing refined visuals, completely redesigned and revised gameplay.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.59 GiB"
 }

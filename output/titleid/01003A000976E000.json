@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d07d08375aea9f9bf05627788f9e031a9255d011946bd2971dad564f8a930448.jpg"
 	],
 	"releaseDate": 20181221,
+	"category": [
+		"Action",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Explore the most awesome sport fishing adventure now!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "557 MiB"
 }

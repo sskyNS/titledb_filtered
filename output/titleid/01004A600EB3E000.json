@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6569af971c8c0519f6bd5aad22b4df860e8bf017a119f25f0924507996fd25d4.jpg"
 	],
 	"releaseDate": 20190913,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Swing fragile porcelain figurines through horrid nightmares... Without breaking.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "492 MiB"
 }

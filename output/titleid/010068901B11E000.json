@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/542c0e209d3bc412118d87f8c57089408d2efe5f00f4d78ab019bcf5957f9344.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore a mysterious forest full of fantasy, danger and beauty",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "735 MiB"
 }

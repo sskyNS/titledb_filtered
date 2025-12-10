@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9205062092cecadf9fa8d5fb04dcec46e1aa197255acad37bd2b83876a20c63.jpg"
 	],
 	"releaseDate": 20210702,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Education",
+		"Board Game"
+	],
+	"intro": "Classic jigsaw puzzles for fun and relaxation!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

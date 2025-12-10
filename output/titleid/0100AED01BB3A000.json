@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4ea613f595b8ff59d3bf9e9455cff48bd4d6cfba2b248fce8f10d92d0cf3096.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "The Shape of Things takes Rubik\u2019s cube\u2019s basic concept but focuses on real-life objects with a more soothing vibe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

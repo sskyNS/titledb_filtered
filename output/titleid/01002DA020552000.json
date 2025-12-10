@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/08404e76a50832f241ade0b7a74b397f623afdb6a6ceb4700ae93bed62801174.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Study",
+		"Party",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Which country has the largest population?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5f01a721d7bc220db292fb359569d53b75e9868876be666f3f9724ab85ea379.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "The story follows Valentina, a brave and curious young girl who discovers a magical garden hidden near her home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

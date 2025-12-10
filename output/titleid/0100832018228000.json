@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd60490b2fd88083818fefe90f5a38adf473373669d40c90801935c107592850.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Shukuchi Ninja is a fast-paced, high intensity game with unique controls.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

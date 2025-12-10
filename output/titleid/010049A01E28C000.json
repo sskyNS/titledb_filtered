@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c77fad4af2dc5fa4056c99fb58244f90d63a308e77e7fb16fd5f9937b8dd4da.jpg"
 	],
 	"releaseDate": 20240330,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Racing"
+	],
+	"intro": "Can you survive the bungee run?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

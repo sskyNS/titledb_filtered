@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/acf2285bc66533d304d0bd4a21c35031b3cba62232c2034ef54a92c721b15ca4.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Can the overly insensitive Yuichi find a girlfriend this summer!?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

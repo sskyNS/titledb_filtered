@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b36d720e6f42d0e1eae45c77e8ae300fdd1f1b0eb42ae9a70fdea52af4115007.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A challenging platform with a love story between a girl and her cat that is missing through than 100 stages that the player will face it. ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

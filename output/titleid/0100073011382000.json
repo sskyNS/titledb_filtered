@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f0674e9beb61501b11bc174a7edd54d984e1e184579bde853b558803029c04e.jpg"
 	],
 	"releaseDate": 20201204,
+	"category": [
+		"Training",
+		"Sports",
+		"Music",
+		"Other"
+	],
+	"intro": "Work out at home and punch to the beat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.81 GiB"
 }

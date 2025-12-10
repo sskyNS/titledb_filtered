@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcf82c84ebc6b9f541e730b7d28c09eee7b32105c0ec7ac184be601325d2092a.jpg"
 	],
 	"releaseDate": 20190503,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Shadows of Adam is a unique take on a classic genre - a retro JRPG built for the modern era.",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

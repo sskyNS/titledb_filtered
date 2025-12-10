@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/59c72f536ed030b63e41ee8139770922c3222d4583c10f2c174da2b8ea7b7694.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "30-Player Action Brawl, BATTLE CRUSH\nThrilling gameplay set on crumbling terrain!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "3.13 GiB"
 }

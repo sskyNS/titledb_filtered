@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/97c78288546d4f8f0db95ce9e749d5847e8bc8f55a1a65bb68c33d194aac134c.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Adventure",
+		"Video",
+		"Other"
+	],
+	"intro": "The World After is a FMV adventure game experience.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.28 GiB"
 }

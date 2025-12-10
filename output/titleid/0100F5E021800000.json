@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46c5216e3b5f3fa2f5795c1811d3ced30f6d52aa5af813186e219e009918db7c.jpg"
 	],
 	"releaseDate": 20250215,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "The Flames of Damnation burn on your path \u2013 are you ready to face them?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.30 GiB"
 }

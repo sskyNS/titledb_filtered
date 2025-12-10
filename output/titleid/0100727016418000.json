@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eeb6d038c5a6e1a5bb6fab51808d4007591aa76ce517de024ec2a761a4dec1a.jpg"
 	],
 	"releaseDate": 20220727,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Strap on a jet pack and grab a flamethrower to hunt down monstrous foes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

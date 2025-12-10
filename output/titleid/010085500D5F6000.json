@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/870ddf044bb29de33bdeab9ff50e144a17cb76947bf4990133c34c2674d35778.jpg"
 	],
 	"releaseDate": 20190318,
+	"category": [
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "A world where time has no meaning and evil knows no bounds. Torn from a world long gone, the time traveling warrior Turok has found himself thrust into a savage land torn by conflict",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "564 MiB"
 }

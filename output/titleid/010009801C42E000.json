@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a50f55944f24b2fa76324250b5fbd6722b75f5395c70ba64312803ac02c7b899.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Simple and satisfying! Unwind your mind with this new brain training puzzle action game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "113 MiB"
 }

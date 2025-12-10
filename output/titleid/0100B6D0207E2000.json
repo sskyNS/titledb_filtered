@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4746f0d6f7a6f0e0c4b94eafe78614f432a813bb1e4ea712f946370be0eb5633.jpg"
 	],
 	"releaseDate": 20241122,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A playful narrative adventure about the warmth of fleeting childhood memories.",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

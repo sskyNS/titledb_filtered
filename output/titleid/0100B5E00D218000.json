@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/802e305052357ccb0713d9248731da94cfb33f667d1045ce106e0f850772636f.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Battle head-to-head with up to 4 players in this exciting action game!\nGet more money than anyone else!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "189 MiB"
 }

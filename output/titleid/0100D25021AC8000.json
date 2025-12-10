@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df186c323a4f01992ef5f81c9387873cea87e68d16822573d7730c18578259b9.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Street food can be great! Prove it.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "772 MiB"
 }

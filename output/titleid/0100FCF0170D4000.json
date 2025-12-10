@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d55a77702ef69284922c3d2d221958672ec6d9bc038895a798c2aed87076fd69.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Discover the secrets and solve magic crimes! Investigate the evidences in each case and hunt down the right creature.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "721 MiB"
 }

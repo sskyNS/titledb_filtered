@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cddfdf5194c5e2dfe892e91344fb81d1624d7a411b3c4277bf964576b6b2a78.jpg"
 	],
 	"releaseDate": 20240830,
+	"category": [
+		"Action",
+		"Shooter",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Rise through the ranks and become \na legendary commander!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "340 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/027b44b34bc20ecaebb80ff7f99f0acf666142a35805087d67542f6e166c75d4.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Delve into a mystical world of Tibetan legends!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "574 MiB"
 }

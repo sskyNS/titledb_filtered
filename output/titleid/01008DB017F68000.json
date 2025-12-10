@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa9c135d978039afc84698cc895a5e84fe8f4d076b201f6888ec5964be2f8b9e.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A wild journey through videogame history, Atari Mania is a microgame collection wrapped in a hilarious retro-driven narrative of exploration and surprise.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7bae3b617120d1ba865a6232a84765128b45f639dc2134a4f36b72721c4d173.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Exciting horror about liminal spaces - try to escape from the dark labyrinth!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "925 MiB"
 }

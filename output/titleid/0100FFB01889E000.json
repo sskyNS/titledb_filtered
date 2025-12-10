@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e37eb7b8234ef818bb7996e879ecbe540a6963b8db4f6740ef375005802d2a6a.jpg"
 	],
 	"releaseDate": 20241028,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Other"
+	],
+	"intro": "An action-packed roguelite brimming with challenge and despair. Survive against an onslaught of relentless hordes and grueling bosses with skill-based ARPG gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "761 MiB"
 }

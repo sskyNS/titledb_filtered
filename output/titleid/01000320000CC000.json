@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d365b275733d8910c0e69cf320401a2c4d977055540b6e443ce7aa3a7644630.jpg"
 	],
 	"releaseDate": 20170303,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Other"
+	],
+	"intro": "A Face-to-Face party\nlike no other!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.40 GiB"
 }

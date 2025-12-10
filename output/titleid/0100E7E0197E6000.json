@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a484dc6fd7f676ea8859287357cec2e727da9d088b5e57a51dc4118093d1050.jpg"
 	],
 	"releaseDate": 20221011,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Pink Explorer Is an Retro style 2D Platformer. Try to beat all the different levels littered with sweet platforming, enemies, gravity puzzles and more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

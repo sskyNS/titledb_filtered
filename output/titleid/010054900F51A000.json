@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5da33b95adecbfe8688bece03a7f81cc29e84beace6d2581d9aec254576c0282.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"RPG",
+		"Other"
+	],
+	"intro": "Rise Up",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

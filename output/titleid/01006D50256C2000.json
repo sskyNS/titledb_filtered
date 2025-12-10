@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/643438243664b061079f54f9b46feac05dc0f43643db13c5121dbe410cf2b340.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "VineCard is a card strategy game that combines war chess and light rogue-like elements.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "594 MiB"
 }

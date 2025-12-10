@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/95350669ab85aefac9a3bb3a012ee1ac62121ef24bbce6dbdbfea540ba73076f.jpg"
 	],
 	"releaseDate": 20201225,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Volley, Tennis or Soccer - choose your favorite sport, take to the field and prepare to have a blast!!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "744 MiB"
 }

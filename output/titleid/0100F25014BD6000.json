@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d0e36bdacdb62b89ecf03e9a9766a7fb279fc956f9bffbec794e56847e2106f.jpg"
 	],
 	"releaseDate": 20210617,
+	"category": [
+		"Action"
+	],
+	"intro": "Metal Unit is a sprawling side-scrolling platformer with roguelite features. Play as Joanna, a soldier on a mission to capture her treasonous sister. Wear the M-Unit 11 suit and battle against monsters and aliens while uncovering the truth about humanity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "966 MiB"
 }

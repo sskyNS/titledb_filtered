@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3360ce6761dc6890c66f366936ad67b2cd48fa922c073d7178294fed3e6d84a8.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Pop, Match, Harvest! Dive into a vibrant veggieventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "432 MiB"
 }

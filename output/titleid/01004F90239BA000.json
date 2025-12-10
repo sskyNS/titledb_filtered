@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4da0e2b570cfbed088017209e0f641bb5d597d930e5dabe6cb1331ab77e96a87.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Action",
+		"Strategy",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "UFO 50 is a collection of 50 games.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 3,
 	"size": "516 MiB"
 }

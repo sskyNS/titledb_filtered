@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfe701f82c4c2537c77a8fa5a0a510a9995f1f4d2d0f33cdd06cac48dce203fc.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Face the ultimate test of your parking skills!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/518d482fa7fa2361c6adbf4b0030cb913356639f948132859f4bb398162c1415.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Guide a little ghost and his bubble through an enchanted castle full of dangers and challenges in this incredible remake of the popular classic \"Bubble Ghost\".",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

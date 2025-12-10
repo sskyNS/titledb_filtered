@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b076de0605dd4f8ecf053bb899a6a65b16dfd603e6c1891acc3f6c1f271779c4.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "The new dynamic puzzle RPG!\nHit the road with cute heroes!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "552 MiB"
 }

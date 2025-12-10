@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b087481f5bee4bfcbf288996d27e3045d7ab27084e55b6e0860bf6ab00a287a.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "2 Player Ninja Games Play with your friends",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "134 MiB"
 }

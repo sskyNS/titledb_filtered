@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c73b535810d3d8deaf3dc88fb30e1ece1b7bf530c6bf398a2531cec01f9d1f8c.jpg"
 	],
 	"releaseDate": 20230222,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Piczle Lines, the most addictive logic-puzzle known to Man, is back in this all new story-driven, extras-filled, puzzleverse-exploring extravaganza!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

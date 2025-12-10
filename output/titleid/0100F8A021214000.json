@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f7631ee9bf83eaac121bdacb08df6d3ba081b3c99625f4afd4c68ddb7ff6fd5.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Sports",
+		"Board Game",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Lace up your skates! Your favorite ice sport is here in a new fun form\u2014control the puck and upgrade your team!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

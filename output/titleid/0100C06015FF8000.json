@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/caf6e7cc926018e10bf67010a2e1e08fed9bf108b1488dd9b00a502884631320.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Winkeltje: The Little Shop is all about building, decorating, and running your own old-world fantasy shop. Impress your customers, craft items, and be the master of your very own shop",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c058b821482d2750b6236ec10a248ae9ac7a8dfec82cd19c211c74a017c29b4c.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Cat in the tomb - Challenge your reaction!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

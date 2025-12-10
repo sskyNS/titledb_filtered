@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcfadfaef3a8f8aff1957ac33d7becc0c0dfd97696db57a24a8df5b1f9db84e8.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Music",
+		"Study"
+	],
+	"intro": "Escape to serenity with every beat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "945 MiB"
 }

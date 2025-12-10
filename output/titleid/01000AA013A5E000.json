@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ede734d7027f66467a48ee60e95dfbbfc165e6dff1d6b5f909a20b5ef696cfe.jpg"
 	],
 	"releaseDate": 20210406,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Survive in outer space! Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.49 GiB"
 }

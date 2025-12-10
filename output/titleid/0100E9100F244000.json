@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/01753bb31554f8bba10c079fef6c9fdb4272d55f8f9d6d14f64fdf647337a08f.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Command destructive spaceships to obliterate hordes of enemy vessels, while quickly solving puzzles to weave through networks of vibrantly colorful, adversarial machines.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.17 GiB"
 }

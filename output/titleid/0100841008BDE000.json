@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/71c1aaac494a2735295eacd8ff61312a91ff392144e853e9ecb2619b8f8f2df8.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Humanity is in crisis! Survive the perilous conditions on Mars to build a new future.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.90 GiB"
 }

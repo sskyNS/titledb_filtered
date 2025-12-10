@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/11a1fba3ce1676e4a3903ed1625dfcaaa77e9a8e4e4f0f836970f6d93b8c4ca1.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "A story of love, lies and revolution.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

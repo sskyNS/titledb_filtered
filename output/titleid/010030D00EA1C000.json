@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0874462c35d06ecc1bccca3913e472e85e33fa44795cdecd4e0b3fa66ea1d83d.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "\"There you are, my little thing... Wondering who am I?\nLet's start here, with your first experience of life...\nMaybe it will lead us somewhere. Shall we?\"",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "609 MiB"
 }

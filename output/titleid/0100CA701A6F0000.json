@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12aaa1c398f0a5103d39107b43a2e22197028b4ef07d7d764112cd6ca96e9c80.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "An antigravity racecraft vehicular combat racing game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "643 MiB"
 }

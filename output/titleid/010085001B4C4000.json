@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/acd18041e6d3d4adb9c206e0119620ceab07cb4a47a0105e79d8c34f49a48f81.jpg"
 	],
 	"releaseDate": 20230805,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Dive into the Sparkling World of Wash Simulator! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

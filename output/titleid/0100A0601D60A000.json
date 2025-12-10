@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e44843aed6790838d96cb2a808310869f0474d72b000293d60546d4e16dfea8.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Unravel the mystery of a missing journalist by investigating an apocalyptic zone full of anomalies and dangerous secrets.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

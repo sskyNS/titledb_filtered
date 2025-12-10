@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/89bd4e2ba5f2dff4bc09b11916d97a9a6dd57da857f962c065847e99a754ccfd.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Twenty years after the release of the arcade version, the masterpiece shooting game \"Castle of Shikigami2\" has descended once again with increased power!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.18 GiB"
 }

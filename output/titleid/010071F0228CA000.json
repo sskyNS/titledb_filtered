@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3371a4b8bd0439583736d2697f16d36f5204f1c002fa88411c91725321ae24dd.jpg"
 	],
 	"releaseDate": 20250513,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Venture through the Labyrinth Of The Demon King, solving puzzles and fighting fearsome monsters in an epic quest to track down the demon who betrayed your lord and end its life.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.19 GiB"
 }

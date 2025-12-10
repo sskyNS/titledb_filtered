@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/38612dca6147f2b717542df6f804397f787f68847aa11cf0b365e377ebe578dc.jpg"
 	],
 	"releaseDate": 20210409,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Gravity Heroes is a fast-paced, chaotically beautiful 2D platform shooter. ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "534 MiB"
 }

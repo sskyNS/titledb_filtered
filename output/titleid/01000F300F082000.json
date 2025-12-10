@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0306f25f7c8ed40062ca88ae116eb1f6763dba0786f269d6ef9857a60012368.jpg"
 	],
 	"releaseDate": 20190926,
+	"category": [
+		"RPG",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Enter the world ripe with magic and monsters!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

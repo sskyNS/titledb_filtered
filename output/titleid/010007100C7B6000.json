@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/56ad54cb9e065ca5eef8d0262ed493c9d8035d536adfe6887b8f512a46dc9632.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A new adventure in a world that surpasses imagination! It's up to the chosen ones to strike down evil!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "85 MiB"
 }

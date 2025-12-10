@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d65b1656cfc8b8bf2914503513fae59ad166916ef332aa0ef0cfb1c99cf0fe6.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "Fly many solomissions or fight against other players in multiplayer and relive the good old arcade times!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "654 MiB"
 }

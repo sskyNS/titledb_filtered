@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/61689d956b4a441b22277764b883d64f4a64eb21e20bdbcf16ef88465f8b8689.jpg"
 	],
 	"releaseDate": 20251202,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "Cozy family game with the cutesy animal friends - train yours eye and brain , and see who remembers best!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "620 MiB"
 }

@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/42199063009a1071b7054cdcb05897e470b1cd4cde858e4a5d2a0695e6a08194.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Study",
+		"Training",
+		"Party",
+		"Utility"
+	],
+	"intro": "Find one different cat among many cats!\nA brain training game that exercises your blink of an eye by finding cats!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

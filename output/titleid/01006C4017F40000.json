@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6e4fb7faed3d5423e6d56ace98e5d70bf133598a23ffd9b2b57ee600c13dedc.jpg"
 	],
 	"releaseDate": 20230608,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "A 2D side-scrolling action RPG set in a fantasy eastern world. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world full of joy and sorrow.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.87 GiB"
 }

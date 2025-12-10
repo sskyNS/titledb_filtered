@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/80e1491ddc38ba79694fb98713f4c89c67ebd718117018fd0ffe6e4e88b2da6f.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A turn based strategy game in a sci-fi setting \u2013 command a team of tough specialists in their efforts to defeat the alien menace. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.24 GiB"
 }

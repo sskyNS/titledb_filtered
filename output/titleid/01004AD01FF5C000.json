@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dfeb736b68e1ac95eaea0f3ed3fb72aa7290fdfba18c6212664b7a761aa4c3b.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Wouldn't anyone be happy to have a girlfriend who makes them lunch and comes to pick them up every morning?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

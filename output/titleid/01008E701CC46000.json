@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9a951280a90fede8218c49c08ecc2529246327ac63a08df6903f7581a9a7798.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "Blast your way through helix platforms, smash, bump and bounce to reach the end! Sounds easy? You wish!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "485 MiB"
 }

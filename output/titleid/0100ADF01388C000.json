@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9e3f1e3e4a1f282128d101a639378559874167f81267f10a5691dee7368b72d.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A creative puzzle game by a single developer. Each level is designed delicately for puzzle sovling. This will be a wonderful adventure and sometimes even crazy. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

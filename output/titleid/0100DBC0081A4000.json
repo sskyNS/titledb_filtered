@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a7842ab11530554adedd9369c56d7df07b42280217089e6f18d1732cf121a78.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Alien blobs from space are invading!\nIt\u2019s up to the ACORN to stop them.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "635 MiB"
 }

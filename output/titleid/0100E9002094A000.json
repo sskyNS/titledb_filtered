@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d9f9ee73900a6538e59ca6caa1056eb6b1edf51bb1fcb52fbaf4479659153a0.jpg"
 	],
 	"releaseDate": 20250114,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Lifestyle",
+		"Training"
+	],
+	"intro": "New block puzzle game, offering a relaxing yet challenging experience for all ages.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

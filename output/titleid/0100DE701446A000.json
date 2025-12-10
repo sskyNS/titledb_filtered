@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/06ea03493eddc53abda5a280de6941e8527cdf92a70e069f8491fc480e4c8401.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u683c\u95d8",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "\u30b9\u30c8\u30ea\u30c3\u30d7\u30a2\u30af\u30b7\u30e7\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u300eAKIBA'S TRIP\u300f\u304c\u3001\n10\u5e74\u306e\u7bc0\u76ee\u3068\u306a\u308b2021\u5e745\u670820\u65e5\u3001Nintendo Switch\u5bfe\u5fdc\u30bd\u30d5\u30c8\u306b\u306a\u3063\u3066\u518d\u767b\u5834\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

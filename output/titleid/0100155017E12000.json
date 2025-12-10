@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/502a1bdb46f76b12530bebc6595af88e484f394a00ac4e39a454d9847c81a06d.jpg"
 	],
 	"releaseDate": 20240508,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Guide a little girl through a surreal and nightmarish world of darkness in classic platforming style!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

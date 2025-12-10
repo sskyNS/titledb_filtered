@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a64925d41cfb16cc66a228bc19bb6b623df6232630b09d126112ec63ba244188.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Conquer the Summit with OVERTOP!\n",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6250a81f842fc30959cafbad9ada3a973b8b315fd13603ba2e0e4b8150051e4b.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A 2D precision platformer about five rabbits. Carefully navigate life-threatening obstacles, setting out on an arduous adventure through stunning environments!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

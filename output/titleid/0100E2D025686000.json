@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b7e5743c89faa2d3a69fca616d3e97b00343c8dbbd8195341f6e3e4365338d3.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Arcade",
+		"Communication"
+	],
+	"intro": "Enter a divine garden where love blooms with Greek goddesses.\nWill you win the hearts of Aphrodite, Artemis, and Athena?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "299 MiB"
 }

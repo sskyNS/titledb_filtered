@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ee1016cc24a8dbeb3c98cedec5e2600e03f0fdc404611e2a69874fff67edcaa.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Action",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Slaughter your way through demonic hordes and mighty bosses!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "975 MiB"
 }

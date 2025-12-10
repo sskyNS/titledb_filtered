@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83d28541a7005e05452605f701a04ae0a23fd08f1e60b26893bf6ed654486703.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Sports",
+		"Board Game",
+		"Party"
+	],
+	"intro": "A simple yet exhilarating tennis game to play anytime.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "144 MiB"
 }

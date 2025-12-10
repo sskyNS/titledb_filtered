@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dece039288b6438b1a42a51b1c61f27d6e5142b25a1002cb7a7a9df61e30c840.jpg"
 	],
 	"releaseDate": 20211018,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "When his 2 young children mysteriously vanish one night, it's up to their single-dad to do what any good dad would do: Go to the end of the universe and bring them back home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.90 GiB"
 }

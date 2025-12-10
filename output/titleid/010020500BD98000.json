@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5808af1775444a556ee7f07cbd3f4df161194526fb3b58d729db0bb4a5b2e93.jpg"
 	],
 	"releaseDate": 20190212,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Flight \u2022 Flow \u2022 Freedom",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.23 GiB"
 }

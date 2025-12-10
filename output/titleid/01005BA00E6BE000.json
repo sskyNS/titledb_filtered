@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/eecd43ad4fb58ccc5f8017f49e377d19f27e36254c47150a48dd62c0e5aafd1a.jpg"
 	],
 	"releaseDate": 20191025,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Read the wind and aim for a hole-in-one! Conquer all 18 holes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "78 MiB"
 }

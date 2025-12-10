@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa690b301ea0e717977a39585d7f17796f57ab1b92e65c5b8a24aa95ca70b23d.jpg"
 	],
 	"releaseDate": 20210611,
+	"category": [
+		"Education",
+		"Training"
+	],
+	"intro": "Programming made fun with help from the minds at Nintendo\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

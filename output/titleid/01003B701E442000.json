@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea89303668470eb65ab2f8c229c37e62dfa0662e7181cb4130fc6c56f377fcf4.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Wild Bastards is a hybrid FPS/strategy game from the makers of Void Bastards.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.37 GiB"
 }

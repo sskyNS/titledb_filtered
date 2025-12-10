@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d861869fb14860709f4bce6c75d76fbb13ab1cbc464c9f23d2086395e9198fff.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Survive the unforgiving world in the action rogue-like adventures of Space Robinson.",
+	"languages": [
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

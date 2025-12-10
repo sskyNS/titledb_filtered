@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/972b1b0981f101bb8d4856e1e717db6bd1611c5e4d568de3156517ad8a11025c.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "1-2-3 or 4-5-6 .....\nSpot the outlier.\nAmong the many dice, there is one that stands out.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/52e413d4e7cc50064cea2a6a16007b78233c91ba7a7ca4bf1702ae5d3e1fe74b.jpg"
 	],
 	"releaseDate": 20240708,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Immerse yourself in a lush and enchanting world, where every step brings you closer to discovering the secrets that will lead to the reunion of the Whispering Paws.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "530 MiB"
 }

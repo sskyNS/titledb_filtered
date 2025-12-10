@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee7f3db329a80211aed19fbe1b39616d8603ae77c80e440f42be407ba5ca4c9c.jpg"
 	],
 	"releaseDate": 20240124,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Enter the world of Cherry Tower, a charming 2D pixel platformer that will take you on a sweet adventure unlike any other! Join Cherry on her small adventure climbing tower to return home and maybe even more. Overcome obstacles and traps to achieve your goals.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "87 MiB"
 }

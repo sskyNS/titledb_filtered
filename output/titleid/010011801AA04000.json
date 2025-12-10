@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e31f4116693e37328103600c31f18c6952232fbd24052700cf9e56d0f6f79b5a.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Shooter",
+		"Racing",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Step into the neon-soaked world of Cyber Vibes with Cyber Neon Bundle - where you'll hunt, slash and survive your way to victory in two adrenaline-fueled games!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

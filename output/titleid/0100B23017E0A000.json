@@ -7,5 +7,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/689c624e21d8a229f229f98f642cd0f38e4e799fb8930e5005ccc1208d8c8751.jpg"
 	],
 	"releaseDate": 20240131,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Lifestyle",
+		"Arcade"
+	],
+	"intro": "Can you beat the high scores?\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

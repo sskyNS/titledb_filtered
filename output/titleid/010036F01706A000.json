@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1283a2985883a459b40b09a2290570f68ce06392febcbe4240319a4ab3bb27bf.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "An open-world skiing and snowboarding adventure for Nintendo Switch\u2122!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.15 GiB"
 }

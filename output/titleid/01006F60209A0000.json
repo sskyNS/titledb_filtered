@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c0c1e53cae4b3ed3705c0fe4f0130900f25cff279433e4f74791257a3242d00.jpg"
 	],
 	"releaseDate": 20250416,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Pack it all up as you move furniture, house plants and more in whimsical first-person style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/02a1ded615d2d76b89aae0c1dc0c98cce1c037b54ee27a9d7e3bcdf7d43d0cdd.jpg"
 	],
 	"releaseDate": 20211129,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "In this meticulous 2D RPG, play as Prince Sayri, and save the memory of ancient civilizations from wicked magic that aims to destroy the stories contained within.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.38 GiB"
 }

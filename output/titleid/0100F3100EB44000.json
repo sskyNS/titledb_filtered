@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/51b61d04d7c65c8f8324cabde68965c53386701dcf7b53c17da2d9241f9384f5.jpg"
 	],
 	"releaseDate": 20190712,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "A psychological horror of seeking satisfaction on the border of two intertwining worlds. An intriguing plot with erotic and occult themes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.06 GiB"
 }

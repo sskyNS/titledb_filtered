@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a6db792f0ac7c1b2c5555d09d6db15e4a446e6675403bf29285606d27e03669.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Training",
+		"Education",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Join six adorable animal friends on a journey to master math! From counting to multiplication, tackle fun challenges, earn stars, and watch your skills soar\u2014all at your own pace!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "693 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e8c5038a0927b3d118ce9adf1cd4a461bcd1507c4e2ede5b1a622f0bf236553.jpg"
 	],
 	"releaseDate": 20210219,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Four nerds walk into a dungeon. \nIt\u2019s not a joke, it\u2019s Doom & Destiny Advanced.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

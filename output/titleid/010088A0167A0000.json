@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a7b1842c427d914aab58240b1f9f302027a9451410faf9c2ea6c9e8fae7983b.jpg"
 	],
 	"releaseDate": 20211207,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Set your own checkpoints in this precision platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "305 MiB"
 }

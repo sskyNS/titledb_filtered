@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/146eb8d7882cf90912099669b7cb9eece589726c53c4490621bdf9b24bb14156.jpg"
 	],
 	"releaseDate": 20230712,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Five years after the events of OXENFREE, Riley returns to her hometown of Camena to investigate mysterious radio signals. What she finds is more than she bargained for.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.86 GiB"
 }

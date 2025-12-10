@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a35064b5ef1747c505d1cbc399665037dee483d3c5e5ceec7bf5c7adfd7a489e.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"RPG",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Experience a unique, retro-style RPG featuring challenging battles, platforming exploration, and a fantastical tale about friendship, faith, and finding your place in the world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

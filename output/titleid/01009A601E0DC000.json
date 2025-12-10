@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/df2e6fa44d081f98bcdf588c8ead80c45702bef2b5e33946d5c96654b0628f36.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Prepare for the coming invasion by powerful enemy forces!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "79 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f1b2b16106d45503d5fca996fb291ebbfd060350c4d8b850fd2ad568250f920.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"\uc561\uc158",
+		"RPG"
+	],
+	"intro": "\uc14b\uc774\uc11c \ud568\uaed8\ub77c\uba74 \uc6b4\uba85\ub3c4 \ubc14\uafc0 \uc218 \uc788\uc5b4.\n\uc655\ub3c4 \ud310\ud0c0\uc9c0\uc758 \uc138\uacc4\ub97c \ubaa8\ud5d8\ud558\uace0 \n'\ubc1c\uacac'\ud568\uc73c\ub85c\uc368 \uac15\ud574\uc9c0\ub294 \uc561\uc158 RPG.",
+	"languages": [
+		"ja",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "3.89 GiB"
 }

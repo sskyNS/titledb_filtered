@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14a047babf4cb582739656a0cfbeb96ca027521e9432fcea1787b25105ade9f0.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Other"
+	],
+	"intro": "When you take a closer look, everything is an adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "976 MiB"
 }

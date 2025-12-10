@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a82fb081adae5c9ae4f86142b5b3e5c8559e478dc78fab1dc8388fb64afed63.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Shooter"
+	],
+	"intro": "No ghost can truly die in Eternity, but all can be led astray. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.91 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a0bb22c5d946841c363df337eb07e64b55d31857b338f6317ce0dc5b9d44d90.jpg"
 	],
 	"releaseDate": 20200221,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Ego Protocol: Remastered is a mix of classic platformer and logical game with retro, handmade graphics! Be smart and quick, solve puzzles and avoid traps! Guide your robot safely!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

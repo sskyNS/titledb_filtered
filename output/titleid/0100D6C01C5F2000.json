@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/eca44c6750150aad47894b2bc6c89d3e155803a3dd2f90180919779727545b7b.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "CometStriker DX is an arcade action shooter featuring dodging, strategic power-ups and intense boss fights!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "556 MiB"
 }

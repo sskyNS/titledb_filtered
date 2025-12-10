@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3234d88ff9a816a264b38337e9a10608fcf5f88b8706951954714a68ea207292.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Sniff. Track. Hunt criminals. Find and rescue victims.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e13ec70b9bc39f8e5efc2f2b28111bdf1343571874c0c9ada335c0e8f7de7132.jpg"
 	],
 	"releaseDate": 20171005,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Jump, attack, dodge! \nWelcome to the pinnacle of run-and-gun action shooting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "113 MiB"
 }

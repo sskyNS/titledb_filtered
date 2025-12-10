@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4f85c66e142d40c0671ef52b8c91ce0e28593dc139e2b2993ffa59e5f652808.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Kick, launch, and get chased! It's a scramble emergency!!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "109 MiB"
 }

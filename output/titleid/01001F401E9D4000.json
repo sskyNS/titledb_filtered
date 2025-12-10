@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb88dd324632db1afaa874eb7ec1093aa6e12cfa9e806bde976635a7cc75aff6.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Dive into a world of endless possibilities as you design and customize your very own farm without the hassle of resource management.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "311 MiB"
 }

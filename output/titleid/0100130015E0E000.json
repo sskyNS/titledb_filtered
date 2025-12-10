@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f88ded3ce4be207aff04554c61bb368397bfd2d7d4431534baaf02ea609296e.jpg"
 	],
 	"releaseDate": 20211209,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take on the mighty Dragon to save your beloved CELIA \nand her hometown from danger.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "120 MiB"
 }

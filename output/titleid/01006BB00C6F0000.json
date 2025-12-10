@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e82fd2260ccf567ebb34d41bb16a6078593add3d925e0089dbdb776a5415eeac.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "\u201cCastaway, you should know the truth!\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.89 GiB"
 }

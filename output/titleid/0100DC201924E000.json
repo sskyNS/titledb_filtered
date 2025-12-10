@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4992029ff830525c945f337f6848d6b9890ee2bea0e632b1fa57254acd1a4f09.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "It is a third person fantasy action game, where in the role of a brave wanderer, help dwarfs to defend their kingdom fortress from a rampaging mob of beastly invaders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

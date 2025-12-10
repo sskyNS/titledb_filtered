@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/77f70e9aceb70a09b0d08cd9d00a4ce56197aef40e8931ca86262b52c89154b1.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Get ready to race with Horrid Henry\u2019s Krazy Karts! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "470 MiB"
 }

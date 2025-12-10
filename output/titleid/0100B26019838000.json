@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1938a1c8d7fc794fc352cac3c3b7ca7eecf7974556c10c6dd621bb65bd1861a1.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Racing",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Eric Eraser and friends are racing at school!?\nSpeed through a variety of hazards as fast as you can!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "392 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/891f21eeaedc8d5b317a37ed560220083f41f7cd7f4fbedf30c994f8b8d0b626.jpg"
 	],
 	"releaseDate": 20230815,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Embark on a soul-soothing journey through the captivating Summer Valley. Leave your worries behind and let the beauty of this peaceful world envelop you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

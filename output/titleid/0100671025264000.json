@@ -8,5 +8,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/be318e1849b071741dd2e4d017fb0cf0e784901dd870f811d6f8c78ad836cd6e.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Action",
+		"Simulation",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "The quarantine zone is humanity's last hope. You hold the key. Examine every survivor, search for the truth, and never let the infection in. The fate of the living is in your hands.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "574 MiB"
 }

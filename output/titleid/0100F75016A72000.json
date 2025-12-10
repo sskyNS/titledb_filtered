@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/927f5ec1a663f70efb4463b7f60d125f944f5552df9c1f8df2a32ae381b5550d.jpg"
 	],
 	"releaseDate": 20220107,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Dive into this chilling Solitaire adventure and decorate a cemetery to welcome the souls from the Land of the Dead.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4652cce4c4c515aa7ac08094f50d1c49a02258af702686ba99855512021b0e75.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Reclaim your destiny.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.24 GiB"
 }

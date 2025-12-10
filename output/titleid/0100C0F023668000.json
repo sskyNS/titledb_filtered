@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a911d96875e9648f9879541e6784855283149ff15b291afa4508d647fd7dd99.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Fight Thor and and earn your place among the Aesir. Unlock new blessings from the gods and complete challenges to unlock the wisdom of the runes",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.32 GiB"
 }

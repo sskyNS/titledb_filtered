@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5973a8df924e7e1fa467ff18bd6fbf4cbe8408872731495e24875ea44c2e9b3.jpg"
 	],
 	"releaseDate": 20181120,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "41 Challenging Platforming Levels to Master",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "308 MiB"
 }

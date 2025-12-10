@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1114195cd6c6f8266e7c62192e7c1854b0feb89c7d67e138cac978bbdbf05a10.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Roam the wilderness in battle golems! A brave story of grit and oil.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "577 MiB"
 }

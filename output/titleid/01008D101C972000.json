@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9db63e3c347550b66e8eabc51bba3efe4258b4905f2ff72ab73d062902e2c03d.jpg"
 	],
 	"releaseDate": 20230923,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Captain, it's your time to shine! Rule the seas in Battle Sea \u2013 a new version of the classic game 'Battleship'!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

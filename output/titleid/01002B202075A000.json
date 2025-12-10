@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ce20bb242b3d8c9c0ac182be696cb10b00c7802144ec7457aff2497f237fe82.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Terry wants to launch himself into space using his new car. Doing something this cool and reckless will surely make him the talk of the town.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

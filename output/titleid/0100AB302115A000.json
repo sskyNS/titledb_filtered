@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6dadd5fb3499316fe1eff6459c7f8ca566595ad71c1963d2468bbae1eb51508.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Only you can save the world from the deadly virus known as Scurge",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "87 MiB"
 }

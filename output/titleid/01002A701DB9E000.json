@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/018cca40d4df5fca7c228d4bc327acff52a846ee5c3aab621ff0f27a00bd2843.jpg"
 	],
 	"releaseDate": 20250128,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Embark upon a vast, snow-ravaged kingdom in an epic quest to overcome an ancient, blood-starved evil, in this brutal action-RPG adventure",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.33 GiB"
 }

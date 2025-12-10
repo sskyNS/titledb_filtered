@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf0b2f8b528968c3477bf33a7c4b1f32cf744b1a36f9820d4ad382f3116cd1e5.jpg"
 	],
 	"releaseDate": 20221114,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Is it a bird? Is it a plane? It's falling too fast to be either of those. It's McPixel! A wanna-be hero who keeps getting mixed up in the most unbelievable situations you can imagine.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

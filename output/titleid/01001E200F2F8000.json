@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b311a916ef5183557ab0f04889df0509b90f9625c0ff2869c0c342101c4b74f.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Lead the group of adventurers, test your combat skill and explore the vivid hand-painted world in tactical RPG Grimshade on Nintendo Switch!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.79 GiB"
 }

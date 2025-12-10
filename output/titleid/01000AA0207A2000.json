@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/212df13bd33e6dad49ec5ea329bbe9ce153bf1f255127391d987757bd56f0669.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "An adventure game where you'll play as mouse-vikings who fight for honor, fame and survival.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "138 MiB"
 }

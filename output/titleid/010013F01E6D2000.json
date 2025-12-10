@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f220e75258e1a25f750fe5dd9fc0f461120a47be22dffe464ce2dcd68b74433.jpg"
 	],
 	"releaseDate": 20240312,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A cozy survival adventure game to escape from your daily life. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

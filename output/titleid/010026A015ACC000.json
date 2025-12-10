@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/053953d4add813511cf2561c3aaf9698dc603aa1cd424bb2a3fd65e6d3130e0b.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Use your radar to hit the course checkpoints\nand shoot for a high score!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "38 MiB"
 }

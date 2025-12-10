@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cf55a5364f0ee0c71b6e02c0c9643b1b584b36bac8b10d9256b240ff4fee75b.jpg"
 	],
 	"releaseDate": 20180123,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Can you outrun the end of the world?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.08 GiB"
 }

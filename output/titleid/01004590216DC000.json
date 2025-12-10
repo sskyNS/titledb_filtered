@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/629a6f96a52958fa2236ae13142f2fbb1d71f57aba036a1c14f23e98c88b4b4a.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Adventure",
+		"Music",
+		"Simulation"
+	],
+	"intro": "Blue Wednesday is a relaxing and lovely adventure game focused on story, music, and characters. Explore the city, meet various characters, and have conversations.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

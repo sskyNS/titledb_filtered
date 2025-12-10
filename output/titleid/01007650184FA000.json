@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab446e7f41698f3abe58cbce0e26a8338c0751df50af0c2effaeadc7725ec3be.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Roberta Williams brings you a reimagining of the classic text adventure - venture deep into the earth and discover mystery & treasure. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

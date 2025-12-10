@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e14553969c7c9524c86844aa789f3d4c7e056e7c3d323dc1d7b75fdda9c06cfe.jpg"
 	],
 	"releaseDate": 20250802,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Let the wind guide you",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbcaf726946680d4c50dbbbeb6f03b5e6aa363c7ccf7d8d8fa61adab1353a626.jpg"
 	],
 	"releaseDate": 20191016,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"RPG"
+	],
+	"intro": "Experience the old-school charm of classic farming games with the suburban gothic atmosphere of certain 90's TV shows! Farming, crafting, combat, romance and mystery await!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

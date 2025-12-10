@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/055e2661aef3e44eb6e4e482d7bfefa14a505167df3c2fd1a02b68ad6a1d0c6a.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Develop your mental skills and have fun.\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

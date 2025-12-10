@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ae3edeb5e1233e266a8bc400ad901180528011365edd3a052e20f325d5a64c8.jpg"
 	],
 	"releaseDate": 20240629,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Guide your brave princess as she makes her escape from a formidable tower. Battle through hordes of mighty enemies, overcome challenging obstacles, and face off against the fearsome dragon. Utilize unique abilities, collect powerful items, and strategize your way to victory.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "91 MiB"
 }

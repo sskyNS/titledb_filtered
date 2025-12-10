@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fa5d61e49811f71dece0245a303b87a9bac226413b3b48d85f47d30f20e81db.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A different game every 10 seconds!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

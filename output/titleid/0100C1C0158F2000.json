@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bda0573406eecebccd76c46296b78f1ecb3d75b8268f67c16dfcae8a213be91d.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A tank shot that blows everything away with delightfully!\nEach stage equipped with a hot skill!\nBeat the boss and enjoy the cute girls!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "352 MiB"
 }

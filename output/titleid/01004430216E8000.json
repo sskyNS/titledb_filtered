@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/beea8bc28e9b166d265a2a59a8ff4956693d769aa60e05819b6b00688f334416.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Ready your racket, find your rhythm, and dominate the court!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.07 GiB"
 }

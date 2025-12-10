@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/919c1964f078f75cb2cac5ec3388e0d026a71b0e9c21330eab8bdc1eaaed6848.jpg"
 	],
 	"releaseDate": 20231204,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Build an epic track from wacky pieces as you battle in this chaotic party racer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.30 GiB"
 }

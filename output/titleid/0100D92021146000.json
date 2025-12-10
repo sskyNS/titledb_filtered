@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ea5366f980a5785dcccf571ef03c0f99dd68b248595177318746bdc2c083e38.jpg"
 	],
 	"releaseDate": 20250118,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Show your ability to survive! Be a part of a wild world with unlimited borders!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

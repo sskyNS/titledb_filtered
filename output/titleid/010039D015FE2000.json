@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac454191a0a5c9bc4f466cc3c6851afe03f50645f88c36e5a611704d8d806d55.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Music"
+	],
+	"intro": "A story of love and crisis. A dramatic visual novel where your choices determine the ending of the story.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.89 GiB"
 }

@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e54dd559ab6b2fd6872d881ef64b039b5c53acd56dc64ce5f1beabec0bf6ff18.jpg"
 	],
 	"releaseDate": 20171212,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Action",
+		"Other"
+	],
+	"intro": "Stern Pinball Arcade is the most realistic and accurate pinball game ever created!\n\nStern Pinball Inc\u00ae has created many of the all-time greatest pinball tables. They are the most experienced and largest producer of real pinball machines in business today! Modern classics in this collection include:\n\nGhostbusters\u2122 Premium\nStar Trek\u2122 Vengeance Premium\nMustang\u00ae Premium \"Boss\"\nHarley-Davidson\u00ae / Third Edition\nLast Action Hero\u2122\nMary Shelley's Frankenstein\u2122\nStarship Troopers\u2122\nHigh Roller Casino\u2122\nRipley's Believe it or Not!\u00ae\nPhantom of the Opera\u2122",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

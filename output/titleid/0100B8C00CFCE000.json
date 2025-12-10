@@ -11,5 +11,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/609e8cb4c225b995965c05282ea02eb1ef0dd8c11e58b62ca4eaff856d94a5d5.jpg"
 	],
 	"releaseDate": 20190301,
+	"category": [
+		"Platformer"
+	],
+	"intro": "Help the greedy Pea make his way through a string of levels filled with deadly traps and cute (but dangerous) enemies and collect all the coins he can reach!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

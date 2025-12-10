@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b67aa678beb0628dfe43e27319aaae0ccf3b46c996db8a3a25f58503f075a5f8.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Stars in the Trash brings the magic of animated movie classics into a narrative-driven platformer that combines action, exploration and puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.57 GiB"
 }

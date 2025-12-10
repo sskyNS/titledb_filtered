@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8582038e6ff70a3f0f53969869106cb2f7a48a78d61f20336c616d49e348ee26.jpg"
 	],
 	"releaseDate": 20181127,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "The definitive 99Vidas experience! More Stages, More Enemies, More Game Modes!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "450 MiB"
 }

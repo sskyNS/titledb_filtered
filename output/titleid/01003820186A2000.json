@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/598eac8a49173be5daa7e67527cc174f77aee18fd3b34000af7a75603247606c.jpg"
 	],
 	"releaseDate": 20221118,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Shoot zombies and other monsters to return home!",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

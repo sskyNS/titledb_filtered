@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f12f054977324e04304a12003204236952df1fa77208b60ae73f9040da83a32c.jpg"
 	],
 	"releaseDate": 20171102,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Climb your way through the evolutional ladder. Start as a little organism and transform into a magnificent aquatic being.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "475 MiB"
 }

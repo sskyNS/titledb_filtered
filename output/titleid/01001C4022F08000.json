@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4d3f4f04647c9b36ceddf8f66581a6dbd306114a205ccbf180fb908765b99e0.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Upgrade. Evolve. Dominate.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

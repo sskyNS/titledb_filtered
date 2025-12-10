@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/617d0601adcdd01940b8eabdbc699c845b5bd5d854d2e780b0b632047b08815d.jpg"
 	],
 	"releaseDate": 20250301,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education",
+		"Action"
+	],
+	"intro": "Anomalies await you in the shadows of The Pools.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

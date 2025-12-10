@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f9e85113fbfe16df8f9e7f858893fdebc575b8a25677488d1e4750ca8cb4558.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "An occult puzzle game.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

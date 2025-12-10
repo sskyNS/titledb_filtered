@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/feaa132c0021ee82843ad7b6ca1fdbd3918f02a214d7db2c1dc2a192a645d6b2.jpg"
 	],
 	"releaseDate": 20230714,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Get ready to experience the ultimate speed sensation!Feel the Speed and conquer the waves!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "913 MiB"
 }

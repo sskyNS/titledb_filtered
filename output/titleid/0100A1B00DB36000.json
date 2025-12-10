@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5a9af55b4b52e73dc290ad2558269acfedfb178fd8b5304815cd4be40e62b85.jpg"
 	],
 	"releaseDate": 20200721,
+	"category": [
+		"Strategy",
+		"Action",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Make your own levels. Break everyone else\u2019s",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.87 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b9e4d0cb23cb6ae6a634f4632d8b8b3de46d080ad8de017ac10c3a5c03530b1.jpg"
 	],
 	"releaseDate": 20170511,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Legends always have a sequel. A brand new series in the popular fighting game \"FATAL FURY\"!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

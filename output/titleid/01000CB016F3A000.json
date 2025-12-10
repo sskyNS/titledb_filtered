@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcd0fd0f7f288422e21f72e783d0dad9f108c997300b96e78613839a9460dc73.jpg"
 	],
 	"releaseDate": 20220426,
+	"category": [
+		"Adventure"
+	],
+	"intro": "The Serpent Rogue is an action-adventure game set in a medieval fantasy world. Craft & brew potions to defeat an ominous danger!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

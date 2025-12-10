@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ab2891b0de2655aa59cd170339f0472a5833979f833dab6e9821d8b568ac4af.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Education"
+	],
+	"intro": "More than a puzzle game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "155 MiB"
 }

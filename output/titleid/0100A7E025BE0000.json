@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d4a3e94a6496bce2f2f204632215124c28d2dff8a383b4ca945a7dd6b8e990d.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Take a breather and challenge your brain with these calming logic puzzles",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "246 MiB"
 }

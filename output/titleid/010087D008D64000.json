@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6492fcce35114137adb6be64ebe57346f9c2a5065d145413148ab7fad896eda9.jpg"
 	],
 	"releaseDate": 20180315,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Play \"BINGO for Nintendo Switch\" \nand get excited by everyone!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "376 MiB"
 }

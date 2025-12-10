@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fde5b014415fb78fda2e2c2443d4e2bcaf5b4aba3435f578a77a998e03cad822.jpg"
 	],
 	"releaseDate": 20191225,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Other",
+		"Education"
+	],
+	"intro": "Take on the role of the shepherd dog and protect cute sheep!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "248 MiB"
 }

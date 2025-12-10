@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/988cffac9c1a996956fc4244a7ce0131cb40af7e6a133dff5d75eebcaea5fe61.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Sir Lovelot is on a quest to find the love of his life. Join him in this wacky platformer, where impressing cheeky damsels is harder than a heart of stone!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

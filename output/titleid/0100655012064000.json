@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0d62d12a11fb6968b5cc2595c87f4d3471431123237da9f0f98e1c4a940ecc1.jpg"
 	],
 	"releaseDate": 20200619,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Music",
+		"Action"
+	],
+	"intro": "Use the Siren Song to stop an evil curse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

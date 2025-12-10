@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/12c2762a4ecfd6c885d68b01dd747aa98a989e771d86f5f17b794ee63dfebb59.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "A classic arcade sports board game where you can challenge both your friends and test your skills against the AI!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

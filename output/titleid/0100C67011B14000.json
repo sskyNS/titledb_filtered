@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/64e8f71d4a3eb514f09b800356b14191512f408508582daa411a96d70c03b46f.jpg"
 	],
 	"releaseDate": 20201125,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Out of Space is a local co-op multiplayer game about living together in a house in space.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "807 MiB"
 }

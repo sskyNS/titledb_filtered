@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f6f3cfdcfa98cc0c238692dfe537a07c3ed40a5f01bf5dfaeb59af1cc0d986d.jpg"
 	],
 	"releaseDate": 20210625,
+	"category": [
+		"Sports",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Drop back in with the most iconic skateboarding games ever made.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "12.27 GiB"
 }

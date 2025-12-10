@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c8620cb1c25819716a253331294cde02141a552c8fe0a9c10d3012e36eac0a3.jpg"
 	],
 	"releaseDate": 20190502,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Take control of the Strike Suit, a revolutionary fighter craft with the ability to transform into a lethal suit of space armour.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.25 GiB"
 }

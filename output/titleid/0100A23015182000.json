@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/16e94a1eae20ffda2999c96826c59ec90bf99f88981f6ceb00f918594d8b7bad.jpg"
 	],
 	"releaseDate": 20211109,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Music"
+	],
+	"intro": "Swing, fling, and spring your way to victory with the Singing Monsters like you've never seen them before!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "414 MiB"
 }

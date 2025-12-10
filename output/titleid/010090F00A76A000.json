@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6881fa03e4335a1924fcf1d4efb15e8ca4f5e1417a28f30f149b3acd9bc0678.jpg"
 	],
 	"releaseDate": 20180622,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "4 top franchises come together in an epic crossover!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "8.56 GiB"
 }

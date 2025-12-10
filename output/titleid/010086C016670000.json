@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/99160b3de14dd89d6a549702ed5638b17cd8ab1c3d15427d2fd0f4e0d47f7017.jpg"
 	],
 	"releaseDate": 20220305,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "Light, darkness and remarkable puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

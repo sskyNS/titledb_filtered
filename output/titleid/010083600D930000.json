@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d102a25856ae27b90385fc35b2811fe0272d6895ef4f3003f00c6cd07fe00dd.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Prove your athletic skills and challenge your friends in twelve exciting disciplines!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "527 MiB"
 }

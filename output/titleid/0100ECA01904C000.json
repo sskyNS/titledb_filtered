@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f2a0a9266f4e6d95417a89f2ce704b6bbaa94fd33ba5d83e066e5cb8e6e42fb.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "A thrilling ninja action game based on the hit original anime \u201cNINJA KAMUI\u201d!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

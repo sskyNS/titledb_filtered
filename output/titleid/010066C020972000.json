@@ -8,5 +8,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec472b1104ab49720584f1afef9f57e7f6228cc29caa010fe7e993f4050ee834.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Lifestyle"
+	],
+	"intro": "Bee's Hexa Hive Adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

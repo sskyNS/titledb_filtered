@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/64c8fdad658ce7bffc450aab068aabfee259ec4c6aab36aeed171d1c45716626.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Megahardcore! In this game you will receive damage first, and only then you will locate the enemy. The implementation of military operations in the classic mechanics of platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

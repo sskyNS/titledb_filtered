@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0f0533be5555c72ac5449d96ff20b609def63e8a399417ceba48d9b1bb875a4.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Games first took up legendary tales in February 1989! \nFight to rescue your lover Artemis!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "126 MiB"
 }

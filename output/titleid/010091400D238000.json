@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf10df1474c5e796eab583dc9b9fab320cd9d218d3acf0b1d2701720e9af7e77.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "In Bloodroots, the world is your weapon - improvise and adapt in a bloody revenge quest across the sprawling Weird West.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.77 GiB"
 }

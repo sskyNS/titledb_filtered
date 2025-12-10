@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/161e23dd2c9e55919acaee376f1d09f54fb8059d80fe0254af6b52f09a9352cf.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blast your way through an endless maze inhabited by deadly robots and their invulnerable, menacing master, Evil Otto, in this twin-stick revival of an arcade classic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "300 MiB"
 }

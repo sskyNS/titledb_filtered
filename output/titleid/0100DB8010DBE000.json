@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/84158ee4ed7fd517bbc1aa72dfe16685f92db10ac9ee0d05b167ca3acaa2e423.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Action",
+		"Arcade",
+		"Racing",
+		"Shooter"
+	],
+	"intro": "Drive. Destroy. Get paid. Upgrade!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "604 MiB"
 }

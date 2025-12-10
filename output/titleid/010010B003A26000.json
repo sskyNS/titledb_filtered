@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dabd1675e80d966e85494b0a7e5ff83eeef0a0dd8f143db9baa748b2eb681c70.jpg"
 	],
 	"releaseDate": 20171031,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "When Uncle Grandpa accidentally drives the UG-RV through multiple dimensions, he picks up some surprise passengers in the form of Gumball, Steven Universe, Finn, Mordecai and Clarence! Now they'll have to band together to defeat the evil shard creatures and set things right. Use each character's unique attacks and special moves to conquer the elements, fight your way through all the levels and beat some brutal boss battles. Replay maps with special modifiers to switch up the fun, and unlock bonus rooms along the way. Take on the single-player challenge or grab up to 3 friends for multiplayer action in this crazy interdimensional adventure. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "163 MiB"
 }

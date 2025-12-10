@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a08fbd791114d363f5afcdb5b3a57f61d55d57479980319dad5225acb177a87.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Use your powers to explore the ever changing levels, avoid threats, overcome obstacles and find secrets in this classic 2D game.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "273 MiB"
 }

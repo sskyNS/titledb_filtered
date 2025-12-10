@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb299dff5a3eae2569b2a188993e020639b9bb34eb8b793268081747ce183312.jpg"
 	],
 	"releaseDate": 20240925,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "In a vibrant rainforest, Tito, a young toucan, feels different and apart from the rest of the animals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

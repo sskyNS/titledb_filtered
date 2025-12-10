@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/89f6d4248f08cd2dc71e6193c005036bbed13f8050fb60e398b5d42eab23fa5e.jpg"
 	],
 	"releaseDate": 20220909,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Nostalgic metroidvania with innovative role-playing game elements",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

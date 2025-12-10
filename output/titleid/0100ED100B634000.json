@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c2c4e3d422b2ae1b0cafd23e9d8282b203bf25929e3a1afad427cf93b3be226.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "Desperados attacked GUN CITY. This town needs a new sheriff!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "651 MiB"
 }

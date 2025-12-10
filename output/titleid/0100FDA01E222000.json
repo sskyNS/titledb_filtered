@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/72151ad2953e084fa33c5e4aa95b0a8d034e89b9c6bd9811be3e0f15b78194f4.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "The legendary crossover hits are back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.25 GiB"
 }

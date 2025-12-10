@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c63240529e8d30a740af5c22e39448c7a3222fcc0f7d6f918722591368d0bf3f.jpg"
 	],
 	"releaseDate": 20200617,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "You are the Bard, a selfish rogue weary of pointless sub-quests and rat-infested cellars. Through magical song you summon characters to join your quest!\n\nPrepare to immerse yourself in over 20-30 hours of adventure, featuring: \n\u2022 50 enemy types (not counting bosses!) \n\u2022 A vast world to explore with towns, wild forests, rivers, castles, towers, secret dungeons, snowy mountains, caverns, haunted tombs and more.\n\u2022 A full cast of bizarre NPCs.\n\u2022 Over a dozen special boss enemies to defeat. \n\u2022 16 magical characters to discover and then summon at will to aid you.\n\u2022 Over 150 unique items of weaponry, armor, instruments, tokens, artifacts and loot! \n\u2022 More Song & Dance numbers than any other game, including a zombie dance-off! \n\u2022 Over 14 hours of outstanding voice-acting from top Hollywood talent, including Cary Elwes (The Princess Bride) as the Bard, and the inimitable Tony Jay as the Narrator.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.59 GiB"
 }

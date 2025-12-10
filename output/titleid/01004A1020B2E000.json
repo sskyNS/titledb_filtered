@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a61e13d4767301f8f541f3a78a9d259047ae8d87c4d624d224880dd3413f49e.jpg"
 	],
 	"releaseDate": 20241001,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "In this visual novel set in the magical world of Neverland, Peter Pan and the Lost Boys embark on a quest to discover a treasure hidden deep within the island.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

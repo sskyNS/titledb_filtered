@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/52bf2791f02c7618c3148e655d027bf2a61c7f7326de22d902c9de8a69b29ea6.jpg"
 	],
 	"releaseDate": 20250226,
+	"category": [
+		"Action",
+		"Shooter",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Vengeance is within arm\u2019s reach - take it",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.45 GiB"
 }

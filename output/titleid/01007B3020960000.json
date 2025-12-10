@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c380b8f1458b9e1840b88b21ff888e08dbd8847a258ac74b0aa616d8a3877b96.jpg"
 	],
 	"releaseDate": 20250104,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter",
+		"Training"
+	],
+	"intro": "Become an elite operative, rescue hostages, win glory.Intense rescue missions await!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.86 GiB"
 }

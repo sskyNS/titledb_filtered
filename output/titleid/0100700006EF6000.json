@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/32e5586e8eb5f00b0ea75e14e65df3a81dad349fe289ed3d6aeaea9a4ca406f0.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Fast-paced real-time strategy",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.54 GiB"
 }

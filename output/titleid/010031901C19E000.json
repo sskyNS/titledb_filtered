@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/791fca61891c624964c9a55457cfabf432e3f8a426c449bd24ad75f6ee306e5b.jpg"
 	],
 	"releaseDate": 20230822,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Experience the latest Nintendo Switch\u2122 experience with the LiartaniumOS Simulator.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

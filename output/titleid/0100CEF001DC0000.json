@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f151f0c9f48b271f174bc89e10996287d483b0b08204b388d23c01107d82943.jpg"
 	],
 	"releaseDate": 20170309,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Struggle for \"WAKU WAKU ball\"!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "187 MiB"
 }

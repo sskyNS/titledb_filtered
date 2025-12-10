@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/27cb8692b7e7468130b167f9ae9765f0be77e9fa6579e9e9f763853255a78fac.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "This turn-based rogue-like game features terrain that changes with each challenge. Make friends with monsters and set out on new adventures!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

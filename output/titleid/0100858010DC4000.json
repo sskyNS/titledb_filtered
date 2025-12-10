@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ee90dfcdcd3e6022a1b7bca5444df83a7801eda841e8ae8547ecbdc5ee47d8d.jpg"
 	],
 	"releaseDate": 20200630,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The StoryTale is a fairytale platformer with booms, explodes and shatters, where heroes fight with cursed weapons and tend to forget spells.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "370 MiB"
 }

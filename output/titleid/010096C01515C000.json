@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ad77b2dd2aa6aec1d1105afdff87d095a8b09512476e30f4310f0269140c15a.jpg"
 	],
 	"releaseDate": 20210823,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "You're trapped! Get on airplane and find a way out of the factory. Beware of toy guards, traps, and narrow corridors standing in your way to freedom.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

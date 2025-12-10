@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a04ee52de2ece7857dfc6558bb48015daf12f512f15d63a72256927df4fef51d.jpg"
 	],
 	"releaseDate": 20250219,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Music"
+	],
+	"intro": "In a meadow full of colorful flowers, lives a community of small and colorful monsters that maintain a harmonious relationship with nature.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

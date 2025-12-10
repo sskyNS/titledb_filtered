@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad615ed83740fa6a05f9b16b9f55674779bac5a62b2bd07a8ce06ef4ef2f8325.jpg"
 	],
 	"releaseDate": 20241119,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A stray cat must untangle an ancient mystery to escape a cybercity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.68 GiB"
 }

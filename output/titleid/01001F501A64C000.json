@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/37ab285b929bf7297d452728f2739e8fb8234b4f7c12feb3ed6c4f3d85b1be5f.jpg"
 	],
 	"releaseDate": 20230718,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "A classic puzzle with blocks for training logic in a modern version!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

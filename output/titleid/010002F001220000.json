@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bd90aabde18cc61dd6a9fe6692446a51b88577617e9a2321fb151262e27dffe.jpg"
 	],
 	"releaseDate": 20170728,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Play some of the most popular Namco games, anytime, anywhere!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.35 GiB"
 }

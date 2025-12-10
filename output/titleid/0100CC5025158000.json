@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/008ec7b6567d3b8b8845d12037575b69d31baba725fee413cffa9556840ded0d.jpg"
 	],
 	"releaseDate": 20251215,
+	"category": [
+		"Simulation",
+		"Action",
+		"Racing",
+		"Education"
+	],
+	"intro": "Drive the city. Master the route. Rule the road.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "847 MiB"
 }

@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c60ccefe10c2796a1d93e10458d27e64ca9ded670147b12b931526d2a8026581.jpg"
 	],
 	"releaseDate": 20251128,
+	"category": [
+		"Education",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Hive life just got bigger \u2013 dive into The Hive expansion in Bee Simulator",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.91 GiB"
 }

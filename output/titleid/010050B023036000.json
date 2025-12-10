@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cd87b091a46cb3b17b67be68db57a272ef55c2ea9cf707d55a7ebddc112c4f8.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Sports",
+		"Strategy",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Tactics meet passion \u2013 lead your squad to glory!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.51 GiB"
 }

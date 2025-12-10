@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ded7df68de6a007700f6d42f7cd26dbeb2fd0a76f2a6bfdc18b4641c621dbd7a.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Action"
+	],
+	"intro": "A thrilling racing game where you have to complete the course within the time limit you enjoyed in the arcade! \nBe the champion in every race!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

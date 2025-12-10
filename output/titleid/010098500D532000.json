@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/35bf0809de05fdf937c04ed908a1d7356362db395bdb94b623d0961145150e94.jpg"
 	],
 	"releaseDate": 20190305,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A collection of minigames, each with unique personalities and challenges.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "587 MiB"
 }

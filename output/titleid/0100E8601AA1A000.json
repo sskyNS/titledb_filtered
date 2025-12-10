@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5541943fdcb2622d535c55bb4fcba0eabb6b433b622f7454d58b9e828a0e0fa2.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Unearth the dark truth of Varney Lake",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/44881c092cd661aa8c902008e8d751896a701fbb4172e9fcf940812c09866340.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Finding Teddy 2, is the new 2D nightmare adventure / action game with a pixel art retro twist.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "484 MiB"
 }

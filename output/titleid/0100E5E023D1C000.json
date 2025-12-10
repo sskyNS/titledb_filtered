@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/126054d014f104d84b9b0d87e25152e7b3c63b53da8bef216effb993ce8cf00f.jpg"
 	],
 	"releaseDate": 20251007,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Play as one of 10 pilots in this thrilling sequel to an arcade classic. Fly across the world and destroy the shadowy organization Fata Morgana!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "660 MiB"
 }

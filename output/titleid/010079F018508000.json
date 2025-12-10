@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d1318a07422b184ba17cf9b937675eb1f88b6a913b962a4ca7713064eaccc64.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Find a castle, recruit friends and try to restore the peace in the Bestann Federation while spreading chaos to most places you step on in this comedy JRPG.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "335 MiB"
 }

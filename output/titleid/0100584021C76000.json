@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e6636c811a2e6213047c32368f27bb0522fd43fa401288e760b8a44042c8048.jpg"
 	],
 	"releaseDate": 20251224,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Training",
+		"Adventure"
+	],
+	"intro": "Discover the magic of winter in every hidden corner.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

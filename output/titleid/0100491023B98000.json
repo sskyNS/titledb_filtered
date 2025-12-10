@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/516982e6ba1b9bb85f6aaef4ea2f6bbe90bc9515cc7178311de0b0a1b16986cc.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "A kung-fu action game where you fight against the dark organization X!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "42 MiB"
 }

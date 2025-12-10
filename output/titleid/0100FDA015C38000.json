@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed71b8fcd4c99bc1eed660df1bcaf90f40a7fea53916db311ac694bdfd54dd74.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Fasten your seatbelt, start your engines and get ready for some real driving!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "388 MiB"
 }

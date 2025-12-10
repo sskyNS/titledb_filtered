@@ -6,5 +6,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b96c221dba243c48993dc43764877f40c7699cc33a5d23a1b5093d8c9fddf610.jpg"
 	],
 	"releaseDate": 20210707,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Enter the jungle and find treasures, traps and an amazing action packed three match puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "372 MiB"
 }

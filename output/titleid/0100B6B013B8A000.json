@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/537e4a236c0b6b14e36bb7d89669bd3d5f6c2de4991b1ec5ca10ef72ae301952.jpg"
 	],
 	"releaseDate": 20210119,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Racing"
+	],
+	"intro": "Get behind the wheel of a military truck for special tasks",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d883f8113b09d716c31ef985215ca50b7796527a40abcaf408b89046ef18392.jpg"
 	],
 	"releaseDate": 20201226,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "A rogue-like deck-building game with table top battles! Choose a hero and allegiance then dive into the dungeon and build your deck as you battle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "568 MiB"
 }

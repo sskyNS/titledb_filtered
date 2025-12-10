@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5436e2f2855821e3b1859b54be6fd79181f173c37d8240d72a97c238326a095.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Harness your football skills and lead your team to international glory! Lace-up your boots and get ready to hit the field like never before!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/49d1d00bf7e73dda5cc432f447b73c819f29efe4e9ae66943da607fbdb8d2f71.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Survival on a raft in the middle of the endless ocean.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

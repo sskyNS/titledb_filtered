@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec4da103a747568a09fdbdf02d94140fedb6018302e101777ff18bcf39e7d4c5.jpg"
 	],
 	"releaseDate": 20211203,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Training"
+	],
+	"intro": "Start working in construction in this realistic and varied simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

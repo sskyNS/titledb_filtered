@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ff00a6baf37ffd9b6d6287958a7e8eea790dad04e2ba82e5ddd31865f91a6f5.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "Are you ready for an adrenaline-filled adventure? If yes, then it's time to take your weapon and join the ultimate shooting game - Tormentor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "658 MiB"
 }

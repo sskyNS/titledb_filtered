@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef9738f0ac5418bb1416383fb373791c7676e61db9da815c5155f7e8712f580c.jpg"
 	],
 	"releaseDate": 20191130,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Fight your way through an alien abduction nightmare in this retro arena shooter!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "188 MiB"
 }

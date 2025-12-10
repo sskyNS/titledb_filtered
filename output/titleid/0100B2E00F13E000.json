@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/abe09130bdb69557860140a89d6c18602d40ecb57dbbffe0629e0ae599f2db99.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"Party",
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "All hands on deck! Sail! Push! Shoot!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 8,
 	"size": "255 MiB"
 }

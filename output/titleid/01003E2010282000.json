@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa964b6751df807943a804de76e8d4682c33bd924b30d0b727b6fbf79a82883b.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Violently cute couch co-op and PVP party brawler for 2-4 players. Catch, merge, and sacrifice delicious Dough creatures before time runs out!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.75 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a0824e52d8201b7fdecdfe406df44086c380661e6c47ff5211378af16a389bc.jpg"
 	],
 	"releaseDate": 20180529,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "The ultimate pen and paper RPG simulation experience",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

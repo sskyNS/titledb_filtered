@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b2a549c4bd31ee80cc379000806fbf42fe30e988d1773d022c30cf5c483b3ce.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Gather you cards and it's time to duel!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

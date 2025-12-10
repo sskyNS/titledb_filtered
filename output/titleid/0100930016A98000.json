@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/53f6d4e0924f58fa475bbc1db2a27e61916776ba2999c12ff39a17cd8ec3c3cd.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Education",
+		"Training"
+	],
+	"intro": "Cook your way to stardom!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.05 GiB"
 }

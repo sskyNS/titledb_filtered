@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3f25fd9e452fb4784657c4bb9cbbb8f1b6a17d8e674d56c6e3d1d475ed51f99.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Super Dino is a fun puzzle game designed for kids as young as 2 years old! Higher levels of puzzle difficulties provide even more fun and challenges for children of all ages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/102895360e5e2b3abcd334d4c12f937cbbb161130b1c1a4aa13fd5eb9eb6a388.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Education"
+	],
+	"intro": "Become a respectable farmer by developing your own farm!Drive heavy machinery and get to use modern farming tools!Grow crops,harvest them and sell the stock!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "610 MiB"
 }

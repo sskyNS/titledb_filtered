@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc84b014b707f7975a9ad5792dba06fe759e3c3edd0c1e5965c8caeabae69495.jpg"
 	],
 	"releaseDate": 20181107,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Training"
+	],
+	"intro": "CricktoGame: Nintendo Switch Edition brings a colorful dose of puzzling action.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "287 MiB"
 }

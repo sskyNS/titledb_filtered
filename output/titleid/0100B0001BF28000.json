@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df700652f14a510b7a42807919c1dd3be60ac46c04c1f7b6daf787a6a6ec76e3.jpg"
 	],
 	"releaseDate": 20241025,
+	"category": [
+		"Adventure",
+		"Multiplayer",
+		"Music",
+		"Lifestyle"
+	],
+	"intro": "Join Barbie\u2122 on a fun summer adventure to save the Malibu Waves Community Center!  ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.62 GiB"
 }

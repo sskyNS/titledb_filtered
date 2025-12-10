@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/914b55bba51215fcb12504a9d4808608e27c02bf60f5427517d82c5ec0691ee0.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "How long will you last?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

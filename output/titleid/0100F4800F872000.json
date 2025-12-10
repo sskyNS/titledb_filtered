@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/374ad156c15717a4c10202f01cc1cd6a28840d391bbcdbc6d874fae37ad8829e.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A ghostly sliver of your former self, can you rescue the princesses?",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "573 MiB"
 }

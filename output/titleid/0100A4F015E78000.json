@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11127fc8946338a093792971e5899ac2717012bfd5925fc21fcc30887a5761de.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Board Game",
+		"Party",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Play the decision-based strategy card game set in a fictional cyberpunk world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

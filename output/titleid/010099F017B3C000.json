@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c69dd25f57629c9c25e79d8786bbf6fdfd9ab0ec33ad9d4ce0990e7cef1d09f7.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "The sixth installment in the fictional \"GAME BUDDY\" portable game console series!\nPlay against a total of 10 characters!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "155 MiB"
 }

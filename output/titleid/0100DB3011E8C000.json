@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e29f559f5ddb583d914c94cbf83bd08458d45feaf9a173e50379c98bf8f1dfc.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "It\u2019s fight for furvival! Super Animal Royale is a 64-player, frenetic, top-down 2D battle royale where murderous animals fight tooth, claw, and machine gun across an abandoned safari park. Collect and customize your favorite critters and weapons, then put them to work in solo matches or team up as a squad of up to four players!\n\nKey Features\n\u2022\tSurvival of the Fittest: Scavenge a variety of powerful weapons, armor and items to become the apex predator in intense 64-player online matches. \n\u2022\tThe Superest World: Explore a massive, beautifully illustrated 2D island and discover its hidden lore, by chatting with its inhabitants and scouring its rich environments for clues.\n\u2022\tDifferent Stripes for Different Fights: Collect hundreds of animal breeds and customize them with thousands of cosmetic items, weapons, outfits, and even umbrellas!\n\u2022\tEvolving Events & Updates: Enjoy an endless stampede of new content, including seasonal outfits, animals, and weapons to collect.\n\u2022\tThe Fast and the Furriest: Flatten your foes while rolling dirty in a Hamster Ball, or mount a Giant Emu and peck your way to the promised land.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

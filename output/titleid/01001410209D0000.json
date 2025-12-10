@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f97fd60e934306417dd08d4c05b1c65e4270c88270d72126f23b11d916c5feb3.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Shooter",
+		"Board Game"
+	],
+	"intro": "An Exciting Color-Matching Adventure! \nGet ready to blast your way through 200 vibrant and challenging levels in Zumba Royal Marble Shooter Mania.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

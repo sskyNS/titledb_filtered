@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad99824e317db0bf787797dfe53e77a2b9d311233d4a7abcb37fe788d51bec22.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Action",
+		"Shooter",
+		"Fighting",
+		"Simulation"
+	],
+	"intro": "Draw your weapon from the holster, keep your fingers near the trigger and prepare to fight merciless bandits!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "458 MiB"
 }

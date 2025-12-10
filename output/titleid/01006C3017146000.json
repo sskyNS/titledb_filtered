@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/09d89a59514dd450649e6f6d45bb232c4038e6ff8ba11e09cb57b8671b71a38e.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"RPG"
+	],
+	"intro": "Protect a psychedelic world from bizarre beasts and punishing bosses in this poetic mystery filled with secrets, puzzles, and music.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "375 MiB"
 }

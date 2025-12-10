@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/22ce88349fbff3e9a6d56be41895670096854fd89aa7b8fc57d51c21885c84d5.jpg"
 	],
 	"releaseDate": 20210730,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Ready, Steady, Ninja!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "722 MiB"
 }

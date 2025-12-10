@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e3b9a9eaaa413dd58bec934b2b85267ef30ce178606e4f1ceabdd7fc8428220.jpg"
 	],
 	"releaseDate": 20240227,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Piczle meets Story of Seasons with over 350 nonogram puzzles from the beloved farm life game series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "527 MiB"
 }

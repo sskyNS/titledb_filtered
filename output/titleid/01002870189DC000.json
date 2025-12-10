@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b11fc3fb1b9fa002cf8fceba1d9730fbf1b91cd80d98254afaa230b92d3743a7.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Create and customize your own campground in this charming pixel art sim game.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "287 MiB"
 }

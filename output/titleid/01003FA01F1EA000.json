@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/861a8d3f17755ce498bd7e3b6f3949c33ca2be3ade27c950308aa546ba982f53.jpg"
 	],
 	"releaseDate": 20240615,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "It's time to strike!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

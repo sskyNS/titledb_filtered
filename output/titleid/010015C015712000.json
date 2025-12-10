@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4393243b04744d7dde674189ffe0b1c7d8dbe458fef0d9cefed7aa473871d215.jpg"
 	],
 	"releaseDate": 20211026,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Everywhere you go, evil follows...\n",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

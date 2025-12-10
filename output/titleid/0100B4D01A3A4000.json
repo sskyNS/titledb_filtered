@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/cac04dfd5caed0944c74df3de63feee79c6afe47a3be12528027d1325bf1914b.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Embark on a magical journey combined with fast, dynamic puzzle action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "884 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf67048ba0aa32e9f7096948477da12bb1bb4e4ef5d6e9a627e220a8faaadf50.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Create shows, sign stars, and dominate the airwaves in this TV studio sim.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

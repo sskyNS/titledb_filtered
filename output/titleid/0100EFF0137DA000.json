@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c323147d46b203eac78829408b1047273f260fadff9203a820137adf7c6f9c51.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "We're the invincible ZERO TEAM! We won't lose to the villains!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "82 MiB"
 }

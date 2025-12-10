@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/28850e30fc344d74341e6d4c19051d679bda3fdac2903b02ac05d6c2c7189745.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Merry Christmas or Merry Grinchmas?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "56 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f3dc21877aaf1f1bdb9fd64ed4f066028e2cb476998af2491978b32c361dd91.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "PI.EXE is a challenging action/platformer that takes place in the inside of an operative system's server!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "669 MiB"
 }

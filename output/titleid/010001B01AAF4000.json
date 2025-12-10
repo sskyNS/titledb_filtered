@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/019720e4cdd572eb2423e556769f4d15a12eaba03fe957d503edb46d5df00a9a.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The culmination of authentic retro aesthetics meets cutting-edge innovation",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

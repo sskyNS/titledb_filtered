@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ea8ebf701df496f302bddad49fd607009efa815f7a4f293c9cf71fedf4f4431.jpg"
 	],
 	"releaseDate": 20180419,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "The final stage awaits you. A total of 19 fierce stars will now battle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "118 MiB"
 }

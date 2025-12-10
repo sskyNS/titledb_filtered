@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1a0488e1fe122d945b89ae4a7e2c09260d9af31c43157f72b7815e1476b20b3.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Gentlemen, this is a big deal!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "91 MiB"
 }

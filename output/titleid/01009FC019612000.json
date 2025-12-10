@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5109fb9d13f758242f0b9b88c03642bdc6b01a976444bf1f060fd7bd080a417e.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Midnight Runner is a fast-paced 3D platformer where you'll use your parkour skills and your reactions to climb walls, overcoming difficult areas and traps.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

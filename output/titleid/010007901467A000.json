@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b424aa7a5bcdadaa41c8ddd1261a7cf0a065c7eb510a2941f2429ea12cb9ab2d.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Doggone tired of the typical brawler or tower defense that is all bark and no bite? Then join Alpha and T. Juan on a dynamic adventure that has you battling hordes of baddies and bosses!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.05 GiB"
 }

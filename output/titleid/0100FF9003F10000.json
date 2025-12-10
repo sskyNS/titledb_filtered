@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc5ee34d3e8bec8e96d7b0226d24160b790126ccd28646064450b7133084e58b.jpg"
 	],
 	"releaseDate": 20171026,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "A fun, challenging 2D Platformer filled with humor and surprises. ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

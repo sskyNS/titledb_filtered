@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/357c5c04f295c9ebf7c89f072184becbd799e7426d591e82b89dddf900b23abc.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Shooter",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "RACE INTO THE AWARD-WINNING AUDACIOUS ALL-IN-ONE SPEED RUNNING, SHOOT 'EM UP PLATFORMER!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.78 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4be98b7b62f6298bbd5e484b0b1d77c5a9d6d630fcd73da168ddfca7e94c5255.jpg"
 	],
 	"releaseDate": 20180522,
+	"category": [
+		"Platformer",
+		"Music",
+		"Arcade",
+		"Action"
+	],
+	"intro": "CommanderVideo is back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.54 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef3d80eedb3c5390ad93a912a0d82cadf7a65d63c7ec72134c24c613f658f242.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Motif is a minimalistic puzzle game that brings artistic elements to the foreground.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

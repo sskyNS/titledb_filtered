@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ded237eb03cb7db8d0b81d3f7ecb4b3d508ef64e2eb2359268f69d312d41be66.jpg"
 	],
 	"releaseDate": 20200214,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Get ready to feel the speed!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "534 MiB"
 }

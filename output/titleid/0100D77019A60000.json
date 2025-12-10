@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/945cf07f3bfd75e48f51ca10b4eb5dcbca37a1398da52f1c755de8bf0af2d58d.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Party",
+		"Other"
+	],
+	"intro": "Bet money, spin the slot machine, and win exclusive prizes! \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "986 MiB"
 }

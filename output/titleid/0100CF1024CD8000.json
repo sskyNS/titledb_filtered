@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5560deb9d4b4b41cab78b92b6418dcbc7256ebfb3dcbf7f25cdfa43f553773b2.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "The fan-favorite arcade classic\u2014The Crane Game\u2014returns, powered up! Packed with more content and fresh new controls! Become a Crane Master!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "259 MiB"
 }

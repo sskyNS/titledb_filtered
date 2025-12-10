@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c86aea94713e61a50bc0506ba9f48df5d160ba205c79da10515b7d9061138161.jpg"
 	],
 	"releaseDate": 20241015,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Drova is an Action-RPG that marries the dark grim tones of its genre with the mysticism of Celtic mythology.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.41 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/377eb4fb4a68e4188411a884db7c4d435ba6c8c95b0edccf86697b1458c18cc0.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A single-play FPS game with a story about escaping zombies to survive! The suspenseful stages in various places such as subway, hospital, school and so on!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.48 GiB"
 }

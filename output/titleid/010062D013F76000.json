@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/40dd92dcd7603bd8b12e75663629806fec36e8216ba305f5bcbd857dc2ada0ed.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Catie in MeowmeowLand is a classical humorous point-and-click adventure game. Help little Catie get back home from the bizarre cat world of MeowmeowLand!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

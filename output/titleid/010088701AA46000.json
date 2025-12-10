@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c6ad4da8297f603fddc4a3b9865f6e7cd008278164fa821bb0e6332092cb631.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Let's escape aiming for the fireworks craftsman",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

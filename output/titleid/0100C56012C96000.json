@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/abdec6f4543bc7e8b11c44d85bf6ac5b274414e84e42a83d1a6a471389a472f9.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Two of TAITO\u2019s most iconic and beloved video game series clash in Arkanoid vs. Space Invaders and combine elements from both arcade classics. Players are controlling the Arkanoid Vaus paddle ship to defeat waves of Space Invaders. Beat all 150 stages with your skills and unlock 40 different characters from the TAITO legacy. Each character has unique abilities!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

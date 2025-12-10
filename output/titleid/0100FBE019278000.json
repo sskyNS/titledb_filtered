@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/088a3f92e8e22d7894ebb5715ef8a08318cb187cbe86b29a5bc3b518a3266c63.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Build the tallest tower in the world in this block puzzle with real physics!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

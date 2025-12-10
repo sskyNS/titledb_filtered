@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7d94bb54b260c6e1b548c0b35ccffb6a0cd875d35b5fae86d68a7f728f56136.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "You play a little bird on its journey to the devils Halloween party after hearing Dracula talk about it.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.75 GiB"
 }

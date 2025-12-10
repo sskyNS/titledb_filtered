@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/443fe3df3bf34cb2387681312d93346278c611b863bfe6182418199a7bd804c8.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A point and click puzzle adventure game set across multiple time periods. Discover a surreal story about a mysterious letter, a missing professor and a confusing mansion.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

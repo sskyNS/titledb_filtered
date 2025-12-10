@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/22f6ab1bdb5b13eb9ec7a2cbfe8c54c650269aa100fddb5c6b9ea51dc54a6fc9.jpg"
 	],
 	"releaseDate": 20240923,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Start your search in this amazing hidden object marathon!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "564 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce190415fe52f4017d967f77bd5d9cad69ab3a166acecfbb479913fa33b0eb96.jpg"
 	],
 	"releaseDate": 20220313,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Play one of the undercover agents to track down and stop the terrorist.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.94 GiB"
 }

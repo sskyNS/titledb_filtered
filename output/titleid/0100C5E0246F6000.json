@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c9e45cb8b95c3874a03840d6bc4f51f05021e2eabd51949ffe1602eb438e3eb.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "Experience raw combat through a bodycam view.\nFour unique maps, a vast arsenal,\nThe most realistic firefights yet.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

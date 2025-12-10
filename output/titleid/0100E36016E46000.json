@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a78177e7cad284256aea9761ec88d90f66f6ab4a1de9fb194c8616339f507ab7.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "The fourth installment in the fictional \"GAME BUDDY\" portable game series!\nRetro-style shooting!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

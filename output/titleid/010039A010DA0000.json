@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fa441c36ad61d4e7bb1c16ee3831122bdade39f6692ba034973dbf09be4124e.jpg"
 	],
 	"releaseDate": 20200429,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Music",
+		"Other"
+	],
+	"intro": "Active Neurons is a game that trains the player in spatial logical thinking.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

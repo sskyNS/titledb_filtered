@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1269de75f734b255383b8ac5a4c908c446fe0a3c502eac5cc5235d7cc60949d1.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Communication",
+		"Multiplayer"
+	],
+	"intro": "We Were Here Too is all about cooperative discovery, immersion and teamwork. You and a partner must solve puzzles through smart communication and observation.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

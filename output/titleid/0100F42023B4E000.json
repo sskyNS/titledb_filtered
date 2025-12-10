@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e70a433ec2d50068885c115593f370c6147afcba2613d4e6ca8d6954646a4a9f.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Action",
+		"Fighting"
+	],
+	"intro": "The hunt begins - are you ready?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

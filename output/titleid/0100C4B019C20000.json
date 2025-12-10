@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6af8a8249268d4c8e80858bc572e1d15e6054c848e9a84aee145d7562b7eef65.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Adventure awaits you in the world of Ylands! Set sail to explore, gather resources, craft tools and build anything.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.49 GiB"
 }

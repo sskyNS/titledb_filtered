@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e8e344c9f9ccd873569fca7029726c8ae5f5e8db57dc8689b9e61ae687bd6df.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Rock the apocalypse in punk style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "261 MiB"
 }

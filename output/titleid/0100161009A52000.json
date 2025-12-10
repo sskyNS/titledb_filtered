@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0605102f66dd9d92705cdfa58db9f3413b0b24403f26d99f8fd98229ed8b4b1e.jpg"
 	],
 	"releaseDate": 20180220,
+	"category": [
+		"Arcade",
+		"Sports"
+	],
+	"intro": "An easy to play POOL game to play for all ages, play against another person (2 players) or against the AI (artificial intelligent) player and rediscover the fun and excitement of this classic arcade game.\n\nWith stunning high-definition 3D graphics and realistic physics, you'll feel like you're playing on a real table.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "103 MiB"
 }

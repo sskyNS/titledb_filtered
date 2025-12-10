@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ce45c219b21ccd30f7d1f4b2b3de1d6ae28e7c61b7f598d20b95d9a7bdcf8ed.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Explore, fight, die, and repeat!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

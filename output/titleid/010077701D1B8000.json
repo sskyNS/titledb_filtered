@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/97844044b06925273d23bcaab94723cd17c122d3e3e3b90f6242f9e615848888.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "An Awesome Adventure for a Mischievous Ostrich and a Naughty Boy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "157 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a588f67a063cbe53ce123dc7c263ddf41dc934014815fa1c03e58d30bb0014d.jpg"
 	],
 	"releaseDate": 20230519,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Mechanic 8230: Escape from Ilgrot is a puzzle point & click adventure, set in the ruined city of Ilgrot. Use anything you can find to progress through the story. ",
+	"languages": [
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

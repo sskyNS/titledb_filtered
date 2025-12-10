@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9777a1f6acdd958d67edbcc75b78ccc3cea6d7fc7fa34e24655b44a3d19410f5.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A fantasy RPG with a story of friendship between humans and gods!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

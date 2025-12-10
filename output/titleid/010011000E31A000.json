@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e35523a2f644e95fc4e6c62c7ebde8850020e22ccfabf629efa1d6d11183c913.jpg"
 	],
 	"releaseDate": 20190926,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Button Button Up! is a colourful and creative platformer, perfect for solo players, co-op with a buddy or some competitive action!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

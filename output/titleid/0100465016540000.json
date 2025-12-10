@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1340da5f63b90028da20eaee126359dd3e5666ec5185d6e65fea3dd74e4fb44f.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "A pirate adventure\nwith tricky puzzles",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccecc62a9235de6e988ca64b9bb66b507ca0418b6665c3a7ce8ef4cc8ab60e5a.jpg"
 	],
 	"releaseDate": 20220712,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Krut: The Mythic Wings is a fast-paced hack and slash, side-scrolling action platformer based on Southeast Asian mythology.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

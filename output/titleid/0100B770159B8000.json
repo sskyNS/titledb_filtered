@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/193a8d5eef9f97a280c1572ea3f00d3f0a46d7dad4f8ed93b1615ae801404800.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Be the wave",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "299 MiB"
 }

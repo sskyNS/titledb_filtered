@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbd3fc5d8ac28d6b055892c1c5a4916998880a6175173db6a9f83b0bc6a172d4.jpg"
 	],
 	"releaseDate": 20230911,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An escape game set in an underground bunker.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "383 MiB"
 }

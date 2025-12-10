@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1015076531f0401776ee8373eec87b613c992a1f5779e2385b3cefc256794277.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Stack, Match, and Munch!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "149 MiB"
 }

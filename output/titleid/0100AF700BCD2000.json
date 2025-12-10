@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/08bdfda9c3c1c05614a8623b19c323762f6ea1e842dd26ef4e33aa958313fec1.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "Work hard and you may reach the top of the video game industry!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

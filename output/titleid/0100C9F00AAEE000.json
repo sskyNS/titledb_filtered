@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bf29ab399a48963d0c48c1515e6e491786f859f18c6dad0ce27c1bbfcc364ba.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Enter the enigmatic world of ASCENDANCE and experience an enchanting and peaceful journey to the sky and beyond.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

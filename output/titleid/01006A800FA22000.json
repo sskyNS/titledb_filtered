@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ea0d0361334c3e67ab8f9a18b16a79fb6cc4bbd75fccfdf34b92828f4d1f15a.jpg"
 	],
 	"releaseDate": 20201210,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "The Strategy Game of Adaptation",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a1a3a82e5160558da84a2ff40b50d197ae911880773ff81b9370dc1c0f34e84.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Lucky Slots is a single player quick-play game that is fun for all the family - keeping Vegas-style slots in a fun and safe way for all.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

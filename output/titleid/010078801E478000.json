@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18c001bd7c3bf16c8cbb8c6b85ad421fed21951ffc2293215a14a3591b71415c.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Action",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "Ride the Zippin and join the race on Frolic Planet. To overcome the grueling races, you can't afford to hold back.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "37 MiB"
 }

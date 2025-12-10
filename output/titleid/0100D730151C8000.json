@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a091692c49e7907a923ac4a85c72ad2831b1e4e3b50903246d5078662ed72866.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Fly and survive through the Game-of-the-Year- winning world of BADLAND and discover an astonishing number of imaginative traps, puzzles and obstacles on the way.",
+	"languages": [
+		"en",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "864 MiB"
 }

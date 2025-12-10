@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/02bcc487a69159b85ab1bb57666a42a4e6ae424fef8a2e5b84c60d33b0ddb8fe.jpg"
 	],
 	"releaseDate": 20200226,
+	"category": [
+		"Puzzle",
+		"Education"
+	],
+	"intro": "The ultimate puzzle collection for kids.\nEasy to use \"Drag and Drop\" puzzles for ages two and up.\nNow with 180+ puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

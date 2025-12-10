@@ -8,5 +8,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/27f2420937a3ab7975ce1139e8be32ef26bd9d31a9a6c80da6a927dd2e220b10.jpg"
 	],
 	"releaseDate": 20191007,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Minefield is a pretty simple game.\nOpen all the boxes without detonating bombs to finish the game.If u believe there is a bomb in the box,put a flag there.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

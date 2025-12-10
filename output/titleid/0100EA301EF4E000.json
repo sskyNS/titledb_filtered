@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0595118ef601ef8e80cb740a6ad5bf0892a4fca8b7bb3d7a050572d1ff683a47.jpg"
 	],
 	"releaseDate": 20240519,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Ignite your passion, feel the roar of the engines the vibrations of the road and race to victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.54 GiB"
 }

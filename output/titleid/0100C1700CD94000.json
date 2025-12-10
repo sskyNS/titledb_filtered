@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5abe524c0ab2305e3ba71a1d2b13bf0dbeb43627335bc14ad78c9ae54aab427e.jpg"
 	],
 	"releaseDate": 20191119,
+	"category": [
+		"Lifestyle",
+		"Party",
+		"Other",
+		"Music"
+	],
+	"intro": "Spark the Dance Party + Ignite the Burn",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.70 GiB"
 }

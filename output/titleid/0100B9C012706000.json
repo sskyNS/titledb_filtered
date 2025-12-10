@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bee43e1797bbed49dc05c623011d7b9dfd15ef02d5d394f7be9c93c2212171a.jpg"
 	],
 	"releaseDate": 20200615,
+	"category": [
+		"Sports",
+		"Other",
+		"Multiplayer"
+	],
+	"intro": "Grab those Joy-Con controllers and get jumping!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "162 MiB"
 }

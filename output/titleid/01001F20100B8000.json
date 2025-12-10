@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5226156ea204a0fe8a4021ca76efefa2988a447e1507e9a2ef4f1084342edbc3.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore an unknown world. Discover its past. Uncover its mystery.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

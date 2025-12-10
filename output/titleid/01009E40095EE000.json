@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1348b8349447d8ee6263e5c3eaa9f45ea827de549535dfe9ccbbf1701b82ea23.jpg"
 	],
 	"releaseDate": 20180222,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "Radiation Island is a survival adventure game in a huge open world environment.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f57c729e4189fbdc8ca4bcb4bf93b923d3e73c77c69b0794acb2b93df0b1c137.jpg"
 	],
 	"releaseDate": 20230207,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "A grimdark deck-building roguelike adventure",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/df5f604452f43d2b9df920f4016b3f030d70dae272c7b52df06c2aa77fe1fd28.jpg"
 	],
 	"releaseDate": 20181109,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Solve the crime of passion!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "639 MiB"
 }

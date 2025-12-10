@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/14e6aad7664aeb082c62f3544b09b6baf1d453cd5cf69f3022a38a5f4b392591.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Join the clan of sword mastery and wisdom in an ancient fantasy JRPG tale!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "480 MiB"
 }

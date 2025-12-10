@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1b2c641ee4339cb4e1cfefbe6521f244f245247f9090ba1b9b20cf92c00b0b0.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Jumping madness",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

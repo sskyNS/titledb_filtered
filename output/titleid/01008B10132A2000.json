@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/74c254485c69500d3a5201486b60a952c3a05588d1dbfac0705c7db82be6dc69.jpg"
 	],
 	"releaseDate": 20201231,
+	"category": [
+		"Music",
+		"Puzzle",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "\"The answer to all the questions, shall be Reborn through the sound of the piano.\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.44 GiB"
 }

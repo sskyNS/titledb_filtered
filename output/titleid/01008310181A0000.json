@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5992057921a549e058e5fb3723f975dd618111b06c2860e3fe0cb5318befe6d.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore an enemy planet and eliminate threats to the safety and well-being of your home world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

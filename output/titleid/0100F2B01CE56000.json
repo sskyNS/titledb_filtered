@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/27af165fd557c4a11ef8124d7623abb442c49f75dee8eb26515bf954c93d96db.jpg"
 	],
 	"releaseDate": 20231129,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A youngster trapped in a time loop is tasked with preventing a global catastrophe",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.71 GiB"
 }

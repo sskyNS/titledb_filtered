@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e66ddab379db4192d606ceb4b0d90ea9f6e501faefc63189452eef2e3fcee595.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "By night, delve into your subconscious and discover powerful artifacts to conquer your nightmares. By day, explore Redhaven and build relationships to unlock dream powers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.10 GiB"
 }

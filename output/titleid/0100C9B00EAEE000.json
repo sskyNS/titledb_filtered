@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cbfcf5f653eb91802f00883ee8e6e701f49ccfa933e259c4de2e80460a7ff07.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Adventure",
+		"Communication",
+		"Video",
+		"Other"
+	],
+	"intro": "In order to achieve our dreams of entering the 2nd dimension, we will be working together with the original creators of Spice and Wolf to create a VR animation.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "477 MiB"
 }

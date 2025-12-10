@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c9a81d84b1df2b357f096e2d6c23e4d6690662a9654e65a71818abcf1195d9.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Risk System is a gorgeous hand crafted 2D shmup with a unique core mechanic where you boost your ship's firepower by performing stunts and weaving between enemy fire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb41349bce7880eadfa829163d1f38559dd488599d38f48dd1d164aef0ba4140.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Detective Puz is a puzzle turn-based game with a twist. Use your wits and logic to pass 40 beautiful levels",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

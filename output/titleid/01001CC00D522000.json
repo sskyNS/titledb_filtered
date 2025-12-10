@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b04bb1c4fe1a7d2644b7d447fcd02c60a3597140455c28ea736fa39533cf5464.jpg"
 	],
 	"releaseDate": 20190718,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Captain a luxury cruise liner, sailing the entire world while entertaining VIPs!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

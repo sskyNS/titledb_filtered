@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/314a9efb39ad8cd1b091c12a01d9f01dccd68644c8a4c464c22a2f1c65cc3d5d.jpg"
 	],
 	"releaseDate": 20181207,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Be prepared for an Abstract Indie Adventure through the inner psyche.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.16 GiB"
 }

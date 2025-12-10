@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/045eedf9226986066935d34bf8678aed38044721ca9ef77ec50f5fbb329b264f.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Other",
+		"Sports"
+	],
+	"intro": "Are you ready to master the second chapter?\nElasto Mania, your beloved retro motorbike simulator returns.\nNail that balance, refine your skills and show off your style!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

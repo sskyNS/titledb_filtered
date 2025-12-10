@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6918ceb5352f950c264870f1d99e44d0c42c4901af8861a900e5f313dd42b339.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Unleash the purrfect power: defend, conquer, and rule with Meow Legends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "337 MiB"
 }

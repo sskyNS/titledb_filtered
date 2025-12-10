@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b390edf20bc49d652b914ad8d24806d37d90cd88e3420b4fafec580fcdfa469f.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"Strategy"
+	],
+	"intro": "War Party is a real-time strategy game set in the stone-age era. You will build your base, recruit and control a group of soldiers, fight and tame fierce dinosaurs and direct the flow of combat.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.26 GiB"
 }

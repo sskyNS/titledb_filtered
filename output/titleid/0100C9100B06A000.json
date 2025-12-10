@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f84cad68e27f7999c92c9360ce143f447de237df1947ddeb320bba875cfff9c8.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"Education",
+		"Practical",
+		"Training",
+		"Other"
+	],
+	"intro": "Let's play with programs.\nEnjoy programming anywhere and everywhere with Nintendo Switch!Create games and play games!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "187 MiB"
 }

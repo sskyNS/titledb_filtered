@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c59bcab2e4d4732eb1ddea336a6f80d92c4aec495c60cccf02e34da6e7e17e97.jpg"
 	],
 	"releaseDate": 20220117,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Race the iconic and legendary cars playing Racing Classics PRO! Play Now!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

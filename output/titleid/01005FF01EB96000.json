@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6396e6ac8b93af57f81fec75f74ddee1467795d61c9d01da87c90dff4815f70.jpg"
 	],
 	"releaseDate": 20240518,
+	"category": [
+		"Arcade",
+		"Action",
+		"Music",
+		"Other"
+	],
+	"intro": "Fight the alien threat in Astroblaze",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "39 MiB"
 }

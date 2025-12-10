@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/60d5a0e97c26250eb1d041d2ef85179556b74beedd37dd29933d298efda68ebe.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Shooter",
+		"Action",
+		"Sports",
+		"Fighting"
+	],
+	"intro": "STOP HIDING, START FRAGGING!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

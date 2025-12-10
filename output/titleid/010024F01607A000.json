@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/72be1e35b6d830b5324ab4d7c28802d1a130a943e46fba1138f098391e983425.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Explore time and space, influence character decisions, and change History.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "906 MiB"
 }

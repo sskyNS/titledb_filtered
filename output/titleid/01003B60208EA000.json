@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1b8648956db4e0aed1589b64a677c65d8362e10d64bb831785dd54d8f75c127.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Tower Hover is an endless building game where players stack sections of a skyscraper to create the tallest structure possible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

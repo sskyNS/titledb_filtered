@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/61c37f562e770b2b84a56486df015349db4d668b90acbf77cc5076616002ecf5.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Relive the legendary single-player campaign  from the classic first-person shooter, Crysis 2, optimized for today's hardware in Crysis 2 Remastered. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.21 GiB"
 }

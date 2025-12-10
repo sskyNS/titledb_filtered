@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b36f4f3b848ec7bf59dc48560ebe5c1a831042f6d973d27dd7066ea89fc92eb5.jpg"
 	],
 	"releaseDate": 20240423,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Defeat the Mutants and Save New York",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.09 GiB"
 }

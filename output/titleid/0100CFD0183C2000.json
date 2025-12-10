@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a7b01b45d409d83ebe2c00ee86cb2ca0657cd8f43e05bf1df81828de98479f7.jpg"
 	],
 	"releaseDate": 20230127,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Fall into a deep rabbit hole full of scheming royals, secret agendas, and momentous decisions",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "361 MiB"
 }

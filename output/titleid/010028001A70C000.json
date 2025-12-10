@@ -8,5 +8,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/778580503ae326408df2808b980cda3a32b18a19a636abef383efb90c156e86b.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A minimalist sliding tile puzzle game set in a colorful farm area.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

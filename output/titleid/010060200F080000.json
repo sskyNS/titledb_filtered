@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/50d80cd7b5f9fbd078d746ff0c795bebd39b755789058292488114dddb71679f.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Join Strike Force 3, an elite unit combating ruthless terrorists. Engage in adrenaline-pumping firefights, stealth missions, and complete daring objectives. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "738 MiB"
 }

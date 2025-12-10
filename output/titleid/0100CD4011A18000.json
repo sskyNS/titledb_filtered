@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/338b7d9464ad218b1676c69009fbb008294c83b69f43fc98ba5c3b610a74edba.jpg"
 	],
 	"releaseDate": 20200603,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Play our new taxi driving simulation game with stunning visuals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.55 GiB"
 }

@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5441854accb4815eb72a43b1d9f8e63b57105bb8ff5e6146ef16143e5936edd8.jpg"
 	],
 	"releaseDate": 20201106,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds. Will you lead your team to glory and become the next legendary Descender?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.67 GiB"
 }

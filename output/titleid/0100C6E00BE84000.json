@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/561b6b4654749101c7bef144bd91496709799b08b7ede96e1913b093b6fef672.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Life Goes On: Done to Death",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

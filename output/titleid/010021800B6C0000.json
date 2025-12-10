@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5311b4356e2bbaaca64cd41dbc482388cb2f9ddb44b541fd8799a45766cc1204.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A classic arcade space combat game where you have six minutes to beat your high-score. Perfect for when you just need to switch off and shoot something!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "902 MiB"
 }

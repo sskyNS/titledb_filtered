@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a4b4e40f4635a7eab32b127b688e0201572ca9bed8a6e874f6f5d94a0be88dc.jpg"
 	],
 	"releaseDate": 20200403,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Welcome to the world of drifting! The smell of burned rubber, the roar of 500 bhp engines and the style you have never seen before are waiting for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.77 GiB"
 }

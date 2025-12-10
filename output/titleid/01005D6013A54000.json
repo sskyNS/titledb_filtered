@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/90d9ef0586a5ce687a7d8120ddaa517295cf1136924876e70284da9059b59f8d.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Spiral into the galaxy to save the world\u2019s treasures \u2013 by yourself or together with a friend!",
+	"languages": [
+		"ja",
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "347 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a20265e1c6f205d94d8e33bdc2c8cc6ec70c8488b30ca59cc7e77c21db866d3.jpg"
 	],
 	"releaseDate": 20211207,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "From multi-award winning Revolution comes \u2018Beyond a Steel Sky\u2019, a groundbreaking 3D adventure thriller, set in an AI-driven future.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.28 GiB"
 }

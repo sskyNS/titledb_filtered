@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df8e236b512b9a8e89a8da88f6576bf8d1255f9c89a3972f4c6d3df4698c6fd3.jpg"
 	],
 	"releaseDate": 20250825,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Let's tell an old tale anew, and go back to the good ol' days of gaming with a new classic, hack and slash adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "785 MiB"
 }

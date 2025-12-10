@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11b28fa6409263f66a53df4f248b834e3bb7fe95548b1b76e8e3f383187963f6.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Puzzle",
+		"Other",
+		"Lifestyle",
+		"Board Game"
+	],
+	"intro": "Combine tiles, battle space girls, and outsmart unique abilities in Battle Puzzle 2048! Play infinite mode or challenge 5 difficulties. Can you reach 2048 and win?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "347 MiB"
 }

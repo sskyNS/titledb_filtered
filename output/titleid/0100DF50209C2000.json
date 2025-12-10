@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a57e90bdde2bbfdfc85a4195dc032f21096154a6124237e8149a4e26205b9a4e.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Chess is a popular board game for those who like to think in a medieval style! Awaken your strategic thinking and become a real chess king!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "104 MiB"
 }

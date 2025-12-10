@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0f7b74773937a165ab3676a3a0a3cb8fe5a510021d1444ff723a5c9c9b72fb0.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Future Millennium Sporting Action",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "367 MiB"
 }

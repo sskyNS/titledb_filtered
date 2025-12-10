@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb892a47ed37142990e42eed094bbbfd3d6553a02b96b237943889c1c8fe3a1f.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Study",
+		"Education"
+	],
+	"intro": "Use your staff to solve challenging puzzles and unlock powerful spells by absorbing energy from rare magic crystals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "285 MiB"
 }

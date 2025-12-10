@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/132ebed51ef85d5cd45e07e319114eb006f16d80be70ced123b26757331e1e1d.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A little hero struggles!\nTake the courage to confront the evil enemies!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "112 MiB"
 }

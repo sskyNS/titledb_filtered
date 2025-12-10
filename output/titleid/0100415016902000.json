@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b00e8ee8deaa6b97d3c0bbbe165eebcff5c82add09fd7b4317705fc4d18a641.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Definitive Retroverse Collection of NAPE GAMES classics from the 8-bit era!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "31 MiB"
 }

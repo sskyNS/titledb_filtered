@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/88b023bfd2f5fa2bfc92e807c5260fada6b045b6877f65857529db155a58742a.jpg"
 	],
 	"releaseDate": 20200207,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Multiplayer gameplay\n30 unique vehicles to unlock\nSpecial car-leveling system",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

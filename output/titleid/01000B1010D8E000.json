@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b4ea56dc802c494a4ce3a7b3292f5bd0ef5c89bf4452e30d4b816caaced745a.jpg"
 	],
 	"releaseDate": 20200409,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Training",
+		"Strategy"
+	],
+	"intro": "In Bridge! 3 you have the opportunity to build your bridges and their carrying capacity to the utmost! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

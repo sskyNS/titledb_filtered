@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/578ef31d6c00451bcac540e43c07dd8e7a24cad642b30791dd2ec84a755d74f9.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Multiplayer",
+		"Platformer",
+		"Racing",
+		"Party"
+	],
+	"intro": "Grapple your friends to outrun them in this competitive multiplayer platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "603 MiB"
 }

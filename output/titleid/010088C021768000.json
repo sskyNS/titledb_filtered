@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1649364f5406def5b6d642e542268eddd0fdffcf0db45c7e1d49861f23570f8c.jpg"
 	],
 	"releaseDate": 20250411,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Take each letter to its mailbox",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

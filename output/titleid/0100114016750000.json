@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ad7305a6dc81e8cabebdf26e2ac1dc3cd8fa967c56540913f009c3108131888.jpg"
 	],
 	"releaseDate": 20221025,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Lay down blocks, springs, cannons, umbrellas, use whips and alter the world, creating a safe path for Pompom to defeat the evil Captain Cat.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "610 MiB"
 }

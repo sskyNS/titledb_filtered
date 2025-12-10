@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/52efcdff13918ebf14cf55a6afcd6b3dcf921df4fd298889693db9e6d68addb9.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Rid the land of evil invaders and rescue your friends in this colorful 3D action brawler!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

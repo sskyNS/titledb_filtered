@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/310def6892953c1e87438049355119a90f4bef7693984330c17258c720a2839b.jpg"
 	],
 	"releaseDate": 20240305,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Kong Hero! - is an interesting platform game where the hero fights with enemies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

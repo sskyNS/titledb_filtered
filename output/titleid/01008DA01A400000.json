@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8094e00f04fd999037a1aa05e7192a310cea5b2cba373bdb1268dd0c549308c.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Training",
+		"Sports",
+		"Music",
+		"Other"
+	],
+	"intro": "I'll say it again, Fitness Boxing is invincible!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.24 GiB"
 }

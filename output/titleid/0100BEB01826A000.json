@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/38f3306f4e09011c53cef0a3f07c1cede459b8e0ef3b7da7cc52788051329224.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Guide George home through a expansive maze world with fun abilities, tricks and challenges along the way! George is a fun game for all ages. Do you have what it takes to escape the maze? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "618 MiB"
 }

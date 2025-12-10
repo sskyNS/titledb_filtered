@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d59cd3eea6dd66db3127215e82751ff5d821b78018e4a6bda4cae67499cd46a6.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "TEMPUS is a puzzle adventure game with time travel.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

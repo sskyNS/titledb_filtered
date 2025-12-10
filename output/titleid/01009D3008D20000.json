@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/aad7f30594c7ffcae7bd54786726ce012f73b6d4b51216d2848a69711a38e4ae.jpg"
 	],
 	"releaseDate": 20180111,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "\"You were captured. Look what they\u2019ve done to you\u2026 \nThe jailer is the key, kill him and you\u2019ll be free.\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": null,
 	"size": "2.03 GiB"
 }

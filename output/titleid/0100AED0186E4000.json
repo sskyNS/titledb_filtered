@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d4593c012c2138db275c30d695eac638e7fd8cd2574b070f8af9561b901f0bc.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The game you loved from the 80's is out for Nintendo Switch\u2122! Avoid skulls, spiders and snakes while you explore the pyramid and collect treasure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "347 MiB"
 }

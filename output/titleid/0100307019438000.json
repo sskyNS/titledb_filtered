@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ab98e2568587d9ae84905ca690fc03b1331f11a8b7626591abf1174ce210d05.jpg"
 	],
 	"releaseDate": 20230809,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Take to the gridiron and fight your way to become a football legend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.12 GiB"
 }

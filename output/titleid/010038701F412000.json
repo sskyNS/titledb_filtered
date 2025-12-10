@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ceb073a9c6b721b0a8a7df189aa534a70079fd87a5af5df32a87d8c7376d54d.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A hero resurrected. A new Adventure. Become the Solar Champion and restore balance to the multiverse.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.22 GiB"
 }

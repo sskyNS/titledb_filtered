@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdbea0aecffbd79a59b13e18a945a27542f0294cea3b65111cef84ec8ba68bac.jpg"
 	],
 	"releaseDate": 20210127,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Face your Destiny! For centuries the kingdom has been at odds with Nostria, but now first steps are being undertaken toward a lasting peace.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.48 GiB"
 }

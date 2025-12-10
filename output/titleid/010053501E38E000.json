@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1d68a21c7ee0e3d07346becb94786aab27907967252b28a3d5747b2eb4abf2f.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "You play as a little flying spirit that watches humanity in its early states evolve. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.11 GiB"
 }

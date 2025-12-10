@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/95f157b961029b78710d787289371c3b0f1b8cfd4d21822458f524daf8b0d1d8.jpg"
 	],
 	"releaseDate": 20180606,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Intense cyberpunk neon hacking action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

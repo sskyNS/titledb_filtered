@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/10f5de94f779924b3681701fce36a52f00e2d76d6849d734adf50ba50e3c73d7.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Become Detective Doston and solve a series of cases in a vibrant city in India.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

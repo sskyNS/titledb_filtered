@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/60ee814fa81ce1b5147adbb05d80820ca9d8fad7bf97cd1bce55f3213a16fc7a.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A fast-paced sci-fi roguelike",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

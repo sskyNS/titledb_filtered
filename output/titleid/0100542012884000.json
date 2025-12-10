@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/71b7cac31285fc2cd327bca84759b66b29a609c33f431faa0d5df29984771c76.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Enter an ever-changing dungeon of nightmares",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "356 MiB"
 }

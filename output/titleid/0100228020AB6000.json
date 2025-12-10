@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2898c0fb5e29c4bf3e86163345fdc020e997e13d1de4f0be0707e34c0b074b98.jpg"
 	],
 	"releaseDate": 20250718,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Other"
+	],
+	"intro": "Become the hero of the school by pulling clever pranks on the class bully \u2014 but as the tables turn, you might discover she's not the only one learning a lesson.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

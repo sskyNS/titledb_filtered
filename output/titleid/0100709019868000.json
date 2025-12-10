@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ab6c3dff76693bdfb227bd6d9ba69332b2b82dde6c7a6ac08e251f0bfb1c400.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Platforming open world for adults and children",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.53 GiB"
 }

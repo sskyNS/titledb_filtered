@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/467625bedbae4f6f117ac549d15f7c93b1fffd3ae7d16d91ede5bcf7eb08f22d.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Co-pilot the Capsule Ship on a microscopic journey as Vita-Boy & Mina-Girl!\nBattle bacteria to save the Sable family...and the world!?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.00 GiB"
 }

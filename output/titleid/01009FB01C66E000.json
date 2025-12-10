@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/087c14de4f241ee3d28f6c9834570d9d876992f96f8700a8c0ad62c4fd300b9b.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Healing hands, happy feet!\nBe the Foot Clinic hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a2179f9c1c74340f33a6b80edc6285d7238436f27232c3a4d0c613a0419e515.jpg"
 	],
 	"releaseDate": 20231016,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Kingdom Eighties is a new and standalone title in the award-winning micro-strategy series, Kingdom. Grab your bike and get ready for a Summer of Greed!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.09 GiB"
 }

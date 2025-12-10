@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1221ffdab2664d81815b7bd6032ac910a51e29b551f3a7a85eeec7b1ff3c00fc.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Crash Dummy is a challenging 2D platform game with multiple challenges to test even the most hardened gamer. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

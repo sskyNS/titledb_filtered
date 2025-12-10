@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2a4238900180bac3103c311f1980541aa9d8b1bc4c9910065db0e4ca318143d.jpg"
 	],
 	"releaseDate": 20190604,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Puzzles, balls and contraptions\nGet the balls from emitter to goal\nSo simple, yet so tricky",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "228 MiB"
 }

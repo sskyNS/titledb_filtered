@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba1f4db5eed0de66f9b5f4cc1f68634f5904138d6761764fac568cdc90f7f907.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "You are The Bounty Hunter and walked into The Forbidden Stronghold. It is taken by The Skeleton King. To collect all treasures you must kill him first.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "450 MiB"
 }

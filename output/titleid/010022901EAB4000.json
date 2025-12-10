@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e637c2c62dc2ff3fd121d9aa0d50bb7d01bf01b1d2366b0d0bced69173e6441.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Try it and get hooked!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "692 MiB"
 }

@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1e848c4fbba8e079b136deeca8eba19bbd4ad74701149daf304cb2e3ea79562.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Awaken your inner demon.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.08 GiB"
 }

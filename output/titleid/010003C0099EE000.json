@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cba3528914037f829b04c3ee9b19160b4312de557ed5a5e761ce6b75da50da32.jpg"
 	],
 	"releaseDate": 20180904,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "PLANET ALPHA, a beautiful alien world filled with mystery and danger.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.56 GiB"
 }

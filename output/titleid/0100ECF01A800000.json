@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/618aa0b951a375d9f685c4480d99b1d49579f58805c331d7e4efb5552d801c2c.jpg"
 	],
 	"releaseDate": 20230404,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Help Hei to find their path to the sacred tree! A point-and-click adventure game with lots of puzzles and a unique artistic style.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "395 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5458416ab99230ea9e0a8f2a7b7afff374393c53e193d45a25dad7245b4e2b17.jpg"
 	],
 	"releaseDate": 20201209,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Other"
+	],
+	"intro": "I, AI is a classic scrolling shooter with modern graphics.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bffcc3f5cac256036b779c7986359d442d11e97280a1d2d365aa5908bfb75229.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Attack in 360 degrees!\nGuardian Force, the timeless shooting game featuring cyber tanks, is finally back!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "436 MiB"
 }

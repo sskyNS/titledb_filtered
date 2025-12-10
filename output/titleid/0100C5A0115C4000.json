@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/19119fee4be4bcaff9e20b2a9200b3a3d0b7faf28241fed6714aba1efc5b20cd.jpg"
 	],
 	"releaseDate": 20200327,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Immerse yourself in a unique hand drawn adventure game and help Copperbell defeat the demon that has settled in the nearby forest.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.80 GiB"
 }

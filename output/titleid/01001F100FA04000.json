@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8176e86a7f2d66ed50650b33ea7d922ae6f97a2d87fbaf469fc9a225d8343d4f.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Action-adventure Platformer in Norse Mythology",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "799 MiB"
 }

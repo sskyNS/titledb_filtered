@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8012bcd3c21c956611bffe76ffbb308cd6de2f49460720f9b68dd26e7f5edf20.jpg"
 	],
 	"releaseDate": 20190419,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Play as the snarky Witch Thief, on her quest to steal all the magic she possibly can! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

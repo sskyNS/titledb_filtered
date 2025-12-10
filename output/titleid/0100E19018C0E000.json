@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bbe93b40d3e780cf033a89aa1ddaca54d9c825c14baa1e5df87c87ae0be63e6.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Follow the platforming quest of a unicorn in search of color in this 1-bit adventure by gallery artist and oil painter Super 8bit Rafa.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "625 MiB"
 }

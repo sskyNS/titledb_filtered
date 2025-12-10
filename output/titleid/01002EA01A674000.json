@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/50a518fc84e37af25746cb8b7a41d230fd1e352c613335ce162f8a2e755b5e53.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The new and cute action-puzzle-VS-Game, to play with your friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "249 MiB"
 }

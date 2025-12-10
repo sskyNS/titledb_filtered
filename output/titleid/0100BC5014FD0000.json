@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d720d516d344fd57824c0a3ed6a4e819d69e5dc93cf47d2d4339b2fcb78ceb55.jpg"
 	],
 	"releaseDate": 20210604,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "The most entertaining Pinball is back!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

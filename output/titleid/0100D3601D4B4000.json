@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5985d879ed71525775b202af97f557d2426a9d28435513526e52a63adfe633dc.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Welcome to the Wacky World of Sports",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.13 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/602784a7aa67332974aab170d3a26f1140ca7740eed928755fa560dfd596b99e.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "An odyssey through time",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.54 GiB"
 }

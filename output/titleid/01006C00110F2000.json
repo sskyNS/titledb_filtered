@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/eed9ea6b7b1b219f588d56bfceaa306b295cec516d0bd7394ecad8a4480f26ab.jpg"
 	],
 	"releaseDate": 20210301,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "A Glider's journey is a short, minimalist, yet challenging flight game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

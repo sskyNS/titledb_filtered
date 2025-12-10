@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ece3c3694cb075c2db0da14e22679b38505b7a5ae760a7e68eccbb78fbe3e92.jpg"
 	],
 	"releaseDate": 20180921,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A beautifully drawn adventure set in a surreal world of childhood imagination.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

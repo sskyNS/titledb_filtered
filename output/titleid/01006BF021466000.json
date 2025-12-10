@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e45ed17e70c3f9dbcdddaf15087863f4ec40998303795f6009e6ddaad57aba3.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Congrats on your magical gravity gun! Escape the planet now!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "154 MiB"
 }

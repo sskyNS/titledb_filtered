@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3360c43ea621b573d25aa3f2f73abf28f4396c911a6af9242ab309d7136ee94e.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Sports",
+		"Training",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Practice, take part in tournaments and become the champion of golf!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

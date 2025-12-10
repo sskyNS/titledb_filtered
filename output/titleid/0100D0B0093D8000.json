@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dd106f0332de1f9a9e6909e34ccde8f48e7ac4c391e3dfdc094635245c4da32.jpg"
 	],
 	"releaseDate": 20180215,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Roll, extend, and jump to your goal!\nA curiously unique action puzzle game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "425 MiB"
 }

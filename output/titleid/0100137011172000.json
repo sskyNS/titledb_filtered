@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a317da6df66c3133c73b9c5c9c1c729728f930a0c5835f455d8c5692ce2d4fbb.jpg"
 	],
 	"releaseDate": 20200515,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Training"
+	],
+	"intro": "Best brain-teasing puzzles to play on your free time!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "187 MiB"
 }

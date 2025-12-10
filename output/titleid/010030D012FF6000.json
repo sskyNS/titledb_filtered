@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3c64f9fe3d442b7e1c120f986d48a38b4d3be8535edecabf8012fb6be350646.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.07 GiB"
 }

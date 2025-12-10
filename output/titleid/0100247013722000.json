@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5901212acb3ec9d0d84b6cec2e40b3b94ebe81f4d41aa586484683d8d00f2db.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "\"Feeling tired of regular shooters? If you answered YES, then what are you waiting for?\u201d \u201cReverse your thinking in this not-side-scrolling artillery shooting game, Steos!\u201d ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

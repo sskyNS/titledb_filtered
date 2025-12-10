@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ee720d044c528f619177b785ab88b110c53ad82e527e948ce7575052eed0fc0.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Uncover the secrets of a frozen world. Explore ancient Arctic ruins, solve intricate puzzles, and uncover the power of a lost artifact. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.31 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c4e4f99b8765ffc678c101eefe722867ed30291baeff3c04a7a1e372bc53d09.jpg"
 	],
 	"releaseDate": 20190926,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Join Barry Bradford in this 4 player party of Golf!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "189 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9518e16dfa6b1048d1ccdd790ee55d7fc399220c0b101b360bf5f32c1f570ad.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Endless sandbox adventure with blocks that will help you mine ores and craft your ideal world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a9ddee1cbac6c8ab4e73e7121bcc81d31ecb71d146f6a60d4e252e8fe6f2d5c.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Action",
+		"RPG"
+	],
+	"intro": " Top-down shooter combined with hack and slash action",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

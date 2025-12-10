@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b890c821f6be19e0e87a990a0bbc236a021c5a0d850a2538d3aad9b34457ab8.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A lovely SCI-FI detective point&click adventure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

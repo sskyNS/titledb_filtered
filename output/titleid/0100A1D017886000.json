@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddd3448520c8b1a9d9bfbbd98aba9e955a86ab2b1252365c31b86f29c1cfce1c.jpg"
 	],
 	"releaseDate": 20220204,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Study",
+		"Music"
+	],
+	"intro": "ABC Follow Me is a perfect game for children to write their first words and learn the alphabet, numbers, animals and English! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

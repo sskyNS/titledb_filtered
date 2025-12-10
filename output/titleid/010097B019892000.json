@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d75abe3cac15da9dfe36d9675f0abdeb2867f55e3937ea6ea5e702954f99171c.jpg"
 	],
 	"releaseDate": 20231015,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "Rev up that engine, embrace the chaos, and get ready for a racing adventure you won't soon forget!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

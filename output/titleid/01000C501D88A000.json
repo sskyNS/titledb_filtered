@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b0290a11de4320ced0b2c3bd9c1d0c0073875feec72462b1ff2bf55a50ca54d.jpg"
 	],
 	"releaseDate": 20231129,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Journey to the Stone Age. Fight dangerous enemies and bosses using strategy. Destroy barriers, explore worlds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "307 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/61913632e6051c7c65e8bb0936435f73aea2f7c57a19046ad8785320667e9b45.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "You have never played bowling like this before.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

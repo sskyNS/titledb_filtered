@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5393d50e050efc10def392fb470a2f39ae5b77e2479a432007de4b9aecc2dc06.jpg"
 	],
 	"releaseDate": 20221109,
+	"category": [
+		"Adventure",
+		"Education",
+		"Action"
+	],
+	"intro": "Join our AI-companion HLN-A as they guide players through ARK in a low-pressure, kid-friendly, dino-fact-filled adventure called ARK: Dinosaur Discovery! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.53 GiB"
 }

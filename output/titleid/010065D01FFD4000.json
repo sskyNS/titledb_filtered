@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7701f124817e2e1b596a5bee50227981bfdf9da2a14cf88322abbc45fe802669.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Play as a charming Grim Reaper, soaring through colorful skies to free souls and discover 11 heartwarming stories in this peaceful flight adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.98 GiB"
 }

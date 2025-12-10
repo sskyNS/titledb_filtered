@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8c544c33d7aaa9aa3735df6640efa04fbe95c4a1d0d2e65db4ad3c662551541.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Lifestyle",
+		"Multiplayer"
+	],
+	"intro": "Farm with Friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "688 MiB"
 }

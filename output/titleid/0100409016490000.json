@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/88ebd381b669c5e5fcc872ddf85013f58b18faecc398fab014ff2639abb42c4c.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Monsters of classic horror and mythology clash to take back the night!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.17 GiB"
 }

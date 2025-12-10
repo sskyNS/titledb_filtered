@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5078d16ee3e8e04ba107aff6bbf83a871a777c09089ba055851c37338af48bbe.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "Sudoku Zenkai is a game for everyone, from beginning to advanced players. It brings a new dimension to sudoku - you can solve puzzles with your friends, wherever they are! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

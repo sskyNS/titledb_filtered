@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/adb9435bcc4398b076f3af567155373dfcbc1ef5be26397fe9d406e24d84043d.jpg"
 	],
 	"releaseDate": 20220914,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "AN OLD SCHOOL NEW RETRO ADVENTURE",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/465bcfbdf74c0ea426e071e1183a17084da59171f996d96a26d60c71be949005.jpg"
 	],
 	"releaseDate": 20210126,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Adventure game with lots of levels filled with pure fun! Collect all crystals in one area to proceed to another.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

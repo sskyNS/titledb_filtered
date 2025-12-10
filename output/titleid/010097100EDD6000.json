@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/03500400732a339da3e7cf0794977d4964e8b365bb8c2b4e8a74a9a0055a1d61.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nWith Six, the girl in the yellow raincoat, as his guide, Mono sets out to discover the dark secrets of The Signal Tower. Their journey won't be easy; Mono and Six will face a host of new threats from the terrible residents of this world.\n\nWill you dare to face this collection of new, little nightmares?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.57 GiB"
 }

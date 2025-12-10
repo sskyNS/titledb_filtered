@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/10b0a2e11ed12766233dcd9e1b2c73f731a2775dafa2779178b5f7611361af3c.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "The Glass Heart Band face challenges brought on by a cruel world!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

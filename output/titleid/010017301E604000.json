@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/091085bbf3b08b53b440cee1e60da657e3a3273e2a9a5b6a75cff21d418c7d41.jpg"
 	],
 	"releaseDate": 20240223,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"RPG",
+		"First-Person Shooter"
+	],
+	"intro": "Answer the Call, Honor your Duty, and Dive into Tactical Warfare. Navigate Intense 5v5 Skirmishes, Decimate Your Foes, and Uncover the True Duty of Warfare!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.77 GiB"
 }

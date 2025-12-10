@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/709c118333bc8f4a55040c8c17d5a6135a3e27082f7bfac4321b897687e1f0d7.jpg"
 	],
 	"releaseDate": 20220510,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Get wrecked in this immature grown-up RPG about a trio of troublemakers stumbling their way through a giant mecha tournament.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.09 GiB"
 }

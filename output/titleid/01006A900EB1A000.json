@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f900f7e536c30c43ec147a7a0091d0577aa7a1cf38ff3fd4b00f6e09e9deb3b.jpg"
 	],
 	"releaseDate": 20190716,
+	"category": [
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Get ready to take control over a physic simulated forklift and manage your own warehouse.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1c375cdffce4e5091dd274af2a23369f45c4314eb47c0420da123778b172118.jpg"
 	],
 	"releaseDate": 20220830,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "An open world rogue lite FPS set in 1944's depiction of Normandy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.02 GiB"
 }

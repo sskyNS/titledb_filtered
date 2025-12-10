@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/545b09e4a1b4518b16ec4c8c9064fbb8f74e216841edbf4c0cad4247f1adc526.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Stretch Your Brain Where No Brain Has Stretched Before!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "58 MiB"
 }

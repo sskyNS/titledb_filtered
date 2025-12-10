@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f2c247a55b0f11ecb81b5a742ab3f3f839d6266e3963d93bdac9315445a3fc8.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Party",
+		"Training"
+	],
+	"intro": "Official casual anime game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

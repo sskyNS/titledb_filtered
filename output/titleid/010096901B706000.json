@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ed380cda3f3eb133b55011019d892ad664db0b4c73f93ed9f8623a5801c9d02.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Explore, collect creatures, and build your team with real-time gameplay in Adore!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

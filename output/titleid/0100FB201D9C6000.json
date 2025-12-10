@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f905bb60961ae5f8f7c4d5be8085da60ed42b96acc167732fa98fe5610bfc31c.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "(Possibly) the prettiest, most relaxing road-fixing puzzle game ever!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "273 MiB"
 }

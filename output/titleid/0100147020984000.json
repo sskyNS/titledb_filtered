@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/28510da75906749fa9579b854369e7bb26db8f079b22eec94b8a75ed68993f16.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Puzzle",
+		"Training",
+		"RPG",
+		"Lifestyle"
+	],
+	"intro": "Solve fun Piczle logic puzzles created from the world of Rune Factory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5a07650de5907c3717da68b3f66424f1bdd4af5683a2f4e591210dbc840a584.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Legend has it that the three rays of light in the sky are emitted by a prism that grants happiness to the one who obtains it. You never believed in that, but it is your last resort...",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

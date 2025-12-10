@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1c6f4b632b0cbbc6e96076b34b077103eb449d7f39655a9ea349cfc49734f1d.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Have a fun and remember, the path in this game is only up",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

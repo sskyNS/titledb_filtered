@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f5ea7a30c8b53aa97da9b7a333454956a0d4f26785b5b6d02be0bca7982186b.jpg"
 	],
 	"releaseDate": 20180713,
+	"category": [
+		"RPG"
+	],
+	"intro": "Choose your fate. Eight stories await.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.10 GiB"
 }

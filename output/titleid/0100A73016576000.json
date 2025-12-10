@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef0423c6c1394597ff857e15309b9f45e7dcd156d61fd5472a60659b9424b4d5.jpg"
 	],
 	"releaseDate": 20220830,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Catch hundreds of tinykin and use their powers to bring Milo back to his home planet!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.32 GiB"
 }

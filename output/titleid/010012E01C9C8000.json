@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a23a40421489afb595dc4144edb55e1981d731ff1784bb3c5dc83fe12162d1e.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Practical"
+	],
+	"intro": "\"Same encounter, different world.\" Moon is a young woman who lives an ordinary city life as an office worker.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "423 MiB"
 }

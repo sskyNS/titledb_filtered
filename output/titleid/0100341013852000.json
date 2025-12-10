@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5a205589bf79b2571c8d7096efe9d71837414caeea58a5b81024918294aed05.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Surviving the flames of hell, only one soldier remains.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "41 MiB"
 }

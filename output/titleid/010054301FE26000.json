@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/63656962c061f5ce7b26d05a10856f08a44e23330f0a0098af131147344db848.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Before Exit: Supermarket combines features from roguelike with walking simulator",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

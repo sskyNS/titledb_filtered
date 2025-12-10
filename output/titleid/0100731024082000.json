@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbe00027487effafa2d8064d75a43bb0e87cca032fe63be84db13becb56f0bfa.jpg"
 	],
 	"releaseDate": 20250826,
+	"category": [
+		"Action",
+		"Education",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Gear up and survive the deadliest fishing grounds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

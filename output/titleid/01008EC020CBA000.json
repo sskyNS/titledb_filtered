@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/35b6548a541523968282d5d3316c06ef2b22a4b7e3e02ffe1d8f28c56736f878.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Fast-paced, roguelike bullet hell with deep, unique spellcrafting.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "810 MiB"
 }

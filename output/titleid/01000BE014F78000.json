@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c664c3b416bcd63f44b7fdd4152612a0e70fc165ce39ed1e92874de96aa27195.jpg"
 	],
 	"releaseDate": 20241111,
+	"category": [
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Welcome aboard, Captain. Fly around the world to thousands of airports in detailed aircraft with 3D cockpits. Prove your skills in many challenging missions.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.43 GiB"
 }

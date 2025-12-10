@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/83121e14fecffb7d628377804a617341535d3ddb4ed0585a1ef46be68012f0e5.jpg"
 	],
 	"releaseDate": 20220726,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Classic solitaire card game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "370 MiB"
 }

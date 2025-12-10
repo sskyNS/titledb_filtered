@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6eee368557db9d499610127394f7e7a2dcaf44b0b0b96c458c6efe52e1449a92.jpg"
 	],
 	"releaseDate": 20210804,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "In the magical and colorful kingdom of Orbalia, finding more Mojo can mean the difference between life and death!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

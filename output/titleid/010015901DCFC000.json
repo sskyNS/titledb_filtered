@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e222ec5c16d626a6e333b74d2e2b0bde4b769da634b4a5ce48023d03cbfb848f.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Can you stop this MEIOU project!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "104 MiB"
 }

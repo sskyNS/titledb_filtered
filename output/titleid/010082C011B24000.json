@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/518c80d79e5a0dd2523873e0e6bc6cd01d2b2e42ef9e5b7bb24cff97475027c8.jpg"
 	],
 	"releaseDate": 20200530,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Despot's Game prequel. Humanity is enslaved by an AI\u2026 which is awesome, because we\u2019re on the right side of the conflict.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

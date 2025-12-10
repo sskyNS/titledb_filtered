@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0a5ec9e3dd47a78e55ebdc79dddf19a3202ffb24b9779f3cd119bff803e33d8.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "In this thrilling vertical scrolling game, you will revisit the great classics from the golden age of 8-bit and 16-bit games.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "589 MiB"
 }

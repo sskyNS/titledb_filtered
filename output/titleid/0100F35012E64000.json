@@ -4,5 +4,15 @@
 	"publisher": "SNK",
 	"screenshots": null,
 	"releaseDate": 20210915,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": " METAL SLUG 2ND MISSION",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

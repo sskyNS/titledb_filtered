@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/95de1d2d22032c2c49680d9331bd02be0caf2503b6696a07a78423dc99525042.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Start a fun-filled adventure with Peppa Pig. Create your style, meet favorite characters, and play in Peppa\u2019s world. It\u2019s just like being in the TV show!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.77 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb1f38c41018420a6242a5736882cfbf9d34ec9d5417a14f02bcbdb552b611eb.jpg"
 	],
 	"releaseDate": 20180718,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Become a real party animal in this crazy party game! \nTons of fun await you and your friends!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.11 GiB"
 }

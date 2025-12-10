@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7a8caf61c51f8af82c3045a5e747fe93e9d771f019e8c39486b26ba27dffed1.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Embark on a party game set in the Smurfs' Village, featuring an adventure mode!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.65 GiB"
 }

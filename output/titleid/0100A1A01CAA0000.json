@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/451b53372b7422ab3d90b4920cb9469bb88494fdfddb6d63b7f7c402942febdb.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Uncover the heroines' stories, solve puzzles, and immerse yourself in the beauty of anime images.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0091d044f73952591b15b614481fdbd5ccbefe3f8c5cc53ff866d643c8bc58d.jpg"
 	],
 	"releaseDate": 20240505,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Become the Master of Deadly Shurikens!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.05 GiB"
 }

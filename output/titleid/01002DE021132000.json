@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e0eeec40dcc43c14ce54f26cfdacae711d3f7b8738a46ba935ca9a11a8a714e.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Switch the sides",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

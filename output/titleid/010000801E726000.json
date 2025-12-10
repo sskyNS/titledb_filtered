@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a34a2153173dbc2619701c06ff558f78ed2fa77b8907cd4b0bde92a2b42173e2.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Get ready for an exciting sports adventure in a basketball simulator with realistic ball physics!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

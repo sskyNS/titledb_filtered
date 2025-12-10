@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3824286075f51448d8e6476250c255ee6988eb718a2d2e51aa0513f4c3e7c3bf.jpg"
 	],
 	"releaseDate": 20250729,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Enroll in the Ancient Magic Academy and become a Great Mage!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

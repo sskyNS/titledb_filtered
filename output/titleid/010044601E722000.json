@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cee790078a774b409c0362d2a614e684f0a1163ae53bb0db80185d9e3f9e388.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "SUNSOFT\u5fa9\u6d3b\u8a18\u5ff5\uff01 \nSUNSOFT\u306e\u540d\u4f5c\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0\uff13\u4f5c\u3092\u307e\u3068\u3081\u3066\u79fb\u690d\u3057\u305f\u8c6a\u83ef\u30bb\u30c3\u30c8\u304c\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "893 MiB"
 }

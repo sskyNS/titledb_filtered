@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/66e75b1a71d9a7f50948fac5f211f29553d3e39aff9d23cb6b6e0f4108343068.jpg"
 	],
 	"releaseDate": 20180104,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Education"
+	],
+	"intro": "Pic-a-Pix is bigger and better than ever!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "80 MiB"
 }

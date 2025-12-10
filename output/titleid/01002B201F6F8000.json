@@ -8,5 +8,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8eaea9d8698b140f231b454d9bbca20db10a758ea0e6ec29b7f49e302923d59a.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30ec\u30fc\u30b9",
+		"\u30b9\u30dd\u30fc\u30c4"
+	],
+	"intro": "\u30d0\u30f3\u30d1\u30fc\u30ab\u30fc\u30c8\nGO GO GO!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

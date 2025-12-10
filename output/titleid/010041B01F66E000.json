@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d515c061f7a35e176fc2da483f2984676ed09791f08b85bfa44b93959aeb8628.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Shooter",
+		"Board Game"
+	],
+	"intro": "An Exciting Color-Matching Adventure! \nGet ready to blast your way through 200 vibrant and challenging levels in Zumba Marble Blast.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

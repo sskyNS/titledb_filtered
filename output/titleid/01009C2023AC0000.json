@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fd9319377793a5d188cff966b98c2b760868a17a98aefbde9b418a4e307c0c2.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Splinter and Shredder are dead. Help the Teenage Mutant Ninja Turtles tackle deadly new threats and the approach of adulthood in this fast-paced turn-based beat-em-up! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "805 MiB"
 }

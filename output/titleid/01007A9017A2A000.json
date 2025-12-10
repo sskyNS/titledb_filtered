@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aff78e653f0fd18bbab0d36bb8505c8a6366c415645ddfe7076ba4ceb11e67c6.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "The Rogue-lite that doesn't give a HECK",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "888 MiB"
 }

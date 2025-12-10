@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0284bf5660d4503ec913b4bc2643355daae947c4695021e100a0d5bdf223d203.jpg"
 	],
 	"releaseDate": 20230616,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Survival horror set in Japan!\nFight off various creatures, search for your missing wife and child, and escape from the town safely!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.34 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ec231c35ff449127ed71562c2a5f773c7baa0197f95a4fbb6916ba1f04fb3b1.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Expand a medieval cemetery into a thriving \nbusiness, whatever it takes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "891 MiB"
 }

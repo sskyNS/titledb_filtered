@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f85642b9d8575f22febe29c4a051d967f1b983cbe10e9808b0ea1801ddb7b639.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Party",
+		"Action",
+		"Communication",
+		"Sports"
+	],
+	"intro": "Swing your rod, reel in your catch, and fish up a big one!\nEnjoy a refreshing fishing trip surrounded by nature!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "766 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ce46efb72215f09c98e28d4733f6d4de6ef21faa476a5b6588127c8fafe30ff.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Racing",
+		"Action"
+	],
+	"intro": "Train hard, Play harder! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.13 GiB"
 }

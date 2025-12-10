@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e58922ac5275e75b2d781af029f2f06978df2652fc49af5d1b15e3a2d0340b4.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Training"
+	],
+	"intro": "He\u0445a Puzzle Block is an engaging puzzle that will impress all lovers of logic games and brain teasers!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

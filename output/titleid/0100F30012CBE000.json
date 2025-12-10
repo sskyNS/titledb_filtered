@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ad4950d4ce57c66d41d939c5e353c7db20eee7fa85964af04ad8fdcff7bffa7.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Racing",
+		"Sports",
+		"Action",
+		"Simulation"
+	],
+	"intro": "A quick and frantic racing-flying-smashing game that sends you hurtling down ginormous ski jumps, through the air and smashing into everything in your path!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "604 MiB"
 }

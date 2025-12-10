@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bf9b786b76517b1869689c302c9ba324419d5f046619b5553b4fe5274c6de43.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Simple rules. Anyone can play with anyone. Time flies as you play.\nThat's the puzzle game, Picross S.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "239 MiB"
 }

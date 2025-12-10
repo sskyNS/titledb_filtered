@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3d56cf419ab0efc18b3afb688bd15306b4033ed0e5977386da26f4623b01c50.jpg"
 	],
 	"releaseDate": 20210414,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "The most explosive 8 player medieval arcade game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.01 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/60e4b0ad77a664de20015f224a815e6d614ade33e1ea365f059729dc88cb217b.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Shooter",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A new kind of puzzle shooter! \nMake rectangular shapes to clear blocks!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

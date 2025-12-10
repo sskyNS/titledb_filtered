@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8d88febf31907d43964deaad53598d957eef2884da507f060cb2d8f629bdbf7.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Let your creativity reach the moon in NOVA-111. Explore alien worlds and combat fiendish alien creatures in your quest to restore the flow of time, all in the name of SCIENCE!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

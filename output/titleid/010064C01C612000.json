@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bb2ef12e6dc84902d001f197612f08039d486161b3b97198b7e8598f641c1da.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "An astute killer infiltrates the dreams of his victims, sowing mental chaos until their death. Five days, five victims and multiple alternative endings.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

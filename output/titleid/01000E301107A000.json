@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7834fc6d596d09165141262775c38e3483852e4a975360cabffc1b622c16783e.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Four fantastic indie games to play with a friend! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.18 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/990ba582bf716f5e47b8b607a5499dbe3713136c8d2bdfad590431cb245f98e5.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dreams have never been so intense!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.35 GiB"
 }

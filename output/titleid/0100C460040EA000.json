@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9993fcd5e633759d09246ed90c83fdf643f996312b420a00b7042aac252c7f70.jpg"
 	],
 	"releaseDate": 20180710,
+	"category": [
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Live the adventure of the hunt, from Alberta to Texas, or perhaps in France, Colorado or Scotland. Play single or multiplayer, choose your hunting gear and firearms of choice, including Browning\u00ae and Winchester\u00ae models, and master tracking 37 different animal species each with realistic behaviours.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.44 GiB"
 }

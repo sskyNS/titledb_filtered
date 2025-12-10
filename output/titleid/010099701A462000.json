@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/47232823e17f5d7fce1218e268bb87f41f1a0abb30bfbb6e9ec697c5ec60212c.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Show humanity the true potential of AI in a fast and fluid 3D action platformer set in a vibrant \u201csolarpunk\u201d world. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.97 GiB"
 }

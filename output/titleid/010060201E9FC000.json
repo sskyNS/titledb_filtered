@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5caf6b1bd93ccfc28afae53ae35362d57b2ea13fcab6f4cdf475fbdc00d22d9b.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Battle waves of evil balloons and save the galaxy\u2014solo or co-op! Explore worlds in story mode, rescue friends, and team up to defeat bosses in this arcade shoot 'em up!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "509 MiB"
 }

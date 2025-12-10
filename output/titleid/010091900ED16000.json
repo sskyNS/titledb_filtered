@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a038ec97721ea7876e5065baa794a2fbf93cadd97a90d574bd0c7ea6568edd22.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Fighting",
+		"Action"
+	],
+	"intro": "KungFu Kickball is the fighting-sports game where the best ball kicker wins!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "737 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/059907b93add4236d2311e8e3f1d00ad3851e33d0f9c5ef4dc7620050202e967.jpg"
 	],
 	"releaseDate": 20190822,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Go up the ancient clock tower to make the frozen time move!\nNext chapter in the Pocket-sized RPG series!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6b7968cbd9fa2538a784d0feb9acbbadaf5acd4d8b50b9549e71f8f8ae76944.jpg"
 	],
 	"releaseDate": 20211116,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Go on an adventure to save your forest!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.69 GiB"
 }

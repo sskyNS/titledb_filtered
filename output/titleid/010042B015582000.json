@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b3c711cd74bb3e57ca0e5cd7a5146a0b925c71b9349b2b94cd2bec4395ba507.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "The legendary game \"Spelunker\" is back with a full remake!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.24 GiB"
 }

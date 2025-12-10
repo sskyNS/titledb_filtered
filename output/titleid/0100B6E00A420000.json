@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbc548144311ddfd3a270550bbae2bc5dffde2e3f7d2e290d11acfb4ca332ba1.jpg"
 	],
 	"releaseDate": 20180910,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

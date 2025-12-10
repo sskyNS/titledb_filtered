@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b30418421cbbe2757d6ffd0a29a93290bb77c5299bc7fe147524484a1687e591.jpg"
 	],
 	"releaseDate": 20251020,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Explore a magical island as Ila, searching for her lost kitty, Coco.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

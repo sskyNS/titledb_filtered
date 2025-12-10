@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd019fa68ccb65c8349a82bd7a8026681eb69b763416f02b549e378551b35f63.jpg"
 	],
 	"releaseDate": 20250318,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "In the Valley of Shining Stars, magic lights up every corner and guides ponies in the discovery of their true destiny.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

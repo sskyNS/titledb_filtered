@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad014eaac08ad9949123d269775fa0e864b74e457c27111c22cff0c033f713fc.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Fly like you\u2019ve never flown before in multiple cool environments",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "449 MiB"
 }

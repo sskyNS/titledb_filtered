@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8401a8154948652b9aba45c39effc80305cd164aa4a4cf32088595f3f919131c.jpg"
 	],
 	"releaseDate": 20200709,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Laraan is a Science-Fiction game about exploration in a desolate world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

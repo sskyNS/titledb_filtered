@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/618e44ae8f39b5d1d5ce0da400d9c6efe1e1d3fe0bf11d0d02fadbfcbabe6b8a.jpg"
 	],
 	"releaseDate": 20171109,
+	"category": [
+		"Action",
+		"Platformer",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Raise your shield. Embrace Lady Tallowmere's dungeons. How far can you make it?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "111 MiB"
 }

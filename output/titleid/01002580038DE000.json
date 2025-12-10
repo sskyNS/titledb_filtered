@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9df5a003c548b5fab896c7aaf9b9860a4cb17a0ec11d3b311419e1503281ab5a.jpg"
 	],
 	"releaseDate": 20170518,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Eight warriors fight to defeat \"Velden\" \nwhich dominates the dark!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "103 MiB"
 }

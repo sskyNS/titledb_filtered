@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de33be98d401a4708468305bcdc5ab083f0f6b81d476040a564d4bafd1b286c1.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Help Job the Leprechaun ins this retro-styled platformer adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

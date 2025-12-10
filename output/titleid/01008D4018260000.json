@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e58b66204fb0f91ab4a368d8039e7b168ad1133e2318098183088c40ea0fd22.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Throw on your invisibility cloak and put your reflexes to the test in this brutal precision platformer brimming with espionage, intrigue, and betrayal!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "930 MiB"
 }

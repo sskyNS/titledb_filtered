@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6addf911b0ca16b708cd8ae7f6da11a8cd279c7cb65b5c00f1d98a4faeb5799c.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Get ready for a supersonic, old-school 16-bit side-scroller shoot \u2019em up with a \u201ccolorful\u201d twist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

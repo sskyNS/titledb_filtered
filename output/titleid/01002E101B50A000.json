@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e1fcb105b5acb15805fe96cebfd0c4b159c7ee96d9d3f4290f9035c8d5f02d0.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "Skillful combination is half the battle!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "374 MiB"
 }

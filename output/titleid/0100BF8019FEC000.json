@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c1922d90c550ac0760798738045d2c1cc5edf7000fb4afc4aa52dfc96551d7b.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "An amazing 3D sensation that invites you \nto an unknown battle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "59 MiB"
 }

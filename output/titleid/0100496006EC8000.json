@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/22fdd6ef29f1d3042f4ad3d1a638996d479fefa6f7dd7d867b990527497d4548.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "You have only yourself to depend on. Make your way through the unforgiving battlefield and take out the enemy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "72 MiB"
 }

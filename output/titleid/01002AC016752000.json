@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a631ec7929e3f05f30d50d7d2fd7eed42d19c3d38d4178a96d8f402e4299b2d.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Tyberia has been turned into a paradise by the Tyrant, free from war, suffering, and death - because nearly everyone has been transformed into the undead. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

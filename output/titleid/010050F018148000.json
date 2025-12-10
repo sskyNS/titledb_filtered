@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ec7f5028ca2e9620efb965c965e28444c929430c991981de8e96cf548a72256.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Creep, sneak, and dash your way through hordes of ghouls and eerie ectoplasms in this roguelite reimagining of the classic Atari adventure!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

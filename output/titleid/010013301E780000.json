@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/caea84092c1fcba99310c74b5ae8d0696847dcdf894386226a92a1b50e8f2383.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Explore a cursed town, recruit new mascots and solve the mystery of your exile! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

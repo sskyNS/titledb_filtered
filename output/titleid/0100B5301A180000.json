@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/45e69c83f7f99a5c5cdf68a9277b7f5e30206b5e4efbe1428061f743d5da4cb9.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Action"
+	],
+	"intro": "When a demon's castle darkens the land, two sisters challenge its halls.\nTogether they can break the curse.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "879 MiB"
 }

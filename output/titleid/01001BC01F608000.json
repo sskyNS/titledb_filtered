@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c45b222c1e05d2c1f81f49e62f26ab63bdf7bec6384d513dfb8d6c524d7a7e3f.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover a world where chaos and order coexist.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "754 MiB"
 }

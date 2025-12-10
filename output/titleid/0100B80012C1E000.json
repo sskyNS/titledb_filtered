@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf3588200fd964483cf72e10cb3825734e5765428032876014064f0280269544.jpg"
 	],
 	"releaseDate": 20210113,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Solve the mysteries of an enigmatic island and escape back to reality!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

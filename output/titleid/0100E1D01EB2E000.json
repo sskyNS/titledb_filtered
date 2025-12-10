@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9d456780717a7586c978c00bdc8ea96b35520176e945726837cb4970318359c.jpg"
 	],
 	"releaseDate": 20250607,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Simulation",
+		"Education"
+	],
+	"intro": "In Squeakross: Home Squeak Home, solve and transform puzzles into furniture to decorate the perfect home for your rodent friend!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "716 MiB"
 }

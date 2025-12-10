@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ab1120b55379177d5da5b15fca613aa569a29aeceb416caf1d6ab379dcf58c9.jpg"
 	],
 	"releaseDate": 20240126,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Axis Football is a simulation-style football game featuring the industry's best franchise mode, massive customization, and realistic gameplay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.25 GiB"
 }

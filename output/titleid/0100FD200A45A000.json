@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eeb33d35c3c9e201b9aee001c2456d2c4f4ff09872d6168b962fb3921196642a.jpg"
 	],
 	"releaseDate": 20180720,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "In Spheroids you take control of Lucas, a jumpy Canadian boy who sets out on an adventure with his crazy scientist companion Otto after it\u2019s discovered that the government has been hiding alternative universes from the cubic world they live in. Unfortunately, these alternative universes contain spheres that wish to turn everything round, so it\u2019s up to Lucas to save the world from these dangerous aliens: the Spheroids.\n\nThroughout Spheroids' 32 levels, you\u2019ll encounter many different environments, with multiple hazards to avoid and enemies to destroy. Items such as the \u201cModified Drilling Hook\u201d Otto lends Lucas will help you traverse the environment with ease, with many more to find throughout.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "399 MiB"
 }

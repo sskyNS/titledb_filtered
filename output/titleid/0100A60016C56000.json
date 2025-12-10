@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ed96851337953a0a080b88aff810fbc3dfbd72034ffe278f3dbbc4a00a8769d.jpg"
 	],
 	"releaseDate": 20230516,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Kargast is a dark narrative exploration game with light RPG elements and a satirical tone.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "582 MiB"
 }

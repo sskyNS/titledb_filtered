@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f2c86dc8d4f60df7744dbced5b99a27d92626b5dc2e04d70f14abdc515c5928.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Save the hostages! Shoot the enemy!\nDon't miss essential weapons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "44 MiB"
 }

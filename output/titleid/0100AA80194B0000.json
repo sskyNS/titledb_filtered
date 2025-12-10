@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/71d893c841c16383ff227d00f088159da5d76f05757341f8c48a89652d57d72e.jpg"
 	],
 	"releaseDate": 20230621,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Find your way home in the original Pikmin-plucking adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c21d176b5d8cfc16fe7417b564176a07b5f4eb03775c781016b32d40229e0be0.jpg"
 	],
 	"releaseDate": 20220617,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A bone-chilling body-horror game with escape room gameplay - will you make it out alive?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.39 GiB"
 }

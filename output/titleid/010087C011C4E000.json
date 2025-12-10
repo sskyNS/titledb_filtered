@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/67b4c029e126ab75d8b642b9c9f464376c47ce0e54919028ead5879189013fb2.jpg"
 	],
 	"releaseDate": 20201006,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Your weapon is your knowledge.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

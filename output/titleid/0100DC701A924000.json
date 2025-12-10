@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae1f81a4b04e0d198041bbfc45665c5522af61aa18a74b20cbd43ec843594732.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Education",
+		"Puzzle"
+	],
+	"intro": "Build a thriving airline enterprise, connect the entire world with your network, keep an eye on your aircraft park and airports, and don\u2019t keep your passengers waiting.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "488 MiB"
 }

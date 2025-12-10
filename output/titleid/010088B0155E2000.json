@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/3151e04f997ccc7a7e7293c4fcf63f627b1bca8db8f54177aabaefc87f45a01b.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Spearhead an Ork invasion, destroy the hive city and kill your warboss in Warhammer 40,000: Shootas, Blood & Teef! \u2018Ere we go!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.21 GiB"
 }

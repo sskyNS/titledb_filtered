@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/336a13a279d03399af9e9e9c1a4133fa7ce6604ca056a50047820192ef6c3547.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "2D and 3D exploration meet in this surreal, story-driven adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "423 MiB"
 }

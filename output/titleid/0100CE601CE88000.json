@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/65e37d69e0b59d1397e89f28e995a6da365f9c125ee9d2bf89ad42b847e5a299.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Relive the witchy classic, for Rainbow Cotton has returned.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "813 MiB"
 }

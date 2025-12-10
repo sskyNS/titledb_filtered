@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/15a46d5b1e7faae2060941795bc4037b770a6cc905bbb373fc9c507f92b85b58.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Party",
+		"Action",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "The classic archery party game from the creators of Celeste, featuring Nintendo Switch\u2122-exclusive 6-player battles and more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "435 MiB"
 }

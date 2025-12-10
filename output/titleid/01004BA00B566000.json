@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9e7bdc9817d1d9d0ccdf79e2351bbec92ba213086c27c80229a6c54d5d26d60.jpg"
 	],
 	"releaseDate": 20190419,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"RPG",
+		"Lifestyle"
+	],
+	"intro": "Become a boss of the building company and take control of Construction Machines.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

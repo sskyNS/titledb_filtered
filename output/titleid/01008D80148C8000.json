@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c98a9d415d395f746419122742845132a4949be0efebee20fe6a9bfc3b87fea.jpg"
 	],
 	"releaseDate": 20210525,
+	"category": [
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "King of Seas is an Action Role playing game set in a deadly procedurally generated pirate world. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

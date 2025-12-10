@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/828e75ea9c2b97bfb2703d511ad98b9d6b8d89209e6e9066e992277caf7ebfd6.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Single and multiplayer Parkour game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.59 GiB"
 }

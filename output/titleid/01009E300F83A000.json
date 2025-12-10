@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/eea267c2aaf05bf72516ce2de91cf181a1bff3e7e9e02eb1d68e7494c6d4536d.jpg"
 	],
 	"releaseDate": 20231115,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Smack 'em with your staff and get magic!\nClassic 2D platformer action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "504 MiB"
 }

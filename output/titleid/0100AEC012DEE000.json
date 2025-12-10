@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3222b1355c668f5d457e901f7a06591ab52dc1e2a977aff630ce839751bf0302.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Lifestyle"
+	],
+	"intro": "Enjoy the most realistic and immersive simulation of cue sports on Nintendo Switch\u2122, with stunning 1080p visuals and more ways than ever to play pool and snooker!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "513 MiB"
 }

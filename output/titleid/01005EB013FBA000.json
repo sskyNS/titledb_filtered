@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1039bc38a0bcd9dac762e55da59ade82a9c29e6730beb9033ab33e124b51ff76.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Persephone is a puzzle game that explores the following possibility: what if death isn't the end, but the key to solve puzzles? ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "408 MiB"
 }

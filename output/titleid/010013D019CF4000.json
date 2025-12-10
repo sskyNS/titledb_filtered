@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f050cfe50c620245d921cb05f46fe509622a6773a7db0335ceae4bbafe18993c.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Finish the hunt in this epic finale to the Turok Trilogy.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

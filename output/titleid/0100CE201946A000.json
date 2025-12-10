@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a30303e8d062e608c874f1e1dbbb75da43990f26e23e82875a9a8fdf091dcfb9.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Innocents Vs. Traitors!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "329 MiB"
 }

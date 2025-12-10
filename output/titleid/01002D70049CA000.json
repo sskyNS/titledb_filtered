@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/66503eb07497c0f5983887a2658e06d05a1bb4d78e6f3a98cac569d2ca76075f.jpg"
 	],
 	"releaseDate": 20181101,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost and Botanicula.\n\nA little robot who\u2019s been thrown out to the scrap yard behind the city must return and confront the Black Cap Brotherhood and save his robot-girl friend.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "349 MiB"
 }

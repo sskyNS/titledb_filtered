@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b52c80c66de83ece2a25e2417cd59c7ce5b1dba47fa527c19d2c61c332ddd040.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "TetroMosaic: A mental challenge that combines tetrominoes of different geometric shapes with the textures and colors typical of a mosaic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "609 MiB"
 }

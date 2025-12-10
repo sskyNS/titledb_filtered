@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfa098cecee85723ae3c14efe414b1357b627f153834dc2d518e315b00109e90.jpg"
 	],
 	"releaseDate": 20231101,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Old friends and bitter enemies await as you invade Earth alongside a Mothership full of alien friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.80 GiB"
 }

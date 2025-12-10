@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f36acdf97c2c6941fc5d370a0397392d1d76d77bf04c88a41734bee1d384a5e8.jpg"
 	],
 	"releaseDate": 20250618,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "A minimalist retro stealth-action game paying homage to Kojima's famed series.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.94 GiB"
 }

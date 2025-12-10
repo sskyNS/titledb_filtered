@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f62583aa533dc8d7af0acfd226ad6a57c75ae80060f19ad04037feb449f7a04f.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Board Game",
+		"Education"
+	],
+	"intro": "Complete moving jigsaw puzzles alone or team up with friends and finish them together!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.17 GiB"
 }

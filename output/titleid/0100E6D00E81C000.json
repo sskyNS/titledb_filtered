@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7df1ca719c1a19652a085a9d5ba89ed25848bf91c919dd6d1d5a10cc5ad8eb7f.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Little Racer is a dynamic racing game straight from your childhood. Enjoy various tracks, avoid obstacles and speed your way to the finish line. Slot cars are back in retro style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "596 MiB"
 }

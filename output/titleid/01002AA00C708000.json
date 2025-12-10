@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/890778f7efd249591229e7dbdc00eb7eae9b74a4f40b095bdcf4c4c86307eeb2.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "It's Sudoku with Words!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

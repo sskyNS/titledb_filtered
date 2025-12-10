@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6c033dea6b8e4efb1e9952eed347619cbbfc841f07bc4184b70c1f5b7cacdc2.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Start your engines, gearheads - it's time for Hot Rod Mayhem! Prove yourself as the ultimate little racer by putting your speed and swerving skills to the test in wild races and one-of-a-kind trials! Use perilous pick-ups, like the tricky Marble or the Homing Dart, to leave your opponents in the dust!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.31 GiB"
 }

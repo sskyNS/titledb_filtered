@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8364a4060a79fa68fa8b603e0d8165ac1715439b7ee6ccf3aadd2364a81dc910.jpg"
 	],
 	"releaseDate": 20231229,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Solve puzzles by rolling a giant walnut in this retro-handheld-inspired adventure. Explore a variety of levels each with unique mechanics. Help Chico build his winter stash and get home!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

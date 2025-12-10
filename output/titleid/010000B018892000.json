@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9ed8d6f3cb8315450bcc88b6df27f0922447e46c49a29940ba2e9683a7fff16.jpg"
 	],
 	"releaseDate": 20220601,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Action"
+	],
+	"intro": "The classic minesweeper for the Nintendo Switch\u2122 system. Train your brain, increase your skill and, at the same time, have fun with this challenging logic puzzle.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

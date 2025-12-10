@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0f4e70db29877227ead4698d3b70df495d79d7e5bdf976a7fbbbdae0c07b465.jpg"
 	],
 	"releaseDate": 20171212,
+	"category": [
+		"Party",
+		"Arcade",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "The Ultimate Collection of Party Games for up to 4 Players! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.46 GiB"
 }

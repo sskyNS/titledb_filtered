@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5995d1c5b7d3e6c08d3db0a3b3111139344a9bbc4e47c83428bfc5478c0f7613.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Merge, grow, and master the magic of mushrooms!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "302 MiB"
 }

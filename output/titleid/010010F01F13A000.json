@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a8f4d3f74ee265338ef8600fdcbe40c3c70e0e6a6c09d61f9cf1919cdcab3f7.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Punch, kick, pass, shoot!\nYou are the Hat Trick Hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "69 MiB"
 }

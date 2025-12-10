@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95e15bf99b9c31aeb6780c5666cb23f9304ffab604ec4d4c43565fd9c6107bd9.jpg"
 	],
 	"releaseDate": 20240814,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Dive into this exciting visual novel. Join Luna, the wise owl, and Max, the brave tiger, along with their friends: Roco the mouse, Pepe the penguin, and Nina the giraffe.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "248 MiB"
 }

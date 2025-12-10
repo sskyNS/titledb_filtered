@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc6b92603e30d0e669eecc70597c5a5996860b52179be8082069c50753768cf2.jpg"
 	],
 	"releaseDate": 20210120,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "The mix of tower defense and puzzle, use traps to defend the house. Otti: house keeper is a game about defending your house from thieves and uninvited guests.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

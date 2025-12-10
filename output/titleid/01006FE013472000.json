@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0dfae50fe5743f18cfaa3d39310a5e4ea7abd64cf66311abaa22a27b500d286e.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Join the party and prove you\u2019re the board game superstar!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.86 GiB"
 }

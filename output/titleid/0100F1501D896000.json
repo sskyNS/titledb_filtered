@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c8be1370854b28978ccd25d861f6e629b9db0c2e2e530e465e04cb8e0160c82.jpg"
 	],
 	"releaseDate": 20240111,
+	"category": [
+		"\ud37c\uc990",
+		"\ud559\uc2b5"
+	],
+	"intro": "\uc544\ub984\ub2e4\uc6b4 \uc608\uc220 \uc791\ud488\uc774 \uc788\ub294 \uc2a4\ub3c4\ucfe0.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

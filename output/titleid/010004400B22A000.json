@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/182d9f9abaa368c1e1940730fe47af9e3665cd116936301fbc87598d3d6c2e70.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Play a group of pen and paper gamers playing a pen and paper role playing game ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

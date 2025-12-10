@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0c23247f38b6bcee37bb9b50224c6423124ffa11d8bb9dfbc4b1b1576f4ca2a.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Embark on a journey to unite the powers of the East and West against a looming evil!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

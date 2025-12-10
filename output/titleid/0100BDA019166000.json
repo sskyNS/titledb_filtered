@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1414a827cbf0865a2b81061cb460a24e9cba1c2d155f302beaff0624c11a097.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Race like a true hero!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

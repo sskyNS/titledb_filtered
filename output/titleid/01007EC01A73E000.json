@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e793dd5418790d51716e842967e25069e28970bb9059ba7bc19bb38a303ae80b.jpg"
 	],
 	"releaseDate": 20230707,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Jump into the story of Beatrice. Help this sword maiden avoid deadly traps, and save her realm.",
+	"languages": [
+		"en",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

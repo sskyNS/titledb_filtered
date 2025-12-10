@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7359d2810b47cbd3d1a8fa0edd43d666d5ae517a6a516dc0228921956e6b6e8f.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Someone needs to teach those Bullies a lesson in pain, so why not let it be You?",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

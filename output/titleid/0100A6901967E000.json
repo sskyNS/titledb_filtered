@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/15584397faeb96f7efba3c432502394c9d3ccc0968b0f73693eba7bd48170115.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Crack the whip! Finally, there's a new Sven B\u00f8mw\u00f8llen game to get it on with!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "580 MiB"
 }

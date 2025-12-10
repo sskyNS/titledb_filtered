@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f25d98cc7d090bac5fa31ff5e9370bf1230661d74d389478a1e3bd6cd584af2b.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Rift Adventure is a pixelart platform in a magical world full of adventures and with a functional tax system.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

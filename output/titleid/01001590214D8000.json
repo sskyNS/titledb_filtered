@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/65a12571b228c3d3dcdc9e6fdb15595dfd753edbd7d364ec6c240151d8283177.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Fight for survival in the Wild West!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

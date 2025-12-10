@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/204ba12de90bb2fe09541f704ce90477fe9643e96ca2a6c4369c76aa5393fbe7.jpg"
 	],
 	"releaseDate": 20251209,
+	"category": [
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "A Christmas Tale in a Dystopia!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

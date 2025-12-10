@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f38a859ca69a7973db779d1f9e57f65d621346afeb85f43e8c2e79dbff3999e8.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Solve the riddle of the mysterious murder at the Hotel Noir",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

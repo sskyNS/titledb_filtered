@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/98b29b401303389036de3c66360b4f333f91927434e6d6d5a27372e8e559b02d.jpg"
 	],
 	"releaseDate": 20220823,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Education",
+		"Other"
+	],
+	"intro": "Prove how much you still know from school in this charming couch co-op quiz game",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.19 GiB"
 }

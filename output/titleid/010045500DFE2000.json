@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4084a9c10752982d43d6ab14b094b84e5520035f07330026107995193d99e22.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Enter the biggest handcrafted open world of all time",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "398 MiB"
 }

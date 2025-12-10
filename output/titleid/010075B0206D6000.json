@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/096d1255b86f8bd74f5340922d1f25020936634d5e0adc2251ddc236ae42ed51.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "As a fearless samurai, warrior monk, or daring outlaw, engage in electrifying duels where every strike can be your last.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.51 GiB"
 }

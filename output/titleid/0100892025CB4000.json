@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/43ea833e7718203eff4db4584faffc4fe1c0d04dbfa2b2014c20a0778236c84f.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Racing",
+		"Action"
+	],
+	"intro": "Run. Ride. Survive.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

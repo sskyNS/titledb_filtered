@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0afdcb6e93bc1437d6b5c3c35a8ffeeb03c793426c54a026d5cc9086f440e9c6.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Fast Striker EX is a 2D CGI arcade shooting game with emphasis on scoring. \nYou can choose between 4 game modes with different scoring s",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

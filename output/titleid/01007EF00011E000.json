@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f7854a3b7271d364e1e421aced946982235d22b420e1a0cec5296a62d97c225.jpg"
 	],
 	"releaseDate": 20170303,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Other"
+	],
+	"intro": "STEP INTO A WORLD OF ADVENTURE",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.42 GiB"
 }

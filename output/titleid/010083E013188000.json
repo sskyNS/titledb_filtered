@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8e8e85dc5a01e229180b2196d99127838d4026ecf25b583c2cca0ad452116d0.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Soccer with Alpacas! Bring the cup home in this hilarious and chaotic physics-based party game for up to 8 players.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.90 GiB"
 }

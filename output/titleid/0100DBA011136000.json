@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fdd9bdbd960b27f6ec7c7e34f59d6dc83690d53b261b6ec1d02eca222c5c0d7.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "The princess knight runs toward the top flower of the sky tower, collecting crystals to reveal the witch's location. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "778 MiB"
 }

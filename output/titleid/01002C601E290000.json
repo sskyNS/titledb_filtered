@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be3e26da2204805783a048f38338278fbcd11521e644d8cbcc10d2307809fc9e.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Embark on a thrilling 3D arcade action-platformer adventure. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef2793406b3c82198fdc8ea404b01ed05adf55ce51c40e689fab7dc0a7a34683.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Challenge your puzzle solving expectations\nto save a robot lost on a strange planet!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "38 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c80a70ae27dcfa2e872b6288c9d0dbe0a9899e906c592aee2e63fe8db6417033.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Gurgamoth is a flying fighting game where the level is your weapon.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "389 MiB"
 }

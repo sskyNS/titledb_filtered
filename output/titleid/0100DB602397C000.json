@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c098483bd3604612c5527aa3e6a4f61eeac4f00fcaee6af4e100329c7f076a6.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Arcade-style top-down 2D action game. Sacrifice energy as you defeat foes and carve your path forward. As you take risks, adrenaline surges, unleashing Berserk. Keep fighting for revenge as the Cyber Ninja.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

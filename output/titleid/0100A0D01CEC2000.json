@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/03cd8c911527a41262caf01c0055187ef43f5f0e62172287db186ff6aaa81808.jpg"
 	],
 	"releaseDate": 20230905,
+	"category": [
+		"Education",
+		"Study",
+		"Other"
+	],
+	"intro": "Pinocchio. Interactive classic stories for all ages. ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a25ced2da8b3a67dda8ac46fd53877fb0314e01ec694f10f49856210f99f785b.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Become the best racer in the world! Enjoy this Realistic Car Drag Racing Simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

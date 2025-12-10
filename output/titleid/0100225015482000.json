@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b34304cacccfea07a426d6ac074ecbf727a5edf129b376b13b415e3f29c502ce.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Shoot'em up aliens and save the Earth!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

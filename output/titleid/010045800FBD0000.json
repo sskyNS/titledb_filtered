@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6ac3607a76b6c0577548f9c7ee8ca20a4ad81c3b9afddb199dc148a4605fb98.jpg"
 	],
 	"releaseDate": 20210615,
+	"category": [
+		"Shooter"
+	],
+	"intro": "A vertical scrolling bullet-hell shooter set in a beautiful fantasy world.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "876 MiB"
 }

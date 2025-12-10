@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df4c94e122c58708e6ca5764d0261db1f1cc163f6526dae70ab00e0d8401c0f1.jpg"
 	],
 	"releaseDate": 20210611,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Sports"
+	],
+	"intro": "Arcade-style skateBOATING with a splash of guns, kickflips and explosions.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

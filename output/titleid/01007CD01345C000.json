@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6888382b9278b4656c90c07d38d322e3187fe510dd60a09842e47b706116785c.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"\u30d1\u30ba\u30eb",
+		"\u30c6\u30fc\u30d6\u30eb",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc"
+	],
+	"intro": "Golf Peaks\u306e\u88fd\u4f5c\u9663\u304c\u3001\u7d20\u6575\u306a\u7269\u8a9e\u3092\u304a\u5c4a\u3051\u3002\u30d1\u30ba\u30eb\u306b\u6311\u6226\u3057\u3066\u3001\u624b\u4f5c\u308a\u5f01\u5f53\u3092\u5b8c\u6210\u3055\u305b\u3088\u3046\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

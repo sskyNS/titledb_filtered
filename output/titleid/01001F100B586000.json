@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/26cfdce6c6c3013df1ad9b1c2c5c25b7270e29a58b0c07b79c5ba14d1d5afa6c.jpg"
 	],
 	"releaseDate": 20180926,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Sequel of multi-award winning \"Rooms.\" Play along with \na friend on this version!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.95 GiB"
 }

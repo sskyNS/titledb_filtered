@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/afd80333fd5705c5ff4099068a1a56b44b6925c207debd5693268133ad6a5067.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An escape room inspired adventure. Play as a secret agent assigned a mission to recover a secret dossier set in an unusual town.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

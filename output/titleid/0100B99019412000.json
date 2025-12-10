@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/40568c3fcd39ec53006044fb302d66d233c8d972b675ef6d8316d5c73eb7fa26.jpg"
 	],
 	"releaseDate": 20240216,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Donkey Kong has stolen the Mini-Marios! Solve platforming puzzles to get them back",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.31 GiB"
 }

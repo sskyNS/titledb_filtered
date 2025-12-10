@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/54504e7ce8114801aee4f6c191ef4ec8e4d9ef5ab7e512537c20639627e6dc50.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A monster title that recorded sales of 400,000 copies in the Japanese PC game market. ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

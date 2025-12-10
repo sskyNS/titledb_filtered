@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a33a3f9ce4109a41cd47096cf411badc54b949becf6c28c93b6fa08a038c3725.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Action",
+		"Shooter",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "Six awesome handheld classics",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a06eb8f2faaa55f090576d05afa5bf237a9bb8bac88f93165df644229726cfdf.jpg"
 	],
 	"releaseDate": 20220604,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Boxerpunk Stories is a Story based 2D Pixel Art Game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "480 MiB"
 }

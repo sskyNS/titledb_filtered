@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/447e28cdf1882424700cdb37884e6a611cacfc9864b9de6eb04da06aed394948.jpg"
 	],
 	"releaseDate": 20220731,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "This game is difficult!\nWe recommend it only to experienced players!\nPlayers who have completed Supaplex CLASSIC well!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

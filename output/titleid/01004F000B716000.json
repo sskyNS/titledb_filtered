@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/837cebb9f363a91fd8df77e60125f37ad1b5f2cfb4907af15c5da17dd1ec69a0.jpg"
 	],
 	"releaseDate": 20200617,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "The award-winning adventure with a nice overhaul: high resolution visuals, new technology, intuitive controls \u2013 it's a truly insane adventure.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.53 GiB"
 }

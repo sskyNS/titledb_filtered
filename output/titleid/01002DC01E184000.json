@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/685b2850a73217eea49d482ed9b2a6df0a5a3c29b65e33760ddff240d126bb49.jpg"
 	],
 	"releaseDate": 20240821,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "There's something hiding in the cold of winter. What made your friend disappear? Snow's begun to fall. Let's just wait a little bit longer.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "835 MiB"
 }

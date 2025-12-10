@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcb9ff77cac1c5dd1af4f58451c8463535f9a040e20398d6706a5d080ef1d422.jpg"
 	],
 	"releaseDate": 20191018,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Lovingly crafted puzzle platformer now for Nintendo Switch\u2122! Journey the world (and space) to get the flock home, with single and co-op story mode and multiplayer party games",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "943 MiB"
 }

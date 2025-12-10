@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/75aa8f6c50d37e48ffc63c27475497d2aa1621bf1fd89602c36ec1aee77d501c.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "DRIVE MONSTER TRUCKS AND LAUNCH THEM OVER HUGE JUMPS IN EXTREME RACES!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/576054bbb10838f4c534cfc3539719972d29bbfe7c84c6beac6c92b3627e825a.jpg"
 	],
 	"releaseDate": 20251006,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Climb higher, survive longer, reach the summit.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "352 MiB"
 }

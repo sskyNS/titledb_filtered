@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed8f6c393cd999dd21b514fdb8f803ab973a1d5b5b4b417b0f2ffd3567a32fc3.jpg"
 	],
 	"releaseDate": 20230708,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "    Farmer Simulator is the ultimate combination of fun, strategy, and brain-teasing gameplay. Step into the shoes of a farmer and embark on a thinking adventure like no other. Get ready to cultivate your mental skills and create a bountiful harvest before the sun sets. \n   Strategize and plan your every move to ensure that no patch of ground remains empty. Show off your intuition and logical skills to conquer over 50 challenging levels!\n      But beware, time is not on your side! Each level comes with a deadline that adds an exhilarating sense of urgency. Can you rise to the challenge and beat the clock? Hurry up, time is ticking!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "347 MiB"
 }

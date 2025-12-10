@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d12325725d1e59cf53c3b2c85260e672f77ec6ae62b88e029f5f9558fa4e6954.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Party",
+		"Simulation"
+	],
+	"intro": "The world was flooded by a giant Trash Tsunami! Luckily for you, a lot of trash is floating around. Trash is your main resource and the most valuable thing in this world. You can recycle it into fuel, raft spare parts, and even weapons. Brace yourself for swamp crocodiles, toxic sharks, arctic pirates, and much, much more!\n\u2022 Online and local 4-player coop.\n\u2022 Hand-drawn trash piracy.\n\u2022 Dozens of seas for treasure hunting!\n\u2022 Battles for the last piece of trash.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.54 GiB"
 }

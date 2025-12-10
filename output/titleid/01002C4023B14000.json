@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a823ef72c051f237ad4d255462406885cbb20bdff8bfd8d095f9f95c8c6e2beb.jpg"
 	],
 	"releaseDate": 20251008,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Get ready to walk magical... and very confusing paths!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

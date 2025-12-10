@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcfc734e3ae6dc2fc3de7e873d9d5e8532da66941de8c74789288b721d2ad5c5.jpg"
 	],
 	"releaseDate": 20210125,
+	"category": [
+		"Puzzle",
+		"Music"
+	],
+	"intro": "Explore SOLAS 128, a game of interconnected puzzles where you redirect and reconfigure rhythmic pulses of light to breathe life back into an ancient machine. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

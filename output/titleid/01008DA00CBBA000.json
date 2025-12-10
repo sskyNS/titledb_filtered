@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4883c6004bf1d53d204c083ee89b66b664b4318a31577d1826db7e481bd8c99f.jpg"
 	],
 	"releaseDate": 20190823,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Snooker 19 - The official video game of World Snooker.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.60 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2b7e07f69ea88f1349fcc638442e03107c70fa9b9715d26eebf0dec6163ed96.jpg"
 	],
 	"releaseDate": 20221026,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Old School 2D Platforming Shooter At Its Finest",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

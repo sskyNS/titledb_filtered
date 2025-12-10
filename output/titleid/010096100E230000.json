@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/97a3731b548d794de0e7b898aeb2973ffbadd52b9a8489163095a0140ff7c87e.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Be quick or be undead! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

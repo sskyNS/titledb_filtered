@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea467207a29f9c3f9a72cf41689f61e0a53e45a4a21855a94914d3ae43ecb479.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Bring Them Home is an exciting puzzle game in which you must rescue little astronauts. To solve the puzzles, you need to think clever and imaginative.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "852 MiB"
 }

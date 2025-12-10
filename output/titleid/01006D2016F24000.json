@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cdb3661154b990d7705bbf6ade2d2d5bdd9d2e344dba2543bc05a0e9404be42.jpg"
 	],
 	"releaseDate": 20220629,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Discard your sense of morality and enter the world of CORPSE FACTORY.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "957 MiB"
 }

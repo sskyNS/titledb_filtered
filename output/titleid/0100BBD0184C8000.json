@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/424727660dda931917a9e454a52f0dc755469f8c31c49d58fe7cae542b5a1aae.jpg"
 	],
 	"releaseDate": 20230424,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"First-Person Shooter"
+	],
+	"intro": "A heartbroken clown, wayward souls, and juicy mechanical lips. Help the troubled residents of the Habitat and de-mask Doctor Habit... before it's too late.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

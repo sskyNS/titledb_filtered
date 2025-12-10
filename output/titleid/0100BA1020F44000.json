@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c0f048412ab38ccad004c8dce87ad248e31d6cbe83f68a1f3b0910c137fb520.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Unleash your Force and take down the Hellstone Cult! A side-scrolling action RPG with captivating BGM.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

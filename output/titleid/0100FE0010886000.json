@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a572fe3cb13c3bb73b1e3555cc9b3c3e5c6f00768038fdd5b9a88eb0b77bb55.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Platformer"
+	],
+	"intro": "When treasure is at stake, there are no heroes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "439 MiB"
 }

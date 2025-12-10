@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/83968adc78f537a88a9c2c4089d44b21e15535f1c0203559972ca18056d6b00d.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Sports",
+		"RPG",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "This is soccer management like you've never experienced it - Be more than just a player, be the heart of New Star FC.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

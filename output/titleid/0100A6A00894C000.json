@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e210e54e627d6dbb4a7270a928568f66e58bf1ed9da320666ef67b702e5af30.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Psikyo Revival!! Play the good old arcade game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "256 MiB"
 }

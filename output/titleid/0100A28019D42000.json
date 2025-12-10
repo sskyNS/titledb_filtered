@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d676c893e8281f7d3960d8d501f8f1ea21dd5f820a70ac7b5e792d149b408f0.jpg"
 	],
 	"releaseDate": 20230519,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Are You Ready to Die?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a83403de51242f3d0c1a2f7d4eefc003b8cb0eb2a39a2ed2f4eb2608fbf220f.jpg"
 	],
 	"releaseDate": 20250613,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Help the tetras find the exit.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

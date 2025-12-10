@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/42a425c0df7ed5fa7e66f66e8a3d658922a390c4c03b0dde13356fc6c85dedbe.jpg"
 	],
 	"releaseDate": 20210605,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Travel the galaxy and hunt down evil.\nThis is the life of Mighty Goose!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "294 MiB"
 }

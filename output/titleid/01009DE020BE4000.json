@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d92231a2728697934f8f533009de04279ed42f8c33d0afcc6345a6a794b220c6.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Soar through a medieval world of mystery and serenity as a raven on a journey to uncover hidden wonders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

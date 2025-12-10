@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/91ac06f4fd33a9c93431ed83bbbf4286d14b652ef758ce8111b08ce9a26261af.jpg"
 	],
 	"releaseDate": 20251021,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Co-op cooking chaos meets thrilling adventure in the world of SEDAP!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.90 GiB"
 }

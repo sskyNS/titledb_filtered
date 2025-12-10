@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/baff5813bc92ed5fed7b86a41fcff38d62177ea514667e934b26f717ddb6c3d1.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A sequel to Terra Lander and a homage to the classic early days of arcade retro, but this time you will need to rescue the humanoids.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "160 MiB"
 }

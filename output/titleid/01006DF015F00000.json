@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5de21cef5b7ed03c2daf1437a8c91fe4b178cfa01e399ecceba5ebdc634bd5ee.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dive into the memories of your patients, use your own observations to unwrap their minds and uncover a dark conspiracy set to claim dominion over humanity.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "594 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee7b629aa0db4dd95636325431459b33eed09b796630d214e17c7b0a87bb60b9.jpg"
 	],
 	"releaseDate": 20190910,
+	"category": [
+		"RPG",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Blasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.12 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9caef49380967166ac47e9dfba38703fc4fdc786c82c3b3fe7c454dab1558c35.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Jab, duck, and swing! \nLand the final blow and become the champion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "87 MiB"
 }

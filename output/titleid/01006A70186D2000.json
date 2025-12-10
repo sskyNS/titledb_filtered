@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4739038a31fb1755feeac0bf920c5589edb8ff5d2342d81c9b678e1a8a5555af.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Use the head to win... Literally!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "379 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df074f016bae503193dea6f6846af2ffdaf4143de71a15d2b8fd9b2db6daa204.jpg"
 	],
 	"releaseDate": 20201031,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A beautiful third-person puzzle adventure game telling the story of an orphaned cub that retraces his steps from the last journey he took with his mother.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

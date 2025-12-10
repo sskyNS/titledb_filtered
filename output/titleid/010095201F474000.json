@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ced5b059c4f66b6231d81f2082d93058551c67f2f03e7113501af7ee5a66ff0a.jpg"
 	],
 	"releaseDate": 20240825,
+	"category": [
+		"Action",
+		"Fighting",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Embrace the darkness, bend reality, and carve your legend in shadowblade knight symphony.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

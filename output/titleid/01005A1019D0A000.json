@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccb53e01d5e6531fd40998c57bab667a67cfa8ed0b121cfa03a876cefa232526.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A mind-bending, block-swapping extravaganza!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

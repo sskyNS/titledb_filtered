@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5569b8400e45c900ef2f74469a73b6ce442699e2ff54fb566e953ec9aa8d753a.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Classic adventure game set in a world, combining noir, Greek mythology, magic, mysticism, hopeless entourage of Greco-Roman Age of Decadence and everyday routine.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": null,
 	"size": "85 MiB"
 }

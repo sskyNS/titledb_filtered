@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f6988e2eff1221003c3ca4dad400f4f49ba08c2348b95e77d96e48d9d0aeb5e.jpg"
 	],
 	"releaseDate": 20200722,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Meet Your New Neighbors",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.83 GiB"
 }

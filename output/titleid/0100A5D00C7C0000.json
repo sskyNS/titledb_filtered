@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ed413c549f43ede90b20fbcf7b4cf5bff02f546c4c8ae19e20f09928c4c54b9.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Take control of the Pug Otis, the loyal companion of the Professor! After an accident in the Professor\u2019s lab involving the mischievous cat Whiskers and some Portal Fluids, Otis and Whiskers are sucked into an alternate dimension.\n\nChallenge yourself with side-scrolling alternative dimension switching mania requiring lightning quick reflexes to jump, hop, and dimension swap your way to victory.\n\nHop, dimension swap and navigate your way through unique dimensions to chase down Whiskers and save him from his evil wrongdoings!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "656 MiB"
 }

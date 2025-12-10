@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/18b0196aac7e4494d0d665512efae1c4f660f6dd8b13929559e267e69bc32a42.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Utility"
+	],
+	"intro": "Take control of a giant mech and dive into an exciting underground adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c61e3708e1d2229d8d83e1dd2c2ad51db95c8e9770e7db1999fbc4e5e43bf7a7.jpg"
 	],
 	"releaseDate": 20190429,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Darkest Hunters offers dozens of hours of challenge for advanced players and anyone who wants to start an epic journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

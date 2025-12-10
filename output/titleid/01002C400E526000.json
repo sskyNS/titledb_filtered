@@ -8,5 +8,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdb113898e2201b03b3c9cf985c226154f7966b33ad2eb6073a15ab3582b7957.jpg"
 	],
 	"releaseDate": 20200327,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Adventure, fun and racing on a gigantic scale ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.54 GiB"
 }

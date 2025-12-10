@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4451d5f5e25ca63c8fd047d86c407ff407f662b8e2f2d4f19c19cb164f10445.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Action",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Fly as far as you can, and train your heroes in the \u201cSuper Hero Flying School\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "505 MiB"
 }

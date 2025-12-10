@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/64627eb074f7bcf2b65458cca5d6264d75ad85da53c31d16eeb6c94283189cb9.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The evil Croquetto Empire is trying to conquer Onionia and it's up to one brave onion farmer, and his mom, to stop the tyrannical invading fascist army!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d305aaccfc5a68dbf54669e9834b5cfedc69df81475a8f7b4e6706e251daa56b.jpg"
 	],
 	"releaseDate": 20230311,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Action",
+		"Other"
+	],
+	"intro": "Titanium Hound is 2D retro-looking action platformer in cyberpunk genre, where you are going to pilot huge and agile exoskeleton to crush hordes of enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "600 MiB"
 }

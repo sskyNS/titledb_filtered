@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b700823ebf37415ac0b348b54a8c11ffb9f6a4f1969179dfa39a1a6aaa731052.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Play as Zorro or his sister, Ines, in this action and stealth game inspired by the animated series Zorro The Chronicles. Free the people, restore justice and mock Sergeant Garcia by signing you",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.62 GiB"
 }

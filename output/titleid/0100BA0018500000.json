@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4ac5b29b268a41ad0d4d5470f13371b8ebbb3f8f225d452fd03d4215e7540de.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Get a super fresh Splatfest sneak peek",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.25 GiB"
 }

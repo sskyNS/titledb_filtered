@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/46fb791da3a14b0ce95becdc327afcd6fe870addfaa906b303bf656822dc5f5d.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"RPG",
+		"Music"
+	],
+	"intro": "Play as Grace in a world where Greek Gods live in hiding among us and use your powers of musical persuasion to unravel the mystery of the Last Muse's death.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.63 GiB"
 }

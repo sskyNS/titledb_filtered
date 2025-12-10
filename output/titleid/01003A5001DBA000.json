@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/494875e4e27560030cd0c4e62d062dc23a126a089fc623721017d4f882c6214b.jpg"
 	],
 	"releaseDate": 20170427,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "The ultimate NEOGEO Racing Game! The game features branching paths and a variety of car models for maximum replayability!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

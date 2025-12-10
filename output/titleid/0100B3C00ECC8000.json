@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd4d24b7dc47cdb7c4c1384ac94903eb0966814bd9ed45a583d3db7ddede0006.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "\u201cWe shouldn\u2019t have come here. Don\u2019t follow us.\u201d",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

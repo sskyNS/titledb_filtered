@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ceb88eee5dc4cb525511a67dd43ab0a63da912faa41ff875c9026da73ca953f8.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Arcade"
+	],
+	"intro": "Flight Simulator",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

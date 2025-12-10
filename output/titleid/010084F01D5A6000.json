@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6354f516383038a3f645bd9f5240e5924bf6ec16618fd4ea9428de496085599.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Charrua Soccer is an arcade that brings you the most fun part of soccer! Play friendly matches, tournaments or create your team and lead it to glory in career mode!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.13 GiB"
 }

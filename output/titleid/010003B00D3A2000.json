@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/72d59f3eea4d2c525284847cdb7b2907fcbe2656eb24f40908b994a12dcdb131.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Felix The Reaper is a romantic comedy about the life of Death. A 3D shadow manipulation puzzle adventure game of dance, dying people and love. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.31 GiB"
 }

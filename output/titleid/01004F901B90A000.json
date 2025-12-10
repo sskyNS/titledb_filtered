@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/13a0687a75122a7425db5b5795db1ca898e4cd5198f71672a98f76a43325dd5b.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Education",
+		"Adventure",
+		"Study",
+		"Other"
+	],
+	"intro": "Read, play and learn about dinosaurs with interactive and educational books!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "739 MiB"
 }

@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/69a3bc18e8949a2a1092c74ebf083c9f106ee8d392b666a7364abdc71161ab83.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Explore an endless cavern of creatures, relics and resources in a mining sandbox adventure for 1-4 players. Mine, build, fight, craft and farm to unravel the mystery of the ancient Core.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "656 MiB"
 }

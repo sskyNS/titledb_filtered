@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/259ac8cdc93a92daa21335fc1bb919d218c014207e0d089799a1c311f3d1a40d.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Set in a post-apoc version of Earth, Revival is a 4x strategy game where the world and its rules can change at key moments, creating a deep and highly replayable experience.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "645 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4784c280e38adaec079f4f908a68f97b46ae50b8ffa0163e7f1299832fad3e39.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Call out the heroes and defend your fortress! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

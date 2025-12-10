@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d8121c11ad1263b35da1492424e5dec32ea7c0e4032ddb5ae5eb463fd3aa7b0.jpg"
 	],
 	"releaseDate": 20180222,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "The evil space rats locked you up in their space arena and your only hope is to fight as many waves as possible.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "312 MiB"
 }

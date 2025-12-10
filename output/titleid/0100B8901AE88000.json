@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc1d803377abde61754e77773e5e037ac3086d7a59d784a29288fb2fce4f0e83.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Little Griffin is trapped in an ominous new world with his only friend, Birly the teddy bear.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

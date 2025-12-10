@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d503be5245401b35d77cc963037f774ad660873205f565cf9e986420b4e0df7.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Shape the fears... Fear the shapes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

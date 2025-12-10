@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d54b8cecbcc093ce028e5530593832f33e705a4d4bd60ee3b4d55f6847022969.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Education",
+		"Lifestyle",
+		"Utility",
+		"Other"
+	],
+	"intro": "\"Learn chess from scratch and become a master!\nChess Quest is a step-by-step adventure that makes chess fun and accessible for everyone\u2014from complete beginners to future grandmasters. With engaging lessons, smart puzzles, and exciting challenges, you'll grow from a humble pawn into a powerful piece on the board. Start your chess journey today!\"",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

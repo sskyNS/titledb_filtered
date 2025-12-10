@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a51702f2b307aee8149b1c205a56a6a14f3513440afa274687d907e06b0e8f9.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Strategy",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Strike Mission is a top-down aerial action game where you play as pilot Jake Walker on a mission to stop a global terrorist threat.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "391 MiB"
 }

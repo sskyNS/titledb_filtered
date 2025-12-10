@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a71a2610d71b893a3b33b4ed26ce587829e201712827b692abc9f5e2303600ac.jpg"
 	],
 	"releaseDate": 20231228,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Party",
+		"Practical"
+	],
+	"intro": "Find the secret items hidden in the pretty illustrations!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

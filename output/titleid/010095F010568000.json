@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d1d0052d5757495fdd4d7e7d6d4287aeff1cb366a2bf53ddae96aa82219249a.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Experience the Myth of Frankenstein through the innocent eyes of his creature. A game where your choices may well change the course of his story.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.99 GiB"
 }

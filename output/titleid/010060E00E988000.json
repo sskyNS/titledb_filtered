@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6901da7fd5744d689ba8a8e9cf8b81d94993a9b4e51e0bc44024149764c68b0a.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "A sophisticated puzzle offering\na delightful logical challenge.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

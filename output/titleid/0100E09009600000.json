@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6cb7f606a65b71b1a4c0e9ea8e3c98b4c6203786d6a73fc697b9ebec762e489.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Outsmarting gravity together.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "675 MiB"
 }

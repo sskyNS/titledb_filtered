@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7afa5cda6aa9e62e7947e0aa84122011ce35553ea487da0f689528a56f8740b6.jpg"
 	],
 	"releaseDate": 20200730,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"RPG"
+	],
+	"intro": "Join the Time Tenshi on their thrilling adventures through time! Make key decisions to influence the story's outcome... and maybe even go on a date!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "518 MiB"
 }

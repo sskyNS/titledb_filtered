@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee8cc62d355f05b3e43566f76b33c487839200af18e12c7b4cc04e9c0d119b69.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Get ready for intense 2D fighting with Rollback Net-Code. ",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

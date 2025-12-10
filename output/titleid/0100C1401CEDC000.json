@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa58b23362f5a90e8779a9c23db9fc61d43b0e7d4dc915cd2155a5194b1c8061.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Six suspects, one murder. Join detectives, gather evidence & solve the mystery!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ac7ef9a7d8215f2188a611df616fd15b3c338764436e25206c1a0b891272786.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "The world is under attack from vegetables, turned evil by dastardly aliens!\nYou must answer the call and take up arms to defend the planet. \nBuy weapons, develop your skills and roam from city to city to take out waves of evil veggie monsters. Beware epic bosses waiting in each city to mash you up!\nFace the challenge alone or with a friend in local co-op.\nWhatever you do, please save us!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "264 MiB"
 }

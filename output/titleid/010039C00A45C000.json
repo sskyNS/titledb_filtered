@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/032fde4e01a607a3de8f33f564f2a435dac35cca87accb4769afcc270a3ce149.jpg"
 	],
 	"releaseDate": 20180608,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "An action-packed 2D side-scrolling shooter inspired by classic twitchy action games of yesteryear, but with modern touches and conveniences.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "339 MiB"
 }

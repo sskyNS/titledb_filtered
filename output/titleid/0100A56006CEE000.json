@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/16fffbb43b1c4c4b544091420c841f82b6387e2ea5700eb205ccdeffb14442dc.jpg"
 	],
 	"releaseDate": 20190724,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Rock-Paper-Scissors... with LASERS! Now at 60FPS!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

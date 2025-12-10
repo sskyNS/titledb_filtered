@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/032e87cd7a54b25fe661e697a96f5d20ff86d049f1766c6e9c58dcc433f9c6c6.jpg"
 	],
 	"releaseDate": 20210409,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The fastest bird alive!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

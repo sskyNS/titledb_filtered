@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/378dee858e360d186370ccbf92bc94b7b9a559b9509ace6c235706cb142fc674.jpg"
 	],
 	"releaseDate": 20230809,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Unidentified Falling Objects is a unique mashup of platforming and puzzle destroying gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "169 MiB"
 }

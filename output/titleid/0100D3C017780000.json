@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cd7c97133c7cb8f6240c65c41fa7fcca03843c6b79a4860dd4ad50b4014ed58.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A cute and creepy adventure set within a mysterious book. You play as both the reader of the book and it's main character, Luka.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cd5a6fb6a2ae28288cd17be012d97a19fd50805730e095bdf0780662321b54b.jpg"
 	],
 	"releaseDate": 20250604,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The project 'JALECOlle Famicom Ver.' is a series of consecutive releases of JALECO Famicom titles!\nThis time, a +\u03b1 Special Ninja Mission: The Last Ninja!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "415 MiB"
 }

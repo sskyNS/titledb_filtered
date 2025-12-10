@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/16b2d3b7ec1fbf3a51192b66e1656f5a4a3e345a44e614ecd8185c752e005ec7.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "An epic adventure across the stars to save her father.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

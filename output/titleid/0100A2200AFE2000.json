@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ec54961b7bdd420678a17d45f77bc884e68d34290c9402a3fa1d26553c7b4d4.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "See some serious battle action in this hybrid fighting game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "105 MiB"
 }

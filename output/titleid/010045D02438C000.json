@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4faf765dd5f0f0fe741c868f6ebeee157110016e9d495cf05de2d77d3fc59c9.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Step Up, Stay Safe!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

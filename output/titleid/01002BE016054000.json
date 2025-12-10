@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bde254d86312c9c19314ea654582c155fc95b5963044c1079f42cfe4e6effbf9.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Action",
+		"RPG",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "A Battle Alliance to Correct a False World",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "18.29 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f94fdaa01edb95a67f9604878ffb9b5eefd758da925d3bf99ce6b0a67f403f6.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Golf is an open-world 18 hole golf simulator game, which you can either play\nalone or with another player.\n\nUsing our unique ball hit engine you decide on the exact point you want to hit\nthe ball giving you a more realistic golf playing experience.\n\nChoose between four different golf clubs (driver, iron, wood and putter) which all have different power levels, view the PAR of every single hole on screen and you can move to any hole to practice.\n\nGolf is play-as-you want endless game, which will give you hours of fun anytime, anywhere.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "86 MiB"
 }

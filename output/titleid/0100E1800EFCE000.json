@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab1d2f4d36702c06202e37e18c0fe1d4b619b6d3561652acdc9221e8cce05406.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Don't be a hero.\nExperience the love.\nExperience moon.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

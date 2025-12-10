@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/089f58d30891056500d9878ea6f07c1041033a20a942a91c7d07924e0765f236.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Classic multi-directional (360\u00b0) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "359 MiB"
 }

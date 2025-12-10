@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/33ef9769d2bea9351d6c987d2ffb2e3a3241416aff6202c62e721cdf0683cb92.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Adventure through the vast stages and get back your brother's body, which was stolen by a witch!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

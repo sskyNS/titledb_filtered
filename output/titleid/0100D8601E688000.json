@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cee56efbc78adb3053ca1c05aa9669d3f07371df42ee6d9ce465809a655155b0.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Action",
+		"Adventure",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Choose your car, push the gas down and LET'S GO, let the race begin!!!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.24 GiB"
 }

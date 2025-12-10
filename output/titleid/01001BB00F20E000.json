@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/24809ba9e75852181922666c2bcdeb6c6c3baab719e9d1df5ca0c63974b856b6.jpg"
 	],
 	"releaseDate": 20200225,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Farmer Simulator let's you enjoy the Real Farming Experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "388 MiB"
 }

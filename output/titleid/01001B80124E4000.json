@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f60c7f5fb45011df929077d8786e73f70d42bcb81992e8695a50dbca23458a15.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "From the creators of Chess and for fans of classic board games, we bring you Checkers!\n\nAlso known as \"Draughts\", the origins of which are so ancient that a board resembling this game was found dated back to 3,000 BC in the city-state of \"Ur\" of the ancient Mesopotamia.\n\nYou can play either against the smart Ai (artificial intelligence) player or against another person.\n\nWith stunning 3D graphics you will feel you are playing on a real checkers board and you can play using either the joy-con or the touch screen\n\nCheckers has a selection of different boards and pieces to choose from.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "258 MiB"
 }

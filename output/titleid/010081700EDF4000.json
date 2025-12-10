@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/65187847e96d880b3107f1e6f341a9f260081ea3e92dcb358e2fda6cbd52a831.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Sports",
+		"Fighting",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Brawl Without Limits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "10.85 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/12a11847f42e2fe108cb07a34a15fc5b735a4bf95e46c423f601c18ed6ad7f97.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Action",
+		"Platformer",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "A respectable and very good \"metroidvania\" game with classic pixel art",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

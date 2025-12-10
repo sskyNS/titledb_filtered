@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c681fb4f4c05302974fb00c573d896e2606fc7399a18eca955ffd4e07c94781.jpg"
 	],
 	"releaseDate": 20190604,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Strategy",
+		"Racing"
+	],
+	"intro": "Help the good guys win!\nEverything is allowed!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "167 MiB"
 }

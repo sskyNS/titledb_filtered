@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/06ea8d639a7777342afa0a25b7b7d0e4771cec054cc9829db2d4821c2c463768.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "A fresh take on top-down shooters with an emphasis on tactics that forces you to make split second decisions. Play Solo or in Couch Co-op!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "442 MiB"
 }

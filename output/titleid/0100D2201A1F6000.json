@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/59fab6b89cffc2329c05b801556567b88e375610edde24fe4520966dd481a3de.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A love battle where the ideals of the protagonist & the heroines clash!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

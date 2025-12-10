@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4d515fbcad7c29aec9360e2e1c811f0cfed83a18a216b671639647097203997.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Winter is coming. Snow Bros. is back in this brand-new adventure by Tatsujin!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.41 GiB"
 }

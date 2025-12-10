@@ -11,5 +11,28 @@
 		"https://img-eshop.cdn.nintendo.net/i/b63287331b2d044ef3aa60532b8bff1f42e43316d0b69ff8f18f0123be591afe.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "This isn\u2019t playing war \u2014 this is survival.\nPop the case open, pick your weapon, and make it loud. The world won\u2019t save itself \u2014 but you can leave your mark.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.61 GiB"
 }

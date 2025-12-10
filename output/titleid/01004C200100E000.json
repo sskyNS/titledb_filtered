@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a2473d33dd07716390a87c11797f4cbb77842dd134efd012ac0f6a0830a6fd0.jpg"
 	],
 	"releaseDate": 20170323,
+	"category": [
+		"Simulation"
+	],
+	"intro": "A build-from-scratch frontier \ntown-building simulation game! \nWhat kind of towns will you build in the frontier lands?",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "921 MiB"
 }

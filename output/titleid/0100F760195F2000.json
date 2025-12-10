@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/495d2af89400e1753011b1a8570c0504031392b7df8e43ad34f0928acb3386de.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Help Fang and the gang harness the power of song in this comedic tactical RPG romp.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.29 GiB"
 }

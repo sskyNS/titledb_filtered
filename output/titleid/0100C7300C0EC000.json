@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/99cc19acf8fbdc0326057b332a4f7c8ecd577dec9cbd9d934b2e95f249de9167.jpg"
 	],
 	"releaseDate": 20200807,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Shoot down enemy cubes in campaign mode or challenge friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "152 MiB"
 }

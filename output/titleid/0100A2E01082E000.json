@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/237943301092e826e00acb79c2f23616c843a713bfa02104787b3af9ecec4fa5.jpg"
 	],
 	"releaseDate": 20220322,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "The city is hungry. It will devour us all. Dream with caution.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "723 MiB"
 }

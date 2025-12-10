@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a39132dab639db0983abcf42b3d9eace5ce1cc314d5906203b531608dd07eb8d.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Music",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Can you beat the beat? Inside My Radio is a rhythmic platform adventure where your every action needs to be right on the beat!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/37b2ada49b7d80b34a7901a86a8ee2fdf68a43b0c40ee8d46211846bdd0d7c88.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Mark of the Deep is an epic pirate-themed adventure with a strong narrative and a thrilling mix of Metroidvania and Souls-Like elements. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

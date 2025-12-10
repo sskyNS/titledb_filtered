@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b73a3298a7f5ce90af741a16c3435bf9826cb9917e483dce007c7c0de18941e.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Delve even deeper into Banban's Kindergarten in Garten of Banban 3, and continue the search for your child. Can you find them before the facility's unexpected residents find you?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "586 MiB"
 }

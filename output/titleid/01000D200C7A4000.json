@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7376483ce60dcc3ea203beb7d6053d7761f133864e80d34a9424b159aac40540.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Use your psychic powers to defeat SIGMA, the otherworldly monster that has awoken from thousands of years of slumber!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "139 MiB"
 }

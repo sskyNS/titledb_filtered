@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/28c0afee33c64e62f79eabf81eda3e742ab99b0cb3cb1753f4df64fc095eeeb5.jpg"
 	],
 	"releaseDate": 20231121,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Terraform Mars in this turn-based colony builder and resource management game with roguelike elements.",
+	"languages": [
+		"ja",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

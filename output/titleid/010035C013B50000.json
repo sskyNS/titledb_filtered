@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb9031962845513d43be2a3f7420a35fb6ad35d643af1962eea63a25a907bf9c.jpg"
 	],
 	"releaseDate": 20210608,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore an unconventional town of pirates, dive into the past, collect items and look for clues to help Willy find out what happened to his father...",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c266b85ec1e1190091f1463b85bb33ccbddae823c4d53dcaa2795c716080d2e.jpg"
 	],
 	"releaseDate": 20171221,
+	"category": [
+		"Multiplayer",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "We love Pixel art! Paint them, Share them and Play with them like never before - only on Nintendo Switch!",
+	"languages": [
+		"ja",
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "571 MiB"
 }

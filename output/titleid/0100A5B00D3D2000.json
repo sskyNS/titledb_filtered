@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/297edd47e11ce78c0c6ea8d0a2cf8379791f53c481e4f851d3d26ce1e822599e.jpg"
 	],
 	"releaseDate": 20190307,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Party"
+	],
+	"intro": "A turn-based strategy with an old school feel. The complete trilogy and duels against your friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "373 MiB"
 }

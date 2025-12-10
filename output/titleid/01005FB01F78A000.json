@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f301a4d1fc0d6caea3a986bd84daea1cbe0e615c24a4720001b6b11782a7b018.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Dive into a magical realm with Fantasy Mania Frenzy! In this enchanting puzzle game, you\u2019ll find yourself merging  magical artifacts to create powerful combinations. Journey through whimsical landscapes filled with magic and puzzle it out!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "159 MiB"
 }

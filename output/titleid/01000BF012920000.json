@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/57383c9be4fc6bf17da4944a33c67223e0fd9d98efeaf4b1f3bb2cc5fb214632.jpg"
 	],
 	"releaseDate": 20200826,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Jets'n'Guns 2 is a side-scrolling space shooter with insane levels of action and destruction.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "235 MiB"
 }

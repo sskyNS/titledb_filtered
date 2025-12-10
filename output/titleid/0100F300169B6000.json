@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/03065e4b8b181704339ae0502688305f6f026ac6170c6ae2fa78a4ab5c8f251c.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Destroy... Absorb... Grow... GRIME is a fast and unforgiving Action-Adventure RPG in which you crush your foes with living weapons that mutate form and function.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.71 GiB"
 }

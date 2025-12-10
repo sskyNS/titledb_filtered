@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/36b28c41882b8ebd49ea8e3b659450fdb201da1cc0ce575cc20f71b6eb17e06d.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A relaxing colouring by numbers game. Enjoy completing a variety of images with differing themes, complexity, and sizes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "307 MiB"
 }

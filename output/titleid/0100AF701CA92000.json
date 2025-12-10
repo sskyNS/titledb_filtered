@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c48dd538e5a9fcef4666719dd6f182d8333313080f3306571c4b99633f5c50ad.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Sports",
+		"Shooter"
+	],
+	"intro": "Discover these retro treasures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

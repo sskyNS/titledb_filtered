@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d827af6cc643dd4f199b6c8e77ed7bb5d4e0379db008a2f32e5ac4d51c520791.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Action",
+		"Shooter",
+		"Party",
+		"Strategy"
+	],
+	"intro": "Embark on a stealthy adventure\u2014eliminate foes, remain invisible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.03 GiB"
 }

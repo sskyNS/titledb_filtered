@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7ceb6a070fd124e959e1d02dbab344e9c72271d684e79a982302037b923000d.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Sports"
+	],
+	"intro": "Slice and dice but don't drop!?\nThe definitive version of the deranged party game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "151 MiB"
 }

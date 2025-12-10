@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/891df6b7c5f0d78f394916da963a8fa1d8e06825c88944f6f1f4a036cf221b50.jpg"
 	],
 	"releaseDate": 20220819,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Accumulate combos to wipe out your enemy\uff01that is \u201cSTRIKE BUSTER: Prototype\u201d, a new kind of shooting game with unique gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

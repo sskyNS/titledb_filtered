@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3829caad1f895be35f352947e8e21055c5a49d3b29bebcdad1cea202894f8d9.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Reason - Casual Puzzle is a thinking game in which the objective is to push the boxes to the marked places. The difficulty of the game is in the fact that you can push the boxes, but you can't pull them, not to mention that they can fall into the void of space.\n\nMain features:\n- Only one box can be moved at a time;\n- There can be no overlap (skip another box);\n- The player cannot occupy the same place in the box or walk on the walls;\n- The game is finished when the box is placed in the predetermined position;\n- The box may fall into space;\n- 50 game levels;",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

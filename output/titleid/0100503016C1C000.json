@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/21f6a6fa63842cf7290ec0d45d6da666d2b1fca9b166bacaf3daa360514b4d56.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Education",
+		"Party",
+		"Lifestyle",
+		"Fighting"
+	],
+	"intro": "BlackJack Math is a game about mixing the cards to match the correct formula in order to get 21 as a result. Swap the cards in order to find the correct order to solve the puzzles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3adc28a126c78bc1a950c49d229629287c0eb68050c7500378a0fbe774d71d1.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Action"
+	],
+	"intro": "Build. Solve. Triumph.\nThe ultimate sandbox puzzle adventure\nWhere every creation opens new paths",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

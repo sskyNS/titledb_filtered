@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e37938d1a07ade9e91cd79242ad28bd983f32c1960d543f001b736e5948fbbe.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Life of Fly 2 features 13 short stories each revolving around the lives and weird thoughts of different flies. It's a reflection on human society and our daily life.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.68 GiB"
 }

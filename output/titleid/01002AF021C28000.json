@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0c7d4c395df18e5078ca590d47d729802dde66986ac9e5969c948aab46e3af9.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A mysterious force transforms you and other highly attractive people in your area into superheroes and villains! TEXT, DATE and FIGHT your friends and enemies alike.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

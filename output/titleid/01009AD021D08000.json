@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/808c946469c1d0d2b281304c61aacba1b0d7f6130d92095152f890b018908eb8.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Save the world or get turned into roasted ham!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "93 MiB"
 }

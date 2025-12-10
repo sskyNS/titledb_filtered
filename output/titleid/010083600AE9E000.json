@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe6bba02ce33a581d1671281dc937263c6c1684800e501b81ee4c8ea95be67b1.jpg"
 	],
 	"releaseDate": 20180605,
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "From legendary creator Mr. Yasuhiro Wada (TOYBOX Inc.) comes Happy Birthdays: a sandbox game in which players create cube-shaped worlds that give rise to diverse and unique lifeforms. With careful experimentation, players can shape the geography and alter the temperature of the world to create the conditions for life and witness the birth of an entire ecosystem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

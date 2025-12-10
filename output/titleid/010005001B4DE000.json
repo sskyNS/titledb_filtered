@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf6a196b03c3d0d7985f51656730ece7b6a279a7af73fd2d2720a0e46c137a9b.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Survive the Underworld with Strategy: Jump, Dash, and Thrive in Undergrave's Tactical Roguelike Challenge.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

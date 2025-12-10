@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/160fb6a6ba4d99b32e1d8c306c1a7db99b5822a26dcec99e90813c51e5a0ef2d.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Six candidates, one imposter, and a conspiracy that ensnares the entire kingdom...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.80 GiB"
 }

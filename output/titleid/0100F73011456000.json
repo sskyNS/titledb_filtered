@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e8c9eee7fa3da0820f298167c9506d517c6eb759ab12db12b4291dadaeef222.jpg"
 	],
 	"releaseDate": 20200320,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Hack\u2019n Slash your way to the final boss with your sword, bow or fireballs, or all of them at once!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

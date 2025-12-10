@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb3d5ae7dfc3340b0c4d4eae6be5bdbc439679495e6ae8d7f75dc703837c2a3e.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Seeking the Meaning of Life in the Kingdom of Chess.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "697 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/13169acfc1ff0b2774680d3a97f4a600b87c3d6311a5e930482f794bf493e52e.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Long-lasting fun for the whole family",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "361 MiB"
 }

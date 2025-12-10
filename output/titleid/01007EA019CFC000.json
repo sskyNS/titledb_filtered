@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/529660ac1a23f254ab7edacd8336809a9f3106f9c2571c08edba961e468b7bc5.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Planet Cube is being invaded! Prepare to run, gun, jump and dash in this high-speed adventure set in a hand-crafted pixel art world, filled with precision platforming and thrills.",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

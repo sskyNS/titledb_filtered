@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa8e42996e1a63f860c06d57aabcc5ec612f22a941d55dcdc551a6778884f656.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Multiplayer"
+	],
+	"intro": "Stay UNTURNED!\n",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.45 GiB"
 }

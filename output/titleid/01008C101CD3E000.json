@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/abf911a928a3b4ebfabe3b0a1c65f84d5860463a90db23d9c19d9112277dede0.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Embark on this memorable experience with a great and relaxing soundtrack and a beautiful view that will get you extremely satisfaction",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "393 MiB"
 }

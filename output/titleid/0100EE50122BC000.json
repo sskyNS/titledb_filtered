@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8758034edfc11fc346ce63d29a6b37379c19cd6edb19f80a0e2a26752a9ce1b.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Three firepowered favourites in one super-shooty bundle!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.24 GiB"
 }

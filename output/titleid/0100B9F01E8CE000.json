@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e8ea5f5e6026667a125317a50795b20da16a48cfe79b860e8c39efad3c448de.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Solve the mystery and escape from the room",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "346 MiB"
 }

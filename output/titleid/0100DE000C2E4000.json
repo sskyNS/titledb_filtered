@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6add8a1c71262fd160de75336f15a6a04adaca4ad7695c944634a3b891e95f79.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "New lunatic dreams are waiting for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

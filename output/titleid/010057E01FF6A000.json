@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09ad85d03d11686a159cc1d5de1472c7bbbdbaec60171a6055787394d007ccb1.jpg"
 	],
 	"releaseDate": 20240710,
+	"category": [
+		"Adventure",
+		"Action",
+		"Lifestyle",
+		"Music"
+	],
+	"intro": "Discover this exciting visual novel where brave heroes unravel ancient mysteries and spells. An epic journey you won't want to miss!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c60fc40f0f8c2c26ec0d9b0fdf13bf548dd29b70ec4e74eb178ed38a4aaaa75.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Teamfight Manager is a simulation game where you are the coach of an e-sports team.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

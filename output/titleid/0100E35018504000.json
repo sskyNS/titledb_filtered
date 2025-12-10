@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eda899b07246ff99687650bc124d63efbd01178aa68973b55ad300d52cd646fe.jpg"
 	],
 	"releaseDate": 20220824,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Bounce your way through 100 rooms packed with perilous traps and devious enemies on a quest to save your lost love!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e48077d6a78ba34a00cc11a3dc5e22e38ada7ffca9706318e1e727550c2ae970.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Undungeon is an Action/RPG driven by real-time combat and a sci-fi story.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.06 GiB"
 }

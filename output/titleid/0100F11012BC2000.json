@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/98ad23c06d12156045a52106d32f0700c72d9851377cabcc15bc86358600ca94.jpg"
 	],
 	"releaseDate": 20201019,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Death Ray Manta has lasers in his head.\nHe blew up his house, now he lives in space instead.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

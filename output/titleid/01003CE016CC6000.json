@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/84977b9ce55ef79be22443e690432a09adc93787268f09c82ee323819d293457.jpg"
 	],
 	"releaseDate": 20220302,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Zombie Rollerz is the ultimate mashup of classic pinball, zombie defense and rogue-like!\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

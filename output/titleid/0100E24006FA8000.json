@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9da9eddc35212ebd4133939874e910ea14c3dc44dcb6096da511f281ef50b309.jpg"
 	],
 	"releaseDate": 20180104,
+	"category": [
+		"Party",
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Stikbold! A Dodgeball Adventure hits right where it hurts!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.02 GiB"
 }

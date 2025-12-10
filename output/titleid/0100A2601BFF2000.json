@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ee2e9aa95c642e5817d10d24c2bb07c277f816a89ad7b4538aa375fed68b370.jpg"
 	],
 	"releaseDate": 20231108,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "A sci-fi roguelike deckbuilder with a deep new single-axis spin on tactics games! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "448 MiB"
 }

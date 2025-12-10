@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d214e0eaa47601f04e8dbbb3f908202b38c8bea1d18938620a80f66de060613e.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A series of murders and bizarre incidents occur in a private library that has become inescapable.\nEventually,  the library becomes filled with madness...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "509 MiB"
 }

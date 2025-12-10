@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8a8d6327d3d6c23b497457f31d0979bce7a286097c61573d37ba20438a5d6e7.jpg"
 	],
 	"releaseDate": 20240315,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Get ready for a fur-tastic sequel with Sherlock Purr 2!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "534 MiB"
 }

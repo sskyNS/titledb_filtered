@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a3e886d9e03a8dbcb94c5367aacf28ba063da62930aa2eb4e23f7c525f4e410.jpg"
 	],
 	"releaseDate": 20231006,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Music"
+	],
+	"intro": "Shy Cats Hidden Orchestra is a hidden object game where you need to find musician cats that are embarrassed to play their music. When you find them, they will play songs for you.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "765 MiB"
 }

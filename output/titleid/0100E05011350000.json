@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/205efa3b209a5ba188672eb631e0bd93d76f647519b71f63199f57da0eff18a3.jpg"
 	],
 	"releaseDate": 20201229,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Relaxing Strategy Game About Birds for 1 to 5 players",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 5,
 	"size": "2.04 GiB"
 }

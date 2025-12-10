@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f84cd9da192b8eae65bdb95ce52597c199a6cc58249a35a52359e5d18b14880a.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Action",
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Hell Pleasure!?\nAim for the top from the bottom of Hell!!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "350 MiB"
 }

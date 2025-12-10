@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/954b31aa7a1202ae685add51908f527b026b501716e82fbd8be8376ca1c61395.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A beautiful point&click adventure about a robot saving her home.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

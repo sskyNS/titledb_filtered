@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3481c6b842285637c019fd65713ab07d9eed6eea374ce13555e0714d85bd8549.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Raise a crop of plantlike Pikmin and guide them on an endearing expedition!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "10.49 GiB"
 }

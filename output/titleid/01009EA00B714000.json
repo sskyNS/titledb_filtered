@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/02ce5b0ee981033e96d9c216d8ca9105ba51253624798091cdf34cce320f8eef.jpg"
 	],
 	"releaseDate": 20181128,
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Horizon Chase Turbo is a racing game inspired by the great hits of the 80's and 90's: Out Run, Top Gear, Rush and others.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.86 GiB"
 }

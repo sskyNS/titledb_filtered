@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/985d7850646b015185ff63485398775948e61c3990274de0c9410a4bb1760f22.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "A deadly new terrorist group has emerged. The Talon seeks vengeance for an unknown crime, commanding seemingly unlimited resources and striking against innocents with precision, efficiency, and savage force. They take no prisoners...but neither do we!\nBattle Group 2 puts you in control of an advanced naval fleet assembled as a last resort against this deadly new enemy. Command powerful battleships and fire newly developed satellite strikes in a final strike against this deadly new terrorist superpower.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

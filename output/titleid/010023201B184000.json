@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bbc6c8f4290e407d09758354c0626e60a3f4f40eb40db56e69d2de255636640.jpg"
 	],
 	"releaseDate": 20230816,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Macabre interactive adventure filled with bizarre events and puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "847 MiB"
 }

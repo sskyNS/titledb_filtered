@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/578187a508777a1d7f02a129a9e5750f0b8ceb5db452d5c62d766a1dd59d984f.jpg"
 	],
 	"releaseDate": 20191018,
+	"category": [
+		"Action",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "With shifting gravity at work, aim your cannons, blast your enemies and enjoy the fireworks. The goal: be the last civilization standing!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.59 GiB"
 }

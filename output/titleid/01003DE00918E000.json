@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/950206d042bf30e8417ccad069a7ccfb34345de6bed4c48536f298bad5000d6b.jpg"
 	],
 	"releaseDate": 20180207,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Join The Darkside Detective, Francis McQueen, as he investigates the bizarre, the supernatural and those missing cat cases that keep getting dropped on his desk.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

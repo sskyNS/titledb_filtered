@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1985990cd37caac386115bb779fbaa629d2b6724d1a06b440e6eaf97d71db8e.jpg"
 	],
 	"releaseDate": 20220208,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "JUMP RIGHT NOW INTO ZOMBIE ACTION-PACKED COMBAT!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "460 MiB"
 }

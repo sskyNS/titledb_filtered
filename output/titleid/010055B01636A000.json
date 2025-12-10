@@ -8,5 +8,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/55e6d9ad0f20841e0aed4470f4f21d5d14595fb5506d9b92cbff000fb6431629.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Platformer",
+		"Party",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Hoplegs is a different kind of platform game where you control your character using 4 different legs.  Looks easy?  Each of the four gamepad buttons where you usually jump, interact, crouch and change weapons are now your legs!  Master the unique controls, and navigate through loads of developer and community-created levels! \n\nCustomise your look with stylish hats, boxes and legs - even new faces! Keep your eyes open for rare and special items in secret hidden areas!  Can you find them all?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.07 GiB"
 }

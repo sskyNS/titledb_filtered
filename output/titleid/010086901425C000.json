@@ -4,5 +4,21 @@
 	"publisher": "Auroch Digital",
 	"screenshots": null,
 	"releaseDate": 20210504,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "661 MiB"
 }

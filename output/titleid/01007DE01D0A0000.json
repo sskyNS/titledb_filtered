@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b16296d050fc91c72984f6430963eec804884a09f85f91f1ca99007d5a91680.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A fast-paced, birdie-bouncing game of skill and reflexes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

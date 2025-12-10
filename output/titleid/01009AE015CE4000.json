@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2450e13fc65020f2ca9d7f2d2c6a0c6c195708bcd0e972f4a37622ed7f48202.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "The airport is a place that never sleeps.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "987 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9281540af8255f994b6940a2400f69c6c4f305e60e69aac529c2831e8c23c862.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The clash for the crown is coming!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1016 MiB"
 }

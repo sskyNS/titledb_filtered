@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fb4b8f638e01cff9ea0a229cae3d95822595f74e263d5bc50d0038321b09eb9.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "In this visual novel, a magical forest where every creature and plant is connected by an ancient power called the Heart of the Forest begins to crumble.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

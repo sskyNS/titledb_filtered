@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/76405a4924fe9b6cf87e7b6d24b10f89d8968f0a5c9f8daa0f74d47506d3bd6f.jpg"
 	],
 	"releaseDate": 20230404,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "This is a clicking adventure that simulates the real-life tapping of a Mayo Jar! You will unveil its story and (maybe) you will learn from it!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/38a81fd04434f41b77029daa705952b17925c4286ad96c0e6433e9bafd3087b7.jpg"
 	],
 	"releaseDate": 20200207,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The most chaotic multiplayer party\u00a0game on the planet!\nParty game madness!\nPick your Marooner!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "862 MiB"
 }

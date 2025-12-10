@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/96aa70dd002c5c5e24aa2dce509e5c20aca6dda74e7ec744a5ad5efacfcbd5b6.jpg"
 	],
 	"releaseDate": 20211005,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover the early cases of the legendary detective Hercule Poirot.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.08 GiB"
 }

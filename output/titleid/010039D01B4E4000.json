@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/31a066d7bcfe31d6a75983a950b43dff552485a83752093ff54db2ea0b891d9c.jpg"
 	],
 	"releaseDate": 20230719,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Get ready for an adrenaline-pumping adventure in \"Metal Storm X,\" a visually captivating 2D side-scrolling shooter!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

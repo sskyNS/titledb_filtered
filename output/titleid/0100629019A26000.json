@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/17739b70b844dba7cb198b8705f03d6384436b22bc83606c9c79725d96d77cc7.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Study"
+	],
+	"intro": "A classic puzzle game where you have to move reflective blocks to point the laser in the right direction!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

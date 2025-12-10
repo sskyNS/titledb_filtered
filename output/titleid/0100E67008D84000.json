@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5beeefea9fb6895b3817e55ea616b660092828cd77c74fdb7ca73268ac2f681.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "Aggression with Dignity",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "680 MiB"
 }

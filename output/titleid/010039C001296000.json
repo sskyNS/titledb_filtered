@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/561e05324029d275e47e2d547836a52165d9479548bd966e0a3de74a7f9289da.jpg"
 	],
 	"releaseDate": 20170728,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Create, share and play endless courses! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.79 GiB"
 }

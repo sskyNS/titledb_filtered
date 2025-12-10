@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/43f869465dd0735ef23d1cc384a57720a9ed92673cc1c289b1e172b6ef60a23c.jpg"
 	],
 	"releaseDate": 20211031,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Laura James, a reporter with the 'Daily News', was investigating an ordinary murder case when it all went to hell.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

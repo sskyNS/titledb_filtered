@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c080adf85038c55733f33b9851cc19f0590293e3ff9250e2c0628781005ef315.jpg"
 	],
 	"releaseDate": 20200929,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Study",
+		"Other"
+	],
+	"intro": "Move the pieces and create a path to Unlock the King.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

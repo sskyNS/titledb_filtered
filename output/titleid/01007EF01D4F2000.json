@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/182c44ae4be7a7789289278bdbcd0553d32d8979e3ca09288ae24b79f3c6de51.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Rapid Gravity Arcade Action! Dash! Spin! Slam! Paint!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

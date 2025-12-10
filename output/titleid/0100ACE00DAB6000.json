@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae80f4b2016df395593afc58f03f67461e1b3d864ecd95d49daf5a8c2c556ded.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Paint the Sky with Fire : High Speed Mech Action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.33 GiB"
 }

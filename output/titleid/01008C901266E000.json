@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/92ef49e2312dedc3291467f57172a924cd36d536cba6bc6c06cb1c0661c8bb91.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Shooter",
+		"Action"
+	],
+	"intro": "ADVERSE is an arcade first-person shooter platformer set in an idyllic world of corruption.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

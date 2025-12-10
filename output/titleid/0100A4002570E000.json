@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3958c16952acd72dcc55eadc6e9e7e9dbe5159edee5e0a1df5778759ab7409e.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"\u30ec\u30fc\u30b9",
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u300eSmoots Crazy Wave\u300f\u3067\u3001\n\u30ef\u30a4\u30eb\u30c9\u306a\u30a6\u30a9\u30fc\u30bf\u30fc\u30c8\u30e9\u30c3\u30af\u3092\u99c6\u3051\u629c\u3051\u3088\u3046\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.09 GiB"
 }

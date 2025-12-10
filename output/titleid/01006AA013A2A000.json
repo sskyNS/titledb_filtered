@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/967de732c4e55d8b6a1906e8ff600806450cdd5d82c8b76690c59ebb393043f3.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Party",
+		"Sports",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Duel on Board is a 1 vs 1 local multiplayer competitive / party game where pirates fight for the precious beer while sailing the dangerous high seas. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "334 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0d06d0740193a87bc1b1e915e4df27d9253fcbcd1328ac1e0071d30d74b76a2.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Recover parts to your crashed ship from wacky locals to escape a hostile battlefield. Unlock and play as 13 different characters from space monkeys to mischievous slugs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "779 MiB"
 }

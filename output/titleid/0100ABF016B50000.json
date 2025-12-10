@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6e939fc1feb082c3fd0f31fd535c2fa9813d0681267b9ea47c84d6aaa8fa5ff.jpg"
 	],
 	"releaseDate": 20211105,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Are you great with puzzles? Enter the world of Plumber Puzzles, where you need to solve as many puzzles as possible in order to win.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

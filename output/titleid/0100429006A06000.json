@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a83eae6b5de3512e78548ed652235b068784e7951a0f066fd570d2f70ba3a5ee.jpg"
 	],
 	"releaseDate": 20180308,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Quite a different zombie game.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "318 MiB"
 }

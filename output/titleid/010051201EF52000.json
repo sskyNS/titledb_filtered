@@ -8,5 +8,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/11d086f8a13ee57d2d138c3ade0376d723ca5d5011a78066c5e940e503b307a5.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Alchemy: Origins is a classic alchemy game that starts you with 4 basic elements and allows to connect them to create more and more elaborate items - all the way to reaching the stars.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

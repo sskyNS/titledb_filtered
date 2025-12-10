@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f62b7f53a93f568205ec168a3d33163867d57681ae4566ad3ffb9cef397a24c4.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Shoot, Blast, Nuke, Shred, Lazer! Do all this to your opponents and more!\nHigh octane party gaming for 4 players!",
+	"languages": [
+		"en",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "107 MiB"
 }

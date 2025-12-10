@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b19f5d546778b343ec9c3c334b18ca80c9d0ab05c8c8036c3f44ae9ee63814cf.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Multiplayer",
+		"Arcade",
+		"Party",
+		"Action"
+	],
+	"intro": "Where is Billy? a hide-and-seek party game for 2-8 players",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "392 MiB"
 }

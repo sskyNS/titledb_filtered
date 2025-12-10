@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ed7cbb82f62827cac1bb1ecd82205f82a0e37886b028a4bfe087282da9520fe.jpg"
 	],
 	"releaseDate": 20201110,
+	"category": [
+		"Music",
+		"Party",
+		"Multiplayer",
+		"Lifestyle"
+	],
+	"intro": "Players who already own FUSER will still be able to play the Campaign and Quick Play with any DLC they have already acquired.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.73 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3b59b270d058d4877bf1a170d1028184dfcbf1251c06111913db1ae771abb0f.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Dreams use so many bits and pieces of our memory, \nbut not in a logical, linear way.\n- psychologist Rosalind Cartwright",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "377 MiB"
 }

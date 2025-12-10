@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dea627011eb77fe83f3495a47c19f50bc7510532b321c75fe7debb3daa36bff3.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Tactical Combat & Stealth action in Outer Space.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "788 MiB"
 }

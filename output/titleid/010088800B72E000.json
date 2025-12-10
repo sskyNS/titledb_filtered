@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba81c21fa8627a5cc68ac2f2d1e80b6219a59076b118dc897aac77bf45587489.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Multiplayer",
+		"Arcade",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Share your Joy-Con\u2122 controllers with your friends and family up to four players for some egg-cellent fun whenever you want in Arena mode, or polish your skills on your own in solo modes!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "737 MiB"
 }

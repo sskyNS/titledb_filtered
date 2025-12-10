@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eab9f3fc131d1aef96c376d68e745a478fe4b960b8e661f01f7ccca7d27c65c.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Farm management simulation game!\nCreate the most awesome farm!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

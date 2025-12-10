@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1ce1caff5df266238c289419b7b81fb9107bec14137b7e3c51b0851a0fa7c2a.jpg"
 	],
 	"releaseDate": 20230923,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Solve the puzzle to release the blue ball",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

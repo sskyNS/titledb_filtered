@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/47732aa84c5113421320462981f55c49b4c8436361f9a3b8538e6f171683f113.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Team up with a female sniper and take out the terrorists! Share the Joy-Con\u2122 controller for a two-player arcade experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.21 GiB"
 }

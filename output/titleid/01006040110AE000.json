@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d788870a621261c51f1741fd5535c89313b54729e979474893d02bcf71688bd6.jpg"
 	],
 	"releaseDate": 20200626,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "These are troubling times, Your Grace. The petitioners\u2019 petty matters exceed our limited resources, to say nothing of the war. A careful balance must be struck. Your throne awaits.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "842 MiB"
 }

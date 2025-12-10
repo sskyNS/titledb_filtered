@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cf098c82a94a0059206f2ce4c608dec9589ca46ddf81f563482832989f8764d.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Heave Ho tasks up to four players with a simple goal \u2013 don\u2019t fall to your death",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "819 MiB"
 }

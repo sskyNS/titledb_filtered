@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fb997db64cd8aaaffa1dada285b2b5419503dd7e207611ca808387ba64997b8.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Descend into the facility and seek out power eternal in this shoot em up masterpiece!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef83a372d46079f9481959ba704d211f7432728aae9b43d1ccf1569b5c4d42b5.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Our fates entwine, embarking on a journey to find the gears that can change the world.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

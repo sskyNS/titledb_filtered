@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f23dd5928a7c978704e5e1542b72abffc2989ec41a0a07e4695519b5e52d852e.jpg"
 	],
 	"releaseDate": 20220816,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Welcome to the University of U. Build your university, your way!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.27 GiB"
 }

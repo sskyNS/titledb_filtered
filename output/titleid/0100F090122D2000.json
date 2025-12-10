@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/905d3770a944d027e134cec3d65c7c7c75275eda53e2bd05ebc5b83990a222d3.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Observe the Ring and strategise. Learn, adapt, or face demise.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

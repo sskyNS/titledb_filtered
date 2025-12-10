@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd9fab816c787af6f7be2fec51f1b118f3e53d777daf0017e7fa36b4ae35c68f.jpg"
 	],
 	"releaseDate": 20220520,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Kick, punch, and jump your way to becoming the toughest kid in school",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

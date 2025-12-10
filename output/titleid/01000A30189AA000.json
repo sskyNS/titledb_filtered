@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c6d1644a568aa1c11dbb10cf7bd28ae69723f16960adceaadbdf1793161431d.jpg"
 	],
 	"releaseDate": 20220722,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Inertia: Redux is a first-person action platformer with free-run inspired movement mechanics",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/477bb951231d78e4091a115af0dd329ae091f32da1e0b355c5b6453186b99c86.jpg"
 	],
 	"releaseDate": 20181109,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Croc\u00b4s World is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n\n+ 60 incredible levels \n+ Nice graphics\n+ 4 different themes\n+ many challenging enemies\n\nInstructions:\n\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nIf you collect 100 diamonds you\u00b4ll get an extra life!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "308 MiB"
 }

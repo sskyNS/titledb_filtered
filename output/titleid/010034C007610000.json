@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4e20808ddbc41491bdbfc8ab1603424b55a2964c5b821a36b8d31259c731b38.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Rennspiel",
+		"Lifestyle"
+	],
+	"intro": "Entdecke die unglaubliche Geschichte von Mika, dem M\u00e4dchen, das auch als Pferdefl\u00fcsterin bekannt ist, als sie mit dem schwarzen Hengst Ostwind Freundschaft zu schlie\u00dfen versucht.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.29 GiB"
 }

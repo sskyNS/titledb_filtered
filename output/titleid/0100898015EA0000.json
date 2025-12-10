@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35f5fb60f634f9ac46c876bbec41af16ee90ab0efce36d0cf42de995f6936960.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Study",
+		"Education"
+	],
+	"intro": "Dracula's castle consists of 8 floors. Each one has a large picture with a magnificent painting representing his life.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

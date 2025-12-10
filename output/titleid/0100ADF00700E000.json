@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b0088988e5988db6c2f78a7365e62f10b1f36f7d80e63a2c6c1722cead1a082.jpg"
 	],
 	"releaseDate": 20180703,
+	"category": [
+		"Platformer",
+		"Party",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Are You Ready To Runbow?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.33 GiB"
 }

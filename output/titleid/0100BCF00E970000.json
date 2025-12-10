@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/40a8df0e854bd53b8b4ec8a8974344db876bd9332265865b3909b9fd341e893d.jpg"
 	],
 	"releaseDate": 20190815,
+	"category": [
+		"Adventure"
+	],
+	"intro": "The Vanishing of Ethan Carter is a first-person story-driven mystery game focused on exploration and discovery.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

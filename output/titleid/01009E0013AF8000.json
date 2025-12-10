@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/000212e0cf3a239375233e9597882ba47138fa678fcd25915a048737d643a974.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Top-Down, Twin-Stick, FMV-infused MADNESS!!!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "965 MiB"
 }

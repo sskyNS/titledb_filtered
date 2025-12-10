@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d260551460585e8115bf5d990d80a52969e96301cca8b0ed3c711f023f2aa1c.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "My Hidden Things is a bold experiment: it's a mixture of a visual novel and hidden object adventure with unusual mechanics",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "654 MiB"
 }

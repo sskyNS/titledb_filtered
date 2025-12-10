@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/323b23078070ee9d96952ba2c23cbaa70bb6213e9025f5016742fbc65881461f.jpg"
 	],
 	"releaseDate": 20220906,
+	"category": [
+		"Multiplayer",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Temtem is an online multiplayer creature-collection adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.55 GiB"
 }

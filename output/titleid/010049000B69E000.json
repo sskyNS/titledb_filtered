@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d34b5dd1fc62f570859a5cba7c96260c4fa9020c646e353d9f8e8651dd337c0f.jpg"
 	],
 	"releaseDate": 20191121,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Reach the top of a evolving tower before your heart explodes.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.06 GiB"
 }

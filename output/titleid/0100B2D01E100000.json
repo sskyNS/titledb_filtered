@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8adf18520b137ff73c2fc7aa454256394032969c2d06e03605075b9a3b1fe2d7.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Release your spirit and fly through mystic landscapes as you search for a cure for the darkness. Ahro is an explorative, lore-rich, side-scrolling adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

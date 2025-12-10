@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/859de735b02941c1175edaabdec14faf931f5ed1a95c3de6c334457bec6a914a.jpg"
 	],
 	"releaseDate": 20211230,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Have a ball at Our Summer Festival!\nCome enjoy the festivities under the fireworks with your friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "173 MiB"
 }

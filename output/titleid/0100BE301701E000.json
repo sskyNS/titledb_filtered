@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35c3f934f4cf128ab13d5529fa9590b4598ae9a8b2a099726d4352b44a187aef.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Go flatout ! No brakes needed ! A retro arcade top down racing game in a pixel art style",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "280 MiB"
 }

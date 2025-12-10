@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5f19c6f9a7eb52fcd4d43545d90f536833722eccc6c1fbd261cab29f6974366.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Racing",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Fast, furious, armed-to-the-teeth, trigger-happy shooter, shifted into top gear! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.45 GiB"
 }

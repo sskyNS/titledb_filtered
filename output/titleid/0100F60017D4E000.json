@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/24917b9f5e49c2e12677053a1931f8f4b86b30c030968f0c893f0197ffafd2ab.jpg"
 	],
 	"releaseDate": 20221115,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Bravery and Greed is a beat 'em up, roguelite, dungeon brawler for up to four players. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "838 MiB"
 }

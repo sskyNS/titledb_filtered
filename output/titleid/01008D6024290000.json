@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff1a66c456dd969d95d5c07c9f2b50b9f12cd2b4d74e4cb889affa73196b59cc.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A small, relaxing, incremental game about restoring a barren wasteland into a lush meadow.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

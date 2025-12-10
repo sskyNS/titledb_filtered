@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aaae03845fd53a4e3b9ba11fbd077d8a8bf615c6acd138dff35938e3b9f0cea7.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Try your hand at a unique spatial puzzle game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

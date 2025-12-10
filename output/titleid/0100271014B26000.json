@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/41910ff196f70118e852c358369e012a5c3e8e2066ca884cb6f48a2fcd56d822.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "An evil corporation destroyed his forest, now it's his turn to take out the trash.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

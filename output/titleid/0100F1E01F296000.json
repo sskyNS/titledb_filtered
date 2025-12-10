@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/48c5c8fae71c0a68dca982dee0fe668755ecca935be325b25dee8f1fc987b1a3.jpg"
 	],
 	"releaseDate": 20241028,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Run and jump through the North Pole to take back Santa's Workshop!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "111 MiB"
 }

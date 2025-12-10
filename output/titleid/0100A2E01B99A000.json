@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2751d6d6eea723f09a5db7e3880ca1b4b52a124d589338b6421ed616eeb57dfa.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Communication"
+	],
+	"intro": "The egg's great adventure, the final chapter. That fragile but brave egg has returned with even more new powers, but this time its adventure is over.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.41 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/77c823b57f7630d519fef8d57a0c846a5e8e772e7c0be13f44027318628a6a21.jpg"
 	],
 	"releaseDate": 20210630,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Help Sci and N\u00e9ro to get out of a world where logic, mathematics and puzzles will be your allies in a 2D platform game with a unique aesthetic.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.53 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/51e362e8233a48bdb79166a161a4ac6fe18a03f85b372c899c46d43e224f5289.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Let's play Yuoni",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

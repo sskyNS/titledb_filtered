@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c62df62e7e6af59bf2ac1dd0fea8d936e6bfa51058750df3bc98169ea4350523.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Get ready to play ball right on your desk with simple but enjoyable controls!\nCreate an original team!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "506 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dd8beff919fe9836badf941ca96e7d403b34b078f78827bf680df4df309eb22.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Dash, deflect, and survive in Paddles! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "155 MiB"
 }

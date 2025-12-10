@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e13702787a02ef97a1083455c25f4100ceba5fa7c8ed0afd4d25cf161f9eb85.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Embark on an epic adventure to save Earth in this interplanetary action RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.18 GiB"
 }

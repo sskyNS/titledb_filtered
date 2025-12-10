@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df48e05fab001c03e9ed931f36c40804bfd873835447dbbede38d46838dc324b.jpg"
 	],
 	"releaseDate": 20220919,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.89 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/59a5e37f33eaaa8d88812910684172bee396e211f0131307e994d8bbbedb7cea.jpg"
 	],
 	"releaseDate": 20250601,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Play and enjoy this rally - now more classic, more arcade than ever!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

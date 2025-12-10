@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe5ca437b6c62ae10fb66580b16733a4fdbeb0eed6a379a6f1075bc219d7cfed.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Join forces with Nika, MechaNika, Agatha and the Great Bleeding Pig in this peculiar and crazy mission of destruction of everything that isn't cool.",
+	"languages": [
+		"en",
+		"es",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.17 GiB"
 }

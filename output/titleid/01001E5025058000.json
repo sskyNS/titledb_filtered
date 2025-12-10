@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a53d586d8b1ee30ae5c09214793aba3bea35eb59fec2a652deba179d3d8c269e.jpg"
 	],
 	"releaseDate": 20251011,
+	"category": [
+		"Simulation",
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Hunt the legend and survive the untamed wilderness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

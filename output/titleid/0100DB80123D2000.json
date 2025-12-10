@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8447346b452f576f453c805297b3d935e6799317f604087649729eb7e8f8a115.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Hilariously violent party brawler that lets you compete in the galaxy's ultimate blood sport. Experience crazy couch battles full of ridiculous flukes and insane skill shots.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.33 GiB"
 }

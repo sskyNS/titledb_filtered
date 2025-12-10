@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9c43bd048eb0df7a73cce9d8bbc9bf2315ca0f2c1388b5f08f751b8de8cdd77.jpg"
 	],
 	"releaseDate": 20240218,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Sports"
+	],
+	"intro": "Where Precision Meets Velocity, Customize Your Ride, Conquer the Roads, and Become the Ultimate Driving Maestro!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

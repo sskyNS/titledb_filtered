@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/68d71c0b9acae1482ad07fcd027138eba5321609f27a16392bee99d0b144fbfd.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Other"
+	],
+	"intro": "A pixel-art platformer adventure game with lots of action and a memorable story. ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

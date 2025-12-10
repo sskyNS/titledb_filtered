@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4163934c577c923bc5c8b86c184c50bffe84f0f517ad45b4021720253ba73c08.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Discover unpublished and magical stories of Santa Claus, with beautiful illustrations and enchanting music. It's an interactive Christmas adventure for all ages.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

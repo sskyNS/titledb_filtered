@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8e9933f341353b980d8361c6bc815e878b3edf08ce0ad5f1e501018b499653f.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Save the Species! Escape Earth Before the Meteor Strikes!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

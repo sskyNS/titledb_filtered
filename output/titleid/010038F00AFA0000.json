@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2476810042aad58963e94b458a99b00006648cfaa3fe60058b89dac6e97fc23b.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Those money idols you keep hearing about are coming to your town!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

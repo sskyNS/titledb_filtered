@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8cf3b488dcbd2b041910f4d10e1c7d50f006550e2c0e5a2721889ac9fc3d586.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"Shooter",
+		"Party",
+		"Multiplayer",
+		"First-Person Shooter"
+	],
+	"intro": "Aim, shoot chickens from the sky and reload. Single-player, multiplayer and 1 vs. 1 duel mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "236 MiB"
 }

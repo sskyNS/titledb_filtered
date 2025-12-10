@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbf1a8f477283d40a44f71cc912876a455f7e52f001d3016c8ded1a247d62a5b.jpg"
 	],
 	"releaseDate": 20241030,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "To hunt vampires, you'll need guns. Lots of guns. Mow down hordes of undead creatures by stacking your guns into absurd, over-the-top builds in this Roguelite Survivors FPS.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

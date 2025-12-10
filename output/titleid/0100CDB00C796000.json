@@ -4,5 +4,15 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20190307,
+	"category": [
+		"\uae30\ud0c0",
+		"\uc5b4\ub4dc\ubca4\ucc98"
+	],
+	"intro": "\ub4e4\ub9ac\ub098\uc694?  \uc81c \uac00\uc2b4\uc758 \uace0\ub3d9 \uc18c\ub9ac\uac00\u2026\n\ubc29\uacfc \ud6c4 \uad50\uc2e4\uc5d0\uc11c \uadf8\ub140\uc640 \ud568\uaed8 \uc2dc\uc791\ud558\ub294 \ubab8\uacfc \ub9c8\uc74c\uc758 \ub9ac\ud50c\ub809\uc194\ub85c\uc9c0",
+	"languages": [
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.72 GiB"
 }

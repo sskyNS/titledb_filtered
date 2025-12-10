@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e0177d3b85ec57f01557ec9077971b3eb0cae7f2c9031fb126043c23dc54d06.jpg"
 	],
 	"releaseDate": 20220323,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Chip apart destructible bosses in this bullet-hell shooter",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "959 MiB"
 }

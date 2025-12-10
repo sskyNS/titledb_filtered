@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e42cc7a6a968bb1c9f9db878e2f7184bc9e7cf1519a140664e672d68bb041f4.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "A madness spread across the ship. The crew looks at Jack with paranoia, and Jack looks back with the same. Unsure who to trust, Jack is forced to fight the nightmares.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.14 GiB"
 }

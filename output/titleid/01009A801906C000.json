@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89e827330da02e6e68a3c345d62e4b8fbcec46a5c548464d126b6b7bd4287ca1.jpg"
 	],
 	"releaseDate": 20220904,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Welcome to a brand new colorful puzzle featuring a lot of pictures in pairs, between which you will have to find all the differences.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

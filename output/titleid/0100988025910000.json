@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b2c490673b5b094cfc1825c3f31e10fa336ec13770780ced0ba5ce73fcc32ac.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The gifts are frozen, the enemies are fierce \u2014 Santa\u2019s coming to save Christmas again!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

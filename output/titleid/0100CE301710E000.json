@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbba10235bfde7a8e0359f220bbc7c5302a621ff61fb9fb58a619b332be99829.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"Simulation"
+	],
+	"intro": "Try on the role of a driver of a passenger bus. Take a ride in a real city, strictly following the schedule.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.62 GiB"
 }

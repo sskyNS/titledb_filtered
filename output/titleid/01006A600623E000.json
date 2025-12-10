@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e22aa9f37d3906997380437f529a70f3d14e143e2cd1718ead879518da62f4c.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Coffee-break rogue-like themed after Japanese folklore tales!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

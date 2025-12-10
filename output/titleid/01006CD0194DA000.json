@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/140980207eb2a71808900264591a8fe45dc91df48cb973c1fee31f1d8e1ded93.jpg"
 	],
 	"releaseDate": 20230531,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "You are a journalist in search of a breakthrough story. A promising lead takes you to abandoned Mythargia where you have to discover its buried history connecting two dimensions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

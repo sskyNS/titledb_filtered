@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/436a4088cf4346d24ab7d52b4207f9ac5e30963272dbcb3aa0f6aa1d206cfbfe.jpg"
 	],
 	"releaseDate": 20191115,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Get ready for the next Pok\u00e9mon adventure in the Pok\u00e9mon\u2122 Sword and Pok\u00e9mon\u2122 Shield games.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.42 GiB"
 }

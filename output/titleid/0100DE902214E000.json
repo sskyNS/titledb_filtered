@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/47ff0a9c7c377b45fe4c83fa4da827dac7b8fb2bd3c626802116b3da72402548.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "Easy to use puzzles for toddlers and kids. Featuring funny and cute animal motifs with 30 unique puzzles. 100% frustration free and child-safe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

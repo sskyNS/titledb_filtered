@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f117e6ba7e0b2e9ccc3da2ec7017b18729da753363254b8fd63561151df37c1.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Embark on a cozy, yet endless adventure across the mesmerizing desert landscape in Art of Glide 2. Glide gracefully through the sands, uncovering hidden landmarks as you go.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

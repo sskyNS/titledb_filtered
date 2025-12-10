@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/16041c69449f1729c22a3b4e615a8258e3128195d538f15bae4544d3ea85a0a3.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Music"
+	],
+	"intro": "The young witch Hyke's adventure begins!\n A 2D top-down action pixel RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca717ebb06d20ae1eb77b385e5fd43a0e2a0ad78cba18731b1b5b9ca42c9770c.jpg"
 	],
 	"releaseDate": 20210317,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "New game from the developer of \"7th Sector\" Sergey Noskov.",
+	"languages": [
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

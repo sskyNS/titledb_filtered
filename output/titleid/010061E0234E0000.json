@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f3284fcdc28a2d38e8e2f924a82940f2a9cee3c335b296198dfd97f375391b8.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Rocky, a brave little dog, embarks on a nighttime adventure to recover something very special. Along the way, he discovers that heroism comes in all sizes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/317747007f2d7e4fe51e2185e23e7c36a0efebc680c01e20da2acacd70fb598d.jpg"
 	],
 	"releaseDate": 20210917,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Embark on an epic RPG adventure with punishingly brutal souls-like combat.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

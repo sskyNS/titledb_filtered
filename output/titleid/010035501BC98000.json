@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cecff60c47829378e9171279f2502c1aad652ea7aafc3aa9cdbfce27d8fd5fa4.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Puzzle your way through block-sliding stages as you get to know a cast of otokonoko characters!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "312 MiB"
 }

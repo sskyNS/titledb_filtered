@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/564bb2ca47e29ed7b4ce75ac8b124713940bef697b530e35b1e676dc6c9cb0ff.jpg"
 	],
 	"releaseDate": 20180222,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Join forces with elves and dwarves, and slay the evil dragon, Wyrmvarg in a retro-style fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

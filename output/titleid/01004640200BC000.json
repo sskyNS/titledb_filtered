@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95fd35818b7eead34ad21d097314849cc6abbc8a25446b4b75ed4d5f6141ae84.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Puzzle"
+	],
+	"intro": "Lunar Nightmare is a retro-inspired sci-fi thriller, set on an abandoned Moon base...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.08 GiB"
 }

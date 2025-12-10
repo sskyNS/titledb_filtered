@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8badb0b155315427a9e1c18179136f193a5213dcb71b3e496a751463ca48ee02.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Step into the arena and choose your fighter! Mortal Kombat: Legacy Kollection includes all the essential games from Mortal Kombat's early years. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "11.41 GiB"
 }

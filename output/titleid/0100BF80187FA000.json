@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aabcbb67284da36f50992ac228d8720d7c00b1cec885287f46d7adfeab4c452b.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Fly high and try to stick the landing. Will you survive or will you crash?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

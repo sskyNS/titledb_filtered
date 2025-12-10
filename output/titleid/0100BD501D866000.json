@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/88d0e9f4a39cebc245acbdf0245fb127f0317ae543336c378433d5be3513d249.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Solve 45 beautiful puzzles of pets including dogs, cats, horses and some magical friends",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

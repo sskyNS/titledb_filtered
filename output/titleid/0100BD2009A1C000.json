@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e9679946452b809e2b54e57f8285f363228537c4222cffe3c089071655800f1.jpg"
 	],
 	"releaseDate": 20190807,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Bite Sized Gameplay \nClassic Arcade Vibe\nComic Book Campaign",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

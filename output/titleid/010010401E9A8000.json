@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5cf2db6f600235ddaeee67e4bd4cde1a2a423813b5a3702bba0fcbf0ff084ed9.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Build a deck of crazy weapons and devour puny humans as a murderous jelly blob.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "476 MiB"
 }

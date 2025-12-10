@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca167ee94f746f68ff4a27586f938f19b9dad67a248c006571147656fe547438.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Strategy",
+		"Arcade",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Scribed castle is a city builder where you scribe whimsical towns, cozy villages, and gothic cathedrals in the medieval illustration art style.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "713 MiB"
 }

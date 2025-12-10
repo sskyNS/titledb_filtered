@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9f0c33bd4f83f7bab5281815decf629e26e9b089d97ba90163d986b7d3819ff.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Run, jump, die, learn, repeat.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e47afa6182af02d77f4af3c9d693f2e32bfdcc5636a5590a506fd1c3dd432d6.jpg"
 	],
 	"releaseDate": 20190523,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "JUSTICE AIN'T ALWAYS LEGAL",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

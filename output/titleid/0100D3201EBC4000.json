@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ce2617ab2f157bb7a68a758189a66673c464f6fe313cd1a4d5fb685c3378891.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A monstrous match three arcade game with a twist! Connect the shapes in the right places to clear monsters from the dungeon and beat the bosses.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "44 MiB"
 }

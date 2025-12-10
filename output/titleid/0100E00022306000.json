@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0694a8b10095c56f5e240c58fa4d9935dd61c163ecacfb288a21e4c036606a2f.jpg"
 	],
 	"releaseDate": 20250620,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Build, manage and automate your rail network.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "448 MiB"
 }

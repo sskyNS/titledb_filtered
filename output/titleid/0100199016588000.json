@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2b4db9f21267fc2498c5dddc03c774894e7afc97bc645ab67142d434ae19360.jpg"
 	],
 	"releaseDate": 20220204,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Spin world and push the box into the crystal. Then make your way like magic!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

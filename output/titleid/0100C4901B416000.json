@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b3a1dae08dd2ef176214cbb4a8a21e2245e118fe673407ee9a679289f2c8bcc.jpg"
 	],
 	"releaseDate": 20230424,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Communication",
+		"Training"
+	],
+	"intro": "One day, the main character, Mirai-kun, discovers a mysterious door.\nwhat is this world like?",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

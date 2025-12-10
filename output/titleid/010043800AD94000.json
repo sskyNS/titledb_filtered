@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/eeb5bb18323c4e6c0bff68e8c94fbb36fc092586b60dc2b78f63361df9a33585.jpg"
 	],
 	"releaseDate": 20180710,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Will you survive?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "830 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a254e7e03655e3001f7ff16d94d24f23174da68a2f07120cc5fe2fae04eeddab.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Become a master of the Living Ink\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.44 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/503ea7728fd968def6c6fd4625815c53ab04e46c8bfc6b4f675893224f418b6e.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Study",
+		"Education"
+	],
+	"intro": "Capture all pieces of the matching color before eliminating their King.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "157 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4fb9d9c402f00c76cab8d49d1d54e090d71950212767cbb5fa476681dacace7.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Strategy",
+		"Shooter"
+	],
+	"intro": "\"Common sense crashes! Evolutionary system of Breakout! \"",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

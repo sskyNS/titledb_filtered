@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d387930b796058b1cc6bf7e0db0f5a7aa399b8ad49992230fc6b9a28c351e440.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Create your own overpowered build to survive against hordes of monsters!",
+	"languages": [
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

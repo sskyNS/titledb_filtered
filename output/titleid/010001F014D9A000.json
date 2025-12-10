@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e2b2bdfc37d68e33b890f2c826a706f1829ebad4929826f57e5858142b690ef.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Action",
+		"Sports",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Join rookie dodgeball student, Otto, and an eclectic cast of characters in Dodgeball Academia as they train to dominate on and off the courts of this fast-paced sports RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "748 MiB"
 }

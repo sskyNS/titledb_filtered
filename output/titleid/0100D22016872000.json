@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/35e4417260a3827c9e0d96802f2364f044c8e3dbacbdf7994324b9650516bd12.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "The world has been overrun by demons and there\u2019s only one chicken that can stop them. How? By smashing into them head-first. Why? I\u2019m not sure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

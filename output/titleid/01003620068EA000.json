@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4741d5fb99298430aff971894d57f132048a09760e6855d222b2cb39e670a451.jpg"
 	],
 	"releaseDate": 20180717,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "Draw your cards, play your hand and discover your fate! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.74 GiB"
 }

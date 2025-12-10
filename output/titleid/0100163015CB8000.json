@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7656e397ec3e0982610ba7573482e0ebdb004197abe0443f40749444a4a0bd06.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "You need to move all the stones which prevent the little kitten.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "788 MiB"
 }

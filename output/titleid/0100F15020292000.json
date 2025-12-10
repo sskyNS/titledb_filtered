@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec37f2c7fc83cf85cbffc607f99ab9e37d6efec6fa6711cd1fffea42dbd3fe96.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Laika: Aged Through Blood is a thrilling action-adventure Metroidvania set in a dystopian, post-apocalyptic western world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.17 GiB"
 }

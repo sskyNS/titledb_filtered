@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c822718d26e259bf6e8c2a51b50a84242307d6f9224a8c80582b3da4c745098b.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A puzzle adventure where you don't control the hero, but the level ITSELF! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

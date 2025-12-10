@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/990fc0efb34b4153380f59a708c56c3507135b746e73437b0171a890df57c766.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "Welcome aboard the DarkStar One \u2013 Nintendo Switch\u2122 Edition, Commander! Push the final frontier and explore the vast expanses in this retro space opera.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.96 GiB"
 }

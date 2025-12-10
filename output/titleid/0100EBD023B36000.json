@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c32224868a12004dc3ba3be40616bd5f5840e167a290610a56433f90bf61b328.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"Action",
+		"RPG",
+		"Music",
+		"Simulation"
+	],
+	"intro": "Hit the beat and watch her journey through life.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "455 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/139c226907d9cde4b520c6233bcf0d2e370e047cc0a5edb4a8770072c86d4dab.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Shooter",
+		"Training"
+	],
+	"intro": "New Arcade Machine for 1 or 2 players!\nHunt for the clowns is wild!\nHop in for a rollercoaster of action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "251 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/923ad1ed40d04a07e3bf5932918573124c6177fd0e8bd6f35cbd35b67fccd7cd.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Become Agent 70 and stop the anomalies threatening to destroy the balance of the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

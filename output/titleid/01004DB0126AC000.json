@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/44b744f3543e3d00c3e8672565b21193fde9fca752afc65e4523f3a571497198.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "Let your mind take a break and refresh itself to the mind-soothing effects of Sudoku.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

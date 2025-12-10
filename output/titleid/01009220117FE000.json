@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4916d4a5d252c090346711a0781330611a0a7eb94bf0621687fda5752e5912e3.jpg"
 	],
 	"releaseDate": 20220601,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Join Flewfie and friends on an epic side-scrolling adventure! Zap, beam, and fly your way through unique worlds and put an end to Uzzu\u2019s chaos!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.36 GiB"
 }

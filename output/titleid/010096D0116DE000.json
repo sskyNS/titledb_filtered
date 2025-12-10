@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/35e8ece45bd5962a150b0dc0cb7aa9b7b80596956518b084b2a27d67a0ae7f81.jpg"
 	],
 	"releaseDate": 20200729,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "A game of dice drafting and window crafting.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "640 MiB"
 }

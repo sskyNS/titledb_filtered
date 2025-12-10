@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ab90875d955ecf67913f4dfb4ccf544ae5475a7e2023ab45757854918d24b7a.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Party",
+		"Sports",
+		"Action"
+	],
+	"intro": "Stunt Kite Party is a family-friendly party game with an exciting storyline and endless fun!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09c57affdf6343aae0fcae80aff939c8037e3d44cbfda88557935ccba7695d5a.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "The perfect game for little kids and babies! No language skills required! Preschool & learning with fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

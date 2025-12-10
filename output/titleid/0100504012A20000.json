@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b029f583c3bdd71d6ca685135c83e946ba4c3c1e8a90f654b23d1f0da99197f4.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Party",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Trash your opponents with up to 4 players or go it alone in this beat \u2018em up that\u2019s also a clean \u2018em up!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "547 MiB"
 }

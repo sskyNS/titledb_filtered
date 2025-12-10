@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebca2a041f1e72af8e8cfaf3d3355a932d58ed0998e038ec2483bea70b4e3aef.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Kvark is an retro FPS game set in a fictional version of the 80s Czech Republic. The player finds themselves in an underground facility that is falling apart as they travel through it.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.10 GiB"
 }

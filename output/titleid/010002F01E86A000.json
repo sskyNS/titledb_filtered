@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/81905e16f3801631c9334778347d08726008d060f3e4dc8bde9d99942ecd8092.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Live your own dream about flying. Sky\u2019s the limit!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "169 MiB"
 }

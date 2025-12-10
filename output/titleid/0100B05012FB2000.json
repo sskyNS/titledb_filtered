@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f029dd63fb1b96dcabaa803b3bf0d1388c0935597f794b5917eff44ad8e7ea11.jpg"
 	],
 	"releaseDate": 20200929,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Transfer your mind into a MAG and set out to an epic Action-Adventure with Sci-Fi setting! Aiming to save your daughter, an even bigger threat emerges...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.87 GiB"
 }

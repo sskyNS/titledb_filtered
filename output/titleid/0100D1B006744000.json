@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbbaf141423b0d7f478fe5342d303672fbe73eb385aadb13e9c30907e19842d3.jpg"
 	],
 	"releaseDate": 20180629,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Crash\u2122 is back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.26 GiB"
 }

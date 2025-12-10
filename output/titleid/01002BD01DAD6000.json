@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/97983f7999cce5a44b66dd79958e32f7c759529b2befcec65d9e7e662de909de.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Piece together winter magic in 40 stained-glass puzzles.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

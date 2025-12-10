@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/272ab2697b9e140951a6b0960804947645a269ed13b10dcd92750acc6acae457.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Unleash Bloodthirst skills in an epic vampire RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "535 MiB"
 }

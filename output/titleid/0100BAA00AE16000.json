@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c022f23a92dabf5095acd12908172ea6c060aed5683c9ff1beb7925308fc3864.jpg"
 	],
 	"releaseDate": 20190329,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Experience this true-to-original reworked classic \"Gods\" for the first time with improved controls and frame rate, with save points and an extensive soundtrack.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "675 MiB"
 }

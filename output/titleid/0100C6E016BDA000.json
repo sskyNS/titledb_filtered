@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cc2419aef10a35723a459c7b6c9ccd0e27f8cee1748c1ca2a4b9c35790001d2.jpg"
 	],
 	"releaseDate": 20220420,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "8Doors is a story-driven Metroidvania-style action platformer heavily influenced by Korean folktales. Play as \u2018Arum\u2019, a brave girl that has entered the realm of the afterlife in search of her father\u2019s soul and guide her through the '8 Doors of Purgatory' to solve the mysteries that lie deep within.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.56 GiB"
 }

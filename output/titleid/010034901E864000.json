@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/841d4d1c73cecbc5bd0e8cf27f5422b87e631965ed40cdb9ae2488cce58ce28f.jpg"
 	],
 	"releaseDate": 20240524,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Tip Top Table Tennis features 4 exciting game modes for the whole family!\n\n\u2022 Single and local multiplayer game modes with 4 unique environments\n\u2022 Customisable table tennis bats",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "564 MiB"
 }

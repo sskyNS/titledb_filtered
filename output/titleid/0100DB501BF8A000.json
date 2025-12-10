@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd1500d3e9d4eacd45d7a6e86735859f921edad11386e434292a727c6c605831.jpg"
 	],
 	"releaseDate": 20231017,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Training",
+		"Lifestyle"
+	],
+	"intro": "These toys are scattered everywhere! Can you fit them all back into the toybox? ToyBox Puzzle has 100 colorful levels guaranteed to challenge your critical thinking skills.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

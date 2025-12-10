@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb8512097a15402abc660168b9792b8967f2415e587f0859a5f86e8ab88c3e66.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Along the Edge is an interactive graphic novel set in the European countryside, where your choices impact the main character's personality and appearance.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "762 MiB"
 }

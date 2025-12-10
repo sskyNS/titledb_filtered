@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c16fc8b758bc4a7f841ec5d7263d0ea83b9a23477111ca9a99adac521dcc1311.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Become an average, everyday deer and stretch your neck out a bit.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

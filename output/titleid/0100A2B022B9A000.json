@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/496ab628d2057dccff0b60afe44c5e014099d51167ec06f93897a8a5145110ae.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Action",
+		"Party",
+		"Racing",
+		"Communication"
+	],
+	"intro": "It's time for an adventure in the great outdoors!\nEnjoy the wonders of nature at this exciting summer camp!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "560 MiB"
 }

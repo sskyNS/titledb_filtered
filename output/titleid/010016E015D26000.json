@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/42fffbf9532d2d16eee7cbc27f79556a2c3bb9568713c34d5050d7bd5596bbbc.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "How far can you take the evolution of the formations?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "40 MiB"
 }

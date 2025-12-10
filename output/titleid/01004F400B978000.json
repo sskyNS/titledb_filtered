@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b278933fa04048ef5220545227944d479c59992434defb76cb0cbfc64e3c854.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Join Robb and Otto, two intrepid maintenance robots as they must travel through a malfunctioning spaceship, in an effort to shutdown all the rampaging machines!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "436 MiB"
 }

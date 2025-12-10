@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/57f3c4763f0a13dd0d1885eaa4756f9b49b02e8f520675a171f262f59c681470.jpg"
 	],
 	"releaseDate": 20221019,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Solve puzzles to deliver mail in an utopian atompunk world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

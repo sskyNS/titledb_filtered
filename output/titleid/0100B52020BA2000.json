@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8697187ccff9fe1575962de8a481cd928dea263eee9024babd82cade5bf93ee0.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Run, jump, and slash your way through endless retro action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

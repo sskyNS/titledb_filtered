@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d7f5c8cc9602339cbf2eaeb5695e6a4fffec6a82adc752478194bceff999e4c.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Ultimate endless traffic racing game! Beat crazy challenges and race in a selection of modified cars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

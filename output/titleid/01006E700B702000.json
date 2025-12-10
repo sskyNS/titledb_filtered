@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c7987085700c8d226e2d672a86d7bfb838056962c389efed681cfc63b2d085f.jpg"
 	],
 	"releaseDate": 20180810,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Face off against Davy Jones and his nightmares from the deep!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "828 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d31d056f1f1f2a63d51a0a9ff58bb161e0988c263f5a4d2e99ee5e9e02642d.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Music",
+		"Other"
+	],
+	"intro": "Cats on Streets invites players to spot and uncover hidden feline friends in cities like Tokyo, Paris, and London. Unleash your inner detective and embark on this charming cat-hunting adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

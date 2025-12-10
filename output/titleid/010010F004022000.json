@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/891a7f35c2b4edd8e01beaf733b4c8800ae7a18087522fb6e3545c73a21e0382.jpg"
 	],
 	"releaseDate": 20171010,
+	"category": [
+		"Shooter",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Jump into the world of Touhou and unleash bullet-hell upon your enemies in the 1v1 shoot-em-up Touhou Kobuto V: Burst Battle!\n\nTouhou Kobuto V: Burst Battle is a bullet-hell battle game that takes place in the Touhou universe. Take control of one of nine Touhou characters and eliminate your opponent using bullet-hell patterns, melee attacks, or spell cards!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.31 GiB"
 }

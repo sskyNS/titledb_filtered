@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ab730d0b59a01687b1221888c430088441df47576f6d28608c4eee4a1661f13.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Play once again Bem Feito, the great classic originally released for the handheld console JOGAROTO in 1999!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "888 MiB"
 }

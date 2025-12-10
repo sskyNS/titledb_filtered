@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e7e8fff249cbe75a3fb5f3ec3f23c9c0922906ed9e0f7f96ccfa9b2994b2d5c.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "A dinosaur hide-and-seek endless runner with reverse platformer mechanics.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

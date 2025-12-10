@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb7e1eaa36a78c89cc32163df2f7d85bfe78c43fb837ccf1379762864945442d.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Three, two, one - STEP ON IT!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "859 MiB"
 }

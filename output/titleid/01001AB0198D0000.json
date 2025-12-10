@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f463f9d640c1bd806979eae56f2f084967e539d6e33a33eb66e90d423f74430.jpg"
 	],
 	"releaseDate": 20221031,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Party",
+		"Other"
+	],
+	"intro": "Have fun and relax in Pixel Paint. Choose from a wide range of drawings, and expand your pixel art gallery!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

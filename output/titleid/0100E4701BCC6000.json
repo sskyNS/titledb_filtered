@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbc19e6676eced6107bc461ca98a36b96194674c8906b32163588744bf7056b5.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "An action game featuring the adventures of Michael the bear!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "80 MiB"
 }

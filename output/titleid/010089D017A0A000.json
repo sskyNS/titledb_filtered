@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5806fd36b4ba001f4ea178ca56ddb641f92274ab12999f9ee948b0bec0847097.jpg"
 	],
 	"releaseDate": 20221129,
+	"category": [
+		"RPG",
+		"Action",
+		"Puzzle",
+		"Sports"
+	],
+	"intro": "The world might as well be over - Soccer Inc. has closed down every local stadium, team and tournament. What kind of world can survive without the beautiful game? ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.13 GiB"
 }

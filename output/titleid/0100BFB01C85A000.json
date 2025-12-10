@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffbcccce39a849b8c83fd7b80ed6984bb897a57a031f93abd32b2f39e229e932.jpg"
 	],
 	"releaseDate": 20240329,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Welcome to the juicy world of Fruity Puzzler, where vibrant colors and brain-teasing challenges collide! Dive into a refreshing gaming experience that will tantalize your senses and stimulate your mind.\n\nEngage your problem-solving skills as you match, slice, and strategize your way through each level. Featuring a cornucopia of colorful fruits, from succulent strawberries to zesty oranges, Fruity Puzzler offers a feast for the eyes as well as the intellect. \n\nWhether you're a casual gamer looking for a relaxing diversion or a seasoned puzzler seeking a new challenge, Fruity Puzzler has something for everyone. So grab your virtual fruit basket and get ready to embark on a fruity adventure like no other!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "144 MiB"
 }

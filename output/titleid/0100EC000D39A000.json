@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/278d84cf228b0b87bde52484eb4c31c5713dbde9ce5ac272be602986beec62d8.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The Ministry of Silly Poses in Sumo world",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "365 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3394cd73d536010ae5c40808861280838b3afb70f195b071df57831c88ac2bb1.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Return to the world of Slaughter, a gloomy place where anarchy and lawlessness reign. ",
+	"languages": [
+		"en",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.92 GiB"
 }

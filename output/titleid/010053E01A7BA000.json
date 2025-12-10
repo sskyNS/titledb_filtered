@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6430e1ecb1ac901d2033e1fc553fbae56648d62d4316cbb1a1a983b29b6008f8.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Super Alloy Ranger is a 2D side-scrolling action game. Play as Marksman Kelly or Combat Robot No.2 to challenge different levels within the dangerous Machine Empire and unlock new we",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bbf4b38b33886ed861c7d90011b7a7f35166c3a44adb277ade572e79cb68d67.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "A mystery-thriller puzzle adventure about finding a genius boy. \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "391 MiB"
 }

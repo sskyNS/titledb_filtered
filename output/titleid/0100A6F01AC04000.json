@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/542c4f415f80227ddbb60a33a80d79c0425501b394f0eb0ff63ca4fbfdf73642.jpg"
 	],
 	"releaseDate": 20230313,
+	"category": [
+		"Education",
+		"Study",
+		"Other",
+		"Simulation"
+	],
+	"intro": " Interactive classic stories for all ages.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "617 MiB"
 }

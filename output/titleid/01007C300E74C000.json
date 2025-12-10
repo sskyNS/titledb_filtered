@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1eb181e0565e6a375111e575d99d938413828a992a76311393d35ae6f22e20b.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Can you craft, mine, and build your way to survival?",
+	"languages": [
+		"en",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

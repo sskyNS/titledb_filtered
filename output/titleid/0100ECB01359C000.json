@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ee79566002d86156d16857e2bf1944170de3a2de50c14d8011ee51a301bea56.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u3042\u306eVR\u30e9\u30fc\u30e1\u30f3\u5c4b\u30b7\u30e0\u300c\u30ab\u30a6\u30f3\u30bf\u30fc\u30d5\u30a1\u30a4\u30c8\u300d\u304c\n\u6700\u59274\u4eba\u3067\u697d\u3057\u3081\u308b\u30af\u30c3\u30ad\u30f3\u30b0\u30b2\u30fc\u30e0\u306b\u306a\u3063\u3066\nNintendo Switch\u306b\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "685 MiB"
 }

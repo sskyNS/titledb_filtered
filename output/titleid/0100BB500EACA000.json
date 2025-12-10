@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/781585ae462ecd66968a30d709832211da46c73ab74eb3afeb1ecf38b3d053a1.jpg"
 	],
 	"releaseDate": 20190924,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A Jedi outcast struggles with his past, his enemies, and his destiny.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

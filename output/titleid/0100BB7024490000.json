@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bd8dd17301096dd69952eca8d90b2c94dbb9f46cc270f913148bd5a2f11e749.jpg"
 	],
 	"releaseDate": 20250820,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Master the light and darkness. Break the curse",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

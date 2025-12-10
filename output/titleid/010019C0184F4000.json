@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a9c921b80b6a80270b0a298448970f6d4ae5cf684c76d77611882edd062e746.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Party"
+	],
+	"intro": "It's the return of the good old \u201ccave flyer\u201d shoot \u2019em ups genre! Retro-style twin-stick shooter with amazing graphics, smooth gameplay. Couch co-op for 4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.47 GiB"
 }

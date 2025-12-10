@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cadc15e8f555d41be0dea48982dbefa11da6d8157fd876f1d8677b0cc39904ff.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Bad Chicken is a retro styled sideway scrolling shoot-em-up inspired by the retro classics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "222 MiB"
 }

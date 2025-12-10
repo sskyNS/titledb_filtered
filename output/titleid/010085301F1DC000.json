@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b2ce325f74a8da345e23637c9f2f291919c0ca808394f7492a99cab64f019d0.jpg"
 	],
 	"releaseDate": 20240925,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Engage in rewarding life sim elements and farming mini games while avoiding the undead that roam the nearby woods!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

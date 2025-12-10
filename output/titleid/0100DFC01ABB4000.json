@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/457298c9514d3fea1417357da14b13cb17fd9417e6d1e8dac0e33c60e9dab3ce.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Other"
+	],
+	"intro": "Are you looking for brain games? Get your brain training now! Challenge yourself and improve your logic with this fun mind game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/59c218f6c56fca09053692618af6b0bc0bdb0cb11324736a3fb09128e85fb1e8.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Step into the colorful world of Potion Party, and run your own alchemy shop in this fast-paced party game!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "123 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb8b24b86505fd5bd434dd4aa59e3401820c8a69ecc9834ef75290a35b55e1be.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Play as an adorable chicken in this relaxing platformer. Jump, climb and solve puzzles to find the answer to the ULTIMATE question a chicken can ask...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "438 MiB"
 }

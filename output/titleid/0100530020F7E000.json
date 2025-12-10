@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cef9c6bf69185c1f79b883850605e33e8ddd1327464ebc58d1845d796eb26ae.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Don't let anyone eat you. Run to save your life!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

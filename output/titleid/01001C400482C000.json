@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0598bf93be598c7a2bf44927afe263d230ae69e2449dd8e5f92977d80e9d59d1.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "All gas, no breaks in this non-stop puzzle platformer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

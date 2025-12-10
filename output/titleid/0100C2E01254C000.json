@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9989f44ad07df4b7d78b76496ef3c1f6c88a359cc6a09996abb244b4203c05b2.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Lunistice is a 3D Platformer created with simple but fun gameplay and a cute retro-inspired artstyle in mind. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "818 MiB"
 }

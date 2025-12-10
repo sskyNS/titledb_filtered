@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ecf7f234876c7db55c8aaeb53abc9d793e21b6582b823fed4046c35ad766629.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Show other countries, who has the best team on the planet, win the champions cup and become a soccer star!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

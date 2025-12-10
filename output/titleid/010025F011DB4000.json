@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e48949c4873d6e58e4a9ba202b2c0a906721a4226c11a625725f431f8be69eb.jpg"
 	],
 	"releaseDate": 20200923,
+	"category": [
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Orbt XL is an intense, addictive and fun 'just-one-more-round' score chaser. Using only one button try to avoid obstacles and not get sucked into the black hole.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

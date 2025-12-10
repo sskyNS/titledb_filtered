@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/80bcd98c6b40db0e5d4c9f79ef112fdece8c06db32911f0cac6fd948bd9da2c9.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Welcome to Palia, The Cozy Community Sim For You and Your Friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.86 GiB"
 }

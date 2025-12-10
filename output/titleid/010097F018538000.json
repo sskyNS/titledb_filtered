@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe8afc6b0e1191c47bef1928d2bc01c82463c1f3722bbeb2da8274330dc9f6cb.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Dive by day! Serve by night! \nThe best diving, harpooning, action-adventuring, and sushi restaurant managing experience you'll ever have.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.00 GiB"
 }

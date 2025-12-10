@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f08e1409794af90b7ffc3a8f74f3cfb8a0ba2b19267293bc2bcee3b2f26b20d.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Four Gems came into existence when the universe was created, mankind harnessed these to create the ultimate \"Aeternum Gem\".",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.32 GiB"
 }

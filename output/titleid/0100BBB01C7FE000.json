@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5341355c5e82769ac6129c2dcc94df6b7786c43f2f8fc36707fc50dbdaf7a20c.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Seoul, 2045. Climb the Kukuru Tower, a giant structure with an unfathomable width and height, facing the truths about the city at its pinnacle.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

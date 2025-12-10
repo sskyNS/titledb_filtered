@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e879d2fde553844c5de28be819cc6e61e047faf6decc74080c8d29d11a00663b.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Get ready for an all-new hardcore multiplayer action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.80 GiB"
 }

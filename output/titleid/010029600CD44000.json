@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/30799f6aa14e9769553f4eb5bb66066622bc8252e21a7c3b17e0c1ebb759e635.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Action"
+	],
+	"intro": "Test your puzzling skills in new ways using\ncolors to complete logic PICture-puzZLEs!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "398 MiB"
 }

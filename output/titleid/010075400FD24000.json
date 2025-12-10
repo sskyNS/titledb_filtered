@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e05775ad30dd280aa77051d0c8dd1d106cf14b18f2e491ce15ff559c1c3fd0a4.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Control a cuboid, see things from different perspectives, and overcome impossible terrain in this unique and innovative isometric puzzle!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

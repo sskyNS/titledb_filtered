@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f791cf184400f2f6492354e4ae4ad62bdd01592ca8339a6ec9af65f6cdc3404.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Immerse yourself in 40 years of video game history and experience the classic BOULDER DASH\u00ae in an epic anniversary edition!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "669 MiB"
 }

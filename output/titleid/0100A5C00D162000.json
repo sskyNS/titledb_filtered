@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7a66066dacc849b6ed5cb800befb356c5866b0d3492098f39ce16dbad8018c2.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "The all-cartoon Magical Wondergame!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.55 GiB"
 }

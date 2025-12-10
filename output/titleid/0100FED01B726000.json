@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9ebc40adf791cb7ece53c6e1034bb5fb1e7b8653005d1bc87bdf3b71a702083.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Take on ferocious bosses in this dark Sci-Fi boss rush title!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "784 MiB"
 }

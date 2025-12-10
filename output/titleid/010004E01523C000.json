@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ac41fd16c371c3108b58e7dceeb956aeec76b7940984a4cd0d05ab3598b4ece.jpg"
 	],
 	"releaseDate": 20211209,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "264 MiB"
 }

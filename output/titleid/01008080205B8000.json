@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6523088c64049098adf5cae0a1b0e9e364fc30a14895dfebe270c137fa3be59a.jpg"
 	],
 	"releaseDate": 20241102,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Unleash your skate skills and hop to new heights with Skater Bunny Simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

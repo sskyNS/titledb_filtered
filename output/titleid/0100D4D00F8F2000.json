@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae263ff8e9c53f3738b1fd2ae0caf21f71d826b0db3e988dbda25e7aee069f66.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Love is in the air, but work, life, and spicy ramen keep getting in the way!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

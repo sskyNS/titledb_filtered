@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d21a86ae6c0f90c51a39ecf5d3a72a3957e7460c4541fdefdc6abc674ccaa7.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Create Endless Adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

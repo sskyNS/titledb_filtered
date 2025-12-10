@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/18ee263e28c016ec955d003da86b53f2948dc6e4d0d22506fa579b3e2c97d044.jpg"
 	],
 	"releaseDate": 20200911,
+	"category": [
+		"Action",
+		"Party",
+		"Racing"
+	],
+	"intro": "Doodle Derby is a devilish physics racing platformer inspired by smashing all the stuff from your childhood toybox into each other. Anything is possible in the least realistic car game ever. In Doodle Derby you must build the track before trying to reach the goal of the level. Complete your new cool track additions and push your luck! Can\u2019t do it? Rebuild it. \n\nDoodle Derby offers a single player campaign of ludicrous puzzle challenges next to some friendship-testing multiplayer modes.\n\nBuilding tracks in Doodle Derby is easy and quick. Choose from over 40 of the craziest track elements ever seen. Because of the endless combinations, no level is ever the same.\n\nIn multiplayer you must make a plan and wreck everyone else\u2019s. (Like with a wrecking ball, magic wand or simply the Hand of God.) Until someone has made it to the finish, the players are looping in a cycle of creation and destruction. Outsmart your opponents by building sneaky paths or outdo the others in cruel fashion. The most devious mind wins.\n\nFeatures:\n- A challenging single player campaign.\n- Online and Local multiplayer for up to 4 players.\n- Race and build the most epic and insane levels alternately until you make it.\n- The Doodle Derby level editor: Design your own levels, then challenge your friends to survive them!\n- Monster Apes! Rockets! Piranhas! UFOs! About 40 track parts and 60 million (unverified!) combinations!\n- Groovy soundtrack\n- Lots of secrets to explore. Unlocking new cars, obstacles and levels! \n- Destructible environment incl. strawberries and other fruit.\n- Background art so wicked only kids could have drawn it - which they did.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "261 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/eebb8cf0223a84cf0ac68e0cfc8bab862ef93800f3b8dd98c6a9326d4c318712.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Immerse yourself in the Lovecraftian world full of eldritch horror and set out on an expedition into the unknown in this beautiful visual novel. Will you finally understand your father's obsession?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "476 MiB"
 }

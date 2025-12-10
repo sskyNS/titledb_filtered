@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c64335bc3ea8aa8b13c9842ee11913fdc403b0f2b233b8a836dfa70ac0f800a.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Training",
+		"Other"
+	],
+	"intro": "Slice multiple objects made of kinetic sand in the most satisfying ASMR cutting game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

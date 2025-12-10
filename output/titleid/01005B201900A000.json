@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cec8e4dd06c415b9ec3a276a29cd5bf34b6be57ca468c0b9f71e52e31c62a43.jpg"
 	],
 	"releaseDate": 20221125,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "You win? You choose!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "864 MiB"
 }

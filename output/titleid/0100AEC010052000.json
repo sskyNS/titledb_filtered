@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/8042d37568d649e6bf9dfa2709e4167d8fe02a52a2b219e904a00630b862e540.jpg"
 	],
 	"releaseDate": 20191115,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Inspired by the 8-bit games and by the movies from the 80's, your goal is to blow things up, defeat aliens and fight bizarre bosses in this platformer 2D with classic mechanics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

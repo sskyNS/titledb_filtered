@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/66d33e2f60430b55104c22d7dd59231366aa57b1c721e7b49cd7d1c8eb78849d.jpg"
 	],
 	"releaseDate": 20240821,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Fight for the future of the galaxy as a cyber trooper in a mix of shoot \u2019em up and run \u2019n gun action!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "144 MiB"
 }

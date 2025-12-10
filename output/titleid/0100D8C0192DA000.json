@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c3f0116f0c4059b622aaf333ca7fa48387c4b59a0ade2c3f65418ef1119a0f1.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Your wildest dreams will become reality in this political strategy and simulation game that shall introduce you into world known to a corrupt oligarch.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

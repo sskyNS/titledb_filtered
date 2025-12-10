@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b22313b6f467375bc4196337798a008d643210140bc4e4153469d4671ee890f.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Puzzle",
+		"Party"
+	],
+	"intro": "To prevent the fruits from overflowing from the box,  collide the same kind of fruit. As you collide fruits, their types change. Let's create big watermelons!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

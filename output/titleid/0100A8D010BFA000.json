@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/176b644cf210188dbaaaa1d8481733eecc1c5cce11f5143b630c9867cfabd34c.jpg"
 	],
 	"releaseDate": 20200316,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Education"
+	],
+	"intro": "The most gorgeous nonogram series is back with even more exciting and challenging puzzles!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "241 MiB"
 }

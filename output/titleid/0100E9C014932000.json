@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf3c1e5b1d3644d4ac7926612edb51f94e6cf057a21bb4ff3b1f05cee076b4ac.jpg"
 	],
 	"releaseDate": 20210411,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "You finally get a chance to leave the city behind for the first time in years and head out for a relaxing weekend hike in the middle of nowhere. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "671 MiB"
 }

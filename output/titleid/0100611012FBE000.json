@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e06ae60b26cde6098a67c72c4485bc9e3f83faa9de95589d8a7406eed37716f.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Racing"
+	],
+	"intro": "In Perpetuum Mobile you take control of the perpetuum flyer where you must reach the highest score ,in infinite procedurally generated levels.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

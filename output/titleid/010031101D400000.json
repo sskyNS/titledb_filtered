@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/881568df0710feef05a1897ff81848ae7210f83350f0fc07f1c1f200deaa7054.jpg"
 	],
 	"releaseDate": 20250819,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Shantae's adventure comes full circle in this long-lost sequel!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "570 MiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c60bd1d0d0bb4fc8aaf3f1cd942f26425ffba73458fe68bbe1e2c75fbb01e0a1.jpg"
 	],
 	"releaseDate": 20250430,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Unveil the Secrets of the Enchanted Paths",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "157 MiB"
 }

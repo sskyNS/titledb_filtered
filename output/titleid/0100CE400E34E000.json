@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c39f74711b9efeb424004895f650a2d19a81f22658954c52aa8183663bef0ba1.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Become the best thief. Gather intel, steal things and sell them to buy hi-tech equipment. Do everything that a real thief does.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.97 GiB"
 }

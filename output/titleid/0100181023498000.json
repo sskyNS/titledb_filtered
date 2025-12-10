@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/15c550ea06ad6869994a9ae50a8751d341c6b3521f62ef0a5d1599e75a3801b6.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "a turn-based Sci-Fi strategy game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.21 GiB"
 }

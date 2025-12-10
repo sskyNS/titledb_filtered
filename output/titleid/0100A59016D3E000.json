@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f07d2bba301dd33cacaf5c07f0a6657b4593d2fa7bb7599424a4f35176e2f421.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Party",
+		"Simulation"
+	],
+	"intro": "Hand-painted hidden object adventure\nDelightful exploration with numerous Easter Eggs to uncover\nA wholesome and cozy journey to Venice",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "543 MiB"
 }

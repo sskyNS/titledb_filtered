@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/00765ae8c95609953665d0fbc668a4db95c2b451dfce7ea6ad060f6a679d6460.jpg"
 	],
 	"releaseDate": 20190617,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Fast-paced naval combat party game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "463 MiB"
 }

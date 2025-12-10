@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aedc6e871b57a53747fe89a474d67427a4107c524998d984c2ae9bdda30eac8a.jpg"
 	],
 	"releaseDate": 20250121,
+	"category": [
+		"Lifestyle",
+		"Practical",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Build your dream market and welcome your customers!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "475 MiB"
 }

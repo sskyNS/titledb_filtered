@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8402c97f5a2dce2af73ff4058aa8fe9e550d712d2375b80daf717ca5c8b6edc.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "It's midnight, you're dead, and got a bad case of the munchies.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/11047dc5e4b346f0b65ccf702116f2c2e7ca10d6ede93d3317bdc22f9a2e25b4.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Join Margo on her quest to discover the joy that food brings to others, and the memories gathered around sharing a treat with loved ones!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

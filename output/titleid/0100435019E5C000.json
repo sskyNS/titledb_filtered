@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/545c76ee5e8963ae6533cba8a5aa4493fc9cebbf5f120083f2390afdb08d6f42.jpg"
 	],
 	"releaseDate": 20231004,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Practical"
+	],
+	"intro": "Learn Words - Use Syllables is an exciting mix between a word and a trivia game. More than 100 levels with 8 Languages to learn. Now available on the Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "636 MiB"
 }

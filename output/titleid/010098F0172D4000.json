@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cac694fb09783a15fb81c6466e2745557251b35af68009ca329dc7733c2c3eb.jpg"
 	],
 	"releaseDate": 20220920,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Cyberpunk JRPG with turn-based battles and beautiful modern pixel art.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e87ffc9d1c046ed31fb75f0c201709983d3eedf8afedce49ef3595fe761e6ce7.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.29 GiB"
 }

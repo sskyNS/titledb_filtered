@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8810a40c4cfbb987a4af198d7d0d9dd179342c1269c71599166daf1b6e197ba7.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Explore the Hello Neighbor house with your friends, but beware - one of you is the Neighbor in disguise. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

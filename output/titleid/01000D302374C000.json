@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6cf9f596fd11eb077e9ff1d28e1d296493b607f0c1ae82165931094c67159c2.jpg"
 	],
 	"releaseDate": 20250517,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Design. Serve. Expand. Become the ultimate tavern owner.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

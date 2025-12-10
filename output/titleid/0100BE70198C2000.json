@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb298872154fcabd29195e2c7da7a861ea554c4c9f565d93cc8255511fbbde2f.jpg"
 	],
 	"releaseDate": 20230610,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Play as a tiny lil' mushroom who's lost in the forest and can't find its way home",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

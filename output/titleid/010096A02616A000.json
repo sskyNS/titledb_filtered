@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/58dbb22fc4c79a2bac2c2aad9f20b574196e8b2319cfcbc3bed408211ed600f6.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Party"
+	],
+	"intro": "Which country does this flag belong to?\nLook, choose, and remember! A quiz game that lets you explore the world while having fun.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

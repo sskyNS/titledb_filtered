@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cf49a6d876d05203618be7671fa34fdda6b57171b1254e0c269049b1bc1ee89.jpg"
 	],
 	"releaseDate": 20200406,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Enter the mythical world of Ancient Greece! Meet your favorite gods and heroes in this breathtaking strategy time-management game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

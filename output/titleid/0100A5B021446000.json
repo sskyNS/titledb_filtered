@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e28b789c9eae7693a69d54b042857a0b7bacb771370c784bb4b3f17fccc7b776.jpg"
 	],
 	"releaseDate": 20250527,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Howdy partner! Welcome to Cattle Country, the Cozy Cowboy Adventure Life Sim. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "822 MiB"
 }

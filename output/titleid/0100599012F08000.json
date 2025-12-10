@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b90ad3fb7cf591bbe0e3f2379115cfcb1b3ac388f8e76655de6ae177ea2914da.jpg"
 	],
 	"releaseDate": 20210219,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Join the Crystal Gems for the ultimate RPG. It\u2019s time to Unleash the Light!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

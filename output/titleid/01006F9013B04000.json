@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f347af9fcb83d45a02f55f3e5c8428eac3caef3befacf0896d2675d9f73032d.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Halley's Comet is on a collision course \nwith the Solar System! \nYou've got to stop it!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "39 MiB"
 }

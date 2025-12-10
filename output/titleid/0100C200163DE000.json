@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b74fafaf4fea51c2ddcefb6c795bacfd51382cd8049d805afc1c4b04482862d9.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Training"
+	],
+	"intro": "A girl drawn in the oriental art,\npuzzles made of brushstrokes and blanks,\nand the secret tales of the Nine-tailed Fox",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "935 MiB"
 }

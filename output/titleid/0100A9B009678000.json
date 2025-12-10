@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9529f8abd6928d6794e039d26bc2cc2607991c5e44790a4fcdbc8b24f5876f4e.jpg"
 	],
 	"releaseDate": 20180322,
+	"category": [
+		"Music",
+		"Action",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Set out on a journey to eat more and grow stronger(?)...\nFood Gobbling Rhythm Game now available!!!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

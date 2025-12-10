@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9541b41d0f8d0e343606f2db84e77a63162978d8d769eeb6ca410e7f84b54b46.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Music",
+		"Other"
+	],
+	"intro": "Immerse yourself in the ultimate arcade guitar experience and get lost in its rhythmic beats and beautiful audiovisual effects.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "470 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a712c9ca959a00cdfbf10ae01a926a31b8be908e51f9ee1d09afb263badd6c08.jpg"
 	],
 	"releaseDate": 20250625,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take to the skies as a team of cute pilots and fight for peace in vertical scrolling bullet hell style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

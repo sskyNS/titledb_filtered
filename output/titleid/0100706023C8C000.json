@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/177a48d09ddd683f8e6a856703c2f9ed90b8520cd44dec82caf08c1d9bdae7e3.jpg"
 	],
 	"releaseDate": 20250830,
+	"category": [
+		"Action",
+		"Shooter",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Equip weapons and dominate every fight.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "773 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c8f5f9ab0a155606570d9da9a08f6fce458378439df16bb0f55faf7aa95c923.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Discover the world from the eyes of a fox. Explore the unknown and rescue your captured friend.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd3c0557e42c2a18be73ef1ab0fcd552a3ab35697a884cf7564cc983a0d004ef.jpg"
 	],
 	"releaseDate": 20191025,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Embark on a single or multiplayer survival adventure made of meaningful encounters with others...and yourself.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "543 MiB"
 }

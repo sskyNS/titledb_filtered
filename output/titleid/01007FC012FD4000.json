@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b87a0c4bfb5956e2cf719ba9e611a3d4575b18c733bb5e22c873769915745209.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Action",
+		"Party",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Manipulate the ground for victory, for honour, and for shiny crystals!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.09 GiB"
 }

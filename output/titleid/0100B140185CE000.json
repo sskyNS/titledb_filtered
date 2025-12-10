@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b098ba25d2c703e4d33b7e1fb88542520ceba37ba7b36376a3cde8cab5991287.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore breathtaking locations, restore priceless treasures, and help out the various residents of Mont Cache!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

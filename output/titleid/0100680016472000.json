@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a1a96767eed5d0728c62d599f1de0e0a8309ea76bca11c9eac5f13a0ce4ed83.jpg"
 	],
 	"releaseDate": 20211126,
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "An off-grid cabin.\nA tech-savvy loner.\nOne ray of sunshine in a bleak, ruined world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

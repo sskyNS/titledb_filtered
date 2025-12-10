@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2adf9b85f547a9a1af7dec06433f5fb589d9453acd4546d3d3481b3f5a62cda5.jpg"
 	],
 	"releaseDate": 20230809,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Harness the powers of the Noaidi Drum to fight against a spreading disorder!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

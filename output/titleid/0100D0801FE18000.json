@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2703e438e01924221ec0d4c9d01e0ccb3248cad1c62438dd3bc47ad315f5f00c.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Erogods: Sunrise - is a dating simulator with feminized Japanese gods.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "734 MiB"
 }

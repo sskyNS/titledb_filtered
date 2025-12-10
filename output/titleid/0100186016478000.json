@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d101e1c381f599818f358373c803bee3db31670fa1752ec707dcf7a1f84b20c.jpg"
 	],
 	"releaseDate": 20231205,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Explore the known and unknown galaxy with a ragtag crew of eclectic new friends in this narrative management space opera.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a694cce9ede29dc905ea5bb22d7431bfa70f2246adb536cdb8e4b725c3bff32.jpg"
 	],
 	"releaseDate": 20181123,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "The Brave Stump sets out to chase lumberjacks through which he is no longer a beautiful tree. Guide Stump through five lands, collect lost leaves and help him regain his former shape.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "737 MiB"
 }

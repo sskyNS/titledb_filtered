@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2c17bfd6e69f0e114c5555c3dbef117fddcc45c4dc72e35862335c09d8fd0dc.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Build your bridge to race to the finish line!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

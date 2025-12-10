@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ca3c13283c14ea55188c14644f7e852904a0d967fba5445cf394e4dfd70d18f.jpg"
 	],
 	"releaseDate": 20220531,
+	"category": [
+		"Action",
+		"Shooter",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "In this game you will not be playing lightly, you will have to develop strategies, battle techniques, and skills to survive the air war.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "637 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/abf5bc5a0de0e16c05d4e2384be44d6db785bffe8b6ef30cb9bae51cc7c40158.jpg"
 	],
 	"releaseDate": 20210205,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "What is the truth beneath the masks?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

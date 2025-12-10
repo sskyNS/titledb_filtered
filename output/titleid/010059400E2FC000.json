@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/df50ba7ba21debe22f60936aebf241ec89f8f61fc8e62d08569ca6bc42a3e7bf.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Split your attention, deliver your packages! This mind-bending action-puzzler will leave you cross-eyed as you simultaneously pilot your two delivery drones.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "312 MiB"
 }

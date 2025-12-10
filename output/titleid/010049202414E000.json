@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ac4e472f14375f8063e780b495240670cb564fc2c988b37f76281415b962e1c.jpg"
 	],
 	"releaseDate": 20251119,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Arcade machines in the universe of The Last Shot!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

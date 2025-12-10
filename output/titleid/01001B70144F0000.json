@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdf68e697d82fa60cfdd6a61aac326a763eb19e7908f2bf4f89adfe9b9a47f9e.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Music",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A Halloween synth-pop musical about working at a video store.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "287 MiB"
 }

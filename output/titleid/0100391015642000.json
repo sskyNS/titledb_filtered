@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0936dbf0a3c40d7b56576d1acfd7cd1d0025321f6098e752b3237dfcbdcc05e8.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A phenomenal fox in an action-packed adventure!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.95 GiB"
 }

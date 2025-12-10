@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/58e69be24ce0881aec3d00e23d06d2dfc73931d0603979ecc8ac8d3e395f1286.jpg"
 	],
 	"releaseDate": 20170622,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "SET SAIL AND EMBARK ON AN EPIC JOURNEY\nGrow from a boy to a legend.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "462 MiB"
 }

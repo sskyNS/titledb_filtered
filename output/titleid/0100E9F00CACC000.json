@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f936c33a8ccd37c3567aacc00ba6e7e9bc83745d6f8c6b067ee2b4f5ddeb4ce.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Venture through puzzle-filled dungeons to bring the past back to the present!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3372ca90febe8e0f94c3b65bed5beb05fdc622ed4570685412a066050ece9dd.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Communication",
+		"Party",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Team up, cook fast, and master 65+ dishes!\nTravel the world, upgrade your kitchen, and conquer 250+ levels.\nCommunication is your secret ingredient!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.19 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/520dca925bb67041bd7c1e185ce8334de09cc3257b3a4881fa361530d29dabdb.jpg"
 	],
 	"releaseDate": 20241127,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Help Santa to deliver at time",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

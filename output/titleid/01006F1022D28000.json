@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/175705de7bb634ec6774c65799f74b335cc3adaec26adbd8535e50e0bbe4625e.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Platformer"
+	],
+	"intro": " Unique physics that bring amazing maneuvers to life",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

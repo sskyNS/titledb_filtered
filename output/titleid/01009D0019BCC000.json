@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/19813c7581df22f9925c747f500e131f9ab9ea14ebb5d85865357eaec1ae58d0.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Taito's classic shoot 'em up series in one Collection.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "763 MiB"
 }

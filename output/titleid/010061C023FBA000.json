@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d55f6bbc12e2f11115fa97a3516bb0ebb67c78c8ecc92ddc01b07366322854d.jpg"
 	],
 	"releaseDate": 20250829,
+	"category": [
+		"Action",
+		"Fighting",
+		"First-Person Shooter",
+		"Simulation"
+	],
+	"intro": "No glory without sacrifice.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.15 GiB"
 }

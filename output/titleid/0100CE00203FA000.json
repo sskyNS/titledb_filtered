@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d32f0a274672e52465f5722dc4737802ddfceb3aca1cd312252443b0c9646423.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Simulation",
+		"Practical",
+		"Lifestyle",
+		"Arcade"
+	],
+	"intro": "Run the best restaurant in the middle of the city, complete orders, learn new recipes, and improve your cooking skills.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

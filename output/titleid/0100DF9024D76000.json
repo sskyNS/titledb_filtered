@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/010989bae9d4ca5ea89039af57d4f45cb1e7de70d4ceef100f7f5a4fef66b46a.jpg"
 	],
 	"releaseDate": 20250823,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "A peaceful island experience\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "167 MiB"
 }

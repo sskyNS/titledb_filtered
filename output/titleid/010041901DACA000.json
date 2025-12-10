@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/832621aab16de4547112511144ac09f123e002ef7e934687797ce4e27852989e.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Search for clues and discover the truth through \"Fantastical Mystery\"!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e7012bb706b610c219a6730bfae7171688bc549353d71192f6f0499207a1cec.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Travel across Cubold and take full advantage of your resurrected, skeletal body by swapping out body parts and acquiring new abilities during your adventures!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

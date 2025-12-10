@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/73157b02fb223b8f87f60e9a14beb7634f542347ab865dab719c80d1f4bad5f0.jpg"
 	],
 	"releaseDate": 20250430,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Humanity\u2019s fate rides with you in this vertical co-op shooter, offering accessible, action-packed gameplay.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "160 MiB"
 }

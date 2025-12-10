@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fc17049a085b215ee9f29d02877bd0891d116c618d459f3762e72ee40c8041a.jpg"
 	],
 	"releaseDate": 20190926,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Save the galaxy in this classic shoot'em up game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eded5af6fdd68e3ae406a52ccf1eced12b6ec66da08a80fb83c10d108945c2f.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Bite, gore, kick and throw!\nLet the victor\u2019s roar be heard!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/275f6be88880e25640ea82c20bf94a42721d98d5fd866859981c10debc98b4f4.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Play as the Alchemist - as you survive this wild ride through a robot-infested tower. Unlock powerful spells and acrobatics to blast your way through the mechanical horde!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

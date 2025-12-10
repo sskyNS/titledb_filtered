@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e01cfb1e471ab8dc121f0a709dbbc81cda005d90b0569d03d288ce78946fc17f.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Disclaimer: If you own Shovel Knight: Treasure Trove, you will NOT need to purchase Shovel Knight: Shovel of Hope separately. This title is included with all versions of Shovel Knight: Treasure Trove.\n\nShovel Knight is a sweeping, classic action-adventure game with awesome gameplay, memorable characters, and an 8-bit retro aesthetic. It's a hot mashup of new and old! You play as the eponymous Shovel Knight, a small warrior with a huge quest. Shovel Knight has come to this land with two goals: to defeat the evil Enchantress and quest for his lost beloved. He wields a Shovel Blade: a multipurpose weapon whose techniques have now been lost to the ages. Always honest and helpful, Shovel Knight is a shining example of the code of Shovelry: Slash Mercilessly and Dig Tirelessly!\n\nBut, between Shovel Knight and his beloved stands a cadre of villainous knights. These terrible foes, known as The Order of No Quarter, have been dispatched to prevent Shovel Knight from reaching the Enchantress, and will pursue their mission at any cost. If you love games with perfect platforming, beautiful art, infectious music, lovable bosses, humor and levity, and real heart\u2026 Shovel Knight is for you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "173 MiB"
 }

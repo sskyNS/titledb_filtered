@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0ab6c5bcc7ad8fe3d6fdcc2ab353f2eaadbdc3290496c0084300d37ce2c5ba4.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Solve 300 jigsaw puzzles of Wonderful Nature, Amazing Animals and Greatest Cities. Choose puzzles from 30 to 600 pieces and play solo or together up to 4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.51 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/89dea2e80fd753da9f8e6e78eacf201f33c73fd08cf27e97f15f8a3db6d9a2a4.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Beautiful as a cherry blossom, deadly as a samurai!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.64 GiB"
 }

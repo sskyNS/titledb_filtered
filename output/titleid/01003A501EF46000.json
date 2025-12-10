@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c23f4bc2bb1e6a82093df71315a27ce5b41d329b041e1814f8464ca9955f12f.jpg"
 	],
 	"releaseDate": 20240512,
+	"category": [
+		"Arcade",
+		"Party",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Break, Build, Compete: Unleash Your Inner Crab in a Tropical Adventure!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

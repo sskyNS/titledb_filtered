@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/70b21c88440b9f3c4f609e092d13e0847c3f501f5dd5e380a2485b858fcf7e91.jpg"
 	],
 	"releaseDate": 20231222,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Embark on an epic journey into the depths of a pixelated realm in our thrilling 2D dungeon defense game!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

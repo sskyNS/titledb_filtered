@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa531835752b27ed708108671f3b3f7b6c338d3f28b119f1f737de42b379b557.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Take up your blade against the wicked Lords of Ire.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.09 GiB"
 }

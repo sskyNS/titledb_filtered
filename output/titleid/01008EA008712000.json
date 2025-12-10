@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/601b8d54479faddf5107e3ceda0237988083944a9026b72ad98c16d8d7bd6f76.jpg"
 	],
 	"releaseDate": 20171221,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "An outstanding space shoot 'em up! Master of multitude of items to defeat the alien threat!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "99 MiB"
 }

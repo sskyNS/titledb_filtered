@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a169cbb90e7a3bb1fab0cdd083fe2674b02ba81f3dafbd04459daf6c55bec4ca.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Join Asterix & Obelix in a brand-new original story in\u2026 Hibernia! Explore this crazy action-adventure in a local coop mode up to 4 players !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.24 GiB"
 }

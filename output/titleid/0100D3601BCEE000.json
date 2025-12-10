@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f29f514f7180a46632d163fd4ad925c3d18099086c720f9a15a7626dee4f822.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Abathor is a 2D arcade action platformer for up to 4 players.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.01 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f254932a3045afe8adf6ef1f1c3ee7d67ae6e55066155bda0433b5405515ac7.jpg"
 	],
 	"releaseDate": 20210622,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The legendary Alex Kidd returns with Alex Kidd in Miracle World DX!\u202f\u00a0",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

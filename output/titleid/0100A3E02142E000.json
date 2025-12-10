@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e518b6f0bbfcf21ba0d918f95f4aff6a80349dc10bb94b2506f1ec61b9e259cd.jpg"
 	],
 	"releaseDate": 20250321,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Aim for the winning SENKYU KING!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "272 MiB"
 }

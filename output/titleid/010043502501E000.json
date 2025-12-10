@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/40f28444e499033cf5a0cf5bebce1296e10d03dd1b2bef7b3fb4cb348bc104a3.jpg"
 	],
 	"releaseDate": 20250823,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Explore the Kingdom!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "462 MiB"
 }

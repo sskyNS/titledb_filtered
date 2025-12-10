@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/97452f4c85f6b9440deb61aba8914281eb726e1c75c13d8cc972e4bfc0a54953.jpg"
 	],
 	"releaseDate": 20221028,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "In the 1970s, a totalitarian regime known as The Ministry ruled with an iron fist. They committed numerous inhumane and sinister acts during their reign, but those days are over, as they now aspire to join the European Union.\n\nYou play as an agent codenamed: \u2018Desmond\u2019, sent by The Ministry who is tasked with retrieving and destroying classified documents from the Oack Grove estate, that reveal the horrifying activities that happened in the past. Your journey, however, leads you to an unpleasant and gruesome discovery \u2013 Project Alpha.\n",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

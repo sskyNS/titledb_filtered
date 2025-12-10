@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e77a9a1a025380688c167bce3ba56730fa194f1380ff39ca2cb912d3b9965f80.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Even at this moment, our fashionable city is under assault. Baggy pants, dull suits, sightings of socks with sandals. A message needs to be sent, and it needs to be sent in style... ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.98 GiB"
 }

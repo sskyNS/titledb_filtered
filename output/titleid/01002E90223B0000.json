@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/828aede3e5cf0f8ddadf2947f338204ad3b498bf50cbab2f420c357d65059edd.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Team up and take flight in this old-school co-op aviation shooter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

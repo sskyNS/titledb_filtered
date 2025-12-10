@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad3552d54b7076b9429bf033bf707516c92bbba4a0838d5ec257f01698af1c2e.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Action",
+		"Shooter",
+		"Party",
+		"Other"
+	],
+	"intro": "Bulanci is an action multiplayer and easy-to-play party game where you take pillow fights with your frenemies to the next level.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.05 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6ce9fd6c05080f8272969f6cdd03642f9e3520d02c850cd645b036a1fb31886.jpg"
 	],
 	"releaseDate": 20251115,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Discover secrets, avoid monsters, and escape the labyrinth.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e577a7475e438a5296f216200da5a9deae877132e4c2f83782de58d8dc008c84.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Cooperatively build a path to guide spirits home.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "594 MiB"
 }

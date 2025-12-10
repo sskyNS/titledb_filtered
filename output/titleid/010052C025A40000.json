@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/58b22b704ce27be9aad30235a5254d7beec6a581cd5bd182d99e9267420eec7a.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Save the Christmas by shooting enemies.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "50 MiB"
 }

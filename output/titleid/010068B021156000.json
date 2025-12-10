@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1a3a2a55390d6744a1273b48bee308fb77a8d3fff1e8020c6e4d9802778be61.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Racing",
+		"Action"
+	],
+	"intro": "Ultimate motorbike racing experience for all ages!\nRock the apocalypse in punk style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.30 GiB"
 }

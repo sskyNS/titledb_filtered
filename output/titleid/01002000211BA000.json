@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d26d14f79068507f2e8afb418be71f9c0c58be4d956b5c0d11baffec2dcd6ac6.jpg"
 	],
 	"releaseDate": 20250131,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Will you expose the secrets, or become one of them?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

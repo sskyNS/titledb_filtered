@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bef0e97d673f9be54ec2610b6f6d333bd42c84aa193834c878fe5039127deb2.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Choose between 3 outlaw heroes and help them battle through oppressing armies of a evil men!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "179 MiB"
 }

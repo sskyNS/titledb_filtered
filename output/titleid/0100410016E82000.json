@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bd96008930e79dfbc5972beee499cefbfb246235f87408a69a7595ea75cb17a.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "An old warrior roams ruined lands on a crusade to make his family whole. Parry, dodge and counterattack nimbly to survive brutal battles inspired by Soulslike combat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

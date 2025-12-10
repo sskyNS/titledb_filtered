@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8312878bc94616830247145b19121610a847caaaf928350cab52ef59901e14f8.jpg"
 	],
 	"releaseDate": 20210119,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Silent Agile Smart \nDemon Slayer",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

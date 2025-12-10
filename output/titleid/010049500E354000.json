@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1814293f2283fda1c01852de8bbd7f832905e2717afe3c1ec01f5f72bac8c2e.jpg"
 	],
 	"releaseDate": 20190830,
+	"category": [
+		"Action",
+		"Arcade",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Use your skills to manipulate the ball, and use the features to your advantage to shoot for a high score!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

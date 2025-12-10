@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1729423ba427389a47c8d35d3cd17d9f264079fc0e2f664f7b8c0290c5866c94.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Original puzzle game\n40 levels, expandable \nSkins for the character",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

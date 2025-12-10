@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d31472607e7b786900615053a88c3bfe59d8de4baf6dfccc33ebc4f0690748a5.jpg"
 	],
 	"releaseDate": 20251230,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Adventure Reborn is a deeply moving adventure game where you make decisions that influence the story of a loving family!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"pl"
+	],
+	"numberOfPlayers": 1,
 	"size": "441 MiB"
 }

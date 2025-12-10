@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b0be431ae1e696db93565e6fff938e43c365793fb907c8ef9fdebfbb55d5e07.jpg"
 	],
 	"releaseDate": 20251119,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Uncover Blackrock Manor\u2019s fortune and the truth behind the family deaths.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9201c478f691f596e2d831f7f1821a74ae4096ae2107a5d35ca9a2607f2b388.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Downwell is a curious game about a young person venturing down a well in search of untold treasures with only his Gunboots for protection. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cef8a15bbfd579b61c35e52f7b9e735fe2d52c09f24102872b571e2214aa49d.jpg"
 	],
 	"releaseDate": 20251013,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "SPINDLE is an old-school action-adventure about death and how we choose to deal with it. Accompanied by a trusty pig, you embark on a quest to learn what it truly means to be death.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "950 MiB"
 }

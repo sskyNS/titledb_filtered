@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3e77a1fddae7cfe2d94f880a2b3ae092cf4b694baa354076d9ee6fd3404cbe2.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Other"
+	],
+	"intro": "\u2018Where\u2019s Waldo\u2019 meets Modern Art in this cozy hidden-object adventure. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "524 MiB"
 }

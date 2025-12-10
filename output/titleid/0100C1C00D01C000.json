@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/80c3ae2dc1c0a0b7527bdc20dc56e89a8235f0fb634c0a83b23dc9bda7bc0a01.jpg"
 	],
 	"releaseDate": 20190319,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Symmetry is a survival management game set in a retro-futuristic, sci-fi universe. Your main goal is to manage the crash survivors and help them withstand the desolate, ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

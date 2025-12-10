@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/07cdb2065ce26861ca6fa78d3cba5ae2b5c6827d42108f633b7f4035e08b9dd0.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Milk yourself while avoiding lawnmowers, butcher knives and sharks at the same time! Beat hundreds of levels and thousand of enemy waves in the endless journey to fill up the milk tank!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.48 GiB"
 }

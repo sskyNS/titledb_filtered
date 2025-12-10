@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e1a97764489565aeee488afc713ab095acec59ad1e0b77c717ef37628320f9c.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Embark on an epic action adventure through the Colony and battle behemothic bird puppets. Play as three plucky heroes with their own unique powers, all in a 2.5D anime art style.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "651 MiB"
 }

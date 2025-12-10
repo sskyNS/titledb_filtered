@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa057ee1b19112bae6f9681afaaa78d22a7b70f24968a2a76f1a3cb021b16f74.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Fasten your Seat belt, You're about to crash on Earth",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

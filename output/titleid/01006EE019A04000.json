@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5a3af276b28922821048e7c9667b68d533ca782e86dfdab1f1481a0563ea153.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Zapling Bygone is a twisted metroidvania starring a tentacular alien.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

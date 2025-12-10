@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd625c5fb9e6c1716b9d0eeb1d2b650d26c5de3a42304614b1f33384a4c9eece.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "TURN-BASED STRATEGY MEETS ACTION RPG IN THIS DUNGEON CRAWLING LOOTER",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.27 GiB"
 }

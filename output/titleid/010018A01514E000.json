@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8547856d5f8e7057fa99f641af0bd91b11925fc68d53eaae63fec2cae1bcfe48.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Education"
+	],
+	"intro": "The finest chess instructor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

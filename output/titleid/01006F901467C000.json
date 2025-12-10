@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f492ef074a27d28986bf2e9c1ec504ce636b0a5afdc5060c360189448d18709e.jpg"
 	],
 	"releaseDate": 20250211,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Anling's days are limited, she must fight to survive, not for herself but her young son, Cody. Ensure Cody's survival in this zombie-infested world that'll touch the hearts of players. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/808d27482faf7a675040838f635d14845d137566ce41c7f022ea2e6cfa48e5e4.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A Reality single play FPS game set in World War II! This time, the airborne forces will be in action in Operation Overlord! Defeat your enemies and get your weapons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d904332c8343a43581aef3c51cd301e3df80fd713c57701eaad35ae2e3602855.jpg"
 	],
 	"releaseDate": 20240423,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "The JRPG is back with a new host of heroes.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "21.70 GiB"
 }

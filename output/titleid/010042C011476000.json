@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/827e8a424dfc503eb975e6b811bdeea1c416e24332f29990452f2f5d1a0af544.jpg"
 	],
 	"releaseDate": 20200923,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "BUILD A TRACK FURTHER THAN EVER BEFORE",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "919 MiB"
 }

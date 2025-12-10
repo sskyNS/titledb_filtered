@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2861a33bb327b92878813068106ea7fe0b01dcc19bca2bdeda69ffe5af103f04.jpg"
 	],
 	"releaseDate": 20220629,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Help the inquisitive girl Viki Spotter to find all the differences and discrepancies in the pictures, which she saw while traveling around the globe.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/30962aa5c99dfe9204a95e97523a19c8b1b057ecf0ccd770ad0590a07d45e9f5.jpg"
 	],
 	"releaseDate": 20201225,
+	"category": [
+		"Arcade",
+		"Music",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "The third phase of CommanderVideo\u2019s soul quest begins in BIT.TRIP VOID.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

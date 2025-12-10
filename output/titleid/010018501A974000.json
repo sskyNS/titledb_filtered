@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f43831fd8adb650189c53091d8b55cf2dc4c5e7c263adaa26cd40ae43fbf8936.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "After You is a narrative game with puzzles created by a solodev",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

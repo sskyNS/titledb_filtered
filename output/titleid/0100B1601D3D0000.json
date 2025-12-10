@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2527999a6ff1ae0252d4dd3575a43a5b5ad99fe75662664ae40acac746eb61da.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Beyond memories, time, and space",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2612f42a2e98ce7876572d3d7ad73139f91fed42f0ea4f654740fc492008dd5.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "retro rocket action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

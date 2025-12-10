@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1704506d1b588a2b35aaf55b17fee9b4205c1e7814fc653624ba1ac261f29ac7.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Classic board game with a Zen style!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.52 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4d3aa4860b33fa5b94e801a3246b4861b237b175f4b2694c094306464333f57.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Explore dark corridors and uncover the mysteries within.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.66 GiB"
 }

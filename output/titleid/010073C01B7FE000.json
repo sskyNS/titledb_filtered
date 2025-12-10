@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2125ad347366c9e3dfcd2727985422f97f40d39ccfa00282d9f26405306b37ba.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Liberate the village of the Smurfs from the grip of the Green Stone!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.38 GiB"
 }

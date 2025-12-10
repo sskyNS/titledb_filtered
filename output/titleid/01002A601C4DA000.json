@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ac8602aa8a82f45f023cd6f7f11ef61e6d4c3e64b0e9a2176e7800e289fa731.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Master Key is a top-down adventure game with a strong focus on item-based exploration and secrets. Embark on a journey to discover what that key could be used for!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "685 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/661fff498df422ab55ce06929c6dca170c564b44ae3dff39e98b6e7b3e9ecad3.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30ec\u30fc\u30b9",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u3042\u306a\u305f\u306f\u4f1d\u8aac\u306eDescenders\uff08\u30c7\u30a3\u30bb\u30f3\u30c0\u30fc\u30ba\uff09\u306e\u4ef2\u9593\u5165\u308a\u3092\u679c\u305f\u305b\u308b\u304b\uff1f\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.64 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/264c6f20c366ef1d261668b2de1b16717069feb520899afa954d0057286c69d1.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Pick up your Boom Ball and smash all the blocks!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "370 MiB"
 }

@@ -7,5 +7,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3eaea53d647d86c5860ccb6f96b2a1e14d4939acf327eb201a70c3a91115f65.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Other",
+		"Board Game"
+	],
+	"intro": "Run your own little fast food booth and serve delicious prepared burgers and drinks to keep your customers happy and satisfied !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

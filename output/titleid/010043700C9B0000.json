@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/05334738514f03255821a9e2fe2f966ef1e980447ae7136d64cca4383183eef0.jpg"
 	],
 	"releaseDate": 20181206,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "A Game of Explosive Railroad Action",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "495 MiB"
 }

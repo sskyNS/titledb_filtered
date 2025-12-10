@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc62d0c84f9ef235a59717942452619c8d7b56c7dee211b407061fa93243da98.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Power up your aircraft with capsules and pallets! \nLet's go through all 23 stages!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/28a8797a298f6a613c52e3b5404abc678384ef865d1ea5a2c94f5473beb617cf.jpg"
 	],
 	"releaseDate": 20180809,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "This is an urgent command! Make a sally with your new comrades and destroy the mysterious terrorist organization! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

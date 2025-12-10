@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1bac2bdd94bce7da1b76369d000c8bd4cfb31bc5987084c9c946fc5946e23ee.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A short & charming action-adventure game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

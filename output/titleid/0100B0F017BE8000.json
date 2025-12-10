@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccc927d263a94dbd46339bae5c54c4f2e5e4e3a21814d39a2af53c9163900b34.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Are you ready for a real challenge? Save the city from the flood and the alligator plague.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

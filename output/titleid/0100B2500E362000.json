@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c2a68db82a270491cad854bc34e97f49b4424b8a62ba9f9efbdb903be5ae9b4.jpg"
 	],
 	"releaseDate": 20220301,
+	"category": [
+		"Action",
+		"Adventure",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "A party roguelite for 1-4 players, set in a delightfully savage world full of epic boss fights, perilous dungeons, and endless amounts of loot!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "866 MiB"
 }

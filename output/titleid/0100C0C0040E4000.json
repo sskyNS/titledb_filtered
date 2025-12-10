@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0fc4573df5072893e32631d2160754a1599dc90d82cf25e8966899a235711878.jpg"
 	],
 	"releaseDate": 20200529,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Play as Adam and embark on a bold adventure with your companion Evelyn to unravel the secret of Eden.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.61 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8cf57892b616a36f9e7cb8c0df74feb5634e68e50098dc6d3d7fb845c104eba.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Shooter"
+	],
+	"intro": "Fortress Defense is an exciting strategy game in which you become the main defender of a mighty fortress, using both ordinary and magical means to repel enemy attacks.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "467 MiB"
 }

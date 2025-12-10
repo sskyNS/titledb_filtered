@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1548f20a0066b2d411d6191ea7ae24440891e2d09cf70914dfbf45c40c7fb69c.jpg"
 	],
 	"releaseDate": 20220802,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Frogun is an old-school platformer with the soul of the retro era, in which your frog-shaped grappling hook is a your best friend! ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "776 MiB"
 }

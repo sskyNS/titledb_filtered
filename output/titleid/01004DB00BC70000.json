@@ -4,5 +4,14 @@
 	"publisher": "BANDAI NAMCO Entertainment",
 	"screenshots": null,
 	"releaseDate": 20180928,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Enjoy fast-paced, hard-hitting action in this port of the 2-D fighting game classic, DRAGON BALL Z Super Butoden!",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 2,
 	"size": "31 MiB"
 }

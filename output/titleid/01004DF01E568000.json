@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ab968e223d46008553e76650d9e88d879bb7327b232ce7a65466d40bd4bfcec.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Wipe, scrub, brush\u2026 And enjoy sparkling clean rooms as a true Cleaning Royal!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "780 MiB"
 }

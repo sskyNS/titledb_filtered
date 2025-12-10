@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f5cc1d5cd4c10d8b634da77148683fdcb05c5c0082193c19385ffe959223921.jpg"
 	],
 	"releaseDate": 20190123,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The latest in goat simulation technology.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.90 GiB"
 }

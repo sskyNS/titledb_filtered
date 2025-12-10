@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/de81655973e5ec3f3bc0bcccd4d66c17facb35f2c4a450593385ba8397c6a3da.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Explore the ever-changing, verdant labyrinth Tangledeep in this turn-based dungeon crawling RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/75a6711bf46cd92de5e8d36e412312ded05689183cff592723debf1c968ad84f.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "\"I am Mr. Elevator. Are you looking for something?\"\nGuided by a talking elevator, the door to a mysterious world of riddles opens...",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "348 MiB"
 }

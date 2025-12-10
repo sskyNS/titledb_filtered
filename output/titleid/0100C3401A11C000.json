@@ -4,5 +4,16 @@
 	"publisher": "Idea Factory",
 	"screenshots": null,
 	"releaseDate": 20230425,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Help Fang and the gang harness the power of song in this comedic tactical RPG.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8f996bc1457296abbab4b70d892ff9b1b09300a4f171ed76bd3369e5d4d6fed.jpg"
 	],
 	"releaseDate": 20180929,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Racing"
+	],
+	"intro": "Get Ready to Roll!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

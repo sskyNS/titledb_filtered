@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b97f6dd66e2f4ff004748b8f3b52d50f56ad018c6c7909a7527377d3d277951b.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Embark on a Wild Journey, Reclaim the Totem",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

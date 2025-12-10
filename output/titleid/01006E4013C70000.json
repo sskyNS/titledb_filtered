@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/685d2301529308e8ecc13bf195315a4a55131f62ad50d3162f078bf20f931bbb.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": " You must solve this mystery or escape for your life in the new Opus Castle",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

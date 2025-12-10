@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0e9198429889da97b45cbc2f0d4672c4d6e5c185b6bf066755d5b5ffb295f3c.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Develop the ability to predict movement in Chess, using a playful and immersive concept!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

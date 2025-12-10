@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5208f72e2f719ebf11fa3841d1ede751df8acc3d72025f154ce73e24f49c6914.jpg"
 	],
 	"releaseDate": 20241002,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Enter the dungeon, defeat enemies and mine for gold!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

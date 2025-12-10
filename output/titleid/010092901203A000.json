@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd708a499d5f01879e209d60e2e54d351819fef85ec2e26cd6275aae4193df74.jpg"
 	],
 	"releaseDate": 20200812,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "You're trapped, alone and cold on a distant planet. Pursued by a droid with only one purpose: killing everything.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

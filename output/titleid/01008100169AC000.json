@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3485a0e3eaa8be45a98858ab83b0922cd084ad49f793aa4e264dd593ac28f85.jpg"
 	],
 	"releaseDate": 20211102,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot \u2019em up!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

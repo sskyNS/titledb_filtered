@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/47ac2e466c942f033c22bfade4eac0429b8370f08a175f1d1a2d342283318bed.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Be Your Worst Self",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.43 GiB"
 }

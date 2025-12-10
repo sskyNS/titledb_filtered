@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/85c303d81d05ab8042371fd340720fc7c1f137d51e86621d7cce75b286fee582.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The classic game of Hide & Seek returns \u2014 with a twist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

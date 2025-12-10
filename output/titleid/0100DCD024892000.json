@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c53d42d7dbbcf55ef220d8bbb1b42651c03c2da1939ac75f32625baee9acf72b.jpg"
 	],
 	"releaseDate": 20250822,
+	"category": [
+		"Shooter",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Eliminate the out of control robots.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "86 MiB"
 }

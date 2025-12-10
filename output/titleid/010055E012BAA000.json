@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/90add133c04f2ebd0ac1acfb744524b1e4e5a060b36c14ee49109b42cdb7ceb9.jpg"
 	],
 	"releaseDate": 20210205,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Enjoy the Casino Experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

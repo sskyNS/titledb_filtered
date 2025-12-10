@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca38d812866fee10a751353af7bafc20c244cb70e6bc6ee732fed273eea2bbdd.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Restore color to the desolate islands of Farewell North, an atmospheric journey where you play as a border collie on an adventure with your human.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

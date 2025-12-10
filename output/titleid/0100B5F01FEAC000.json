@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e9b6f68a82492b31f69ac88aed054ea26d71e9cd0587265efe53a0c1ccd837f.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Fantasy action RPG with swords and magic!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

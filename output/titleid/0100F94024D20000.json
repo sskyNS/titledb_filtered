@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/deb1f09b2dcb20dd016c9c1abb7a548b5e3a4b0cddc32c86ba0ebb85771b8266.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Cultivate logic, harvest stars",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2542fdb13e1291e1082e00d8c2dc28f58f7fe6ce36598ea935b3ca606f128bf9.jpg"
 	],
 	"releaseDate": 20240402,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Unveil the secrets of the Smiling Island in this hand-drawn action platformer",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

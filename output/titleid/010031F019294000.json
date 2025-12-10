@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7827a06b103c006b5ba265af1c99c6260fe84cc986aee724cc34fb6c3c10648.jpg"
 	],
 	"releaseDate": 20240625,
+	"category": [
+		"Arcade",
+		"Party",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Let the Rumble Begin!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.80 GiB"
 }

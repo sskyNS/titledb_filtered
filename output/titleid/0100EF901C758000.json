@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9214662e485c27621c4c547006e7b2746386af6f774ac22a2e6040e33ec75fb.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Hilarious Pinball game based on the Smoots universe with multiplayer!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "395 MiB"
 }

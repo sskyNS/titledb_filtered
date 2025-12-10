@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e3453dafd4b9d6936e3b8afb12cf3678968dc6249cd3c3b83ca9f61936cea74.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Spread the batter, add the ingredients, then flip!\nCook as many okonomiyaki as you can and watch your food cart prosper!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "274 MiB"
 }

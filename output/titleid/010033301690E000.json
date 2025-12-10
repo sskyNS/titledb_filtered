@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/86a63df87a333d78ca891397a15ec4d50c6a9b7636a082e05f210bc4944bda3a.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Build and manage an orbital station of your own!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

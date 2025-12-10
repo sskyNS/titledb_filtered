@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/daef07e8763243aa133a3c26e5ef4cd79533509542580b80d8053adcb4692568.jpg"
 	],
 	"releaseDate": 20230220,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Play as a spaceship in space full of dangers.\nYour job is to dodge enemy spaceships and fuel up new opportunities for you. The game is great for relaxing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "50 MiB"
 }

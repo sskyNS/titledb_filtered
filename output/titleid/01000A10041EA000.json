@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/090429692d021efb94a109c3b43e8700d742cfb36d75d4003cfce9e9495709b1.jpg"
 	],
 	"releaseDate": 20171117,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "Epic Fantasy Reborn",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.89 GiB"
 }

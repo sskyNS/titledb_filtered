@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/031f66c9daeeb117bf9156983a26e701ba131219af520313caa2030426fba148.jpg"
 	],
 	"releaseDate": 20210416,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A procedural dungeon Crawler, escape, deceive and survive!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d86b1fdaccb8810a0005706a8cbd1efc4a182c40a37e12e57044d1c93399f7f6.jpg"
 	],
 	"releaseDate": 20200826,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Action-packed MMO with PvP tank battles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "16.58 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9d53fb64b450284e4dee5e316201b3415c94b02b889f697d645fe8fdb3cc0ef.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Who are you? A human or a robot? Where are you? Is this a factory? When are you? Is this a future or a present?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

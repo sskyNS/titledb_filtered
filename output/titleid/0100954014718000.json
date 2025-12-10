@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8622097c49a94dcd1243e64f96a26f14c0edbdcca4488d9b55d310f4363ea87a.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "MULTIPLAYER OPEN WORLD ZOMBIE SURVIVAL.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "813 MiB"
 }

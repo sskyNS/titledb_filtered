@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/790c09052e3e417fd13d3adb0bc7ca302bb6d332c2e7208f59f8aab4390a4918.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Study"
+	],
+	"intro": "Chess is a very old and very popular board game for logic and mind in the style of the Middle Ages!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

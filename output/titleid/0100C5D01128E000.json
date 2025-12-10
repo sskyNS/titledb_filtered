@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b77931b4041fab082cc36a47678d68f5ebf43ea373914d1da698c9abb32f63b3.jpg"
 	],
 	"releaseDate": 20220208,
+	"category": [
+		"Action",
+		"Platformer",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "OlliOlli World is a bold new skateboarding action-platformer that\u2019s bursting with personality.        ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.91 GiB"
 }

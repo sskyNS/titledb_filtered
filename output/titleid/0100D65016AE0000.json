@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/78183abc194d71687e6a435483e7eebc8b5a36117e4d3884931b62963bd6a9f2.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A room escape, puzzle and adventure game! \nHelp Vala graduate from the Space Academy \nand jet off to Venus!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "161 MiB"
 }

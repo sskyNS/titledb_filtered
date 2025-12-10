@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a3b248b52fc11c1b1edb24f63e434f19fc2e66908d6533a1b12b17f2076aaa2.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Solve 45 beautiful puzzles of magical pets in a setting with magic and knights",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

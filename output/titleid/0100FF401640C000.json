@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/537ce74ac2174e1cc7645ac2f79d0836994d523a522563d8b7feb0074e8a66a7.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "You have five days to save your husband, who has just been arrested by the Gestapo. Investigate, explore and form allegiances in this story-rich RPG-lite. Who will you trust? ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.92 GiB"
 }

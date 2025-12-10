@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/91904fdd010913b7cda9f7aa9d99b5ef965568ee99527cb7217396db12056b20.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Yumetaro is back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

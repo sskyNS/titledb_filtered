@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4dbe9c3369a46aa70864665a9cfd347f89d4bc0764da5180143a490e0b61200.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Retrieve all the light shards back and see where your journey ends.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

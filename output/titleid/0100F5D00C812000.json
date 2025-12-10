@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc060bee6a94eaf4d80d0171bf8199faf0e9989c597d388a65457be5374df63b.jpg"
 	],
 	"releaseDate": 20181222,
+	"category": [
+		"Action",
+		"Shooter",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Hilariously intense multiplayer battle arena! You only have one ammo to defeat your opponent. Miss your target and you will have to pick it back up or steal your enemy's! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "771 MiB"
 }

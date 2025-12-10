@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9da6aa8723dca0cf09a410827af925ec4958be2702fe140b3f6e7a5d589215b.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Plan your every move and outsmart the traps that are lurking in the temple or get dissected in hilarious ways! A hardcore 2D platformer that will mess with your mind!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

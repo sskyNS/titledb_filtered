@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/852156adac6f428a4da22e2bc60c0e74313c60e17229a316488fa9dd5dae7394.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "Crypt of the Serpent King is a medieval first-person hack'n'slash dungeon crawler with roguelike elements. \n\nExplore large, randomly generated dungeons. Fight goblins, orcs, skeletons, giant spiders and all sorts of underworld creatures using melee and ranged weapons. Jump over lava pits and spike traps. Level up your character's abilities and choose between 3 levels of difficulty, from casual to hardcore.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

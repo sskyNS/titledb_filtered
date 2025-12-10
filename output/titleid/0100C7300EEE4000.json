@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/417d5387955928dcc4827c1ad203edf093fd80355d74ae579d71c2c1dab34fa1.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The cult horror shooter comes to Nintendo Switch with three exhilarating campaigns, a heart-pumping horde mode and intense horror action.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.09 GiB"
 }

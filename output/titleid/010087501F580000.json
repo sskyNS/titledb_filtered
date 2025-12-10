@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9cb436d70674f39cf2609cea6725d5b7d088caea4f854843d04cde052e92722.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Work is all about the challenge, escape from work - even more!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "789 MiB"
 }

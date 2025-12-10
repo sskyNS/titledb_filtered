@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f026ec3d641c4b54ff9a61d64cd3782808dac2fbd775e394e311061e95eedbc.jpg"
 	],
 	"releaseDate": 20240405,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The garden plot thickens!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

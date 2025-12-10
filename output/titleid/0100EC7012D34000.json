@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/afeb875946b33c21ca96cd3c5763869595a3a86615c9290aa895ccddd2f6d38a.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Jump into the fantastic world of insects! Avoid obstacles, complete quests and develop your character. Be skillful and let yourself be carried away by the adventure in the grass.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "364 MiB"
 }

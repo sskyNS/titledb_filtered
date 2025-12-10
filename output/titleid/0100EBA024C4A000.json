@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cb799d7065068479490144a5209423874658728863c9a0ff4310da29ff966aa.jpg"
 	],
 	"releaseDate": 20250907,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Will collect all the details and reveal the most interesting secrets!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

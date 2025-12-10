@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca8ccb03febbc41e5e2f91ce1ff58ce34d7c83d6ff5a2b093e21da28d2d5c946.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Blink: Rogues is a fast-paced top-down shooter that brings combat tactics, sharp reflexes and multi-lane combat under the same roof. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.07 GiB"
 }

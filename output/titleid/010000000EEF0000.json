@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b36b07122f2a4b8ac34df656159ce2e4020a6c19c06f8cdcafc221c9b4b5598.jpg"
 	],
 	"releaseDate": 20190806,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Shadows 2: Perfidia is a survival horror game inspired by classics like the Penumbra series and Layers of Fear.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

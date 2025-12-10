@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/78f0b02d34ab9bc9e5231f462bbc9c87b6f77da64b658e0a1027286e64a8a383.jpg"
 	],
 	"releaseDate": 20190408,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Jungle Z is a doomsday survival game",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "417 MiB"
 }

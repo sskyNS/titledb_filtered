@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bd3126a9437b6dedf6f49ada743b220437185862c5b77d2ba04b40f7eaae8e9.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "With a nimble jump, Jack can launch himself into the air, and freely move around the stage!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "75 MiB"
 }

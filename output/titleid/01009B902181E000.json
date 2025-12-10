@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/23ea85ff7a9ddb241be65916b45bc88d72fa3ccfc610973e2847f902e584eb2f.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Put on your Ninja pants!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

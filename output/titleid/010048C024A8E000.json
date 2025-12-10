@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95027f6208bcbecbd93cba53a0a60662b61b222804002ec2dc184d41cee5dd02.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Light the candles and find your way out of this place.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "839 MiB"
 }

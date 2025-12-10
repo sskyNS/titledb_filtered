@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe07693b523135cba6c870b9401e11d0821c1c9cce163595af8547053b876bb4.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Training"
+	],
+	"intro": "A Chess-inspired puzzle game designed by the creators of Zen Chess.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

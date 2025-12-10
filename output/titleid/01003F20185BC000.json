@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/088ff44dddc51d55749e66ccb337b95b361b481aba79b6c71574354398f7937c.jpg"
 	],
 	"releaseDate": 20220513,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore a beautiful tropical island and pass a variety of exciting challenges and trials! Drive a dune buggy, food truck, circus truck and more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "620 MiB"
 }

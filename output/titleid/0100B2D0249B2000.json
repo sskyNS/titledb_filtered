@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f020e1d4f962efcaca2a682a37701ae7efce3954318a23fd5de0027e1a2996f1.jpg"
 	],
 	"releaseDate": 20251004,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Action",
+		"RPG"
+	],
+	"intro": "Enter the combat zone and survive every mission.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

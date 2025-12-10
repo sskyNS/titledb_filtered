@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c506115fffb2b15812ad868e18124e2b0d567c366471de849e928c88f11fe24d.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A point and click, puzzle adventure game set in the magical world of Panmorphia.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "277 MiB"
 }

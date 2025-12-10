@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d95f5a8851c8207bae2b1c75c27dcd534050aafd7ea6db6f7e0f95a130a533c.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A strategic, hardcore shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

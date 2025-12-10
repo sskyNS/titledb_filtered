@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/12df89f6604c05ef86c2022dbe749c6e763d82761ad4d27117a737af44719c75.jpg"
 	],
 	"releaseDate": 20171221,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Greek mythology, frantic races with shoot-'em-up action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "719 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bbac0e5e4c9468e0ef332e96a000cb485d74db3236ad04760c029ff4285fbd8.jpg"
 	],
 	"releaseDate": 20251107,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Leap, climb, and sprint your way through a city swallowed by the flood.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "259 MiB"
 }

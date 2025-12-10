@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/665b74cded78bc5de4c2ab4dceaca8b247cd2306f5a53ad899163657f419178e.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "An old-school platformer with broadsword swingin\u2019 combat and vengeance!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

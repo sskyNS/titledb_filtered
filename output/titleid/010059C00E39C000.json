@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/41291fe52c54ba642b060e31ef8f522ad8ee17125c06dca69b9b38266d20ad69.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "3D strategy game set in the Battlestar Galactica universe!\nFight amazing tactical battles against the Cylons and save mankind.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.48 GiB"
 }

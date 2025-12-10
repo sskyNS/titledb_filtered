@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d04727acd6fc6e7cbdc64c1974933dfcc445b6ad5715390b1ba035e0a6c46078.jpg"
 	],
 	"releaseDate": 20230419,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Return to the indie classic Teslagrad, recharged to provide the ultimate electromagnetic experience!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0283e8d031e403a98db2b233910c4d22857dd6591a8a2e8604f80836a4f32e8b.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Welcome to the Mysterious Grimoire\u2015\u2015",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "910 MiB"
 }

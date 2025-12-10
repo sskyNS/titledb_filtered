@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/edb54d8721d2a5a97e3ab76cbdfb720e440c89320f8dd1635578b17399717458.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Fighting",
+		"Party",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "10 Player Wizard Brawler",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.42 GiB"
 }

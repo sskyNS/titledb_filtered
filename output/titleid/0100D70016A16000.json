@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/844520a82560d6fb27defee83a8cd0601d8af4d5efddf26d5e685e469e95c484.jpg"
 	],
 	"releaseDate": 20220624,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Platformer",
+		"Music"
+	],
+	"intro": "Enjoy the thrill of solving difficult puzzles and save the world at the same time. Avoid pitfalls, bombs, spikes, and crumbling floors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

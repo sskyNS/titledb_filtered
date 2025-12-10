@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c19fe5cd6458400f888356a9f99dcc38ac659dc894288dd938d9276be84085ea.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Dive into the fascinating world of pirates!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "394 MiB"
 }

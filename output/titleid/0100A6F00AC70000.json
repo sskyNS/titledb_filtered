@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/79e9bafdb1f9cb806048b6f8e6a0fb3714e0f0123724d00b238dde14f89b1612.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Let the saga commence in this point-and-click logic puzzler that's kawaii to the core. Taking cues from the classic visual novel set-up and crafts a rich fantasy Ghibli inspired world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

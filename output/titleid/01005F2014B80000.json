@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/79f85005a954081458f50e5d61c39c84cdde650dc4311ec880d6665a4682866a.jpg"
 	],
 	"releaseDate": 20210915,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Embark on a journey with Flynn and his mythical companion Dex as they fight together to save their home Rosantica from the evil in The Scourge.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

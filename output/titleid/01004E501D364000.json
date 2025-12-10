@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d183e3efd853f2d6601318490395d8a0e8606c3f47318e93c6f157262d34b7b8.jpg"
 	],
 	"releaseDate": 20231115,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Embark on an epic journey where you'll boldly defeat legions of relentless zombies, from the dawn of time to the end of days.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

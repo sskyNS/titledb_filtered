@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f9d24ca482f41da7f5c7cb57a6dc48bf6c42ab4053e9e7c715ae83912d57632.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Solve Pixel Puzzles to find clues. Use the clues to interrogate witnesses. Work your way to the truth... and uncover the mystery of Murder by Numbers!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

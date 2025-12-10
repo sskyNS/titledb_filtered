@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/09a86db6b2399856413919ee25fdffaa4b094c21d142aa0489eb75e45c3d7e86.jpg"
 	],
 	"releaseDate": 20190213,
+	"category": [
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Battle your way to the top in Tetris\u00ae matches!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5a3cb6e1724a0e0b05cc155ed2eba7c5e45bf61a54850d4ae8232dae477e279.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Gravity Trials: Underground \u2013 an exciting motorcycle game with realistic physics and spectacular stunts!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

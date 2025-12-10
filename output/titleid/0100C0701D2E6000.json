@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e47ca1483780e25ee4bfd6919d8c99f1b0939919c93b64cd3ac90206bcf68c7.jpg"
 	],
 	"releaseDate": 20231021,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Guess the 5 letter word to reach Heaven",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

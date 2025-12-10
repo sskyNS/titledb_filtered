@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/508c59c936d5191ffea43939ecb8433ece4a5d859c0e13abe1b3e69ee1de8bbc.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Switch through various weapons and take down foes!\nThrilling top-down shooting!",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "428 MiB"
 }

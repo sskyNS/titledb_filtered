@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/56e5563b29c4776a0bb27957f0a10eb77ee0c87576e479968fc28bd63806ef22.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Manage your workers and create awesome stuff as you grow your dream factory!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

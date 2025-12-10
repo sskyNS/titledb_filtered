@@ -4,5 +4,22 @@
 	"publisher": "ARC SYSTEM WORKS",
 	"screenshots": null,
 	"releaseDate": 20251023,
+	"category": [
+		"Other"
+	],
+	"intro": "Double Dragon Revive Digital Artworks includes the \"ARTBOOK,\" which lets you view concept art and other illustrations from Double Dragon Revive, as well as the \"SOUNDTRACK\" featuring all 28 music tracks.\n\n*Double Dragon Revive Digital Artworks is a separate application from the main game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "384 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9c289ee4844e6bccda614fd5b177e7b8e7be0abc0bc994e3ed018f8e68a7203.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Defend the insect kingdom from the spiders, in this colourful 3D action-adventure platformer, The Bee Hive! Crafted entirely by one developer, a love letter to the platformers of old.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.58 GiB"
 }

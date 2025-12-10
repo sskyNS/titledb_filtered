@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/14d8f2a3b83932a5cd56c6f458f832c6fa8b6fcb8c4f9016337f2a35250e91c5.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Will you escape your captor?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.20 GiB"
 }

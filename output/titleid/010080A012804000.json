@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/349f5ca099b105091b897f7b975050767b96ab2c0a8013343ac074860fbb75cf.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Training"
+	],
+	"intro": "Panel slide is future guide\nIn a story full of wall,\nThe simple puzzle game adventure",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "923 MiB"
 }

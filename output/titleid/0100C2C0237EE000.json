@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/45bd0c10850e72db62df33810d33099e5105aca972d5facaf340820e5ef60d5f.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Shape your fate with the power of summoning in an immersive JRPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

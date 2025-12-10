@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/59f32f1937d6122732c4c1fb5cbb51cf6152b4d57a6f1195645fbc7044f9d98e.jpg"
 	],
 	"releaseDate": 20190521,
+	"category": [
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Team Sonic Racing\u2122 combines the best elements of arcade and fast-paced competitive style racing. Face-off with friends in intense multiplayer racing, race together across stunning worlds and work together as a team by sharing power-ups and speed boosts. Take control of your racing style - Choose from 3 distinct character types and unlock game changing vehicle customization options to suit your racing style. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "7.06 GiB"
 }

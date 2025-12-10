@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd2b99cb75e7d41c3c1972de94a8078c1e0fe9347710dfe98860edf8cf5308d0.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Strategy",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Mechs V Kaijus is an addictive hardcore tower defense gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

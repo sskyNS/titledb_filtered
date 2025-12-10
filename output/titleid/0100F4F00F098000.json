@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/de93b6bee12b70189954604290a3e09d07111c323cdb2d544ba2b876997b1dc3.jpg"
 	],
 	"releaseDate": 20190823,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Save the Day with Mekabolt!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "158 MiB"
 }

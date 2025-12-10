@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfd392bb7b6119341a7e96ef0ddc764003fdd63ddba2d0b5404350097d8b73c0.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Freeze Time. Throw Swords. Save Tamaris.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "537 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a58fd0e7afcee2bbedbaca1eb51e3cbd28ed15a5f18a95db4cd4b1657d1c995.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Use the power of friendship to rescue dwellers of the Hidden Forest!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "563 MiB"
 }

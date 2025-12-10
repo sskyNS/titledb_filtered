@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a8c1b07d249c939627824d5b56a411d60f5389c015a2377e1f2b0cb693a4c0a.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "WAR-TORN DREAMS is a 2D Story-Rich, Side Scrolling Action Game, set in the wasteland of USA, plagued with constant war.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.45 GiB"
 }

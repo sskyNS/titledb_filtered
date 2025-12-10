@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec38ca01435e6646f16c55e805236eb8802684ca0a79ff88a57f8c90c98f9ab9.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Camped Out is a frenetic couch co-op game for friends and families where up to four players must work together to set up camp before darkness falls.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "874 MiB"
 }

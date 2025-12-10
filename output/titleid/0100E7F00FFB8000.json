@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5e6fd435abdd3a8fbf3fbe3abec727b694e4a0143eaf7e7dc2589fbea5eace0.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "An old killer escorts a curious AI through chaotic combat, puzzling secrets, and unsettling calm in a dreamscape of madmen and sane animals.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "844 MiB"
 }

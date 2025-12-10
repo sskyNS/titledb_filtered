@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9357248ae2980b57e41617c5f447b94e6eb58319d931120bf71de70e29c6fbf4.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Layer and match colored tiles to restore pictures in The Pane Puzzle. Simple at first, but it gets tricky as you progress!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

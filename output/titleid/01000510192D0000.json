@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c95d7a253f43accff39300541d3e3ceb0b40ebf7fdf86a4de29676c0cb5f759b.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Funny and quirky adventure game involving witches, frogs, and maybe a horse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

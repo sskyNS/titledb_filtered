@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7919b0e9073e828c7dcb28358430702cc3bd6655d15f27134e1d686fa22c254.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "It's a cozy yet challenging puzzle game about a mushroom that devours zombies. You'll expand, grow and consume your way through the forest using your wit and reason.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "510 MiB"
 }

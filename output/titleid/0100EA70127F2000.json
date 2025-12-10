@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/149a634087e741e4400663dbcc34f572e2dbe5740a8e48ce4939f0710ff30b89.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Death needs your help! Defeat bosses while navigating your way through a chaotic colourful procedurally generated platformer (with co-op), but... Don\u2019t Lose Your Head!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "963 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f403122aac5887f70a5d497ab6e95e4bc848c94172c8e3f68e74ee55dadaa01d.jpg"
 	],
 	"releaseDate": 20181120,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Ninjas Play Free!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "22.09 GiB"
 }

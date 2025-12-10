@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f3e2e693efdfae45cd3e4920b83e194d350005547bce34174589839ec4edecd.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Whiz across a world full of adventures in your BIG-Bobby-Car and become the new champion by winning the annual Big Race.  \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

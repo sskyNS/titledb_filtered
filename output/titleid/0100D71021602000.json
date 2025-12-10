@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/17a95ad593f6b1da3f0de4fa7d2fe89962efe4999f3b66f70723f92478100537.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A retro arcade throwback where you hide, sneak, climb, and leap your way to victory! YOU MUST NOT BE SEEN! Do you have the skills to top score?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

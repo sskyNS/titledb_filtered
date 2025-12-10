@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b18213a92869cff0fea918c38e842d3839d02ab37b84cd0afea5cb1e47a9ce1.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Training",
+		"Action"
+	],
+	"intro": "Drive through the wild. Conquer the impossible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.69 GiB"
 }

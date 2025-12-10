@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cd9693eb954a0c38e5ab30f2660b9962f4d5e118c4fbf83ca1212484ca523cc.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "In Torchlight III, Novastraia is again under threat of invasion and it\u2019s up to you to defend against the Netherim and its allies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.41 GiB"
 }

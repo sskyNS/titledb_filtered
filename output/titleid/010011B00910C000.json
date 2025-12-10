@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2b744725bac141ff981c95d3cbede2da48835a948e0dfd89031c8aaeeaecc1e.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Does everyone deserve a second chance? Can crimes ever be forgotten?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8dcd2a4dc4c0e5b57383412a724ebcb5e68ab95ed11e70b88388f1eead48870.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Racing",
+		"Training"
+	],
+	"intro": "Brand new realistic police transport driving simulator in which you will experience many different cop vehicles in the parking!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "581 MiB"
 }

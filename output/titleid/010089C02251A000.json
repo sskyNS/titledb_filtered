@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4536b383d7a09eb6ef5a1a9458b2b1927052da292624b66e68f63e057bb12dc7.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Battle friends in a chaotic arena shooter with ricocheting bullets.\nCollect coins, buy upgrades, and unleash wild weapons.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "289 MiB"
 }

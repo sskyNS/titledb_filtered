@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5426588788fa7ae0d4e0629a2e7999222482eccf5208304fd517783984d41e53.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Adventure through a beautiful and troubling world where nothing is as it seems, to confront and conquer your fears.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

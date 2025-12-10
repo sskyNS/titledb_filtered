@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/51192f82f3e463fe0d88f9cfe50688d14e163bd6ddb8eeb89f71578769a211e8.jpg"
 	],
 	"releaseDate": 20210326,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Die With Glory is an adventure game where your goal is to basically die in glorious fashion. You must help Sigurd, a brave old viking warrior, find his way to glory and an afterlife in Valhalla.\n\nReaching Valhalla is not easy at all. You must guide Sigurd through multiple levels of beautifully illustrated landscapes, epic adventures, complex challenges, big battles, and witty dialogue with characters to find the right foe that can provide that perfect glorious and ultimate defeat.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

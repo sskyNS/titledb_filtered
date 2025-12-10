@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/118a7e175fe1762fba5764bfdc8e19c64650dea216d3a87b105dea1147f78354.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Fashion Girls & Awesome Puzzles in One Game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

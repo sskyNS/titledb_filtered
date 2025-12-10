@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b6bc339ec19217ddca695a305eadca7862780ee0c70375f04625067c7a74de0.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Super Trench Attack is here. Enroll in the World War. Start your training and fight. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

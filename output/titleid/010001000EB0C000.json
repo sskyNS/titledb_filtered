@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9d1c315412edee06c7b914ae9a14c0f89189aa2b1e12f760ad8b7e29a5750d1.jpg"
 	],
 	"releaseDate": 20230621,
+	"category": [
+		"Racing"
+	],
+	"intro": "Sim-meets arcade top-down racer built by racing fans, for racing fans.\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.06 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/07d10e48dc6de0db1d2188911d1958ee9a642eedf1d6c266e79fa4f89c9d2134.jpg"
 	],
 	"releaseDate": 20210727,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "Clone Drone in the Danger Zone is a robot voxel slice-em-up where any part of your body can be sliced off.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

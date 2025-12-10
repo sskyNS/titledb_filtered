@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/edbbd24f65b994684215a326c0cec0d8ebd4ffdf991e809fa92afd89481c22d5.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Fuel your competitive spirit with Asphalt Legends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.27 GiB"
 }

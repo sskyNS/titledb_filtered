@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/33d862df05d4c9698fff5fbf96e3ab24e0f0a5a8b30836b5e05a7afb85c7e7fe.jpg"
 	],
 	"releaseDate": 20230225,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Sentry Paragon,",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "39 MiB"
 }

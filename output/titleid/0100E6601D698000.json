@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/013babc9f0aa393630502f7dcd048484a26983eb2ef501057e98531c1e453a2c.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Go on an epic adventure equipped only with your shotgun, wit, and a strong stomach for disturbing exploration. The game only saves when you die. Can you survive a night?",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

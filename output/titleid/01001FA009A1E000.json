@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/932746719a78004b7244239dc80ef37b6d82736b9cd097d29e00e9faec468302.jpg"
 	],
 	"releaseDate": 20180525,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Fight for the destiny of the Galaxy!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "570 MiB"
 }

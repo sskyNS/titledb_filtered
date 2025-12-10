@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d47fa0080181f3d24d26853ccac411d214522cb5a788d7ce6fcd06e9b2238608.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Take the wheel of more than 21 buses across 7 unique cities, inspired by real-life locations! Drive diesel, hybrid, electric, double-decker, articulated and school buses!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/596f490244c3c8cf9535fbc55b9edce10f6dfb9a310c858b900c3279e285a916.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A super exhilarating Metroidvania action game full of hilarious dialogue and comical encounters!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "319 MiB"
 }

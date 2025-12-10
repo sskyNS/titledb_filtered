@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7ee7e29fe1c24cae882517ba2416247a4fb6cc6619b03641c924c4a2925bdd7.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Fight! Die! Win!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.57 GiB"
 }

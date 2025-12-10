@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e02a1561fb3b419b972d104f3beec5da19a7f40acfa1bbc0fd7f533edafe6e6a.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Botley can't do many things on his own.\nGood thing he has telepathy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

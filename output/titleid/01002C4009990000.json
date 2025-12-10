@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/22d8b403f5f40536767eac2a0fc818be325ccff01bed101f3b14dbcf91a524fe.jpg"
 	],
 	"releaseDate": 20180322,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Travel across a world of ice and snow, through burned down ruins and treacherous peaks, to launch a rocket that will reach the stars!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "494 MiB"
 }

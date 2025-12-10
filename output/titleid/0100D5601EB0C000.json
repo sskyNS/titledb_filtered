@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8297315db0830bef22b160db0d269a63aadd0ff8889412561553c14ca78e6fed.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "3D Rogue-like action game. You are a Valkyrie, choosing blessings from the Nordic gods to build your unique combat style. Go to complete the Taboo Trial guided by Loki.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.69 GiB"
 }

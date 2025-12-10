@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f2e01ea73497aac20dcf88668481c00147a640b575fcee0af3adc4d15c4bc55.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Hazards to tackle, Enemies to destroy, Boss to kill. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "40 MiB"
 }

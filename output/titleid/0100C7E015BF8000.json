@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e29ec1e810d3e75ffb4104ba501da7584116d3b3f185f791fad6b59e948e1d9.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A fantasy RPG about a girl turned into a magic sword and its price!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1005 MiB"
 }

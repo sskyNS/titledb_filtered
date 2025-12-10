@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ecce8058daf5c402d6f2fe0494a028731e3b08e4dee77c522211ff98ff952e98.jpg"
 	],
 	"releaseDate": 20230506,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Accelerate across platforms, fly over ramps and jump on trampolines to recover all the lost pieces.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

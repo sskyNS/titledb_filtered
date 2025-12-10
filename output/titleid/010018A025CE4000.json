@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f4d013a952462c022775e8fa0a011a0933c424c7102665245fe436b25a93b09.jpg"
 	],
 	"releaseDate": 20251022,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Experience every detail!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

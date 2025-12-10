@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d70c0864efe07c1a4f5da7c955c9aa76991a1628a53afa4a16c0f8b2879af8e3.jpg"
 	],
 	"releaseDate": 20230314,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter",
+		"Simulation"
+	],
+	"intro": "Pilot the fastest, most dangerous space-craft ever made, against alien armadas from surrounding systems who have waged war on Earth.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

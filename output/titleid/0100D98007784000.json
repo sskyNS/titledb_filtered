@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8c2cc9fcb6ab14c9ce9a3f75c7dbfdb8bd2768d7f5d1665b55a2b1095e6937a.jpg"
 	],
 	"releaseDate": 20180206,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Awaken the pool pro within you! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "517 MiB"
 }

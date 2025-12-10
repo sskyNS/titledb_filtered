@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef18679924391dfa1d7d27fb468093fb6d10a8f0bd204a12d6e0acc24dd03920.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Play Pinball Lockdown, a unique exciting collection of pinball tables.  Themes include Alice in Wonderland, Las Vegas and Medieval Dragons. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

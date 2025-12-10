@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa532a8b5c4492dd4b2568b010ab6c8d0ed9c5124c2dcb937468080c27729161.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Dive into the fascinating world of logic puzzles, where you have to control various weapons.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

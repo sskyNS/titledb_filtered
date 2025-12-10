@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ea071bcea4521d51ed4ae39a90e8b5867b99a3c27bc1378309cc86a7f2dc10a.jpg"
 	],
 	"releaseDate": 20180708,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Bankrupt your friends\nObtaining monopoly and win",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.83 GiB"
 }

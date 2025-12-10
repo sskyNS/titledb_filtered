@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/30004692f86e438b3854ed403480e35970759e15c21d96011ce9f67159320723.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A new Legend begins.\nA story of hello-s and goodbye-s, bursting from a magical egg.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "684 MiB"
 }

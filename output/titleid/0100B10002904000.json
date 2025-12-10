@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e853ed9c93b0d2e2efbc3fe52327acd15b026c39b2ff21497229b98d852481e6.jpg"
 	],
 	"releaseDate": 20190507,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Build your corporate empire and destroy the competition.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

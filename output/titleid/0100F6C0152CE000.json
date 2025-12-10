@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5e65dd12d056c101daa368dcef0c6b817f5a29df1b5f7ce6a9ccb72094e91d9.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+	],
+	"intro": "\u30af\u30e9\u30b7\u30c3\u30af\u306a\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0\u304c\u73fe\u4ee3\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3067\u8607\u308b\uff01\n\u300eSuper Arcade Soccer 2021\u300f",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "271 MiB"
 }

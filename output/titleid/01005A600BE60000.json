@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef82fc738dae835670864b8cfe1c1f56c48c7f8744e671c2c62ab6b0d86aa7c7.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Out of the shadows...",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.25 GiB"
 }

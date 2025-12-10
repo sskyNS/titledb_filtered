@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0531a8c6bd5734c7003c6bdd32694ae10a6f2ae0983fa568c7486c074ed5dc7e.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "When the Earth falls to an extra-terrestrial invasion, humanity becomes an endangered species! Battle the alien horde in this frenetic 4-player co-op shooter.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.25 GiB"
 }

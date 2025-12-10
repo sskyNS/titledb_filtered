@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd7024b29e99bb1a063505d81eadf708ef1a11f8888e2d6de0e32d636a75a281.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Cozy game full of adorable dogs and cats with local multiplayer",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "42 MiB"
 }

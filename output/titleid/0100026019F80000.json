@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d4d2ebd0f5be8cfb1bfa3f2c370b0a01dd8e2c410bba93431aa2164b0121988.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Get the crystal!\nOver 120 stages!\nPlay with 4 players in local split screen!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "350 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2344da4d2f8ed367507e4346ca5c60508eacabf6a5c922c0e84d16872b7dca6.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "Soulblight is a dark, unforgiving, top-down action roguelike luring you to cross the thin line between good and evil.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "837 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0973c1101ccadfd75011d98af28b5b66a3b287f53707706e91d66f4ef4dc683.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Music"
+	],
+	"intro": "This is a roguelike horizontal action game that players need to follow the beats to defeat opponents. Beats to follow, fist to the bone. Face the foe, and dance to kill!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

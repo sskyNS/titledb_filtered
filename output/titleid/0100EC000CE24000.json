@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b8afa9decaeb7791ca819c5ca4f5fa1b228816a1a9ac85b1acf6de8c131b5a4.jpg"
 	],
 	"releaseDate": 20181223,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Hit the aliens fast, hard... and a lot.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

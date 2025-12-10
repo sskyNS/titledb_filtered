@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/abd5d3880a801e6ea6da6aadcb4529618078b70eab77c2f425a0b8af35d8681e.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Adventure",
+		"Other",
+		"RPG"
+	],
+	"intro": "A challenging survival horror without jump scares.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.20 GiB"
 }

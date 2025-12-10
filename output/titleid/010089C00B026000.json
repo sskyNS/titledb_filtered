@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c50071a68049b893d852b5d67279c057ad5cda999983945c2737853d4b20d0a.jpg"
 	],
 	"releaseDate": 20240514,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Control the flow of time to solve puzzles in this new version of the indie classic, featuring fully repainted artwork, a new world of puzzles, and seriously in-depth commentary.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.15 GiB"
 }

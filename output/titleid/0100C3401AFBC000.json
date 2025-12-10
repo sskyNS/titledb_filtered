@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0cbbf09305354bb1170bb80c55190f43b404c7a369a1edec4c663a08a678695.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A fun quick-play game for all.  You play as the game\u2019s hero, protecting your local neighbourhood from the zombie invasion.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

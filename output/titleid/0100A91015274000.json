@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/77be6ce14eb60db83c497dbc63bd90cd602496a929ffd10b00308d90fc5c5fb4.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Play 14 legendary PAC-MAN games!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.14 GiB"
 }

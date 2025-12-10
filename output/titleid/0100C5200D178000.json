@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/370553dea0df9c07e40db1b82921cdab26c298dc52a18f6171561c973152fc56.jpg"
 	],
 	"releaseDate": 20190410,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "An otherworldly comedy adventure",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

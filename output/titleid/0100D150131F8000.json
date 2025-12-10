@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6afcf9d465169cad1aac341e09f082df4f0c0cd53ebe365c665acabaa66228e7.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Other"
+	],
+	"intro": "Deiland: Pocket Planet Edition is a farming adventure where you will have to take care of your tiny planet. Farm, craft, fight and explore the universe of Deiland.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

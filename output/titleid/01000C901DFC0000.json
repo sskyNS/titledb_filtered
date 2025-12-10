@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffdc8cd231cad0755631826a970c2c71a790935bed1892da8580777fee3fbc31.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Simulation",
+		"Education",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Unleash your pilot instincts, soar through island skies: challenge yourself, complete missions!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/feb544a0e8814e4cc77c7b824db3b4e7b6840efd735ef97c2f58ac9e0b88748c.jpg"
 	],
 	"releaseDate": 20221214,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Embark on an adorable adventure. Climb, Swim, Glide and slide your way into the hearts of the many different characters you meet on your travels!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

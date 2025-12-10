@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9838b99553b5470e1218097a751542fbd8e3bba95b22d4ac06bdf2958d9bb7d6.jpg"
 	],
 	"releaseDate": 20240112,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Help this kitten save his human friend from an evil computer",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

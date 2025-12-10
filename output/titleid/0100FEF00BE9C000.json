@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/32a743a57821432706b60c8d081f162f450308eb3a815c14cf89ddbcf969c995.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Grow your farm, meet the villagers, and build your world!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "643 MiB"
 }

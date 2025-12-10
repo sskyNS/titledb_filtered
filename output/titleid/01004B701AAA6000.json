@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f9ef23b5ed4c181a3ef1c135f7c1fd8ea45e2ff2850bfb0884191a50e3dc33a.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "An action-adventure game where you work together \nwith a total of 100 animals to escape from a mysterious facility.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

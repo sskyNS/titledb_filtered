@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/24865344d043b4df25c85bb5e722f07f2b72cedf7566cf62d4c26910685b0ea1.jpg"
 	],
 	"releaseDate": 20221209,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Jump into crazy, action powered battles with intense lightning-fast, yet accessible gameplay in this unique 2D Brawler action game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.13 GiB"
 }

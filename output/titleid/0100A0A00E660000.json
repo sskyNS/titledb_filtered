@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d59d3c0f7955d086d2f14bc7e99b2e42d996b06ee458bc5c856731f0090f5063.jpg"
 	],
 	"releaseDate": 20200106,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Battle Solo or CO-OP with Friends! Fists, Swords, Magic and Bears. Finish the Quest.",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.13 GiB"
 }

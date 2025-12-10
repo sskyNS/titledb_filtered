@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/12f525de95a7205010ee098f9e2f3ca541fc76c020c5dce6acf037ec3d141316.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "\"Dungeon adventure by using your brain!\"\nDungeon + Puzzle + Sokoban",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

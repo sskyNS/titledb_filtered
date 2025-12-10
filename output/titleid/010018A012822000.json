@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3ac7f11a9d495d45656feeec4c662734e281e5e94dca3f6ff7c461b557c3686.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Invade and conquer the human colony, one pixelated level at a time!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "26 MiB"
 }

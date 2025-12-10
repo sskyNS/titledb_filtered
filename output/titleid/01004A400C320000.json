@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/313611a554353a0d296b2a0727bf4c22201dea3c30b3646ffefd56df8488881a.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Momodora: RUtM is an action-platformer steeped in somber atmosphere and compelling lore. Forge your path to the Queen in Castle Karst and lift the land's curse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

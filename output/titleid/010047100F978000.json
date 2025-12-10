@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/918efe96f37fb590987558700d99d0cb407a9df5d7ea8b4b82c961f5e1ebca9e.jpg"
 	],
 	"releaseDate": 20191212,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Go on an adventure with a happy little frog! Can you guide it home safe?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

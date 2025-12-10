@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7eada2fe0269e3d469a771d8234b5f275b6d34a41fa254ba65af234ee34213f6.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Pick up and play with your favorite NBA team!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "701 MiB"
 }

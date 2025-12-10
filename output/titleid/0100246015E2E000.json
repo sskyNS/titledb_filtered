@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ade04c843fd2c6b791005ba32e415f187eff1b6fb8c6204897637db4892f26d.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The new party game fun for families & friends: Become Blathletes and win the blatastic Blalympics on Blanet Blaloonia!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "493 MiB"
 }

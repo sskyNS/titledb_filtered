@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/25cde678068183ab97036f76bf53a391fafe401828e766ab7e57645ffa5f32cd.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "BUTCHER is a fast-paced 2D shooter and a blood-soaked love letter to the cult classics of the genre.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

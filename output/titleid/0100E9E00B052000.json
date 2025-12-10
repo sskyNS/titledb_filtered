@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/284e8bd2110f6320c928faf461b6adf77f42f345c1b1ab3b183d625607ffeece.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Save Lady from her kidnapper Donkey Kong!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "81 MiB"
 }

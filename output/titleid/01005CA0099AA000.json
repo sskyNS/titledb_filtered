@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/53ad885ffccce6c58d9e13eabfb5e05f654b13ea60617fdb7c70087c4fbcf820.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "1917 - A memorization shooter combined with the fast and frantic action of bullet hell shoot 'em ups.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "590 MiB"
 }

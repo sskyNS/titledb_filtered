@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/53bc27ef8c795e6cdffeed71ba559cb2d1c115fb91ecbc46fce074f8b39035c2.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Use a camera capable of modifying time to discover the past.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.83 GiB"
 }

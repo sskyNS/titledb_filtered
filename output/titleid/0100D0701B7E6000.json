@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e820a3872757f53545625a7f96447493ac5d2f2f033fbdc81214e014f0c20896.jpg"
 	],
 	"releaseDate": 20231121,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "The start of the Irem Collection, featuring Image Fight 1, 2 and X Multiply.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "500 MiB"
 }

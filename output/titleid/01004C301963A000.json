@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcc6d5513dbd29af83c1669648e81834b71ada17a042f508d2c5987dafea994a.jpg"
 	],
 	"releaseDate": 20221012,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Nostalgic adventure about friendship, 80s and aliens",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

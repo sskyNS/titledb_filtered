@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b22792193e7dfa9a5ecebe31599d555b9a7e0940a4e0dfb719126891831c697.jpg"
 	],
 	"releaseDate": 20201028,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Shoot-'em-up meets battle-royale. Prepare your thumbs for adrenaline mashing madness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "751 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2079df618eda5715de8ede1e66905564ac308c427afdf6c07b4e5466199be8f0.jpg"
 	],
 	"releaseDate": 20220902,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Matisse repair the cat's rocket, fly, jump and collect the fishies to return to Earth!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

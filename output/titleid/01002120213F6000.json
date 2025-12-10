@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f96c0b05f15a486b091455c9864ad6a2545dba13064d6219319d7ec3d99dc9f.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's time for a scrumptious oden-making challenge!\nMake as much as you can and watch your food cart prosper!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "252 MiB"
 }

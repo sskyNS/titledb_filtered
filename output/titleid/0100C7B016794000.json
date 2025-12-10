@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/18c967c656db008770928c67f56499dd373b1b308f4c07394c2a5030efcb680d.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Deliver the cargo across industrial area in realistic fork lift simulator!",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

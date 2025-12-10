@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/41c33ffed736875679133942d69b5d97be9af4ce6c7a19cba977a3baa487cc31.jpg"
 	],
 	"releaseDate": 20251018,
+	"category": [
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Adrenaline Rampage is a platformer roguelite where you play as a soldier with up to 5 weapons to fight techno-zombies.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "641 MiB"
 }

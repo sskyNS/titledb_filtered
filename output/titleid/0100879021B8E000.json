@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f76af3fc7ee882a39fcb3fc1e185481e6607e0f8bc97cf9f7ba1dd2206d8534.jpg"
 	],
 	"releaseDate": 20250812,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "See what the bodycam saw. Survive what it didn\u2019t.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.46 GiB"
 }

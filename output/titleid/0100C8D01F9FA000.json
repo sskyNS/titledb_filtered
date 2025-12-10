@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8de162aad9f41bb32486cd2221f2a5babf1f0adc19e4f92495a42760cba8fa3.jpg"
 	],
 	"releaseDate": 20251203,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Party"
+	],
+	"intro": "POPUCOM is a multiplayer co-op platform adventure game. As an adventurer, you are summoned to an unknown planet to embark on an exoplanet adventure with your friends. You will face various enemies and use engaging items and techniques to eliminate threats and restore the world to its former glory.\n\n[Engage in Fun-filled Co-Op Gameplay]\nWork together with your friends to take on a variety of challenges. Effective cooperation and strong teamwork are the only ways forward. Whether it's facing powerful enemies or tackling complex puzzles, you'll need to work together to triumph!\n\n[Embark on a Colorful Adventure]\nColor plays a crucial role in this fantastical world. It is key to everything from puzzle solving to combat. You'll need to switch colors to activate mechanisms and solve puzzles, and shoot Pomu gel in different colors to change the surroundings and impact enemies. Master the techniques of color switching and match-3 shooting to overcome puzzles and defeat enemies!\n\n[Use Items to Work Miracles]\nDuring the journey, you will acquire items known as super artifacts. Examples of these wondrous artifacts include Rollo the Bomb, Captain Kitty, Barrier Bot, and Power Kid. Each of them grants you a unique ability that helps remove obstacles and solve puzzles in your adventure.\n\n[Let Your Style Shine]\nThe adventure isn't just about combat; it's also about showcasing your style! Pick from a selection of gear and cosmetics in the Closet and combine them to create your unique looks. Then you can set off on the journey in your personalized style!\n\n[Enjoy Arcade Mini-Games]\nIn addition to the exciting battles and engaging puzzles, the game includes a number of enjoyable mini-games. Head to the in-game arcade room for some lighthearted arcade fun during breaks from the main stages.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.63 GiB"
 }

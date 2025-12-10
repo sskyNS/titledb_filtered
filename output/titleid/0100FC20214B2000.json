@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ecb533b783740e81df25587dcf2bee4a0b44a5bed202edd9aa882a8c25d7884.jpg"
 	],
 	"releaseDate": 20250617,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "In solo or with your friends, explore in total freedom massive-parkour-ready maps. Uncover hidden spots \u2014 time trials, trick challenges, and more!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a6befd1b61820ae7993b151dabe90db86ca9f6bef968448d472833735fbba55.jpg"
 	],
 	"releaseDate": 20200115,
+	"category": [
+		"Action",
+		"Arcade",
+		"Strategy",
+		"Shooter"
+	],
+	"intro": "Jump into the shoes of an interplanetary defender! Grab weapons, build towers, expand ground economics and protect planets from space invasions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "718 MiB"
 }

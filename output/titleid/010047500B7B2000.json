@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e03dd487b2e1913204d05c51a2991a9123caf66377b20f0f13b285f20276c8cb.jpg"
 	],
 	"releaseDate": 20220729,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "We had no idea that ordinary life could be taken from us so easily...",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.03 GiB"
 }

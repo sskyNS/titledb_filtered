@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/98950ad18b2c4038a766e6cb63e6ef2100f9aa7981d41d0e04607175207c3318.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A puzzle platform adventure, with inspiration going all the way back to 16-bit classics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "292 MiB"
 }

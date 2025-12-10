@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c6ae2d025abd40199253f0df31f9d1088066e5d7f9964cf5abdc9a128f26fc1.jpg"
 	],
 	"releaseDate": 20171024,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "This Is the Police is a strategy/adventure game set in a city spiraling the drain. Taking the role of gritty Police Chief Jack Boyd, you'll dive into a deep story of crime and intrigue. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

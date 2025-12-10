@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bfcdd1bffd58ec64041a05a9d170fa981743b777a24eb32cff7e48cb95f5300.jpg"
 	],
 	"releaseDate": 20250219,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Get ready to battle using your brain! \nA full-fledged turn-based strategy game with a difficulty level: GODZILLA!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

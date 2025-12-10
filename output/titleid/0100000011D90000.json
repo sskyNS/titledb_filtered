@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/78b175341f1bb0b931c39fe8641218b14cc4933070221b7f05d63e270d1602f9.jpg"
 	],
 	"releaseDate": 20211119,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Catch, train, and battle with your Pok\u00e9mon on a journey to try to become the Pok\u00e9mon League Champion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.86 GiB"
 }

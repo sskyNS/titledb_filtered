@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2954fd8dc567201e70e8e31fdac27467cd2fed854932484cc5c741fcf78231e.jpg"
 	],
 	"releaseDate": 20250221,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Can you escape this pyramid or will you perish inside?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

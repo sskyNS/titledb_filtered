@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/52ff02d97ff385969858238d04da87ef6e756a8b006e2a85c9e128fde7091e46.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Whisker Waters is a light fantasy RPG with Fishing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.75 GiB"
 }

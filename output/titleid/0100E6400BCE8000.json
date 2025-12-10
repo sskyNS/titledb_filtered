@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1438113a6c40d993d83194dcf5e84b23130f5bdef6f21a5244440b3f73036693.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Sublevel Zero Redux is a roguelite six-degree-of-freedom shooter in a universe where reality is falling apart.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "731 MiB"
 }

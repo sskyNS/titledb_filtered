@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a10c4959fe5f1efbb47a9c097a07b91c3de5b55c840c012d5d79dce59f9f43d.jpg"
 	],
 	"releaseDate": 20180427,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Hilarious couch co-op with a pinch of darkness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "174 MiB"
 }

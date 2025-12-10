@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac4351f5d857c3c0e27913674b445685d4e548cbd33723144e8cbff0804706b2.jpg"
 	],
 	"releaseDate": 20241126,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "~ Cyber Citizen Shockman 3 + Cyber Citizen Shockman Zero ~",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "526 MiB"
 }

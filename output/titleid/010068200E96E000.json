@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3cec815542a4225d6d52d8490821a6ca62498f31bd5453a599d5c84bacd58f3.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Simulation",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Epic WWII airplane combat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.56 GiB"
 }

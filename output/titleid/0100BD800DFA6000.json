@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/29d0053a47a5ebcb5594128a162b55268c938051af9aebe3aafe5910a5eb8ff7.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Greed Gear is said to make any dream come true.\nTo make her dreams come true, the robot \"IB\" explores the dungeon!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "402 MiB"
 }

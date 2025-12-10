@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/375ecbdcba56d883bf3b2b636eb8bfb4f0d08f6a06da10fce3c98b4d265095e8.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Rescue the princess from the magical bubble",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

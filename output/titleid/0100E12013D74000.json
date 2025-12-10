@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c14be9dcd3a357625efb25397d3092efdb63f9ceea2b57995d503a4035fa023.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "You are his last hope. The only one who can rescue him. Delve deep into the dreams of Luke Williams, and unfold the heartbreaking story in this lore-rich puzzle-adventure game. ",
+	"languages": [
+		"en",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

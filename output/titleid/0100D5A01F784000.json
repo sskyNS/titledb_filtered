@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c039f1ac4fc5b338b27efe184b37691dc614cce8ac7f32da393d597965c2640.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Party"
+	],
+	"intro": "Join the fun in a co-op action RPG with a Saturday morning cartoon vibe! \nPlay as Stick, a doodle fighting the \"Sog\" corruption!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.11 GiB"
 }

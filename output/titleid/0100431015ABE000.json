@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/66eb0f8d33f9b3e9f1f94dabf3e03579628bb08ca43cb2573b21cbcdd18770d9.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The timeless masterpiece and global sensation \nmakes its way \nto the Arcade Archives!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "37 MiB"
 }

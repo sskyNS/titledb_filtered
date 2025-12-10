@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e2465a30f22f52fc565512f1e81c83d7c9f0fbb531f45b929b0f52df82c073f.jpg"
 	],
 	"releaseDate": 20221022,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Will you be able to escape from this professor's lab?\n\nThis professor's lab isn't as easy as it looks.\nAn advanced lab with turrets and lots of traps.\nYou get stronger with each level you pass\nand you need to escape from this lab!\nThis crazy professor turned you a CYBORG!\n\nFeatures;\nChallenging Designed Levels,\nEach level has its own unique gameplay mechanics.\nA Crazy Professor.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

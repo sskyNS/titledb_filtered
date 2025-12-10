@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8fd3ae81200950a635c4d38a275b1d1e8e004f6b4711b33941b8c88544c7f348.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Fight To Survive",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "387 MiB"
 }

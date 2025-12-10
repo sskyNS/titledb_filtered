@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/649c644a955f6d0fc25df40204cba97b9c245893b564694a9d919ef475fc3afc.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Award-nominated escape game. Alone or with up to 5 players, explore 3 unique rooms, solve mind-bending puzzles, and unravel the dark secrets of the Professor Cheshire.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

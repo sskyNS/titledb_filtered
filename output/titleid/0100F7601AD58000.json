@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc70b036004fbcbd114807c72670db1c7f440c84bd0f7cf7f17669ff80622a9f.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Combine number blocks to inflict big damage on your enemies in a unique sliding puzzle battle game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "252 MiB"
 }

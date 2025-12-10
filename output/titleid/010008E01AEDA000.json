@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/088b843107aca492fee104c3dea008983bc87b4f84bd00251ec9fae57f64784c.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"Puzzle",
+		"Shooter",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Jump right into the wacky battle of survival. Shot your nacho enemies down with your powerful seed, and watch them crumble to corn dust. Discover the true power of Avocado! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "371 MiB"
 }

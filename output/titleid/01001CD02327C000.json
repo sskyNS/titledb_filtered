@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c10d95493390723b2b8cbe8a4c0584c79cc20bccacfc4c7b03fb671495db436f.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Action",
+		"Strategy",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Stealth, silliness, and a whole lot of chaos! Scurry and scramble your way to freedom in this co-op adventure set in the Chicken Run universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.22 GiB"
 }

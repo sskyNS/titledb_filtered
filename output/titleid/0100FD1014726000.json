@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3bc62a3e0f75ad0dcaeeefc2d1ed2e6c360cff3dca9fafea920b52631210291.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A new legacy begins...",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.91 GiB"
 }

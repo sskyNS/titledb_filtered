@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/778abaaecaec76d1048973b2f816fde6dc6b6e7ae7f5b4cc0a461018575cdbb8.jpg"
 	],
 	"releaseDate": 20241126,
+	"category": [
+		"Simulation",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Explore a magical world, rescue adorable critters, and create your very own Critter Caf\u00e9!\u00a0",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

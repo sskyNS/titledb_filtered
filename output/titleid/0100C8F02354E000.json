@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ec8dffd019ae393c50147858c00e882da31753c394224ac6b4e6c4fbab31409.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Go on a journey to return the Magic Crystal and punish the evil witches!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "279 MiB"
 }

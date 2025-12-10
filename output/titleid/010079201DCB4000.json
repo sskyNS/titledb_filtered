@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e157c6459734c235a5819086baf511dbf6a939a5c35655e26e49fffa8f165615.jpg"
 	],
 	"releaseDate": 20240223,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "A physics-based platformer. 40 levels to pass. 12 fight arenas. Play with friends by local multiplayer or online multiplayer for up to 4 players",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.71 GiB"
 }

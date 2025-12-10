@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/05cca8d9038c3ce90f48cc33cf474bd9a9b249c4f760fde51c43a3351d76f124.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Puzzle",
+		"Sports"
+	],
+	"intro": "Classic arcade sport board game where you can challenge both AI and your friends!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "86 MiB"
 }

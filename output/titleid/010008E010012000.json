@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9cdccfa7aad862ba8f00ad6c5982664e572b7c2a8fefc75ce0ec9ab84d5b49f.jpg"
 	],
 	"releaseDate": 20200208,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "ELEA: Paradigm Shift is an interactive adventure, where the main focus is humanity\u2019s place in the universe, the nature of intelligence and the meaning of faith.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

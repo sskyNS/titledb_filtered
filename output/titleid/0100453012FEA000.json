@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bf6a3219d5932f6961bffb01ef5977ca654c42b1deeac6677e752739b3f8672.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "GREEN HELL is an Open World Survival Simulator set in the uncharted unique setting of the Amazonian rainforest.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

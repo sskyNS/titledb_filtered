@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcfda0ff84c3fd0fcc72d7873eeef278cc19b6bd7ab1e352d0396d62c2ed5a14.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A frantic aerial battle against the fastest,\nstrongest enemies yet!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 3,
 	"size": "98 MiB"
 }

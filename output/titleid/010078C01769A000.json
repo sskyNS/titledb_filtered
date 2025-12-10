@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6efaf93dd4a406f6210d3f2e1ada38a475da02c123a65fedc9dff33335d1ca62.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Embark on an epic journey, master magical gloves and explore lush environments.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.73 GiB"
 }

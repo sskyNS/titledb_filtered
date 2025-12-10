@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/452571c405ce5e1970ce6b35a56d8ac0e67ad0a9ba8cdfa6f5b9d421223d9906.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Emergency!\nYour orders are to defeat the DANGEROUS SEED!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "111 MiB"
 }

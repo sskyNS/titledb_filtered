@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/203a5da802f52f2a01f461ca7e93976a040e96cd63814c971ec0d2fa16d717c8.jpg"
 	],
 	"releaseDate": 20221001,
+	"category": [
+		"Lifestyle",
+		"Party",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Dinogotchi is a tamagotchi-like game featuring cute dinosaurs. Take care, evolve, have fun and give a lot of love to your little jurassic friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "38 MiB"
 }

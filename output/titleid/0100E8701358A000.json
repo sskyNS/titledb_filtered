@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f8b5eaaaa8739cf241d1c87f83300a0a859dd8de69e7992f36688ec045cc944.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "Hop into your teeny tank and blast the Chrysophods...fast, fun, arcade style action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

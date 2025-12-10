@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8d43db514fcd46309e3d91ecd6a35e9fa43b3d8ed4de6030bd8f4493263d305.jpg"
 	],
 	"releaseDate": 20250528,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Freely explore a fallen kingdom in hopes of restoring its majesty in this 16-bit JRPG adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

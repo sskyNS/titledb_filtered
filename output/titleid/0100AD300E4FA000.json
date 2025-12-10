@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ea115769db7b5cc00331f5cb16cc4be5957e9bb4ae21f282a9d203de6fd31e5.jpg"
 	],
 	"releaseDate": 20200226,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Vasilis is a hand-drawn adventure game.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

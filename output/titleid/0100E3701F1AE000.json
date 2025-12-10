@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7470a65e3e88df43b7783641a9d6802a40ed0e32bf859be114fedce7fe539cd6.jpg"
 	],
 	"releaseDate": 20240814,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Cat's Request is a fantastic detective story about an extraterrestrial cat named Ash and his virtual assistant, living in a metropolis governed by artificial intelligence.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.46 GiB"
 }

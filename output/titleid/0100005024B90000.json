@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/88f47185c15802991a25d4c9afee3d3345fe31446634953260d2f0ca26d41f70.jpg"
 	],
 	"releaseDate": 20250923,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Education",
+		"Action"
+	],
+	"intro": "More than parking\u2014this garage is your world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

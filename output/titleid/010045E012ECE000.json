@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4170f7e335f12fed9d574bac461ec62bd45f3579eee165f376b19086a55c6aef.jpg"
 	],
 	"releaseDate": 20210817,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Take control of three-siblings on an epic adventure to save the Courine's from the Urlag invasion in this hand-drawn 2D adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

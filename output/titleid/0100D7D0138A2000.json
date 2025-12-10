@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2c539b1ee362ec928e5baef10e5a5ab5f769221e51c7cffb43151731b2f836f.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Ruin Raiders is a turn-based tactical roguelike where you command customizable squads on a one-way journey into the ruins of an ancient civilization. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

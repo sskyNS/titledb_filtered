@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/da9168c26b8c24a2f2e455455294c7c2005bacd8e7247e49b8d8ae47fdb71e13.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Happy\u2019s Humble Burger Farm is a first person adventure horror cooking game. Discover the dark secrets of the Happy\u2019s Humble franchise by exploring New Elysian City. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.94 GiB"
 }

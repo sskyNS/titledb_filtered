@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8cb3356ce38858a065fb189015f1a52a6815454499133dd30e0d83b89c4ed46.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"RPG"
+	],
+	"intro": "As a customs officer, you are in charge of inbound passengers, parcels, and containers. Are you up to the task?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

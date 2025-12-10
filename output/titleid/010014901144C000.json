@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/08254ee45b19470aa655cf790275f4a98f0da6ae74f1bfe53323eadf25cb154e.jpg"
 	],
 	"releaseDate": 20200529,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Absurd guns, crazy characters, instant fun and...accidental friendly fire in this coop action game! ",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "910 MiB"
 }

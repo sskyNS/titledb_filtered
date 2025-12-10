@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ccda0c0dfb0cca2f7ca3b1c3beb7f5b53b18f03ab6078951843b1d80dbe20d.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "In this animal shelter they don't give a new companion to just anyone. Prove that you are a true animal lover and don't get caught lying, otherwise you will never be able to adopt.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

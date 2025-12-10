@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/49bb5d3df7243930ad16749ceb3a987b1a7d3cec0c31bd66b16c79dad13ef03d.jpg"
 	],
 	"releaseDate": 20201225,
+	"category": [
+		"Arcade",
+		"Music",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "The BIT.TRIP series comes full circle with BIT.TRIP FLUX, the final chapter of CommanderVideo\u2019s soul-searching journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfb808bc9ce98c7787bb4319f6ea1133f52d2d346e16f7399ba66241cc3c9f83.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Fast-paced platforming puzzle game about an ancient spirit that fixes PCs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

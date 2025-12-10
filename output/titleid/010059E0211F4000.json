@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d3a8ec6b58f45b7b4b5aa20d2b387b34760918604303fcd323aa0adaccbb77a.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Experience a mystical bubbles adventure\u2026\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "528 MiB"
 }

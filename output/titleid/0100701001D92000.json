@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2036ba3c15968e2bc55fd48508327888cd99438b9222f8111727a3c705a1b3bb.jpg"
 	],
 	"releaseDate": 20170316,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

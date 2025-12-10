@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bfd5ccc0b78723b3f43673e1d256a9f00f19e1becf2c481dd78ecf35f2b93b4.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Galactic Defence Squadron is a top-down endless twin-stick shooter built in Unreal Engine 4, your only goal is to defend the mining vessel Ursa Major from wave upon wave of attacks!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

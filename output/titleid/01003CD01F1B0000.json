@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/268e77361da13cbcbaad42d7eb010228e2f4f41c74318d6b3453e6bd765f3f55.jpg"
 	],
 	"releaseDate": 20240813,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Discover, create and share worlds with your own hidden treasures!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "490 MiB"
 }

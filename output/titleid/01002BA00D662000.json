@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d9e238103642f18d2692006b55b4fc07b9f933d28c5e78735993908632b4e33.jpg"
 	],
 	"releaseDate": 20191126,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "An open-world action adventure game set in a simulated world in which humans never reached the top of the food chain.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/39faa661da90e9dc03bfe274692fa730716ca8c7bb3773305fbf79bf5db51e32.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "War clouds begin to gather over the Eastern European region. A single-player TPS game that fights against terrorists around the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

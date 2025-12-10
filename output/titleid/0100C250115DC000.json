@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/aca381c3eea2578bf5a2a08451b32b4a70489519558923d9469b35011225a753.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "The highest number of puzzles in the Picross S series with a total of 485 in all! Included with a bonus content, Extra, featuring large Picross puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "337 MiB"
 }

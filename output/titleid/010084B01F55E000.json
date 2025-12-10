@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/63880d17d60dd72fc42c283b8bb5490c642ac7eea11309ba36af397de4f2a446.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"\uc561\uc158",
+		"\uc5b4\ub4dc\ubca4\ucc98",
+		"RPG"
+	],
+	"intro": "\uc601\ud63c\uc744 \uce58\uc720\ud558\ub294 \uc5ec\uc815\uc744 \ub5a0\ub098\uc138\uc694",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

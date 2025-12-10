@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/29785a58955658854209edde3521db643fd51858d85c1fea7891639e223afacd.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Help Nora uncover her grandma\u2019s secrets and the magic hidden inside.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

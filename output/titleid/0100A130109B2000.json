@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7238c1ef36cdd48302224ef091e317f4eb83c6af4f89873f9e5e923cf236ce4c.jpg"
 	],
 	"releaseDate": 20200616,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Take care of your own island and explore the ocean in this farming adventure! Discover the story of Koa, with farming, crafting and exploring mechanics.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.72 GiB"
 }

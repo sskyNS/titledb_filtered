@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b393d39f605be16962abd91132747e6454dc33e1e3495bc7b380e2d1fbd4b04.jpg"
 	],
 	"releaseDate": 20230301,
+	"category": [
+		"Adventure",
+		"Action",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "The very first PUNCH & CLICK!\nIn a grim world where animals have replaced mankind, what kind of detective will you be?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.32 GiB"
 }

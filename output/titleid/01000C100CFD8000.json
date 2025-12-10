@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb915d3f607bb597a09dad6ebe23b21be9ad71613c4e38d2c4ec5b89c3824795.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Tons of unique and challenging levels!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

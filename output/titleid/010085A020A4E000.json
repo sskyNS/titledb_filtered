@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/77b19d43bc2f2ab7a6d71324f8d768e7d9b85cb66149428fff069872fdcf3143.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Study",
+		"Other"
+	],
+	"intro": "Cute crossing road game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c344a72eacf388cce05d9b6566b5836be13545b914322485edaee578df0b9a9.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Erogods: Olympus - is a dating simulator with feminized Greek gods.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "668 MiB"
 }

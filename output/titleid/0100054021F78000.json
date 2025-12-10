@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a88f139a7e1c473a6821b6580670ca4897444f40b28116cf56d1643457bce8ed.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Simulation",
+		"Education"
+	],
+	"intro": "Operate a fully functional oil refinery! Control distillation, manage pipelines, refine fuels, maintain machinery, and optimize production. Balance efficiency, safety, and profits to ex",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "655 MiB"
 }

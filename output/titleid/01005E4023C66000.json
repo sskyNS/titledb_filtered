@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f05d1fd19297a4ff7b7a173cc186bccf8b46f9a2e03b9df1ea83b5824baa15f8.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Seven new contenders compete in an unprecedented super competition!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "384 MiB"
 }

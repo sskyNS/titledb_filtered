@@ -11,5 +11,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d3a885a6abe20e4c9ce64eb3ba5179a3b5e2b7ad5222429165b1a73d56591f4.jpg"
 	],
 	"releaseDate": 20190717,
+	"category": [
+		"Platformer"
+	],
+	"intro": "Fast, party platform game for up to 4 players.\nFinish levels as quick as possible. \nFull of movable objects that you must use to finish each level.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "231 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/62014c5cc6db1c71b2c9edd0ce013eeb39b8d77ed0735eda1bb3d6b0a9d20994.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Cultivate the strongest monster in this horde survivor farming game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

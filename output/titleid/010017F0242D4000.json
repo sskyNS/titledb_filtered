@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a96f4dfb1d6e6fb34f5078cf5a7bea537cbed9878fe25eb3cba2d80a8b30c753.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Action",
+		"Arcade",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "The purge is over. The nightmare begins.\nEvery bullet counts. Every mistake kills.\nWelcome to Releaseburg.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

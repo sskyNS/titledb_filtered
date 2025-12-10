@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a6a161669269bdcb20205f5757e22dbbbcec221a310c3d418cff1b1f9ff719f.jpg"
 	],
 	"releaseDate": 20210302,
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "It's like a conga line, but with cars!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

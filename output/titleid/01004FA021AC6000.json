@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bb4cb818b15752780701931ec8dd6ab0ed003dd89d6acc9a0714913166bfdd4.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Updates"
+	],
+	"intro": "An Aisling is an adventure game focused on exploration, story, and character. Make friends or enemies as you try to uncover why people are dissappearing on the island of Rashinmore.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

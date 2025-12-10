@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8f8c50aca7d351c0702b0038d71e312281534d1c647025b403f48ce37ce7632.jpg"
 	],
 	"releaseDate": 20211220,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Carebotz is mixed the classic arcade space combat with metroidvania elements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "534 MiB"
 }

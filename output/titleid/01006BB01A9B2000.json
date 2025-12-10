@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e21ea3059aec766bdcd7239c9be01db8d14b838436dd22dc7bc0853b580740d.jpg"
 	],
 	"releaseDate": 20230508,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Humorous point-and-click adventure game from the Middle Ages. Go through the castle and solve all the puzzles.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "413 MiB"
 }

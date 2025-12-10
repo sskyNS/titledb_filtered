@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1190c6dcd1b05f7c718c56836ae6878a37125e3e8686a02fe89099f8f71b265b.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Unleash your competitive spirit with this local multiplayer sports game! Random fields and unique ball physics make each match different!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "215 MiB"
 }

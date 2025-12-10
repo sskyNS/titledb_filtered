@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9edb0804ea758872d021c53bd4a58dee67b25217837272e93dd5bc8a3c0a17df.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "On your marks, get set, go!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "901 MiB"
 }

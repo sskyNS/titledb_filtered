@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9ea7581c9ce1c1ac5bc4611848b7c2c4e171654d949439f7077800ef8653d56.jpg"
 	],
 	"releaseDate": 20251105,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "A turn based dungeon crawler",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.20 GiB"
 }

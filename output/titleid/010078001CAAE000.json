@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5cff3ab730045440b39b81d8b3ec4cfc1946659ed4f3498a37ea550d6940ef1d.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Colored Effects is a puzzle platformer game where you use different colored abilities to advance. Switch between the colors to collect gems, defeat bosses, and solve fun puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cb6065d1b7a4eb49427f9e629748c4094d64d8563a312f24e5cac43420882ca.jpg"
 	],
 	"releaseDate": 20180118,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "One button controls everything - Think that it's simple?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "205 MiB"
 }

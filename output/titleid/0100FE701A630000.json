@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/eec28a375aeeceb4339ac198cb79c06f6780a0b5028b4f8bc35c0710ab27827c.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "A multiplayer sports game\u2026 with toasters!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1017 MiB"
 }

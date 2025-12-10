@@ -7,5 +7,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/babb804b484677404621bd252b8788140622c2b90c1b9901cf6511899a194f5d.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "Pop, Bounce, and Conquer the Leaderboards in the Ultimate Bubble Blaster!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

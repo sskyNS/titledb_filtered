@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc9d9ec9065e1a3767139f1d1673a4abeb38c94855fee426f8d128ad0aba3caf.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Quack Quack Quack Quack!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

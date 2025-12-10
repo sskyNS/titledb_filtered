@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd59f2ad52c5a7371a11ce467f8b5550c4b56e03c21fe6c937f7f47c25414bca.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Party",
+		"Study",
+		"Training",
+		"Education"
+	],
+	"intro": "\u2605\u2606\u2605\u2605\u2606[?]\u2605 \u2190What symbol goes in the [?]?\nTrain your programming brain with a fun puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "490 MiB"
 }

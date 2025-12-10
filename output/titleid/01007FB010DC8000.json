@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ecb70494b33284c2cdb3d4aaca79d8c70ee5c81c68fcc5c26a2da6549f10cd2.jpg"
 	],
 	"releaseDate": 20200904,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "First Person Open World Murder Mystery",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.75 GiB"
 }

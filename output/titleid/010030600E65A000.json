@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9aa66460a246c286826692aff16f3f4fd18a1650c4bb250d2b8a760e122ea291.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Join Mr. Dolittle and his cute squirrel friend on a fun adventure to get back their stolen cake.",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

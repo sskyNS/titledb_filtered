@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/edaab512cb916d61243eb3721d5ebab425eccafa1b5aa469ce7e2123a82a2f14.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Simulation",
+		"Utility",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Become an owner of the biggest Junkyard! Manage garbage dump and build your junk empire. Clean up, renew, build, trade. It's all in your hands!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "370 MiB"
 }

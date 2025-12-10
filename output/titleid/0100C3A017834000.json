@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/17374a999411904c5b345ecf5b580ca8504b9639d5c22d46bc484f450576c9ee.jpg"
 	],
 	"releaseDate": 20221028,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Resurrect the chaos of old-school first-person shooters",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/43747fb456a8156b396637a62a6b67f95d60881f4eedb1aa528bf465b28b967d.jpg"
 	],
 	"releaseDate": 20220712,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Take the fight to the evil Legion with iron fist in a diesel-punk world.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.30 GiB"
 }

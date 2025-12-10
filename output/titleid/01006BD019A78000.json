@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b060f7d80b83545176d162d99d80380538ce97d1839499fefc60ee80363c462a.jpg"
 	],
 	"releaseDate": 20230830,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Escape a haunted college campus in a cinematic Asian horror experience unlike any other!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.90 GiB"
 }

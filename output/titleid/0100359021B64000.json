@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bd7f9cc917aa704c53a41637701a9c2a1dcc72ced5939ab73aace51fc80d05c.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Investigate Crimes\nDig Deeper\nUncover The Truth",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

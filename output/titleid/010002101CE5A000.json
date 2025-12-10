@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/08ab9ed7df5cb8a612a5ae983d2e66c0c513725d5213b6a8d55aed6c96cefb6b.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Speed merges with precision in this celestial adventure!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

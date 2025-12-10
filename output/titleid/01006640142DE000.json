@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e07a4871d171385a5a9bfb844088cf671f3bd8649fa766ee898e398061dedbb3.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "The Ultimate Dodgems - Bumper Car Simulator!\n\nmultiplayer support | realistic physics | ton of fun! ",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "731 MiB"
 }

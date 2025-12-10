@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2bacaa7270f40005c4126cab380428c1bc7b92073c49320f744c9f30eb9cc441.jpg"
 	],
 	"releaseDate": 20191023,
+	"category": [
+		"Party",
+		"Education",
+		"Multiplayer",
+		"Training"
+	],
+	"intro": "Practice for your driving test and challenge your friends!",
+	"languages": [
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.97 GiB"
 }

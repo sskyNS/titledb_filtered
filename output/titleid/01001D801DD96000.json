@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8a063a5646bec390a74f9904cd6c425ca0565ffd8a565cd4428c48e1efd9148.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Action",
+		"Shooter",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "SOS: Hollywood becomes a zombie playground! Load up your fire and go solo in a shooting rampage, or team up for explosive co-op fun!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.31 GiB"
 }

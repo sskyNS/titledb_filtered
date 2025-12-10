@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc0e230a362f4b0dccafc8c50c777d3f78a823303399c7d2002bc14ec2ea3004.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A single-player TPS game that fights against terrorists around the world! The suspenseful stages in various places! Weapons that excite military fans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.74 GiB"
 }

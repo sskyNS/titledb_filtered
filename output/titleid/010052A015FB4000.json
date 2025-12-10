@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0a17319f2b6a60b13e17a1073e4b0b062ab684c8a489ac1eae7491e45f3cdc6.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A puzzle game about building stories.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1023 MiB"
 }

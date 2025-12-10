@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d2761047daab5de25dbbf34d8b0dec8e71acfecc408a501851a622987c08f23.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Find the source of the disease and destroy it in Herodes!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8c57cf7c320932a0dce388cbeae066a4a6827c905154bd123b886f35a14d9b9.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "Nintendo Switch\u2122\u72ec\u5360\u30b2\u30fc\u30e0\uff01\u6b63\u7fa9\u3082\u60aa\u3082\u95a2\u4fc2\u306a\u3057\uff01\u8276\u3084\u304b\u306a\u7f8e\u5c11\u5973\u305f\u3061\u304c\u7e54\u308a\u306a\u3059\u3001\u76ee\u304c\u96e2\u305b\u306a\u3044\u30d0\u30c8\u30eb\u30d5\u30a3\u30fc\u30eb\u30c9\uff01\u30a2\u30cb\u30e1\u98a8\u30ab\u30fc\u30c8\u30a5\u30fc\u30f3\u30ec\u30f3\u30c0\u30ea\u30f3\u30b0\u3067\u9b45\u305b\u308b\u7f8e\u5c11\u5973TPS\u304c\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

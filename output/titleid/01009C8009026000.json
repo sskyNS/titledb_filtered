@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cf72a7da3956e63b752b66c1965fb774017d7e5c8a141a963a768b8c94c1791.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "From the Creators of INSIDE",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bb8b655a528875b7ea1137474b9cca923b38ff95802bbb3c2885b75c87d6577.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Opposites collide in the negative-space combat of INVERSUS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "98 MiB"
 }

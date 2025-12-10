@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c0ad8464339c3339a11b6cb839b58815dd0a9bda31d27159cf93bd8135ba817.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Descend into the most dangerous deeps of Aeterna, and fight your way to the end!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "3.93 GiB"
 }

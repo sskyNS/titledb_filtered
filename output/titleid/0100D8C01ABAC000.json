@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fa0bd2a8bed5c8c8e259ac236afdcdf293ee520a8c6864d4a9f6e8aa1e4e433.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"RPG",
+		"\uc2dc\ubbac\ub808\uc774\uc158",
+		"\uc5b4\ub4dc\ubca4\ucc98",
+		"\uc804\ub7b5"
+	],
+	"intro": "\uad50\uc218\uc9c4\uc744 \uc9c0\ud718\ud558\uace0 \ub3c5\ud2b9\ud558\uace0 \uc9c0\uc18d\uc801\uc73c\ub85c \uc131\uc7a5\ud558\ub294 \ud559\uc0dd \uba85\ub2e8\uc744 \uc721\uc131\ud558\uace0 Valthiria \uc138\uacc4\uc5d0\uc11c \uac00\uc7a5 \uc720\uba85\ud55c \ud559\uad50 \uc911 \ud558\ub098\ub97c \ucc28\uc9c0\ud558\uc2ed\uc2dc\uc624.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.16 GiB"
 }

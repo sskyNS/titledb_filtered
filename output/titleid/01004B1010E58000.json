@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/300076f6053fe449bf02e2eb9018f76a08b060e734de16143c039c96a2e86c2b.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "RALF and CLARK unleash their IKARI! Follow them into the fire of the battlefield!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "87 MiB"
 }

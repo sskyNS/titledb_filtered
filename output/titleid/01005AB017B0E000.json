@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59ed183d68914aea4a95a606cd370188ac3786d1ad74ec2c4a8a2fec13967ffe.jpg"
 	],
 	"releaseDate": 20220218,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Training",
+		"Lifestyle"
+	],
+	"intro": "Feel the rush of a racing drone and the freedom of flying like a bird trying to defy the laws of gravity.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

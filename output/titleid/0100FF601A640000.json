@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1575cd080384e3e607baa07b93b1fbf9a236493eb059e81d5ed85df917bf51f.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A classic platformer experience with a TINY twist. ",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

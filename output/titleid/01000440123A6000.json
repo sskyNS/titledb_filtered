@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/90776148f6f63af57d6981014182448f2c12650f065b3e27cd0f5c082a7851f1.jpg"
 	],
 	"releaseDate": 20201103,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Unique fighting-game inspired combat, tons of abilities and trinkets that will power you up as you smash through tough boss fights.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

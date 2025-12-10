@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3dd1c8560dfa99648ba7252d8ebdea355dccd4cefcb3c9e170b261843d25cc6.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Other"
+	],
+	"intro": "A haunting tale of sin and redemption, bound by a twisted fate. Can three individuals uncover the tragic past hidden beneath the crimson-stained snow?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "824 MiB"
 }

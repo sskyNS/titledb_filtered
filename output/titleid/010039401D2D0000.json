@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/68904413b38587e58e65d27b6a1d27f323fc42862649fb266f3a9f9ed23eb2ce.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Play as a priest and exorcize the evil!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.60 GiB"
 }

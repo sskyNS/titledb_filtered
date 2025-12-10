@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6b1c3d7e2b2eb582b1d3bf7c22fc360e2740d113e39a90a16ed7b0c778595fb.jpg"
 	],
 	"releaseDate": 20200818,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "432 MiB"
 }

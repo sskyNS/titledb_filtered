@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/35bd39816378f9fea745c46878218240bb2e744819564d28dd78b92b67e24557.jpg"
 	],
 	"releaseDate": 20241225,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Enjoy Golf Up with friends and family!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "373 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb983f8654c59b756ce5d0cb6ec2f1b92e65ac4dfc00933ca17990d053da7253.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "A full-fledged card deck building full 3D RPG game.\nSubdue boss monsters and collect materials to craft and strengthen weapons and armors.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

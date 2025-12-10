@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b14ffa9d237ceeb8bc80784effeaee3b9664e11b4d801ec60a46980499022381.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Train Station Simulator is a train station builder and manager game. Create and maintain your dream station! Ride the rails and operate your ultimate grand terminal!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

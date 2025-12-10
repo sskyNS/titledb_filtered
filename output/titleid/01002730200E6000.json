@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e46926481564ee37cefe3b759f896eef5bc36e532348c238564e297bb0d44037.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Build your way to victory, one brick at a time!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "645 MiB"
 }

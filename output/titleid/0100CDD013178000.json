@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/54b542cdc96b1812453f947fc4d2e34e25f21f61cbcf6fa67ee1c92586cc89b3.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Rescue the princess, collect the vases!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

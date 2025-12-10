@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5905804e61b8ae9268d21aecfe8a3844fc8f10c1725ab44c31886c62cb45bcfb.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Conquer the Mortal Realms!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.35 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ff5d3b667d6775490c99831ced02d8746ed0be15b6a4f1a9b5fe2ec05c66d1c.jpg"
 	],
 	"releaseDate": 20250613,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Wander. Wonder. Relax.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

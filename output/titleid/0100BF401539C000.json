@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdcece6068e7fdfa5492b3dd7b0af77a913780d7ac616978600e69fe31e73722.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "It's time to Build a Zoo! Construct and decorate enclosures, buy and breed animals, hire zookeepers and vets... then try your hand at DNA splicing",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "865 MiB"
 }

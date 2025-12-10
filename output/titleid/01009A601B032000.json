@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1129dd4ff1e71bf6ae5853ae3356bc7c6cb94aff4acd9f98fa8fa9f895ed2046.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation"
+	],
+	"intro": "During WW2 you are an American soldier who captured the german bunker in Normandy. You must defend it and survive this World War II. Complete all missions with your crew.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "728 MiB"
 }

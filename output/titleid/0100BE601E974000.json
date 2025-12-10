@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1081db075eea10541ec1149abf68ab58fcc6b860ef3d8744127d39b95aa0f02b.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "SOS OPS! is more than a game. You will find yourself in the epicenter of madness, where co-op missions with friends will raise the adrenaline to the limit!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.17 GiB"
 }

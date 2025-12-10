@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/98afa0ad528eddd6c76bec9ebef7dcc66c8fac198600e8a17a18ce34f223ccec.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Fighting",
+		"Strategy",
+		"RPG",
+		"Action"
+	],
+	"intro": "Unleash your skills and face your foes, go to the end and survive the experiment.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

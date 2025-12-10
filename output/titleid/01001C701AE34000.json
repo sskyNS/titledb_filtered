@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/adc5260b50a5456d99c8f261d1b216388fa393f2b207e4518f89d9709bbd9f1b.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other",
+		"Fighting"
+	],
+	"intro": "A live-action, interactive buddy-action movie",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.81 GiB"
 }

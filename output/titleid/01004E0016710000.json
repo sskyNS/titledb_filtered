@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/61a5babda7f440c8a961ac9a701afc1c87fdc05dbecd3032440eba11f31cbae0.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Side Decide is a relaxing puzzle game that harkens back to the wooden blocks of childhood. Roll your block across the board to the finish while striving for the fewest moves",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "287 MiB"
 }

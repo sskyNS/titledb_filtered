@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d57fc09f1bfde24396e0c11dfc5eb75954233e944c4c57abe59b21aed9bc9f4d.jpg"
 	],
 	"releaseDate": 20241127,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Dive into an immersive fishing adventure set in a stunning archipelago!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "903 MiB"
 }

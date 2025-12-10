@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/053ac1f1b344ca49fa8c4de9a68cac196c91835d169ccf39ef1514ad94f4ff69.jpg"
 	],
 	"releaseDate": 20240723,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Communication",
+		"Action"
+	],
+	"intro": "Dive into Darkness! Battle monsters, uncover conspiracies, and shape your story in this RPG thriller set in the World of Darkness universe.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

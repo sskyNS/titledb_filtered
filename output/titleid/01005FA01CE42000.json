@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9643c8b66eb4182696e148213664e46ebbcf6905b5ef67296961f1159a33e05a.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Experience a world of choices in this ultimate decision-making game with 300 mind-bending dilemmas. Your path, your destiny awaits! And You What Would You Rath",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

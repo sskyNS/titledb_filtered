@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/79d8decaa91607a2e4e4834ac982e1a27ef4faef9976b125702d3a0e64ddbc29.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Farm for your Life is a Time Management Game. The light-hearted style of a casual game collides with elements, which are usually only seen in horror genres.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

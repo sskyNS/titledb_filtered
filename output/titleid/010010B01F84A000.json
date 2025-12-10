@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/877dc9d9d81c6dfb6a8fe8170e986ac145aba9b13a9ed3ea5690b381d70e9c75.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Move the blocks with the same number to fuse them together.\nAs time goes by, the blocks will be added to the game, so ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

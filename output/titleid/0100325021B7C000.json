@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ef840723ca45e79f3ced22cdf0d75fef5e0fcfa4d7081480d90eb7b3859113d.jpg"
 	],
 	"releaseDate": 20250205,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Puzzle your way through a steampunk world of precision platforming and roving robots!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

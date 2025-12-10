@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c988de8f88562bbfb147d0c152ada1786f8b13dfed13b8d44f2548cab2e0726f.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Survive horrible dangers behind the wall of insanity",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.98 GiB"
 }

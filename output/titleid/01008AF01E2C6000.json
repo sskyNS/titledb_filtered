@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/992f04cc65b290122f59cc398a3a07f49e80825bafe7f6ff385f27a74e1099dc.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Piloting the Manager X-15, embark on a mission to rid the world of evil cyborg Karens and save your city from entitlement forever!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "721 MiB"
 }

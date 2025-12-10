@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0c3ab1090dae519f88bb864afd095830479154eba41eba2047e11eb5c526083.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Action",
+		"Fighting",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "The city falls, the dead rise\u2014your survival is all that matters.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.89 GiB"
 }

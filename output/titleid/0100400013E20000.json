@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/787e7bdc971981557538ff05da68f018fe18b12b275d05969eca871077b87c0c.jpg"
 	],
 	"releaseDate": 20210611,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Battle robots in this mega mini-metroidvania!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "297 MiB"
 }

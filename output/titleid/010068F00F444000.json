@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fbfcaeca377bffa701e6427bb43ca7a0d68261a06f27b56b94c9d004cbc760d.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Education",
+		"Party"
+	],
+	"intro": "Compete with family and friends in the most epic chess game ever made. If you enjoy putting pressure on your opponent, then the Queen's Gambit is a perfect opening for you.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "371 MiB"
 }

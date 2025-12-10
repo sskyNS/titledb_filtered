@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b37b5690529e1068999b443654c6247bb414e4aa0f6416a06fe230eb111a3b5.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Party"
+	],
+	"intro": "ESCAPE FROM THE LIMINAL SPACE",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "333 MiB"
 }

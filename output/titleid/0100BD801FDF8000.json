@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cf700b880440c0e4f65156888700435f775f2cfe3e595cce0dd92c3f3b32863.jpg"
 	],
 	"releaseDate": 20250307,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Fly, fight, and fall in love in the steampunk world of Kamikaze Lassplanes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.28 GiB"
 }

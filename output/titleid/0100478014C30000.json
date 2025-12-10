@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd4e62b8207eeb624b75a2ae658cfb1b77b9b14796c19fe0be2fc436261c77b5.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "In the future, Earth as we know it is shrouded in darkness. All seems lost \u2013 until the fates of Cyris and Lea intertwine! Join our two heroes and save our dying planet in this sci-fi action RPG.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.84 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aec354764260efc2a5f1edf2ecc6605161c905f5c98e6b4b8af239cac65780dc.jpg"
 	],
 	"releaseDate": 20250613,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Every broken house deserves a second chance \u2013 build your dream home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -4,5 +4,16 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20190425,
+	"category": [
+		"Sports",
+		"Action"
+	],
+	"intro": "Swing into action in this Mario Tennis\u2122 Aces Special Online Demo event, which comes with a 7-Day Free Trial for Nintendo Switch Online",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "937 MiB"
 }

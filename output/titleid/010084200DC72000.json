@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7b3d53cbe16a18c01485319928ae37d51f019764e2d0f8f11be878c7f444752.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Drive the steam train to connect carriages, pick-up passengers, and transport them to the...space station?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

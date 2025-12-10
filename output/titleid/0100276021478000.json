@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/79ef3eb8ec59d761d48558b6d984c3c91975fdaa4a38897b3c34639a0631061b.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Communication",
+		"Other"
+	],
+	"intro": "Solve puzzles, explore neighborhood and overcome negative self-talk.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "556 MiB"
 }

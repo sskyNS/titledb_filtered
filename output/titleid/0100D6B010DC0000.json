@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0643eb3e9ccf85189f7f6eb08e41c948d5aafa07cb9953ed8ff9611f9e2ec308.jpg"
 	],
 	"releaseDate": 20200722,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Cyber Complex is a unique mix of Action, Strategy and Arcade elements in a 60s-style Sci-Fi setting.",
+	"languages": [
+		"en",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "130 MiB"
 }

@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/78f827b8373d1001323de70964317dbfeb30ff7faebf4270eac343585eaeed17.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Block Puzzle is the classic puzzle game in its best version of all time!\n\nDrag the blocks onto the board to fill the squares. Try to fill blocks in a vertical or horizontal line to clear that line until no more blocks coming.\n\n\u2714 4 Different game modes.\n\u2714 Game in your language.\n\u2714 7 Game themes. \n\u2714 Daily Rewards.\n\u2714 Enjoyable, Relaxing and Fights Stress.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

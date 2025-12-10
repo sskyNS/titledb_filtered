@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9e81d1f8f298416b79e00b23aed043bf252e2003d784aba936000cdae9262d8.jpg"
 	],
 	"releaseDate": 20200408,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Puzzle your way across the Baobab Savanna, the Fang River, and the Canyon of Bones, or get the ultimate Ubongo party started!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "296 MiB"
 }

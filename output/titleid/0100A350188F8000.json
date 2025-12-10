@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b93703de1cc2751f9c258af539e9d11bd1229638ce69ca65e088fff45945ce2f.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "As the OmegaBot, dodge metallic dangers, acquire powerful weapons and blast your way through a ravaged world full of deadly machines.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "236 MiB"
 }

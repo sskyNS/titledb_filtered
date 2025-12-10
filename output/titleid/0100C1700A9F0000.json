@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e870a6f14de6eef223d94e454bddbf8197184066cce5f944b564293274e47c7c.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Party",
+		"Action"
+	],
+	"intro": "VIDEO GAMES vs HORROR MOVIES",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1001 MiB"
 }

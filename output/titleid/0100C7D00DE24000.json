@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb25cc8f901599be076b9b50cdfa59a954c152eacde1e8f112ed640309becf53.jpg"
 	],
 	"releaseDate": 20190624,
+	"category": [
+		"Action",
+		"RPG",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Death is not the end. Do you have what it takes to defeat Magrath and his army?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.54 GiB"
 }

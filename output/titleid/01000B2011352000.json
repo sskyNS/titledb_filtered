@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4add2c541f38a0fcaac3f5fcd1efc07fbe1dca0db790e5e9c719ec8b8ea71ee7.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Strategy",
+		"Action"
+	],
+	"intro": "One indie developer, three acclaimed games!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "769 MiB"
 }

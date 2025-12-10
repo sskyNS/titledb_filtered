@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/913739e134706d5cecc91754a391ae2eaefc89ac464b8a0632f5e33936b54ae0.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Training"
+	],
+	"intro": "Ride your truck through the mountain trails and overcome obstacles on the way. Drive the 4x4 vehicle and become a true offroad driver.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.92 GiB"
 }

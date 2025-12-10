@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/be69dd3c0935f83a295c1f2b37eb8dfbd02c725e0fee3d796ef891b2bdfa5962.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Go Berserk! as you change into different forms and use the power of Lightning, Fire, Ice, Air, and Earth to save the planet from the Evil Dr. Genos! ",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

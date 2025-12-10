@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/139ab96107648b71d829289869bdabab3733873e9c19ec33c5eff67cb748e681.jpg"
 	],
 	"releaseDate": 20180727,
+	"category": [
+		"Action",
+		"Puzzle",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Hello Neighbor is a stealth horror game about sneaking into your neighbor's house to figure out what horrible secrets he's hiding in the basement. You play against an advanced AI that learns from your every move. Really enjoying climbing through that backyard window? Expect a bear trap there. Sneaking through the front door? There'll be cameras there soon. Trying to escape? The Neighbor will find a shortcut and catch you. \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

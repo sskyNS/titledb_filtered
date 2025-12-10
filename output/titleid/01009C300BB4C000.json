@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3fe177626b05f0c711748162ac62f0d41910d2f8fcd8eeda1424cbead79aaec.jpg"
 	],
 	"releaseDate": 20190305,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "LAY DOWN THE LAW. ONE TICKET AT A TIME.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

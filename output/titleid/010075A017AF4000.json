@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8c46f6bc156f6f2ee87c11aff8523fd8cabcbc4f1d8a6ef1973ef7e04979543.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Realistic Driving Physics, Stunning Views, Car Tuning and Customization, and Millions of Fans Worldwide",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

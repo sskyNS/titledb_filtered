@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f2612e03c408adb6eb96caa79240e7e91bceb00ab8c8cdff903e08a8c44a175.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A Giant Brain who wants to take over the world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

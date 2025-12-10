@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f800d73e5b18ce4516487d449ddc552bb0b7de55836608bb63c648e75cf4e00.jpg"
 	],
 	"releaseDate": 20240524,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "The Glass Staircase is an homage to survival horror and Italian zombie movies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

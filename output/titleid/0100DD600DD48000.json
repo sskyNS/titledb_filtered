@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc7af0654cb1dda7c4adb74f3efdb86515ec97c895786f6b089c088a3b36c1b3.jpg"
 	],
 	"releaseDate": 20190704,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "One summer can change everything...better bring a friend!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.15 GiB"
 }

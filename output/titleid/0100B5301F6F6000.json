@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b73f9936ce5896fbdf5b1afbc1db7139e1ca420c9752a3c016b4c25f203678d.jpg"
 	],
 	"releaseDate": 20240614,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Help wacky animals to relax in the pool by matching them on the floatie!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

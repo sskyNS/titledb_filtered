@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/31b50b3abed26bfed6b55d037119139d813aae5a247bb5942a25f518a16ea442.jpg"
 	],
 	"releaseDate": 20250701,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Dragon Eclipse is a roguelite deck-builder with a unique auto-battler twist. Choose your Tamer, team up with powerful Mystlings, and battle fierce foes. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "404 MiB"
 }

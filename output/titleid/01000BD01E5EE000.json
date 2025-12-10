@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/78ac95db4196062847f1f1b1ca48db183be3a9fd770a8e4f2898a190c3da7220.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Classic casual arcade game in puzzle style.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

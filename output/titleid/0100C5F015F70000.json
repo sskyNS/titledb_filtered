@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/dff6050b71bbba2fa84bf9c01eeed6243001c5bee91575e434935046fcb48195.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Education",
+		"Study",
+		"Arcade",
+		"Practical"
+	],
+	"intro": "The best balloons educational game for kids and babies. Pop funny balloons while learning up to 14 different languages. Perfect learning fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

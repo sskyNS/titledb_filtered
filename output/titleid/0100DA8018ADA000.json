@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0f3d73789d22588123e7eccf718c99ecf367dab28a3f4e5e8df9f3df87775f8.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Simple and easy to play point and shoot game. Aim carefully and clear all the marbles. Explore all levels and have fun.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/68fcde6981290fc87961aa192f0a2a39fe86e5fca69f39363a23ab0ab723ab59.jpg"
 	],
 	"releaseDate": 20170907,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Aim for the Empire! Fight against the Daruma tribe who invaded the Planet Raguy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "85 MiB"
 }

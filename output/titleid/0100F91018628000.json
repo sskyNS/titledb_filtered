@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/243a710961cb094535976a0d8eac3bd3bf120fff2b79731891a2834110b97aa1.jpg"
 	],
 	"releaseDate": 20230926,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Explore a ripper new side of TY the Tasmanian Tiger with this fair dinkum, comic-style side scrolling adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.92 GiB"
 }

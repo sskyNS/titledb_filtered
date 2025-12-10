@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6765f0228e7c5a4b3d268e85b76fefd31292d93dbecafca1a78f9ceec87bcf3e.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Study"
+	],
+	"intro": "Unblock a path for the kitten in Cat Slide Tiles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

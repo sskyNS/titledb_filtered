@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/22f22dd566a3f8c47c5d3600631b162576a6c3510a77baaa951552305d5228bb.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Do you have what it takes to hack the system and take down the core?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

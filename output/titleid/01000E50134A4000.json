@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d397e47fd66c02fb16f4ebaccebf1fcfc3caddb6c323c65f867c1e10408e40a3.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Without fun there is no \u00ab Super Puzzles Dream \u00bb",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "817 MiB"
 }

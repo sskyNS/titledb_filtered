@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83ccb0ccfdd6b68404f9fbb4cb1746b9e604196bdbd59a921aca85c5761d7928.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Action",
+		"Fighting",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A Pixel Art Twin Stick Shooter/Hack n Slash/ Wave Survival Game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "418 MiB"
 }

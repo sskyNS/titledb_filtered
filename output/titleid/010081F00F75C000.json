@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5e65dd12d056c101daa368dcef0c6b817f5a29df1b5f7ce6a9ccb72094e91d9.jpg"
 	],
 	"releaseDate": 20210430,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "SUPER ARCADE SOCCER 2021 combines the best of today\u2019s technology and classic retro games.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "373 MiB"
 }

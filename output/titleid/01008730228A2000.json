@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb2996a10f801efa57b4fb9b0512eac00b73115d997cee0378c73f76a725efa5.jpg"
 	],
 	"releaseDate": 20251020,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Explore a surreal world with a cute alpaca! Solve puzzles, fish out the most unusual items from rivers, fight watermelon thugs, and uncover all the secrets of this world!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

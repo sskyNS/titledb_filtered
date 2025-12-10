@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/992a35c70916872113d4d47ef5229b5704ced0d9df16e0532cd7092fba9e1be8.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Join Antiquities expert Mia Faircroft as she uncovers the secrets of the Treffenburg Crown Jewels.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

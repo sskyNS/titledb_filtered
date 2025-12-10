@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0427a9d5247ce99b90afb23e1b8dea2c4642809632f667e247b1433efc4d2647.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "An action packed airplane rogue-like!\nA young womans quest to find and hunt down the legendary skywhale in the stratosphere",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "815 MiB"
 }

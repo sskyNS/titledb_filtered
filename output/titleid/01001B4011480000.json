@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e64211e971f1b932456aed0f235d8be73e2c1fc6cb483c7b8d01f9c18b9550e5.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "When Destiny calls for help, but no one answers, only four nerds can save the day. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

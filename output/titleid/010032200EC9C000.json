@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2ade7a3954821b0056ae1d9d8b070aa21dc61bb34a9fd72421f1e97bd70a7b0.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Runestone Keeper is a challenging roguelike / roguelite dungeon crawler that blends classic roleplaying elements and turn-based combat strategy!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

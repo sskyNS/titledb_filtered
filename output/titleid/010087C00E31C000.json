@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/03efbdd88f722cfb4ae92171d40f303b45b95dd806f0854a3e385644845b8b7d.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Incredible Mandy is an action adventure that takes place within a beautiful world of wonder, born out of dreams. ",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.08 GiB"
 }

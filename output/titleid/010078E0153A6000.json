@@ -6,5 +6,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/797e247747696843b471db472b01b41510ed4d8ec6d13cb3f86e82dc3ed7afbd.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Study",
+		"Education"
+	],
+	"intro": "Find the words and complete all 1399 Levels!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "329 MiB"
 }

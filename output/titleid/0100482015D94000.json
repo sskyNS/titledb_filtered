@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/476d4044e2aa33175675a514e38752b5fd4839b4d2856671f8bcaa7d189247a4.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": " Build the greatest trade empire of ancient Rome!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 6,
 	"size": "695 MiB"
 }

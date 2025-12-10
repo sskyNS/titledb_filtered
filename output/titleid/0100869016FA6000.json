@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b61c140f68a7e3d4e192de8f2f7a4e55084958c571857b450e0022dfec910ccd.jpg"
 	],
 	"releaseDate": 20220706,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Take the role of a man and his mouse across a sprawling first-person horror adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.12 GiB"
 }

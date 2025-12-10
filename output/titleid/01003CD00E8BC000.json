@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0589dd5ccb034318a5b2f9b3a365e80906fee99b9368748a8da61aed4709899a.jpg"
 	],
 	"releaseDate": 20200423,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Ride off the beaten track!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.03 GiB"
 }

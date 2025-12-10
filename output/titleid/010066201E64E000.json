@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d2ffceca6aed16196e87e05a10a7b7461f518ae29f4bd7e4c1eecc73b48e875.jpg"
 	],
 	"releaseDate": 20240310,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Training"
+	],
+	"intro": "Block Magic Puzzle is a classic game with a 10x10 play style.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "60 MiB"
 }

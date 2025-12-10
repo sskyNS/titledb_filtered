@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/08a7cb0af1a97bda10cf7e7f9ec2c732b3c7ce3e3c99caf7cb086c6cc7f31c07.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "An adventure set in present day London, where you play as three separate characters whose worlds collide in the midst of a supernatural crisis.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.48 GiB"
 }

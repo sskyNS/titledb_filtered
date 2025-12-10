@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/26636aad5870d82c2aa4cbe3ae77df8f8a0e206d6849cad7d55ac3441c3cfc06.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore levels, create paths for the ducklings to reach the exit and save them from being stranded in this puzzle platformer.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fac967bbbc78f7332600d5cf52ceff5f0cea97d1bf8e2f37a1f66b689de0575.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Music"
+	],
+	"intro": "Relive the deep-sea classic! X-Out reemerges on console as X-Out: Resurfaced.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "596 MiB"
 }

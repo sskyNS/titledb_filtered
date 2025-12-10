@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/afd27484ca9414dd895c0b23d50ed2dff556e74cc765e02662c61afb3e5555d7.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "UFOs! Aliens! Aircrafts! Resistance! SHOOT 'EM UP! Enjoy a smart combination of a fast-paced shooting experience and the 1950's sci-fi movies aesthetic, with live-action cutscenes.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "12.15 GiB"
 }

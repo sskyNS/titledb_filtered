@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfd28dd27836c1b6873031e8e26fb5cd0a2c2ef8c0d8b726d0bacae7f3b4e6a9.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "An ex-minister ventures through the frozen depths of Hell in search of his kidnapped daughter.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

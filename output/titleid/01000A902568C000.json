@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ccac715d7b49507f9bea5936cf2c0d8ee7fc2eba33e707c7477d32d72bbe28e.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A heartfelt journey through the wilds",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

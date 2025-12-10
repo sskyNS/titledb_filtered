@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/14f4d8dfc34d937d5464fbb83dfa97b974142caf8b0f14566bbb36412fc1854b.jpg"
 	],
 	"releaseDate": 20231124,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Immerse yourself in a fascinating world filled with magical gardens and witches.",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

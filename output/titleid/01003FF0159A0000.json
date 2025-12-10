@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0750acd9095184f7f4c6f2b0e5a5e423a4ff9b90ee32ed0d6c0d21ce961ca72.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Action",
+		"Strategy",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "A roguelike stealth horror where everything is randomly generated: maps, items, enemies! Save the girl from a nightmare where everything is RND within the time limit!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

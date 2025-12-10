@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed7e9962605b62addb86819baa3d5524a5a5630f594408ecb5a8ec9c14d76c72.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Drop sushi and stack them up!\nGrow your sushi stack bigger and taller, and aim for a new high score!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "253 MiB"
 }

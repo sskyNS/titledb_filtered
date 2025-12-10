@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/822dc8795c6d2fd9f7a959a65735cd60083769853d8b83c79db1d4dba6b68b7f.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Everypony is here to save the kingdom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.21 GiB"
 }

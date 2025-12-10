@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/756c26769cbab914cee3c163f3dcac41de4f547ba62f94843cdb87590c3568db.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Turnip Boy is back! This time he\u2019s teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "1.22 GiB"
 }

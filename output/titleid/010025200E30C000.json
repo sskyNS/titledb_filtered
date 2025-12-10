@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/106f2de45f6b36240be77b4f26df7d3fa367215bdcb923458144f9a7d390ec04.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Puzzle",
+		"Other",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Push the limits of your brain and coordination in SEGA AGES Ichidant-R.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "96 MiB"
 }

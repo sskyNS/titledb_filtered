@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9c9a180e0533901a725b09d77aea3b2824ca5225d049c3d01a18b17e5306905.jpg"
 	],
 	"releaseDate": 20230620,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Step into a world of serenity and tranquility with Zenful Journey. This zen-themed game invites you to explore a beautiful forest at your own pace, ticking off items on your list as you go.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

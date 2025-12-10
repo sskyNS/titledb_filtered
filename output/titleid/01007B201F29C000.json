@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b7a1d3427042334137bd9691491b56151a5d52bf4cc7e9a460dca29316f7401.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Innovative Rogue-like game. Speed is your weapon! All you need to do is \"Dash\" and \"Burst\", to \"crash\" the enemies in your own style.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

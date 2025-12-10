@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46a9ceebb8992382133a50225c6827f1712ebec321137a715f21a807bed618e7.jpg"
 	],
 	"releaseDate": 20220819,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Race the Spinny Path",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

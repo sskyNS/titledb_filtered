@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/770798b8a16192121883328cbf5e65c0b69059e7666f731d7b7915a039b86b1c.jpg"
 	],
 	"releaseDate": 20210201,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "This is a remastered version of a JRPG that was popular in the early days of the Internet in Japan.\nBattles take place in a voxel-shaped field.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

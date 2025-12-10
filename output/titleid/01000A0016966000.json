@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfe96996f42a581b3d79245183ae7bcf14b0c57a286862cd5f34b9ea93761569.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Survive the horror and escape very creepy monsters scary adventure game! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "455 MiB"
 }

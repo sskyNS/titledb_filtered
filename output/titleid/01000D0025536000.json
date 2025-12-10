@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee51328bf72eb9763d2d4adfca7beb7b52d1210a35afe0f026e228a0ff694821.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A classic shoot-em up where you avoid waves and waves of enemies coming and shooting at you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "34 MiB"
 }

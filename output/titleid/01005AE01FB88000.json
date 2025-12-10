@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/015f1a87e0c813584527acfa8ff88b318ec281a0cd76e2f9c39f4c697e048514.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Welcome to the exciting world of air plane racing, where speed and strategy are everything!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.46 GiB"
 }

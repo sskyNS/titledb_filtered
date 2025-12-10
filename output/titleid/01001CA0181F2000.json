@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed307e3d596dade4322f7dac67a9312ec91f6521c515cbf21896536807158fdf.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Love horses more than all else? Join us in the exciting world of horses!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.29 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf23a1c6900da25a32f999276e259b4e148b707986b75cd64906cf46da0402f9.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "\"Jewel Fever 3\" is the much improved successor to the highly succesful \"Jewel Fever 2\" which is played by millions of people. \nIt adds new gamemodes, better graphics and finally local and online multiplayer!\n\nIt features:\n- Classic gamemodes Normal, Quick and Infinite!\n- Mission mode with 30 missions to solve!\n- AI-mode with 4 different AI-Opponents in 2 game modes! \n- Local and online multiplayer!\n- 15 Achievements",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "215 MiB"
 }

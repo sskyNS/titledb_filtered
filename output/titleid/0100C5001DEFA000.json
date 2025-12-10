@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e313c0b3a2b2180b353d8bcd49f1eaff5a332bc6e37e445b3166c00067abd73b.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Replik Survivors is a time survival game with role-playing and roguelite elements. Become a replik(clone girl) to defeat the Lab's enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "192 MiB"
 }

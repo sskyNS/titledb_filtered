@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eaf280d048cce587e9fab1463fb270f067b4e97a0da0732d48b02ca44a1daebb.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"Training",
+		"Adventure",
+		"Education",
+		"RPG"
+	],
+	"intro": "Action Adventure and practicing math basics: \u201e2weistein\u201c combines lots of fun with a modern way of training math. Often one also has to solve puzzles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.02 GiB"
 }

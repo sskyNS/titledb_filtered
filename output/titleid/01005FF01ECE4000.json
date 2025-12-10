@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/da17431e342d38f904edc7b439fe9cbe65b4d4cbb299e6701ef069f9802341dd.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Overmorrow is a serene, nonviolent, exploration adventure game that deletes your save after 30 days.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

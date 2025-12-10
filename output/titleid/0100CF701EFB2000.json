@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c16d9bc6313a9ae4f4ff53ac979506f63c2364cd62effbdd9a4b94306517c9.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Welcome to the arcade world of battle tanks! Get into the tank, go to the battlefield and complete all combat missions!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "716 MiB"
 }

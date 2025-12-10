@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/576673748a47855964ca81c09dc4bfb0bcc6cc253b45ab994cba27a615fbf238.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Loki The Cat is home alone - it's time for a roguelike cat-astrophe!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

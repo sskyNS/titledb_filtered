@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6efbc4ff6158b1f9b39fd50352e7a1370bec0707dd6ce8cf25f147eb77f7d518.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Education"
+	],
+	"intro": "Follow Jerry and Maya on a mystery-filled detective adventure!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "232 MiB"
 }

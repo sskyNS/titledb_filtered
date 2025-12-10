@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9dc7d52eb7b48bf0bb91798266cd33dba42c2787175f30723c90c30ed8ac5d2.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Take a stand to free the people in an epic tale of rebellion and friendship!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.40 GiB"
 }

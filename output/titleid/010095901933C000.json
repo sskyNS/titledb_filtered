@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab998dea20e60415caeec92b8c54ed277b172aad089d4a4600d1496f6171a12b.jpg"
 	],
 	"releaseDate": 20220815,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Webgeon Speedrun Edition is a Arcade Speedrun Game,\n\nYou have to be fast, yes you have to be fast,\nCan you finish 20 levels in the fastest time?\n\nOur character is a spider, but you have to be careful,\nNot all levels are safe for you,\nCan you solve the challenging puzzles as fast as possible?\n\nDifferently designed,\nDifferent colored sections,\nBut watch out, the levels get harder and harder!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

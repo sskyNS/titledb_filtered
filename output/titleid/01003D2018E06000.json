@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dd4dff5720d7de24e266e79e79560a55ecf1e27066ce6dc26cd392024e5cfed.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Party",
+		"Board Game"
+	],
+	"intro": "If reading the question is fun for you, wait for the answer. Avoid the same old conversations and discover this quiz game to learn a little more about your friends.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "236 MiB"
 }

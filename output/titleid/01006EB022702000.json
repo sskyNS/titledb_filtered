@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b82a8e40cc44619a29dd06719ef6f8e9d371b993480c270d11d04412280d972.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "Dice games bring people together!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "534 MiB"
 }

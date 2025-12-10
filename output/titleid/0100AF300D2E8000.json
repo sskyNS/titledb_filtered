@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2e792e2f5fea03734fccf892efe2014558d37512c1e5aae3fe260149b9091ce.jpg"
 	],
 	"releaseDate": 20190411,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Time travel from the past to the future! Defeat enemies while traveling in a full 360\u00ba range of motion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "65 MiB"
 }

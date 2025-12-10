@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f468d05d4e9c305ec3c13a58933be8cbf05dd7a76a06ed12389b56774ad973c.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Other"
+	],
+	"intro": "Throw it here! Throw it here!\nA dinosaur drop game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "218 MiB"
 }

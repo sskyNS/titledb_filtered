@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6ed91ef71db9385db9ef51b40757829112a98cb533e3e512f30d682d73f11a7.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The king have been taken hostage and locked inside a Dungeon!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "144 MiB"
 }

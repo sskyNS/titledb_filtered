@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8a3b3259eea5c2f10a56b863b666b5d6d23299164a71ceea1df5fd2c4a75efa.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Defend the world from a coup!\nSpecial air force combat commences!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "43 MiB"
 }

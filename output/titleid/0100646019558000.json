@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf5239fb4c17bede9bbe037b737b93a31e8ba4d2451e726c02a3cb4e5e1003d6.jpg"
 	],
 	"releaseDate": 20220920,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "An unexpected hero emerges on the city's darkest night.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.17 GiB"
 }

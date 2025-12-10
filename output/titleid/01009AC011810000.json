@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f76e9d1e37542e3e51deb991b3f1f9f1875a6e52aa60dd7cc1e296e78e24aaf2.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Rewind, rethink, redo.\nCOGEN is a brand-new kind of 2D action game where there's no time for death.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "702 MiB"
 }

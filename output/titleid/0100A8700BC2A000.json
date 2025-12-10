@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/51a57dcac8a7881d726fa62f254ea9765da1fd34161dce0e6d62de10c9355a71.jpg"
 	],
 	"releaseDate": 20181127,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Action"
+	],
+	"intro": "In war, not everyone is a soldier.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.03 GiB"
 }

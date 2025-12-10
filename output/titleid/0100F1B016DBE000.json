@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ebddf157cdf60eb8d9801189bfb5b43dd0648d07fb392e7ea342c80110360d4.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "An alien hivemind sets out to destroy humanity. Protect your crew from giant bugs. Discover the truth about the alien invasion.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

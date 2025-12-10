@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14a44c922baf0a27ef962ca6244253fc6e77e74a1e843a2d2df8dae32b15b1e5.jpg"
 	],
 	"releaseDate": 20250103,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Explore the Crowley Manor and unravel the secrets of the Occult. Inspired by the Works of HP Lovecraft and a love letter to classic 90\u2019s survival horror games.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "975 MiB"
 }

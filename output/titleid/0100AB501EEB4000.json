@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/110f8498a5aec00ff38265e9fc7e9b9091226df9f08ed95663b3a0245dbaeaab.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Beat enemies by throwing them sport balls all over the world in over 200 stages and 4 game modes. Play solo or coop with a friend. Lots of hours of fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "263 MiB"
 }

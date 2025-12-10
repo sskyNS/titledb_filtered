@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7eaf7f3f294682363014f510b197ae0be1d25d6bd690f565a24d629e8c09898.jpg"
 	],
 	"releaseDate": 20190716,
+	"category": [
+		"Music",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "It\u2019s your time to shine! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.20 GiB"
 }

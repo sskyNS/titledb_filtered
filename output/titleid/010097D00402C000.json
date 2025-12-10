@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e57fb6e87cab3bd0363ba4b5dd7c1a29166b1b994b63ad656a8516a55e262460.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "- 3 playable beat'em up characters, and 2 support characters\n- Local Co-op Play of up to 3 Players\n- Collect, utilize and summon powerful Guardians and Elemental ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.37 GiB"
 }

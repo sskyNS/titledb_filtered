@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/155c3d461e6fef5d676fd191a02393365e196769994fe3c073078f1bb9185a45.jpg"
 	],
 	"releaseDate": null,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Vigor is a free-to-play shoot 'n' loot game where you build the Shelter in post-war Norway",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.16 GiB"
 }

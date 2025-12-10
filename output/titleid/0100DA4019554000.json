@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/645039a645d5b20713afb841b6b50d4da77ac184991d9566e747c11b7881e6d4.jpg"
 	],
 	"releaseDate": 20221010,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Frogy World is 2D Platformer Game\n\nPass the challenging levels with parkour knowledge!\nThis frog is trying to pass levels that are designed differently from each other.\nTiming is very important!\nWould you like to start on this adventure with this sweet frog?\n\nFeatures;\nChallenging Levels,\nArcade Mechanics,\nand Frog! Yes Frog!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

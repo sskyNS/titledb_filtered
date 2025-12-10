@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d262714458a76f92021ee8723bc934202e2c6c6dc2f42d8351502bd24d3453e1.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Learn the true secrets behind kung-fu fighting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

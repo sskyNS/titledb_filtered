@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/883a93499752cd06e75380fbacdb7f4a261420b8f6026eda9e770a6c06ef18fd.jpg"
 	],
 	"releaseDate": 20200417,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "In a world of folding paper, there are two sides to every story",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.43 GiB"
 }

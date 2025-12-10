@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/35fc676cad7ed665083c782d78f0c9e9e7b08a4135ac44ba27311055bd4983bd.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Manage your supermarket! Purchase products, stock shelves, serve customers, hire staff, and expand your store. Can you turn your small shop into a retail empire?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

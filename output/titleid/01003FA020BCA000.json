@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d33f54fbf4e11ac5bcf05b214876a96ec6cbec4ddec83b5d5c3dc60643b8c197.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Bottomless derailment, run-around.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "99 MiB"
 }

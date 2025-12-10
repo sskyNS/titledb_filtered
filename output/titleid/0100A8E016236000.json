@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/230ac5741ed71ca49a470200fdce064de685009d81cfb3d7172e126b102773dc.jpg"
 	],
 	"releaseDate": 20220817,
+	"category": [
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Bump, battle, and boost your way to sweet victory",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

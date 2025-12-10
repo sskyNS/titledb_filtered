@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4042388f72cd8a4db161f8bd1916fbe743db497a61f860b1e50bff3b5df962ac.jpg"
 	],
 	"releaseDate": 20221015,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "A stylish hack and slash game about an immigrant who takes drugs for her job.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

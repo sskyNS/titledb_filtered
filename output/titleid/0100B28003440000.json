@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1776ec19f17396145ab1dbb5c1e9bbc8e56682146b50c2b8dce42099ac0f9500.jpg"
 	],
 	"releaseDate": 20171117,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "The Aces of the Luftwaffe have returned! Dodge a hail of bullets and face their fearsome war machines in bombastic air battles and boss fights!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.52 GiB"
 }

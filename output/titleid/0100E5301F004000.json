@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/782e7725ea716cf2b1a7d23f8aeba31e9edf8895ab586cc5211127fe539b1446.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Arcade",
+		"Action",
+		"RPG",
+		"Other"
+	],
+	"intro": "The story of a little demon escaping hell because it's so hellish! Will the little one be able to overcome fearsome obstacles and arrive safely in kitty heaven?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "554 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2be776f8aa40ab6039323f0c1c8f97a9461bbab273cba4e8f6eba346df46b36e.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Party"
+	],
+	"intro": "The Crackpet Show is an action-packed rogue-lite shoot\u2019em-up about mutated animals that fight in a bizarre TV show, crushing their opponents with a variety of weapons.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "818 MiB"
 }

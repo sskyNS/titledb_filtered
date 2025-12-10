@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/697f75ac76072364ca5a43bb4f973b4e2810d2fa3adba51c7a3b25ed4e7b5ed8.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Reconcile the twin kingdoms!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "747 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb426e1845c0f68173e48fde525410e5f72cedcfc794d442114a0a1d458fc945.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Replay the classics where it all began!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "576 MiB"
 }

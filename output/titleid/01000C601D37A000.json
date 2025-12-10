@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fc79d105c3eba2ce9ebc009c702d24dacf16a929fefe9b667cd39f48b069ddb.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A mysterious meteorite has crashed in the Grand Canyon, Arizona. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "812 MiB"
 }

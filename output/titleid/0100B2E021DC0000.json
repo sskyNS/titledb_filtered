@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/acaaf398017054652ac3a670fc86ba6cb11c3c8f4f3630ad9cd3a9b15e6b9b69.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Can he restore the world's coherency before it's too late?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

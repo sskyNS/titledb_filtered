@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c126563d9336c1650287f42641f76e71981a1f41bbf13442141b8187f0f70070.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Retro action-RPG where you progress by earning achievements",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

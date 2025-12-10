@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7ca873a8a846b2c10f1d104b39645d9d7d04433359b48d35d9ed0442ae51770.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can You Escape This Place?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fab5e1ba77414f5f11258e36121e34a29bd905e401939aa69cf1c078b004f80.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Create potions, leave your lab, venture into the world, and change it with your brews!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "833 MiB"
 }

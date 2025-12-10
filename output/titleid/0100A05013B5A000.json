@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/53643a9f8c6b91fb2f149e33035d2c94304c82119fe84dee1a9dc8a22e82c3a2.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Strategy"
+	],
+	"intro": "PING REDUX has 100+ levels including 12 bosses that are inspired by classic games to help keep the gameplay varied.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5468f65c18a8adf7cd605a07b52da3084b571852b13980cd96c9641d624e6633.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Action",
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Hold On to Your Heads! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.25 GiB"
 }

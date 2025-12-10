@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0377df4c53e22c7dc5d811169ab30a7eeeaa48fa72be128fc30d120f8da4701.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Strategy",
+		"Training"
+	],
+	"intro": "ZHED is an instant classic puzzle game. Based on a simple mechanic, it builds onto increasingly complex puzzles that challenge you to a level you would not imagine! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

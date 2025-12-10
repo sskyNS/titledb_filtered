@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/32e909f2f9db0db872573b7e4a7a90eaa49eba0fe8349fbfbc2cb3a80479ac29.jpg"
 	],
 	"releaseDate": 20250808,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Psychological horror, which is part of the games CASE: Animatronics and CASE 2: Animatronics Survival.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.78 GiB"
 }

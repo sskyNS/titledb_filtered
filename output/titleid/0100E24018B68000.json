@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/68a11053519e4fe32a8701602d8e61b995ee8d71c9014e79b54a04d4deb61107.jpg"
 	],
 	"releaseDate": 20231101,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Uncover the purpose of your existence as a new energy life form!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

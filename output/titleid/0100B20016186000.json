@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0820cb73fda8a5cb32ae8010566c5afa70b1b8d7402f2e8a15e5b3529d74fbaa.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Oaken is a turn-based tactical roguelike set in the spirit inhabited world. Wake the spirits and save the Oak!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

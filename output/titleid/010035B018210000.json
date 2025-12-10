@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a84cf869a48ad3bea71d65d059bfced0b188256ee5159cc512716dff6c5298d3.jpg"
 	],
 	"releaseDate": 20220603,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "TEN floors. TEN rooms. TEN seconds.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

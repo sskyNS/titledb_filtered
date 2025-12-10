@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f98ef7faf3ff08b4e7888d5903ea504391b22d45ba6e42ee3efb597740b058fa.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "WARSAW is a challenging turn-based RPG set in the ruins of a besieged city.\n",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

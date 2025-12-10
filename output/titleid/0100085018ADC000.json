@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a11d2be3e5c5f69832c90b6ec4ecc4ad7db14e322989ed665c4efa63efee7554.jpg"
 	],
 	"releaseDate": 20230314,
+	"category": [
+		"Adventure",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "A mature 3D visual novel about sisterhood, motherhood, grief and survival",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.84 GiB"
 }

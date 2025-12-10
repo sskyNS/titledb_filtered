@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/94537e94e116f15e3174ed1d7d531aa3efe05bbae76e7cfe45b706c8eb73626f.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Dash across the islands\u2014match, blast, and reclaim the lost marble treasures!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "938 MiB"
 }

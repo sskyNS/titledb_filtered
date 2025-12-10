@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/440197cc1e9da47891d55bb1ca427288ffdf5a31aba9bcce904b04a9a1054e9e.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Study"
+	],
+	"intro": "Come to Harnold's theater, participate in the shows using attack machines to face enemies.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "374 MiB"
 }

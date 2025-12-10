@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/10ab87f35af573a49fd64597fa2e717d2083aeb557f61401c112e4089c91a4f0.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Fun Battle Royale Snake .io Game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "518 MiB"
 }

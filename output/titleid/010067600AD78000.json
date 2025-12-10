@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac47d53659a5279b77088f1d6ff8805d2af70910f20128e53f4683729277094e.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Multiplayer",
+		"Simulation",
+		"Strategy",
+		"Action"
+	],
+	"intro": "After the end of the galactic war, sentient starships fight in a never-ending space war to continue their evolution. What doesn't kill you makes you stronger.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "416 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2fa1a1bfa0194ecae7e3eb624b3aeec81c69611c1d75175d3d3398aefc95cc2.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Coromon is a modern take on the classic monster-taming genre.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "656 MiB"
 }

@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cf67466ddc2b1c61fb4de0ab65be9a454d77f9b21dfd74c1a1b448fa5016c4d.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Embark on the journey of a Tarahumara shaman!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.89 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a4e9eb1a8c853c4996bb7410661796798ff8da4bd0a91f04830bab173b07dc1.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Will you manage to be the fastest in the world?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b810715eb139afbcf6f9d0cfd82f793b7a0a8b233ec09e22231b128ff815d50.jpg"
 	],
 	"releaseDate": 20221026,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "A platformer without a jump button. Create chaos with physics!",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "595 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d15dcc84fa6cd0876d58771ef2c1aefb38e20277d182ebce87de241d5a933ab8.jpg"
 	],
 	"releaseDate": 20211019,
+	"category": [
+		"RPG",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "THE ULTIMATE OPEN WORLD ZOMBIE SURVIVAL GAME!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "16.50 GiB"
 }

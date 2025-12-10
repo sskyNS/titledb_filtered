@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa834babe9320d7b2db9bb2edc92e836e804c899466647a68092848998c4cd37.jpg"
 	],
 	"releaseDate": 20190503,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Hellmut: The Badass from Hell is a fast-paced bullet-storm dungeon crawler that cranks the nonsense up to 11 and puts you right in the thick of it.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "579 MiB"
 }

@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf476e710046a349178338d2e19f06b4dbe020ed280b3200c5a4ed7023687c6d.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Begin your new life, with a whole world to explore!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc68f880e00036a66734b789f501d9fd2d3f7805b1eba4bd25680b5ffc0e3d8d.jpg"
 	],
 	"releaseDate": 20171110,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Cat Quest is an open world RPG set in the pawsome world of cats!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

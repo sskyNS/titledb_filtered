@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/623c7d01a1b7631fdbf9c6b3cc7402aff8aa8263356a395ab24fbb67af07e907.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Meow meow! New York sure is a home of many cats and kittens!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "737 MiB"
 }

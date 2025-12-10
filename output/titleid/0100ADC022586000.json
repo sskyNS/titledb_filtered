@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ba6d653e57a5f1fd2c451adf86d1f81c29f06d1ca5c60afefd9e89c2f8360b8.jpg"
 	],
 	"releaseDate": 20250418,
+	"category": [
+		"Simulation",
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "No turning back. How high can you go?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

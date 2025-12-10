@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f0063484eee875e888dd07a81b03ef1fe3abd4de9dd927dde87741fc99c923e.jpg"
 	],
 	"releaseDate": 20210505,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Smash demons and deflect bullets in a hardcore arcade clicker with the RPG elements. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "838 MiB"
 }

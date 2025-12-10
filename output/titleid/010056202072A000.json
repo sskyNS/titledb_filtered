@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/160fd03e72d318cb372b8f5ff8241a459c8a6dd32a1e00958cc663746c01558a.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Make a name for yourself in this old-school Wuxia RPG.\nExplore the chaotic lands of ancient China and engage in challenging turn-based battles to change the world of kungfu.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "664 MiB"
 }

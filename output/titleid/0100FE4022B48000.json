@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/926a574069708e4696046f62553cc84222ca34d72714e521d45529bc4e2fa782.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A puzzle game with simulation elements. Program the robot's behavior patterns and guide it to defuse bombs in the maze!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "39 MiB"
 }

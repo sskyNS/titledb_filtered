@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a88d243b74bbdadba954b38e2dc0f21b89d94218845fb734b7cdbf810a65c90c.jpg"
 	],
 	"releaseDate": 20230518,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Your only hope is to fight - alone in a twisted lab",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

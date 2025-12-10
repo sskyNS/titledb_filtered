@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c85595729d51ac1b2a66f0bfe5acea88f1da849acd60a7ab642dfdb2c23aef9.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "A small, challenging space game about collecting missing souls in the void.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

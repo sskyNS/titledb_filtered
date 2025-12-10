@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4b92c4f8732033c4e8283fda8a2d3f9b91c392d00c4f8232d339f6293602c7c.jpg"
 	],
 	"releaseDate": 20220302,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"First-Person Shooter"
+	],
+	"intro": "Post-apocalyptic story about two travelers who set out on a long journey in the wasteland.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.67 GiB"
 }

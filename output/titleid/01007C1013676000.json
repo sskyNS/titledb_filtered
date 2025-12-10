@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d69b323261418683428bb19348960c5d230f2583e99310b45903d31c8d6caaa.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Gordian Rooms: A Curious Heritage is a Victorian escape game, where you solve various puzzles in your late uncle\u2019s mansion in the hope of obtaining his legacy.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

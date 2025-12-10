@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/80c665625436d312869a86170fd73fd4cf73d2a11763ecf9948d98b623e6af37.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Puzzle",
+		"Sports",
+		"Board Game"
+	],
+	"intro": "Ditch your hiking gear, don your golfing cap and climb mountain peaks just by playing golf!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

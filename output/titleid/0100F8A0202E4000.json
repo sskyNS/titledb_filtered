@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ac0fcb97f8bba2efa712ed7e2520d57a96a57b9559009048e70f1d13a40a08e.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Party",
+		"Action"
+	],
+	"intro": "Rescue the sushi stuck in the wall! A full-fledged puzzle game that requires a lot of careful thought.  All you have to do is ignite the blocks.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "124 MiB"
 }

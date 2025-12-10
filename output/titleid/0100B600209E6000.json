@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ae1195994363332afc3e7c66ad62ec7e63b76a2b0343c12f684c244d4613873.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Show your brilliance at table tennis!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "140 MiB"
 }

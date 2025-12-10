@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b871d01e904f67f0f5c947ba5b4a9c7b54a9c442a229ed04d4a59ea9dcdb524.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "The Bonfire: Forsaken Lands is an idle survival simulation game where players build, discover, craft and survive.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/002ed30218df94871a442031cd03d48589cbb4e409dd2f1aef4f308944918d5e.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Action",
+		"Party",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Show who is the biggest black hole in the town!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.08 GiB"
 }

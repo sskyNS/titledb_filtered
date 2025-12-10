@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/edeef3335f17d43017a470916882f43ceb6010cc9afc0b9ce7cb03bd3d31d355.jpg"
 	],
 	"releaseDate": 20240817,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Can you solve the anomaly challenges before time runs out?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "992 MiB"
 }

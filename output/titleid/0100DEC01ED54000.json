@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5fb68429da45086c87a2d207570e88f28c72e3d2ec7d4b4e96030d62c3138f3.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Arcade",
+		"Other",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Eat everything",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

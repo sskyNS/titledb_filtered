@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4a76d578ff8a7acb606aa26d3b3d7975534c54a35815762b8eec0699313bb06.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Throw, catch, pass, dodge, and tackle your way to glory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.83 GiB"
 }

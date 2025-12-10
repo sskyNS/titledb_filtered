@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f10e9c4707f665a6ca39544cb01cb44a736d24f65fcf6e0e8d4168880a0a4ca0.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Prepare now.\nZombie disaster.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

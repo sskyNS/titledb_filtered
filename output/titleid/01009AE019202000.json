@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/564613f87a7cd0c7f0be9139569fb04d9823bb1af03b0d574244b2fc1d8de3e6.jpg"
 	],
 	"releaseDate": 20220826,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "This time, the curious Viki has decided to explore the unknown depths of the sea. And, of course, she won't be able to do so without your keen eye and precise atrention.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

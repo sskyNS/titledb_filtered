@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a6f7d4eab13b70708ed98a92549d4150f81d09484a6ab30620ffcd5d94caab3.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Racing",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Race with your friends on waterslides and jump into the pool for victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "408 MiB"
 }

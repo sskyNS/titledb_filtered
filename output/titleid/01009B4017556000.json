@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/99f2dfe39bea0e59d24358e84c99f958b307d8062fcb99c74ababadbf8303f96.jpg"
 	],
 	"releaseDate": 20231103,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore Jumanji\u2019s lost world of dangerous beasts and secret treasures.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.83 GiB"
 }

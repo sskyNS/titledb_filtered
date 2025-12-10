@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bc22a5a116c27a7dc5346160a0cc092a48134affaf62ac84f689f8d2ffde71c.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Return to Renaissance Florence and uncover an ancient secret of immortality.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "921 MiB"
 }

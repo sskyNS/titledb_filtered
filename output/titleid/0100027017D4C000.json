@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/565654b2141c91b7d9744a0b03bf5b9f4423670684e34451c9715e0ed6792f8d.jpg"
 	],
 	"releaseDate": 20220701,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Capture and become the master of all the Beasties! In this match-3 game, win your battles in turn-based puzzles!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "672 MiB"
 }

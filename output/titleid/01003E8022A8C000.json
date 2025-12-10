@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ebe2628c78e1144665e3ca91779c20648fb045139fef8190a8fa0384f50b516.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Jump higher and try not to fall!  ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

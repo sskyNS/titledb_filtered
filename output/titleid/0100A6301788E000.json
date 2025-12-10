@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bd7ad2fba06aaca03a2d35d9d4d7cf3124d7c15448cc1611b49a0b74ec04840.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Make a pizza nobody can refuse!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.58 GiB"
 }

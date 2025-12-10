@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb8c9930d8a673eb89325f986a22246e0e42fdec74d7bb737fed092ebbaa658c.jpg"
 	],
 	"releaseDate": 20221021,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Solve platform puzzles and save the world in this cyberpunk thriller",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

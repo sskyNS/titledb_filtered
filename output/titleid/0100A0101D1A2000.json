@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0723fb766709b9d3857a7da9ca986b643ea84f5042a45dabeaaad07375511efd.jpg"
 	],
 	"releaseDate": 20231007,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "Dangerous driving high in the sky!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a61b16365556990f643aad747af6322a7a79f3eb603b1147f0b20541cf9bcbc.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Strive to be the best martial arts gym as your break through walls in rhythm!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f20ead8c0e344e1331870880ef23d382acf2eaaa159c234bd586ae5d164f6c4e.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Racing"
+	],
+	"intro": "You are a parking attendant and you need to release all the road users in the right order in our parking simulator!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "133 MiB"
 }

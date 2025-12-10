@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ce3376e9bb11e3389f200bdc7f08407af815b1fd9b265a326b65176209c248b.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Spot clever felines tucked into fairy tale scenes! Hunt for 100 cats in each magical zone, plus discover all special hidden treasures. A purrfect puzzle adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/85bfd92023d13be63f94d431ef49ce11073a05a11bdf10399d82699dc6f25a9c.jpg"
 	],
 	"releaseDate": 20200907,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Circuit Dude is a top-down puzzler with 120 levels. Help Circuit Dude build his ultimate secret invention by plugging in chips, moving blocks, rotating walls, and much more!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

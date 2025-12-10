@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cf29076bf9f9354b6cc8a704d16e3b52d641492c94049b3bc089089a4f88776.jpg"
 	],
 	"releaseDate": 20230221,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Chain together combos, and go for a high score! A modern take on a scrapped game from the 1980s, Akka Arrh is a fast-paced, addictive, arcade shooter experience! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

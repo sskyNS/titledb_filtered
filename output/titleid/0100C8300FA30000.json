@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/42865a3c11f97f7136f4379897cc27bbe3712d6a462e8f705f2b1f017effecd9.jpg"
 	],
 	"releaseDate": 20200214,
+	"category": [
+		"Arcade",
+		"Music"
+	],
+	"intro": "Kitty Maestro is a musically-accurate arcade game set in a city of cats.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

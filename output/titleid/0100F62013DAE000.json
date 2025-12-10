@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/236887eff43e5c54beaf58111a6c9ed7c9b4eb4297685e36044d2226ae5789b6.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "FINALSWORD DefinitiveEdition is a story-driven open world RPG set in a stunning fantasy universe full of breathtaking battles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.60 GiB"
 }

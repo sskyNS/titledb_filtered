@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/043bf64192807621ebae77610dfd7d641550a0b31e4c8cc7d1e65a1dadfe4308.jpg"
 	],
 	"releaseDate": 20230714,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Action",
+		"Party"
+	],
+	"intro": "The cute ghost has places to go! See how far you can go without bumping into the nasties!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

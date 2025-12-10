@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bde5769f56261879988fd8625e5c753356b608b37faca4e774113926092f283a.jpg"
 	],
 	"releaseDate": 20230801,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Embark on an unforgettable journey through the mesmerizing world of Leafy Trail, where silence speaks volumes and nature tells its own story.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

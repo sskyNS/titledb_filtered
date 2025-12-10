@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/81a19ac1e9147f1d97b100a19d0e9e8d5f105de967e82cd048c1ca0d1c8ba093.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "New sense escape game where you can create your own town!\nLet's make a town with Nyanzou&Kumakichi",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

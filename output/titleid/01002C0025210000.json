@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a92b795743c030d7e09c504cbf46f4cfce3b39b58295d078eb4d8e8ce7fdec06.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "From infiltration to urban defense! Eliminate the terrorist organization! Extreme FPS action with overwhelming combat! Face endless threats with diverse weapons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/790e74611c27d5972e71ef5f61ebb6d82c06f1d985452884d8b5df15f97e09e5.jpg"
 	],
 	"releaseDate": 20200225,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Dive into the story of a quirky exorcist in a unique 2D adventure game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

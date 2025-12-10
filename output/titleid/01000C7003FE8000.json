@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c7c517480544218d0b3ad746b5a45ce82e9e08c8f62b0d407574d9d58f0bbf1.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Intense arena combat, set deep inside the heart of darkness. Discover the story of the GORSD alone, or enter battle with up to 4 friends in local multiplayer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

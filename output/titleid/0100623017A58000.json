@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c1d554643fe2c5e3b19dfcbc4151241c430fc1b3b05ff9839974e5bf76eddf.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Fight with Light in Alan Wake Remastered",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.98 GiB"
 }

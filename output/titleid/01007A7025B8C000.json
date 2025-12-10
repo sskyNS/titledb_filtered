@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c58a38b2f64f3ca58833cbd13c057e6a4058878516afcd1bcef7de07632768.jpg"
 	],
 	"releaseDate": 20251129,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "A strange boy with an unusually large head appears at the edge of the sea. From that moment on, the mysteries grow increasingly insane, and it\u2019s up to you to guide him through dangerous and twisted paths, avoiding capture, toward something terrible and unknown.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "389 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d7dbdc826a172f304f4546c3c9acdfe86e9f402cd552dbb8986a70bdb9a38de.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A fast-paced, block-bashing game of skill and reflexes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": null,
 	"size": "307 MiB"
 }

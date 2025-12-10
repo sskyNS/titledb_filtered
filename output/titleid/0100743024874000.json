@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/109e6cce8e5741276ab754cddbd2e55d97056bb8ac18acf6dfebf54b170f5b4c.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Improve your skills and become the ultimate truck driver.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.02 GiB"
 }

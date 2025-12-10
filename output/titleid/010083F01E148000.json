@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fc1539231b364e97ca1757375c40b28804c06d48acba60f0834b26951652f99.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A platformer game where you play as a German Shepherd named Ollie.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.97 GiB"
 }

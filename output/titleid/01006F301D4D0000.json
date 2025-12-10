@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff7dc4dc3209e37520676e8f4d355803d1cdc2f18b66ca13e30ce4f67c36a008.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Reach the goal as fast as you can in tough-but-fair precision platforming challenges!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "42 MiB"
 }

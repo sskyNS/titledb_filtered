@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/88fff8a8d42c5a42a429535aafb2f84e22d3395b8fc1c0f19fc18b662a909023.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Travel the world as a cute cardboard cloud and ruin everybody's day! Unlock new methods of mischief in over 50 levels, each with unique setting and objectives. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "958 MiB"
 }

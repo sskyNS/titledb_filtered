@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5d349c2edb8f4489ba33ff206ff1ea044d68a8e0da88d175734237d4c0ec195.jpg"
 	],
 	"releaseDate": 20250808,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Yarn Guardians is a 2D Action-Adventure in which you play as cute flying cats that fight enemies with powerful Yarn Balls!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "632 MiB"
 }

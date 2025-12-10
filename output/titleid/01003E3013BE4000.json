@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4863b08e4204d8267e800536286a4ef44540d8ade49514122aa07b30448dbda1.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "There are still ruins in the world that no one knows about.Eliminate the evil that stirs in the depths through investigative action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

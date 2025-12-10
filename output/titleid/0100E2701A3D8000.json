@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/391facabaf5c3b662aba5ef47fd0c5eb428b7bc73e2ad5463d7028e1ff640450.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Build and supply your own planetary civilizations. Manage resources and develop infrastructure to thrive and prosper. Do research to avoid disasters and rising sea levels.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.83 GiB"
 }

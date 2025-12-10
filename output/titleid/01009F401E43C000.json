@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/73b649cb7557fce9bf1a7cf451077183ea22c7065be3037eebe03d4a1fe4ad16.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Step out onto the streets of Paris in \"Broken Sword - Shadow of the Templars: Reforged\", a substantially enhanced version of the multi-award winning, all-time classic adventure. Enjoy a globe-spanning story when intrepid American George Stobbart and fearless journalist Nico Collard are pitched into a gripping adventure, exploring exotic locations, solving ancient mysteries, and thwarting dark conspiracies to discover the arcane secrets of the Knights Templar.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.87 GiB"
 }

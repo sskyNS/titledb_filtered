@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a000d3c7385f90c02d75b129f1091959345e521b0f70962dba1d9bd973f65422.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Repel a relentless alien force, travel the galaxy and deliver payloads to secure the future of mankind!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0301e4f393d2f1074cfbcf9e3bdfec36be385b8f94bb5c1fd5cb055c6dc25570.jpg"
 	],
 	"releaseDate": 20200501,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Mario and Luigi appear in this unique role as professional building demolitionists!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "38 MiB"
 }

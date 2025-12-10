@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6386e48d4711f67ae9c8c5f24c33e7bbcf22eb76ccb9a540beae2c7b23b15b4e.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Sports"
+	],
+	"intro": "Use the power of the wind to compete in the various games of the Storm Championship in this charmingly chaotic 8-player action party game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.19 GiB"
 }

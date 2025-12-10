@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fab68f07393526e7614af433fe7e9c1d95ccf030185796d44a8322750c3ba032.jpg"
 	],
 	"releaseDate": 20220719,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "As the last mother fox, keep your cubs alive and reach the only place on Earth where humans cannot harm them.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.38 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c0e388cf67916316dc24fd7b65d61e1e03ea64eb94ac860dfa049b2e6b24052.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "This game is a personal story. Just like life, it\u2019s a puzzle of obstacles and friendships, a rollercoaster of downs and ups, pain and hope.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

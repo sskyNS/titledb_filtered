@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/752e42e446f3e39823e5fc2c732455ca7214d4a3765cc425a9f2bddbb658f444.jpg"
 	],
 	"releaseDate": 20220621,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Puzzle"
+	],
+	"intro": "BROKEN MIND is an action Survival Horror.\nFight, investigate, solve the puzzles and find out what happened to Laura Campbell. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "548 MiB"
 }

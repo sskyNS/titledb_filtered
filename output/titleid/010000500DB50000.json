@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ba32574cefbf7e27213c22777045a1487b585feb31ac66b2566b0e66403ed51.jpg"
 	],
 	"releaseDate": 20190524,
+	"category": [
+		"Sports",
+		"Party",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Smash that ball and have a real blast enjoying the best tennis!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "433 MiB"
 }

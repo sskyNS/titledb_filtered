@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/11d2b56b7c6358ff86d280408957b6b0377da901d450b8fc0b9c66ee55e4adf3.jpg"
 	],
 	"releaseDate": 20231014,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Grow your sword to take down the Giant!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

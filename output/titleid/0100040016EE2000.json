@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bbc261924088abacc93b781b2690cf7528ac8d78c5b09b8007f5c4ecc1ce9d4.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Fight as a mighty Valkyrie to repel the forces of the underworld from invading the world of Asgard.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.17 GiB"
 }

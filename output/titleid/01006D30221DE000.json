@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bb0f23203ea8fd5698ab9c362e2cb2b27f456b747c404cfd94d8534416912ba.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action",
+		"Communication"
+	],
+	"intro": "Let's stay up and play all night long!\nBe stealthy, don't get caught, and play the night away!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "226 MiB"
 }

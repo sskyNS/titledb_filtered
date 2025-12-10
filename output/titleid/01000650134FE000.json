@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/32645482e09cd5c82ab67eb4e9c411b4c2207785d56d3e724308ae80901f8e04.jpg"
 	],
 	"releaseDate": 20201211,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Become a blob-eating cube! Splashy Cube is a puzzle game dressed in minimalistic, yet cute and colorful graphics. Embark on an exciting adventure through the colorful labyrinth. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

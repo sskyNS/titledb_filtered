@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b89cef30614dadbbcda3b00b7200db5ff455d4782c65ed16203bf0e305c34c03.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Rising Lords is a medieval turn-based strategy game with card and board game elements.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "689 MiB"
 }

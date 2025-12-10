@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/106ff8ae8937fb0169aa30b794b24f7f017deb338cc45ee11563919ee06b18fe.jpg"
 	],
 	"releaseDate": 20230818,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Stack Ball Run! is a 3D arcade game where you smash, push and jump over rotating spiral platforms to get to the end.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

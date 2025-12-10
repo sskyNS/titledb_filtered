@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/38e29a079a6dcda0ff19a3da92bfdd16b323b850b120d52f9b6675942617a785.jpg"
 	],
 	"releaseDate": 20250902,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "WOOF ~ In this 2D puzzle game you have the responsibility to arrange lovely doggos in a way that fits the grid.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

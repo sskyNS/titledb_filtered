@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2595b374e7e6fbb546a8f782ec52766e4c5792285bfdcf338d52e82a991bd40e.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Shooter"
+	],
+	"intro": "Step into a stealth mission full of action and absurd comedy during the Cold War.",
+	"languages": [
+		"en",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.73 GiB"
 }

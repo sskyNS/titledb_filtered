@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b803d7bf63389fdb39137bd5dcab8a49eb3bfec1ce8d125919896b5d959b8ff7.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Paul Bunyan is locked up in the enchanted woods. Help him solve puzzles by moving the red wooden block out of the box.\n\nOver hundreds of puzzles to play from. Can you be the puzzle master and help Paul Bunyan escape?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

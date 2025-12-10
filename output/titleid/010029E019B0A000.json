@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/932c5d45f1635aaf6cb533f3ec93e1db329e3fcc4ad378569278b453bd97307d.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Lifestyle",
+		"Strategy"
+	],
+	"intro": "Railbound is a comfy, track-bending puzzle game about a pair of dogs on a train journey around the world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

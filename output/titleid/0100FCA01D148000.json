@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/65bd6d640996dec47bf3b7a9130ef3b70a680c05cb5abd65a7ef7a8ae470c9ad.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Help our little friends fight against evil Sparrow and solve all mathematics puzzles to bring beauty to our lands again! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "350 MiB"
 }

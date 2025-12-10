@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcf60be344e71891b12b1e3e7d85abbb6056226cae753ec9d6462afa154fd941.jpg"
 	],
 	"releaseDate": 20171123,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "The race is on, whenever, wherever you choose! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.64 GiB"
 }

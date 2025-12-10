@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ed602eb7d00f8907031c4c8f350244e751e1c4f5c413c1fadf1985b5fe17656.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A Tale of a street cat left alone",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

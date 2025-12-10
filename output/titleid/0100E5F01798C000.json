@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cadc976f9378e23b6a3e3f263d961e27b183acb5709a782c434113ec63c423d0.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Uncover beautiful ladies hidden under stacks of colorful balls in classic arcade-inspired puzzle action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

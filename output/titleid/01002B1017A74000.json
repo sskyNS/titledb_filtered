@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/419534d628e910537d4beaf00a2d85edd989b3889a35fcbbb745b114f034e6b0.jpg"
 	],
 	"releaseDate": 20220429,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Strategy"
+	],
+	"intro": "Spark up your party with these three cooperative logic games:\n\n- Ludomania:  a one-of-a-kind app with which you can play the most popular variations of the medieval Indian board game: Pachisi!\n\n- Flowlines VS: Pair up all the matching sockets on the board by drawing continuous lines, without crossing over other lines or branching off. Cover the entire board while connecting all of the sockets!\n\n- 2048 Battles: Play with friends or enemies with three different modes and yup to 8 players! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 8,
 	"size": "937 MiB"
 }

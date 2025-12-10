@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/af6fe8bb0e58ab2f888dfdbfcc7c16958d3b9df9a1846ed3c321b9f5123a4d92.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Experience the epic journey of Nuna and Fox as they search for the source of an eternal blizzard that threatens the survival of everything they have ever known.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.76 GiB"
 }

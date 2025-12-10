@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e23ad496e97846695867f674ee4c5ce2d198b2bbcbece9541147e6a48ecb3dda.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Maximum drive at maximum speed on extreme tracks!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

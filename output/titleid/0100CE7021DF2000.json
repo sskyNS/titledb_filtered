@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3faccf6d6614af7be7aded545fb7b90d25fe51779950559cd5a0dd3c87f838a.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Racing",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "60FPS racing game where the girl Natsuki is forced to join the \"Ninja Racing Tournament\" to pay off her debt. 10 girls,100 dances anims, 600 voices, 16 chapters.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

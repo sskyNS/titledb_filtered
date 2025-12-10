@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dba8013e2ce3f190aa2a43fe7bd5fb16ae9cbfc8a2217b20a018a88bc4513fc1.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Lara Croft makes her Nintendo Switch\u2122 debut with two Tomb Raider adventures in one treasure-packed bundle, featuring non-stop arcade combat and 2-4 player co-op.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.67 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5fa2bc04d8e8bc241d389c339badf51ed99a85eb6d98413bc6799d51161a414.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Board Game",
+		"Education",
+		"Training",
+		"Party"
+	],
+	"intro": "Whether it's solitaire or competitive online games like Daifugo or Blackjack you're after, this is the game for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "571 MiB"
 }

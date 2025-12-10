@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18cd71cdb86a6060b8d51db13610d2e8b4ecffe1a02398e0db71dbf67c6881b0.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Simulation",
+		"Action",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Defend, Collect, Prevail: Safeguard the Fortune, Secure Your Honor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

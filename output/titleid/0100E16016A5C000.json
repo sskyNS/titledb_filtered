@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c34bc70fad6f424786fb5059af9067dead6b80e0e771422bd8a2664c9a157de0.jpg"
 	],
 	"releaseDate": 20211101,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Race in breathtaking air plane races , use power ups or boost up your racing air plane to be the winner!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.44 GiB"
 }

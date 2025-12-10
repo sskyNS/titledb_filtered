@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a28ae7c5f899772bf3f24e458105f8bdfcd883fb57a3dfa2df374677b91e8b77.jpg"
 	],
 	"releaseDate": 20240106,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Broadsword: WARLORD EDITION boasts turn-based strategy gameplay as players move from mission to mission in the Middle Ages. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.00 GiB"
 }

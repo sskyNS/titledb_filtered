@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a977a0ad588a258a07967fe75a1b1af19afc1c74ba3dbfd2df63b0e69381235e.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Journey through a fantastical reimagining of ancient China in this 3D action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.46 GiB"
 }

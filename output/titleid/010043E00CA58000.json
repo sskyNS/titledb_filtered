@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/016d56b4a75949a8e308639df7992318070f2fe1d08a42e07d41fc559027c625.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+	],
+	"intro": "\u30b4\u30fc\u30b9\u30c8\u3068\u306a\u308a\u96fb\u8133\u7a7a\u9593\u3092\u99c6\u3051\u629c\u3051\u308d\uff01\n\u8fd1\u672a\u6765\u30b5\u30a4\u30d0\u30fc\u30a2\u30af\u30b7\u30e7\u30f3RPG\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "341 MiB"
 }

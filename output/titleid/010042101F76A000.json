@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/94476e57fd2cc440c6e1ed1fdb66b6cb38cabfcd782cc4cc4595001247035fa2.jpg"
 	],
 	"releaseDate": 20240804,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Choose heroes, craft strategies, and dominate the cyberpunk world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

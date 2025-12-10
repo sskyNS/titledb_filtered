@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/617a2ab04e8ede081256f3e9716565460dd6d188d240e2da33acac00d3e95add.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Colorful classic platformer about a little witch fighting the evil forces",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

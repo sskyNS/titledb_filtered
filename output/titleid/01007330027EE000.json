@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/548f3448587fc01667be7a286cfa4db11fa8aa72d51aaf4553f62587dc1b69b8.jpg"
 	],
 	"releaseDate": 20170526,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "The most iconic fighting game is back!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.76 GiB"
 }

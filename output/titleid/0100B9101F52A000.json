@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ca7e9447280b5b97bd1bcd86d3a6e8b750c3339510fc074483e6a2e595f25f0.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Transform every object into a weapon master the art of warfare and rise to victory in Cup Killer!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

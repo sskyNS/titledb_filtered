@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f555b1d1758f5bbfbb3255411c835971c9052b4c86dcf1d0c6f4934cffeb252.jpg"
 	],
 	"releaseDate": 20230321,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Listen to voices from the past to solve crimes!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.94 GiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb9dc564346a09d0e75168af938809f7c8121c9a2602dfcfaad8f7396b82a5c7.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Cyber Velocity Run is a stylish neon, action-platformer featuring breakneck mechanics\nOnce you start you have only 30 seconds to escape.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

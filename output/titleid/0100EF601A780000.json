@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ad533461905267ec5eec4ab2bfe37c1861de0c095b706522d0a5b4704918816.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Peaceful Hero",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "37 MiB"
 }

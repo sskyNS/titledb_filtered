@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1fae4a8951cb18ba030a0b176be1cebcaffdd932a99d00d6cf7637c619571d3.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The Lightbringer is a story-driven adventure platform game, set in a beautiful world claimed by a vile corruption.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.49 GiB"
 }

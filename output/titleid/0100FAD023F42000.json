@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f64286da3da7a0923a03ca838478bf2e30ef3c0f59b1b9866259248786a74218.jpg"
 	],
 	"releaseDate": 20250620,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Explore charming Wild West scenes and find hidden cats hiding in saloons, canyons, and steam trains. Relax, search, and collect them all!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

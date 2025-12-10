@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/01f5511360a76d5634038f445fad80aca270febb825dd8e119f89e4fbda52ae0.jpg"
 	],
 	"releaseDate": 20230616,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Edge of your seat STEALTH HORROR as you try to escape the house of a cannibal SERIAL KILLER.... ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/56818cf25b893eb487bb0cdf94890b2b99904f088d3b6d5ab2e17137e9af6197.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Communication",
+		"Board Game"
+	],
+	"intro": "Find yourself alone in a room with a bomb. Your friends have the manual to defuse it, but they can\u2019t see the bomb, so you're going to have to talk it out \u2013 fast!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "670 MiB"
 }

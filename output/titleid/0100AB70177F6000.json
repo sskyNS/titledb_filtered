@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6eaeeb134ca70b294f47a265a695f2975d2e42a6af377811459db630cb5cefa9.jpg"
 	],
 	"releaseDate": 20220909,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Music"
+	],
+	"intro": "To Leave is a unique adventure game, set in a fascinating world. There is only one goal. Help a suffering boy known as Harm, in overcoming his past. ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.27 GiB"
 }

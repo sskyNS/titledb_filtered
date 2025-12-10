@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1a2513d74493235edab2d246d895ad07f4e804747b0a349075e15c551e415ca.jpg"
 	],
 	"releaseDate": 20200717,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A new paper-crafted Mario adventure unfolds on Nintendo Switch!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.50 GiB"
 }

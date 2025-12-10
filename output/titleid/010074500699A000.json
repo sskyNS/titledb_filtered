@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbd032b430878b33425f07c79dd5170bc57e0affd5857dc858906605ef9cee6f.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "Take part in the annual Timber Tennis world championships - win trophies, and compete in local or online multiplayer mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "369 MiB"
 }

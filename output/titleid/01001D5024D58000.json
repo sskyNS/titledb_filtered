@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ba35b997147402a29f9f6f5cc7bc8476e737c14e55592d1b617ea43bccf42ae.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Study",
+		"Training"
+	],
+	"intro": "That Aha! moment feels so refreshing!\nA new kind of brain-training puzzle using letters and clever thinking",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

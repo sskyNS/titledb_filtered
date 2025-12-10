@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/70f3a1162a5afafbc83933b15bbd1db4f8b594b6b3e8bdfce5a1d7a06da39275.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "How 2 Escape is an asymmetrical coop game escape simulator. Play on both Nintendo Switch\u2122 console & smartphone to solve puzzles together!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

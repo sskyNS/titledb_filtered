@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1faaaf3ae93b4ee9f5da9b92ea0ae54ffdb6494fc7f4d73f1d74cb315cda0eaf.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"RPG"
+	],
+	"intro": "\uc5ed\ub300 \ubaa8\ud5d8\uc790\uc5d0\uac8c \uc804\ud558\ub294 \uc0c8\ub85c\uc6b4 \uc2dc\ub828!\n\uace0\uc804\u00d7\uc77c\ubcf8\ud48d\u00d73D \ub358\uc804 \ud0c4\uc0dd!\n\ud575&\uc2ac\ub798\uc2dc\uc758 \uae30\ubcf8\uc5d0 \ucda9\uc2e4\ud55c \ubaa8\ub178\uceec\ub7ec RPG.",
+	"languages": [
+		"ja",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "617 MiB"
 }

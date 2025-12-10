@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2810ebb8109ac805af1b7adf4f436653f9eb8a6e2a732350f5c141b083f3334f.jpg"
 	],
 	"releaseDate": 20210226,
+	"category": [
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Find the artist in you!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "534 MiB"
 }

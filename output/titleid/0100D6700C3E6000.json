@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b333367614e61d51a01ddde6d82c1bb923af0e965995a062ef5e34bb803e4c78.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Communication",
+		"Party",
+		"Utility",
+		"Other"
+	],
+	"intro": "Who is the bravest?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "320 MiB"
 }

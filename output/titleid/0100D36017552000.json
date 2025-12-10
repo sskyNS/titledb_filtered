@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0813586086d183b3bc38f873621579db34d13a5ad5bcd383c124a7a9705ac911.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Play Tri-Peaks Solitaire with a Zodiac Theme. Win progressive play to unlock new card themes and backgrounds, or play just the classic game to kill time. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

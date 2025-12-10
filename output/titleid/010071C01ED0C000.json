@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/315df1e1417bb4d41ded724d954665a29bf629174834b98fa14e239496d45b0a.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Action packed, lighthearted, fun. The party game for up to four players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "113 MiB"
 }

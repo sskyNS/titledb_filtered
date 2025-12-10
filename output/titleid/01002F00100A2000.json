@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/953dbe439b35a4a0e6bbddd5418dda41e46e9c5739e35fc3d086bcf8671d4827.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Brave warriors! The time has come for you to take flight and save Planet Mel!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

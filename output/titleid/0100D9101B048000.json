@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/04b998b95d07dc36cb41a3cd0393cdb9d3c55f5804c31301991812c2724fc288.jpg"
 	],
 	"releaseDate": 20230718,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "The miserable journey of a broken man...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/952014ade9b1976c28b9a289ea4dcda45f12e45aed1d8412b376b67c8c793322.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Excellent indie games handpicked for your playing pleasure \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

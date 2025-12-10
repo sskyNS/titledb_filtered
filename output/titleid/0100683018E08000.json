@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f26c5dba7dde95ffa30c1e94c2b672db2410173618ad29f0e60493e27004662e.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Puzzle Battler! Mirai is a puzzle battle game featuring a variety of engaging battle tactics. ",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

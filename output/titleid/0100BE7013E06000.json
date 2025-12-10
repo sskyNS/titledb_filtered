@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3262b61c0d60ec9dfd10a646d9eb60a6d922816651c9d9c8a7a262d766fb7f6.jpg"
 	],
 	"releaseDate": 20210917,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Join the young king, Evan, as he sets out on an epic quest to found a new kingdom and save his world. The Prince's Edition includes the full game and all DLCs.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.70 GiB"
 }

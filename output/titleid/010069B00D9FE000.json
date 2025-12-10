@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/64bc73ea49136f98673cde6537228b96f84ca715999e05b671f3da129ce6bca8.jpg"
 	],
 	"releaseDate": 20190523,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "\"Wonder Boy\" has returned!\n\"Wonder Boy\" has been remixed and reborn for Nintendo Switch!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "766 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0e32180df5d726e3483f4a034a8b9ce8c860d02cdfdab1131e49773227451d4.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "DESTINY CALLS THE LEAST LIKELY OF HEROES\nSave an island in peril on a childhood holiday",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "318 MiB"
 }

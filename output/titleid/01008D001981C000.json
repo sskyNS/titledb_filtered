@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/919c1beb506cc9cf81f2cd79584b5060abf1e50f38d12e6291a3746886e62c54.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Sharpen your Chess Reflexes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

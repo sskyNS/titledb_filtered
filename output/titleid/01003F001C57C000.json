@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/605c79982011c0072a01e194c67d70f007f508b583d0199a5db0348a7307bc80.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "An epic action adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "468 MiB"
 }

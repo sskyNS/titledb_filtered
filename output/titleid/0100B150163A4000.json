@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c22dd330268dc9395ed88300755a5b80b78d80c3923134336924be1c6c036cab.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Face evil creatures as a winged soldier on this side-scrolling shooter classic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

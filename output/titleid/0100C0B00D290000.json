@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec1584b8a0e2adf452895a8671f9cbcdcfbabbb897807e2df87ee5acf2e62241.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Imagine a city where buildings can walk and talk to one another. Each one has its own aspirations, hopes and fears.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

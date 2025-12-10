@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8a9eafe317bc2d86e3abf565a9b0e1045f93ba7279bde992e1cad7f19f7854f.jpg"
 	],
 	"releaseDate": 20180717,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Aliens have taken over the planet and enslaved humanity. Only you have the know-how to drive back the dastardly threat, free your fellow Earthlings and SAVE THE WORLD.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.10 GiB"
 }

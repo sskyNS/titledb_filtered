@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef6b4861bfd802c5a1b54c794f9ce264ecc1f2244528bf9319209e9308c5c10b.jpg"
 	],
 	"releaseDate": 20251008,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Dig deeper, harder and faster as you race to claim natural resources on a new world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

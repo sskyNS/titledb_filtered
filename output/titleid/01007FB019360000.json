@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a35b68618da452940a3cc0a188d693b36e6240c618372b77d2643398b9115b23.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Study",
+		"Training"
+	],
+	"intro": "Welcome to Baby Phone 3in1 - the perfect game for children! This game offers different activities that will keep your child entertained and engaged for hours.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

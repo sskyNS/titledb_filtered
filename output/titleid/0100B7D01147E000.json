@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8604c437056f016f2133cf1adb7fce77dd775989f2222d68746b83dfbaebe564.jpg"
 	],
 	"releaseDate": 20200603,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Awesome Pea 2 - next chapter of classic platformer game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "399 MiB"
 }

@@ -8,5 +8,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/72236b70931952ce79535a06dfd2aeb9b1cd5d1b1571fcedcf82ea99bd40db7c.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "We're excited to present our vintage adventure puzzle that combines classic Hidden Object mechanics and an atmosphere of quintessential detective mystery.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "541 MiB"
 }

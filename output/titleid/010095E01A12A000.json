@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ff720f9e42f7c921348c6e8b6a97d38c8318c711056c0f09a3e1ec9c41d6679.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Afterimage is a hand-drawn 2D action adventure that emphasizes fast-paced combat with diversified character builds, non-linear levels, and a gripping storyline set in the ruins of a fantasy world. Years after the cataclysm called \u201cThe Razing\u201d nearly brought an end to the human civilization, an amnesiac girl named Renee awakens among the ruins of the city\u2019s capital. To recover her lost memories, she embarks on a journey to rescue her mentor, inexplicably setting into motion a series of events that will determine the fate of the new world.\n\nKey Features\n\u2022\tExplore a non-linear world - unearth the secrets buried deep within the ruins of the vast interconnected world of Engardin. Interact with over 50 different NPCs, each with their own story and purpose. Learn more about their role in Engardin through side quests!\n\u2022\tFight over 170 varieties of enemies, including 30 tough boss encounters.\n\u2022\tDeep RPG mechanics allow for diverse character builds \u2013 over 200 different equipment to collect and choose from including 6 classes of main weapon, sub weapon, armor and accessories. Invest talent points into a variety of stat upgrades and unique weapon skills for each class of weapon.\n\u2022\tDetermine the fate of the world \u2013 discover multiple endings depending on Renee\u2019s actions that will shape the future of Engardin. \n\u2022\tStunning 2D art style with animations hand-drawn frame-by-frame.\n\u2022\tDiscover new abilities and new Afterimages that grant unique benefits in your exploration and combat. Use these skills to access new areas, shortcuts, and master these in combat to defeat more difficult enemy encounters!\n\u2022\tOver 40 original orchestral tracks composed by the Aurogon Sound Team and fully recorded by International Master Philharmonic Orchestra and other various musicians. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

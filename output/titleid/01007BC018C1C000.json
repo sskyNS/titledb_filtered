@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eadde8bbaec706e6ffcff3f7cb94b0c481eabfc9feec66b5cd27b8e873e95013.jpg"
 	],
 	"releaseDate": 20240619,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

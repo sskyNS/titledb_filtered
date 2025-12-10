@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6888382b9278b4656c90c07d38d322e3187fe510dd60a09842e47b706116785c.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Open your cookbook, grab a lunchbox, and start preparing exceptional bento meals through the amazing puzzles in inbento!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

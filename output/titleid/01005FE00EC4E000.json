@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/05815f995d6f6231ce9ebb424ba97dbed7b516a532123e722d393c5727f3f9c9.jpg"
 	],
 	"releaseDate": 20190913,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Sci-fi roguelike twin-stick shooter. The nuclear core you have to steal is leaking radiation. Fight your way out of the space station in your combat ship and pull off the Atomic Heist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "402 MiB"
 }

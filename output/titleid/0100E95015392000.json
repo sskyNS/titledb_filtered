@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c6894379866524f1faeb40bd7955f7101440dece90cae2ead821155be10a229.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Follow Arietta on her journey to unveil the mysteries of the Spirit Realm!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "444 MiB"
 }

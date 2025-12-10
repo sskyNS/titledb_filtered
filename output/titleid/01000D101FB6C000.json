@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ba054d8b8cef484501a227212f54f96d03f390459b86efca9ddf6fa8fe8d88f.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Time Walker Dark World is a roguelike auto-battler with strategic combat. Players will need to adjust their formations, plan their resources, acquire loot.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "185 MiB"
 }

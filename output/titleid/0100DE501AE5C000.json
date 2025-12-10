@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c73cd2bf1e7502d3831c10227be83c97be2de87eba41c93b9f580a565283f833.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "The arcade world of battle tanks is in danger again! Get into the tank, go to the battlefield and complete all combat missions!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "626 MiB"
 }

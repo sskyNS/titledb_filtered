@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/429db4552731cee531841e1aca2abbaaee05d99c0e1d7dcfb68a81cbc1786a3b.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Lifestyle",
+		"Training"
+	],
+	"intro": "Help Pathfinders travel through time, visit ancient civilizations, and find relics. Memorize obstacles, and enemies to draw the safe path for success. Memory is key.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "167 MiB"
 }

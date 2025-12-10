@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3c1e3f397077c222d4a871393f37ce246ceb0712769abecd3927d4083da04f3.jpg"
 	],
 	"releaseDate": 20201223,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Super Meat Boy is BACK!!\nPlay through literally thousands of levels!\nFight Bosses, find secrets, cry at an amazing story!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.39 GiB"
 }

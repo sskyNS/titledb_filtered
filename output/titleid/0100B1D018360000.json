@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f5de54ac28cb3a7ffbe7cc315422a740b018434faf3f35814fe4e754e7b88da.jpg"
 	],
 	"releaseDate": 20220622,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Here is a puzzle game in which you have to look for differences between two similar pictures. The theme of the game is shopping in every aspect. Be all my powers of observation!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "374 MiB"
 }

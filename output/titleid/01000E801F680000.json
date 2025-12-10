@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/789184068f3f119af2a73175be20cdef4ad0725db4197933ae9222e11045db12.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Besiege is a physics building game where you construct medieval siege engines to smash castles, destroy armies and solve puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "942 MiB"
 }

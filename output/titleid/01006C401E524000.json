@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6cb8584ea85c7ca7d396bc25b2545f331b253674bb645ed67758c7af2c35422.jpg"
 	],
 	"releaseDate": 20240317,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Gear up, unleash your inner rebel, and fight for freedom in this electrifying adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "633 MiB"
 }

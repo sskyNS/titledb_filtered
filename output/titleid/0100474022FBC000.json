@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/713b935b5c866e8cc0dbce8e177d9adb13bf3f412d25350fa013138ce5358707.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Grab your Book of Shadows and cast some spells in Ritual of Raven!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "501 MiB"
 }

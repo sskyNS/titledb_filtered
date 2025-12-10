@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/734ef0185dfdb3cc98584bbfcd04450ae48f4130c26e64c66728ea57e8d947c1.jpg"
 	],
 	"releaseDate": 20190227,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A traveller in search of something lost",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "313 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/07a6c1d3aeb88991dd72af8e714e168d69c855965cf2e040b7ded9bff0cb4d93.jpg"
 	],
 	"releaseDate": 20210220,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Become a star of ski jumping hills in this crazy sport game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "454 MiB"
 }

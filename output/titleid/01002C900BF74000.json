@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ba0758d439b56ed4e40288833064bc9bb70742f08cc14b655442b487863be8d.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Arcade",
+		"Party",
+		"Training",
+		"Multiplayer"
+	],
+	"intro": "Strike a pose and fit\nyourself through the wall!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "455 MiB"
 }

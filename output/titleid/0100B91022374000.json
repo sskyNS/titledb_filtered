@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6609b504861f2c4b41e70d1739380785e8017b6cb62c3e74a7bc9a716e1a8291.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Become the sheriff and catch all the wanted cat outlaws!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "424 MiB"
 }

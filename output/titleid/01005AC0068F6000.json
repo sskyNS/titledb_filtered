@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7e5d3ee16df426586d3cb0ea8bc27fe0265a8ce433a1ac965953f620f232c04.jpg"
 	],
 	"releaseDate": 20180306,
+	"category": [
+		"Shooter",
+		"Strategy",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Thrilling action and stealth gameplay enhanced by the Fear system, an exciting story and ultra-stylish cutscenes. Harness your team\u2019s dynamic abilities to tackle enemies and puzzles like never before.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.28 GiB"
 }

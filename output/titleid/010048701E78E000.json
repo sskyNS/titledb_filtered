@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4d165d0821bdcaae51924214919bde855b79fb488714b75c62fe0b6ac7d6990.jpg"
 	],
 	"releaseDate": 20240329,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Traverse the depths of the ocean in this 2D platformer in search of special kelp and help fund an alternative energy project!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b39bd8194724e6fff13716a38a27aa906d020e311781d2dd634107765e8afc75.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "The kingdom of Anuchard has fallen.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

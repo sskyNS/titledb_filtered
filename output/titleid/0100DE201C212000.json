@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e86b715f8ca9286f6e2b3e250299673bd3d0327bc506700e1e3eb8e3aa92dadb.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Platformer",
+		"Action",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Take control of your parallel selves on a mission to save the dying multiverse in this rogue-lite action platformer! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.73 GiB"
 }

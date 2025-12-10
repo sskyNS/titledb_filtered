@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfbfb95977eb8fe8a406b19a2cb68599194efa35c8225128df4ffdaee9f2852e.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Dive into 'Cats in Boxes' for an atmospheric adventure with captivating puzzles, cozy vibes, and cats\u2014LOTS OF CATS. Find the best spot on your house, just like a cats, and enjoy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

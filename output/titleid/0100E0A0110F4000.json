@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e63d92cccbeeefd56a9b17b5d65c898eae2a0318a97c6eb135e59dbe8a18b18f.jpg"
 	],
 	"releaseDate": 20200626,
+	"category": [
+		"Party",
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Sport videogame based in crossminton, an emerging racquet sport where the players play in two separated fields without net and using a custom flyer and racquets. ",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "542 MiB"
 }

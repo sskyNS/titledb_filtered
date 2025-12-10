@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/967829f469a921cce9a7f10dd89077cadc3f61aea80b1da7798bc43a5335f4d3.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Take control of various emergency forces and coordinate the interaction of the individual specialist groups of the THO.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

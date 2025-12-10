@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aab89e0ad8cd9195373902600cba9122fb76942ec79ca9702e9eb0d6e57f6fdd.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Get a taste of the sweet life of a hardworking bee!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "614 MiB"
 }

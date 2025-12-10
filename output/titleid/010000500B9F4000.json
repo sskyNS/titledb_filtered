@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c117a44704ae9f0b50f01f76a10634a3cf057bc616c3d650709c1b32afea35ca.jpg"
 	],
 	"releaseDate": 20190212,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Train your brain! Help Aristotle sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "299 MiB"
 }

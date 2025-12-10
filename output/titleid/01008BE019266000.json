@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/88a6f398955d658e5f216e667de577eb374af60862e11307789dd194c2d5506a.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Get behind the wheel and crush all zombies to the last,use the force of velocity to destroy and erase the zombies from existence.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "248 MiB"
 }

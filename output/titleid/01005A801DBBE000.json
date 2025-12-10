@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/336edda8d4b00f43deabb64c008a85094e9a5faba774316d76d12707df1492c0.jpg"
 	],
 	"releaseDate": 20240405,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "What could be more exciting than the thrill of a perfectly performed heist?\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "483 MiB"
 }

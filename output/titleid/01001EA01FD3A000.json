@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0187a8250e2a143c68a5595b25e859b1c40be1cff905cff84c59e835aec1e37a.jpg"
 	],
 	"releaseDate": 20250411,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "Adventure, mystery, and horror game with retro visual aesthetics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "832 MiB"
 }

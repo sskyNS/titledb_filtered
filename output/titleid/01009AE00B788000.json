@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a01880368448bfaedb1e70b746551aaef525fb57504cb7413a589a1b1ba52929.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Ready to go Pro?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.65 GiB"
 }

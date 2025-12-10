@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7532f6bf44bb9fd0f916b5ec662ac175cc338ae57b2146a08ede3b2794fddaa7.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Explore a cold, dark cave. Solve puzzles to get up, and get out. Find yourself.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

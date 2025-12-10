@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59107e65bd6bb7e8ca76a510eaf58ec315074263cee0bd90ccbd69a416ab4de4.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Collect and train an army of Ateyan!     ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "363 MiB"
 }

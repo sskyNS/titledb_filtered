@@ -8,5 +8,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a54ae1bb83ffddc4ecc8ca9ca8138c1962121d33763ab7507b82bbcf13037879.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Party",
+		"Racing",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Welcome to the world of SAMUZA! In this time attack obstacle course game, you play as one of the \"SAMUZA\" series of robots who tries to restore the lost world by find",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.27 GiB"
 }

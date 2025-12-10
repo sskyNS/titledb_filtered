@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/429a7b878b1addb1f806923d8c3019507fc1364c2ff293329722293c528a664a.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Race against the clock and battle the undead in this hardcore co-op survival horror nightmare.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "877 MiB"
 }

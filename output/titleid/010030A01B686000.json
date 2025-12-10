@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd69acb1d5978304b85a5544451248b8d43c8de78309c02d6d0c360064e8ccba.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Sports"
+	],
+	"intro": "A whimsical adventure of playful pocket antics \nat the intersection of golf and pool.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

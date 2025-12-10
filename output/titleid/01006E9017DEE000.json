@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3f2c7316d00f254c78dbd0e25c538bac81c555c13970c8191d45663da58884d.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Unravel the secrets of Cliffmont Castle in this enchanted match-3 journey! Explore vast levels, collect precious treasures and build majestic castles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e47c8f27afb2b6371c13d95fba6d7462042447f49ee00f6d56cac928d50f600.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The revenge of tales and legends",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.26 GiB"
 }

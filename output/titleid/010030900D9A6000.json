@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/be611a9c150275eeda1441079055fc427c58bfd0a18f921262a1075dde21a406.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Crush robots, save your cat\u2026 oh, and also the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "451 MiB"
 }

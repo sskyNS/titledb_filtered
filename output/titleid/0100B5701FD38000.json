@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0136f608f4c7cf46caf924910020307abf089fbcda0618e64e17816a2c9cd440.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Idol Hell is the beginner friendly bullet hell game! \nPlay as Medli and fight through hoards of enemies and meet vibrant cute bosses through 4 different difficulties!",
+	"languages": [
+		"en",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

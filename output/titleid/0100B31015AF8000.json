@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e1b7f31e76da9a5360f313e421d973052196b3759c6992cbc84943fff661ab0.jpg"
 	],
 	"releaseDate": 20211123,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.72 GiB"
 }

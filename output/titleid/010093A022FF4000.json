@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea24af316e29b2fe8a1504c15e3a5f673ccf92c788973df9ab7d128dd88477cc.jpg"
 	],
 	"releaseDate": 20250425,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Party",
+		"Training"
+	],
+	"intro": "Can you create the most successful clothing outlet?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1017 MiB"
 }

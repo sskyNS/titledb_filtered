@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/56715f10af842c0af15549a8a69ceb1d8da452e585424e10f641c2eef3b0571e.jpg"
 	],
 	"releaseDate": 20201226,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"First-Person Shooter"
+	],
+	"intro": "Explore, build, and craft in a block-building, survival game with Super-Duper realistic graphic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "945 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5224c92dea049fcbbc446e68ac6495a1081dc5a9caf38ec30b465815ec352872.jpg"
 	],
 	"releaseDate": 20180702,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Burn Stuff. Save the World.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

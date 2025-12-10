@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/164e410fd634f2c0567d8a90b924560143cfe710dca3ff3933c66b3c3ad34d09.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Solve 45 beautiful puzzles of beautiful noble princesses",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

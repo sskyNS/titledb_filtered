@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ff60f2faed9150ebdb7118049b6e9845d0cb4d038897a2808faefe13368f85.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "In Fluffy Cubed the player must push boxes to their correct positions on the map in order to advance in level.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

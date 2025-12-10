@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/af92744d0738fe4eb4b8b0a0b6672cf96e2b551209f4d93a2c6984f37c13df63.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Build Miami\u2019s hottest clothing store! Stock, sell & customize your shop, hire staff, and expand to fashion empire status. Will you dominate the beachside strip?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

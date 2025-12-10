@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/add390b9813dbb53c5fcd93ef15e7683c28f894ee289286d9837752ae86abc72.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Croc\u2019s Dynamite Blast is an explosive arcade action game full of strategy, chaos, and fun! Join Croc and his friends in a fun game where dynamite is your best weapon!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "168 MiB"
 }

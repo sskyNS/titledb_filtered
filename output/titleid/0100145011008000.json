@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/da4324d0da655d0349bc3ff30d36d25f2cee94e2964fb541e9f8647c6bba76e8.jpg"
 	],
 	"releaseDate": 20200925,
+	"category": [
+		"Platformer"
+	],
+	"intro": "Explore the Trollhunters universe and save the world as Jim Lake Jr. in this action-packed game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.86 GiB"
 }

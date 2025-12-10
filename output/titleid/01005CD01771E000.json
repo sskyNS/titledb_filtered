@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bda40a62dc430463cc907f2a9067937509d7d9a7d064b451e27511b37607bd15.jpg"
 	],
 	"releaseDate": 20220207,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Face these daddy issues and watch your world burn. No more running!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfe943e69ccba3171671bad96c779a76d793748d8fddb44eaf8b13f8e2c33cb9.jpg"
 	],
 	"releaseDate": 20230623,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A platformer magic show with dazzling, reality-altering puzzle tricks",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

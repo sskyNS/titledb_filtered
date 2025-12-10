@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4560f89e3a42ab3e2a22a8699e8f7527b3e11941d6b00de0f950f6945de301be.jpg"
 	],
 	"releaseDate": 20250201,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Transform a simple wash into a car cleaning empire!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "919 MiB"
 }

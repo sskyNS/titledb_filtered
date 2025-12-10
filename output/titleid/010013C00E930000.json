@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ad186e7d607832211a9a868fa98530c64b31087e533b5754060b662bfff8f11.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Ascend to the Peak of a Haunted Kingdom",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.80 GiB"
 }

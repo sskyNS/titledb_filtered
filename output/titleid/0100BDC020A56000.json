@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9147f37bd864bf1d3465f156d388c792676eb2ca308dfa16c6608b5c0851b2ea.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore and fight in a hostile world, filled with enigmatic characters and ruthless enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

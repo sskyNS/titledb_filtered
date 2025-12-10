@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/58572473bead4b045d5e95f08eaa130368ad1b7f465d43c7d831eb3304f6bfba.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Practical"
+	],
+	"intro": "Run your own restaurant for many hungry customers!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "788 MiB"
 }

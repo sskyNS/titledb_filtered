@@ -11,5 +11,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/26acd616120f761e16fb3f3ed02a0c2543a6a04267bc668b9bed7eae6511fe4e.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Jump, Step, Step is a programming game where the player should to give instructions toa robot  to help it to reach its goals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "686 MiB"
 }

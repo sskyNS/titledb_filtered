@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce6f2130596a713ddd13891a5fd517d5a21ddabf0fea1b253060278f6be87006.jpg"
 	],
 	"releaseDate": 20210219,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Insane, absurd and intense avoid-'em up game about a cat!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "646 MiB"
 }

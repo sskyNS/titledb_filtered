@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/48a59f8773bbfdfdc87a2909f004c406f2fa1242bb51005b10fde6996177ed3f.jpg"
 	],
 	"releaseDate": 20220711,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "CAN YOU FLY THIS EXPLORATION MODULE, AND LAND IT?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

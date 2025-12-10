@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/592f13c225637242ceb9aa07feccbb4724ff2beb2c087ec949449b46548dba4e.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Mittelborg: City of Mages is a strategic adventure with elements of rogue-like and resource management. ",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

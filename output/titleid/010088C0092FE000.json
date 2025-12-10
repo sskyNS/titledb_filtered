@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/92a20d0a737fad6fbf46fa322c1fad5bee8710ce5170cfed58d89fee1fc65556.jpg"
 	],
 	"releaseDate": 20181106,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "FUN FOR ALL",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.65 GiB"
 }

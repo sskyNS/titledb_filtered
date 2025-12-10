@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/71a10454dcdeead68adc8e14d980709e1b4c916ad6ef7372f36503d3c566ee04.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Aim your sushi and shoot!\nHit sushi of the same type to make them grow bigger and bigger!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "309 MiB"
 }

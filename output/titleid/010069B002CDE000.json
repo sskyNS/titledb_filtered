@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebaf20d0564c81a11e5c5f110fcba6b22bc060016f00bc4d8785de3a1aaeea64.jpg"
 	],
 	"releaseDate": 20180215,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Seal the Gate Of Doom forever! \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "62 MiB"
 }

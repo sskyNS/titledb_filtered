@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/63c499db09f06719e58bc243f19604c15d3332ab7bb941b4b4d04fe169f135ff.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Nintendo Switch\u2122 exclusive! Survive on photorealistic gray sand dunes with tanks. Team up with allies to dominate vast battles and claim victory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.82 GiB"
 }

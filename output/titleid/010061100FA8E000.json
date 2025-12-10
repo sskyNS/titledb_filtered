@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9484b65ce665b8b660d1e5270a93e33f047f9f8ca6094b848a931bd108ffa3a.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Racing",
+		"Shooter"
+	],
+	"intro": "Get Ready for a Futuristic Adrenaline Rush!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "603 MiB"
 }

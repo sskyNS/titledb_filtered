@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb4ad7994633c782654e558d093d7becdcb406e51c711ccdcc2c17766a708e19.jpg"
 	],
 	"releaseDate": 20231113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Destroy, build tactics, and destroy as many enemies as possible on your way!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d684f87a160a237466324095330bff40bdff153e532fb3255628b1f133b9e44.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Build a heroic hamlet that warriors and\nmerchants can call home!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

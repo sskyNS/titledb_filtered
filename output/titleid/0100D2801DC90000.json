@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/01f45fec16f61770bf11d7e388daa8eb5ffc4ac019d4616e82eacd1537275d09.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Communication",
+		"Party"
+	],
+	"intro": "Finally he showed up",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

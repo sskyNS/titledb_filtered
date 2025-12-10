@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/435467d54a6e722d3b1a7fed54ba44668af7810b01c197b32e836e0d69d997a5.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Follow Your Heart, Find Your Love!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "300 MiB"
 }

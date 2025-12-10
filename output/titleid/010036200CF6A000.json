@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/51a9d884f1e2f8a0c794e74b46ffccee074cf7f9dac7d5618a5e66a2faf0b9d7.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u300c\u30b6\u30fb\u30cb\u30f3\u30b8\u30e3\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc\u30ba AGAIN\u300d\u3092\u30ea\u30e1\u30a4\u30af\uff01\u300016bit\u30c6\u30a4\u30b9\u30c8\u306f\u305d\u306e\u307e\u307e\u306b\u3001\u30ef\u30a4\u30c9\u30b9\u30af\u30ea\u30fc\u30f3\u5bfe\u5fdc\u3001\u65b0\u30ad\u30e3\u30e92\u4f53\u8ffd\u52a0\u30012\u4eba\u5354\u529b\u30d7\u30ec\u30a4\u5bfe\u5fdc\u306a\u3069\u5927\u5e45\u30d1\u30ef\u30fc\u30a2\u30c3\u30d7\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "706 MiB"
 }

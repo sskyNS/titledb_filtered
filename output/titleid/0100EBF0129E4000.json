@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/99baa9c958ab81a1fe8e779a07a0a848ae505c18d8d42cde1f78924413e461a2.jpg"
 	],
 	"releaseDate": 20210323,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "JOIN IRON WARFARE, CHOOSE YOUR WAR MACHINE AND FIGHT IN EPIC TANK BATTLES!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "309 MiB"
 }

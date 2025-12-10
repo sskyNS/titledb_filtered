@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c6f1b2b38772b00d679d36daf685c37effe76f47c08f6f602716ad3f395ce4a.jpg"
 	],
 	"releaseDate": 20231220,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Summon the powers of your magical companions to master the haunted book worlds and find a way home!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

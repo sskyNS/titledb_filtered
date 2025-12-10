@@ -8,5 +8,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2f6de6e87e557f851553fe755f2551d7afcc0c2875f6e40f9af101cd8f48483.jpg"
 	],
 	"releaseDate": 20201112,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Zombie wants your BrainZ!\nSurvive waves of zombies, search for loot and escape!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "306 MiB"
 }

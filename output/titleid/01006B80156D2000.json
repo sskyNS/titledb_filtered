@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d0a8672145c9c29882a83a54130cca2d9053bd3fe654cf0b650951f1acefc9c.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Control Yuki and beat down rival martial artists!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "69 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/79a5761988b99f3db485ef5145d298ade499b8a6b90947c2e02a1f3f4e5bea33.jpg"
 	],
 	"releaseDate": 20230209,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Animal Puzzle World is full of suprises!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "317 MiB"
 }

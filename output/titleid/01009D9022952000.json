@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b68c7fc4625d0c91e0a57319ae4609f78bce4bccc191db11521ed455a406ab99.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Study",
+		"Action"
+	],
+	"intro": "New 'Q REMASTERED' that physics puzzle series!\nChallenge the bizarre and difficult puzzles created by over 20 VTubers who mastered Q!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "629 MiB"
 }

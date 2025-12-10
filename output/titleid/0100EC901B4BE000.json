@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b9c805b232d4b4906e03332b093ece96c037b1f321416c2dfcb91398d43016f.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A graphic adventure game where you must escape prison in 3 days by making decisions.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

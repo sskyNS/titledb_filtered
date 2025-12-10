@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bae194842c7b1e0714140c5cb65d02e62445268c5961afad9d6106b25bf4c21d.jpg"
 	],
 	"releaseDate": 20210917,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Do you have the skills to become a master ninja frog?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "36 MiB"
 }

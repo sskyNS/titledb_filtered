@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f69564d7621ad393f9292341110853d94519e8977342e42ffa33e5d08ea5f6e6.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "This Story Ends at the Beginning of Life",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

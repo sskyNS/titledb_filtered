@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f9788ec6a3f4cfa43546023891049eaccbf8038d2b85705ad536042d60a9654.jpg"
 	],
 	"releaseDate": 20200717,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The power of Hats compels you to avoid punches!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

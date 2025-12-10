@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/76bcaa5ed6218562e25f32575b0bdf7c88b08e331230e29d6fb53e8b1a0fdfed.jpg"
 	],
 	"releaseDate": 20191015,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Explore a vast, mysterious castle and uncover its secrets in this award-winning puzzle adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

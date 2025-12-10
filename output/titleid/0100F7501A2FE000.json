@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/705ff7e42c367bd82f060c3745be2792f3a793694a90c4d5830f2aa690aee8cc.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "LIGHTNING STRIKES AGAIN!! XENOTILT, the sequel to the cult hit, DEMON'S TILT. Get ready for another PINBALL FANTASY. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

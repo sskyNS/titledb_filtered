@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/15cc2a8f637a1c82d3c2994ccd97cbe9f3627dd11a2c9e48eb6c8eff804caf1e.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Action",
+		"Strategy",
+		"Music",
+		"Party"
+	],
+	"intro": "Bounce, Trap, and Claim Your ground!\nEngage in high-energy rhythm-meets-strategy battles across 100+ dynamic stages!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "965 MiB"
 }

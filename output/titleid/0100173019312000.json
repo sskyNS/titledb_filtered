@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/43e99a71a42cc58f21d505515859ecf89c3acab907a7419e335ac4d82c609688.jpg"
 	],
 	"releaseDate": 20230201,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Embark on a bizarre martial arts adventure as a Spanish ninja and his buddy chicken!\n",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.21 GiB"
 }

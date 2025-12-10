@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ba40fc6da66097b2f539b40a49797ffb65b1ee8c5288e76be4289e1a1791445.jpg"
 	],
 	"releaseDate": 20230424,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Car game | Tune up, fix, collect, sell cars | Car customization | 3d tuning",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

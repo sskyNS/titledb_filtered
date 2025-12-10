@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e70a4eb7917794fa93d42c6c0202a8bccaf18bfa1c82687fa77f3888c175ac39.jpg"
 	],
 	"releaseDate": 20221115,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Who will be the fastest Smurf in town?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.85 GiB"
 }

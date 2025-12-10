@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b0cba7253738f02306a776e638d000099b85c67eb797f42db3b2bf9e7619c29.jpg"
 	],
 	"releaseDate": 20181207,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "SEGA Genesis Classics is the largest collection of retro classics on Nintendo Switch\u2122!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.20 GiB"
 }

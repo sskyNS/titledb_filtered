@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/45e01920e88bbf5a79f16ba9e769e985899a445fc6a887125366d539e8b7b7fb.jpg"
 	],
 	"releaseDate": 20191024,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Save the galaxies, destroy the black holes.  Be the best pilot from Earthos.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 3,
 	"size": "198 MiB"
 }

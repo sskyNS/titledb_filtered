@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8665706a79b3e997941b8019417a771c18d38a3d08853e28e7adace865c8262a.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Utility",
+		"Training",
+		"Study",
+		"Party"
+	],
+	"intro": "Hop into the wonderful world of Smurfs and check what stories are waiting for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

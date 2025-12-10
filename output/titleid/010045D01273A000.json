@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a66cdcf413f33bdb04a5bc72f51b93cef6ec1402dd95e723c38fb3dd1fa25d50.jpg"
 	],
 	"releaseDate": 20201009,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Navigate the Broken Mind of Lilly Witchgan",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "452 MiB"
 }

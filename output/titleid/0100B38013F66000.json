@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0e767575d91f59fd8c7d324ebc848b1559460dac7c1d52305508a7f36022b09.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Neurodeck is a psychological deckbuilding card game to challenge your fears. Build your deck and capacities by answering personality tests, visiting rooms or meditating. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "504 MiB"
 }

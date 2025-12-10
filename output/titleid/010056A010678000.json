@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0501f47b9655abd9223246e041bf51d200324d13b447507faa631cb69b031871.jpg"
 	],
 	"releaseDate": 20230201,
+	"category": [
+		"First-Person Shooter",
+		"Multiplayer",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Gunscape is an FPS world-building hybrid in which gamers create, share and enjoy their own maps.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "278 MiB"
 }

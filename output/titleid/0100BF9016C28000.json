@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/480b9e1361a1017415321c27ebae4edb19aafc62961358e3e13331f70755eb82.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Let's make a big jump aiming for the goal!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "37 MiB"
 }

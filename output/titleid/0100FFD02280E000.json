@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b9bf5406756fcd628c256e3fc1d22b75f1480c0e42bc4f56c3ac803bded42b1.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Simulation",
+		"Education"
+	],
+	"intro": "\u041cove the animated polygonal pieces to collect charming girls. Solve puzzles, and enjoy high-quality animations! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "545 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/39bcfacccf8a8c004b26ede221e115d4eec21142b6c2ea30e1d8588783dde75c.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "CHALLENGE GRAVITY IN THE RACES OF THE FUTURE",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "342 MiB"
 }

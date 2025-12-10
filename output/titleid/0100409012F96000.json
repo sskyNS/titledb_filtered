@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e8e0252c3939ed9c5c652588360187570462abfffec5381cab4eb7c2fb11356.jpg"
 	],
 	"releaseDate": 20211116,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Grow Your Own Worlds!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.52 GiB"
 }

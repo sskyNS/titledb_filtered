@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5dd601d8945b9120674e28f4423d1f9714f7366ef72c1221958f73293c6e3dc.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Become a cat! Cattails is a unique animal simulation RPG. Hunt, fight, explore, and socialize in an expansive open world. Get married, have a litter of kittens, and befriend your neighbors!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "192 MiB"
 }

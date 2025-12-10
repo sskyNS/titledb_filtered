@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/492ce8c5fb162e8d33b3a18296d6246385ec2cec2a94f6af10f5c8ed82f33fa5.jpg"
 	],
 	"releaseDate": 20190904,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "There can only be one God.\nThe Divine is dead. The Void approaches. \nAnd the powers lying dormant within you are soon to awaken.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.86 GiB"
 }

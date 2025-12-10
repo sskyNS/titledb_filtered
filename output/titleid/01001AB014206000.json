@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e26d07496fff709c405579be3b415d3a405f4512c4a2761dada4ea815aa66351.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Puzzle",
+		"Practical",
+		"Other"
+	],
+	"intro": "A relaxing low poly isometric game where you have to find the differences in 3D and experience a beautiful environment.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "664 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/15701468d2d870dfdf37d2de05244e532376bf465233b1575cb15f4d9afc88c3.jpg"
 	],
 	"releaseDate": 20211008,
+	"category": [
+		"RPG",
+		"Sports",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "What Will We Do Today? Step into the shoes of Drake Lacasse as he starts a new life at Rosegate University. Battle on the court and search for answers to your past.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.94 GiB"
 }

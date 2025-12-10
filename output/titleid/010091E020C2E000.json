@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f2f491d3827cae7c8ca5ab7caeed9664b5c94d625182956ab1f536f04f3ee28.jpg"
 	],
 	"releaseDate": 20240930,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "The story focuses on the further adventures of Aladdin, the young adventurer from Agrabah, after his first encounter with the magic lamp.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

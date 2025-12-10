@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9b47b318eae400f2e23bd887fb778fed7dd80ad7c7fc673b0e3ad13ff98484d.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Slash! Kick! Rage! The finest and sharpest battles are back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "106 MiB"
 }

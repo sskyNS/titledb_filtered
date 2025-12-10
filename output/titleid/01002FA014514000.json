@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cabab3d85fa0d973cfff5f54b4019fd0a53126f57be1e71414ec64a8ba785860.jpg"
 	],
 	"releaseDate": 20210226,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Horned Knight is a challenging 2D action-platformer where you must overcome all fears, enemies, and traps as the Hero Knight. Rewrite destiny, with your trusty sword, young Knight!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

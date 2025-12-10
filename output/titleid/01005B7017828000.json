@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/66a146e8049f004fc443809115df887f882a01d1e37599364227d66ba7fe9edf.jpg"
 	],
 	"releaseDate": 20231114,
+	"category": [
+		"Music",
+		"Party",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "It\u2019s Super Crazy Rhythm Castle, the chaotic rhythm adventure! \nA puzzling co-op mashup unlike anything you've ever heard.\nCan you conquer the castle?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.62 GiB"
 }

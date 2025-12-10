@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a6ae3b2b63faaf5a8cfe4ea9a1ce5f18f862e720f55b5c041edc7ab70146104.jpg"
 	],
 	"releaseDate": 20211011,
+	"category": [
+		"Action",
+		"Fighting",
+		"Racing",
+		"Shooter"
+	],
+	"intro": "City robot battle is raging on - take part in a full scaled robot invasion! Become a fighting robot and wreak havoc.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

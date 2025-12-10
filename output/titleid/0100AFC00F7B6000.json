@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/028b22c32164c5ab14a714f2f6aaf8547368507a41ac229ead6a11473e1b4687.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Destroy the stones and defeat the Revenant!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "553 MiB"
 }

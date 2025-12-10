@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ca13a151c9ce03bf1485d85da77015c921d4345a44d1b87cb151684dd76b5b7.jpg"
 	],
 	"releaseDate": 20171219,
+	"category": [
+		"Fighting",
+		"Party",
+		"Updates",
+		"Arcade"
+	],
+	"intro": "A new challenger has appeared \nin the platform fighter arena!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.07 GiB"
 }

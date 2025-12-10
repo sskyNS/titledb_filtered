@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/80beb94fc0ca1d4c686550de6962e8755463bf8c3d6955af6c21f2cdbf497a19.jpg"
 	],
 	"releaseDate": 20240121,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Arcade",
+		"Study"
+	],
+	"intro": "Ignite young minds with sudoku fun: A kid-friendly puzzle quest for logic masters in the making!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

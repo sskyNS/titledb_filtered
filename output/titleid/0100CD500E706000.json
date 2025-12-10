@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdc3ae355137f2ebd241dcab7bd47ef267d226e0975be6146ce5299b757926ba.jpg"
 	],
 	"releaseDate": 20190705,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Dungeon-Crawling First Person Shooting at its finest!\nFast-paced combat!\nDozens of perks, spells and enemies!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "633 MiB"
 }

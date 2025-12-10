@@ -7,5 +7,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/724f161f5784402a6def5bf51614955dc9342233890b23cf3c387557e7fbc04d.jpg"
 	],
 	"releaseDate": 20240621,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Reverse Evolution of Fruits, Challenge your friends for the top scores on global leaderboards!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

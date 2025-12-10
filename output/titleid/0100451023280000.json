@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bfae9a0c84bccccdffa895b40e6640c64b93158ec4e466903a611e174a5ab91.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A cozy sci-fi arcade sim where you build, customize, unlock, expand and welcome cute alien visitors!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "855 MiB"
 }

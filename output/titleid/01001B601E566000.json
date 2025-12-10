@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c7656f32503ef5b6609e0761904b9141eff705bbcb5ef3ca9df4911a8639bad.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Choose your own formations and strategies to win your battles in this real-time battle RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

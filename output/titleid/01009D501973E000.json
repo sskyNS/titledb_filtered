@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5ef559e8600f7052df523696b63f092f0ab9f6ee736590bea363fd81b3fb5a4.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Racing",
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Get ready to experience the ultimate off-road adventure as we take on rugged landscapes in this exciting game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "553 MiB"
 }

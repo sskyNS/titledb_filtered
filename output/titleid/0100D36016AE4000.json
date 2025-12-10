@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/799cd595188ab0c9c2698de97cf9b5d0cde9af7f99c28ffb7076c4901edae3a0.jpg"
 	],
 	"releaseDate": 20211227,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Space is really weird and dangerous, but that won't stop THIS mad scientist! Time to put your previously exploded planet back together -- somehow!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "780 MiB"
 }

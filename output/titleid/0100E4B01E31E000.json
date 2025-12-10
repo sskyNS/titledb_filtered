@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a85aee7e2122d47a88ee94ded4f98256320f2f5f1657d0c261185edb8000328c.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Save the planet from a devastating virus as you take to the skies and cosmos in an advanced starfighter!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "563 MiB"
 }

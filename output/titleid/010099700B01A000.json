@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ddc522a833948bec7c97bff0fbd335099b29aa496f8875d73677a2d4daa4533.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Education",
+		"Other"
+	],
+	"intro": "In Valiant Hearts: The Great War\u00ae, the lives of all the characters are inextricably drawn together over the course of the game. Friendship, love, sacrifice, and tragedy befall each one as they help one another retain their humanity against the horrors of war. \n\nAN ANIMATED COMIC BOOK ADVENTURE\nExplore the highly stylized world as you experience Valiant Hearts: The Great War. \n\nEXPLORATION, PUZZLES, AND ACTION\nSneak your way behind enemy lines and solve puzzles as you try to survive.\n\nRELIVE HISTORY\nRevisit historical battles along the Western Front and see famous locations from World War I. \n\nUBIART FRAMEWORK ENGINE\nSee artists\u2019 work brought to life through stunning visuals powered by the UbiArt Framework Engine. Choose your favorite control mode and experience the game with either a Joy-Con controller or the touch screen.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

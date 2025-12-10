@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3cba03463e7d0e9f1f5ffc5c9efb26794f357379a0e7ea3d2d683295d2e21c6.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "''MIST-ical' RPG with expeditions for finding the key to survival. Choose your next step wisely and keep in mind that your every move will change the future.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4dd9e21b219e29b6a325eadaa2ae7b22672c1649b6f8a7097f5d2432012e5fae.jpg"
 	],
 	"releaseDate": 20231121,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u30a2\u30a4\u30ec\u30e0\u306e\u540d\u4f5c\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0\u300c\u30a4\u30e1\u30fc\u30b8\u30d5\u30a1\u30a4\u30c8\u300d\u3001\u300c\u30a4\u30e1\u30fc\u30b8\u30d5\u30a1\u30a4\u30c8II\u300d\u3001\u300cX MULTIPLY\u300d\u306e3\u30bf\u30a4\u30c8\u30eb6\u30d0\u30fc\u30b8\u30e7\u30f3\u3092\u4e00\u6319\u306b\u53ce\u9332\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "500 MiB"
 }

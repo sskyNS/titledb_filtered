@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c57d6d2048c6bf9bc18106bf92390dbd9ce0d125e1fe6fe2bd09208dad44fe61.jpg"
 	],
 	"releaseDate": 20220519,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Happy, embarrassing, nostalgic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "111 MiB"
 }

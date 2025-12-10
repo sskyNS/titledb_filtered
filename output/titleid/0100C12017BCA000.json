@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/48eafb1b5ec47fe517b757be397ee7fc2bf007b2c94278af45c962e8eb670abf.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Action",
+		"Adventure",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Roll out for intense battle-racing to recover the lost Prime Relics!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.45 GiB"
 }

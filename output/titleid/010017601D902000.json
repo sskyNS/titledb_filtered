@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/216c842ebb60c64c7866c59e96512c34f94198d49bf45b395366aa58014ffef6.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Strategy",
+		"Action",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Highly addictive atmospheric unique minimalist tower base defense game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

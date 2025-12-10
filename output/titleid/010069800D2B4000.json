@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/86b66a22c22b5f39d36fbb9f0204fea6c38154a432ef8c9607507bb206b2ad4c.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A 2D sandbox with a Japanese twist!\nWork to recover a planet covered in junk!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "221 MiB"
 }

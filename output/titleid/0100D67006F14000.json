@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/80247dbd69390d84d402b2a48d5e105815ee63e10d6ff90645d6d23dbb7018cc.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Fight as both British and German pilots during WWI\u2019s battle for the skies!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "519 MiB"
 }

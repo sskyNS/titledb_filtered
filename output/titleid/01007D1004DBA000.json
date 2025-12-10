@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc4504188bb92ce2d5214db6936c1fe9407dd2017d0ca40f3ded1e68fdb92f25.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Get ready for an extraordinary adventure! Enter a cartoony world full of miracles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "89 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a64f54980d0224b01ccfc4f0f7d61853f6f2cf319089153be1471c105bdbbfc.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "EVERY LEVEL IS YOUR PLAYGROUND!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.86 GiB"
 }

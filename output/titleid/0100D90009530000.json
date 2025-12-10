@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9686b30b4b612f7d876d81180b07e75a3cd303a9e3cb53119b00262ef7b096b.jpg"
 	],
 	"releaseDate": 20220603,
+	"category": [
+		"Party",
+		"Action",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "KnightOut is a local party brawler for 1-4 players! Play with or against your friends in a frantic battle. Half the battle is won by building an epic castle with deadly weapons and traps.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.98 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b547536a84348a1a0d72c3bea365ddc37eca38e933ba7ea2bbe7f964d87a7fe.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A time-traveling narrative adventure ",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

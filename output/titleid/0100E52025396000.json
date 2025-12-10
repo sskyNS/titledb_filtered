@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd6fbb5bca2d7efdff5a74e241dd474445417d35027dc808746a16a2f3c0fa00.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Frostwood hides more than just the cold. Strange figures roam the streets, and one wrong step can change everything. Can you survive the night?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

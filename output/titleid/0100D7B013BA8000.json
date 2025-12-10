@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/65d7aae41313fbe46da57832cf4dce163ff76ae7d280bba3871e7a9b361f6cae.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Take on the role of the martial arts master Hiro, Meilin,or Shin as they face off in a desperate fight for their lives against the Black Mantis clan. Bring a friend and battle against ninjas together!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "721 MiB"
 }

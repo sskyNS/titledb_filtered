@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8298ea71efef43df7ec39102cb8c368b90257928cf6258ab887d0abfc8aa41b.jpg"
 	],
 	"releaseDate": 20230811,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "A horror game about losing someone you love",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

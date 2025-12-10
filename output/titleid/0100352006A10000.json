@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b8e2b22ff99bd9113541e5428ab686763cb48f6752a71b20c41db9a9403e32e.jpg"
 	],
 	"releaseDate": 20171107,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Relive the golden age of dungeon crawlers in a simplified version fully adapted for consoles.",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

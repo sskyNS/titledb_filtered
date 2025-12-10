@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dd2e3d6265cd94c6a49bef8f4164ab654fde2606dd96dc2e386920283e0aff8.jpg"
 	],
 	"releaseDate": 20191112,
+	"category": [
+		"Education",
+		"Simulation",
+		"Adventure",
+		"Study"
+	],
+	"intro": "See the world through the eyes of a bee! Explore a world inspired by Central Park where you can take part in bee races, collect pollen from rare flowers and defy dangerous wasps.\nPlay with friends or family in three game modes, including co-op and PvP on split screen.\n\nThe hive awakens as the sun's first rays warm the horizon. It's time to test your wings, receive orders from the Queen and begin your first mission. And that's just the start of your adventures. Humans want to cut down the tree that holds your hive, so your fate \u2013 and that of the whole swarm \u2013 rests on your tiny shoulders!\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.45 GiB"
 }

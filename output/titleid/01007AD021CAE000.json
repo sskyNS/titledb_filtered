@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6fec5ef6894f0e17873dcd8ed664956e0ecb490ddbebc4e2aa0bf6e59203143a.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Sports"
+	],
+	"intro": "Clash of Titans, Built for Battle!\nUnleash Steel Fury, Rule the Arena.\nRobot Boxing: Where Legends are Forged!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

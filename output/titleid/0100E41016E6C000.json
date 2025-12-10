@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/52d69d77dcd607d1bb95e107842d9ae8cd06814c2cffc297155afe6d3ea0e32a.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "\"Koi Koi,\" is the most well-known variation of the traditional Japanese Hanafuda card games. It\u2019s easy to learn and hard to master!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "644 MiB"
 }

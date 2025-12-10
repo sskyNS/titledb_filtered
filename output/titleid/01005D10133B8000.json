@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b5b1dbdaa7dcd1ac24fe7f2b34600b4e790b01e2ae6735008cefdaea4c7b325.jpg"
 	],
 	"releaseDate": 20201221,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Help Brave Lord survive the Killer Chambers and defeat the bosses summoned by Lord Grave!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

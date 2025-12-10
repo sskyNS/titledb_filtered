@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5eeb5f9f16234c6aea78042289aa56ae96c126e4bc04d3dbf17a9df58d6478ca.jpg"
 	],
 	"releaseDate": 20240705,
+	"category": [
+		"Action",
+		"Simulation",
+		"RPG",
+		"Racing"
+	],
+	"intro": "The Road to Survival is Paved with Zombies, accept the challenge, to reach the end!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

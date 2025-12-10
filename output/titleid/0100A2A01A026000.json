@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9446731182dea245873f01a446ef3ddef7b083678d7567ad321af652350cef0f.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "Draw your boomstick and obliterate Lovecraftian abominations in this unique FPS!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.99 GiB"
 }

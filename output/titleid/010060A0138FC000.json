@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9784d27bd02dbaaf831ce133b2fcfd49af1805e552b77898fa5e6fcadf000c5a.jpg"
 	],
 	"releaseDate": 20210112,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Arcade",
+		"Study"
+	],
+	"intro": "In S.U.M. you'll put your Quick-Math skills to test! Fight very Uncool Monsters using Addition, Subtraction, Multiplication & Division.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "133 MiB"
 }

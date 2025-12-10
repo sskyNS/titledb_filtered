@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6955a442e82d60f6992a4b5d674d9fb275d4d71860b4edba76515c0c778fcb6e.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Open a world full of adventure, mysteries and alchemy!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.63 GiB"
 }

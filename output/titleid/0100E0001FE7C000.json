@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f750a8e13e306005aae129be848a8f1bd2d5096262d7ab42ebc6cbd39c34b03.jpg"
 	],
 	"releaseDate": 20241106,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Action"
+	],
+	"intro": "There is a piece of wisdom: if you want to go fast \u2013 go alone. If you want to go far \u2013 go together!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

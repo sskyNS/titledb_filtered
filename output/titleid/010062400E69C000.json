@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1632dcdda419398cb50848131357a881643e052d1298324fa20dd57374054cf8.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Enjoy exciting adventures at Martinshof!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

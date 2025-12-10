@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/feef90d2e91eab1b71fa6571aecc0faf7f4350384d9381925e7ad473423d4d63.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "You\u2019ve been kidnapped by a child killer and placed in a house filled with puzzles. Try to break the system, escape and end the nightmare.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.63 GiB"
 }

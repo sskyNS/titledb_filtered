@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/afaac74f30358397d64a55b15099c57a2ed5828c497f99eb1b6de87da65887be.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Rotate the puzzle elements and collect all the amazing funny dogs images!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1edd20f4462ee9ac1c24092265bfb94e5055c0a0a8c32e260a423a5c6fb0e4cb.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Training",
+		"Party"
+	],
+	"intro": "Match as many as you can and get your best score!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

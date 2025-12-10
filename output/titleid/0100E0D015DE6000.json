@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4603fda512b633e2ef69b4da98908ab27f11912e0d2ad6ca32f323e82b24f4c.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "In this challenging 2D platformer game, play as a Superhero and help the Kid to find all the missing socks inside the cursed washing machine. Sockventure has stunning colorful graphics, hand-crafted levels, tight controls and fun ever-changing gameplay.\n\nSockventure is a story about a kid whose favorite sock gets eaten by a cursed washing machine. Kid needs immediate help and calls superhero to the rescue and the adventure begins. Make your way through the dangerous levels to find the missing sock inside the washing machine!\n\nBeat over 200 levels of hardcore platforming, get new skills such as wall jumping, dashing and stomping and bring the socks back safely. Unlock Dark Chapters, collect Coins, beat Challenges and find the missing socks.\n\n\u2022 200+ Levels - Over 200 handcrafted Levels in 7 Chapters.\n\u2022 4 Special Skills - Get new Skills during the game. Wall jumping, double jumping, dashing, stomping.\n\u2022 Coins - Find and collect the coins to unlock Dark Chapters.\n\u2022 Dark Chapters - 3 Dark Chapters offers new more challenging Levels to test your skills in.\n\u2022 Challenges - Multiple Challenges to beat for every Chapter.\n\u2022 20 Socks - Find hidden Socks and use them as your outfit.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

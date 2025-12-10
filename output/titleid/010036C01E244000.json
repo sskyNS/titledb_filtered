@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f42fc56918ed944b4de5f2bca65d79ab6ece3318abb03eb3db76cfd010c2f6f1.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Embark on a journey to heal the soul",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.60 GiB"
 }

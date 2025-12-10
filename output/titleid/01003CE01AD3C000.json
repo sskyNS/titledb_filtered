@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3e8b61406be13d8ed3144fdf1312d0f3efa4edbb8733b6090dcc449ab3cdd73.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Shooting range is a great way to practice your shooting skills and improve your accuracy!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/118cefc0bd23a24e2f457d3542be8fb79451ec4e756acb16efa5d573095d3e9c.jpg"
 	],
 	"releaseDate": 20221125,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Things are going to start getting weird",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

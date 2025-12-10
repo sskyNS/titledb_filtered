@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/42a28bc748bce404342b8a52ea00d22b5c7c8a91504d26bfeb9614781493d794.jpg"
 	],
 	"releaseDate": 20231104,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Radio Controlled Car Challenge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

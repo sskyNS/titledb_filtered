@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b002ee37abb3a7ab07576d7fc6a84ec2ed88a71ef267f748274f1829a1dcabf5.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u683c\u95d8"
+	],
+	"intro": "\u6ce8\u610f\uff01 Tiny Troopers \u304c Global Ops \u306b\u623b\u3063\u3066\u304d\u307e\u3057\u305f\u3002\u30da\u30fc\u30b9\u306e\u901f\u3044\u30a2\u30fc\u30b1\u30fc\u30c9 \u30c4\u30a4\u30f3\u30b9\u30c6\u30a3\u30c3\u30af \u30b7\u30e5\u30fc\u30bf\u30fc\u3067\u3059!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.00 GiB"
 }

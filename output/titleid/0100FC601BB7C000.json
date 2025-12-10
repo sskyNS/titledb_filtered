@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1143652a786dff80c763f8504ba2a4dc9650f304d88345ad5a3ff562bb3afab5.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "The star magician of Morgan\u2019s Traveling Circus is missing, but the show must go on!",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

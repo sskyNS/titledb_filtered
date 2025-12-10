@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa359f4b7c37571db2266e24edd62e02e795511eee54362dbfc50b84e0aca05d.jpg"
 	],
 	"releaseDate": 20190822,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The Happy Orchard Farm is trapped in a nightmare! People are disappearing into the mist that surrounds the town at night in this Farm Mystery. It's up to you to solve the chilling case of this haunted place. Search for clues, solve puzzles and play mini-games to uncover the secrets of the Happy Orchard nightmare. Will you solve the Farm Mystery?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "666 MiB"
 }

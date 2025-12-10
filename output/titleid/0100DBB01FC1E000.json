@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dcf2853d62ae2b22e16623d700d353e0ec696d313ccb02689201798959adef0.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Communication"
+	],
+	"intro": "Star Trek: Resurgence is a narrative adventure game featuring dialog choices, relationship building, and exploration.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.23 GiB"
 }

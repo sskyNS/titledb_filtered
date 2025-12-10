@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/244d7ab4ae0cd3fc49662dfdba7ff1701d48110200e9a2bf3dfa5b936aa13b2a.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer",
+		"Communication"
+	],
+	"intro": "Let's assemble a toy with two guys with different personalities!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.48 GiB"
 }

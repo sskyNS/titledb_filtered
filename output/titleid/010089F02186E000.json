@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d8e804e639ec7cb151de7fab6e010af4e755a97a977f7397bd7db17378e09ab.jpg"
 	],
 	"releaseDate": 20250528,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "nothing is planned, everything works",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "201 MiB"
 }

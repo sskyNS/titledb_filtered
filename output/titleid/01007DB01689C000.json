@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/96306597e69c9f437ee34bacc3c4351276aaee357709f4ab672681d73fc8b25a.jpg"
 	],
 	"releaseDate": 20211214,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "How long can you survive the depths of space in this fresh revival of the classic arcade shooter? Pilot solo or recruit a friend for local co-op across 30 challenges or arcade mode",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "452 MiB"
 }

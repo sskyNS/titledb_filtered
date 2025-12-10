@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/900b9107fc58cfd09b7d99e9d1695579d86945b3c6740ae7f16446529fe2e5c4.jpg"
 	],
 	"releaseDate": 20201109,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "A classic games comes to your console today. Try your ninja moves today! Play, slice, dice, fight with time, your friends and CPU!\n\nTry to become the best! Play with gyro controlls, touch controlls, or in handheld mode! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "112 MiB"
 }

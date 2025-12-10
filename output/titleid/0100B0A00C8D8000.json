@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac38b3965312772522874e8a34237969c09303f4f3f3692df0de02d1bb54b321.jpg"
 	],
 	"releaseDate": 20200102,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "Fun ball-throwing action! Who will be smiling triumphantly in the end?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "141 MiB"
 }

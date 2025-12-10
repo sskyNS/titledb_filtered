@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6caed759c70eba15a6020622838c0432c4a6a0e4a57e7d44d6586e2c344c03e7.jpg"
 	],
 	"releaseDate": 20180525,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"RPG"
+	],
+	"intro": "Procedural! Rogue-like! Twin stick shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "427 MiB"
 }

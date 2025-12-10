@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0efcfc5be7f84c295591c3936ac9287af86d856817206fb4834345357f74aad9.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Ascend Yggdrasil's surreal landscapes in this Norse-inspired puzzle adventure. Solve puzzles, twist geometry, and uncover a warrior's path to Valhalla.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

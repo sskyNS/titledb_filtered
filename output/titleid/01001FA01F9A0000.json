@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/30f880b078d038b58372a45a470b528e70413f92da39e0adaf7c58598fc8e3b6.jpg"
 	],
 	"releaseDate": 20240719,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Party",
+		"Strategy"
+	],
+	"intro": "A classic game of pool on your Nintendo Switch\u2122 \u2013 play with a friend or hone your skills vs an AI opponent.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "341 MiB"
 }

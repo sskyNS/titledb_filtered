@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e9f111f1de7c800934e73ebd3ae03116ad795ba3561e1cf69e7df604500774c.jpg"
 	],
 	"releaseDate": 20201030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "CASE 2: Animatronics Survival is a sequel to the scary first-person stealth horror with animatronics.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.42 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a73771ec87979878af204c26d79872e8cc25da67948a4f251b6d42b6e1640bcd.jpg"
 	],
 	"releaseDate": 20240824,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Strategy"
+	],
+	"intro": "An adventure into the mysterious world of the underground Labour Office begins.\nHere, money decides everything.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

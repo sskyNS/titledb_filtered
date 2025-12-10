@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d88b9c32be92a951ef7e6ec9cccb8888544a60b14cdab83a206a06391d345489.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Eliminate terrorists hiding in Hong Kong's labyrinthine city! Battle from alleyways to skyscrapers on neon-lit streets. Team up in co-op to defend Hong Kong's peace!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.15 GiB"
 }

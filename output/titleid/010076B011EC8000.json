@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0b657385891346a229191c11f3e705e8d812133c3bb51d2b63661556da2deac.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Music",
+		"Party",
+		"Multiplayer",
+		"Lifestyle"
+	],
+	"intro": "A fun dance game for all your family and friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.31 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fa359793d47ea5bef9f15a0c8e0c5e74324ba21066a0bdc28a38387427ab710.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "The battle to determine the ultimate chicken is back!\nVarious intense situations will test your Chicken Level!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "257 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5bdd31daa955579e4036f0292a68041992b50bba7e273491bb02e00afccb982.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Time is life\nTime is currency\nTime is all",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/08cc6f48c477d3a6610b8e795b1c69bed384126634689f7d36d181f7c9507070.jpg"
 	],
 	"releaseDate": 20211105,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "The Destructivator Returns!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dbcd38519819c8c4ec510ce6d2a68602316b0a078bd79fc467c34ca3e1d5e76.jpg"
 	],
 	"releaseDate": 20220722,
+	"category": [
+		"Racing",
+		"Party",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Race in the air with customizable planes",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.93 GiB"
 }

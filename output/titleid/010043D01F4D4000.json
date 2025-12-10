@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e58ac48f2d5dddf61491b143a91186ee81bd2759646e07415ff8ecd0fa3f8d6a.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Prune & Milo is a turn-based puzzle game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

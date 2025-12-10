@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/92072a378b6a3bc162de3838110373589f95da05e9085cc42ad57337889d59e2.jpg"
 	],
 	"releaseDate": 20181206,
+	"category": [
+		"Action",
+		"Shooter",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Manic. PVP. Battle. Shmup.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "844 MiB"
 }

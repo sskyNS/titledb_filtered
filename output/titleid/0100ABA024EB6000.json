@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/25b6fe99a5037639646b924c78dae415ef81b64ac1569d5b0dd334320713d2a7.jpg"
 	],
 	"releaseDate": 20250824,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "A Serene Journey Through a Stylized Eastern Landscape\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

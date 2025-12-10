@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c67f51d7c06206f13387c3ff071284536ebec969b15468bdb7e6abfdcd29819f.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"\u5b66\u7fd2",
+		"\u5b9f\u7528",
+		"\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u604b\u306e\u6210\u529f\u306e\u30ab\u30ae\u306f\u5fc3\u7406\u5b66\u306b\u3042\u308a!?\n\u30b2\u30fc\u30e0\u3067\u697d\u3057\u304f\u300c\u30e2\u30c6\u300d\u3092\u5b66\u307c\u3046",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7affbfd82c9ca5c394e385541a2927b530209afbbf9b502d9875098eaab6bcf.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A randomly generated dungeon crawler in the style of Fighting Fantasy, featuring some of the most brutal 4 color dungeons!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

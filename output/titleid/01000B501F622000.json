@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c40d74122e7e9cea057bfeb2cadb0d36a9ac2161a43bd6effafe5824f71cadb.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "There are over 100 stages.\nDestroy, destroy, and destroy them all!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.43 GiB"
 }

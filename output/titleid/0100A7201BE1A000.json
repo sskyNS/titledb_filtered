@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed90923f49052cd063509084fdc1b71d5650819f80958ee3b12b788f987fcb7b.jpg"
 	],
 	"releaseDate": 20230725,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "\"Heist Force\" is an action-packed heist adventure where you become the ultimate master thief. Infiltrate a heavily guarded bank, outsmart enemies, and grab as much loot as you can. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

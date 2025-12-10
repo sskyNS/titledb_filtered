@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/28503bf2f85bf710c8873229050592d1bec5a7ffb4f02a1294e594be0175a34b.jpg"
 	],
 	"releaseDate": 20230503,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Switch up your hue to navigate tricky maze-like platforming stages!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

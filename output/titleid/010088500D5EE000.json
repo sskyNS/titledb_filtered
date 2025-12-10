@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/81ab02f35224f9beeca97ba4ce2ba678f2dbeb646dafe9d03e234b17a5e35497.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Arcade"
+	],
+	"intro": "Dive into the beautiful underwater world to bring coral reefs back to life. Solve puzzles to ecosystems and explore the beauty of the oceans.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "325 MiB"
 }

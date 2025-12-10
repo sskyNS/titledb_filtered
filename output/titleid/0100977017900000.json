@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/207dced24524af8921e572e52de96246df4f607ccba4521023d99bdf27ce29e4.jpg"
 	],
 	"releaseDate": 20221021,
+	"category": [
+		"First-Person Shooter",
+		"RPG",
+		"Action"
+	],
+	"intro": "Zombie singleplayer shooter in modern polygon graphics with rich RPG elements.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "848 MiB"
 }

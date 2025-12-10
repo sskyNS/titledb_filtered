@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89adf59bc8c8a0244efc8f431d996df69a3db9500afa9aef9491f4d38fa0d5fe.jpg"
 	],
 	"releaseDate": 20250628,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Suck it all in\u2026 then launch it like a maniac with a cannon!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

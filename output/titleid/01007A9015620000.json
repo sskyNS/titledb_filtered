@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/620af105a97ca9b02802700245040c3c30e58d16dd55fbfca88690577521d5d8.jpg"
 	],
 	"releaseDate": 20211116,
+	"category": [
+		"Music",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Bomb to the beat, groove to the mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

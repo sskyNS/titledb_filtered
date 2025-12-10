@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f00ea5b90dce4a67ca09a97cfb56a3ffbc0aef2c09a47a12425519e2ff72745a.jpg"
 	],
 	"releaseDate": 20250516,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Training",
+		"Other"
+	],
+	"intro": "Just go Up, Down, Left or Right. Easy, is it NOT?\nThe ultimate brain-busting challenge is back with a fully revamped version!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "539 MiB"
 }

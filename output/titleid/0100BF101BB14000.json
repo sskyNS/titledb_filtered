@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/803853b1ab5bd8b74a6970ecbb2fabb3db5f0673e3d5b4df76b2fb4f4abac3f2.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Find a way out and unravel the mystery of the inexplicable tremors before it's too late",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

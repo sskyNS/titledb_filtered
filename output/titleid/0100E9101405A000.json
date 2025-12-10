@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a7e43bd324d41d64b88f8c1fc724f942d3145091f96fbbc04fdf1fd3dd4bd5a.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In a place called Wind Peaks, mysteries happen, help the scouts find all the missing objects in this fun and relaxing adventure of treasure hunt.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

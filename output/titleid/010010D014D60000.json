@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/09a03708518f71a38c39a5bcf691b601dc9eca496edad2969be1cb4ae217a271.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30d1\u30ba\u30eb"
+	],
+	"intro": "Move or Die\u306f\u30014\u4eba\u30d7\u30ec\u30a4\u306e\u30ed\u30fc\u30ab\u30eb\u304a\u3088\u3073\u30aa\u30f3\u30e9\u30a4\u30f3\u5bfe\u5fdc\u306e\u30d1\u30fc\u30c6\u30a3\u30fc\u30b2\u30fc\u30e0\u3060\u3002\u30e1\u30c1\u30e3\u30af\u30c1\u30e3\u5c55\u958b\u304c\u65e9\u304f\u300120\u79d2\u3054\u3068\u306b\u30ae\u30df\u30c3\u30af\u304c\u5909\u5316\u3059\u308b\u305e\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "961 MiB"
 }

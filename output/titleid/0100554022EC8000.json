@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a90b802c7a9c7f895417f01468fd8dee7d4cafb83b4a95d594ecf14afb13e228.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Strategy",
+		"Study"
+	],
+	"intro": "Being the Lord of Hell is hard. One minute you're judging souls, the next you're speed-dating devils and writing love poems to angels.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "354 MiB"
 }

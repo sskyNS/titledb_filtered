@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/95d52b8731f1ec4546d457eea9cece7c8dd2e6cff772e44ef49c9fcb334a91a4.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "A relaxing building strategy and puzzle game in which you place tiles to create ever-growing, idyllic village landscapes",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "564 MiB"
 }

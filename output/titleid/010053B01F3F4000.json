@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc99a435a31b4b8387c1a0021521935b3cfee1b513a6a405e9c4d80725ac044a.jpg"
 	],
 	"releaseDate": 20240621,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Ideal as a child\u2019s first game, Mouse & Crane is a single or multiplayer adventure offering creative puzzle-solving moments through cooperation, upcycling and construction.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "984 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b777ef49da1c219c24961dbbd2faaf2202770e2318b96eb9b04707c0a07cdb55.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Jump, Float, and Rocket through Otter Space in this Zero-G Puzzle Platformer!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.38 GiB"
 }

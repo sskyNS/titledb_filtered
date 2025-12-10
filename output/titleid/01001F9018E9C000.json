@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5581c83a06df622bebc198c9bb9ae212f50e8d99d5f54cd65ff18ce65f7fb0e5.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Run, jump, and bounce?\nYou can't let your guard down for a second\nin this side-scrolling cyberspace action game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

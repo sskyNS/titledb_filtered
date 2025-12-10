@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fef4aab16ae0819fe0f4b4611d7fec0072a07f8b8680d152ab0f3a39dc343455.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "The day of the big date has arrived! Sincerity and speed are fundamental, because lying is not the best way to conquer love.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/76e1265810bd6ce22121daa4d4a7bee912ecf5eff3d0b9d67c219e4f2ec65660.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Cavity Busters is a roguelite toothpunk bullet hell",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "274 MiB"
 }

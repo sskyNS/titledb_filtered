@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8193d0ef62a09d7ff3ccca7850e4e1920db5f6f2b8570985ff4ebf44014cebc0.jpg"
 	],
 	"releaseDate": 20200818,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Reimagine Physics. Explore the Infinite.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

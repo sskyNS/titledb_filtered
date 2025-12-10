@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c6a77b13ed4c41e7cd7e0962f9232f90dd464aa7cd08f145ee77be15c6a19e6.jpg"
 	],
 	"releaseDate": 20200714,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"First-Person Shooter"
+	],
+	"intro": "Pangeon is a single player roguelike inspired by dungeon crawler classics. Dive right into a dungeon on a suicide mission to kill all the monsters. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "412 MiB"
 }

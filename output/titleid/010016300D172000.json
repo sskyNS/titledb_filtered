@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa3024f21a184eb28a38ba49764d311da4892f903bf34c90ccc1b4d55d2a50cd.jpg"
 	],
 	"releaseDate": 20190205,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Avenger Bird is a platform side-scroller game with pixel-art graphics, but your hero isn't just a regular hero. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

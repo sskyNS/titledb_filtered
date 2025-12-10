@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d7b0ac735c38daa278a36d199878a662fc77f3254e2fa8322bba19b2e62b926.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Explore a unique reality, duel against darkness and mind your choices",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "748 MiB"
 }

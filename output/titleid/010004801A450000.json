@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dacb836c012a72a34a0f1ca1bc793c57bbd8085e26ee6c80f6843324820b9d48.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Sports",
+		"Racing",
+		"Multiplayer",
+		"Training"
+	],
+	"intro": "Become a CHAMPION of your own tournament in NCL: USA Bowl. Race your friends and experience the thrill of American football.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.31 GiB"
 }

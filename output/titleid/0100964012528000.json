@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d76df9e8430ce5ec861d6383b8a81197480864106ae98a4f15a4f6b383434e74.jpg"
 	],
 	"releaseDate": 20210316,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Stubbs is all you need",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.94 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9d90e9f12fb649a2aec117a35705bb15b9f72b580e844a5524e5cb0092f7e4d.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Become the next powerful Demon Hunter!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "743 MiB"
 }

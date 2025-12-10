@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/49ca3496dd0cd706960360bc5d7d88156fdecbd6980f684915b162fd8d1ad081.jpg"
 	],
 	"releaseDate": 20251128,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Every piece brings you closer to perfection!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

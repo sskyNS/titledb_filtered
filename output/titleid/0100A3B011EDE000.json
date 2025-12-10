@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/91b6471ebbf4a89605e7510bab8270d1708ae73dc1306bf68e69141fd8062cdb.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A noble quest awaits in this classic-style RPG adventure. With exciting combat, loads of heroes to meet and master, and a villainous horde of monsters to battle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "812 MiB"
 }

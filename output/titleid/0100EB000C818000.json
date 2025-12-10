@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d8ad36e804eacaaa669d9e881463fda5135e5fb61ce0083c5a4876d5a344850.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A Thrilling Demon Hunter SINulation",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.11 GiB"
 }

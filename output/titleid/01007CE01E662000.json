@@ -6,5 +6,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ca451ac9395380c6df9ed1e792804c62213b096161dc6531642ad16a91530f3.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Eliminate the Clues to Solve the Case!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

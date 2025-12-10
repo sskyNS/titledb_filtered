@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1ea2bbcc68b4ffb20d5b6b960a128c1a685f067bb1ed860f1e058f013fb157b.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Defeat a group of Animatronics that come to life in Willy\u2019s Wonderland!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.34 GiB"
 }

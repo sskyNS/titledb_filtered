@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/618742dbd9aa609499c53d7e49f78ec96c19d759e5db3250e88a1303ea25d43b.jpg"
 	],
 	"releaseDate": 20240722,
+	"category": [
+		"RPG",
+		"Other"
+	],
+	"intro": "Denpa Men, a mysterious creature that floats around radio waves.\nForm a party with them and go on an adventure !",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "650 MiB"
 }

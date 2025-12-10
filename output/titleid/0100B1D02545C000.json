@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/46919c8c093a9d4ac5754a55fae08750e916d218e7f03c93e02ef0981dd023d7.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Discover El Dorado\u2019s golden wonders while finding hidden cats in relaxing, hand-drawn scenes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

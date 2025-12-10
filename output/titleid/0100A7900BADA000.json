@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4676ddef7a9afda2e0d92b0028237b826112ea8fe1b48427413014a689b419a6.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Plan for the destruction of all things that aren't awesome.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

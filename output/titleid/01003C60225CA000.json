@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/903084f2934e3ce8f6e54e212913c96477e326cad7442d6a053a4c42c903e301.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Ninja precision platformer with a teleportation twist!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "204 MiB"
 }

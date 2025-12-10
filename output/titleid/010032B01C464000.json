@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ac14e8f4af47c7bb27c5435b3de9beb49ebf2f4d4fd921be43fc4cb75a92c40.jpg"
 	],
 	"releaseDate": 20230729,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Get your Brain On and work out the physics puzzles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "163 MiB"
 }

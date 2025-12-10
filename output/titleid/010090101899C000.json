@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7869d269825ff31689811f0b48e3292245c4d9693521c2c3b8c8e4e0c01532d1.jpg"
 	],
 	"releaseDate": 20221028,
+	"category": [
+		"Music",
+		"Education",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Come over for a playdate with JJ full of musical minigames, interactive objects, and favorite singalongs like Yes Yes Vegetables and Wheels on the Bus!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

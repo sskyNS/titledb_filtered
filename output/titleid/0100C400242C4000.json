@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f52617d44013f535403f6bd3a484db07b118972ac5fe72a10abd6e022b26614f.jpg"
 	],
 	"releaseDate": 20250927,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Build a Viking empire that echoes through time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "794 MiB"
 }

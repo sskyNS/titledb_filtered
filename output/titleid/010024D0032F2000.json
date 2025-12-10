@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c1b1de8e0d4ad2d1b81a6e09c24fac6a36b308a0ccd1b1abdfd69ab4a52b1c1.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Study"
+	],
+	"intro": "\"Reflect\", \"Split\", \"Combine\", Let's lead seven colors of light!\n3D prism action puzzle that light draws\n\"Photon Cube\" appeared!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "399 MiB"
 }

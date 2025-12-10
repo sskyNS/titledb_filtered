@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/89cf89718263895eb9a3a6c7ed78eaebda921c24b6adcdd86e7f0b4b08861d4c.jpg"
 	],
 	"releaseDate": 20210323,
+	"category": [
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Build Your Farm From the Ground Up!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.41 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cbd84fad62dd3b35f08db17e0e8d58f104141a9052418688faacc075c694915.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Board Game",
+		"Simulation",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "No friend to play with? Then play our great find the pairs game against the intelligent cat! Train your memory and retention in a fun way.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

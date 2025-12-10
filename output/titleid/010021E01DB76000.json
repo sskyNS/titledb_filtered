@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/148723943cc236054330a6e2fd55f12d093c9409da6b53752050a80054eeb178.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Take control of a ship in the dangerous waters of the Pirate Bay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

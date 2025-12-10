@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/363c181f73883b31963a5da61a709ae5f668fc6d46fd56903150ad093f68adde.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Play \"Jacks or Better\" and test your skills on your favorite Video Poker game.\nIt's like having a small slice of Las Vegas on your console.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

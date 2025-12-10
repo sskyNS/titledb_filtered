@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0ca82847f8abba47e25f81159827e4f2d4c66b2fa37c311462d3ca8cbee7d0f.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Study",
+		"Other"
+	],
+	"intro": "Defy gravity to find love amidst darkness in this challenging Puzzle-Platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6e642aafc524e2d656f8cded7d5443d6cf319ae4ad94d16fd35503f25ed953c.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Beautiful jump 'n' roll adventure of Mr. Whiskers.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "954 MiB"
 }

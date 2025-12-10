@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c67063228f86f1e9ab38e4112c17a040254497b03b17baa4bfacbe539cc5632d.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Education"
+	],
+	"intro": "Bundle up and get cozy with this warm winter tale about one snowman's journey to the North Pole. Can he make it there before spring arrives?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

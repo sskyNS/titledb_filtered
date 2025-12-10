@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/61137a84471034cd9c07437ed5c1b60daa41e1914bd060b13c9320c425f91113.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Explore randomly generated card dungeons where you can only move Right and Down and use Dice to defeat mighty enemies!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

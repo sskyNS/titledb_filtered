@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0575d8bb5c825cb4c71be175866e24c7e566bceb6e380845b0fed2f6ee6c42c.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "It\u2019s vacation time! Hop into your camper van, ready your caravan, polish your minibus!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "528 MiB"
 }

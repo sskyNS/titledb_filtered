@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b1732028d732627ef36803e03920325ef8e2f6e483e3bdf49dc4234f34f92b4.jpg"
 	],
 	"releaseDate": 20210605,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Use weapons, physics, and your Drone to push, pull, and blast your foes into deadly surroundings in skill-based multiplayer physics focused action title, Retrograde Arena",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "570 MiB"
 }

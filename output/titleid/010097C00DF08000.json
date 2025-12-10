@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cf84a36f52a660d4d7fad40f74da143fa7ebf5b1711e276312e9594f7c48c01.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Will You Uncover the Truth?",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.15 GiB"
 }

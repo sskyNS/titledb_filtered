@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4925afdb1c83b4f1d34d4113218d273530a93eea1432afd4093a9b951c17ba1.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Death, secrets, and cosmic dread await",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

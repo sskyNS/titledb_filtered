@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e496a07c1b476f48ea8850ef7ebd3b1f112a616b8312503700dcc5cab10bdb8e.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Reveal the greatest conspiracy in the Space Age!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

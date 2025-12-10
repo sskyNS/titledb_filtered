@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4267ef8558125e82689fcfd3cec21b551d85a7c1b58a32f46d249fab459c3a0.jpg"
 	],
 	"releaseDate": 20200709,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party"
+	],
+	"intro": "Cards, Cats and Flowers!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

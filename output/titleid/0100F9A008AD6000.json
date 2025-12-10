@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14c0756394249a4ed9c14cb826cf2491c242ea27dd9311a2880d5b7083fe635a.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Education",
+		"Study"
+	],
+	"intro": "More than 300 puzzles to solve alone or with friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "99 MiB"
 }

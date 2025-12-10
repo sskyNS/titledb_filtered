@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c41130162e98cc773074a87643f065bce698767fe307a6fb6b3f364aa0f60d9a.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Platformer",
+		"Simulation"
+	],
+	"intro": "Postbunny Ringo on duty! Mail waits for no one \u2013 let\u2019s hit the road!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "513 MiB"
 }

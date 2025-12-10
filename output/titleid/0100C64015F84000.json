@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ac6a425caa5c345eeb664465406af196a0e1d803ad0e4c006a5cc9e64e3b82c.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Video",
+		"Board Game"
+	],
+	"intro": "RiffTrax: The Game is a multiplayer party game where players compete to make bad movies funny!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "2.95 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a954b78ab0bfdccb10db5d52f2c32f8cc9afb556e020cd0f94fb47b75cefe0bb.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "#Joining_server... #Players_Online: 1 #RED_flag_taken #New_player: {incorrect_string} #Players_online: 2 #PLAYER2_says: Connection_Lost...",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "462 MiB"
 }

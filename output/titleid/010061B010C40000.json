@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee2de625232a3b8c275197044a2ba0d24280bb76ad84424ad40fa727ec8532eb.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Double plus the fun! Bigger, better, puzzlier and combatier than ever before! \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

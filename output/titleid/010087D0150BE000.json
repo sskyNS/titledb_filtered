@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4e66e533abeca07f1b547d3b4e4545b0b9424b451ee617f3216b69fd6c25c0e.jpg"
 	],
 	"releaseDate": 20210721,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Declare the city a war zone.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "48 MiB"
 }

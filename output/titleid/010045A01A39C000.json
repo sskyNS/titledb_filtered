@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cc3f257a9805d62c1b48c8fa93982612123e7cb46b83bca1295e8e46b01fd20.jpg"
 	],
 	"releaseDate": 20230906,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Puzzle"
+	],
+	"intro": "He's intelligent, unpredictable, deadly, and cruel. Explore, fight, hide, and find the truth before HE finds you. You will be hunted. You will be terrorised. Can you survive? ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

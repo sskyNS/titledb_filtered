@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/04be813a577f1afaed367a6ef46d3e1a39a395a0640581b7fbed9f7948c90e25.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Can you make a difference with only one bullet?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "255 MiB"
 }

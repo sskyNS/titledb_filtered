@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd8cc9a3188d6e738acaf3e261fa1102875f741fe9614a61d289fcb596df2352.jpg"
 	],
 	"releaseDate": 20251231,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Can you unravel the tangled events within the sealed tower?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.54 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/022900885f02019faaf52f4f562d988773bc91786c38bf9d130741b67d76077b.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Read instructions, fix ships, get paid, avoid corporate slaughter: job done.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.83 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/edd785250187a95889a8a78a60fb31e989a2208f322232e75dbddb5c8327515d.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Public transportation goes to extreme lengths \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

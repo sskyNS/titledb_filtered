@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b06b0ee636f1e060ab64844e7d03c1949d7dc3d90b3cafab2d88ba30d1517624.jpg"
 	],
 	"releaseDate": 20200124,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Beautiful levels and a lovable hero take the spotlight in Orn: The Tiny Forest Sprite, a puzzling platform adventure game. You play as Orn, a tiny forest sprite created by the ancients, the last hope to combat the darkness. Will the powers you gained along your journey help you defeat the darkness?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.11 GiB"
 }

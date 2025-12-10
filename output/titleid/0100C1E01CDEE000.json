@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b7d9c23d5e85e3259f046e5002e6d576f815eb7c9f1403944f1f3d0159540b7.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Other"
+	],
+	"intro": "Raccoo Venture is a 3D platformer that brings the nostalgia of the 90s into a playful, puzzle-filled world inspired by the great classics.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.65 GiB"
 }

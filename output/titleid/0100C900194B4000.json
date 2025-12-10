@@ -4,5 +4,20 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20221108,
+	"category": [
+		"Action"
+	],
+	"intro": "Enjoy digital music and art from Sonic Frontiers!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "544 MiB"
 }

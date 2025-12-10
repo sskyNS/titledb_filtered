@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e26941bda0b66cc42cfb6f8dacfd70c4ae32853ff2c85834624828d72a14461.jpg"
 	],
 	"releaseDate": 20180605,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "THE COLLISION IS INEVITABLE! THE IMPACT WILL BE UNAVOIDABLE!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "8.58 GiB"
 }

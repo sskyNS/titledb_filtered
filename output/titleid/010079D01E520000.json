@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c73c8c331015177d736dca56874713e1f33e3342734451a54c988423377dbcf8.jpg"
 	],
 	"releaseDate": 20240331,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Sports"
+	],
+	"intro": "Unleash Your Drift Fury. Become the Champion of Asphalt!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "982 MiB"
 }

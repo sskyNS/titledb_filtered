@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd653e7a6112190ea2ab1616624e95f13f8e7f04a8efdaf913384af58b67d55c.jpg"
 	],
 	"releaseDate": 20250929,
+	"category": [
+		"Party",
+		"Sports",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Customize your animal. Use wild powers. Score big in fast-paced 1v1 soccer!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "282 MiB"
 }

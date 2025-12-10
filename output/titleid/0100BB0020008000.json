@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9196bad23c660bc27cac06fbe06097ab18d695fc20fcbdabf09ab38234753a74.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Defend against advancing enemies in a broken tank! Experience the impossible battle on WWII\u2019s front lines. Survive with limited supplies in intense tank warfare!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2dd335a568a734612bb949470a296dfe714d499ba6474d71b9e7ed6e20e8cf1.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Metaloid: Origin is a wonderful action platform game full of colors and explosions.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/252ab965413725c7d4d6bba81cd4d320ec294a1c17887dd7b9c3945f36242c18.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Red Ronin is a Turn-based but fast paced dash 'n slash game where a bloodthirsty ronin and her companion bot search for revenge.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "453 MiB"
 }

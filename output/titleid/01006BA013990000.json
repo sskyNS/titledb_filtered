@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18926f13a14c392e8069f276d1248bb0752de5609c66ad0ba9a24378b7fb7d74.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Move the world around, not the character! Rotate the levels and let gravity do the rest to solve the puzzles and dominate the leaderboards.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

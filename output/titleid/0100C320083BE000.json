@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df0eed152a0aa9d0383a4452ff66ee77e42aef400f264778b36541f4bcefcfaf.jpg"
 	],
 	"releaseDate": 20180515,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Splitter Critters is an award-winning freeform puzzle game that puts world-splitting power into your hands. Split and rearrange the world to bring faraway platforms together, move deadly lasers out of the way, and create floating swimming pools to guide alien critters back to their spaceship.\n\nKey Features\nSolve - There's no wrong way to solve any of the puzzles, so you are free to get creative with your solutions.\n\nExplore - Diverse planets full of danger and innovative mechanics that will make you think in new ways.\n\nListen - Each world features an immersive soundscape and soundtrack composed by A Shell in the Pit.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

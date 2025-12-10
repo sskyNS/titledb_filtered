@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa5807258dde846e0e3c3f0e9664046a37e6dc16671c7d3e5db265b20e521d70.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "The spaceship\u2019s defense system is malfunctioning and you must survive!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

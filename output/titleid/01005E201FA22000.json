@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c27350d7be0999b4435fccd63d02c13c423d74d0be577aa9db9a6b63997e08f.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Conquer Mars, fend off alien threats, and secure your path to survival!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "652 MiB"
 }

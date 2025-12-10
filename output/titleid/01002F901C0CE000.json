@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d13bc8de08fcdc2022fdb4308094fd24a0160ee8f03b93a1f955ca640f5287f7.jpg"
 	],
 	"releaseDate": 20240903,
+	"category": [
+		"Simulation",
+		"Education",
+		"Study",
+		"Other"
+	],
+	"intro": "An innovative edutainment game that teaches you Japanese through virtual photography!",
+	"languages": [
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "410 MiB"
 }

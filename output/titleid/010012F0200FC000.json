@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/27c775aa1b7cdf2794da503eefe71df388fa763ee7a2d8159e7307e43b06ade1.jpg"
 	],
 	"releaseDate": 20250421,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A tricky puzzle game about strategy, snacking, and survival. Guide adorable animals as they munch on fruit, and sometimes each other, to squeeze into their hiding spots!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

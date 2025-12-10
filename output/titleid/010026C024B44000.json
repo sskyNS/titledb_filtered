@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7729378da60992e2f0e322b2147984ba80e85295a28176e47502e810938af4b0.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Build your dream tank and fill it with finned friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

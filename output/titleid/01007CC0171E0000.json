@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ba2b02a23f50ddcdfc67d1f54125d1a43cd3b0b1475489c197d3f04fd316d36.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Cosmic chaos, neon lasers, and bosses that delight in your demise. Frantic, fierce, and endlessly replayable. Go solo or team up for co-op mayhem!",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "808 MiB"
 }

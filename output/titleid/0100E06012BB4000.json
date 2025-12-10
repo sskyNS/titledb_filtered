@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/00fecb56992638f7c9b08962cf82fa3fc6836f9788bc940b140dc78cd1a6762f.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Simulation",
+		"Education"
+	],
+	"intro": "As a tank museum owner your task is to recover destroyed or abandoned tanks and renovate them.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

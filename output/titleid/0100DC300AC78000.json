@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fab023ae555e3301a40ae7dc92643198f1cdcc3d18a06820cd606a656e43f8e2.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan\u2019s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.\n\n - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure.\n\n - Character upgrades, new abilities, hidden levels, and branching paths to discover.\n\n - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics.\n\n - A memorable cast of offbeat villains, bosses, and associates.\n\n - Original soundtrack by renowned chiptune composer Rainbowdragoneyes, handmade using Famitracker.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

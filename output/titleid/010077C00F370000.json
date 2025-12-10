@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a12cc136d2426f030bf263aac8041661dcc28f559c3bdd25fba1ab8c84366a97.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Shoot the robots using your bow!\nSolve puzzles, fight with the bosses, use a variety of tools and traps to destroy the robots.\n\nKey Features:\nPlay in \"motion sensor\" mode to aim using the gyroscope and a single Joy-Con\u2122.\n\nDestroy the enemy using arrows and mechanisms. Use a variety of devices, activate buttons, portals and traps, as well as many other interesting things.\n\nUse different types of arrows. Choose between simple, heavy, fiery and explosive arrow.\n\n100 levels and 10 seasons of play. Try to finish them all.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/42df3ebbd1d185fd952593df5af55e94459f1491231e2a831398548da1ac6881.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "Scary hide & seek horror game with puzzle elements.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

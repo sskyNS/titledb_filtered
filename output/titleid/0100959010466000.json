@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba23266db20f9b081d834d43c69d524285869a6329b2a0a944883e6cf690a7a2.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Greetings Enforcer, and thank you for enlisting in the Hypnospace Patrol Department! As the world falls into its slumber, Hypnospace becomes a bustling global village. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "813 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f18552b4af31c6a4d963387c1be52da56f63bd35503b52c6df1be62e0fd3dab2.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Adventure",
+		"Board Game",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A card game in a Medieval setting where you make decisions on which not only your life will depend, but also the future of the kingdom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "766 MiB"
 }

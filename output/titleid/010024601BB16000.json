@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/72e62e8d5c5d30a328cf6794d0d93d71245492957fdf16e74588701b06fd0f17.jpg"
 	],
 	"releaseDate": 20240214,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover Lara Croft\u2019s Original Adventures, Lovingly Restored ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.55 GiB"
 }

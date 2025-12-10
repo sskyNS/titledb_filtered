@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b84459ba0873ccb446ecc6a264472eca451a75649f7cb9a966a72ee4f5ab0a58.jpg"
 	],
 	"releaseDate": 20210127,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Two stories, two main characters, one epic experience",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.52 GiB"
 }

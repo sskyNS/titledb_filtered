@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/06e69a1f22cd652b4f23ca566e9e45a26c4ecdac9b542590a3bdf2de33c95d5b.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Murder took place and local sheriff needs your help!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

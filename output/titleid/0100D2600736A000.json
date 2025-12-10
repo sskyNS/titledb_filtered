@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cfd24d491c21ba55e6cf1403de578379a2de469af1d3065f7b353c2a5159e09.jpg"
 	],
 	"releaseDate": 20180215,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Discover a world that you will never want to leave.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/064bb69847810e56428a4fddab75233caf5f396b777479abdec2335038c15365.jpg"
 	],
 	"releaseDate": 20250509,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Retro puzzle platformer with modern turn-based combat and card battles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/037bfba4e1e157bd4dc8406d594709a1deb7374ca83d5f49c33f5f61eca2397d.jpg"
 	],
 	"releaseDate": 20201223,
+	"category": [
+		"Fighting",
+		"Action",
+		"Party"
+	],
+	"intro": "Beat \u2018em up action meets drunken physics for a lawless good time!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "527 MiB"
 }

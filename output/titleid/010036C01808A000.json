@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d92d1026cc8bb20177c505374c9825b8dbf872eb98dd4d7c4580f660de57523.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Arcade",
+		"Action",
+		"Communication"
+	],
+	"intro": "A simple action game that all you need is your Left Stick!\nTurn your fish into a giant swarm and take down your enemies!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "932 MiB"
 }

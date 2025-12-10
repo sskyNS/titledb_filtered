@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f9ae817e7616514399c4bce8f6035b7afb54937da5da7c9fbb074ad65a54d24.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "The classic first person shooter from Crytek is back with the action-packed gameplay, sandbox world, and thrilling epic battles you loved the first time around.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.70 GiB"
 }

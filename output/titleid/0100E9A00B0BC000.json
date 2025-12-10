@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/1959f8a343b2d8bf28aa80fbb4f88e1c42832acba4eca94c04bf057dd700852e.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "NoReload Heroes is a fun, co-op party shooter for up to four people. Work as a team to beat the accidental evil you have created, and be sure to pick up the best magitech guns on the way!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "555 MiB"
 }

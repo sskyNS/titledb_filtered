@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/32c6254417cfe9be3a41b064723eda15760146499d753e4064f8db895581d1dd.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Multiplayer free-to-play shooter with real-time PvP-battles",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

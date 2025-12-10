@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0302c64db06da7fa5f69725096ebbaafd3497817a94f5f07e13616e0c676958.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "A fantasy medieval adventure\u2026 with cute cats scattered around!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

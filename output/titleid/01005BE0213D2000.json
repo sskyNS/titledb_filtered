@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/178ae6f95ca12c489337ab863db06528355138a28ddca816c9e5ba346f08b281.jpg"
 	],
 	"releaseDate": 20250328,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "THE LEGENDARY 16-BIT ERA CULT CLASSIC IS BACK.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

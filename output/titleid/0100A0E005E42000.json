@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6e6c58f19a14241585bd523fe47ba1bfccc2f246b3683d5ef5870b22e55544e.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "A game of friendly pilfering & fiendish provocation.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "633 MiB"
 }

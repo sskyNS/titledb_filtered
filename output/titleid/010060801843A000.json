@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6743bcf949e35bfea986d95999ddd831369a7877fdc352fcdbda05769f8591a.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Rubber Bandits is a criminally fun multiplayer party game for up to 4 players. With 3 action-packed game modes, players steal, brawl, and dash to the finish line with the most loot to win!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.81 GiB"
 }

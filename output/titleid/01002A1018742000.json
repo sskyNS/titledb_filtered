@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4554bcb9270e4c523e1c1533fe18886a6d4ccf53869783549bf14109f75af24e.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "One button to play!\nJump and kill your enemies!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

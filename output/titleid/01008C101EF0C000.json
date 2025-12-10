@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bff5dfbcf5b50782ee6f4d551e86dac291430d9f464cc9b5c4a4320e43929b75.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Navigate through enchanted worlds, defeat foes with your hammer, unlock new skills and save escaped animals to reopen the zoo. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.31 GiB"
 }

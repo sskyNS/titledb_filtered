@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4651c6ee9b974cf5aef9afe5710e049e76c7e90adf729babb69db44eb1551416.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Revenge of Banana is a fast paced FPS game, one damage and you're dead! You have to kill the enemy with your swift moves, dodge a Strawberry trying to hit you, a Watermelon throwing seeds at you and an Exploding Tomato! The most important thing is speed. Can you beat your own record?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "390 MiB"
 }

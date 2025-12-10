@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0863fc90f46fb95093524d38f81d707db9772b6f849e3fa419ed8ba1e301c280.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Welcome to pre-hysterical jungle\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "981 MiB"
 }

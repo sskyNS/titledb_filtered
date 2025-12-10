@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c69c4b8d04d507f45d2189ad7bcdebcb44c9e05ed051c932d6f21dc5fe69dadb.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Classic arcade balloon poppin\u2019 fun!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

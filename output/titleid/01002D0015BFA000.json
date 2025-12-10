@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fab23440dcd54d1b5f1cd73ac4bd94d3de8e1436685d8126f2e5343a7f4132b0.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Fight turn-based strategy battles and save the kingdom of Ixtona!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

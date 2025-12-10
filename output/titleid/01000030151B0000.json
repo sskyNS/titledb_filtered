@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c0ed780b3dd2408b60d65f5d93087c37a6ddfb95b85d654624b0c610dfcc255.jpg"
 	],
 	"releaseDate": 20210524,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Find the source of the deadly cold and stop it!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

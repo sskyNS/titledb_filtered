@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e67d3046cb49678c979af2ec9eaac80c50dd94abb1e7053088ac03b2df8e3ba1.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "It's 3:00 a.m. Your neighbors are having a loud party. Stop them. Party Hard is tinyBuild's award-winning stealth strategy game about ruining parties by any means.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.11 GiB"
 }

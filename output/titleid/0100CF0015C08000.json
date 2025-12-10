@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a477a92be1c0bca6cb4381ea5b78fc5b68b6e4225bdd3eb95c82335cc01da8d.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"\u30d1\u30ba\u30eb",
+		"\u30c6\u30fc\u30d6\u30eb",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+	],
+	"intro": "\u4eba\u6c17\u30c1\u30a7\u30b9\u30d1\u30ba\u30eb\u30b2\u30fc\u30e0\u300cKnight Swap(\u30ca\u30a4\u30c8\u30b9\u30ef\u30c3\u30d7)\u300d\u306e\u7d9a\u7de8\u304cNintendo Switch\u2122\u306b\u767b\u5834\n\u3088\u308a\u591a\u304f\u306e\u30b9\u30c6\u30fc\u30b8\u3084\u65b0\u3057\u3044\u30d1\u30ba\u30eb\u304c\u6e80\u8f09\u266a",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

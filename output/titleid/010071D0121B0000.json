@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb0ab0c0b6a6471052e0ea920ad4cd0f0b1c19c3fdfa5fa2b215723cbbd5eab.jpg"
 	],
 	"releaseDate": 20200617,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A sinister creature has enslaved mankind. Solve puzzles, gather components for a machine you are building, find comfort in your dreams.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

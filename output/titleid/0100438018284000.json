@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/754417c7a1c3983603a86d44648b9d462ed322dabce5e364df91f60c8b6a461f.jpg"
 	],
 	"releaseDate": 20220716,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Take aim and breakthrough your speed limits!\nRaging Blasters, blast off!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "48 MiB"
 }

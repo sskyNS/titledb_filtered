@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c375f0fbabc8f775eb63381a835257bf84fa8b0bb769bb5e6fd577939b787b4a.jpg"
 	],
 	"releaseDate": 20221125,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Journey away to a whimsical fantasy land in this cute visual novel",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

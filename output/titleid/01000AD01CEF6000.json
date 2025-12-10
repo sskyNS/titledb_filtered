@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/78ead95fa85a031023662bb4fc9c8534be3a113f5bdc3fe4e14d4407c9f93316.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Embark on a purr-fect 8-bit adventure with SkateCat, the ultimate platformer game where you step into the paws of a fearless feline skater!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "415 MiB"
 }

@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/489790c7ddc2bd213087a605dd1d28743aaf4ad4d5ee66d843d311766c3f4235.jpg"
 	],
 	"releaseDate": 20220823,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Can you survive in deadly all-out gun battles and be the last gunslinger standing? Grab your weapon and don't miss the shot. Make each bullet count!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "779 MiB"
 }

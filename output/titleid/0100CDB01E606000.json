@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/48ac2f5d55b67d9ab6bf6cc779c078607314fdccb73203b1f37b143a3232da51.jpg"
 	],
 	"releaseDate": 20240821,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Mika and the Witch\u2019s Mountain is a fantasy adventure about an aspiring witch who delivers packages to the townspeople of a small island.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

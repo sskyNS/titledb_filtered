@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/16557188c48fdf148c184ef546ec69b036069d061b0e0761dc51fb068f5cf7a7.jpg"
 	],
 	"releaseDate": 20210818,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A unique adventure game filled with beautiful puzzles all hand-drawn in a unique 2D style! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.07 GiB"
 }

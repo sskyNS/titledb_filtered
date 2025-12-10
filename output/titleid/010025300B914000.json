@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/142ea9905b5e0511765395c81ca5349a77336b02c0295380ca3ffadf2cf7e10d.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Horizon Shift '81 is an explosive wave based single screen shooter (shmups) with a real Retro feel to it. You can even play the game in Tate screen mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

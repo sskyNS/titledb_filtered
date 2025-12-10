@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a60d7830528f4c9680883c74ef76ebc9453bd80bbd204703f7c907522b04f919.jpg"
 	],
 	"releaseDate": 20191225,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "As a fantasy world innkeeper, manage your own tavern, take care of your guests and face the problems of a prematurely retired hero! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "955 MiB"
 }

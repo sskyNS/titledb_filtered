@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/baba49aaec0fe630520a225cf77984a2d013f16fcd0b9b32b317ebd66247aa2e.jpg"
 	],
 	"releaseDate": 20180726,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Candle is an adventure with challenging puzzles. Play as Teku, a young novice on a dangerous journey to rescue his tribe's shaman from the evil tribe of the Wakcha. But the way is littered with sinister traps and difficult obstacles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.74 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e2eb86671a716722617905b26d93ac6d565c8f228b6c54370f63dcce36c6eda.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Fully voiced! Featuring stellar performances by Fairouz Ai, Yu Shimamura, Yusuke Kobayashi, Mai Goto! Enjoy this vibrant and exciting story!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

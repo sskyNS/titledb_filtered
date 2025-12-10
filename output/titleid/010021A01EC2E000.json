@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7945969c52dc1f5d8a0434024c18bb6f9293502f8261e6c26f7b41c54e45016b.jpg"
 	],
 	"releaseDate": 20240608,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Solve the puzzle and delivery the toy",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4c348d04117a6e2fc9572725f5a8ca08b3d1a7e11bd1e7eb5de0f7e3309bf84.jpg"
 	],
 	"releaseDate": 20190510,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Little Sister to the Rescue",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

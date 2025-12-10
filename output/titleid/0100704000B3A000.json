@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7b3fa158c1c2064a3e63e7df85725642dd2551c8f54fba762502d56180e29c3.jpg"
 	],
 	"releaseDate": 20170303,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Laugh-out-loud couch co-op,\nany way you cut it!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

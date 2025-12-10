@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b73bff833806f99023039c8f14ceee0da87901e52d26c5e9a82250356d6187b4.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Ride out on your water scooter and save your friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "64 MiB"
 }

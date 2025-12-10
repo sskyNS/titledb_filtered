@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6e37b93b73b25577fada8a33e54f2a459271088a716e817ad265057d984b93e.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Action",
+		"Shooter",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Your mission is to defeat the cops gone mad in this action-packed rogue-lite by destroying swarms of humans. Beware, their mission is to destroy humanity.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "897 MiB"
 }

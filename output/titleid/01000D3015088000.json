@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8adbf778ecf213aa97239ed4d57221c4ae2f2ae1dedf11115cbd712312fd3e4.jpg"
 	],
 	"releaseDate": 20220511,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Draw roads that drive the city",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

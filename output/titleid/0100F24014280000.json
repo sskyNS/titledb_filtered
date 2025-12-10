@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e0f41bec1eea76fb77842fabf05453bcab442d1c114bdf41683f0af361917c6.jpg"
 	],
 	"releaseDate": 20230328,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Create and manage your dream restaurant!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

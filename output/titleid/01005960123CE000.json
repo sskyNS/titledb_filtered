@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/43a7c21715b8120bf20e1dde61b0a65160ed921f056ea7c79459ca20496c7aa7.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "No choice but to attack in this orthodox shooting game!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "72 MiB"
 }

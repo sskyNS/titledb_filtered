@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2b9a9ee60f302d3312c8ffedd26cd8e6f2e6b0eaa762b490a6c65546144b4e8.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"Board Game",
+		"Party",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Enjoy six standard casino games!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

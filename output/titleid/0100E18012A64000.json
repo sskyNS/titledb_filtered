@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/541cdf085c99499bae423af578f9be714e218f56bd4137243468e49280c70805.jpg"
 	],
 	"releaseDate": 20200810,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Twist&Bounce is fun and colorful game for everyone! Move the platforms so the ball falls through openings, earn high score!    ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "62 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/40c64a1951432f2c15dddf9f4891e2233a84920b74a15e1c8b478564eec6206b.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A Street Cat's Tale 2: Outside is Dangerous is an adventure game telling the heartwarming stories and action of housecat Cinnamon's venture from home.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

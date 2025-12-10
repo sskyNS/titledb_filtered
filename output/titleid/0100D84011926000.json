@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7312572285e3b4f9328c169930667efb3f95d8083a495b92bf2409929bc8d428.jpg"
 	],
 	"releaseDate": 20200519,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Training"
+	],
+	"intro": "The sequel to the successful Knight Swap, with more levels, new gameplay mechanics and much more fun.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

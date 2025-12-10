@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ce45da012bdf4beecf574deef8ffca4936a07f592320974eb1496517b307e8e.jpg"
 	],
 	"releaseDate": 20220617,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Prepare for loads of fun with this cartoon version of the most popular board game in the world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "422 MiB"
 }

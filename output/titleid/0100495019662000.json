@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/606e4fb6664948b9813e69478ae7b29b055ab61e4e00ebea66a3f9ef7602d24e.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Metroidvania movement gameplay with soul-selling lootbox-based customization",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "579 MiB"
 }

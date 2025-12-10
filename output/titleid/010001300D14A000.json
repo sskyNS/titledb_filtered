@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/28b3004d23f6afd30b0c9ddea93d36c4ef9e175dbf53bda6e254cee1b520fc2b.jpg"
 	],
 	"releaseDate": 20190917,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Hack and slash your way to victory in this Remastered edition of the popular 2D arcade adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "173 MiB"
 }

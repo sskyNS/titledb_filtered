@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fa98448615543aa1e3ccb5e47f160003c73c49d67d4b1514362950936fe7186.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A pixel art puzzle-adventure game where you search for lights in a town where night never ends.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "360 MiB"
 }

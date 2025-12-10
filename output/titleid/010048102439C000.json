@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dc5342ef18f0493666e8ce085c2a57f1f08f25d26acd52239703442b10749df.jpg"
 	],
 	"releaseDate": 20250903,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Turn stacks of chaos into spotless profit. Count it, clean it, cash it out.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c25141de662fc16bb2de1ded124f85b1650a370bc8fc1cbb10038d41624bd5ca.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Other"
+	],
+	"intro": "The Sleep of Reason Produces Monsters",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "759 MiB"
 }

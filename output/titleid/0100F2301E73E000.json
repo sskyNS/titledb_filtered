@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/86c4c0ec3c0a92083eb1454c05ee9e3931a222c6c4cfa70054dd7f620c697db0.jpg"
 	],
 	"releaseDate": 20240406,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "You are trying to find room 96 but you are stuck in a loop. To find room 96, observe your surroundings and get familiar with it. ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "957 MiB"
 }

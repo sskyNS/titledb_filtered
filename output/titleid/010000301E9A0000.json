@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a9e1c3999a353e275b747e0473afa178387becc1c648e23349375235d41d0ef.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "Enhance your memory every day and become a master!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

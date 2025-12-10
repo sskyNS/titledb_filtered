@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cb2e4ff8cebd423c94428111385a34d53915115da04704fad4c241e692cd170.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Fight against the corrupt military of Esperanza as part of the resistance force of the Undercity. Bring the corrupt to justice by becoming stronger and fighting alongside your trusty comrades.\n\nBlade Assault is a 2D action rogue-lite platformer with beautiful pixel art set in a desolate sci-fi world. The game features tight, responsive controls and a cast of charming characters. Playable characters have various transformable weapons that they use to battle against their enemies. Weapons can be further customized by different \u201cCores\u201d and \u201cTransform Upgrades\u201d that appear randomly during gameplay.\n\nSatisfying fast-paced combat. Utilizing diverse skills, dodging enemy attacks by dashing, launching projectiles, slashing away mobs of enemies. Your attacks change according to the \u201cCores\u201d you select and the upgrades you decide to take on your runs.\n\nMeet NPCs and find upgrades along your quest to unlock unique powers. Each playable character has their own weapons of choice kept in their own armory.\n",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

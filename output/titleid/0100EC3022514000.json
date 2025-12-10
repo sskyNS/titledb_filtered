@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/19966488c84dfff171522fad645bd70fda69f7c63315881c31b29558fda2c977.jpg"
 	],
 	"releaseDate": 20250315,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Soar through the void\u2014master the skies beyond the stars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

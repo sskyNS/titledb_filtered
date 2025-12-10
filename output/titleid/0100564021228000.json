@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d9391a09be76c189e098f8660fe2e934e9163adfd98bd809295a8ef0467ab57.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Join Leo on a thrilling quest to recover his fortune! Immerse yourself in a beautifully hand-crafted world full of clever traps and puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "759 MiB"
 }

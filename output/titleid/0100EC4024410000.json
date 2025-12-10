@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7417698b661839198f2f7265bd14bf1488496d2e97f8876509bb476976ce7e6.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "\"There's something I can't tell you...\"\nExplore new frontiers of co-op gaming in BOKURA: planet. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "432 MiB"
 }

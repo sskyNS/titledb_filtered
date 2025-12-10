@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b061608db8efeab7c54dca43d168111ce6a87ffa9822b984e934bb121cbac731.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Experience a sci-fi action-adventure RPG on the Moon in the year 30XX and save humanity from a deadly comet!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

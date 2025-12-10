@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce5ab3a3e5ac44fcd2f3cb961ec22944e63abaa0f10c3da0d90c1b3fe23506ef.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Artifact Seeker is a 3D Roguelike Survivor RPG game.You can obtain artifacts by slaying enemies. Use the power of artifacts, to play the game of gods or to end the game ? Your choice.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

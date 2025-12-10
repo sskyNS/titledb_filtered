@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c015dfadb314d0ce04338aa22d5a54df521773d81dce60b2616cadc08674e03b.jpg"
 	],
 	"releaseDate": 20230825,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Practical",
+		"Strategy"
+	],
+	"intro": "The ultimate simulation game for all animal lovers.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "29 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/537417053e7b982102071eeb668d4e20045c5468383e83703d7ce0052c9846d2.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Save the galaxy from Bowser and his minions in the original planet-hopping adventure, now improved for the Nintendo Switch\u2122 system!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.68 GiB"
 }

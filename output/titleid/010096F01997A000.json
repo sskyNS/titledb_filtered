@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1991c70814193f55104e9cce0fe02d0ca2fcb1fbf43a62afacac4f6942065b5.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Pass the graduation exam \nto become a glorious space fighter!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "117 MiB"
 }

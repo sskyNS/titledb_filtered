@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/623e077abce28dec1ea4745fb2e9a5b695b364df50e4d0f8766bad5dba0385d5.jpg"
 	],
 	"releaseDate": 20190322,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Chase the spark of adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.78 GiB"
 }

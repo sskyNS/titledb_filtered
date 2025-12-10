@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ca9265a779400c2cba67cfae213adcd7140efe886b197588af6de60a36da0cd.jpg"
 	],
 	"releaseDate": 20230926,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Prepare to be captivated by the magic of nature as you embark on an unforgettable autumn journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

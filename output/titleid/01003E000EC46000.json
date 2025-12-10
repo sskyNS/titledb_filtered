@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a51f6a9442feab2f42ab4ef401298f1e75d095ec41eb71523271e2ea78a4bcc.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "\u30af\u30ea\u30b9\u30bf\u30eb\u30ec\u30a4\u30af\u3078\u3001\u3088\u3046\u3053\u305d\uff01\u540d\u4f5c\u30db\u30e9\u30fc\u300c\u30d5\u30e9\u30a4\u30c7\u30fc\u30fb\u30b6\u30fb\u30b5\u30fc\u30c6\u30a3\u30fc\u30f3\u30b9\uff1a\u30b6\u30fb\u30b2\u30fc\u30e0\u300d\u304c\u300cULTIMATE SLASHER EDITION\u300d\u306b\u306a\u3063\u3066Nintendo Switch\u306b\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.27 GiB"
 }

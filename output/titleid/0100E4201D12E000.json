@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/395766b78609501dfe2bf812bcc473839d0d075ecf3581faf4503c272f230015.jpg"
 	],
 	"releaseDate": 20240417,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Set sail for adventure in the Age of Discovery!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

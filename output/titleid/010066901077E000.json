@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d47f09b4ff812b1674a4b8166f928575eba683d0d88a539d5bd7e1724aa1acb.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "EarthNight\u306f\u30c9\u30e9\u30b4\u30f3\u30a2\u30dd\u30ab\u30ea\u30d7\u30b92D\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a2\u30af\u30b7\u30e7\u30f3\u3067\u3042\u308a\u30af\u30e9\u30b7\u30c3\u30af\u30a2\u30fc\u30b1\u30fc\u30c9\u30b2\u30fc\u30e0\u3078\u306e\u611b\u3092\u8fbc\u3081\u305f\u4f5c\u54c1\u3067\u3042\u308b\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "862 MiB"
 }

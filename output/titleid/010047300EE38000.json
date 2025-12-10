@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bdc3b19d631dff74b1cb4354a78c45685ab96f5c0843db361f39537282aeba1.jpg"
 	],
 	"releaseDate": 20240508,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Lose yourself in a tale of magic and wonder",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.49 GiB"
 }

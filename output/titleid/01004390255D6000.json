@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d9f2ad2f24abb8f640fef34a6916c5779df996cca0fc9a4cbcc95d520fcdc25.jpg"
 	],
 	"releaseDate": 20251218,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Communication",
+		"Other"
+	],
+	"intro": "This is a thrilling text-based adventure set in a DND-style fantasy world! Recruit new allies, form unbreakable bonds, and experience epic tales and exciting adventures!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.54 GiB"
 }

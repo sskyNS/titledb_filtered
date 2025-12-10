@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f67958442843a4c04d3ceac0363743877e49aab808d64c85acdcb16875855db.jpg"
 	],
 	"releaseDate": 20210214,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Finding true love is hard enough when it\u2019s in person.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "738 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4852c4ced5cdb942f7263126cfdd195f9986dac2b6968bcdaa88f87a3045989d.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Return to OZ: The Shadow\u2019s Revenge\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "620 MiB"
 }

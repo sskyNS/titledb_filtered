@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/160589dd44d4b79073fd4ee5909bdae97b8e7ef2e4dca4cb0c9b9e90566de439.jpg"
 	],
 	"releaseDate": 20250225,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Ninja Five-O  ultimate protector of the city",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

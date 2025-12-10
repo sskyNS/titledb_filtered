@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/546c2c21d87de3cbabd3c8773db85679b4733d0a7d3454d193c4cdbb9ec7273c.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "Get ready for a fun and friendly brain workout! Fun, educational, and full of adorable friends - Brain Boost Buddies is perfect for the whole family!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "191 MiB"
 }

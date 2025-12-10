@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/353c8f36a2731b6351d2470e8811055f5cd23fc36dbcdc7b2fb63d5affe53023.jpg"
 	],
 	"releaseDate": 20210613,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Guide young mechanic Mo on her quest to repair a world on the brink of collapse. Explore strange islands and dark labyrinths below.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.90 GiB"
 }

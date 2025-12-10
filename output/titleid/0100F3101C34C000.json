@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/97ce5ced0afd912ef86f99c5659f15a3ffa3b4a0e39c022d597553ea4edca70c.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Action",
+		"Arcade",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Evolings is a minimalistic monster-catching roguelike where you battle through hordes of evil monsters by recruiting, evolving and fusing your own team of deadly - but cute - creatures!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

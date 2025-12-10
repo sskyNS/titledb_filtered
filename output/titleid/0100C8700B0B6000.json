@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4ba47c605b17c90d000776b04ae64f598506f6067ea11833833c54e64c05f52.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "The Wurm has returned and it must feed! Shed your garments and paint the walls with the flesh of your enemies, for only one can be worthy of sacrifice.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "634 MiB"
 }

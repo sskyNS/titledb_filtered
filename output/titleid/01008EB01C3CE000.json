@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbccc0bc92b1754578c84850a05ffb7663ba0e1e5c07def5e7c91b3c35272090.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Racing"
+	],
+	"intro": "A parking simulator in which you need to draw a path and park your car avoiding all the obstacles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

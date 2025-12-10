@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d63195a2e7ff1bb7e561efb3ba1e73775c4d518a883b51a95007dda7f96aaaa.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Action",
+		"RPG"
+	],
+	"intro": "Brutal isometric co-op loot shooter in cyberpunk world. Equipment based combos, exotic weapons and armors. Easy to start, hard to master. Play solo or online multiplayer with friends",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.82 GiB"
 }

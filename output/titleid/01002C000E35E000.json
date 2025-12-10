@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/79fde8290a2ca6f943578a1905d5f19fe6431f36d05975a7fe9387b2c3707dd3.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "For people who hate golf - made by people who know nothing about golf.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.95 GiB"
 }

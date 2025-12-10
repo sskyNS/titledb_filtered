@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/58866e576b11f68fcbe93c9477718349d8898399649b834d5358540eb2c276e4.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Win the hearts of Parisians with your cooking, discover delicious recipes, and become a chef worthy of working onboard the Orient Express.",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

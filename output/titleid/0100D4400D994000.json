@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/51df5404a120f21342edcc79f939de6726a1e0f183327c9cb82778f1d6cf745e.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Become a true alchemist!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "799 MiB"
 }

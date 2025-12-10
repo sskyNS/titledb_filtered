@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/06c6b623a5fc1e3dee54bd8c16fb99eac9078cb986c849d7a8378a664eab9c64.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Embark in an adventure to save the stars in Tinhead!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

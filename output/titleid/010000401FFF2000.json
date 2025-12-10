@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc9bbab7b88b9b4f494f8eb6d823efabf28662f01d965de2834b15c3fa0c7718.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A fun and realistic parking simulator that will test your driving skills in a police cars and other transport!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "752 MiB"
 }

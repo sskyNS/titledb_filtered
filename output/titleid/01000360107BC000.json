@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/43c265c52c5f88bb9d4f36f9f20ac973e9ff152a88c087971d5b39bfbd14b43a.jpg"
 	],
 	"releaseDate": 20200501,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Practical"
+	],
+	"intro": "The ultimate 911 Operator experience.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.97 GiB"
 }

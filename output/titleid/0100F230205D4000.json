@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8f091c9e4f2d1381857c31e8399e000392d4f6d891e983d66d777b2eadc1d37.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Study",
+		"Training",
+		"Practical",
+		"Party"
+	],
+	"intro": "Find the indicated letters among many letters!\nThis is a brain training game to train your quick thinking skills!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

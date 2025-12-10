@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d23d405ab97f66c3687d252ad496fc1f1ae1c85d3553d1d9193365df298fd699.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Explore the most obscure levels of Banban\u2019s Kindergarten. Survive the new deceives and mysteries that await you. Uncover the truth behind the place, and find your missing child\u2026",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

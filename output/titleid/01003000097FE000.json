@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/76fc35f1eda7c705160673354cccba3e47cf04e82d3ff30bb2c930542193ab39.jpg"
 	],
 	"releaseDate": 20180322,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Break through barriers with the super-powered lunar rover and go around the moon!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

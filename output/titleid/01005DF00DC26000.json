@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d7190a4896a4c1ab6cf92069822ee2b2eb39eaacaf0e3216710fe4b09996617.jpg"
 	],
 	"releaseDate": 20190809,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Your choices are heavier and faster than a bullet.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.79 GiB"
 }

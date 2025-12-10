@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/112a7439762a839adbc0dad562e1e8551bd3b6261e19e4fc0cf68d445e5fbf65.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "The original ever-changing dungeon crawler.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

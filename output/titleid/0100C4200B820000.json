@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/74abd97eb3cdb4b0c9ff0d50366b924ac09895d2b2e724ff4a0c53a72aa3afdc.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Racing",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Ever-changing Environments - Procedural race tracks.\nCharacters and Consequence - Everyone has a story.\nCustomize your Hovercraft - Over 60 hovercraft parts.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "11.97 GiB"
 }

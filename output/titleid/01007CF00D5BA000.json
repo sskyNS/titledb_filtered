@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb210bb0a14603bfadde3469296fe1ba62aa84408383c10f4d8caeec0e3d3161.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Dance with the Devil",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.78 GiB"
 }

@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cacbca32c2456e9372d1686ff0ffee1b32f469037ee57f3949c64efe4bdf346.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Multiplayer",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "IIN is a puzzle platformer where you are a soul that controls cubes, overcoming challenges to bring them to the portal which is their goal.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "325 MiB"
 }

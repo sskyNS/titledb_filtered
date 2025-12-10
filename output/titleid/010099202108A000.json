@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c4341a3d3f22573448605b9a0d5baa509ec23ea14c7a7f9c621a4b87a162871.jpg"
 	],
 	"releaseDate": 20241220,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "SAVE CHRISTMAS WITH SANTA!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

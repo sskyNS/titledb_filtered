@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/62646525a9dfe1fb52ba4e222099899f59e9ee1ebacd9ed169b3950e498816ff.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A fairy-tale epic adventure! The Forest Goddess has fallen into a deep sleep. As a Forest Elf created by the goddess, you should take up the goddess's Silver Axe and seek out the lost power.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

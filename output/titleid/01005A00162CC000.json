@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/49777d59cc534a18289fb2afef7e06ac46e2ef195d179ed93146506b2f2c8d5c.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Another Tomorrow is a puzzle adventure that blends intricately rendered dioramas with first person exploration and puzzle solving.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

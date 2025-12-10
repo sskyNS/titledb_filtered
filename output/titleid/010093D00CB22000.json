@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/660bbe4dbf76a8acf61f1a1fdd002a5d933c1170654d55e7e35beb5257c02195.jpg"
 	],
 	"releaseDate": 20210525,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Eat! Explore! Evolve!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.60 GiB"
 }

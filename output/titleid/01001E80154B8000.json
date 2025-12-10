@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b030d478e0179e32153b32e5f8490f62838c001ba8977cd4c229c3dee8068562.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Lumione is an ocean themed side-scrolling platformer game. The major themes are chasing dreams and having hope. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.76 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1256111fd4aa3e34e5949fc66ba402bbb00e1a5bca144e1c30c44dd3299cbe64.jpg"
 	],
 	"releaseDate": 20190718,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Challenge the foretold doom! An easily completable Pocket-sized RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

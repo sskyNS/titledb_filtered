@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/91d995de0769b2639a6fb45540d5a23f2b9cfbc6bbb444b59d0e08d0f4ddada6.jpg"
 	],
 	"releaseDate": 20180111,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "There will come a time to fight. A new challenge awaits as a shadowy figure creates a new tournament, \u201cThe King of Fighters\u201d.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "136 MiB"
 }

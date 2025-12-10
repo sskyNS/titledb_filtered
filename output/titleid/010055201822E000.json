@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c73d8f3f34a208ff1c8c1d2ac3d06098f302507a2c8dd1266191c11228b51700.jpg"
 	],
 	"releaseDate": 20220920,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Join Tara on a heartfelt journey to become a witch in Wylde Flowers. Farm by day, and cast spells by night as you craft your cottagecore life and bond with your coven. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.37 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1eabd89b2cddc1ff5c2819a85ae72f82e1d62be3b193f536f84e1e400086cea.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "If all the adults you knew were monsters who attacked on sight, what would you do?\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.80 GiB"
 }

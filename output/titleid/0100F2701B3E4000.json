@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d50c4138de3dca5041e73facc58ae5086cc83903bf373978f89f0cdfcd9ec6f.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Wonderful trip around Europe through 30 new touristic locations in fifteen countries.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "681 MiB"
 }

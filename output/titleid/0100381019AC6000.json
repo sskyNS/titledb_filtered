@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/25d812b02e3a55a9552e2839f8f24cecbb4f19fa5419bff64fa886a1964d5542.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "In this cosmic puzzle adventure, help a lost tribe of duck-people in their millennial quest for a stable world! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

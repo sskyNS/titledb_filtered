@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd0ecf744e9273869837f997004d7843968d70844dd200c2133dffb5c5245db9.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Japan Train Models second installment features trains from JR Kyushu!\nBuild, view, and run realistic reproductions of trains!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "863 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/30e8b3037361040cde9461d881697e2f5105739fafcf4289eac5f8af9c93d4eb.jpg"
 	],
 	"releaseDate": 20210118,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The Red Colony should have saved humanity, not end it...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

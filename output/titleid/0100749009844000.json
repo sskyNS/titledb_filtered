@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e6f59ee8029dc145680d6625ca69f8d5f5495e78e9f1f903b175b826d463452.jpg"
 	],
 	"releaseDate": 20180710,
+	"category": [
+		"Action",
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Classic action-platforming with fluid movement, endless replayability, and full co-op.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.34 GiB"
 }

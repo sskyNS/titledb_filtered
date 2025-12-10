@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e1a97d308e9edfc411c9f7996f4b5d048b992f436f7f4f461d6d82bfc24c197.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Interact with special obstacles and melt your brain to find the exit!  ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

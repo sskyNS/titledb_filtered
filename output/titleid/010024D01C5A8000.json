@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/63db757ebb3f8b084529a34467edb46d928f1a4b30d2bfdda4bf8762e1f3a9e5.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Start your farming adventure! Take care of the plants, watch them grow and harvest the crops!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "385 MiB"
 }

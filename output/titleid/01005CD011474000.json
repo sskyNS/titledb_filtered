@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/28126fa7b13f4dbbcadf33f0d6a38f865abc62c3c78497705556ef21df8e5a31.jpg"
 	],
 	"releaseDate": 20200323,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Platformer"
+	],
+	"intro": "A humorous, logical and arcade game in which we take control of insects, teaching them various activities so far reserved exclusively for people. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.83 GiB"
 }

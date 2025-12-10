@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9150330efd22dde33eb4cb7c2ab5f687c80a79fdce0ebde2fbcb16e87dfb077.jpg"
 	],
 	"releaseDate": 20230704,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Fastest on the Buzzer is a fast action multi-player trivia game you play  against other players  \n\nSimply press your buzzer before the other contestants to answer the question, but be careful because if you get it wrong you will lose points and give the other contestants a chance to win those points.\n\nAnd remember if you lose all your points your out of the game.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "736 MiB"
 }

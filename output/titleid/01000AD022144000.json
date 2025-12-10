@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fd16e730b00c805f6e5fcdc73b07e19936091b78a38fab63a6006cd8d3a1adc.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Action",
+		"RPG",
+		"Simulation",
+		"Fighting"
+	],
+	"intro": "Rise against vampires and emerge victorious in the kingdoms darkest battles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

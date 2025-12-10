@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b206eab79dec222363668770c87903d0db7a2a351079f255570c61080a7eb691.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Test your skills in two endless puzzle games. Play solo or battle it out in 1-vs-1 multiplayer for the highest score!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "122 MiB"
 }

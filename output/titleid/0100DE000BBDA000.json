@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7e10664751fa3320dc305e4fb998e46972745e307b98a2d91e24f5ff5a95f39.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"Racing",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Skydrift Infinity is an action-packed arcade game focusing on the experience of flying alone, and with others, in a light, quick, fast-paced style. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "997 MiB"
 }

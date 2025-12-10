@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/947a63dd609444fba7fe0784d2176c1cf2c1dfb12c83e6176df1018d7eb6905d.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Build your towers, upgrade your skills, and slash more goblins than any Duke before.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

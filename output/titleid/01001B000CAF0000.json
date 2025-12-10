@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a9d8afd1d8aec69aaa3f63aa77a78dac1512384a1287d061c5a7b7695a2f11a.jpg"
 	],
 	"releaseDate": 20190111,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "In the 24th century, humanity is at war with a hostile alien race. Outnumbered a million to one, mankind's only hope of survival is the J.U.M.P. Corps. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

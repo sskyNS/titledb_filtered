@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b85bb2f8b3c59cf996f2ee65a767c3f375b94f6f21e030585155502bcb68fc0a.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "\"I don't wanna die so I'll do my best.\"",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

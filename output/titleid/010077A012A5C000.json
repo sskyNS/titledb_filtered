@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2609b01279698872c4f6312a7b5de80c51c39cbea51e02526372262393f29a91.jpg"
 	],
 	"releaseDate": 20211203,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "What happened in the bunker?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.99 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ffce9e729bac265838c696226548334c428c1aa42e3b25c6a76b3a577a06f69.jpg"
 	],
 	"releaseDate": 20251223,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Board Game"
+	],
+	"intro": "Justice never sleeps, even in the coldest nights.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "916 MiB"
 }

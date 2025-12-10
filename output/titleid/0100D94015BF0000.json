@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/29f3e7f4d8ce0658e3aac02ef157d375c6b578b1c53e26f6faff03d495bb727b.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Twin Stick Shooter Multiplayer Action Game set in small planets that can be terraformed as you play! Where everything can be your weapon.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.87 GiB"
 }

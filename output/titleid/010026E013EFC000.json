@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c38c8903e03e6e3e1dc1cd4355415ad3b4f7abf6f2a0db3045330051d0a327d8.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"RPG"
+	],
+	"intro": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods and featuring a massive Rogue-Lite adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.96 GiB"
 }

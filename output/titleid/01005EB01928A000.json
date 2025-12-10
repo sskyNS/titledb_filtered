@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8dfe521549f5b7f0d05a3a035a13ac2a012854852e70e24e1fd03d014708601.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Training",
+		"Other"
+	],
+	"intro": "Connect all the colored blocks in one chain and defeat the monsters-viruses!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

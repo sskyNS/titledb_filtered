@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4fd110aeb127472c6e5a5af048ab3e5b06ab158de695ee0191b3ce17ad9a3fd.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Clean up the galaxy in this time-twisted shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

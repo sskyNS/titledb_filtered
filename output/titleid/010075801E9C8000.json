@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/70a94173b4489f9c3a275abc7088903de476bcdc8b380c373443ab15c32cdc3e.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Rev up your engine for old school arcade classic car racing",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

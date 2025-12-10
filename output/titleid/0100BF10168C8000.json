@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e506e2fb2cbc75e848292e2ac7f77ac0aca143adb6846e281396af666247e1df.jpg"
 	],
 	"releaseDate": 20211119,
+	"category": [
+		"Party",
+		"Simulation",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Your Handheld Casino Experience\u00a0",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "214 MiB"
 }

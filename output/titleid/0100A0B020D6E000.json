@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/25dcb97576fdd11922dd36cb380acbf6b4936ea80ccb0ecf3853f9f3a437f419.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The fun accelerates and the enthusiasm is at full throttle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "154 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/73b73af80182cb8f0ad686e3d4581c2788414dfd6ea53285b1d026c81c50d6ae.jpg"
 	],
 	"releaseDate": 20171117,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "The metal wrecking, robot hacking shooter you\u2019ve been waiting for!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "861 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e87e35affe9320aeeaa5e4ca13690bf5d782597bf46cd66e79118ea5655094a7.jpg"
 	],
 	"releaseDate": 20220420,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Unleash the power of the Force!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.38 GiB"
 }

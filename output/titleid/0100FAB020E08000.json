@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2fa7951f316222e7a4fe54745a015c5116258b0121b3181e87f20e1f326f1cf.jpg"
 	],
 	"releaseDate": 20241109,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Can you be the Axe Champ?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

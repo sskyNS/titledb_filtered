@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee1708c318763ac09f504b80b4ee7e15eec0f17ca772a0cbfbc4cf429c79b268.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Challenge a variety of 7 sporting events! Claim the top score with your own hands!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "112 MiB"
 }

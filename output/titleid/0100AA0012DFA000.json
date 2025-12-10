@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b35ce70e4186a8a0bb93d864d50f0e2144641849c796f8880cd3583cf9b627ef.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "The biggest quest awaits, for the squishiest hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.52 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/960d20a84551e9be35e7bec0244ebc9a7323b57ef6e9f76d698e144d87de867b.jpg"
 	],
 	"releaseDate": 20231115,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Spacefarer Mahjong is a classic Mahjong game with multiple play modes and styles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "80 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0829ab051d650e2266152701d74dfdc31b142291a26a04c827e729d16786367a.jpg"
 	],
 	"releaseDate": 20240424,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Builder Simulator is ideal for those who want to construct a house from scratch, brick by brick. Easy mode offers guidance; hard mode tests your skills without help.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.56 GiB"
 }

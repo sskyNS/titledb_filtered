@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0a40d859f591740a08c63a8e1ec5d35ac7092ce72c5a810ca8356c2c4d2922a.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Free your ratty friends and escape the laboratory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "543 MiB"
 }

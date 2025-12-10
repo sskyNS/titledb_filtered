@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14f48baa685aaa4fe5a3cdf1a625ad394f5ac400de8535e3667ce33c5bc28574.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "The mist is alive. It sees you. It hears you. It waits.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "571 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/57fe83820286acb82a0d325e602432d4470429fa86caaa133f0063a5b2283649.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Head to a hike to the old mysterious valley and explore the hidden beauty of untouched nature.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f11611f6eec912d601d52d2e4141f992fb33dba593ab2505e2b564facdc0fbfe.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Explore an old Japanese manor rigged with traps & puzzles and overrun with Yoki, combining 3D horror action with point-click adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "346 MiB"
 }

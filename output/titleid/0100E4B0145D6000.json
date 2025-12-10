@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/03bd49f96b04ecf044de75e2d32617622eafdd0a77bc62f4dff98925cbc4c0de.jpg"
 	],
 	"releaseDate": 20230222,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Congratulations on your enrollment! \nNow available at a special price so even young players can join in.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

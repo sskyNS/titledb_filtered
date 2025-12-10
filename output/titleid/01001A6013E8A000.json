@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b73d1f7b556f102d49a2c12a5f8ac60563a8f7d36fdbf0d6c2d5e243d219fcc.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Adventure",
+		"Action",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Explore procedurally generated islands in this fast-paced, sandbox survival adventure filled with building, crafting, fighting, farming and quests.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "178 MiB"
 }

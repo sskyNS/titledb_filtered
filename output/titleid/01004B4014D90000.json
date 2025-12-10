@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/93a8487150b3587eb75772b9848366f81a3658a157114e84387846e24125fc54.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Puzzletronics is a minimalist puzzle-style game",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

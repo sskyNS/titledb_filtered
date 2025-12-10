@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf2c682cead33699162a167ad58bcaaa9dbe0554bc94da25523a001611474f28.jpg"
 	],
 	"releaseDate": 20190305,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Good, bad. He was the Mexican with the gun.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "372 MiB"
 }

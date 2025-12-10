@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e19bed4f91484cf759b8c4c887961b84a9a7e3eaf9ef14a5209a85d8a0725cd9.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "Tri6: Infinite is a fast-paced endless runner in the Tri6 universe. Avoid the obstacles as long as possible, beat the top scores from other players and unlock new vehicles and powerups.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "261 MiB"
 }

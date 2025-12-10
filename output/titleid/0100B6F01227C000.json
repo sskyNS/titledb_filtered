@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/43381d9948a866790d8ad3c2a331249b007c217e4074ee8ed6af62f5a8d1d91b.jpg"
 	],
 	"releaseDate": 20200826,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Help Glitch save his planet from intergalactic tyrants in this innovative and vibrant retro-styled action platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "506 MiB"
 }

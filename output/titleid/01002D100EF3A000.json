@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fd879331dee1313347e5a9e13c48e5e5e7b3adc6ba71a7cbc7f430fc03d24eb.jpg"
 	],
 	"releaseDate": 20201014,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The trial, once begun, cannot be stopped. Are you ready to step into the eternal night?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.46 GiB"
 }

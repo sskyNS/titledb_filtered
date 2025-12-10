@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a2b6d555919fb827b79ff2b30d8f0b30d3291e80d4fe6413796405f49f3d6d2.jpg"
 	],
 	"releaseDate": 20230310,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Fight against beautiful mythological warriors",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

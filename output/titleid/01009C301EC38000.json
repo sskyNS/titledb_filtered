@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae2b7132a1fc50a31094422bc2a7cd5d5c4dffe35d02595d46dd7783ef19a00d.jpg"
 	],
 	"releaseDate": 20240913,
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Grab your mixer and let the cake-making fun begin!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

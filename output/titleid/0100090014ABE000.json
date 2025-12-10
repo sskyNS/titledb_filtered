@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f12d988705fb6413f470577f0663f7343f061b199c615192591f89e25e97083.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Party",
+		"Other"
+	],
+	"intro": "Kyle tries to prepare for his most important interview yet. Choose his path through 117 endings and accept the consequences in this comedic adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "808 MiB"
 }

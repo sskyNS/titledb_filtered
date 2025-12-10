@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d24a0247cbd0204f1ad7512d2aeafa9fd3c3edb02ef0bc3bbc57731b759e288e.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "A classic vertical shmup TRIZEAL,\noriginally released in arcades in 2004.\nIncludes a commentary by the developer!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "234 MiB"
 }

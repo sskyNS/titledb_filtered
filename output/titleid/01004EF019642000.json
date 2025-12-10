@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b1bc44452725a7584ee5ba91aae2203e521be3acb523974b85057393f8b3faa.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "50+ stages of mayhem in this precision platformer with high speed gameplay",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "461 MiB"
 }

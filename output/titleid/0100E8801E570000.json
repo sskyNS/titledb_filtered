@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/706deee812d87e5398412e0ad1d8f5c60ec8756f4eac658f2a4803e44a8736e3.jpg"
 	],
 	"releaseDate": 20241021,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Speedollama is a fast platformer shooter that sets a new benchmark for speed in the genre, bursting with quirky humor and vibrant pixelated carnage.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "852 MiB"
 }

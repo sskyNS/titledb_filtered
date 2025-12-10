@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa0d8da6a9783dfb736eb5cec5b8c9b7e7dc30a117268f43daef74aacd65d29e.jpg"
 	],
 	"releaseDate": 20171212,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "What\u2019s the Point of Surviving the Apocalypse If You Can\u2019t Share It With a Friend?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

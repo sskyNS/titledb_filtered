@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83a3992d23fea7bad2d10aed7d789688283f7d5d112ff5152db96b73246f85d1.jpg"
 	],
 	"releaseDate": 20250502,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Training"
+	],
+	"intro": "Face off in the Wild West and prove you\u2019ve got the reflexes to win. Draw too soon and you lose. Wait too long... it\u2019s over.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

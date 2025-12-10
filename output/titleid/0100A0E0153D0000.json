@@ -8,5 +8,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/78f010dce675fb7dd97db62a7115096799fdd18f02f444741a2648c84a19151f.jpg"
 	],
 	"releaseDate": 20210605,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Zombie Raid is a top-down shooter with frenetic action where your objective is to survive waves of enemies.\n\nUse wisely the many different weapons available as well as your grenades to get rid off those hordes of deadly zombies.\n\nThe game has an very long play life thanks to its procedural on the fly levels generator making them infinite.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

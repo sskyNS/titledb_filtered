@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5661562030b8d2fd4cff5b1fe8a97fc5f7636d2d758f335fef3205f496084c2.jpg"
 	],
 	"releaseDate": 20250312,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A retro deck building game. Assemble a ragtag crew of hackers, mercenaries, and street-savvy rogues to take on the most feared crime gangs.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "359 MiB"
 }

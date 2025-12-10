@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6563877c4738c8026d4d61898682b3a7409bbdf88d8205cf2bff64823985208.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Puzzle platformer and an epic adventure. Stamp stickers to the sides of your cube to imbue each surface with unique powers, which are vital to solving puzzles and finding secrets.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

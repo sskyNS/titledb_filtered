@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/29210e6259bdbeb9d4f3247ce069325e7ca20d66025c766fa5f56407e0286934.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Funny and colorful family puzzle game!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

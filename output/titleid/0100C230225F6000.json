@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dec7bbef1db0629b29322d18a2d2520b72ea7b8bee5764835dcf4e64bec227d8.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Organize, Fit, Conquer!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

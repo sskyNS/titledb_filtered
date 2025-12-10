@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b7affd7aad3a52900a28cba1d28e19631f58c54cd73c956aa62cd06b6606799.jpg"
 	],
 	"releaseDate": 20250325,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Mattie, a curious little girl with a great love for sweets, wakes up one day in a world made entirely of candies, chocolates and cookies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

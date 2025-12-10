@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ed4eab070fd46a6f3b66c3873e24cba99373117f7299e5879b63a8de75e024f.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Other",
+		"Party"
+	],
+	"intro": "Create your Fruit Mountain!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "527 MiB"
 }

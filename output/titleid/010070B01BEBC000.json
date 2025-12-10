@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef03f110650d276ab9232a064ac34843bffe04bcd14a139b5655be3251e9b1a6.jpg"
 	],
 	"releaseDate": 20240923,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Minigolf for up to 16 players online, or 4 players via split screen.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.39 GiB"
 }

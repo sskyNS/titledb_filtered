@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/aec34a6b5e036b17c6fea38998ed593896b79ef5cd32c986b4343460ad90ef17.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Simulation",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Feeling Better than Ever with Local Co-op & Motion Controls!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.13 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1106d447cdedfd9a3d04d267fd164442e301a5bcdead9390c2dff7ab612bad66.jpg"
 	],
 	"releaseDate": 20250711,
+	"category": [
+		"Action",
+		"Adventure",
+		"Music"
+	],
+	"intro": "Bang Your Drums!! And Catch the Fever!!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

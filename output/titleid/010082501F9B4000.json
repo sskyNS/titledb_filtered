@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/86ae89b932f10355b1e3ea2aff75a314fb4035d692d00d029aba36ad129a2165.jpg"
 	],
 	"releaseDate": 20241210,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "The third installment in the TAITO Milestones series brings back a diverse selection of ten arcade classics from the 80s and 90s.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.09 GiB"
 }

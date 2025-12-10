@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/93d1460d61f283e0b1560f65f430b62bdd9c7512d5bd358e6c86185c23978b0b.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Hop and jump all over to find items!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "42 MiB"
 }

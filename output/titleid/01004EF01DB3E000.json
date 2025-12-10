@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/97ea1376e4e80ee67438bc1cac946daa171dbde16d5aa2bd8d888f2040fd22c9.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The first in an \"Easy\" action game series,\ncreated by a mother of 6!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

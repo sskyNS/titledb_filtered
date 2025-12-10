@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/112945651e769ba2dba13618d25972540e09f6e94e2d9ed1106bb650441a6ce6.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Develop and unlock your logical thinking to its full potential to solve the Island Maze.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "300 MiB"
 }

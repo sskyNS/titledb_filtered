@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6a83b20fa2c21aeba2cb41bc54d150140afde46c8130f88983d0b6ccb9d19b2.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "The enemies are heroes from fairy tales! \nThree adorable Ogre sisters face them in \u201cJapanese Sword Play Battle Action\u201d!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.54 GiB"
 }

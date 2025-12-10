@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fe61ab354521bc714a3a17366a7a8f2ada93d45e686c457f8b7fac95f53c44d.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Multiplayer",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The iconic puzzle-platforming adventure returns!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.62 GiB"
 }

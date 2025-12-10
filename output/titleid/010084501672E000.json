@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/85eca1e14c0eaaf30f4010134533207fe46fe9aca22d715894af8c2f5f592235.jpg"
 	],
 	"releaseDate": 20220824,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Take to the sky, reunite a fragmented and lovingly painted world, and face powerful monster adversaries in this surprisingly wholesome adventure game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "744 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f45f5295c028fdd5b0a7cca7b24ac761db88ca45a4799c799e8e2140747408d.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Snap pictures of spooky-cute creatures & explore an abandoned wildlife park.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

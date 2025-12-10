@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aed7cef3833d14ff04a75a2092f577d5ab95125041d050939f296b863ab4a3a2.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Semispheres is a meditative parallel puzzle game that places dual realities at the heart of its challenge.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "244 MiB"
 }

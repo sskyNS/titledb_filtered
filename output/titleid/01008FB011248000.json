@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f63b004c531a8f1417f3c7330654ba6a9689d4439cabee57dc47eec7059a532.jpg"
 	],
 	"releaseDate": 20200302,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "\"AvoCuddle\" tells a tale of true love! An emotional action adventure through the galaxy searching and seeking to free your soul mate.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "998 MiB"
 }

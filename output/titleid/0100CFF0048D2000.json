@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdf634737365d6bbafe3bbe95158eb7c6e70b82739f14e3639bd40d8f3f12664.jpg"
 	],
 	"releaseDate": 20180531,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Inspired by the Italian crime flicks of the '70s revered by Quentin Tarantino, Milanoir is a pixel-packed action game set in the violent city of Milan. Come meet Piero, a convict suddenly released from prison looking for revenge over the man who framed him.\n\nHunt for the truth and escape the ones who are chasing you through an unforgiving city. Someone wants you dead: you have to use all your toughness to survive. Shoot, choke, sneak your way through the enemies and engage them in breathtaking car chases.\n\nGame Features:\n\n\u2022 CRIME & VIOLENCE: A sordid story of betrayal and greediness. A homage to theItalian masterpiece crime movies of the '70s such as Caliber 9 and Almost Human.Stay alive, trust no one...\n\n\u2022 FUNKY '70S SOUNDTRACK & AMAZING PIXEL ART GRAPHICS: Enjoy the streets ofMilan from a new, high-quality pixelated perspective! Immerse yourself in a groovy'70s atmosphere!\n\n\u2022 ARENA MODE: There's no escape from death, but more killings means more time\u2026\n\n\u2022 2P LOCAL COOP MODE: The Guy in Blue joins the Guy in Red to face a common enemy.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.36 GiB"
 }

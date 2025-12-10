@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f59b0781fbd06c9b7278ffc2c9d3701c03f0807d2e45bd8e4dee9337d3b74cf5.jpg"
 	],
 	"releaseDate": 20251222,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Action",
+		"Training"
+	],
+	"intro": "Survive the silent ruins where danger lurks in every shadow.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

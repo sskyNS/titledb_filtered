@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec622cf7b8d74ce8474c9d441ed10223a77efae3169263a714ea8895a60ff1b6.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Study"
+	],
+	"intro": "Explore the incredible world of nature with a charming little mouse. Beautiful, hand-painted graphics and an interesting collection of facts will awaken the explorer's soul in everyone.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "755 MiB"
 }

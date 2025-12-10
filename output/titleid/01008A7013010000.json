@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bee648a5f6dcfb56c4b536f2e5920a73ba727eebd0bfd1df6c20ee0fb507ba55.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Education",
+		"Other"
+	],
+	"intro": "Make your dreams come true with Animal Doctor!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c3334b366bd32a00b69b6ec5ceae243811e121627604081bef07a68e82306e1.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Monster Fruit Academy is an exciting parkour-style game.  Experience challenges and adventures by working together.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a33d46faedc6bf0584ed8d0ffb9a1c32c93a51963fe4ea1025439aba8e11d0e3.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "SUPER PAC-MAN powers up with dual POWER PELLETS.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "38 MiB"
 }

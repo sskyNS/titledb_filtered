@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cde927578018090665221db953aff648f46f7376bf5a8678f1efe5735058f812.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Your weapon is the word.\n",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

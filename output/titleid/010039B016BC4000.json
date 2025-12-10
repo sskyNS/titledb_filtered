@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc8f22d0fd97b396ba347050e786e8cbceb66fe4f746790eacc99fa4252b0184.jpg"
 	],
 	"releaseDate": 20220117,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Become a legend of the streets!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "613 MiB"
 }

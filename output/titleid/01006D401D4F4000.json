@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cef15d30a93ccf274fb24361e0207a0e95b4609cf5f955eba78077ff9747b266.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Geometry Survivor is rogue-lite survival where you fight waves of enemies. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "515 MiB"
 }

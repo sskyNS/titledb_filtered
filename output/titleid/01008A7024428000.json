@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/906d38ab9885e9d18aed86db8a33de6675ffd894868402b3132ffbe1db0e4bbe.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Build a killer arsenal in this inventory management puzzle game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

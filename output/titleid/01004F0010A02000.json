@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1782818e7a04e40a72a1523df1c4071cef025b93e85c82ac5068a1abcdc5efb.jpg"
 	],
 	"releaseDate": 20200317,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "The world\u2019s first Shmup Breaker!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.49 GiB"
 }

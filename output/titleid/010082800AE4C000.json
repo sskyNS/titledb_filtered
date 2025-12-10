@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e629176973ba874cf5a5aa95ef9bdf5fb463153c45a295e408d5328fcbd8062b.jpg"
 	],
 	"releaseDate": 20190125,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Speedy and heart-warming action RPG full of challenges!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "488 MiB"
 }

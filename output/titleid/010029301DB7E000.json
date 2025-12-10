@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b151619b8744a3fb710bab0644dc450981917c061cd29e1016e4d07a0eb5b7a.jpg"
 	],
 	"releaseDate": 20250702,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Step into the enchanting world of Into The Emberlands, a cozy exploration game that is all about rebuilding the home of the charming Knacks.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "549 MiB"
 }

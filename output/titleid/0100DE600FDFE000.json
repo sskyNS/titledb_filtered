@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/231e622b87543393b66f2e5663ce320a157a6aea470fc23775b2b00fa5c115df.jpg"
 	],
 	"releaseDate": 20200224,
+	"category": [
+		"Board Game",
+		"Simulation",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "No Time to Relax is a life simulation game where up to 4 players online or locally compete against each other in the ultimate game of life.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "808 MiB"
 }

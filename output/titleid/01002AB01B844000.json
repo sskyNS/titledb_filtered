@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/90d1fd556d20fdbfb8c82b3a41ccb304ba2251957da8a224f75efb013e3cec86.jpg"
 	],
 	"releaseDate": 20240614,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Action rage game that will test your limits",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "503 MiB"
 }

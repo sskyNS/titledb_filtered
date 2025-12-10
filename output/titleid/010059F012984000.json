@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e092b46fd60506d963a3b24939671447f3899778b068f351bd04224f571ebaad.jpg"
 	],
 	"releaseDate": 20201002,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Make a Killing is a first-person single-player survival horror game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "845 MiB"
 }

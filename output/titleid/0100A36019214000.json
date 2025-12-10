@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b8c89827369cc0883dbb316076cb89dd336eaa43e425326fc5147b9d8b4b2ca.jpg"
 	],
 	"releaseDate": 20220916,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "No way, the game with kittens and football? Don\u2019t look on these cute paws, they can show you what they got! This is a good chance to show them who is the best kitten in the house!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "503 MiB"
 }

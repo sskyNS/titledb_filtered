@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/18f8c0cae136fa92c2b8c1bfe566ee7404b7f1504a060f2e715367ab0a43ef19.jpg"
 	],
 	"releaseDate": 20240706,
+	"category": [
+		"Party",
+		"Lifestyle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Adopt a cute and friendly virtual pet",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

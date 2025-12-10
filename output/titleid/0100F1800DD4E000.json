@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/60992ded2dab3bc527429b6bfa15e73e59fa94c1271eb8da5ad6efa326f5a94f.jpg"
 	],
 	"releaseDate": 20190517,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A dark castle filled with dungeons, danger and loot!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

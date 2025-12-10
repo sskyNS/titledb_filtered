@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4652c60bfbb3901494bcd9003c85ae13f701053437019aeedd5f9cecc8435600.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "\u2665 This is your island, your adventure \u2665",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "682 MiB"
 }

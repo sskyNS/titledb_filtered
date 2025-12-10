@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c0c687f452e92a326a185e0078ea5a745344c098d9ca9b234d551a8159d48a0.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Rock, paper, and scissors",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "410 MiB"
 }

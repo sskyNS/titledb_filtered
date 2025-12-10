@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a843ab80e974c85ebff96533a37830106315504e54820485e29104481387e4e3.jpg"
 	],
 	"releaseDate": 20210929,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Navigate through cool retro graphics and a truly unique urban soundscape. Test your flying skills. Can you survive?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

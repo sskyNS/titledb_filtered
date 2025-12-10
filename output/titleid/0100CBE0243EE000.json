@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b4350f3a2471f17f79e5b494b5cf2507347932dfa776f48073b595561e7715a.jpg"
 	],
 	"releaseDate": 20250708,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Puzzle out your sweetest confectionery!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

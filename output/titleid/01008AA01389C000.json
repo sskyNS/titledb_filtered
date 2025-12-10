@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b0dd67bd8af3f6e30629d16a544fe3c6e21fde8348e6ddb0526ba5cfa5267b5.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "To The Rescue! is a charming dog shelter simulator. Take care of unique dogs and find the right homes for as many of them as you can. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

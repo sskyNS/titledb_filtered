@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e22aa397ac699840cc8dd1d5ba1d15b1c6c1a0d34a557d1a927d67c1db93c8ae.jpg"
 	],
 	"releaseDate": 20200530,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Take control of Dr. Beyond in his quest to escape the facility! Use the products of your research to create an undead army and cause havoc in the complex!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

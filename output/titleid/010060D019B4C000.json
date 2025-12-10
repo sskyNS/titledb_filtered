@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/04e2760d5baa334f7761a82bc1dffc57d611060a88981b75b4db0ac04425b9e0.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Party"
+	],
+	"intro": "Use various hand-to-hand combat skills to defeat hordes of mystical enemies and save the world!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

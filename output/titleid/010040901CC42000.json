@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/941b5ddefac0f2f1294c306b0b82e33afbd0dee033b68932317967bd2c6e01e1.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Face off against a dozen opponents in an ultimate golf battle royale, or invite friends to play in multiplayer mode for up to 4 players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "485 MiB"
 }

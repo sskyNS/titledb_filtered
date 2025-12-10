@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1ab52d1b5ce9f48ce447a3d958fa4e1af87dab7ba7d9ce9fdc3c3742523149c.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A Pop Album Video Game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

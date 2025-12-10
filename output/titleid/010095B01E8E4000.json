@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1debae8be0e42f2a5682dd1c5db54a04bb5d03859f8781c585b70eb6911e23a6.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Other"
+	],
+	"intro": "Punch or be defeated! There's only one outcome amidst this nonstop action! Match the timing of the never-ending sandbags to conquer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/308c2963589bd1e56e4153d6c0dfd11bdb76117db03e9386e4c9fb2f9205cc2f.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An escape room inspired adventure. Play as an IT expert sent on a mission to track down and stop the hacker group drkFORCE and their underground subway exploit before they escape!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b19240c33f8e524a1b10503439853fc461d2363f3b6aa8d58e0f704b2169eea.jpg"
 	],
 	"releaseDate": 20171102,
+	"category": [
+		"Music",
+		"Multiplayer",
+		"Party",
+		"Sports"
+	],
+	"intro": "Super Beat Sports is a collection of five sports-themed mini games with a twist - everything is musical.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.03 GiB"
 }

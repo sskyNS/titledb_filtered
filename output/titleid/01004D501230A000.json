@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dad7df5e48daf1bac0ffe5bbd569d0f96e8ee43fe083f218fae7f3603201fd9.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Olija is a game about Faraday's quest, a man shipwrecked then trapped in the mysterious country of Terraphage. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "524 MiB"
 }

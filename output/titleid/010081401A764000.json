@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/077308e835ce915ab6b51489cd492cd4f10fde99ca72456b3e02ea0723b3e740.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"RPG",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "SURVIVE COUNTLESS HORDES, BE A ONE MAN ARMY, DIE AND RETURN STRONGER.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.92 GiB"
 }

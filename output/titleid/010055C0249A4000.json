@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/355f313ccb08ca2f82e2219dfda86856d6a2d345ac3e9ccadd587ac997279c07.jpg"
 	],
 	"releaseDate": 20250723,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "With a little imagination and a kitten by your side, any world is possible. Discover it in this beautiful, adorable, and fantastical visual novel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "633 MiB"
 }

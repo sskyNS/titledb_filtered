@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1e774296e37bd87858dca7eda6d325f293052f58e156cf8ed386749cc93d5c2.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Platformer",
+		"Simulation"
+	],
+	"intro": "Become the fella\nWalk on the stilts",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.65 GiB"
 }

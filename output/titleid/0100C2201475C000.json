@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b61378e05cc10e07cce575a5ecebad9500f69c2dc8c2731eee364b38be381b06.jpg"
 	],
 	"releaseDate": 20210513,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "hilarious fun, simple, fast-paced free-for-all deathmatch game with tons of unlockable hats!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

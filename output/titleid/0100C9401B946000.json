@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/73f1be1c31a9585c4239261138f203f535c8ef6c559c6fe391578077b6a769f7.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Shooter",
+		"Action"
+	],
+	"intro": "A metroidvania where you grapple around and blast your way through enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

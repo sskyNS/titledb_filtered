@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d956f0f48ffcaaf2cf277bc46c544d525ceb3a90487bba9f0df2ed41500dd6dc.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Clay, bone, and ichor",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

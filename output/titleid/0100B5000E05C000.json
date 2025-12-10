@@ -4,5 +4,15 @@
 	"publisher": "Kodobur Yazilim",
 	"screenshots": null,
 	"releaseDate": 20190611,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "A soccer themed competitive pinball game for two players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "253 MiB"
 }

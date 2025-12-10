@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa93a2db43a546b5edff9800327ef1dea1571f6065682217fd3368618d64cf1b.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "An elephant, precise jumps, and a world that changes with every leap!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/24208853b9db62cb7c461514d34f94ed0fb316463c27fc97290ee2b09b8cedd3.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Beat Me! is a physics-based multiplayer game for up to 6 players. Challenge your friends locally or beat others over the internet!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "2.19 GiB"
 }

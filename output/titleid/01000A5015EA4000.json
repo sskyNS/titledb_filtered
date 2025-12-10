@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8b685622ec06e21a0180935d9680596d47ae0feb7aa892b65754080cee051bd.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Board Game",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Joy's back! She is trying to start her own Donut shop. Help her combine different combinations of matching donuts and work her magic in her next match 3 adventure!\n\nVarious different conditions to win a level. Get new types of power ups as you go further into the levels.",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

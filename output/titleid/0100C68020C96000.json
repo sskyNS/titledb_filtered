@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/595c5232f01ec5b04ac867650932f3600250bfdfff87f3865c2a21414fc79542.jpg"
 	],
 	"releaseDate": 20241015,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Sports"
+	],
+	"intro": "Unravel the mystery...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

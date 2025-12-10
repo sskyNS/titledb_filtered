@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/387478eee7b369147dde0ec71557cdccda90bf1e66add5b27b902b8cc2bb623a.jpg"
 	],
 	"releaseDate": 20240701,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Explore a variety of student-made games from the University of Utah's Masters of Entertainment Arts and Engineering Program!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

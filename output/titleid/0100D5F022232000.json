@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/13e5e8a78683cd3a609e2219eac8785f6c5604a5d89a9076b479b38c742ad9a6.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Join Pilo and Prof in a new space adventure! Use your Holobook to turn everything into stickers and create your own encyclopedia of a new world.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

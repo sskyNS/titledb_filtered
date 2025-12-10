@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be04431491c53ecc95893d600e8b215ef45644c3ac5b58b65b06c23fa791af33.jpg"
 	],
 	"releaseDate": 20220325,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "Make all colors match",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

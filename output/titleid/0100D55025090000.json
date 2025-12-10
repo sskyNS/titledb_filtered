@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6217b5cd806844f6d72f8ff6161e86b2da3300591d7d5d2522af058a79ea3648.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Dominate waves of creepy mannequin invaders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "694 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d43cc8450ebaae542ad175b6c5a37323de409e976251cfe641c40e55d94001f3.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "\"Chernobyl: Origins\" - is a quest game with psychological horror elements",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

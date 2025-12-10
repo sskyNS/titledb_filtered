@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fdb777b4c2bd2cae4757b0f549d5be36b0b4382ef538c36bab4808f87d423fb.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Is there hope within the desert or is it merely a mirage? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.57 GiB"
 }

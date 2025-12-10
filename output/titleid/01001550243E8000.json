@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e5c393cb4e9afe307ef718d425c383787453ff565ae4bdb2f7ddcd460be3986.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Action",
+		"Fighting",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Fight, dodge, and blast your way through enemies!",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "369 MiB"
 }

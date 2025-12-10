@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fba43e27bfd6afea72425e6729854c0bb019030e7d6c7d125d375fd9ba7552f.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Party",
+		"Action",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Rascal Fight is a casual battle arena brawler with a magical twist. You'll play as a rascal running wild in an environment filled with contraptions where you battle it out against your opponents.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.94 GiB"
 }

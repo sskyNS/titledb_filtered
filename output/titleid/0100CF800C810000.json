@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2ce64cecfe892826c459735e36d60cd91228a3bc32e400e649a3ef15e04dbe9.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "Save the Metal, Save the World, Save the Coffee!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "730 MiB"
 }

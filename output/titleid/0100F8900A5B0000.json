@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f5ec86dfb7cb060323bf2e8c83507534ccc2d2180d42ff8e45ae51d319b4c67.jpg"
 	],
 	"releaseDate": 20180420,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A remastered version of an award-winning puzzle platformer.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1003 MiB"
 }

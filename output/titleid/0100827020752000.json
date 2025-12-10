@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/91488339e1d43f13219d286a93724b853a689a7e1ffb9db24782657a05dbbf3a.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Step into the swarm and rise as the ultimate survivor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "292 MiB"
 }

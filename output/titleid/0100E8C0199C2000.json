@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cea569106f7de92c957d0f64878c9be7ff03026a6dcf60b7c473ebb4bb6d339c.jpg"
 	],
 	"releaseDate": 20230509,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Adventure for money begins, where absolutely anything goes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1004 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d82521c7b5bc73491d0be1665313c7e1b3f29a489d45f7507f2f18c224298a7.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "A doomed sailor is shipwrecked on an uncharted island. In fog-shrouded valleys, shambling figures begin to stir. Beneath crumbling, salt-worn structures, labyrinthine passageways lead to unspeakable evil, long forgotten by man.\n\nSalt and Sanctuary seamlessly combines fast, brutal, and complex 2D combat with richly developed RPG mechanics. Discover, craft, and upgrade over 600 weapons, armor pieces, spells, and items as you explore a cursed realm.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.01 GiB"
 }

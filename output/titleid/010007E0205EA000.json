@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/038289ebf3e0cf2a37a67d1b157209a97ca60c13f4e0a8cd6958b79b1c5a04a7.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Nothing brings people together as well as a common grief... or crime!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

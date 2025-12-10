@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2facd994a577cf4d671825752c50e8478c497fe3cdd14305dd370ae214ac7d89.jpg"
 	],
 	"releaseDate": 20190222,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "It\u2019s only stealing if you get caught.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/63b8c3c7873d2f6bf1efbc9ba9c72f973397cd50fd9e50b67c621ca09ddf19f3.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "In Ruffy and the Riverside, you wield the magic SWAP to Copy & Paste textures - turn ice into lava or waterfalls into vines! Explore, fight, skate on straw bales, and unleash your imagination in this quirky open-world action game. Dive into an adventure that lets you literally change the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.31 GiB"
 }

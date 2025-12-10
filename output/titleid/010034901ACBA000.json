@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d51144f3b6a54e49bbcc6a5bf0f3643d526f79d1b6a1b39162ba2dee372083e8.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"RPG",
+		"Other",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Narrative-driven, immersive audio game with interactive branching storylines",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e61a4261192d8b87dfc8cfe1abd471b492ca902e6c2bbfd55378c446a4032c95.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Hot Tentacles Shooter is a formidable 80's style shooter with modern and irresistible pixel art",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

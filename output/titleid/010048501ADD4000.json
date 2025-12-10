@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/628c6dee9c80145782b3d3a69c16092d0da3c59c311d36bb3d98f242fb0f251e.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Practical",
+		"Education",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Awaken your child's imagination with Paint for Kids.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

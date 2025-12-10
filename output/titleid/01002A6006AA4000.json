@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ff228da6d7bbba6b93216ece797ebd3e1b9ce0f19a86eac5ca0f41ad1ead644.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Experience a future of illicit hydrojet racing, where armored riders kick out death-defying stunts over massive waterfalls, dodge cops, and boost across surging waves.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "279 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b345a663b035e9e6d80fba0b7cfb8d29e6bca7a80783b33aba0fd2883cd18348.jpg"
 	],
 	"releaseDate": 20180925,
+	"category": [
+		"Fighting",
+		"Party",
+		"Action"
+	],
+	"intro": "Fast, frenetic, Capture-the-Head mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.81 GiB"
 }

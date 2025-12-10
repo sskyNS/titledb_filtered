@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/be886a8e40d08da0b34e5db46e3c5abb980ffa2ac4d45d545db71b5e60aac8d4.jpg"
 	],
 	"releaseDate": 20231027,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Little kraken in danger! Dive into this 3D action game and avoid dangers. Explore worlds, unlock costumes... Love octopuses, beach, adventure? Play Kraken Odyssey!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

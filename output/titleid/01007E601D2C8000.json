@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5bdcc6d8a52a5174f75392b8b5233020ec3dcc3bbf63244296114fb70156b55.jpg"
 	],
 	"releaseDate": 20231016,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The player wakes up on an enigmatic island, where he finds a coliseum and people fighting. Nothing is what it seems, can you survive this adventure full of mysteries?",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "136 MiB"
 }

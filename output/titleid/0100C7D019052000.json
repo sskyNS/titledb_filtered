@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/68ef036a52f93644e835f732917015fd6768c12a50356b7804e60ab317beb43d.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Solve the mystery of Mnemosyne Asylum!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "707 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/61ff0d8d1186d7b9cdb7aeeaf781622dfc9e3dd391ece59f9c871af5bcc14b6e.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Explore and race down the Lonely Mountains!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

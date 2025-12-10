@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6197f43849480b923d6cae6bc8e076145d91ed0c3c1393b8faf964eff2a20f33.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Battles of up to 4 vs. 4 await you! 40 characters in total battle it out with a variety of fighting styles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "148 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2b906025eb415f7c56c4ac222fe85327b18095f0907d2ac9a5d129ef5103218.jpg"
 	],
 	"releaseDate": 20230209,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Do you want to be the best hairdresser? You will have to answer correctly all your clients' questions. Be the best professional. Don't lie! Or they will think you don't listen to them.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/79a16515de0d2b9750cd7c9eed4f0806051c8bc9ef1c2d574c1c535098fdd62b.jpg"
 	],
 	"releaseDate": 20170406,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Utilize 11 types of \"Power Armor\" and recapture the universe from the Seven Star Alliance!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

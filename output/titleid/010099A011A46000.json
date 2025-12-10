@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b81b133d2b62b395799d97cbb614e2d6e6a6cec06337e3ba550cffd623e81f56.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Sports"
+	],
+	"intro": "11 SPORTS TO BECOME THE NEW CHAMPION!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.41 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ca005d0fa61736df82be0563d941c0c4a1543d6f3bda4924a3f36a68c0928e4.jpg"
 	],
 	"releaseDate": 20230522,
+	"category": [
+		"Party",
+		"Fighting"
+	],
+	"intro": "\"Round People\" is a local multiplayer game where up to four players can battle it out on a trap-filled pool table. Strategy and action are key in this game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "309 MiB"
 }

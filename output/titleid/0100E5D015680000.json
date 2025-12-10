@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a82f49d563589e287760611e3fbeb7dab5500d65a1764b0f8e12c35431d7c04b.jpg"
 	],
 	"releaseDate": 20220404,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action"
+	],
+	"intro": "Fast paced bumper car action in a completely destructible world, compete with your friends in this unique party game! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "745 MiB"
 }

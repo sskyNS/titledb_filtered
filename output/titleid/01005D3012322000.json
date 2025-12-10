@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c84f5411e56919c62b479a3a4ccfc95090e4d213f5dda58bf8e8057d5c7b2670.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Enjoy Los Vegas style Roulette at Ace\u2019s Vegas Casino!\n\nPlay on both European and American Roulette tables!\n\nPractice your skills and track your bets!\n\nBig wins will keep you coming back for more!\n\nPlay on classic Roulette casino tables or have some fun with Ace\u2019s Casino special Ghost Table!\n\nTest your luck and become a Roulette pro at Ace\u2019s Vegas Casino!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "399 MiB"
 }

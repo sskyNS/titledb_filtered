@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32d078724385fc4903500aa418f5a3bb3ed0a291a797f7a2ccd9585ba2298d6c.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Board Game"
+	],
+	"intro": "Wordbreaker is a code-breaking game using letters. Each word\u2019ll tell you which letters are used, and which are in the correct place.\n\nYour reward for solving each puzzle is a terrible joke!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

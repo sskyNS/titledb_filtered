@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/439b8bea30188cb2f2010a1a3e28722d1bc5c5f292429e59eb1efea541e53aa8.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A challenging pogo based platformer! Try to jump skip and hop your Pog to the top in nail biting levels and daily challenges!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

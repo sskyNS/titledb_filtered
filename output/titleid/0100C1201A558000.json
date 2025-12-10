@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e92f7adb5f387a0cdb2512796c054e342cbb65d6c080a57b92629dcabe5e608.jpg"
 	],
 	"releaseDate": 20230608,
+	"category": [
+		"Party",
+		"Strategy",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "JOIN THE CREW, FIX THE CARS, WIN THE RACE",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.47 GiB"
 }

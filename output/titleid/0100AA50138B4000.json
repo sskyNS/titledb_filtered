@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cd43f02a4ad9beaeff93fc838539604a4fa662bbc448be521ba437fc57e4526.jpg"
 	],
 	"releaseDate": 20210212,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "The infamous ecchi rail-shooter is back!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.02 GiB"
 }

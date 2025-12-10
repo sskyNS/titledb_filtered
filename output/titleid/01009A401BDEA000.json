@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/baff231a3e79930617bd2e117499bfbe2d63c26977afb11709ef951539ba2073.jpg"
 	],
 	"releaseDate": 20231114,
+	"category": [
+		"Platformer",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Face the almighty Twelve Zodiacs in this lightning fast rogue-lite!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.82 GiB"
 }

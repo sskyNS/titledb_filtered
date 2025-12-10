@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/07d0a375536c918d0bcb1d6bf263e0f43d80e72662d21eb68c40c094e1315490.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Board Game"
+	],
+	"intro": "Paint Pretty Pictures by Pixel!",
+	"languages": [
+		"en",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

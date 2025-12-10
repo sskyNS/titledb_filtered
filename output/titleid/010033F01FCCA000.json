@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/420eaa34b2e79bd5d8d0cb76780782eb14c8606407dc7a8c1cf2a3690ca128fa.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "As a professor in a school for troubled teens you\u2019ll have one goal - to teach, but what will you do when a troubled heart comes your way?",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

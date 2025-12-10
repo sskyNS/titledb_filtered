@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/60b67264124bbdca28aed16a146b9d270e7661a9cb0e773c832252427081c02a.jpg"
 	],
 	"releaseDate": 20190710,
+	"category": [
+		"Action",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Retro-inspired tower defense and action platformer SolSeraph reinvents the classics!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

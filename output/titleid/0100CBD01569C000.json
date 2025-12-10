@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f4cd1d3f2c316afc85dd7724d219fe62ca6061a344f4f42b778cc35a450423d.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Communicate with spirits and explore other people's memories to alter the past.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "654 MiB"
 }

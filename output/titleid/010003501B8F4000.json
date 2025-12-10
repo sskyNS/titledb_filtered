@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dd5ee709dba5f380b6e39c73ac9ce2ecdc64850272efd645f076d020ec581cd.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Part 2 of a Reality single play FPS game set in World War II! Defeat your enemies and get your weapons! Team up with our soldiers to complete the battlefield mission!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

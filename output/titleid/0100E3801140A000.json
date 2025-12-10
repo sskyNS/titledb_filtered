@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/168c2cfcffd8759ee008d98cf6ea15bafec8aabe61547f375e54cb3dc69f7fce.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "One bundle, three very different horror experiences \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "965 MiB"
 }

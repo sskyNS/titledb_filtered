@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d364056cd4e6ce3e40fe59833669c070dc7acc6d75586a1c757a913f5dbdc8f3.jpg"
 	],
 	"releaseDate": 20180508,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Experience Shantae's fantastic first HD adventure along with all the additional modes in one convenient package!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.79 GiB"
 }

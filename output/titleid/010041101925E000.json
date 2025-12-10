@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b895cbc92bcc43870726060acc013c78de972189e38b35ac23cf82591b8a59c.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Party",
+		"Other"
+	],
+	"intro": "Explore strange, beautiful islands to find all the little kittens hidden there.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "332 MiB"
 }

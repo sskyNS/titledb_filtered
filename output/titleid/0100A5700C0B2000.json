@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/38b0808f319e59b05de0afa068c460ca681a859afe6f2d1e873581465c0fcede.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Embark on a terrifying adventure of a priest accused of murdering an altar boy.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.03 GiB"
 }

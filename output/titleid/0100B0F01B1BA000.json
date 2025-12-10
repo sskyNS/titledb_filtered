@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ad7826bd01d28dc25d18b2df02fd5e709b63e48f436efaefc504b394f30a0d0.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Arcade documentary of maze / dot / 3D snake within changing dimensions, axis locks and the corruption of the system. Collect, grow, avoid your past, find new space, wake up",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

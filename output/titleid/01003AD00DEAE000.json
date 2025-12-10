@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b33c689483acfb439f17de93d7a618f29bbcc813983143c3c864e9a0df5a1c7.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "Challenge the wit of the ancient gods!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

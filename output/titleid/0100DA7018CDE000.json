@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/721bcc7263077790f67db92c824eb9ed309bc4838e4af90e2bb5ee6a2a40e32f.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Design the most beautiful garden in Japan!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "192 MiB"
 }

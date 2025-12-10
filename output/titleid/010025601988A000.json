@@ -4,5 +4,21 @@
 	"publisher": "Spike Chunsoft",
 	"screenshots": null,
 	"releaseDate": 20230630,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Digital Novel",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

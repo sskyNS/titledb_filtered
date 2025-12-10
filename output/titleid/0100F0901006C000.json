@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd361e8360e1249468a91fec1c82e14eb237d1c714a7914ddb81fb6d21cd7bc8.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Sports",
+		"Party"
+	],
+	"intro": "Local Multiplayer ZSport about luring zombies into eating your friends using sound.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "253 MiB"
 }

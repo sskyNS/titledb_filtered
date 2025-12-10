@@ -8,5 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/172c56ae7cb9c59510cc057cdcab950cefad5ccee7771d19eeddc023795e2d07.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Lifestyle"
+	],
+	"intro": "\"Madori\" means house layout in Japanese.\nThis is simple puzzle game and It has no time limit.\n\n-Rule-\nWhen you align the \"Madori\" blocks vertically or horizontally, those blocks change their own color. \nIf you dye a whole of a block, the block is disappeared and you can get the point.\nLet's get a high score!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "63 MiB"
 }

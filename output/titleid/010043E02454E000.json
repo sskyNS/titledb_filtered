@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/60beb098610af19e3215564c090b608aadd5926f00d00f29c2cffdf511a7324c.jpg"
 	],
 	"releaseDate": 20250924,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Think before you move",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

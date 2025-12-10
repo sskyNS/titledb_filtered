@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/81cbb17a3c02dba0cae52546b053483404930378f35a77c78be400a167b1e389.jpg"
 	],
 	"releaseDate": 20231211,
+	"category": [
+		"Action",
+		"Arcade",
+		"RPG",
+		"Other"
+	],
+	"intro": "Feel refreshed inside your body!!\nA new type of Rogue-lite action game is here!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "791 MiB"
 }

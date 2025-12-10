@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/308db9b866510bc9fcf6b1a0057ac8fb97c8f623acb2f52edbdf6cbe616f23be.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Sports",
+		"Other"
+	],
+	"intro": "Pro Wrestling Team Management Sim, Face off with fearsome foes!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

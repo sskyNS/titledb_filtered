@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/840fc88003e8b89ef45b18c6ecbb312ea56dd744127d67dd510e7f0c8790d7f0.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Blast insane aliens, find new player characters, and choose between branching paths! Let's Run and Gun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

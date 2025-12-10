@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/29dcc9bc0a53137eb5f56a0089d3bb708384cd7110c84cf43d2960b6165188d0.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "With the power to command the dragons, the Chosen One could be a great hero\u2026 or foe!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.19 GiB"
 }

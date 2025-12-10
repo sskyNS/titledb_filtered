@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1222851b670d83e48818e6a7182d1de472a01e2d2331ee1605d5d0a2bef4fc65.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Sports",
+		"Education",
+		"Utility",
+		"Other"
+	],
+	"intro": "Parkour game",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

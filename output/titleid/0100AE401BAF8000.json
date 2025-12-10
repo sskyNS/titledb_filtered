@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a468980e4ae0f490e5f1b228204839508198b320129a4299362769da470e7dea.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Action",
+		"Sports"
+	],
+	"intro": "A challenging boxing game with an emphasis on player skill that takes time and practice to master!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "812 MiB"
 }

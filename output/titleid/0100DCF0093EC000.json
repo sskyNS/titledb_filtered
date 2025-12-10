@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/25322d24fe79a4a026e2fda441fa2e66796f666b5d5616da6f47c8158e6ed7d1.jpg"
 	],
 	"releaseDate": 20181211,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "EVERSPACE\u2122 combines fast-paced combat with roguelike elements, great visuals and a captivating story. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.07 GiB"
 }

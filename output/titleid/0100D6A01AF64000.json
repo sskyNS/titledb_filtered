@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f70c05a4bdc68f73358e257899e6e4083c83ab71dbb63fd0754860c0d4a658b2.jpg"
 	],
 	"releaseDate": 20230728,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Platformer"
+	],
+	"intro": "A hand-painted puzzle adventure game set inside Monet\u2019s eye",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

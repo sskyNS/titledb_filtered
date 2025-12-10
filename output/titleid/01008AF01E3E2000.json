@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb4594ed58aeae307d8e0c050768bf34eb7ebdbe4341c34010452eac56260a4a.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Rekindle the Legacy, Unleash the Fury!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.33 GiB"
 }

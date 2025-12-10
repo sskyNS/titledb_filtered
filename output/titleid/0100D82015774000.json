@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f78c671dc4f66f56dd995b973805039711c06c1ed4e34131ab006425e0f86afd.jpg"
 	],
 	"releaseDate": 20210723,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Manage emergency services on a global scale!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.07 GiB"
 }

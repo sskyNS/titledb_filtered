@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/327e137939ab11c798482e5b8bb411be6dbeac9f54284b21171e500d3b8854d8.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Racing",
+		"Party",
+		"Sports",
+		"Action"
+	],
+	"intro": "It's time to rev up, and race your way to the title of RC Grand Prix Champion!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "205 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/62c9cf3a103cce4e4ed139c03923eec2833a1e45ac168f36eb0537391e1aed76.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Embark on a fantasy RPG with four hot VTubers in the new game EmyLiveShow!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

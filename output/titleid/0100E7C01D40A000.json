@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3741a188366854c5a1505024e665e4b7f4f08d1dd61c232ceb00becf731b1976.jpg"
 	],
 	"releaseDate": 20231125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "The undead menace has returned! Safeguard your territory and fortify your defenses in the thrilling Zombies Rising xXx.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

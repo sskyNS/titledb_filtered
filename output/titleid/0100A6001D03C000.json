@@ -8,5 +8,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2827479a5f2c1e12872550135672a163ea10d620e3a4819e18f768a0d4094ea4.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Party",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Who will be the last one standing? Choose your hero from a wide range of universes and play with friends in this party shooter packed with colorful graphics and rogue-like features. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.07 GiB"
 }

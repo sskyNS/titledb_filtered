@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c9a536bb85d31de02bdb0153ddd375deb74419891d25ee4c71545cc79eb8832.jpg"
 	],
 	"releaseDate": 20240513,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A turn-based rogue-lite dungeon crawler rooted in Welsh mythology.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.54 GiB"
 }

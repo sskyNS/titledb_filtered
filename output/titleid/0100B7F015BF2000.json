@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/12e198b817917236089f41d55f0bb19fd607fa0867708be98370e95e65d8662b.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Uncover the evil machinations behind a warring kingdom in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

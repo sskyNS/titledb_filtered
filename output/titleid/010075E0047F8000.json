@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a295f922e89176bb8078e2ef123df7062fd17dc218fa6a37b704cc3a5313a2ff.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Shooter",
+		"RPG",
+		"Action"
+	],
+	"intro": "Neon Chrome is a ruthless top-down cyberpunk shooter with rogue-like elements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "302 MiB"
 }

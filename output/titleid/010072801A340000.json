@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bc97077ff6c68715852fd94e2e36adc859350f0dd456a8366d4182da40c9990.jpg"
 	],
 	"releaseDate": 20230121,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Buy machines and discover new possibilities by modifying their equipment. Use specialized hand tools for finishing work.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/653f1d0163d6d62a2316aab86da185d9f9d3fbc9704455a94c761a9124b22d0f.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Training",
+		"Study",
+		"Utility",
+		"Party"
+	],
+	"intro": "Let's learn about space in a fun way with a quiz that rotates images! By comparing photos, you can get to know the universe even better!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/09a01a0e4387c905884e348d5479058a6e33cf568b04858e63cc953908929ed4.jpg"
 	],
 	"releaseDate": 20201225,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Escape the curse of Davy Jones\u2019 locker in this stunning hand-drawn match-3 game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "648 MiB"
 }

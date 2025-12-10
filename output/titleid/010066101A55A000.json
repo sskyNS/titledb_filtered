@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4000d7c69af07f94372dec70898182ffb63ffe11bc435bfb094a525db932f26f.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Face your childhood fears together",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.48 GiB"
 }

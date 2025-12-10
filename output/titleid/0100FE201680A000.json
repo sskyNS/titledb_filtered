@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9b6f9d776755b21f42f5cb99e694400cee57f476a2bc17e6cf7457a711077e9.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "YOUR ADVENTURE OF LOVE AND LOSS\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.99 GiB"
 }

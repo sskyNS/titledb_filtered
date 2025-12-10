@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8da901c21b5f81dc2f0ddbd52fb3ddb70a891fa614e64f2ea45c6c34826630a.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Prepare your hair!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "313 MiB"
 }

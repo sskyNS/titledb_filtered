@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbbb2e3689361fb30d2ac9e1a80a43cfeb00329265d99c2a021af2d0997ecd9f.jpg"
 	],
 	"releaseDate": 20240928,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "This visual novel follows Bambi, now an adult and respected leader in the forest, alongside his longtime friends and new children, Geno and Gurr.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "222 MiB"
 }

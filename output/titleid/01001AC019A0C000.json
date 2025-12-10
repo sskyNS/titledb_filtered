@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/484a250cfad6c3c8ee66a21aee7037673894b0ed6eb0ae737cf9714544a54521.jpg"
 	],
 	"releaseDate": 20250617,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Conquer your enemies in this turn-based adventure strategy game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.39 GiB"
 }

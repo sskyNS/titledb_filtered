@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3acb78c80a965d25b327c4d73f3cad7d9342f5f2aa0c3f2b6580372aa8111bb4.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "IDEA is a game about discovering and sharing.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "861 MiB"
 }

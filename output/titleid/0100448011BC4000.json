@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3030641d5722df17cec059c9060a161441cc64ab41469019d02f4d15b33a2e1f.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Communication",
+		"Party",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "2 cooks, 1 goal - cooperation makes the dish!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "231 MiB"
 }

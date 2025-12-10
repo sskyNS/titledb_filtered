@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ceb5de06db55603c35a674f5a89601f2f7cbe207e5d720a0b5d0b6f99c26722.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "These dinos really know how to detonate a party!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "218 MiB"
 }

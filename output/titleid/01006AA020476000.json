@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bc598f58a61594ebdadc04bd063338f648cb9c8f2bbbf7ada9362dd706fb2e6.jpg"
 	],
 	"releaseDate": 20250917,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Jelly Troops is a bouncy flag-capturing battle with slimes!\nEnjoy thrilling, chaotic, and exciting battles with your\nfriends, family, and slime masters all over the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "881 MiB"
 }

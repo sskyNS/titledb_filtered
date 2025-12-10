@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9af2fd4e0846ab1d046baf4ecc9ccd88f95b7884f389df54222d27e788fe14f7.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Grapeness Awaits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

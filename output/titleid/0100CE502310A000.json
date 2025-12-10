@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0727ff6c1423527c0a2c7e900da558211ecc078f6dc8813d6059843f5f3d23f4.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Five girls from different corners of the world discover that they possess the essence of the elements: Fire, Water, Earth, Air and Light.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "567 MiB"
 }

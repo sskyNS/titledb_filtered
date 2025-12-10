@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bcf55d849fa3bbbe77403efe9ba9780aa1acf784ea0cd5f2cdff69b8f13d76b.jpg"
 	],
 	"releaseDate": 20250217,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "This visual novel follows a group of young pigs who participate in their town's annual race for the first time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "311 MiB"
 }

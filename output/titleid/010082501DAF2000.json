@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0605dab3b2e450f27b79816aeaf5747f64954c71a3e3e4724ecd5819ddc3b58.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Unstoppable Rogue-like excitement! Unlock new classes, gather allies, and dive into unique adventures. Conquer the monster hordes and embark on an epic journey.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

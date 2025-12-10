@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/015af7a0b2d14745f4a40d5c66ce3077e6415d5a3a1273ab6d63c4ae040656fb.jpg"
 	],
 	"releaseDate": 20251209,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Learn a cryptic language of world-changing words and master their mind-bending effects.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

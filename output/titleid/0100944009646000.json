@@ -4,5 +4,18 @@
 	"publisher": "Tencent Games",
 	"screenshots": null,
 	"releaseDate": null,
+	"category": [
+		"Action"
+	],
+	"intro": "Arena of Valor",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.78 GiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb0b32d4f88821828712f653a334f6f8bf3c1e5c7164eeb125d49033dac294c4.jpg"
 	],
 	"releaseDate": 20231103,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Unleash your creativity and help design a dream space for each of your furry friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0ffd1b94fa8c8f594422f5945c0dbf70552c79615a5664bef8900c6acf35894.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "In a back-alley cafe, the dead are granted one last night to mingle with the living.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.39 GiB"
 }

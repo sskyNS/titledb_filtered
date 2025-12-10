@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a35049f2f0c124fb4734c9cd806382079f996160a4ed3d498b4505b5c4f6d975.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Music",
+		"Arcade"
+	],
+	"intro": "Dance to the beat with Hello Kitty and friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

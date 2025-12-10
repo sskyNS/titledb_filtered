@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5e4f56eb96660221b2679458c68ce5b8443f0eb52a172ae76ef5dec7fa4dabd.jpg"
 	],
 	"releaseDate": 20230908,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Follow Nathan Jones on his epic quest through magical worlds and emotional challenges to unlock the secrets of an ancient myth and save the World.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

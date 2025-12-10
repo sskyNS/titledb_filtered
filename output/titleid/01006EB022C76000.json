@@ -7,5 +7,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/540a1c0f8bcbdc8648c89297584c559e53573f6a9c9c2db6ba7260a4066ca8ff.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "A Digital Art Book and Soundtrack App featuring 134 pages of exclusive artwork, including illustrations of characters, monsters, and development materials. Enjoy all 56 music tracks from Rune Factory: Guardians of Azuma at your leisure.\n\nPlease note: The Digital Artbook and Soundtrack App is a separate application from the main game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "619 MiB"
 }

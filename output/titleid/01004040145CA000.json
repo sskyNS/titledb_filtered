@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f558b33eb9a0fcc674d9dd1cd770802b08800b987ca479fbf0976ac4e603d7ae.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Action",
+		"Arcade",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Multiplayer support for up to four players!\nThis is a \"belt-scrolling\" x \"free exploration\" action game.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "324 MiB"
 }

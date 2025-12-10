@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe9a79ae9008a80921b41a256c33aeeac94478811b454d143b8977a3feaeb851.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Utility"
+	],
+	"intro": "If you\u2019re missing the magic of doing jigsaw puzzles, then you\u2019ve come to the right place!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "466 MiB"
 }

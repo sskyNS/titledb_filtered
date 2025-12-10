@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e68f6d297fcb9c1c380c4fbd83eadfd389e3f67d92672767aa50a9c6c6d01154.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Mermaid Story is a fun puzzle game designed for kids as young as 2 years old! Higher levels of puzzle difficulties provide even more fun and challenges for children of all ages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

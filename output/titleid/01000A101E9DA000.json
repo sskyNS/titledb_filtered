@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/72cb091d442ba1d48f1111c34d7c582a2eea8334cd66bf40fadb69fa128d2e96.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Peglin is a Pachinko Roguelike - Fight enemies by collecting special orbs and popping pegs to deal damage. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "461 MiB"
 }

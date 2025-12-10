@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/57128578b08485a345b6292a444fd36cba10d689b4a294518f0b3569af4a945c.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The race continues at home!",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.84 GiB"
 }

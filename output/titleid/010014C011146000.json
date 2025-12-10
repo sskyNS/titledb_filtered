@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f760899fffa94653bfdde69ea0fed968e00a53b38fd8c726706f6601e7ba8025.jpg"
 	],
 	"releaseDate": 20210514,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Dive into a freezing underwater adventure on an alien planet.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.08 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c49c895f9e7b74eaadedb83b2cd1abbc6283c63f4c7882a19b1e144847e3e7b3.jpg"
 	],
 	"releaseDate": 20210326,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A noir adventure spanning time and space.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.79 GiB"
 }

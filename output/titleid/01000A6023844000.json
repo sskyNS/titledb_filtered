@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbd57509849ff7d2c866af7a1a13cae33cad746e6ed993f71f4d41c16f9a2d79.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In the distant future, aboard a seemingly abandoned spacecraft, John Maracheck awakes from stasis. He must push himself to new limits to unravel the mysteries around him.",
+	"languages": [
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

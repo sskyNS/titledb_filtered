@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bafb856ad381dd92ac20ba03592704231d12aa23386d79e5a442366181ac8abf.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Simulation",
+		"Platformer",
+		"Racing",
+		"RPG"
+	],
+	"intro": "Excellent indie games handpicked for your playing pleasure ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.29 GiB"
 }

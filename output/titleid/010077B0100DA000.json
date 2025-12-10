@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf4e0f1b2813d3ae10ba85ef7b202be4ddae53c6496b81640bf12394838f6ef3.jpg"
 	],
 	"releaseDate": 20200324,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Dogurai is a retro-styled platformer with animal-like characters, graphics, and soundtrack designed with old portable games in mind - down to the limited color ranges and sprite sizes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

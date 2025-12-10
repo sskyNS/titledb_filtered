@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab715fdbecb2ee751e65a2122b0fd8c1ff4a7132baa548bce983bd13f2d7a095.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "When the boundary between life and death breaks away, I offer your soul a parting kiss.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

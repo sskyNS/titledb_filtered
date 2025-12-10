@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e63aa5181dd79e450e52b3ec2e19084c2edae4e7a9fe0f2c79180379a70eea5.jpg"
 	],
 	"releaseDate": 20190716,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Stranded after his ship is destroyed in deep space, Harrison, a lowly maintenance worker and our hero, must struggle to find his way home... ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

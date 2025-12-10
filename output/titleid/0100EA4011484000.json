@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3274a05c93c0e6a41bfe0a15e5bfa823bd9b4b6b19317235fbfc07d9fa84d2ad.jpg"
 	],
 	"releaseDate": 20200403,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Only random heroes can save the day!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/92cc85b3f7d2997ab24fc557ef3ee56a87214461e3cfc1a8234eb6bb76b594cb.jpg"
 	],
 	"releaseDate": 20221221,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Sail across the Deepblue in a quirky nautical adventure!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "809 MiB"
 }

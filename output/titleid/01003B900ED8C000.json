@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46b7e7a94395fc7b353b6b077f262f29774bdaf157c8602cfdfd0eddfd55b044.jpg"
 	],
 	"releaseDate": 20191115,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "A feel good resource management game about human colonization of Mars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

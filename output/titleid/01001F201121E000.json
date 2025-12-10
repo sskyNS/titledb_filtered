@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e8cb071aff58fb1dfe1630e7d9cc191316b5be962633af0488f80e58092f183.jpg"
 	],
 	"releaseDate": 20201106,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Join the Super Patrol on superheroic missions to save Adventure Bay.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.63 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/70271916a73e844436f41d768cf6f707d270417a3643c774e78614141618cc97.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Select lawnmower and track and start racing against other!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

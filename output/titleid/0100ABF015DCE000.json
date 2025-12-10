@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/da6eb748683b3bab1c15f589e76d3d43baaa43e2e5bb12c45a31bd510c85acd6.jpg"
 	],
 	"releaseDate": 20220906,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A Circus Like No Other",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.78 GiB"
 }

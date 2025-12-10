@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1d410aab258719a24a6a14add31ab977361bfbcfcb09b123d43f80ec6077431.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Simulation"
+	],
+	"intro": "My Exotic Farm is a farm building simulation game",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "321 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/13d5b7893c2fc37db7c28a32e09719f24e00fcbd6a7f4a689c307cc17b84c040.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "These are the records of a mercenary band that passed into legend.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.65 GiB"
 }

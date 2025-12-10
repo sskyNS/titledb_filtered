@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/29aaada8cca9429393cd7c486b33c5fa6094a0c83f2e58f735a22062c95b8350.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The two-stick game style is back! Conquer the tallest skyscrapers with the ultimate in game controls!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

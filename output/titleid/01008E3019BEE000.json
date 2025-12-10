@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2af83117ef99284e1d1900b36e8fa369ba68e81460898df9ba934f9e58845a4d.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Other"
+	],
+	"intro": "The masked protagonist must escape the city ravaged by disease, by any means necessary. Use stealth to scavenge food, or kill everything in your path. How you survive is up to you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "837 MiB"
 }

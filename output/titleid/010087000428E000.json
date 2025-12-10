@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/af81db1fa58d37642f231b2527b7d71c5311bf04acf81962a64d31d79829c657.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Welcome to Plantera!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

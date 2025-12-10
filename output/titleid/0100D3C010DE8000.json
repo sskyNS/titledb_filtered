@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8421660aa8d965242f56c40564bf375c26f69bd02a206e0118260fa3e4ad0c4f.jpg"
 	],
 	"releaseDate": 20210409,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "In a world ablaze with war, heroes must unite",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.66 GiB"
 }

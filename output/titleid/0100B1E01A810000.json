@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/551b3c567422e6b856969c60bb623df39098187e10cd0ea719fb6483834969e3.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Tile-based puzzle game with smooth and addictive gameplay, old-school isometric graphics and excellent music.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

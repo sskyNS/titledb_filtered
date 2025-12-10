@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb95bcce6aa2863e09bd123a4026d3d43dfc84f7eba52b62e7b604dbc2d30061.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The latest UNDER NIGHT IN-BIRTH, with new visuals, mechanics, moves, and characters!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.75 GiB"
 }

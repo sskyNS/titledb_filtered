@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89b3a4a675646cc045e4232ab7899fb25536e1518e2b430416550807cf9412c6.jpg"
 	],
 	"releaseDate": 20250502,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Survive endless waves of alien creatures and crush the heart of the infestation!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

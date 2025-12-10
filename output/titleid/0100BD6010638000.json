@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/93885ce4c098cbcd0ef6103f25a6930fc67125bdfb5a9865b4c06abdb03267ca.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Stranded in space! Operate two walker\nrobots to repair your ship and get you home.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

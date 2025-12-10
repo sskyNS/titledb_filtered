@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c43b80e1529491e71e73a98d11c4e7f295c096a3c9913df9210e39692006486.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "A Visual Novel with a twist - improve skills, charm girls, and learn dangerous secrets... by any means necessary.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

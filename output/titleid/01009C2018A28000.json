@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b27da2ef2ee7a21f90f9b1eded44aef25df46121e3cabfa204ca8610d16d973.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Shooter",
+		"Action",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "964 MiB"
 }

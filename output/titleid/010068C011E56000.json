@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3b3584ca7ae9aa381b6de9783091595b4cf1777dfddfd93b9ab5720dd0db09c.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A Dinosaur Tycoon Builder",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

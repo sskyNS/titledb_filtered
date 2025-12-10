@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbabed46adb47b625fdc6869c76b5740e2e9c90706b8f7a0ba0ccc0e4ef15ddd.jpg"
 	],
 	"releaseDate": 20241227,
+	"category": [
+		"Action",
+		"Simulation",
+		"Sports",
+		"Education"
+	],
+	"intro": "Build Your Dream Basketball Team. Own Your Legacy. \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "668 MiB"
 }

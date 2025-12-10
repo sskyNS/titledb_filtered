@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d6ba65b84d893e4b9438f2eee41b7a851d612872c0be8720c20afdf617a66e0.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "No One Survives Alone.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.95 GiB"
 }

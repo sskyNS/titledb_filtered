@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/16ed94c9df15ad828f3c37e36ff37219f84debe6e7c569e1f6ac435722bde692.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Start a dimension-jumping adventure with Quby!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "372 MiB"
 }

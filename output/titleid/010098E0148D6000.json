@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5cbdaac765eb4110ed31929663b1da7aa9dda56b61bdc087e0431b5e58bad3d4.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"Study",
+		"Training",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "The best 'Edu-tainment' game which helps you improve your math skills!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "176 MiB"
 }

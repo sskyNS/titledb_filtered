@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/86945d8a1c699babec1ab74098251df998786b32964aca7800e699e8911b2040.jpg"
 	],
 	"releaseDate": 20230602,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Keep it rolling!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.57 GiB"
 }

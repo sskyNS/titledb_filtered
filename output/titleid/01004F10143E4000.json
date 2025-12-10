@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a29c4b252ca0be8fd9dd8065070552b686bb12baf4f9a9f059639605ca4dcab3.jpg"
 	],
 	"releaseDate": 20211101,
+	"category": [
+		"Puzzle",
+		"Music",
+		"Arcade",
+		"Other"
+	],
+	"intro": "BLOCKS+ BEATS = EKSTASE",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

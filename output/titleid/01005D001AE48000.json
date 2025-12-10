@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/824f6cef6fc7de18d81f5a40e9aa7404ba52227806436576f094eab0597d974a.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Prepare to throw down the Double Dragon way in this fresh addition to the iconic beat \u2018em up franchise.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.65 GiB"
 }

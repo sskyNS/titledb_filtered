@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f391684a11f488ed9311c2054e377f5062958d28646d2e5904374dbb9bc1291.jpg"
 	],
 	"releaseDate": 20200604,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": " ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.02 GiB"
 }

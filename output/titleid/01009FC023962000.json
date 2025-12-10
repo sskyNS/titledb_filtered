@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ce5cb9e29acee9d9fa395d7b9b4b1c4c019f315bf650796f79510e10bfc5db5.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Party",
+		"Action"
+	],
+	"intro": "A game about a skateboarding dog named Ollie, who goes on the adventure of his dreams! Play with your pup friends and wreak havoc in all kinds of fantastical environments.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

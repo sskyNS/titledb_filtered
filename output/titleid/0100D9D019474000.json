@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc855c2e3ed2b0624e4ad03800fb83f17267343a3f988e29470fd41c444b0f14.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Sudoku is a relaxing puzzle for the mind and attentiveness!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

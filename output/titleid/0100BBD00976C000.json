@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/22523c29756e56e6c116d9ee5df2d15a84a2946638e9eb04a0db089b916857b4.jpg"
 	],
 	"releaseDate": 20181113,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Experience a deep, complex simulation of a modern skyscraper.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "626 MiB"
 }

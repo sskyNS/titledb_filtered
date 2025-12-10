@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/20fb7341bb487672a022535edf65d482dd5fb6d48133b858568c64d9090f4080.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Re-discovers your own past and lost memories on this incredible journey through the nature while fighting your inner demons and fears.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

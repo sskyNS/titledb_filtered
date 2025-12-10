@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b81115d2f3dec30513c6882957745ccecb66c44c80f11593cd4b43a82db28088.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Platformer"
+	],
+	"intro": "This physics-based game encapsulates the thrill of professional gymnastics. Get ready for the most infuriating and satisfying experience of your life.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "709 MiB"
 }

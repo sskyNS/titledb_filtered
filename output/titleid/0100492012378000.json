@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b8f8180835c35a745ec0478d7f3de5c1281d7eec2db69ccb77613620eadee8d.jpg"
 	],
 	"releaseDate": 20201003,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A charming zen puzzler that is sure to test your brain and capture your heart!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/011f0bce9363818a09fbcfd659426768208afe022f36421fdc1e7948a3e82e6f.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Surprise yourself every day leading up to Christmas with new challenging jigsaw puzzles in Jigsaw Advent Calendar",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "584 MiB"
 }

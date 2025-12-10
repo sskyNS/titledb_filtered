@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5df3b36444ff8a72b92de3893da8823f629bfc8113910a1435808e70866c1d3f.jpg"
 	],
 	"releaseDate": 20230726,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A mind-bending recursive puzzle game about boxes within boxes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

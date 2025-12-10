@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f16ac9d041f6192ae5a65993ddf8efeacc3eeaca51ba4b9e171bcf5edf381e0.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Welcome to the 4th chapter of the \"Mystery Box\" series!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

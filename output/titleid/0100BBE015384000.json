@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a427f40ea735d205d3777d258f5ca300f8094041912d4ea5f739f50f150ce81b.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Defend your kingdom from evil creatures and build up the last line of defense !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

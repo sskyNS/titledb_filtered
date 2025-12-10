@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/964f4c3c1e3d9efcfab038dd4d63ba7049d5a2250789baa27a960ec4a8554b5e.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Racing",
+		"Adventure",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Are you ready for the feats ?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "535 MiB"
 }

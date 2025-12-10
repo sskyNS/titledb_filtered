@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/900868e9157f0db45413aa670f64252886e0e41dd467f6de5722dec82546da66.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "This is the story of a young girl and her magical adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.24 GiB"
 }

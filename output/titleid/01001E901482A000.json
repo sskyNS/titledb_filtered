@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/638f787d396d438caac6b6b4b70ee4df104cd1cd8037ccb7c1357b7cf17db4c1.jpg"
 	],
 	"releaseDate": 20210402,
+	"category": [
+		"Racing",
+		"Sports",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Tear up the streets of Tokyo, take on the baddest Racers, and become the Tokyo underground Street-Racing King! Amazing open city street racing simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "829 MiB"
 }

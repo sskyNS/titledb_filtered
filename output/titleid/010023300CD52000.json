@@ -7,5 +7,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/603011216531bdf68edac283e305ce73d1e3a1502d3ee3d98f70184f6baf3b0c.jpg"
 	],
 	"releaseDate": 20190116,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Hedgehog commandos at the defense of the forest",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "134 MiB"
 }

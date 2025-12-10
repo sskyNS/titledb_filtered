@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dba5de8e48f938ec2968d5aebb49f1875440c7c5bcc4043f9259121eb5a9d17.jpg"
 	],
 	"releaseDate": 20201009,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A World of Adventure and Possibilities Awaits! The island is alive! Your newfound home will change with day/night cycles as you explore and uncover its secrets. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

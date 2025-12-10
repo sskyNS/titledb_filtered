@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ec8e84048242108cc8fe4e9fd02c8b26ef28fa0fe88d207e5f6b471390732ca.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Simulation",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Take part in extreme drone racing and fly around the world in a new realistic drone simulator!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

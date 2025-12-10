@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/be4f4a6d861761e73a5dacd9f0eee7c1bda9555030ee047af882c556bcb42e13.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Spy on squirrels in the forest.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

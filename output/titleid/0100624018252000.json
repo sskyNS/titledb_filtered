@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/05372b33abef223f6b3386bbdad1af2a93a82f82cbae32c06b7b44028b09686a.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Ride a flying vehicle and restore the breeze around the world in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

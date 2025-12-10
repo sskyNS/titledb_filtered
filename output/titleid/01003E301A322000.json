@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2303d1aa5979bd324d831bdb8f81fe6ee93fd9fda99e0cfe78cc0d33bcc0333.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Peachy Boy,\n\nThis cute looking puzzle game is as hard as it looks cute.\nCan you beat the challenging 30 levels?\nEach level is specially designed.\nYou have to collect the key and pass the level, but be careful!\nStones and thorns are not very safe.\nBut don't be afraid of algae. you can hold on to them",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

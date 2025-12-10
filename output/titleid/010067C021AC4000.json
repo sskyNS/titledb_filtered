@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdf67cdf8e77ca3e4043dacacddddaaf2973566f3daa674c4a89c39dfe0a457c.jpg"
 	],
 	"releaseDate": 20250627,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Relive your childhood and turn every crosswalk, curb, and puddle into an epic adventure with this urban walking simulator.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "832 MiB"
 }

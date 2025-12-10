@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aabf4c3fd86ede6c0d7c2b861d3e88e7be092987782fed4026017baaeed80001.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Precision marksmanship and calm decision-making are crucial for this rescue mission. Feel the intense tension as you look through the scope and pull the trigger.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

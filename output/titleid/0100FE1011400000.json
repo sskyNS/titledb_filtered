@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ad1f4307c20f7d4e66868860e421b58c227d3546ddb61b5eb78e68d944c32de.jpg"
 	],
 	"releaseDate": 20200624,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "AntVentor is a point & click adventure game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "513 MiB"
 }

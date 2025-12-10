@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d148554203223635510a664a3c0b1e48627d1d1938684ea9284ef7362e7e4ffa.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Guide brush strokes and solve a variety of puzzles to uncover an emotional tale of chance and artistry revealed behind unrelated yet familiar moments.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

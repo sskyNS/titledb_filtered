@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0c5d264b192309f1bd22bdf9c159259186910eead1261c1a7e059bac5893970.jpg"
 	],
 	"releaseDate": 20171221,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Cinematic adventure filled with action-packed platforming and creative puzzle-solving.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.74 GiB"
 }

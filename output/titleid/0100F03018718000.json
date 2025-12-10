@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/02c827f56d96ce875c194e0a927755fe89e00ba41cd7bd535a7000aabc3fdef3.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Can you save us\uff1f\nDo you have that ability?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a1a6f246853ea8171e55b1a43b764342ce3437532a348f317a8db30247b0b5.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "This is not an ordinary pinball, this is a real challenge.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

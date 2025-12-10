@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb0c76121511923aa4131272d449906afbec7484a4d75bb21d47a140a87eccc9.jpg"
 	],
 	"releaseDate": 20251209,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "KIBORG is a relentless rogue-lite beat\u2019em up where you enhance your body with new cybernetic implants each run. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.73 GiB"
 }

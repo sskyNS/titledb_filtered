@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf63431c3bc841bd080b2d8915c167070244b214c48854b117785d0fd0dbbcd7.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A classic survival horror experience set in a dystopian retrotech future. Unravel a cosmic mystery as Elster, a technician Replika searching for her lost dreams.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.75 GiB"
 }

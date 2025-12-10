@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b487887982574c84e4efc1b905c6a9a7fc525ccbe29cdb6b79b3b73310326216.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Battle your way through the grim Underground world in this brutal action-adventure RPG. Exterminate hordes of enemies, fight dangerous bosses and explore the world the way you want",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

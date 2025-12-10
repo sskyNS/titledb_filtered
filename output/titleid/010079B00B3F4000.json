@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/51fa8510c2456fbbc430c874b7019e8c4ebdaa64a8d11671088f315e044c5baf.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Challenge the horrifying reign of Nazi terror and battle an immortal evil in Achtung! Cthulhu Tactics; a turn-based tactical strategy game set in the Achtung! Cthulhu universe.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.34 GiB"
 }

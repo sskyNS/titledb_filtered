@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb5122525b0f52f30cf77e6c73eaf91f28f1c2127e7717d49b845e046752c167.jpg"
 	],
 	"releaseDate": 20200622,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The latest addition to the Swords and Sandals family is an all new combat platformer based on the life of the legendary gladiator Spartacus.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "277 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c36863b90d8752227c26d4998f5b0bbefe7ebd6460dbbbf6b822d24eb93c6c72.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Simulation",
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Z World Zombie Death War - Welcome to the zombie apocalypse experience of a lifetime.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

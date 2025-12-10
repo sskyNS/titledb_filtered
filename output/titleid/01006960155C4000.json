@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/77b13730db2a4a0a324d193bf45bd1e1da3adcf67c5a5120dd7dc37b19d37c3d.jpg"
 	],
 	"releaseDate": 20220315,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "It takes monsters to stop monsters!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.84 GiB"
 }

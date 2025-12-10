@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ecbc6079acce736ab114f2539d1589b43e7e821923c5bb800cdba00d9847c2f.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Twenty-four SNK fighting stars put their mettle to the test in this dream battle! Create your own team for the ultimate fight!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

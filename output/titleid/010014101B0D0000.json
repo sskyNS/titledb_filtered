@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d27b11388ab147242676f7744e55c4f7504dcd7fe8b2c0034108d02763fad8c6.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Fight zombies and aliens in this intense cross-platform, first and third person multiplayer shooter.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

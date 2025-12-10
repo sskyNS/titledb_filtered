@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/835fc43742b98cd7202e4803ed49aa6317087c8e502da109b05c2dfeb25ec91a.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A trip to hell. Hordes of demons. Big guns. Insane combat encounters. Pixel art mustaches. It's going to be a long day for Officer John Mustache.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

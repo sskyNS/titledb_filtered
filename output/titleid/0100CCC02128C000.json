@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d8cb33546e3fec9a0f4a79543b55555cc8085f5668bf21e052f80bfd465377.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A retro-inspired, pixel art, point and click adventure.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

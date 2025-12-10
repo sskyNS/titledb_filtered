@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c78aadd9f1a0b7754b54779f864b4247b050e800f287cc9a58b62b533cc0423b.jpg"
 	],
 	"releaseDate": 20241206,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Challenge the gang of Wild Joe to free your hometown from their iron grip!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

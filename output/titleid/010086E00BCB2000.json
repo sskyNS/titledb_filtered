@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/26588580f7abbba0688d9e9142bbd3389b0e034d9c57907ed73b8d712ebae598.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Action",
+		"Fighting",
+		"Party",
+		"Shooter"
+	],
+	"intro": "Looking for the most action packed, slow-mo, 2D arena shooter in the universe? Look no further!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "445 MiB"
 }

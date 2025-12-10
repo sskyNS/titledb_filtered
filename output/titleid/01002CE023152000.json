@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/29a65c7864ab355c84e0be8bbbb73a732cf559a6128cb453925afd4603f4499e.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Blast through monster hordes with crazy weapons in a wild bullet hell! It\u2019s chaotic, casual, and seriously fun!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "154 MiB"
 }

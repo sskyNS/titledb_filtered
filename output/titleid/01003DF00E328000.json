@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d19dd7279f63c94ef5efc9d071f7b5a5b730f714ffe10da1a1fe01389c99a7bd.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Ever feel like you're running around in circles?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

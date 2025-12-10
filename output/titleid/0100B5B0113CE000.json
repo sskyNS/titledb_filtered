@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffd5e94aeaae7334a4b819cbdf0c0cfe36c298afb6c459fe7407cfa4767554be.jpg"
 	],
 	"releaseDate": 20200306,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Why did dinosaurs go extinct? Bad weather? Meteors? Or because of a maniac with rainbow hair? Who knows!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "862 MiB"
 }

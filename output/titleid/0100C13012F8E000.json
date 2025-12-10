@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d45d454a2318630b526d7e023e8a6b8abaa97e9081b181da0cead31025d2acd.jpg"
 	],
 	"releaseDate": 20201002,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Join Popolon in an incredible adventure that will take you through the Demon Lands in search of the goddess Aphrodite.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "154 MiB"
 }

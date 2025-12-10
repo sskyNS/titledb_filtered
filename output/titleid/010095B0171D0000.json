@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0a2a038ab2e7781fcfae85884ce8e1399a9efa6c9f416f6b4f1a4ee4e36625e.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Family-friendly puzzle game that will challenge your logical thinking in a fantastic world where every STEP is meaningful!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

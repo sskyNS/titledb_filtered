@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eba9746b16165c82ee5cab9b00120b6d675c17f32276010c6008a2b36e1b4719.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Enter into Bricky to Me and try to escape from this random castle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

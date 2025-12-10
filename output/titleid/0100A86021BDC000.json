@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/82be629cd6c0c658dac7f3d6c06527404477825db1800b9d18c1ffc4c6b87de8.jpg"
 	],
 	"releaseDate": 20250425,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Challenge yourself while being chased by fear! A horror puzzle action adventure!\n\u25a0A completely new version of the legendary horror game ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "525 MiB"
 }

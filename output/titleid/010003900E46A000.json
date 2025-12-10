@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/39ed296e446d4581aa12363772ecfcdcf911b9f1d81590d7b5048b280bf208ab.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Sports",
+		"Music",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "You\u2019re invited to the craziest dodgeball contest ever! Get your groove on with Super Dodgeball Beats, the world\u2019s most intense rhythm-sports game!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "661 MiB"
 }

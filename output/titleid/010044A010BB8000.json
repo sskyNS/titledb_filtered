@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1f94b3bced55064a1d28816ceedcb160c0e3bf17a540f50116ae8d185bbd4e1.jpg"
 	],
 	"releaseDate": 20200709,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "2D physics mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

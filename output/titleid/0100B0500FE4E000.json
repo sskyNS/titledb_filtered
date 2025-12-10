@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d09de4b69485d685d9e8ae4ece831514693fc78c3699d949e68b371cdd4e5e95.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A Bumbling Employee Meets Office-Themed Puzzles. Hilarity Ensues.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "419 MiB"
 }

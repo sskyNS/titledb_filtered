@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab59dab0952cc6a6e3b1b81aa2054f984f86dc4c643c787386f05ef86ec3b48b.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "An adventure on the high seas like you've never seen before, with realistic graphics and sounds. Experience the sensation of sailing the entire ocean through the most mythical ships.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

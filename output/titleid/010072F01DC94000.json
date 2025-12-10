@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2636891dc873c66d26a59e209c9d4af220ecb02dff235513d7474e556049fa0f.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Dive into a quirky multiplayer co-op puzzle game where adorable, fluffy cube-shaped creatures jostle against each other to help solve puzzles together.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.44 GiB"
 }

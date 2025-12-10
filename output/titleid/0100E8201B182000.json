@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/90fc04c7f762357f1b4121a4636ef708782b7b421ed08b7a130fe22f4dea53e6.jpg"
 	],
 	"releaseDate": 20231101,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Decide the fate of the Agency",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "909 MiB"
 }

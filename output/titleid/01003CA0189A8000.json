@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7612e4dd05d921981d2d9d88f08244b7efe148dbbd10d74e860f0f075bd8c4f8.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Poor Molly, all your friends are stone!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

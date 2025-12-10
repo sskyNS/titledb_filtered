@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/082c90948e85595e64065050ae8055bd770c64ef21e1262f66076ba156959166.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "\u201cHelp Zee escape Samsara! Drop blocks of different shapes and properties into a realm of two mirrored dimensions, in this beautiful, reflective puzzle game with a twist\u2026\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

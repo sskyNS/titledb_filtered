@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd5c5f789b60f8b1bfa2c149de33472fe9ef1804930e8220a221b5f8132ed858.jpg"
 	],
 	"releaseDate": 20250617,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "TRON: Catalyst pulls you back into the world of Disney\u2019s TRON with an original new story. Explore stunning and diverse environments across the Arq Grid as you discover the rich backstory of this crumbling society. Interact with flawed, yet fascinating characters, face off against rival factions, ride Light Cycles, and keep one step ahead of the ruthless \u2018peacekeepers\u2019 as you unlock the mysteries of this Grid and learn what kind of hero it needs you to become. Try to survive as you\u2019re relentlessly pursued by Conn, a malevolent program with an agenda of his own, and learn the truth about the glitches that threaten the stability of this world.\n\nFeatures\n\nIMMERSIVE NEW STORY\nLose yourself in an original TRON storyline. Meet the programs of the Arq Grid, uncover their secrets, and fight to survive in a chase across the city and outlands. Playing as Exo, a courier working in this Grid\u2019s capital city, your life is turned upside down when a mysterious package explodes, granting you powers beyond any program\u2019s normal function.\n\nAUTHENTIC TRON SETTING\nWalk the neon-lit streets of the Arq Grid, or travel by Light Cycle, and discover a diverse Grid filled with intriguing stories revolving around a budding revolution. Enjoy an atmospheric electronic soundtrack by composer Dan Le Sac, returning from TRON: Identity, as you explore this unique Grid to recruit powerful allies, forge meaningful alliances and prepare to face the coming storm!\n\nEXPLOIT THE GLITCH\nThe Arq Grid is losing stability and chaos is gripping the server. Glitches roll back the clock, catching the world in a series of system-level time loops that only you can see. Use Exo\u2019s unique ability to restart a loop with retained knowledge, unlock time-saving shortcuts, and influence the factions jostling for control over the Grid.\n\nDYNAMIC COMBAT SYSTEM\nFight for the Grid! Battle a legion of fearsome enemy programs in melee and ranged combat, both on-foot and while riding Light Cycles. Master advanced techniques like parrying and Disc kicks to gain the upper hand, while exploring the Arq Grid and collecting Data Shards to upgrade your code base and grow stronger.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.15 GiB"
 }

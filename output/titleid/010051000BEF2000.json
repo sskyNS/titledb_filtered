@@ -4,5 +4,14 @@
 	"publisher": "Spike Chunsoft US",
 	"screenshots": null,
 	"releaseDate": null,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Get ready to defend your Chibis again in this fun and addictive tower defense game for all the family!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.12 GiB"
 }

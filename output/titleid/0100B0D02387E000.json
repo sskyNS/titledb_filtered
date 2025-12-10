@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/88d114ee08ea6fa4fd4fd6bf9dc9114d076f1f735cd07e0f85f7185fbc510c54.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "A Deckbuilding Tile Battler Like No Other!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36af2e8047eb737e777f3a4a6070eec9c7218c91dba4f15d203ed38b5c791b2f.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Made by memes. Powered by chaos. Your brain left the chat.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "586 MiB"
 }

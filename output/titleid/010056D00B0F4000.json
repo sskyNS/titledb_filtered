@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c87b64fc73ceb84867d840f36d693799bf7d0a169c6bc47e0ee4f6f1c7b955f.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Multiplayer",
+		"First-Person Shooter",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Simple FPS Game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "415 MiB"
 }

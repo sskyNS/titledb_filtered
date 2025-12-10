@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/df1a9a42faed51c526c5afbcc059cac8dbfe90b28359e89056f13cd653d0bfe3.jpg"
 	],
 	"releaseDate": 20250829,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Can you conquer the challenges of the maidens?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

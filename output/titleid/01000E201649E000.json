@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/950100f0ea8ec1709ba157a09635c6bdf0fa290eb6c087b015b78a7ecaa46f51.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Platformer",
+		"Other"
+	],
+	"intro": "Woosh! Get ready to flee! Welcome to Running on Magic, a forced-scroll platformer where a quirky wizard is being chased by a tireless Grim Reaper. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

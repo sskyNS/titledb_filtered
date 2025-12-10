@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec16d3138fcb76ff5ecf90cd5abb2a277c50d9afd80c10bf14b1df68773dc221.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Little Kong loves his \"new\" fur. Help him out in keeping it for as long as possible. Keep the fun going in this endless runner game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

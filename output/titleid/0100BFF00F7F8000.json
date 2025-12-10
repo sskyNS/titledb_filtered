@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6f70dc83f9db339fcfa2e001f2459f17fc7f52e5975153cb1449f52820d650f.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A bouncy dungeon crawler with pinball physics, lots of loot, and a randomised castle full of oddballs.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "299 MiB"
 }

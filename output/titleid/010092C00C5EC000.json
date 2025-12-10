@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb438b897cb43e190d1bda81d7308606aea68dfd0fddddd69d33c47989b79a89.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Trade, Build, Settle",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "811 MiB"
 }

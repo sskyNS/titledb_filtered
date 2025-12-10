@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f25bcc0cf0070b8a298e401b45b4a9fa75c8d8cb491b422dbca4d8bf5e5e8bab.jpg"
 	],
 	"releaseDate": 20240329,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Training",
+		"Education"
+	],
+	"intro": "Print, Build, Thrive - Your 3D Workshop Awaits!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "332 MiB"
 }

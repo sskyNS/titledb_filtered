@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/77bef153a62d0bd53d048fdaf7e0061cd2866e2a422a3521a1f6745d2431b8f1.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Unto Deepest Depths is a turn-based strategy game where all units must move and attack every turn. Build your party, upgrade your units, and lead them into the unknown.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

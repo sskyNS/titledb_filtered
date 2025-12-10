@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2adf480ea881995fa84f63d9e2c6dc83e8e0c57316cffa9bfbd58ab99cd86250.jpg"
 	],
 	"releaseDate": 20250222,
+	"category": [
+		"Shooter",
+		"Action",
+		"Party",
+		"Strategy"
+	],
+	"intro": "Magic meets firepower in a battle for survival.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.10 GiB"
 }

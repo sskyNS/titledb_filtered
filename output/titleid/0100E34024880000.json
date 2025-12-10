@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec6ee6445a05206de3f8e92372158601ad6599ba93f406836da9155978b0a252.jpg"
 	],
 	"releaseDate": 20250920,
+	"category": [
+		"Action",
+		"Strategy",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Detect contraband, secure your checkpoint.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "882 MiB"
 }

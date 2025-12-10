@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/43fe34e4b7abd5be8f83bfe2c6b501266cb9e4dbbb023c596a639ab435f36ee2.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Immerse yourself and uncover an SCP-style mysterious event! Are you ready to face the inexplicable and surreal phenomena?",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.33 GiB"
 }

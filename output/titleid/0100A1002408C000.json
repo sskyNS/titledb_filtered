@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b8c2169387f89d0616bc9d56c7b45675e28fc8d272b8d24ca570f4814edfacb.jpg"
 	],
 	"releaseDate": 20251107,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Unleash the ultimate drift legacy on the streets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

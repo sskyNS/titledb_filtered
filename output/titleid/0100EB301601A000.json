@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4227aec0240e6af728d63faa9f9bda915be17bf9d4785ac8121867d8bf8491bd.jpg"
 	],
 	"releaseDate": 20220902,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Destroy Huge Bosses, dodge thousand of bullets, and resolve quick puzzles with your powerful space battle ship!",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "239 MiB"
 }

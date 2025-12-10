@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/acf0f3f7de8bae5fe8d497a22795aa85dfc889790cf6eca563253cd642732bc8.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A love letter to classic 90s survival horror games and all gamers who really love video games.",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "808 MiB"
 }

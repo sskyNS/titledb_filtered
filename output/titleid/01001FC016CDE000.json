@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9de848b337f80124f53a4155d161b6e0dfc132755340539353fefcd8e3c37b4f.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "innovative escape game where players need to solve puzzles to score clothes.\nThere are over 1800 types of dress-up items in total.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "354 MiB"
 }

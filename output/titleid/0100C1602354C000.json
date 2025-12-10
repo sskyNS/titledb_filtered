@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e8dc8c16f1efcb16fd07a677c5fe09686950b32e8531da02393f4310b94b0f5.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Drift hard race fast rule the streets\nUnlock pro cars master every corner\nExperience drifting at its finest",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

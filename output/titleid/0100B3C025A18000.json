@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9fb2b25a01ed6b8522bad2f030d1e7fff2d30de2cef0292e11015eec4a969d2.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "High in the mountains of Albian, something very strange has happened. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

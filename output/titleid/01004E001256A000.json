@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ba802cf679b1f5bcf8740452fb6b714d488168eb16fa9dcfbd38fedd9c13c7c.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "A farming adventure with a twist!\nGet ready to set out on an adventure of a lifetime as you start a new life in Planimal Point. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

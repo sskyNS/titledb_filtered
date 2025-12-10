@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9bc29c8d258681c5caa29d5a36ba445cf8e3ced2c885705757875daac2f8dae.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "TURBO CHARGED PINBALL RETURNS! Now with bigger sprites, more baddies, more secrets & MORE BULLETS! Demon's Tilt pushes the limits of the Video Pinball genre!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "886 MiB"
 }

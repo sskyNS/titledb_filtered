@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a7ca9fff15b3458a494c905a27e4b2d903d2c411a63e852585d7eb3e0a959f6.jpg"
 	],
 	"releaseDate": 20171019,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Elliot can't die \u2014 but he's still running out of time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

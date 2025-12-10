@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0787faa9f7cc4b10adf8437a4fe7d189ea954b1ff5a34290d6c80423936320f.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A story-driven 3D exploration game where you guide a little bee in search of a new home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.95 GiB"
 }

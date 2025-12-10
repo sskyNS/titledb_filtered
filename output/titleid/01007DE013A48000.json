@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba5a144a3ae17a83a73f1ff3a99a398dfff62ba7b95e191513a8069bccb9e0ab.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Defeat forces of evil along with Gutz, Spina, Drago, and Elder! Have some fun with their individual skills and movesets in a journey through Muscle Island.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "1003 MiB"
 }

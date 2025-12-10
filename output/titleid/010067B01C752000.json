@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2f5c839a53f8791c1c2ba582175e00887b6f7090d2e75556baa47f137a81361.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can love revive what hate has ruined?\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

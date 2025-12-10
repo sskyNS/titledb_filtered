@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/63f764e050ee7c35f81e788620a88e234ecf00a0da250092c339c17fae8ba769.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Welcome aboard The Station",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

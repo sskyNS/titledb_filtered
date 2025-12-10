@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/99626d6c0400a76b4caaf723bf1d3560dd2aef8634d3a72269bffd5d8176f304.jpg"
 	],
 	"releaseDate": 20180322,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "A timeless classic",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "245 MiB"
 }

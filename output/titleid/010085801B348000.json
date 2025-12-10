@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d17dfa1b218e92bc1c9caf6139c2782f6c8f2e7d9579c0d17e18cd3ee02089c7.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Communication",
+		"Sports"
+	],
+	"intro": "Fling to the Finish is a cooperative racing game where teammates are tethered together by a stretchy elastic rope.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.89 GiB"
 }

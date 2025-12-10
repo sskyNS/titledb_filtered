@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6df34f0430337137244d07cb2cf3561602ff37e4f7a41167716683dfed338c22.jpg"
 	],
 	"releaseDate": 20241029,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "You play as Rose Hawkins, a detective caught in mysterious events while investigating a case. She awakens in a strange place and meets Noah, a striking woman offering a dangerous alliance",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.93 GiB"
 }

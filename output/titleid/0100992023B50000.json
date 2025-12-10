@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0001f34c8e21a21b8e54d73a445f744b544958b12a9d75a34d0191aac112b01e.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "One band's music becomes a thrilling action-adventure game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

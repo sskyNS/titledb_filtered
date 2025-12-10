@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/614fe9e855cdbe1a5af38dd359d2fde94befdeaa2b88424aafa084939fc01b76.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Party",
+		"First-Person Shooter"
+	],
+	"intro": "Navigate deadly traps and ruthless foes in a high-tech labyrinth of speed and precision.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

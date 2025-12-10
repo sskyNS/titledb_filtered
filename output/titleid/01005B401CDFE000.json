@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc6c75a5e858c17bd0151c9481ac9ab979240c464cfc96c62579beb15b7dea4d.jpg"
 	],
 	"releaseDate": 20240105,
+	"category": [
+		"Action",
+		"Simulation"
+	],
+	"intro": "Take on the electrician role and learn the profession's basics! \nBe sure to check everything twice, with electricity there are no jokes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.88 GiB"
 }

@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8c6787bc0e61a5cd0d49c539f80c729dc06d3e5231de242cbc80a4da60eb06b.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An Easy & Cute Escape Game",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

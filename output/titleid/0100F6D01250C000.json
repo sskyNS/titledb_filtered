@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9ba2e3851547e2fc03b0d8d91621e8efb8abfe5050b8e279fb47eccf7f7690a.jpg"
 	],
 	"releaseDate": 20200730,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "The main character, Miku Asanaga, is just a regular girl in high school.\nBut she has one secret.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

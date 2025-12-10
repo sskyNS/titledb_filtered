@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b32efdaaa51cd82fd88ecc08b2b2230e39756df3eaab95e1baaff1f5cab8d0e1.jpg"
 	],
 	"releaseDate": 20240910,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Run, jump, sneak, and hack your way through an expansive mystery!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.39 GiB"
 }

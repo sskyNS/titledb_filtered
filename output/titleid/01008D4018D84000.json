@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd291db5ba9178827186d507836c02bb7f71f22acad6b483e4561ee5be7111ad.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Simulation",
+		"Action",
+		"Sports",
+		"Racing"
+	],
+	"intro": "Did you ever had the dream to explore the world from multiple thousand feet above? Then take off in the WorldWide FlightSimulator and experience unlimited freedom!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

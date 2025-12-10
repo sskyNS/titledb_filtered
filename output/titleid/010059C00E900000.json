@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cab99695944cf6a8c458972829f81dab9285d5d2afc90e37bd4e2ec235b18ca9.jpg"
 	],
 	"releaseDate": 20191004,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Build a happy community and trade with other races... for profit. The Lings, your workers, will obey you and help you with your village. But beware, they can cause a lot of problems too.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

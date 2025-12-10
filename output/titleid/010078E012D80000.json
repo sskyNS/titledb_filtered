@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/38f335c1beec362bd3734066883b89932daadc29d51b52710cb3c1d146a35a52.jpg"
 	],
 	"releaseDate": 20201002,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Save the feuding kingdoms!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "697 MiB"
 }

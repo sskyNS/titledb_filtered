@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9461e2760f414098f6624386907fbbde2952b3cac9391dc8acb1656ee0b87d7.jpg"
 	],
 	"releaseDate": 20240417,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "From the makers of Reigns, get ready for Reigns: Beyond, a swipe-based adventure game through the stars!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c43d5451270713dddab3ec8c8b6dcfdafece2cd97c069407572434c753a58839.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Guide Gnome across the dangers of this twisted fairytale world. Can you break the curse that made that annoying cloud appear?",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.30 GiB"
 }

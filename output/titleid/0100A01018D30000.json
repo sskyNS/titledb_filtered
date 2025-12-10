@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/165dadc499e9603475690ac9f6bbd798dbd2121828f890b2f0bf8ae2ae765a36.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Be the fastest driver on the highway by overtaking the traffic!Over 30 unique cars to choose from! Take your car to the service and upgrade it!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

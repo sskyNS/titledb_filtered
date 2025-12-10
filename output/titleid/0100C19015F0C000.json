@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/efc9d6aa2934d4cbe802c4a8f45290d429ccedbe7667d989d1c6aabf209d36bb.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Jump into this emotional adventure and dicovere the fading memories of an old man.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

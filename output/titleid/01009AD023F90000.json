@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d693d359454d2e1f0845e8896b9c2ca098289356b0fbd3a3f9c1ae22bc3cf637.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Training",
+		"Party"
+	],
+	"intro": "Collaboration Project Between Picross\u2122 S and memorable CAPCOM games!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "459 MiB"
 }

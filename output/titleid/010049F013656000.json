@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ac9edf693c9ad67686bfba8995ae1110ffdf5ef0c5c0e795a42ff1d7af346da.jpg"
 	],
 	"releaseDate": 20201222,
+	"category": [
+		"Adventure",
+		"Communication",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "The heartful Neko comedy is open for business again!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee76c032ada2188a4988f8c347249baa4dfd0220127caae4545e0301863c4f6c.jpg"
 	],
 	"releaseDate": 20251111,
+	"category": [
+		"Multiplayer",
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "All Hands on Deck is a 2-player cooperative puzzle platformer game. Use Rock, Paper, Scissors, and a variety of items to solve puzzles, explore fun worlds, and rescue plush toys together.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.62 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/57134c9c670daa02000cf863d09552fa769d1af4bc32487d4b87c40f4d4bea5a.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Here is another one zombie pandemic that must be stopped by you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

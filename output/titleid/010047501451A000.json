@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd5e30cba494a356bb339f0495c0e07d85323e35ae9c8f91823fbf06a6e47b35.jpg"
 	],
 	"releaseDate": 20220719,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Conduct your own symphony of demonic destruction. Become Lucifer and challenge the mighty Archangels in this high-speed action RPG set in a strange and twisted vision of Heaven.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "782 MiB"
 }

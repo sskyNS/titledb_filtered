@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fc7619285c26f4490d907ca7d59b4aa9a1f7c7b19f74fd3cd5f76a5632196fb.jpg"
 	],
 	"releaseDate": 20220110,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Take a quick trip to the moon!\nEnjoy the radio wave shooter with a Japanese pop culture twist.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "497 MiB"
 }

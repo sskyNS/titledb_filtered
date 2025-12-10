@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/48b04c0552715a7c901820d51c450642ffd4d9055f196ef800f906eadf4c3b1d.jpg"
 	],
 	"releaseDate": 20240111,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Swipe through military negotiations, marry to strengthen alliances and recruit soldiers to fight in turn-based card battles in this historical epic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bcdd192b21e57b10ccd921a522d13164b010e7d938a0e97d470b72363ffc0f8.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Ship is sinking and you're trapped. Will you make it?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.37 GiB"
 }

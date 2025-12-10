@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e72ac504f1298b84ac001fa0cad37923a5c4fcf023123e113dc96c69a80183f9.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Burst into the depths of parallel space!\nNew combatants join the fray!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

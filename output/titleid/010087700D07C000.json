@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d9e9b2d25103b0dee5231927175c3a5af912a43b2f6e2f77ff31925afe8a8f0.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A princess with a mission, the mysterious god-like player and a story with a twist!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

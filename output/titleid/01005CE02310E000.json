@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/25f5cf65b7f4537311d66f7e281f41910f95f7148651efc56acdc25d3e6d589f.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A Purrfect Blend of Bag Management & Auto-Battling!\nDive into a light roguelite adventure where strategic backpack management meets addictive auto-chess combat!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

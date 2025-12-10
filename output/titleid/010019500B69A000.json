@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/28cb80ce974a674f892cd5950b19f1220192fcb6ed559f716684a13b7f7334db.jpg"
 	],
 	"releaseDate": 20190125,
+	"category": [
+		"Strategy",
+		"Action",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "The funniest strategy game in all of history!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "239 MiB"
 }

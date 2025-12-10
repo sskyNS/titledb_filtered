@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9f0ac4d1b690f8d35e13deea91b08111577ff1af9f1b365c2b3ea64f9a46dc9.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play the critically acclaimed masterpiece",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.34 GiB"
 }

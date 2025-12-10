@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/06a8657d1ec38ac9ee963eaf3e62d591e1624b571aa691fc38f3e0740eef9495.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "In this awesome third person adventure game you will help Eekeemoo rescue his friends from the clutches of the evil Dark Shard! Your quest will take you deep into the Dark Shards four corrupted splinter worlds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "814 MiB"
 }

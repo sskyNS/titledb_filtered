@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fb0b8cc2f502c9a13d1d29831d632865bd0d1ef0cc611b963fd71d8783e57b6.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Escape the glitched out world in this high-octane fast-paced platformer - do it as fast as you can!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "167 MiB"
 }

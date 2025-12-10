@@ -8,5 +8,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53d5eccd66dcf96e80e471d91439c40f1359d571dbd282e163f059a9c20b2538.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Build your cozy castle! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "454 MiB"
 }

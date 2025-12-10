@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/111efec3f047229017924dfcd53740272de3ccbed7c7ca3d51ceacb13931ac88.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "Play the multi-award winning Trading Card Game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

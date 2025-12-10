@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6a3245a1501b98e09e918eeec4e5a09a3e46c6edda45b2c1d4788e7bf5a3080.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's time for a delicious crepe-making challenge!\nMake as many as you can and watch your food cart prosper!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "256 MiB"
 }

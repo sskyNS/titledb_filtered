@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d81a9ad44a8b5dc92758871bae0acd62b4ffb0e522bd4438819cbec4a0d1efcd.jpg"
 	],
 	"releaseDate": 20180607,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "In a world where humans are used as power supplies, only one man has the will to change it all!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "531 MiB"
 }

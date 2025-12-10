@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/79affab6b837945134a745a5b758f87638ab5a74abbb831ac4a6b82a4f8f27ee.jpg"
 	],
 	"releaseDate": 20220601,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Samurai Riot is a 2D Arcade-style Beat \u2018Em Up game with a unique co-op system. Make deep moral choices throughout the branching storyline with high replay value.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.37 GiB"
 }

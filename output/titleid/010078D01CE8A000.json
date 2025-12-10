@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/be4265dbbe305e566b1f635a5baa03e31da16d8992d6aad09d89c5ee539e65c5.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Ancient Relics - Egypt redefines the Match-3 experience to extraordinary heights.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

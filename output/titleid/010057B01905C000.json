@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1441fcf19b7939ba8169fe6c9910c63cea5908f6c66857a38900fdff7e90d648.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Play the classic sea battle game. Position your ships and form a team to destroy your enemies in realistic offshore battles. Defeat ship after ship to sink the fleet.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "354 MiB"
 }

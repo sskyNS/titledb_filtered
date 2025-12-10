@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b58d66bae42b1a733951ae3f7f8b21b63abedc0e967e9651a72e3936c85b9a98.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "HammerHelm is a unique blend of third-person adventuring and strategic town building. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

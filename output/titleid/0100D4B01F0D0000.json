@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb7dbec92e311a2f9d47620f8441145e5887a10cd38784677580f0059cc1b608.jpg"
 	],
 	"releaseDate": 20240629,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "Scale the mountain, overcome obstacles, and climb to victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

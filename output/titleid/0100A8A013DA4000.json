@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dc9183cac55bc0e7d0437069c91d361f23ade7f07b79e93bc06618185b8f1c9.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Action",
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "It's a racing game that takes you into the world of motocross - Dirt Bikes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.18 GiB"
 }

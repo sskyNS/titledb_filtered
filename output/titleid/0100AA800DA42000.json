@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/84f39366bf0aa1ffad74bf1211885a198c1ce1eab559f5c6adc1c2ffc8b66f0e.jpg"
 	],
 	"releaseDate": 20190723,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Welcome to Automachef, a resource management puzzler where you design kitchens, program machinery and watch your genius come to life!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a70aac0cb4d461370faeae868dac519e1d3facc2030470957790b5a051eb54a6.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover stories hidden by time.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

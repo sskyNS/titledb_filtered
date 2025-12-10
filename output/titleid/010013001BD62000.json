@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/55bc17025d3621c4c1a1f138ed36d6d67d3ee90760fd6636ac5df591d089ab35.jpg"
 	],
 	"releaseDate": 20241018,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Join the Turtle brothers straight from the sewers and slide into this new adventure of shell-shocking proportions!\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.46 GiB"
 }

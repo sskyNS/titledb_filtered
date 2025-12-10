@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c68ea52a1c49fd67e4cd9e880a4aaeda530ce64b26aeabdb42585b32c86ece4.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Boo, a small and adorable slime, has gotten lost on a tropical island. To find his way home, he must leap over all the obstacles in his path. Help him overcome them! Good luck!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

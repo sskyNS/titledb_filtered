@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5075376f871dafe3089b36eb67b0e1469d2c624459c86405fc0b56c88af225c4.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Strategy",
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "A minimalist game about building and defending your little kingdom.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "792 MiB"
 }

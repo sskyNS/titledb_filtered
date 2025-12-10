@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e794fb421c0b80e004e348d497ed33f9354308d84bfda93bc2f2e2ea363e243.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Sports",
+		"Other"
+	],
+	"intro": "Stylish snowboarding!\nTricky levels to navigate!\nMeet the Ghosts of the Mountain! Learn their story.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.15 GiB"
 }

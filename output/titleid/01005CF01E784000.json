@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/92a72e3881a0c3917c5c10c7ddcaf8a94fd1ac879613a5137e3d859e5bf2175c.jpg"
 	],
 	"releaseDate": 20240717,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Unleash the Turtles in a roguelike quest to rescue Splinter from the Foot Clan! Master ninja skills, unite in bodacious co-op gameplay, and conquer iconic NYC locales.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.02 GiB"
 }

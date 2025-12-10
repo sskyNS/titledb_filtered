@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ac65ff6276954f419c3ea1bde15007be4d2da10d65aae9812666d3f30b8ab8a.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Elemental War 2 offers you the popular tower defense feeling combined with innovative game mechanics - the ultimate mix for many hours of fun!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

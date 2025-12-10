@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce3289e15ab88dcb0c72f9533d060c3ccec1b3424d750c8cc92f51aa732c42c8.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dreams aren't what they seem.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

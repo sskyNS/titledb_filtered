@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/91966741182f7dfa2c66905c22074807fd6cc936eac4a56175e53b64c81a02e1.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Crashy Laps is an arcade racing game, with all the track visible on the screen",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "654 MiB"
 }

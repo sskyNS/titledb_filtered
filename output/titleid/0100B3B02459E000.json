@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e69b00c53cdea9e1d5dc681411a26f3f4c909555509861fc2364aee979cea0e7.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "The legendary shoot-'em-up returns; remastered, reloaded, and razor-sharp.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "909 MiB"
 }

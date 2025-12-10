@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b430726a052bf422f0a46388371a04c38a60623234fdc312395f8a6747a568e5.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Ninjas + hyper action + cyberpunk! Cut down everything in your path in the name of revenge, sprinting through this glittering neon concrete jungle.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "931 MiB"
 }

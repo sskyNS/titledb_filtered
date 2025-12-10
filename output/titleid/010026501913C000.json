@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b47ca349604bada8a660060e245095107b16140e688e61bc7b3370b1f167cf85.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Platformer",
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Defeat time and The Evil, and become the best sorceress or witch in the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

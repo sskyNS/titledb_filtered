@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cef26878000a7c75e4829ebe28ee9180d96f6cff56d4b4a2f5a8eb8fe3aeddb.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A physics destruction game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5554c39bab49367b7eda17ce594cd19f5b7dfbbfceaac051d49de233285d625b.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Escape Goat is a puzzle platformer where you take control of a goat, who has been imprisoned for witchcraft, and overcome traps and obstacles to escape the Prison of Agnus!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "177 MiB"
 }

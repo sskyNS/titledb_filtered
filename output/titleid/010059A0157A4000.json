@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddac47f82f43503e56f0ed6053f94eaba6c3ff5ac4627ad18c375327ae963b3e.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Time to revisit the small mountain village of Fl\u00e5klypa!\nFl\u00e5klypa Grand Prix is finally making a grand comeback in full 3D, beautifully recreated in Unreal Engine.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.36 GiB"
 }

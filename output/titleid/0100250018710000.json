@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d325a7ff98091119743b3ee36a27b7049cd6bb1b7c1cf12e80466edb330d68a.jpg"
 	],
 	"releaseDate": 20230111,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Accompany Lucy and her friends in this grim, beautifully hand-drawn adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

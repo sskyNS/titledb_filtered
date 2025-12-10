@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/264744416b3be6e65a6e033d9709d85689a67605ebb3507dce30462c2b7894ff.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A room escape game set in the Panmorphia universe!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

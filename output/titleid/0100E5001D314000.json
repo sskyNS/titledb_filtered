@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/68fdc77c9f33ed3417fa01b562c7be913e87e4b90b2b67baaf14f83be63c20ca.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Immerse yourself in fascinating tales, solve intriguing puzzles and enjoy the beauty of anime images.",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "118 MiB"
 }

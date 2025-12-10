@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2e4f062fa385e1405efc64350fc3be759df4e0c00a99d75af80d0a30d870011.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Play hide-and-seek with 200 adorable cats in the heart of Kyoto!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

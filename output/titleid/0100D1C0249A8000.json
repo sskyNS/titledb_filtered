@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2930f5d6b8bd62d9f217bfdbc2b70e924b0977c75a790f6a76a3b59d30416f04.jpg"
 	],
 	"releaseDate": 20260114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Save the animal kingdom from mole-fueled doom.\nFace giant mech-bosses, collect weapons and build your tank.\nUnleash tank fury - solo or with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "254 MiB"
 }

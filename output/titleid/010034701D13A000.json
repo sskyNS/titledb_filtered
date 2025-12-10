@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/6913f12084ab20a5a1060e857cd26748e092ad9062f7773ba251c7a28dfe989d.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An escape room inspired adventure. A stormy night, a secluded villa. A precious artwork has been stolen during a heist. Will you track down the missing painting before the culprit escapes?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.08 GiB"
 }

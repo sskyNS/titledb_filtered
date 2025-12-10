@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1e68491f630005e550e974747741f1dba65b1f667843776788ad70868d6ab38.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Party"
+	],
+	"intro": "Servonauts is an absurd couch co-op gas station builder for 1-4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.14 GiB"
 }

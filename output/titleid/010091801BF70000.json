@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/52e2282b6a341043d9e26ca61b6edbb1b5d6c14815848bc986f8907061ae222e.jpg"
 	],
 	"releaseDate": 20231128,
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "A farming sim set in the stone age where you develop the ideas that shaped humanity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

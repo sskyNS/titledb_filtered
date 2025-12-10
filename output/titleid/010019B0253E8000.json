@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eed605c72e211c7a848870188c6edb5ed65a46103f32ef9930721f5d7c5390c1.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Adorable capybaras racing for hidden treasures\nExplore new worlds with speed and teamwork\nRise as the fastest hero across cozy lands",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "201 MiB"
 }

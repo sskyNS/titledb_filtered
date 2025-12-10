@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/642f0926153ef8efe19c503e70c62d30559dbd60b88c2b756250cae8ead59ab9.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Two lovers gave up everything and escaped to a lost planet to be together. An RPG adventure about love, rebellion, and freedom.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.14 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d06834c9f6109f36d1114592ed1132acd84b7313c4b3d8cedb74b7b899d30b37.jpg"
 	],
 	"releaseDate": 20220302,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "In a post-apocalyptic world bereft of life, two robots undertake an epic journey to a fabled city of glass and light.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

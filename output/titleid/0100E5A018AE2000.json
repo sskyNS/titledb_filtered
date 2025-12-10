@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6adc65e9ebdee866d6a77ed0ee23f85267049cb5c9fc3c1f263a29eb5ce9a857.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Practical",
+		"Education"
+	],
+	"intro": "DRAW AND COLOR: KAWAII is your path into the world of adorable delicacies! Use different drawing tools and have some tasty fun!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "876 MiB"
 }

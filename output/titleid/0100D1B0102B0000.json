@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/81cd6e53a891b2c451fe5df78d9bc5871e13fd7e844069a1437ae4dc0465d635.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Explore vast dungeons and discover a dark and unwelcoming realm.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

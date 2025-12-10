@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8666c4e90d44545eee00431e3106b828c7b1ebcd1c633bf09ac13f24ce57b790.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Waffle Your Way to the Purrfect Picnic!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "489 MiB"
 }

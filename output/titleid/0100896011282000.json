@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/79907941a68c289bc5a3fbefc8cf2b160abdf0645e5b1df464c8d5275522cea5.jpg"
 	],
 	"releaseDate": 20200420,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "This is an action game where you run away from the police while being part of Chase TV news.\n\nChoose one of two powerful locations: Los Angeles and Area 51 military base in Nevada (watch out for UFOs).\n\nYour task is to survive as long as possible, and while escaping you can collect hundreds of thousands of dollars, which are scattered around different locations. For the money you collect, buy another car that is faster and more durable. \nYou can destroy everything you encounter, but remember to repair your car!\n\n\u25cf  20 great cars\n\u25cf  Hundreds of dollars for new cars\n\u25cf  Car repair points\n\u25cf  Live coverage on Chase TV",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

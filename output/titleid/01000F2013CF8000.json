@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f32256799dd2d2f3c604f3986237a82def667a145f3e121c06740e0d59f4c5d8.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Ulrik must find the magical red cube that combined with his guitar can breathe life back into his village.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "95 MiB"
 }

@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/562783e6f31ba44d2e15bfe4d6ea2e33478f1bb9c29cdc59ef3b202f45d34d7c.jpg"
 	],
 	"releaseDate": 20210621,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Strategy"
+	],
+	"intro": "Challenging unblocking puzzles with different difficulties ranging from beginner to expert.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

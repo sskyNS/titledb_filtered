@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/03403adada84bf0d08ab1087ecbaf757b6246dc1b94d08cd6501ac7339ebc9c6.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Hack and slash your way through a dystopian future to kill a man-made god.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.63 GiB"
 }

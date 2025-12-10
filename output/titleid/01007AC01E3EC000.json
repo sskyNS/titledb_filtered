@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bde17d1eb8df0689fd8c1886b5a8c4cc20c6909ead4fc7fc3e940d4f018b50ce.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Knock down your enemies and collect all the cats and achievements in this pixel art party game for true cat lovers",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "202 MiB"
 }

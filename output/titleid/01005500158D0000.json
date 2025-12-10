@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac8d899dd74d8c7399395c59878fc3d9bb1894a8858dba0e7794459395ebb9b7.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Tough day, week, year? Just relax and play Minigolf Adventure, a beautiful game with engaging and relaxing gameplay - up to 4 players in multiplayer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.22 GiB"
 }

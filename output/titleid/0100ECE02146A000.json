@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b6799283ed58a82eccb68836bc55795e971e4c7bf12384524e53b97ab594664.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "A relaxing strategy with tower defense elements \u2013 build, protect, and rule.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "977 MiB"
 }

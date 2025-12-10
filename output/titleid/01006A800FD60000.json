@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/008dd984a649f311768e669e280662fa8ec40cb9ffb2e82929255ae7d4235466.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Experience an interactive gothic horror novel!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "592 MiB"
 }

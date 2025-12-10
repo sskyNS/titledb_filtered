@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8937b523c7fc21c9578d92d08cb26de8d4593603b611bd72144e496fba9c7283.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "You're tied together, but with cooperation this can be your mightiest weapon!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "375 MiB"
 }

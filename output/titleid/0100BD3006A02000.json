@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8e8c10f74de781fe0cbfb0fcc6b3a5bf5cf182958ac9b0473b1ab554e0707e7.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"RPG"
+	],
+	"intro": "One More Dungeon is a first person shooter roguelike with procedurally generated levels and pixel-art graphics.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "169 MiB"
 }

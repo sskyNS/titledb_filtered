@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/798256b2774336e27c9495878ddda0a920c174b68a36211c5182f745ffbffcfc.jpg"
 	],
 	"releaseDate": 20240115,
+	"category": [
+		"Arcade",
+		"Lifestyle",
+		"Other",
+		"Adventure"
+	],
+	"intro": "The cute bug has places to go! See how far you can go without bumping into the nasties!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a597bef404305c113af1018a5d2208dcadd88a37ae5ce120bbd54394fefca07.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Move tiles around to form a path for the bunny to get to the goal.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9a9cc84af74701cc7dd349e263fd7e68a572c466b008e7a754af7624e64adcc.jpg"
 	],
 	"releaseDate": 20200618,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "RUINER is a brutal action shooter set in the year 2091 in the cyber metropolis Rengkok. A wired sociopath lashes out against a corrupt system to retrieve his kidnapped brother and uncover the truth under the guidance of a secretive Hacker friend. \n\nSophisticated & Brutal Combat: Become the boss of the battlefield acquiring deadly supplies, enhancing your tactical senses and mastering other mind-breaking skills and gadgets that will leave your foes confused and powerless.\n\nCyberpunk Inspired Arsenal: Employ state of the art gadgets and abilities like energy shield, kinetic barrier or grid converter. Dash augmentations, reflex booster or overload will make you uncatchable while with ghost break you can hack your opposition onto your side of the fight.\n\nStory-Driven Action: Violent confrontation is a means to an end and trust is a devalued currency in Rengkok as you navigate a senseless world and dismantle the corporate titans of virtuality dealers at HEAVEN.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.56 GiB"
 }

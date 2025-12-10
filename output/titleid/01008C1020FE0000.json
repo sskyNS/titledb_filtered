@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2134a4da4891680536ed579f0c1d372c9d28db87c7a4422571523fd0f5b216c0.jpg"
 	],
 	"releaseDate": 20250401,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": "Pilot your ship through dangerous space and defend against relentless imperial attacks in Space Battle, a high-intensity round-based strategy game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7c5c9a738567fe691ab885a83dd3b090d9008ffd56fd25604af98714303ef4a.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Adventure",
+		"Other",
+		"Multiplayer"
+	],
+	"intro": "Is what you see real or just a hallucination?\nA former doctor wanders in two worlds while doubting himself.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "336 MiB"
 }

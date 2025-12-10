@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/69540341418dfc841cfb24a11e441a20c9ad18065280d5984c4a56bb46734f61.jpg"
 	],
 	"releaseDate": 20240220,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "An artful reimagining of Pong.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d96a8c07747fb59c750a7bd1f6a8cbf564beb8586858473b1f945073500ac7cc.jpg"
 	],
 	"releaseDate": 20211208,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Roll and bounce through tough-but-fair platforming stages in minimalistic retro style!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

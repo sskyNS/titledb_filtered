@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4edf1821cde497e874386691f401ae892e03a8d295efd7d26835a27b1c92fbac.jpg"
 	],
 	"releaseDate": 20220110,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Master drifts and boosts!\nAn exciting, brand-new racing game has arrived on the scene!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "189 MiB"
 }

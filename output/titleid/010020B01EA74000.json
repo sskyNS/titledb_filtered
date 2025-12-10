@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/baa0a8344bf2dd6fb89cf4f79ade5298d372d94b3315b99805e89ebc730caa0e.jpg"
 	],
 	"releaseDate": 20240717,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Use pizzas, fidget spinners or katamari of monsters to fight countless enemies! Master the \"Forge\" and customize the ultimate weapon in this comedy action rogue-lite survivor.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

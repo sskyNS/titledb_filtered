@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/58ba17c1d38327f9592c91cf4082ee7c9ab0a7b74b6533638d3a71cae83855d5.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "First Person Puzzler that throws you into a fantastic and surreal environment. You will bend the natural elements to your will in order to progress in this emotive, mindbending tale.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

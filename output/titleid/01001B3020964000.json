@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/68fc06e3d63338d37a73cf4ef82a2348d66bbbfdbeef0d83c1e3459bfb1071db.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Get into the driver\u2019s seat and put the pedal to the metal! The next part in the legendary Zombie Derby series is already here!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "177 MiB"
 }

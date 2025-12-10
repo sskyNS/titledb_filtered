@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf8d061b610f80c60770de01f321daaceab350c73ddc5b0cca200b78631ef6f1.jpg"
 	],
 	"releaseDate": 20230906,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Avoid rain, get stars,\nand run across the passage!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

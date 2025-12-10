@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/26a105d081811945137bea4f9630d2df1cf46e457a7b32b7edbc3c614f29d698.jpg"
 	],
 	"releaseDate": 20180316,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Classic Kirby enemies are his new best friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.95 GiB"
 }

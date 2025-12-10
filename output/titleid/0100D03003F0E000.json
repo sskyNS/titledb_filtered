@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e106228c48ae5bb50c0120f71f26203e61e5ae1622bc577b7e244c913ae2a80e.jpg"
 	],
 	"releaseDate": 20171205,
+	"category": [
+		"Action",
+		"RPG",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Co-op magic mayhem!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.60 GiB"
 }

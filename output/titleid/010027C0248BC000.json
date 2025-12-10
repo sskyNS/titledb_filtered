@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/af19fe4e92ea6f0c6c6c40e0b6a8d83fca27ddd46cbc7ea666c0ecb0c72307a0.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Guide your torch across towns, solve clever grid-based challenges, and rise through the ranks as a paladin aspirant",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/83be9334de8d23661a50bef7ce3f9b007098898ee09f8af5da1cecfb986c70f0.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Enter and explore memories from long ago. Relive moments frozen in time. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "852 MiB"
 }

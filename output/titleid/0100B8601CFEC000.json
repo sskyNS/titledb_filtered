@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ff446f0334cfc933b821d427f5c703af763bd7290445585f2389d93bc7687b9.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Step into a breathtaking voxel open world from the creator of BattleminerZ, where towering giants, forged from the landscape itself, roam the land shaping the fate of kingdoms. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "451 MiB"
 }

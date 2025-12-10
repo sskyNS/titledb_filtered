@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce109c94b354b59ec8dc5823caf3663a997698291349ffcc862ad624365d04ae.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Education",
+		"Board Game"
+	],
+	"intro": "Evolve your own animal species based on real genetics, survive and explore a variety of biomes!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

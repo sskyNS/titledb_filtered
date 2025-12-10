@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd7de50e1891d78bbd7af093f1501d50675774092a6d980d68d05265fa686f89.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Simulation",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Rediscover the simple life. Farm, fish, forge and fight in an all-new farming adventure. Featuring split-screen co-op, a helpful pet, and dangerous dungeons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "924 MiB"
 }

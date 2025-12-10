@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5c01e6e3af2f11dfee7ab04072d0bb0413a77711edf493607c0a89bf9c9554d.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Education"
+	],
+	"intro": "Solve 45 beautiful puzzles of kids going on incredible adventures like walking on the moon, flying spaceships or riding dragons!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

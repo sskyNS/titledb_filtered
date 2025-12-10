@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/cecb4a0cb32dfaeaff988e98a3aa81af6bf6feae07513d2f8824cbeda7780ca9.jpg"
 	],
 	"releaseDate": 20231011,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take back the cosmos in old-school shoot'em up style!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

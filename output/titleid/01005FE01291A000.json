@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/62d52cf0b82bbc52ce10c0ea8f7ddecc883fded7760b53d5af15baafc4bb597b.jpg"
 	],
 	"releaseDate": 20210910,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Enter a gothic world where your fate depends on a dice roll.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.28 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8fb90cb910d2bd9431a87a49cf78df2f667e052a13fe0617e6fe0bb2927ad2c7.jpg"
 	],
 	"releaseDate": 20230512,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Experience a dystopian future and bring down the government, evil cults, and even more villains standing in your way.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

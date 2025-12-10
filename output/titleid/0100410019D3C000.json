@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c100c58d522df7eeae61bea2f612db3aa80cdcf8ff346231422526e6071b15f8.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Corner Driver is a fast-paced arcade racer where you need to try and acquire all the coins in the game without getting caught by the police.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

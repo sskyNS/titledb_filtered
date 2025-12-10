@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09f317c59fb4b07d95ebf3af7d377fd7a20d8711a09e13ef035a99252459623b.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Climb, jump, and parkour through a flooded village to reach the finish!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "537 MiB"
 }

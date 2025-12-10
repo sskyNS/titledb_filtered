@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff4270fd8acf28c5a07fb2292a52024fd438ecd7f44b3a36f6a1b2673c0ff300.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Space is in a panic! Unite aircrafts by docking and power up to defeat the enemy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e54285443d02f8046031ecc18cc49916b014822b810ac8a67e3ea9452619a86.jpg"
 	],
 	"releaseDate": 20181225,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Explore the abyss!\n\nEarth, 3024.\n\nNatural resources are scarce and the survival of the human race is in danger. Desperate to find new energy resources, the ASAN creates a biomechanical robot called Nep2no that is capable of withstanding extreme depths in the hope of finding new energy sources. After many years of exploration, a new energy source is found, code named \"Gaia\".\n\nYour mission will be to find the \"Gaia\" energy stones by exploring the depths. To do so, you must control Nep2no by counteracting gravity and the surrounding darkness with the aid of a Light that will go out little by little.\n\nNew features:\n\n- 12 Original missions plus 8 in Dark mode.\n- Competitive two-player mode.\n- New Graphic Effects and remixed Music.\n- Online Leaderboard.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/72f46372fb79e106ab6b94899c127f3d6cc88da16a2959a8f82169239cfa561e.jpg"
 	],
 	"releaseDate": 20191121,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "375 MiB"
 }

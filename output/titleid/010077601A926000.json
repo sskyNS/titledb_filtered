@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fe2a9f6e083c88f1098a3635d64084e3a8c33866ea4282b31335e61fabc6edc.jpg"
 	],
 	"releaseDate": 20230512,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Fast paced infinite driving in heavy traffic",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

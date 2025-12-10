@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/21439266aac129369bb44ca7f4242ddf67ac40ced1c0597d671b355e2c0387e3.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Asterix & Obelix, return in a new adventure full of slaps!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.50 GiB"
 }

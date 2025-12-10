@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd99a4c84f03197df255344fb5a02936bc2ab402ade15cd2c6d21b7169140889.jpg"
 	],
 	"releaseDate": 20180713,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Be gross. Be evil. Be EPIC.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.26 GiB"
 }

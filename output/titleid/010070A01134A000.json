@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/042ec9208eb734d7c68c7e1b7a38fc3ba4d455c510000d877335dc1110b03ac6.jpg"
 	],
 	"releaseDate": 20200304,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Control a ball that's bouncing non-stop! Gain new powers and explore mysterious worlds! Puzzle platforming goodness at its finest! Do you have what it takes?",
+	"languages": [
+		"en",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "536 MiB"
 }

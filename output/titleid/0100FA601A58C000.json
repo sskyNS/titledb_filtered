@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0682798c6be66e2bd29a17f53337b3edc59e321061bf0c5b42d96fb3f0c89a98.jpg"
 	],
 	"releaseDate": 20230815,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Captain an airship through skylands, fight for resources and unravel secrets.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.32 GiB"
 }

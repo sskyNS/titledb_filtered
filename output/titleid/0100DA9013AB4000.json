@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/590f438fc091d85adeae185d06c460dbde7d7ac2487e28dbd97169fd43cab8fa.jpg"
 	],
 	"releaseDate": 20201221,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Combination of puzzle and turn-based roguelike mechanics. Destroy monsters, open chests! Smart moves are the key to survival!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "54 MiB"
 }

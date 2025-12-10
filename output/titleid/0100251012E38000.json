@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8268a0abb1ed492f0bed421b2e445fbb399b974b89cc712452176570edc11cc3.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Platforming & Storytelling *literally* go hand in hand on a journey about much more than love.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

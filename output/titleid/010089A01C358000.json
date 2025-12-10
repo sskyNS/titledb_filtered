@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae16d41ee83f65e7c5d20e019ab007ddaaf8badc66432834231cc5b51d3ab7e6.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "\u201cCook, Serve, Delicious!\u201d is a deceptively easy game to learn but incredibly challenging to master as you progress from owning a rundown zero-star cafe into a five-star world famous restaurant.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "208 MiB"
 }

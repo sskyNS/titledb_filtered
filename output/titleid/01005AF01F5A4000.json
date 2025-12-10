@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0b25df7f898289f6032ff1c36b415a4165f3dee84828881e9ab1691b8a75a0e.jpg"
 	],
 	"releaseDate": 20240913,
+	"category": [
+		"Action",
+		"Fighting",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Dive into a new and thrilling boss rush-style video game where revenge is the only motivation. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "305 MiB"
 }

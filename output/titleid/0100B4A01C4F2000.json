@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/42c6675786b6046fd9df5c4c30dd40c3b922ab46478facc2f76fc8d162fe6231.jpg"
 	],
 	"releaseDate": 20230829,
+	"category": [
+		"Puzzle",
+		"Sports",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Try and score in just one stroke in this relaxing singleplayer, minimalist golf puzzle game. You don't need friends or the internet, just play and relax with anytime with the game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

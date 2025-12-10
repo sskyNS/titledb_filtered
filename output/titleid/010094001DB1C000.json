@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2b36dfd4d0512135fe25bcf044649755710184480f33ae07b16acab5b2ef1a4.jpg"
 	],
 	"releaseDate": 20250805,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A nostalgic metroidvania adventure with insane weapons, skills, and pixel gore. Ride your BMX and blast your enemies as you discover the secrets of the wasteland.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.30 GiB"
 }

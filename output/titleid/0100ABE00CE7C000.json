@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a75c3a876b5def8367916f71ba8a5ef87f3d6cf7178dce865df990379238b39e.jpg"
 	],
 	"releaseDate": 20190410,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Endless arcade action with just ONE button - Switch directions whenever you shoot!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

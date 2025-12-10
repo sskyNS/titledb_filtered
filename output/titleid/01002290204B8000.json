@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7bb5e315b61506c7ad0c59ecfca05696217d474d64f2de46e0dbb02492d5c05.jpg"
 	],
 	"releaseDate": 20241007,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A creature-collection RPG where you play as a powerful necromancer. Summon hordes of undead and upgrade your necromancy spells to defeat your enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.81 GiB"
 }

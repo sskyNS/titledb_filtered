@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df77d999ac2755c7eab377583fe694493b573025b2ca907ae4cb8ddd71b4f32a.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Short indie horror game, featuring body horror and a sad and creepy story.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

@@ -4,5 +4,14 @@
 	"publisher": "Epic Games",
 	"screenshots": null,
 	"releaseDate": 20220601,
+	"category": [
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fall Guys: Ultimate Knockout flings hordes of contestants together online in a wild dash through round after round of escalating chaos until one victor remains!\n\nBattle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics as you stumble towards greatness. Leave your dignity at the door and prepare for hilarious failure in your quest to claim the crown!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.97 GiB"
 }

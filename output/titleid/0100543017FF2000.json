@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f5cbc8c81e3aae0919ee9893b64ef0d58270d20bec3b221bec0ccd1f8503bf6.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Party",
+		"Other"
+	],
+	"intro": "Enter the craziest casino and play for the big buck!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "650 MiB"
 }

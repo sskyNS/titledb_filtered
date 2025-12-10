@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/34b4b262b2fc2dce7fd8c458ced3205d754d412960e66fe1f038f63461f5499d.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Get ready to\u00a0Bark\u2019em\u00a0Up!\nJoin the Bark Side!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "405 MiB"
 }

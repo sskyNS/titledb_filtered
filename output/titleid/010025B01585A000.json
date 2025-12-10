@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5862a5347ba5d5587104c6aab3956cf45e6d8eb282ce18b1853225ca6760c93e.jpg"
 	],
 	"releaseDate": 20220601,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "DEATHRUN TV is a fast hardcore rogue-lite twin-stick shooter set in the world's biggest and craziest game show. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "746 MiB"
 }

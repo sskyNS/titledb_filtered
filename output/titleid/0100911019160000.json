@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/933a814dd3c3b6afed52300ba06f12fb89fc17239f093f4fa7774df6968b8118.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Win the heart of the boy of your dreams by proving that he can trust you blindly. Quickly answer the questions without making mistakes. This is the only way to win his heart.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "783 MiB"
 }

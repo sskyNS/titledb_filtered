@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e80de40fc73e20bc91043fe4da7fdf97b65d77d26de6b096c8a50cc6bd055d9.jpg"
 	],
 	"releaseDate": 20240202,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Find the Anima flower and save the inhabitants of Atlantis!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "922 MiB"
 }

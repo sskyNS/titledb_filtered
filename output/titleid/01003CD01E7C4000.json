@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/310017445d6ab732ef6695eb4d52b75eb708d71b85184b7fd1dc1a71438adcdb.jpg"
 	],
 	"releaseDate": 20240427,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Clean it up!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

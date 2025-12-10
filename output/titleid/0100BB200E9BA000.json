@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fc9c370c5ace380db5544ddc8968d9bae3eb2b58d4fdb55bde69487ed82350b.jpg"
 	],
 	"releaseDate": 20190621,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "SCRAP is a unique platformer in which you can't stop moving. The remedy to that is jumping.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "669 MiB"
 }

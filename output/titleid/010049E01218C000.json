@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc17f091f382b5f309d0d8a6f141a3eefe95e6ef35c5304c04034d677351d283.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Scratch that retro itch with this super-value pack of 8 classic Data East games. It's like owning your own video game arcade!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "271 MiB"
 }

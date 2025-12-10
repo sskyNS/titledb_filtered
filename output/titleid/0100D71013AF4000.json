@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/617c0ea24183f9d89006d4c6a63784b08bc62eadd2f86e14899c36855a5d936d.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Gemini is an action game in defense of the tower, where your objective is to protect the crystal while staying alive.",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

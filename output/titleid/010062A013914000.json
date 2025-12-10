@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/db8fd188e964772dbef970548d398aa787d4359081341110054837831116f04f.jpg"
 	],
 	"releaseDate": 20210301,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "A chaotic action platformer against The Black Duck Army!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "59 MiB"
 }

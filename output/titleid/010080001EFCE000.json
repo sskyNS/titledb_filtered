@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f56276b58262bcc3d08a5e4f86b7282a3118ff148e53b14fbaf146dd192e11ae.jpg"
 	],
 	"releaseDate": 20240906,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Three Famicom classics officially playable in English for the very first time!\u00a0",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "703 MiB"
 }

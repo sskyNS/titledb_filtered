@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc77fc754fc74ca43a18b39fb88ab8578bb543b58fe07396912cbc86d4b767de.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Party"
+	],
+	"intro": "Tiny Detour is a little relaxing story about a Broken Bridge on your way home. Head to the nearby forest village and discover very weird locals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "764 MiB"
 }

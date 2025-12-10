@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/64d1b88f3413d7c75c4f61a0e6315a22f1f6168c12495e797dd16c33672ec606.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "The fame awaits. And you don\u2019t do it for just yourself: you do it for the society. Enter the crazy neon racing world and become the hero of your neighborhood today!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.41 GiB"
 }

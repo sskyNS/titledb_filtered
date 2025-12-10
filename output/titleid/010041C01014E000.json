@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/26c76178398b57e390b717cc00d26507f75bf0b6bcfc11afea55fefaffb5efd9.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "It\u2019s a platformer where you don\u2019t jump, and a music game where you dictate your own rhythm. It feels like no other game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.16 GiB"
 }

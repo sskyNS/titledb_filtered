@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa22bd066582bf1f5e520ed627fc3e2cfc447ce6cdb14197fc025157159271e1.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Arcade",
+		"Music",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "A rhythm game full of chiptunes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.08 GiB"
 }

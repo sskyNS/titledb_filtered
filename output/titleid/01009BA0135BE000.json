@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/57b708ee648897e6d332062adba085c4625e0e2cb47ed84438975c162e45c47c.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"RPG",
+		"Action",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "Become the legend in this golf-action-adventure and save golf in the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "410 MiB"
 }

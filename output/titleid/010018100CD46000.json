@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/177cdfe2ebec70af3b6db3efedaec1f8f9a6b98c545951da3acf498355724550.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Fear You Can't Forget",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "18.72 GiB"
 }

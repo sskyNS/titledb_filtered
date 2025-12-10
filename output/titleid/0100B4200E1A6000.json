@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc94e8d5c0ffe072691db608095ad093d32d32c76e99db200cab632ba068bc08.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"Sports",
+		"Party",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Clear your desk for an all new way to play ping-pong!\nSettle the score with a Rainbow Smash!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "413 MiB"
 }

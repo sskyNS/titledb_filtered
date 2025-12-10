@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7af757bd9c936fa9efe0b770428a9feae503210cc947738c46292416e25352e6.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "After a catastrophic plague almost sweeping the world, The remnants of humanity have turned to genetic engineering to survive. ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.95 GiB"
 }

@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6245b5ac951d219ad3c841e351ddf5030122adac43cd7ad785300fb0ed5ca51e.jpg"
 	],
 	"releaseDate": 20221108,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Recruit\u2026Train\u2026Fight! The All Valley Awaits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.26 GiB"
 }

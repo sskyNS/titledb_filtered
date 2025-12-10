@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4d4353c91252dddecaa166bba5988b1c103f661d3886cfb3971b0612f625e3f.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "The Lost and The Wicked is a Brutal Twin-Stick Psycho-Thriller. After a shipwreck you wake up in a wicked world with no memory of who you are.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "910 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/680e1829b4d16a3d7b2fcd53b695bf8f1ddd0e902cc34ec91031662e4b2ef09c.jpg"
 	],
 	"releaseDate": 20241123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Party"
+	],
+	"intro": "4 Player Madness!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "144 MiB"
 }

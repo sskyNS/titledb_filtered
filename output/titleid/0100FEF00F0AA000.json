@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ad63e73e5f67eceae64e602455d24296d82882fdc1ca27afc1d9dfde9bdb1b0.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "True horror is back at the Chernobyl Nuclear Power Plant. Will you be able to survive it?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

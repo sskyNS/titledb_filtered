@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bb57d7fe670bc4c814425cddbf90ce3981b78c27908c6a5190058e71d8ea83f.jpg"
 	],
 	"releaseDate": 20180626,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Armed only with your logic and your Kube, move through the 150 levels outwitting the traps in the System, an evil, scheming entity, to confront the machine and pass the test!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

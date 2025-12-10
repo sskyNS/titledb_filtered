@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0f4f3e30466a7acb690983dec0d5d4ed8925b0ff908a40bd3fd9e851498b2b8.jpg"
 	],
 	"releaseDate": 20240605,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Democracy 4: Console Edition lets you take the role of President / Prime Minister in one of ten countries. You will then govern the country as you see fit, while trying to retain enough populari",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "577 MiB"
 }

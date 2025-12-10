@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/046979e9f20acff716faca3c7cc1e43b3f034cb1444f78f938705deaa490fb65.jpg"
 	],
 	"releaseDate": 20211116,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Welcome to the Deep Woods...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

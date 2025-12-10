@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b37f87357d0f2323dc888779c0fb6641ef455cab983c8ce161f4d732596dcb20.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Unleash chaos with crazy cards in epic weirdo battles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "289 MiB"
 }

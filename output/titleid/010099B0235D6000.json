@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/11e7d1b0a551fe1d1c7861ddaa60105f636cb66fbbcc02430b7e6e89a9075fc6.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Fight, Die, and Rise Again\uff01Step into a world of Roguelike \u00d7 Metroidvania, where thrilling combat meets endless loot-hunting.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

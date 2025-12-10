@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/006b764834066a838a877978dcd0358d7b3c6a4c00eb7788b929c9ca539c630f.jpg"
 	],
 	"releaseDate": 20250829,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Starfall Defenders is a classic tower defense game that features unique towers and enemies. It also has an in-game shop system that allows players to purchase better towers, upgrade existing ones, and buy special items like the Atom Bomb, Splash Bomb, and Air Supply.\n\nPlayers can earn coins for the shop by defeating boss enemies, saving lives, and unlocking new maps.\n\nBut Starfall Defenders offers more than just placing, upgrading, and selling towers. Players can also improve their gameplay by placing mines, blocking walls and electric fields directly on the path, and taking control of a tower\u2019s direction and target. This player-controlled action is a unique feature within a defense game that allows players to directly hit their enemies.\n\n* Shop system for buying and upgrading towers, buy specials\n* 8 upgradable towers (2 power-ups each)\n* Support towers, special attacks, path-placed items\n* Unique enemies\n* Unlockable levels\n* Tower Control Mode: Take control over the target and direction of a tower\n* Towers: Gun, Laser, Fireblaster, EMP, Cannon, Rocket, Flak, Artillery\n* Power-up for each tower: Damage, Fire rate, Range\n* Path-placed items: Mine, Electro Field, Block Wall\n* Support Towers: Power Enhancement, Range Enhancement\n* Global Specials: Big Bomb, Air support, Atom Bomb, Money upgrade (earn more money)",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

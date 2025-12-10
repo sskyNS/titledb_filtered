@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6399401facb053f15e1cf4fdbd6f26fe0ba1c748b7c5d2aa9860027d9b2f2b3a.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "XEL is a 3D action-adventure set in a sci-fi fantasy setting. Play as Reid, shipwrecked on the strange world of XEL. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.14 GiB"
 }

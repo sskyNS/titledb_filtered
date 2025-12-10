@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8f14de977c115ff56a39def2c35358f1ddb14967c98b3dedef0d496f0b63c59.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Party"
+	],
+	"intro": "Tee up the old-school fun with six classic Golden Tee arcade games, plus more!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "519 MiB"
 }

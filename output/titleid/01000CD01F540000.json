@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a3aeae0b9c8f9493f6d0d78ee89932398c64a2f416100fa37e12b73eb3685e1.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Training",
+		"Utility"
+	],
+	"intro": "Duck Creator\nCreate your Duck!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

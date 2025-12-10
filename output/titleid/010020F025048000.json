@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb7ad38b5351144d8c9cc09d4c119b21289b2b0943daa1e3dbb5de3186ae6a73.jpg"
 	],
 	"releaseDate": 20250909,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Finally, a game that answers the age-old question: \u201cWhat if a basketball was also an armadillo?\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "439 MiB"
 }

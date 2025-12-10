@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfc87103e0b9844b780ebfef000f65dc9040edc08940f9b030d5aaa1422b224d.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Nintendo Switch\u2122 Exclusive! Enjoy immersive battles with Ultra HD visuals! Stunning effects, weapon sounds, and team play create a captivating FPS experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.20 GiB"
 }

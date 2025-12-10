@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b3bfae6d9fa34f937fee994c245944c0059503b24585d6ef75cbb0f80b3322f.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Shooter",
+		"Board Game"
+	],
+	"intro": "This is  a RETRO-FUTURE breakout game.\nAll shall be blocks in this world.\nCreate your own stage and show it to the whole world!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

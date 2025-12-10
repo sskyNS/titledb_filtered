@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e0abfb33b2b3b748ff0e589df343bf53c4f3dee1bae7b93095e2560db733c59.jpg"
 	],
 	"releaseDate": 20220125,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Reverie Knights Tactics is a turn-based tactical RPG with strategic battles in isometric grids where every decision can alter the story.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.49 GiB"
 }

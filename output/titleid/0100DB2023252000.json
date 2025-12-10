@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0ced3a03be2fff008fb267293edbb193e6141ea029ae3135505ebbbecf5c115.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Get the crystals!!\nPlay in split-screen multiplayer for 1-4 players!\n30 stages in total. Normal and hard difficulty options avail",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "184 MiB"
 }

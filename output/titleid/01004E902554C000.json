@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9437887a4990c0dd123a04d752a9edee2df816a334f9591bed9b6e9d6591787.jpg"
 	],
 	"releaseDate": 20251216,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Patrol. Inspect. Intercept. Justice starts with you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.30 GiB"
 }

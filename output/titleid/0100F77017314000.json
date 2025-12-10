@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/059de3c55bfa106f30e7ce06f67482e448ae5ae8feaab23b26820915022b3f7a.jpg"
 	],
 	"releaseDate": 20230320,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "GET BLOWN INTO ANOTHER DIMENSION AS YOU EXPERIENCE THE GUT-BUSTING FUN WITH THE KUNG FURY GAME. BEAT THE NAZIS TO STOP KUNG F\u00dcHRER AND UPHOLD THE LAW!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "275 MiB"
 }

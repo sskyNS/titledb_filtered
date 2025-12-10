@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e414819e29ac30e5573629a5f685f749fba131f468f3c10cffedd02221927169.jpg"
 	],
 	"releaseDate": 20221130,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Shooter"
+	],
+	"intro": "Manage your airfield, take care of the pilots, repair planes and prepare to face your enemy!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

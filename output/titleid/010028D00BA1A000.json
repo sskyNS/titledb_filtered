@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/51ae93de58d18b690366f9c8372cd0697b56c4185c70ebc4cc166e4395637279.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "The Sinking City is an adventure and investigation game set in an open world inspired by the universe of H.P. Lovecraft, the master of Horror. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.69 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5f6ce5176bfab04a23e3771ea32342b5a597568194dbc4953fa3a67eb87cc8e.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Wipe out the Mechanikon hordes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

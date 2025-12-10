@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b2d109e1942e0c5665c47381ae02116debb393ed5bd0e204f5143d13dc99c47.jpg"
 	],
 	"releaseDate": 20200325,
+	"category": [
+		"Action",
+		"Adventure",
+		"Racing",
+		"Music"
+	],
+	"intro": "Nirvana Pilot Yume is the cure for your \u201880s sci-fi anime nostalgia. Turn on the neon lights and raise the volume of the synthwave soundtrack: welcome to 3080.",
+	"languages": [
+		"en",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "432 MiB"
 }

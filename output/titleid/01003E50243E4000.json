@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b42d6e717f3076b512c89a0350a2f648203b9f3ce828d107f30a21ede807075.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Bring castles to ruins in the most spectacular way!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

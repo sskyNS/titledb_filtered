@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/227115a7db88f102023c6719155d7976ea16fd812c64d6c951b6fbb54b91b895.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Tabletop Adventure Brought to Life",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

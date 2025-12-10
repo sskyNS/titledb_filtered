@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/914d998c66aa8dd70941dcaed548aa51660d67e324282198ed4151ac31ef9418.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Old School Arcade Shooter Action with a Food Twist!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "481 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e032c029b73b2ff2bb3826989a3cf6a78b68b443394d9004f6dd5ef443d5073.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "\"Twilight Monk\" combines martial arts action and exploration into an exciting 2.5D action RPG experience.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

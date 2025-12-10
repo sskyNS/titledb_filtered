@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/95e282d865f8a0eb822a1bd67f55ff580ace804a01074aa927d81adc2439af10.jpg"
 	],
 	"releaseDate": 20180118,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Go on an adventure as a small, one-eyed square, and traverse caves full of puzzles, riddles, and brainteasers! Discover 63 levels and the Level Editor!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c8993cb5de81ca39c3e1265f9ef7aeecd29d53d4657871e7021a769c09ce0dc.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"First-Person Shooter"
+	],
+	"intro": "A first-person psychological horror game of crime and investigation.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

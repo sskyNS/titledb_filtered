@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/078631d16dbebcd0f785ba58c395b824df16508fcd1026b9a08a5ac37803df92.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Simple, exhilarating mecha action!\nDestruction! Destroy! Let's destroy the Subete!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

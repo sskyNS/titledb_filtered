@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/410d234275a8f06c35f825a6076975c5a9b28e1cb8a5831eaf0686902ace727a.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "Conquer the barren wastelands and defend your raft from  zombies!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "385 MiB"
 }

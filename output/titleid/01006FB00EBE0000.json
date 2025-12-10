@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd63ff738d69769960642982e2a9503c46a90478759f06d0805d1f57496607ba.jpg"
 	],
 	"releaseDate": 20200519,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Why have friends if not to play Golf... With Your Friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 12,
 	"size": "5.45 GiB"
 }

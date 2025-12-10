@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e6cfa5e846bac397d45f8c44df3cd0efc463e9697891e80a1b67f69da489739.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "'Splode through this award-winning franchise solo or with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

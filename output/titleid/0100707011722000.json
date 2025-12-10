@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8577e553bd08d1e88d472e8f90b95f09821b495ce1f5b1543d724340c82d422d.jpg"
 	],
 	"releaseDate": 20200915,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Space Elite Force is a side shooter for up to 2 players in local cooperative mode.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "270 MiB"
 }

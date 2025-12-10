@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8672ce0ff4f6f16f64343e450549131ea45e9de6551dfa9c11599eff57d3fa6d.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "This pack includes the games: Rock 'N Racing Off Road and Rally Rock 'N Racing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "781 MiB"
 }

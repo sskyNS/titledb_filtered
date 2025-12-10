@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/162dbabde92bbf65260d5feb693c92190db5d052c999dde58f28f14eefd7c517.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Platformer"
+	],
+	"intro": "This is a Roguelike adventure game with Meta elements. You are a witch, yet not a witch. Step through the magic mirror, break the fourth wall, and uncover the real you!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

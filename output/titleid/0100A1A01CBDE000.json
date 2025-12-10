@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4a137cd7f1d47a2e1eef6acb985ab115f6250ac14d896429652a9ded748c35a.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Gear up for the ultimate challenge in Humans vs Tigers: Embark on a daring journey as the fearless hunter!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

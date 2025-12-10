@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1158f0b9ce23853ec21677de6a78fde7074e582a4aad95ec538276b5be9d010.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+	],
+	"intro": "\u300cThe friends of Ringo Ishikawa\u300d\u306f\u3001\u4e3b\u4eba\u516c\u300c\u77f3\u6cb3\u502b\u543e\u300d\u3068\u305d\u306e\u4ef2\u9593\u305f\u3061\u304c\u5dfb\u304d\u8d77\u3053\u3059\u3001\u3064\u3063\u3071\u308a\u9752\u6625\u7269\u8a9e\u3067\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

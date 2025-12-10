@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c371b57fa69a6bef22e6ebe06669d7aa80c52daebacd55e784e5294afd58dd6.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Become a giant walking dice and battle to the end of an ever-changing dungeon! Can you escape the cruel whims of Lady Luck?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c21656faf351b75692c4260287f6bcaf20238c885f18707777aca0a698dc3e24.jpg"
 	],
 	"releaseDate": 20220122,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A charming pixel art adventure reminiscent of the good old 16-bit era.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

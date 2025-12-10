@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5331dd41f239ff5be02d64b4a9259b66b989990fdd828027ea95c101093ffbc.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Voxelgram is a 3D nonograms game where solving puzzles feels like sculpting in three dimensions. Reveal voxel models as you complete each challenge.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

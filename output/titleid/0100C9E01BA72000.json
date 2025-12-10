@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed646a49305f769499f430bb75dc1b3f129dbba7cba4cd533bfc1c7370c4cec5.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Embark on a perilous journey to rekindle the eternal flame and save the world that is falling into chaos.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "817 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bd8b78368c9ef9ab83743db96ff347da65ddb21c698dba6c82c44aa021e949f.jpg"
 	],
 	"releaseDate": 20201027,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Smashing Bananas Time! Run Fly Swim Jump Ride to collect coins",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "285 MiB"
 }

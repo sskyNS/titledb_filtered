@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8731afad7c6148da2b3531fd2b66b7f727c2060c74e59c957dfc4b44ee37af29.jpg"
 	],
 	"releaseDate": 20180612,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Find it in Fortnite.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "16.61 GiB"
 }

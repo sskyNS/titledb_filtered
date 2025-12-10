@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e0fa4befa6ac3e45450c2943611b13427f230c0268bd4a01d7113c24e089089.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A single-player FPS game that fights against terrorists around the world! Overwhelming number of stages with high quality graphic! Weapons that excite military fans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

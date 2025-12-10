@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ca490610442ed772955cb57dda9476cbd6475c6306bdd5508faf5ec0d34f487.jpg"
 	],
 	"releaseDate": 20210918,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Local multiplayer game that shouldn\u2019t be missing at your next house party! Fight your friends with whatever toy you can grab and use it in your own unique way!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

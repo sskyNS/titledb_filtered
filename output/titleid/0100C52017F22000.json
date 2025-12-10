@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d58180277505069e2c3377b6fa53d786a18cb5bab0a37aef3ebce48934545321.jpg"
 	],
 	"releaseDate": 20220324,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Throw annoying people out of your truck. Collect points.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

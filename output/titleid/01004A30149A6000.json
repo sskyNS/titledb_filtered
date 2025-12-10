@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1946d9bc62e981bf5f6de69cdecf3cf042d5444c94247337244de3f6360db7f.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Open your own diner and create custom burgers in this management sim game.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

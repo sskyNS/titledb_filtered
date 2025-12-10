@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e00517e0dd848dd5b5e586645a730a96aa9f5c1ba7c315642489ec3a2d92a0ff.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Explore dungeons, grow stronger, and slay the dragon to become a hero!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "389 MiB"
 }

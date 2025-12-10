@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3db795b5b36f6b7a0ebaa045668bf070917a151f0475474b4f21bed35699c23.jpg"
 	],
 	"releaseDate": 20240504,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Travel to Rio de Janeiro with Touji to meet his date \u2013 Tainara. Solve puzzles to unlock the story and discover what outcome awaits.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "894 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/55989786cd6eb5d2cce08ffb5cd4dced7278135d978c2022f212f6c08d3097be.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Felix the Cat returns in his greatest adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

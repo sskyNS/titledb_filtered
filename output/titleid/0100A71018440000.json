@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a812e42e12b33ec5718c0c171514860e1661cb5c94d7bfb5a0d19956604f11ab.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "Become the deadliest delivery... cat in the world. Intense fights, multiple weapons and demanding boss fights. Join Kimuto on his hardest first day on the job.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcdeca4b9aae3981df1d00f9636a5dc6ae796aa79d585d35df4735179d7c2b2b.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Join the Ice Queen and her Frozen Friends in this endless jumping adventure! \n\n \n\nHelp the Ice Queen escape the frozen forest and make it back to the kingdom all while avoiding evil monsters along the way! \n\n \n\nCollect coins and use them to open up MAGIC treasure chests filled with more Frozen Friends tocollect and play with! Play as Black Beard, Greta Goblin and MANY, MANY MORE! \n\n \n\nAlso use your coins to buy POWERUPS to last longer in this endless frozen adventure! Magical powerups like the invincibility shield will help you avoid enemies and reach high scores! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b232cb6d27d042edf980bbe976a0e1ce2f32b06b282c4352566c76cd7beb926e.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Adventure",
+		"Education",
+		"RPG",
+		"Study"
+	],
+	"intro": "BookyPets Legends is an adventure, exploration and collecting videogame, designed to encourage reading among children from 7 to 12 years old in an easy and fun way.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

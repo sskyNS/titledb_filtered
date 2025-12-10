@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d69c67583b0bd8218c27cfc867e8908e0c74987f2a70e20c81d399ceceb452fe.jpg"
 	],
 	"releaseDate": 20200612,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Half dead is a multiplayer sci-fi game about a violent TV show. The players' goal is to survive in a network of rooms full of traps.\n\nKey Features\n- Claustrophobic feeling in the small rooms\n- Feeling of uncertainty and excitement about what is there behind the door\n- Shoes that you can throw\n- Campaign\n- Local co-op (Vertical and Horizontal split-screen)\n- 6 game modes\n- Futuristic network of rooms\n- A bunch of deadly traps in each room",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "241 MiB"
 }

@@ -7,5 +7,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b11039b2fa8ead2069fb463639a38726ddf7772c680ec9f59353a7f3b4538be8.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Two games of add up to 2048 and a connect the dot puzzle game.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

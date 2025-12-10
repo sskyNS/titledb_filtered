@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3a3d96a980cc7e1d88f2b4acbf2c1b6d0ff8cf66a0ab43abc1be0d03032ffca.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Master the four elements if you want to survive",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

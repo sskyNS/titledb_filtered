@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/51ff9743f84b68a95a97cb0e89951ee4ca545c33606a420ace7bd7ed29580722.jpg"
 	],
 	"releaseDate": 20231017,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Embark on a 3rd person action-adventure quest to avenge the death of your parents at the hands of the ultimate alpha predator: Gaw. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.84 GiB"
 }

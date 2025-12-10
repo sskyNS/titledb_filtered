@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ad692876cd43a91ad985c49e83429e496597173f5b103c1f49e6c5e200bf0bb.jpg"
 	],
 	"releaseDate": 20200429,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": " A captivatingly eerie tactical turn-based RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.00 GiB"
 }

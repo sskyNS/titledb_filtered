@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e24db9224dbe62f4276a7b8f2b713810208f794b6aaea8d2d1cc5707af52cf6.jpg"
 	],
 	"releaseDate": 20240302,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Get ready for intense buggy races packed with action and excitement!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

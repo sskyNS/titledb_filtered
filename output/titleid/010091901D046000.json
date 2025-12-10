@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/554714691c05af7e6379e8ea96ea245e97c95c23a652b1dad6a74f9249df08e2.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A wild tale of conspiracy, loss, friendship, and... chickens?! Two rooster detectives are about to venture into the insect underworld to uncover a worldwide conspiracy!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

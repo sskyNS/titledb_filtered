@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d7f9bf6fee9cac66caa19519dbbb9142f76a43beaac4f20c3d3f340b282f762.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A fun and challenging match puzzle game where you have to match colorful fruits to make them bigger!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

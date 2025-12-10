@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/68f0161a549a5cc2ab2edd87d9adab86266e871c7773e9a90f367c4fb85bd750.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Education",
+		"Study",
+		"Training",
+		"Other"
+	],
+	"intro": "Learn the capital cities of the world in this fun quick-fire quiz game! Answer correctly before time runs out, or it's game over! Gradually improve your knowledge of the planet, and prove to your friends that you're the capitals expert!\n\n\u2022 How well do you know our planet and its countries? Become a professional!\n\u2022 Every capital of every country, with national flags\n\u2022 Match the flags with their respective nations.\n\u2022 Learn the location of famous landmarks around the world!\n\u2022 Teach yourself the currencies of the world, and where they are spent.\n\u2022 Learn local regions and their capital cities.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "445 MiB"
 }

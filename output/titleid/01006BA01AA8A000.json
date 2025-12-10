@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/74e9a0ed776b232b33a5c5ac7b6afb90f53bab144b91c8421fd4ce8cdd5e96a9.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Action",
+		"RPG",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Mow thousands of enemies with a growing arsenal of weapons and magic, solo or for up to 4 players! Classes, Ultimates, Perks, and Buffs await in this online multiplayer survivors action RPG!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "277 MiB"
 }

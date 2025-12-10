@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/42ca01933f5d7d22c90aa6bcca3cc79b9de047e53cc05a3f57ae4d5e37bf98bd.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Real-time strategy, deconstructed.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "228 MiB"
 }

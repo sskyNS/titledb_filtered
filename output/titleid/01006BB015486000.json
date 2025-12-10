@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11937fe98830218fabd0b061d8187a41bde0392ed3733825851d4ab1ed50f43f.jpg"
 	],
 	"releaseDate": 20230227,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The Anomalous Locations Research Company sent you a letter to visit the Anomalous Forest and find a special radiation stone. However, you meet green creations and unravel the long-term secret of the company.\n\nUnlock new endings and variations of the storyline.\nDestroy the green creatures of Satanella.\nSolve puzzles and don't stand in one place - danger is absolutely everywhere.\n\nFollow your own path, do not listen to anyone - otherwise he will lead you to a dead end...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "574 MiB"
 }

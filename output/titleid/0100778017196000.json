@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11030834ea2603a08d4de9132bf5e800f9823a3d1fdf8c4b16a3209f2a5cd437.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Strategy",
+		"Action"
+	],
+	"intro": "The ultimate physics-based, sandbox battle simulator where you can create funny battles between all sorts of ragdoll creatures! You can also make your own monsters with the unit creator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "329 MiB"
 }

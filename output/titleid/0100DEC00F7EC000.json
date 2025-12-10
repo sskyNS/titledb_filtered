@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdae1fdd20de58b4317bbd1a9391e83f20287c5435baaee98d4cac6f96c65ddd.jpg"
 	],
 	"releaseDate": 20191025,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Become the pizza magnate! Create the best pizza in town!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "292 MiB"
 }

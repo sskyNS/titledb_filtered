@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc147ba7c46002a010369b25104cdc42a67a77e240e9655133bd24539f2f87ff.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Put the pedal to the metal! Skillfully control your vehicle and use all your driving techniques to make it past the checkered flag!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

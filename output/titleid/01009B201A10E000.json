@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b9c83cec4ad901c5ed36e6397f165a74013fe43339c1af5295b7ca95ccf22a5.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Race through caverns while blasting away enemies and terrain to reach the depths of Mars in this reimagining of the 1981 classic.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "550 MiB"
 }

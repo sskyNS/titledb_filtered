@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7524d438c192d2017b6e2392bfa305c71ba6541c5210a2ba91f9dbf735250ac.jpg"
 	],
 	"releaseDate": 20230512,
+	"category": [
+		"Racing",
+		"Action",
+		"Party",
+		"Sports"
+	],
+	"intro": "It's time to take a RUN on the rainbow of colors and FUN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "507 MiB"
 }

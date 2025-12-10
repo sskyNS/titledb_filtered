@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcb9d9ff15bedb1c43f1c8c9ded0caf9d66ad2b8a927b0ef20ac257e3c951ab9.jpg"
 	],
 	"releaseDate": 20250109,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Roguelike x Tower Defense x Card Game \nA genre-blending real-time action card game",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

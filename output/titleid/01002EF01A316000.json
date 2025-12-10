@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1593f6dd6262af095c83667ed92c9733971cd52deb83d274b6367c6e005fe7e.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A top-down arena shooter roguelite",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "333 MiB"
 }

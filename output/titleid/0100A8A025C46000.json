@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9999cf9ca56c7b4038c49c94494dc84fd5fd72fcb7f47f883beaec0293966941.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A dark RPG Roguelite where every choice feeds your sins.\nAssemble cursed heroes and survive tactical battles.\nFace the Sin Lords \u2014 manifestations of the deadly sins.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1015 MiB"
 }

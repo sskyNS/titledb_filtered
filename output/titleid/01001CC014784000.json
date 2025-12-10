@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4fb863483911313e98da68deb081626b32c67b05b78d8403f32ccbb6259c49f.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Snake Eyes! \nTest your luck of the dice in a Vegas Style craps game.\nMultiple Craps tables to pick from. Bonus scratcher games for easy wins. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

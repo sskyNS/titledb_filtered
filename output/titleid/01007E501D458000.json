@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8403439bd2f8fbc3ae6d9d14dc1228671f3e817c32d89da2e1446279c81808d5.jpg"
 	],
 	"releaseDate": 20241122,
+	"category": [
+		"Action",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Spirit Mancer is a colorful 2D hack'n'slash sidescroller with deck-building elements. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.95 GiB"
 }

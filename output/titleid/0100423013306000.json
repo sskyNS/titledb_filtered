@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/19e757fb762cee937054845d8c3eccc336db28035d955309b1ddde61862a5ae1.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "An adorable puzzle game about being a monster and making friends.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

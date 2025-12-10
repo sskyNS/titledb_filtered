@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e73ead398e456aec79c5753738402e68e9e3cef992125a4c6e3304585791aa1e.jpg"
 	],
 	"releaseDate": 20171117,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Classic shooter action with modern features!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "109 MiB"
 }

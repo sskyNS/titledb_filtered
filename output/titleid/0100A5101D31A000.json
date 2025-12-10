@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c0d461f8419ab9ad90d870d1d3501afc6d53bd4be72b9854e2765e53846645c.jpg"
 	],
 	"releaseDate": 20240112,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Other"
+	],
+	"intro": "Roll your coin along the Coin Rush twisty road track and get a perfect hit right into the hole!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "375 MiB"
 }

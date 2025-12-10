@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ade6682de9a4babcfc668d31794c29c19e2e9fd2a11114229228c5b5082b1c8c.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "From birth to adult, explore the relationship between children and parents.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "954 MiB"
 }

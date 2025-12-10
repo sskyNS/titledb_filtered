@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d86b42ba3165080946e80cefad9081a1e413dae487fd334e981558c612e2ce2b.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Hang on tight in this on-rails puzzle adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

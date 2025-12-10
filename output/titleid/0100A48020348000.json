@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd780e7d522996d8eb2863c8ba5295b51844e432a232e662d2254bb2a3be38e4.jpg"
 	],
 	"releaseDate": 20240730,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "In a distant galaxy, a young alien named Lira is accepted into the prestigious Star Academy. Lira and her friends must join forces to protect their school and peace in the galaxy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "241 MiB"
 }

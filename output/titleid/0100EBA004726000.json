@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b07e6d89a72eeb358d9682123429e8c631c25c16e3d04c735cf8ba64f574db89.jpg"
 	],
 	"releaseDate": 20200512,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Crime doesn\u2019t pay \u2013 Unless you\u2019re a bounty hunter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.21 GiB"
 }

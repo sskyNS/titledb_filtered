@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f4cfdc22757faccd89eeda8c476bb017a4199cb025fdd965b1674b74eecab99.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Nobody leaves here alive!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.33 GiB"
 }

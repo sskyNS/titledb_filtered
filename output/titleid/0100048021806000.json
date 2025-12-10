@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/13f003a331f931fda48bc5933ecdc59c6b1dd0a7785c340a03c0d9a4e38adfa1.jpg"
 	],
 	"releaseDate": 20250329,
+	"category": [
+		"Racing",
+		"Simulation",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Drive, explore, conquer \u2013 the city is yours!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

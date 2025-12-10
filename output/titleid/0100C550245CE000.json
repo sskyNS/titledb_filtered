@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddf9f5335e7f555c0be02c73560d6f9cdf54ad192d52bb84a66cdf8028e2166a.jpg"
 	],
 	"releaseDate": 20251105,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "The Fable: Manga Build Roguelike combines manga, tactical puzzles, and roguelike gameplay into one thrilling experience.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "340 MiB"
 }

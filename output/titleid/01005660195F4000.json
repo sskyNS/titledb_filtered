@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ad6eb2ac7d6ffa4fdaeac5b54087065c08e7d9d3fa780bdf0a818bef590667b.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A party of goblins, granted magic by an ancient spirit, wanders the archipelago, fighting back the terrible Fog. Wield elemental power with wild repercussions in this open-world tactics RPG.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

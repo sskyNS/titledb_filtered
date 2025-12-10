@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4554f8889a67ff0aba6444a749e0de8421c312f05918994b83627ff7acd09fc.jpg"
 	],
 	"releaseDate": 20221227,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "The new king of puzzles has arrived!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "617 MiB"
 }

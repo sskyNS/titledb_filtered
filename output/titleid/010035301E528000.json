@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/513ad67ef14c01ffbe883c1c7ca236f3de38166b5fc1b33b1c73aa90bf884712.jpg"
 	],
 	"releaseDate": 20240423,
+	"category": [
+		"Party",
+		"Arcade",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Step right up and try your luck at 10 fun-tastic boardwalk arcade games!!!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.40 GiB"
 }

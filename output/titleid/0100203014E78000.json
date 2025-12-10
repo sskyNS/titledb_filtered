@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/55522f08aff7d8c47a78753d7d1aeae0ea88ee74cffd6aa09949df76fbea4793.jpg"
 	],
 	"releaseDate": 20210514,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Help Explorer Dakota Jane navigate herself in this classic jungle adventure.\nMatch 3 balls or more together to advance further into the jungle. Use the bubble shooter to shoot balls to match its color to destroy them.\nLots of power ups to help through her challenges as they get harder and harder.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

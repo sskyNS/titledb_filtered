@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cba63791bb016fcfe442732156ea6c6085a6ba59903ad02c847a43cd815a0bb.jpg"
 	],
 	"releaseDate": 20250805,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Lila's balloon has escaped! Help her and her friends find it on a journey filled with games, clues, and lots of friendship.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "161 MiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a69861b135893985476ef57a64edcba3b794dfbb22ab048f724d0c8fd1758357.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The Viking's Games: Madness Fight is a fighting game for 2 players, where you move your arms madly to try to hit your opponent and win the fight.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "219 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/32d61daadc0855255f9754e4c271c28a3fe8ffb06c23a87cc91ced46c4abdfbb.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Pure Mini Golf is a lovely no-frills mini golf game that brings the relaxing vibes of the putting courses at your fingertips.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "204 MiB"
 }

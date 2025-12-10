@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9a294b3e097b177cfcb49f6ef1fc3a7ca375032689f8d869203b38ab3194f31.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30d1\u30ba\u30eb",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u541b\u306f\"\u51c4\u3044\"\uff08Super\uff09\"\u30b1\u30fc\u30d6\u30eb\"\uff08Cable\uff09\u3092\u6301\u3063\u305f\"\u7537\u306e\u5b50\"\uff08Boy\uff09\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "355 MiB"
 }

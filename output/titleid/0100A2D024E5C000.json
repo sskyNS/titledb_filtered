@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2670f9ff01c0fbda1ec18a81b0ce535ab12260c6d8b058ae671da3a70864666c.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Get ready to stretch your brain and your belly \u2014 the cutest lunchbox puzzle is back with even more satisfying challenges!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

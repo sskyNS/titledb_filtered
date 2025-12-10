@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/636819989d1c91e1eac25ee7c31f1447be01e024d6dfae3066b45f7cbff03c07.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Action",
+		"Sports"
+	],
+	"intro": "No track is too big, no racer too small!\u00a0\u00a0",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.05 GiB"
 }

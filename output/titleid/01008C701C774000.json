@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba3792057751f4b0efbff135ee0d9882672e5b0271a26b3dd12eeb89912fab15.jpg"
 	],
 	"releaseDate": 20231101,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Extreme battles versus crazy bosses in this Intense 2D Platformer",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.24 GiB"
 }

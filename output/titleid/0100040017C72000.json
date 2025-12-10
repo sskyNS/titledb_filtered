@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ad0763fa88090006dcadca0422f93e479e052ac551b8256d74a74a40d13004c.jpg"
 	],
 	"releaseDate": 20220301,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Just mini golf playable up to 8 players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "114 MiB"
 }

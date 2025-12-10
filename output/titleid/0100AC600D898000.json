@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eef14132e57160265dac8b505f45f1abfc6a0fd3190aa0878b8f57a25b8b649.jpg"
 	],
 	"releaseDate": 20191217,
+	"category": [
+		"Platformer",
+		"RPG",
+		"Action",
+		"Other"
+	],
+	"intro": "Loot epic gear as you progress through the dungeons. Find new weapons and accessories, grow your power!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

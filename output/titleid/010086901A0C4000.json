@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f08d8e166bf2207869442f08dbc1b90fb17b1f1c2bc90a7b33bfaefcfa2d0149.jpg"
 	],
 	"releaseDate": 20230125,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the isolated moors of rural Victorian England as you uncover the mysteries. The answers lie in the soil...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "920 MiB"
 }

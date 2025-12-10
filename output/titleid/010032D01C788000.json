@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/32352cc1af58b4b216ad7fc84fb9c4c0066fda6faf96af0acea6886a8d2e5ae6.jpg"
 	],
 	"releaseDate": 20231212,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Explore vast worlds in this sandbox-like 3D adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "364 MiB"
 }

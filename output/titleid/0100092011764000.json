@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a16a86ec74990c9bed618f34ba1f69fc155b049f7ed76b92bbe664bde4e1b3c.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Enjoy learning and becoming stronger even though you\u2019ve never played Go!",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "529 MiB"
 }

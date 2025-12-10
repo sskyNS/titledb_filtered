@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3d0a5b2435a883a82b50ec0ef162fcdad21d02e4f209a8d36f7ca2c93682296.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A single play TPS game that overcomes crises and fights aliens during space exploration! High quality graphics with overwhelming number of stages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.72 GiB"
 }

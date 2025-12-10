@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c649703367d883e244c5d12261e5f451384c5451d7dd25ad059e47aafd5ff67b.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Training"
+	],
+	"intro": "A Japanese Train Operating Simulator Featuring Real Footage!\nOperate one of Japan's most famous mountain railways!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.05 GiB"
 }

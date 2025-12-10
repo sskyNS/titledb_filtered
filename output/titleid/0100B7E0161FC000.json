@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8803b5f8564493c63ff3fd4c06c6e2484d0be00f3a6a501b8006da75c405388.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Run and gun through hand-drawn, cartoon worlds, brimming with monsters and aliens... And save the Solar System with the Bear & The Admiral!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "644 MiB"
 }

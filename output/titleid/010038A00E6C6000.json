@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/710c57776891ccb0d8be7a2a8f762b9d796b9da6e57238b1aa66687788c104ac.jpg"
 	],
 	"releaseDate": 20191129,
+	"category": [
+		"Platformer",
+		"Action",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Don't you just love cats and kittens? Strike Force Kitty is a funny, casual platformer with light RPG features! Command a squad of four cute kittens to save an adorable princess!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "519 MiB"
 }

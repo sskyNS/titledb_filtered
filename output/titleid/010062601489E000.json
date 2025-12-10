@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1eaef4f269c06d79d7247cd5a8877901dae5df0aec5a50ca7464a1edcdf6661.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Action",
+		"Party"
+	],
+	"intro": "Hex Gambit: Respawned is a quirky and competitive digital board game for 1-4 players that\u2019s easy to pick up and hard to put down!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.08 GiB"
 }

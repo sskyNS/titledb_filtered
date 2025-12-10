@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/383b462ea1db41f2b990e29c012d0e0c768375d483c5091ebfbe95a4ed6f8624.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Across 140 levels, teleporters, slippery surfaces, conveyor belts, and many more mechanics await you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "285 MiB"
 }

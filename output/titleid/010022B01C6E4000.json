@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c1c3ce5d34d7e58ee97351cf31645f170ba6c00d706961cd148d564dec506b.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Enemy down!\nEnemy down!\nTake them all down!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

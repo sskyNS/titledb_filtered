@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd74d25fecc0197cb0f816d3e966cfc1b91f8825f4b9f4aba4ac62d7c8085a5b.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Utility",
+		"Other"
+	],
+	"intro": "Cat Clean Ocean is a fun game where you help a cat clean the ocean and save marine life!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

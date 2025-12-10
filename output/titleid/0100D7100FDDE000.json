@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b914e0aa1c3d49547bdab7631e846764051e1abeae5908ec4e7d7e5a22fb0dc3.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Overcome creatures of the deep and unravel the islands secrets in search for a way back home.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "840 MiB"
 }

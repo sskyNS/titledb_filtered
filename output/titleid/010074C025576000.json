@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9dd186b9fe94bee6fedd047971d61905ff9a0712769a13515454fb2e938faea.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Study",
+		"Adventure",
+		"Music",
+		"Education"
+	],
+	"intro": "A young dinosaur named Roar, who can't roar, lives crazy adventures at the Dino Party. Can he become the Rhythm King of the Valley?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

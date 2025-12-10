@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d62cdfba4c147a2bd93a48f12aa4b47dba01635972144b9b91b76b754e6d428b.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Trapped, Lost, Hunted. Can You Escape?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "853 MiB"
 }

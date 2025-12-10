@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a33a297c35ca0c090d7bb780a6aeb4bb664edf2dbf43524dec01f931e6a843f.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Crime Does Pay!\nPlay as a Gangster or Cop. \nOver 500 Puzzles to Solve & Items to Create",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "290 MiB"
 }

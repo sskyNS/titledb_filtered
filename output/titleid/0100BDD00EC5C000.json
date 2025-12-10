@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/097e2fbed554a765a09cfc92971abfcd782f3f6e68563a3663ceb068e9eca794.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "A modern take on the retro arcade shooter. Super Mega Space Blaster Special Turbo is a fast-paced frantic blast of a shoot 'em up (shmup) with loads to unlock and leaderboards to climb.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "681 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/01aa9714a4cd919e616a52a90d3775c93d05058e52fbf9a11284af233b2ffff4.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Simulation"
+	],
+	"intro": "Select your protagonist and explore a variety of terrible fates!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "772 MiB"
 }

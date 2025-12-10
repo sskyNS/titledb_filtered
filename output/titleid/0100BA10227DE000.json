@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/29f226aefa7c5374e9b8fca27cd817e4069fe8c1f6660b39ac908249772453c2.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore 3D space and escape",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5a9af55b4b52e73dc290ad2558269acfedfb178fd8b5304815cd4be40e62b85.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"\u52d5\u4f5c",
+		"\u8857\u6a5f",
+		"\u5192\u96aa"
+	],
+	"intro": "\u300a\u4e16\u7d00\u4e4b\u77f33\uff1a\u88fd\u9020\u8207\u7834\u58de\u300b\u662f\u6b3e\u5854\u9632\u7684\u7b56\u7565\u8857\u6a5f\u52d5\u4f5c\u904a\u6232\uff0c\u5ef6\u7e8c\u958b\u767c\u5718\u968a ACE Team \u4e00\u8cab\u7684Monty Python\u5e7d\u9ed8\u98a8\u683c\uff0c\u73a9\u5bb6\u5c07\u64cd\u63a7\u4e00\u584a\u5de8\u5927\u7684\u6efe\u77f3\uff0c\u4f86\u963b\u64cb\u6575\u4eba\u7684\u9032\u653b\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.56 GiB"
 }

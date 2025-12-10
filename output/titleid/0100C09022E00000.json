@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/72df541f4e08d411804f3889b70e912dfc3db07920bea11a0e7f46023e71167f.jpg"
 	],
 	"releaseDate": 20250531,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Other",
+		"Simulation"
+	],
+	"intro": "A Hidden Planet. A New Hope.\nExplore, build, and survive in the mysterious world of Planet IX.",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "522 MiB"
 }

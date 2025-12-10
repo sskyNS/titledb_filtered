@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5529f55356244a7c8d5e2266f92f22a5f6a3214ff5d5cc2b4ad0d3741f369ea.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Aqua jet racing: Feel the rhythm of the waves!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

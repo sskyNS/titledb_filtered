@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa5c17fdc2ad7239b21ef453b26fdf1e405a930c38ab0d8ce3b78aec326d8d13.jpg"
 	],
 	"releaseDate": 20181026,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Practical"
+	],
+	"intro": "People's lives are in your hands!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

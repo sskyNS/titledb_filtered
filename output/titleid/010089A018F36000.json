@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcaaf5f63b56917abb00bada77ceb9d82e036c24c58891911079030a084f2d4b.jpg"
 	],
 	"releaseDate": 20221028,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Vylan is a 100 level platformer with the most unique movement ever! In Vylan you have to beat each level within the time limit to proceed. Can you do it?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

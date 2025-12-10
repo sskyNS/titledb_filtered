@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18000b814ad72552d81ca22105791ba5085224f192eb622265fa1ac0b8a747f0.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A journey of relaxation awaits. Dive into a world of tranquility with Unboxing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "338 MiB"
 }

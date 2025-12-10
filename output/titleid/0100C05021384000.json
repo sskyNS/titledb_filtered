@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdc001a1faec5a753baa1eab2fc6a53fef5c022d3a55b4d372a7469df8ffa646.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Racing",
+		"Other"
+	],
+	"intro": "Guide your bird south, stay with the flock, and soar to the finish!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

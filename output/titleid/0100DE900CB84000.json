@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/08974c761389927f0257cbddc68769122231bb8fb4a776efaa130d6517e7a870.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Party"
+	],
+	"intro": "After 99Bullets and 99Seconds, the saga continues. Now your problem will be the movements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "120 MiB"
 }

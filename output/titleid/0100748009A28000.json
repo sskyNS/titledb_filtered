@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e8396e8c219d6ecaa8951cadb3e154ddfb62733db0811b5ca603dfd9854d8bf.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Meet Samuel, he\u2019s handsome, wealthy and most importantly \u2013 dead. A deal with Death gives Samuel one last chance to live again if he can survive a whole day doing everything manually.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "351 MiB"
 }

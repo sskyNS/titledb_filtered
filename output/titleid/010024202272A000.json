@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbfa6e8f7dec9eecf5b64eb515d480e6fdf3bedbc0e36f5080f94f1155fa037e.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Education"
+	],
+	"intro": "A classic board game for fans of strategy and logic in the style of ancient Egypt! Immerse yourself in the atmosphere of ancient pyramids and prove to everyone that you are a real pharaoh!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "118 MiB"
 }

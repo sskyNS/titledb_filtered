@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/266e0c3bdfa3c187e8a048fa8303bf47418efd351647e5b251f996beee28f8ed.jpg"
 	],
 	"releaseDate": 20230624,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "BroodStar is a classic arcade shmup with roguelike elements. Acquire crazy item combos, encounter strange events and fight challenging bosses.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "357 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc8e74d449f00c07a97a192b43115996548e6dfa7f064c310cf05e8655fa425d.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Join the Rogue Aces today as Wings Mc.Pilot & Co, in this procedurally generated, adrenaline-fuelled fight to the last plane! Avoid incoming fire from land, sea and air while taking back the captured land from The Baron!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/665f2637f2d654d81fd85f8e1db5d83fcfa2e39888f8ddf9d9327449fa569b89.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "In this short point 'n' click adventure, you are Star Seeker - a WIZARD solving a WIZARD crime to not get put in WIZARD jail by the WIZ- I mean, PLAIN OLD cops.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b1942f31990de263d78dfc85260b66e26382fe50f5a605843a3a24efee5f213.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Platformer",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The hero journey turned on its head! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

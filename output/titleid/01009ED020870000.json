@@ -8,5 +8,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d921f6b76c2fbf94cb2848de06a218bd6091371b01ac98a93bda346f8f09ba5e.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "A tale where slimes are actually the heroes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.75 GiB"
 }

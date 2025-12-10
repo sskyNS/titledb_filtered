@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3450632ff66eaa7be68282dd661043f03802d06a33115dc5e6292121f133396a.jpg"
 	],
 	"releaseDate": 20231121,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Open-World Train Driver Simulator! Can you handle it?\n\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "514 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae70fd262c4dcb34eccf9fa4f52de5854a6c92c0ab18b28258c1dc1272ad9bb0.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "The newest action game that makes feel nostalgic is born here now.\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

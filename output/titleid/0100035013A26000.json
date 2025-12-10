@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/80995c42dd9a7420700f09c85176829f602c36315c62d07ee68989b2c08b2e96.jpg"
 	],
 	"releaseDate": 20221118,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A story-driven adventure spanning a lifetime, following two doctors traversing through a dying man's memories to fulfill his last wish.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

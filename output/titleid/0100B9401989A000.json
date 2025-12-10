@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/632d517932f562ec00adadb52e8f404a067e6f8c17db8aba4f325ec7f74f1196.jpg"
 	],
 	"releaseDate": 20230314,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Think strategically to place tents in the peaceful universe of Tents and Trees, a puzzle game set in the great outdoors!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "151 MiB"
 }

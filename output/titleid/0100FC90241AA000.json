@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f25cf566d8e2104f052cc71796de22f50d094cdb481896d406d308a1993f3a3f.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "The final arcade battle in the cursed lands of Trasmoz begins. Are you ready?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "102 MiB"
 }

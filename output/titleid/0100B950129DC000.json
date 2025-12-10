@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e113400cc50dd49e1aa8641e0ed3caeffebc1ef00a06730f55fc7aed16097f9.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Music",
+		"RPG"
+	],
+	"intro": "LUNA The Shadow Dust is a fully hand-animated puzzle adventure, brought to life through wordless storytelling, beautiful cinematics and a breathtaking original soundtrack.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

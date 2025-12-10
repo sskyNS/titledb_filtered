@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/50557e234e24c51635b884a1331df623e493238d2de8da4a114f8abcfa01f467.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Dash, collect and celebrate!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "747 MiB"
 }

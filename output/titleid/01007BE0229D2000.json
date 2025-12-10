@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5f110efe9e1dea435d4e71e6f26784b356d83a6d97c941a06fc38c57fbc1729.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Enjoy happy pastime together with your beloved pets.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "464 MiB"
 }

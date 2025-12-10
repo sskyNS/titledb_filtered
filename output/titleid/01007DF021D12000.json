@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5e19daf3c17bf0627ee18e7f4d220cb1ee930b9ba55f0cf370631790550743c.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "The great adventure of the little Magi begins!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

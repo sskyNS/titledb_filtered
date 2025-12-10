@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc3dfd7d625d684878e83e17c84d7a27bcc3cbe90dec3f1bac2304277393fb6a.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "Manage your restaurant in Restaurant Cooking Simulator! Customize your kitchen, cook tasty dishes, serve customers quickly, and upgrade your equipment to grow your business!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "611 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bcaf350c0c38f3c640dcb4c85665318cafd39300b2d7f628f8e13284a8c55df.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "THE CUTEST CHALLENGE",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.23 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/388a95f06dd15793c8fd89569cbc844bd5074c68812208aa4342c6cdb31a45d3.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Adventure",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "The World's Least Realistic Pool Simulator!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.85 GiB"
 }

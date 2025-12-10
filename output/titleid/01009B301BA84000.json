@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d546b66f642a19a7add3c8eb462dc8634723721ee02ea91b66fd10c4482584ef.jpg"
 	],
 	"releaseDate": 20240426,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Classic JRPG dungeon crawler returns!\nIt's time for school, but not as you remember?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

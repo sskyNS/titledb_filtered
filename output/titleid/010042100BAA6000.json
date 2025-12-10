@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6de19d05679b9fe2eff0437294a96c0b46893556244e0a2c7228adf28296215.jpg"
 	],
 	"releaseDate": 20181002,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Run your own fantasy RPG academy!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.45 GiB"
 }

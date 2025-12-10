@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/40216b2fc4e2eb34f6a15e23e655f7cfbdfbef5035865627fbe5ca5df7ba25e7.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Race on walls, fly across ceilings \u2013 mini cars, maximum mayhem!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.68 GiB"
 }

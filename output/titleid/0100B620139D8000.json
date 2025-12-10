@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/07dcf8e60ab3ac47a6888fac956f80cdc07bb96cce60ec6a84302bcd2bf28e52.jpg"
 	],
 	"releaseDate": 20210329,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Customise your peg, spin the spinner and build your best life!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.12 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e648f35cf1292de4bcb87b61831a1596ccb4f6f27390636f1215e6efe776367.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Action",
+		"Racing",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "You\u2019ve never been on a vacation like this\u2015\u2015\nHeading for an extravagant dinner, penguins collide in a knockout race. TAKEOFF!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

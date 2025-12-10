@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/368dc504db336dc3ffb1083394afc6998f09c207f82c46cf4a7818c2fd569e1d.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Discover three exciting board games!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "515 MiB"
 }

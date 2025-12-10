@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7ab8c189729f0b83dbecbb8fed3ba53d360f70dc01afe6e1026b37e3b96665e.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "A turn-based JRPG series featuring a modern presentation with a classic core.\nEpisode 1 starts the journey to the lost 'sky'.",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

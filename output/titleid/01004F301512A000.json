@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c20faa4ecfab7276b654109426cd39bd763d46013bab514465e12fb4400f28af.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Cute platformer of a kitten cat\nUse jump ability to get back her box!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

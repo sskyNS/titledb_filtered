@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7effe70f6b0728394be7bf64db7cdab792353beb37a1cb87903c81eb1538ba2f.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Simulation",
+		"Action"
+	],
+	"intro": "The door to your robber\u2019s career is waiting! Just crowbar the lock off and force your way through the threshold. Learn skills, collect tools and become a master of the thieving trade!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

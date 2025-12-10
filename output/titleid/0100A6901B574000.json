@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bb05772d1d20c4e8355c11e81137d6e6f9ae7c9bfedc71bc8d7d5e9b1a63ca8.jpg"
 	],
 	"releaseDate": 20240528,
+	"category": [
+		"Simulation"
+	],
+	"intro": "Construction Simulator returns with a map inspired by the Canadian landscape.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

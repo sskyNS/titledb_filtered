@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/68fedaa06a32d2c21e2703a3c92c0cf1ac2c887ebbd1129c5a7ce9e1314be570.jpg"
 	],
 	"releaseDate": 20221101,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Defend your cities from an assault of missiles, planes, tanks, and more!  Play solo or with a friend in co-op in this modern reimagining of the arcade classic.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "488 MiB"
 }

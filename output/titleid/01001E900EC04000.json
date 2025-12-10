@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d446aa23053b9e4c53778e40a3540d34e9a7add19467cc9e30d07042bb860afa.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Fast-paced combat where any hit means DEATH!\nA diverse set of champions with unique abilities and play styles!\nDeadly enemies and bosses to test your mettle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.02 GiB"
 }

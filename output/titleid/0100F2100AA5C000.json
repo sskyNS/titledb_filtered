@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3174ab2ab07f16c67ee17e8f8eb2fcea06914fc88336967f16b71c35f7007d00.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Take control of more than 20 unique vehicles to perform complex loading tasks and deliver the diverse cargo directly to your customers. Master all the individual logistics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "477 MiB"
 }

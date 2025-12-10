@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/dda5ed77f7ef642fa06e6ba854cf03ac2f35bf288b21529ba07b66195b6e9ac6.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "The knight must face deadly traps and fierce enemies to reclaim the castle",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "69 MiB"
 }

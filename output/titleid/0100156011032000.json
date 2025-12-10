@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1f7f02ceb43c48a54f398ab9faff193933d770e505a1206caaa5e1d057e5a56.jpg"
 	],
 	"releaseDate": 20200728,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Ageless is a story driven puzzle platformer where you must alter the age of animals and plant life around you to progress. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "502 MiB"
 }

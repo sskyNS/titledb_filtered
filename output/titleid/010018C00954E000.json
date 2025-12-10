@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e55df81837d2acabf7d6f7dbe85f4c98d306a4cdf7103a2442a47abe9c9412ef.jpg"
 	],
 	"releaseDate": 20180809,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+	],
+	"intro": "\u6d77\u5916\u306e\u30b2\u30fc\u30e0\u30a2\u30ef\u30fc\u30c9\u3067\u6570\u3005\u306e\u8cde\u3092\u53d7\u8cde\u3057\u305f\u3001\u300eDarkest Dungeon\u300f\u304c\u3064\u3044\u306b\u65e5\u672c\u8a9e\u7248\u3067\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

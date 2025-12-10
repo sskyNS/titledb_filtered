@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3b534d91fe2c6c695321e7e8c5b3a8975bbd3fe8ff8e401845638901707b071.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "There's plenty of fun to be had after school lets out!\nTeam up and compete with friends to become the Game Master!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "324 MiB"
 }

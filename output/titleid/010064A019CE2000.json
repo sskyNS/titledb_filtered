@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e15653cbe037a058cc44a4e0492bb97d04277a4d15e0d648768aea68393ca0f.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "The somewhat hateful and slightly charming tumbleweed is the star of the game. Tumbleweed life simulator that depicts the fate of tumbleweeds in my own imagination.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "981 MiB"
 }

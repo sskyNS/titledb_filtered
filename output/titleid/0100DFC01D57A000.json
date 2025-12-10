@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b694a1e613eb8193e49666b08d66fc04826a64c100f7457e1914dd805eacc3f.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Re-live 1999 with this faithful rendition of Worms\u2122 Armageddon. With all the hilarious fun and madness you know and love. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "2.72 GiB"
 }

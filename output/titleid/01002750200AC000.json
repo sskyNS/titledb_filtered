@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dae71f96847b4cd6b2be4fc21f0aaea8d0a64cbf26bd9b4936aa30f70cab502.jpg"
 	],
 	"releaseDate": 20240716,
+	"category": [
+		"Action",
+		"Adventure",
+		"Communication",
+		"Music"
+	],
+	"intro": "In the kingdom of Alvera, a group of young witches embark on an adventure to save their world from darkness. Discover the power of friendship and magic in this visual novel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

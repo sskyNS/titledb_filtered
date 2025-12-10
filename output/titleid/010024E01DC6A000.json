@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8760dd5e45abd75e839b07eea223d3f29c1f2367391f451367772235c9349b28.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Sorry We're Closed is an eccentric story-driven survival horror game about angels and demons that mixes fixed-camera exploration and arcade-style shooting.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.18 GiB"
 }

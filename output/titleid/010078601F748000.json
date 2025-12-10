@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/85b2dbe7e904d77576f7b67999370dbaf5a4db5efe834932876be22109b97d51.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Music"
+	],
+	"intro": "BOP IT! TWIST IT! PULL IT! The same great game, now featuring pulse-pounding music, far-out backgrounds, and global leaderboards. Do you have what it takes to stay in the game?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "630 MiB"
 }

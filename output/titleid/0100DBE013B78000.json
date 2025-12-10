@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ba3932887a0a2a5f68412a74f693a97e3a7c0b766ea547586158d1ab957a390.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "How glorious your kingdom can be?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "118 MiB"
 }

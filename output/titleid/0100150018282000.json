@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/513eed1ec748913363761cf0ab610afb7859f59c3a58e05e3dbe2d2a0bbdffcb.jpg"
 	],
 	"releaseDate": 20230607,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Discover the secret of the \u201cMidnight Door\u201d while avoiding the grip of its victims\u2019 corrupted spirits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

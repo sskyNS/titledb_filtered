@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/85d17f719695e6886472261eddb929440f9c57346475a723914c3c596df90f67.jpg"
 	],
 	"releaseDate": 20180531,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "You are not alone.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fe6a7903e41526a3f3673acabe8abd584adce02af66c0d90dfc3d32ed06c38b.jpg"
 	],
 	"releaseDate": 20241214,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Join the ultimate aquatic journey where survival is just the beginning!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "954 MiB"
 }

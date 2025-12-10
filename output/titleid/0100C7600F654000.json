@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/16264b118be7702c12ee81054a8aef4cebcc28efd8953c50d45cb06aaa185e2a.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Shooter",
+		"Adventure",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "This is a roguelite game in which players must square off against bizarre fruits all across the world.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "881 MiB"
 }

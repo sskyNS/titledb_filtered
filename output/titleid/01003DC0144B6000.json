@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c90aecec1d337a77b96f10ff05f9964f6424e63edd0a9e6428eaef9de19c78e.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Adventure"
+	],
+	"intro": "An open world mystery about a solar system trapped in an endless time loop.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.11 GiB"
 }

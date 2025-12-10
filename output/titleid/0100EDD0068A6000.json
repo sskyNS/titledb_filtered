@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe929a7c250eb9956a56e8724c0c19475a5bc6064699ad267873b9cab21635f9.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Adventure"
+	],
+	"intro": "The first graphic adventure by Tim Schafer in sixteen years, \nBroken Age began in a historic, record-breaking Kickstarter \ncampaign. Now it's here in all its beautiful, 2D, hand-painted \nglory, with an original orchestral soundtrack and an all-star \nvocal cast.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

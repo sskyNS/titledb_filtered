@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/84128ff6cf48ff267b593b39443ba0909830a469e1a789251f9e8a2d1183d3a8.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Q-YO Blaster is a shooting game, with peculiar characters, strange enemies, weapons and many explosions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "200 MiB"
 }

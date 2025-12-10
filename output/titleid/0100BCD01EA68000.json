@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/af5d58f3d19bb30fda66a346b79818b2711e12d607afff0bbdd1e799ade4b9ee.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Become a member of the THUNDER FOX anti-terrorist organization and strike the brutal terrorists down like lightning!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "88 MiB"
 }

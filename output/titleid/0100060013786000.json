@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fc0ed1191d093a140515ba0e08f5e2029b8e5612ef69500457e863110a77f8d.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A thrilling love story unfolds in a majestic Parisian opera house.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

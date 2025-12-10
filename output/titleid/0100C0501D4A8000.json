@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e1c36ae6521e52060382268fa01e80c8b9fcadbe1daa6972932a3f450780925.jpg"
 	],
 	"releaseDate": 20231021,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "The protagonist of this game is a strange man who needs to breach out of the darkened and dangerous odd place at whatever cost.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "169 MiB"
 }

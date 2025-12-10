@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8adb59514d6f60198c02384f47069b0c31b3606704165735f4775c2c9f9100f2.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "\"I remember how surprised I was when I first saw this case. Everyone involved was lying, for one reason or another.\"",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

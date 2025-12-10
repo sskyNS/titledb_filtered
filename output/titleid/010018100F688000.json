@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e7d22091745cc412a4eb67d52c3f4cd10c4a555df9eaf1610b2fff70e94139d.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Simulation",
+		"Board Game",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "All of Princess Maker's daughters gathered in one place!\nFighting and Life simulation game by using the dice!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "518 MiB"
 }

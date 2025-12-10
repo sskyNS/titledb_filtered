@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/635cb597980a4b05a0586b8d9021a60484249ca934cf38d9643cc140a1e3d14a.jpg"
 	],
 	"releaseDate": 20171123,
+	"category": [
+		"Puzzle",
+		"Shooter",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "A unique mix of twin stick shooter and match-3",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

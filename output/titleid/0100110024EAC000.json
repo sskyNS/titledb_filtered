@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/785018a591491f187b42e8371ce111ca61c77b151c4738341770c88745c7389b.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Racing",
+		"Sports",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Join the Smoots and win all the championships in Smoots Crazy Wave",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.08 GiB"
 }

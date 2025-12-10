@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/733a2cdc47e100f810cc0ffb965d5aa7c5b0802269b478e3a1c122604669982b.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Party",
+		"Other"
+	],
+	"intro": "Master your skills in poker and experience the thrill of winning big cash!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

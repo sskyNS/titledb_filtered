@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/01ee499beddca8b0952a0de7e550b18cf31cb3ae0b637e846739f40db1be3cfe.jpg"
 	],
 	"releaseDate": 20180427,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Impress the Gods!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.76 GiB"
 }

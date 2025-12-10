@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/3efc8268b12115604483f27ed1a055eb1b527a3bd2970e387276599bfee13317.jpg"
 	],
 	"releaseDate": 20231215,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Level up to survive in a battle royale where each wave of enemies brings new weapons and armor to the ring!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

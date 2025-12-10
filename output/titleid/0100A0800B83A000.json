@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6a8bcd0af5dac8d9810b3e5f8724d62e975f05b102250a3bbca7d6e1f5b0914.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Explore dungeons, collect weapons and shoot'em all up!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

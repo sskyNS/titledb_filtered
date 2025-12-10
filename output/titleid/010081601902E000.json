@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1904a07f423c85b8364bacf1b3983bc478b98d6377e8aaaf76d0c789ea016fc9.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Fast-paced, dashing action and challenging precision platforming in a neon cyberpunk world full of dangerous robots, fearsome shoguns and yokai warriors. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.82 GiB"
 }

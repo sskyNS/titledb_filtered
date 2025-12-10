@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9eea9c1b01ec255524233672272fca2332e9ff7983ef4960bb9ef81ac6371c5.jpg"
 	],
 	"releaseDate": 20190613,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Wolves in the woods?! Take them down with bow and arrow, and save our poor POOYAN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/975764eb3a5c6b5311eb30b256899d0f9492893dcf0959966993da7a1d774b68.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Build an underground network of caves in this fantasy-themed management sim.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

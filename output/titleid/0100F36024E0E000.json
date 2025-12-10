@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/11f5d84f2b0b06de9f756058a9ad9b819db59b46da40f30e342994f609f09c64.jpg"
 	],
 	"releaseDate": 20250812,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "Interactive graphic novel that tells the exciting adventures of Rosie, a curious and fun cow who grew up and was raised in a cozy family of pigs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

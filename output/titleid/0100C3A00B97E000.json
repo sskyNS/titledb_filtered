@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5b5de9908103c246fd5c0deea2955e9e2b4302384ea0e58f93ab78c56bfaa41.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Mini golf comes home, bringing with it 135 beautiful and challenging levels to master. The craziest, crazy golf you are ever gonna get.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.01 GiB"
 }

@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b9924b5ae5eb766a079a7090bab8c5e00ab59cf72e4bef60e04b3b109db63eb.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Discover the legend of Saint George or rewrite history!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32816a88e2de6598f4df05b87f36180f30beb90bb00c4e2ea57a617ae54391f9.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "It's time for a mini-golf adventure. Do you want to chill, have a ton of fun with friends or challenge your skills? This game offers it all!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "903 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/484bf8910f4c5ed38aa823be110db8d79da607534a46036c5b2d2a7f1377be0e.jpg"
 	],
 	"releaseDate": 20231222,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Prepare for an immersive and action-packed experience. Can you navigate the chaos, complete your missions, and emerge victorious in the midst of war?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

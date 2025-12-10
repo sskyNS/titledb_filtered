@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4593c862a34455d293a546b1cab631083ddbb80f51f63c9cf001669339ea97cb.jpg"
 	],
 	"releaseDate": 20200515,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "\"Water Balloon Mania\" is an addictive puzzle game.\n\nThe goal is to remove all fires from the screen. To do that you have to rotate and position the water balloons on top of or alongside the fires and other water balloons so that there are at least 4 blocks with the same color next to each other.\n\nYou can move and turn the water balloons with the joypad.\n\nIt features:\n- Two difficulties: Beginner and Expert!\n- Cute HD graphics",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

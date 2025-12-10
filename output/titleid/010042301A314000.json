@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a287f879b5f7b0fbcd79f590c51130c59ae9dda967187e85f228508f3a559f60.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "In Die Again, death is not the end; it's just the beginning of a new strategy for survival.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.25 GiB"
 }

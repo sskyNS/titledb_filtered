@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/81ad3b73449484e2997582dbe6d52ed4c3127f2a3041f2a50fc2f132017b7e2b.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Robot vs Monsters pits you against relentless waves of foes as you control a powerful robot in a top-down world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "188 MiB"
 }

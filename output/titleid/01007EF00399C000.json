@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ae05295c60bca4f5f04a314ab53f776a187ffda8223e4009e5d326f36c331c1.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Come on down,\nit's time to conga!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "960 MiB"
 }

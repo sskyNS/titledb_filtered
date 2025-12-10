@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/08a9ff04f6f54f01a918c9ccb9a5ebd74312e4622a327a75b71980ff735bd5d7.jpg"
 	],
 	"releaseDate": 20240419,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A chaotic couch co-op delight! Grab a friend to get the factory running again!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.86 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9327f28c8f3f05d16d2b9437c6e04b7405c4b34d794889d8824d11f97f361e1e.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Relive the ultra difficult \"Psikyo\" Shoot 'em up experience! Make use of your fighter's weapons and make your way through a chaotic dogfight!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

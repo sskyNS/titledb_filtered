@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2810ed12055ee67401394645167ef2495dc3813a191a4b4fe83eca7ce50fd964.jpg"
 	],
 	"releaseDate": 20210120,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/058d1b67b0e92ac78229c47ee4387448a211b7a9d328e429d3f9b34cd7b48e34.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Zombies, dinosaurs and now... \u00bfrobots?",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

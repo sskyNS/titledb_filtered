@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/66a0bebf684d7adeee93db6e59ba09d7cfac432700dc7a0398ac1582316999bc.jpg"
 	],
 	"releaseDate": 20181109,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Three Heroes Bound by a Magical Artifact",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.28 GiB"
 }

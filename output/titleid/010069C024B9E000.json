@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd36c2c6471bb63e610c365af2b24a1aeb601c5e06ac68573524b3adb60d801d.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Crazy puzzles, cute kittens and a really long tail!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

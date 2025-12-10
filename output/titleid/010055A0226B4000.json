@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dffe9b3f025dc64f5675b5ff141bf07eb0fdcd513956e08d6a3b886bda899a0.jpg"
 	],
 	"releaseDate": 20250711,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Hide, survive, and outsmart terrifying creatures in a deadly hunt.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "396 MiB"
 }

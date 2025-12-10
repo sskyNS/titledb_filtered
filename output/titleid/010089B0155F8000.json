@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/08f24632feb0ad1310810aa78821792839718e4bc08cb0576228d39e1b3474a8.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "SMASHING THE BATTLE, the 3D hack-and-slash action game featuring stunning heroines, returns with a new update containing new story content and characters. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

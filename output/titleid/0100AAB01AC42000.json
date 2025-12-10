@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5a93219a5ac5b50a9a3329f076e928d5d250fa954401310ca11889b35d5ffcf.jpg"
 	],
 	"releaseDate": 20230310,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Take a step away from citylife and head on a rural Hike Trip in the middle of barely visited old forest.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

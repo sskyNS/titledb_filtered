@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/775d37c99458e04111cec41b53e2a093fddbb851a869e4ade29d01dc066851f2.jpg"
 	],
 	"releaseDate": 20200831,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "UBERMOSH is a fast-paced arcade series that started in 2015 and was shaped by the amazing community's feedback on each new volume.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "395 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e32a24174be2a8c1c6574bbedad513997ff4caa0ca8e8a1a13544c985d22d834.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "Fight, Gear up, Level up, Repeat...to infinite power!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "34 MiB"
 }

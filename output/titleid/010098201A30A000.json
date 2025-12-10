@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/802b33f605fcd006de8f12effda4a391c61b4908c2691b548a656aa8ad0f0d98.jpg"
 	],
 	"releaseDate": 20230110,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Party"
+	],
+	"intro": "It was a day like any other, until the stars turned brighter than ever. Hop on a quest to discover the meaning of the suddenly bright stars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

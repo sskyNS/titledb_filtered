@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/93ca0067f93d042ff9f569a9831f8f8507d9a58121535be42d6776cbc5fbfb69.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"First-Person Shooter",
+		"Simulation",
+		"Video"
+	],
+	"intro": "Wake up in an abandoned sanatorium with a single mission: escape before time runs out. A killer resides in your mind, provoking you and playing with your sanity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "624 MiB"
 }

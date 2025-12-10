@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/61684576ae6924d31d72e75311e277af17b3e183b68a7e739805e79650939d4d.jpg"
 	],
 	"releaseDate": 20181106,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Come fight for glory in Brawlhalla\u00ae \u2013 an epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players! Frequent updates. Over fifty Legends.\nJoin the eternal battle arena, where the greatest warriors in history brawl to prove who's the best! \n\nFeaturing both online and local competition as well as single-player and co-op modes. With nine free-to-play characters rotating every week, you can also play online to earn gold and unlock more Legends. 100% free to play with no pay-to-win advantages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.24 GiB"
 }

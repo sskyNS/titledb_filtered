@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/88d54d478b9dbcf992ddb9674495c0cb4a592d704e29005e8055866138afbd1b.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Take up your weapon in this RPG bullet-hell world and embark on a journey to defeat the evil forces of the Undying guardians and reunite the world with the fabled Archvale.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.73 GiB"
 }

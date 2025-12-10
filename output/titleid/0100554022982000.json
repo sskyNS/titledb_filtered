@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfe96996f42a581b3d79245183ae7bcf14b0c57a286862cd5f34b9ea93761569.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Survive horror and very creepy action adventure in new top free scary game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

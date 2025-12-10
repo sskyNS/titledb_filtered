@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d1cfb58284654b9fede5dbb4c78bd049700d08891f326b80d213826aebc27bf.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Step into the brand new version of the enchanting world of Yui, Shirayuki, and Etsuko.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "289 MiB"
 }

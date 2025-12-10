@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/158957d98460cb27622a498568b72206e7bcb2299e5f18556d1f1c68d23c82de.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": "Increase population and mana with production towers to defend!\nThe ultimate challenging Tower Defense!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

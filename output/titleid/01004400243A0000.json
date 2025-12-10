@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ff37d869b802cd4987dfdf131bc17ff6dd15a89b6b8931fc3a25cc263dc6a57.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"RPG",
+		"Education"
+	],
+	"intro": "The ultimate recycling business challenge awaits you.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

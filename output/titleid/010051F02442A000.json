@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f44252488ab8c2be0807ca521fef0851e29535b7889b1d0a58b10a80707590b.jpg"
 	],
 	"releaseDate": 20250702,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "In the magical Prism Valley, a group of friends discover that the power of emotions can awaken the last dino-dragon and save their world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

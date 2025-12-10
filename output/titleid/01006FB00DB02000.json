@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/daee7dfda0c05a602726f7f3a2dd29e5d9805a64a241a499c46b4d54c6aab608.jpg"
 	],
 	"releaseDate": 20191112,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Other"
+	],
+	"intro": "The Role-playing Folktale",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

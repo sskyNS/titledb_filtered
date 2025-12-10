@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/782b60d4cb07172f8a0b57a6867362dcea14c4ebd3cd6c38c791d738f11d7839.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Bucket Knight is a classic run-and-gun platformer game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

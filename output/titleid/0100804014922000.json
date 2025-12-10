@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/84e4c2b5d3db10868bb6ee9edada64a4f495f8e78200f4fafcf0b5b8f9ccb28d.jpg"
 	],
 	"releaseDate": 20210328,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Time to conquer ROME! Become a commander of Gallic Warriors and destroy Roman Empire!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "766 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbd2ba8734d505e74fe3428096826a457eb8c5ad41d17146fc0fe89b1904517d.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Search the mother lode of legend in a fantasy RPG with immersive pixels!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

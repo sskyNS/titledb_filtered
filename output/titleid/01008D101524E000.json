@@ -7,5 +7,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1782ee9d5720ea7605cde73a0fa110a41896816669c739c564d585b046a989a.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Video",
+		"Communication",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Watch, Discover, Join In\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "31 MiB"
 }

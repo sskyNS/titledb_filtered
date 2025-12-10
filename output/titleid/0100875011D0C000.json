@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/423ccc3a43d453fff6e2b587bb16bb50e33e6ef81bc9758bdfd6414473a3ba97.jpg"
 	],
 	"releaseDate": 20200618,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Aery is a peaceful exploration game from the perspective of a little bird who decided to discover the world. Calm down from the hassle of your daily life, experience the feeling of flying.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "887 MiB"
 }

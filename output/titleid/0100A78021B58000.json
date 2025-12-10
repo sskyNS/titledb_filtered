@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/41684c3d056dce56e72bd76cc128b3e6478a4f3bd9711177f2c541e33c06d808.jpg"
 	],
 	"releaseDate": 20250525,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A sci-fi pixel adventure with cute but deadly mutants, challenging puzzles, hidden secrets, and... a mysterious cat-girl!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "999 MiB"
 }

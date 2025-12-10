@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2419967586ffb620e091160fa70c930239d73fcdcae048d1cfc337454a1c50fc.jpg"
 	],
 	"releaseDate": 20231224,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "A new car racing arcade simulator. GOAT cars, exciting car tuning games, and true driving vibes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "855 MiB"
 }

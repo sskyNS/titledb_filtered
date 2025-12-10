@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a0a946f012a687dcda68d484fc6fce96337e3b2cb2718d7ff84571a391afc97.jpg"
 	],
 	"releaseDate": 20250625,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Control the strings of fate and embark on a grand adventure in the theatrical-inspired world of Drev & Nieve in Once Upon a Puppet.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.71 GiB"
 }

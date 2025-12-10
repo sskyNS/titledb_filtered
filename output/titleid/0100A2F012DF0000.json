@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/feb4bc3f2953d64367cef21acb5754731418be3e61ecc1233d3b0e8eac074889.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Match 5 tiles of the same color, clear lines and make sure you don't get stuck. Can you make it to the top of the leaderboard?",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "108 MiB"
 }

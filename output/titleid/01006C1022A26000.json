@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/28572c1f91fea4376db08349011174dca100fbd755e1af1d56a786a5d3c88116.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"First-Person Shooter",
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Defeat is not an option\u2014only victory or glory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

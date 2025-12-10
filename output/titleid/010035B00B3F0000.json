@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc2b4309b82e960ede36757bf40c1eafcd770a74c5bd182b569fdceb36895885.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Are you ready to have a blast and become the best volleyball player in the world?",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "594 MiB"
 }

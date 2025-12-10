@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/482e4a02504075917bd3ef869d1056fbcdc86991e88eed693eaf23bea9aa4fd4.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Awe is a god-game about expressing one\u2019s creativity by shaping and building planets\u2019 ecosystems in a tranquil, relaxing ambiance accompanied by exquisite, minimalist lowpoly 3D art and atmospheric music.\n\nA constant sense of progression and discoveries will maintain the player\u2019s interest throughout puzzle-like levels, leading him to eventually understand his place and purpose as a god in this universe he has created. The objective is not to make a difficult game, and although some puzzles may seem more complex than others, they are always easily solvable.\n\nFeatures: \n\nSoothing Aesthetics: 3D lowpoly art, music and sound effects unite to establish a relaxing, passive ambiance. Simply experiencing the game\u2019s aesthetics before interacting with it is enjoyable.\nJourney: Progression and discovery are central themes. Progression as the player will advance through puzzles with increasing complexity and discovery as each planet will offer the player new assets to create and new rules to do so.\nSpiritual: The player is a god in a yet-to-be-shaped universe. Narrative hints will punctuate the player's progression and lead him to the revelation of his true nature and purpose.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

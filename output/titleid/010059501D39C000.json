@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fde48e650fcd5798451f05f0bc25438961ccd32e35e26b2687421e765f0641fc.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Strategy",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Pseudo-racing game for a retro console. Win races, buy cars, level up!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

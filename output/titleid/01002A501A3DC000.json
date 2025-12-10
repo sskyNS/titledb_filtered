@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d582a1ebb1a5f24405f575ddc01a949196ea5fdc006960aa845ffa76e1ae879a.jpg"
 	],
 	"releaseDate": 20230911,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "World of Valentardia will not let you get bored for a second! Adventures will require the hero to be not only determined but also to be faithfully accepted.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.62 GiB"
 }

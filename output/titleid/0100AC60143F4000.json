@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdc32131f9d9b03524cf1fc05c70c1b95f80df13f2b0d97578a208ad4f224ee0.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Easy to learn, hard to master! Indigo 7 is a fast-paced multiplayer puzzle game for up to 4 players, with a cool single-player story mode.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.93 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f55a509c025a0278550a7b7a759de220a8805b1443d4750b5532389c58a7d2d0.jpg"
 	],
 	"releaseDate": 20230317,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "An arcade space shooter which follows the adventure of a team of elite pilots during what seems at first a routine training in virtual reality.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "802 MiB"
 }

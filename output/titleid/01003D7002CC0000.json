@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/218e0a013faf3e621a355937a9350636e02e0a1ea3cb21a35e5532d31b6f6d91.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Fight your way through hostile terrain, mad cavemen, and vicious beasts as you rescue your Cave Babe again!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "78 MiB"
 }

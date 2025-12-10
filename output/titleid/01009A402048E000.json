@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e323fd9edcafdf2e2fd57243e2b35deb0fa614a14f02cc2f94ab5bc04829f785.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Defeat the monsters with your best weapon: your brain.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

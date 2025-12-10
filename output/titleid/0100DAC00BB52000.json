@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/116f11fa1a6a998242595bd4997a7b90bbd1fcad6c3beec7e1025ef5fe08db66.jpg"
 	],
 	"releaseDate": 20190325,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Education",
+		"Simulation"
+	],
+	"intro": "The ultimate couch solving puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "245 MiB"
 }

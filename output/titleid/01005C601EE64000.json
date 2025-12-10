@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/da72b0f241f107eba5133beada9d4d967fff3301a9b51740d5e7dab1b834e8ef.jpg"
 	],
 	"releaseDate": 20241119,
+	"category": [
+		"Strategy",
+		"Shooter",
+		"RPG",
+		"Action"
+	],
+	"intro": "The Spell Carnival Unfolds on the Stage of Gensokyo!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb21c3e55e1c5487d33a20b25ebf4fd21ec7fa818461725598927dc1cbdb9919.jpg"
 	],
 	"releaseDate": 20171005,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The indie hit Volgarr the Viking arrives!\nReturn to the Golden Age of arcades!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

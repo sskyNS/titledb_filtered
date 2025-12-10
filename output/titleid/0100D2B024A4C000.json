@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bcaff42abd6a05efff3005e87be33c1674bd75447c432e42794f8db5de7b00b.jpg"
 	],
 	"releaseDate": 20251014,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Training",
+		"Action"
+	],
+	"intro": "Serve fast, cook smart, and rise as a culinary legend.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

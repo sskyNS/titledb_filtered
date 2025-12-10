@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9263a38e7624144c2a45dbcbfa30ee3a173c7150d76dc646ea663aefe3a3306f.jpg"
 	],
 	"releaseDate": 20250307,
+	"category": [
+		"Simulation",
+		"Education",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Run your own farm shop, without any pressure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

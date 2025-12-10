@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ea33ae59945c539f81d61a2714fda65c4a9312d1441840d5af43d1192c194d9.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Mighty Mage is a top-down arena shooter rogue-lite where you play a cute mage wielding up to 5 elemental spells at a time to fight off hordes of enemies. Choose from a variety of upgrades ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

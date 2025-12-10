@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce1800ccdf9769811c1367682dc79733071b6f6a726227372dff09596587f2cb.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "A fun, intuitive and educational matching game for your child!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef60a1a92b2c196fe6f5b67aebc9e9cbf86d9dde7e8a7360636affec635b336c.jpg"
 	],
 	"releaseDate": 20201027,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A charming adventure game wrapped around a unique, world-altering puzzle mechanic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.85 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f55401405f2d006eb7711009d98333cc0cb84dba25f6cd840f8dd7ad5444f25.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "The popular dice game for the whole family!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 6,
 	"size": "222 MiB"
 }

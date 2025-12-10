@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4769ab8d4767e132c87f609aa89c0f4fd6be7dbd3bba40d7ec946c36c4349076.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Think you've got an eye for oppai?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

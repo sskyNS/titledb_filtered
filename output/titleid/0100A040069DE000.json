@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca8b346f1c18717fdb44fa43a47b8195a10f852204549d16a08b79c2b12a3453.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "High-Powered Arena Fighter",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.15 GiB"
 }

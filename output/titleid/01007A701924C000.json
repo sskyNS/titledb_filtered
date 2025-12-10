@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5351048f072ba4d798ad4ea42a3aa400f57e221ec463fff797253e047512197d.jpg"
 	],
 	"releaseDate": 20220829,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Krispain:Roguelite Shooter is a randomly generated multi-level adventure game 1rd person shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

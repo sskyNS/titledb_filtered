@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbe9a24d93e7c4edeab70dd6124d32c4b7b8dde832e6e360a2a94599bfd76159.jpg"
 	],
 	"releaseDate": 20230515,
+	"category": [
+		"Arcade",
+		"Education",
+		"Action"
+	],
+	"intro": "The goal of the game is to go as far as possible without allowing the bird to collide with obstacles of other colors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

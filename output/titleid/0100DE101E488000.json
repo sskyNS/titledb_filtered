@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2eca4327ff36e6210fcfdf3d900a0d48faa234af5233f04bdd7801846c8c4e3.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Jump on a train packed with gifts and dive into the holiday spirit with Games Advent Calendar 2024!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.72 GiB"
 }

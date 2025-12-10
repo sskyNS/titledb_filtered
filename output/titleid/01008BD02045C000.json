@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35882ddb9112b323afd6a01d612af6bdd96735f03b6b5a9bcc18543507dd2d32.jpg"
 	],
 	"releaseDate": 20241206,
+	"category": [
+		"Fighting",
+		"Shooter",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Enter the lawless world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

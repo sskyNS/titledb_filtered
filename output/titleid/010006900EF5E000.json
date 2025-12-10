@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4d2bffc1425c236a4dfced98cc607bd44708016498ad3d0640bbd8d6a3dd695.jpg"
 	],
 	"releaseDate": 20190823,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Pacific Wings is a vertical scrolling shoot-em-up and it features retro-style-graphics.\nThe story plays during the \"Battle of Midway\" in 1942 where you have to fly an American P-38-airplane against all kinds of japanese airplanes.\n\nFeatures:\n- 20 incredible levels\n- Retro-style graphics!\n- 4 different weaponupgrades on your plane!\n- different enemies!\n\nIf you find bugs or have any suggestions to make \"Pacific Wings\" even better please tell us!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

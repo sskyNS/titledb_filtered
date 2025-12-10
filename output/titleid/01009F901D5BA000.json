@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b291260981d7d0e5925480ead80715c25c6d5b55ed1e9e528c9cdd2d2da4d1c0.jpg"
 	],
 	"releaseDate": 20231208,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Air Combat Flight Simulation",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

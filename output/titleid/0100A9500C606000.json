@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbe6426f42181515117fdefbd4b13ddc98e25a1bf8dcc5c82e9fe5e48c989b9b.jpg"
 	],
 	"releaseDate": 20190307,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Find powerful weapons, items and spells to defeat your enemies and explore a magical realm of dungeons, towns, treasures and devious monsters.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "455 MiB"
 }

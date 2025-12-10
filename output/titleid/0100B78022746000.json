@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5184683031be9646d76023d7a63fc8f8b6bd9b42d2de7c8acd53c6152ccaf38d.jpg"
 	],
 	"releaseDate": 20250304,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "This visual novel follows a young falcon who, after facing a difficult setback, embarks on an epic journey to rediscover his confidence and inner strength.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "495 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d55eaffa1f70c419b2d3b9cac3e1992646efa980c5f4b0d9dbda4cec6b52a8d.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Eternal Radiance is an action role-playing game about a squire named Celeste who begins a journey to prove herself worthy of becoming a true knight.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.23 GiB"
 }

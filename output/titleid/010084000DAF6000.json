@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb38d7379460a83a44a0d8d7e245022af82062664052fff3c6d9b48c04a1ec03.jpg"
 	],
 	"releaseDate": 20190529,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Music"
+	],
+	"intro": "A hypnotic video game about music, geometry and flow",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1007 MiB"
 }

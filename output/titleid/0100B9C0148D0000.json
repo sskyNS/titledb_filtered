@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d75536aaf539d6bc6d1b3b432b193925d934f7fdd4c99b7073b7647a6df268c4.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Simulation"
+	],
+	"intro": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the \u2018Far, Far Range\u2019 where she tries her hand at making a living wrangling slimes.\n\nIncludes the Secret Style Pack DLC!\n\n-Grow crops and raise chickadoos to feed your collection of hungry slimes.\n-Complete daily requests from other ranchers to get bonus rewards.\n-Earn money to upgrade your vacpack, build more corrals, or expand your ranch.\n-Use Slime Science to find rare resources, craft decorations, and create gadgets that will help you on your adventures.\n-Explore a sprawling world loaded with lots of secrets and hidden treasures.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

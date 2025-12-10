@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ab870fad7cabc4d7402a16fd361a860efd9fde66c6af863d4a891a3892ad1f4.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Delve through dark caves, mystic temples, strange woods and other mysterious areas in a colorful world of Heldia in this 2D RPG with roguelite and permanent progression elements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

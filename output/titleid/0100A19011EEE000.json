@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d14e2a13f806b32599730464a76db467dc096d083a289427dcd5d80e1987315.jpg"
 	],
 	"releaseDate": 20200710,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Find out the dark story that befell the once-calm and peaceful forest, turning it into a terrifying place filled with otherworldly evil. Solve the secrets of the forest and save your brother!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

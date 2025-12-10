@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e6af37bb03f35386234740210205bd9a045d440a2bd33b9081af5205b332c31.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Tramp, Granny, Bandit & Devil",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

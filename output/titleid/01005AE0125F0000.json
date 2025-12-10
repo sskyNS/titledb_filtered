@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0a403ea52aaa0c0b27583276fe003e13db5d71d44139e523d436f6031ec257b.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Adventure",
+		"Communication",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "A modern murder mystery where everyone is suspect - even the car!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "966 MiB"
 }

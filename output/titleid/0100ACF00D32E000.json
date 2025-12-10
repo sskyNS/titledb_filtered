@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/38a45701688533cad590a65ac95bc13ee139397d8d4a47e9aa669d5598d01c23.jpg"
 	],
 	"releaseDate": 20190411,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "The Demon crystal produced by YMCAT in 1984. \nSucceeded as an action role playing game of a new genre\nMulti-Language:ENG/ESP/FRA/JPN/KOR",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

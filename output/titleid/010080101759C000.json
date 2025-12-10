@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/09293ae85f42945722c32b959d038a61dbd5e0012c2841466ca2712b8002938d.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "A point and click adventure \nin your console's main processor!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

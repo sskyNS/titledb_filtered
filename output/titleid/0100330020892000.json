@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0b65a603238caa138771064c14f67efb572b0e9e65fca6c210f049aac27ff52.jpg"
 	],
 	"releaseDate": 20241106,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Can you overcome the traps and lead the duck to its goal?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

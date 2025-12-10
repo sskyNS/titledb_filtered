@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c698c9e4accf83780b8a5f6a5629a36ed7620850d40551e549f87e218019679d.jpg"
 	],
 	"releaseDate": 20240824,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Try not to panic!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

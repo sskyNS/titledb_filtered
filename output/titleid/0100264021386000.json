@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c784626f55d578df7b6144ea79086b8113f36097d1539bbb7484378897d6a0d.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Racing",
+		"Other"
+	],
+	"intro": "Soar through the sky and master the wind!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

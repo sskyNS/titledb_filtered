@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ce2d16545c6c51b7f157556edb4e5d491baa066ef311eeb79fc56d522601744.jpg"
 	],
 	"releaseDate": 20180510,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "WILL YOU PLAY ALONE OR TOGETHER?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "700 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/952b5811f887127be9d890dda6df9fc5c91b01cce0c0d58df8da5283e4e85c0e.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Be the king of the streets by winning races against your opponent's! A lot of visual upgrades for your cars.Improve your car performance-wise by installing new parts.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

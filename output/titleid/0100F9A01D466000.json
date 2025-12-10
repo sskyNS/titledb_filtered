@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbdd331c501cc7dda282141656fc866affadbc0c9b280ee706d19bacb558e1f7.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

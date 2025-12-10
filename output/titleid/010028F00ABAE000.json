@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0ac79af1205f47e6e819eb65f3e801f9df2d8e326529b35d65b43a530dcc1a8.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Make your dreams come true!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

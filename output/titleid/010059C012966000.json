@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9379f2f2da75e293d3a2307dfa8b14bb19afe85d97126af5549a579d3e0005d3.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "You are a thief. Alias Picklock. Examine the robbery scene. Break in. Sneak and steal. Escape. Become a pro! Enjoy Picklock, a strategic adventure with isometric view and voxel graphics!",
+	"languages": [
+		"en",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "344 MiB"
 }

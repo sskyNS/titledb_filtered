@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af2d58764b63d6c2bd3142ae2421415cbea7e6e8b2bb5c40ac483cc53523a3f4.jpg"
 	],
 	"releaseDate": 20240720,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Retro cop chases!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

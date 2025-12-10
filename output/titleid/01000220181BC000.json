@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/df5f8f70a3433d280b0cda262aef1c023bb63f41c835b94a27f8bf41a428ad46.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Two-player fun with the Grinch and Max.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.50 GiB"
 }

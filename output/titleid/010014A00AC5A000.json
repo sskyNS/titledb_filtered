@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f229569a04710d0568db7348f1e4a040fe2ed38019864c5a7648779ad5280f7.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Sports",
+		"Party",
+		"Communication",
+		"Other"
+	],
+	"intro": "Get a nice shot using the buttons or the Joy-Con!\nA fun and easy golf game",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "698 MiB"
 }

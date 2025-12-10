@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/27f071e0bbf6d67856c983781a11c1c9ce07f40b1b2c69a5ae48c07def9b6a24.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Be the last one standing! Ultimate survival FPS paints Middle East red with blood! Take on impossible missions with devastating firepower from lethal weapons.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.90 GiB"
 }

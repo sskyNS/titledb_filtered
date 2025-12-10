@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c7705e254690708012048fc2343a387f48a086516301a805127ca1920c61325.jpg"
 	],
 	"releaseDate": 20250505,
+	"category": [
+		"Action",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Help Kitty and her friends to defend their farm!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

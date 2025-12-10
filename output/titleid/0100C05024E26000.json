@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca67ccc85e1f5cfa888a35ac1bc372d72c3d69b5fb032e10218e12da235d962b.jpg"
 	],
 	"releaseDate": 20251018,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Education",
+		"Training"
+	],
+	"intro": "Dig deeper for priceless secret discoveries.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

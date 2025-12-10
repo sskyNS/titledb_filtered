@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b429bfa3fdee93a2dedc313ab3d10979757b4fc283f02b344b4715ed462f529f.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "In this 7Days story, your choices shape destiny! Will you survive with allies or betray them in a world of death? Your decisions will lead to multiple shocking endings!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "162 MiB"
 }

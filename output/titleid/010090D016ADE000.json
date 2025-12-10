@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdfd53b7d3c2f42309a15696bfad74f0283e409bf2be78e0138d0214f6ce88be.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Grab your favourite car, tune it, challenge players in Online Drift battles and become a DRIFT KING!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

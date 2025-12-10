@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d13e00bd83278fab1a3587077fc7d6af3bf313f69b85e9bff3695e293496df95.jpg"
 	],
 	"releaseDate": 20190308,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "When you're running on battery, make every second count!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.47 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d38cc41998aa25ec98503947ee93a35f48fe6327da174c7f26af607dfaa55959.jpg"
 	],
 	"releaseDate": 20240923,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Other"
+	],
+	"intro": "In this visual novel, a mysterious event occurs in the Hundred Acre Wood. Pooh and his friends spring into action when they discover that the honey has disappeared.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

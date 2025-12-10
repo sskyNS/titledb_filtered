@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/da9dcc199a1f632cdd23f7c12070f78f9d466452949220bd1a4a5ad11a9b11d2.jpg"
 	],
 	"releaseDate": 20200424,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Manipulate artifacts from an ancient civilization to solve challenging puzzles.",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.97 GiB"
 }

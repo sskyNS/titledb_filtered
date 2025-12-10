@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/47e2cbde9ea72ee460aa67b58a7fb970f8117a98eebc0020e148c6675040cb34.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Shooter",
+		"Action"
+	],
+	"intro": "The story take place in an old castle that has become a summer school. \nBut the castle hide a lot of secrets. \nA legendary old book that has the power to open portals between dimensions and times lies there. \nThis book is imbued with the power of the dark matter and has been hidden for millennia. \n\nBut now Someone has unleashed its power. \n\nThe portals has been opened and our world has been invaded by hordes of strange, fun and chaotic enemies.\n \nAnd YES, Max Racoon is our only true hope.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "366 MiB"
 }

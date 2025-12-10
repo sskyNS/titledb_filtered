@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c1fe87e429f4e3e3ef546fe46e525b3800b91af55788706a28f3db35689997a.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Adventure",
+		"Education"
+	],
+	"intro": "Alpaca Wonders Why is an interactive adventure for children in the form of a visual novel with a quiz.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "394 MiB"
 }

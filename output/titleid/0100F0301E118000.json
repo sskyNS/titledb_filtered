@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8d33c5ced856cc14b87f4d03c5fb7837edf42cec8fd9abc79017c611b571ff0.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Diluvian Winds is a relaxing management game. Welcome weary travelers and work together to expand your hamlet on land, under the sea, or among the clouds.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7b8e6464ac6e139caaa5677dc7eec9ca0d0ca5bb03a9cb7874c20481982a4c9.jpg"
 	],
 	"releaseDate": 20240621,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Embark on an epic escape room adventure to an ancient, mysterious island where your puzzle skills will be put to the test as you try to uncover a secret artifact.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.69 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ab6ca734df934e82c59a568d9181e49f2518a5969b283a7dec1c41f32815bf0.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Other"
+	],
+	"intro": "Raid On Taihoku is an adventure game with the backdrop of WW2 Taiwan. By controlling the characters pass through different danger and safe zones.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

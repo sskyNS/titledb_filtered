@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e55891822dd7a6021294cd56724a52fd09f691783f9e6424cbeda00e9782ff23.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "In this world where animals own humans, the pet human Lisa has to revive her rabbit owner and uncover the secrets of this seemingly fairytale animal world!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e27d91b6b22b9baab8281533813b7df392ce61de68c452bd92aea4c6be2fec9d.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"Action",
+		"Shooter",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Shoot 'em up\nCouch co-op\nRescue princess",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.22 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/854a3c03bb67f5cfa85fb91b4deda04c5f678d12463b90622d859d58f127806b.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Defeat the resurrected GORDESS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

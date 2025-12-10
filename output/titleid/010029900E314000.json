@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/795cac9aff40b6dc8a35dd7b1e6a1896023af0d4a3e23eccfb16898e6b05b3e5.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Strategy",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Relive a classic, innovative real-time strategy game in SEGA AGES Herzog Zwei.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "179 MiB"
 }

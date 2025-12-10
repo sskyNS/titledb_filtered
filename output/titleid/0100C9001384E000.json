@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d97165e8e317f05c1e2f329ea6e0badfde84e3215e575e9b6311df7c5fa43d61.jpg"
 	],
 	"releaseDate": 20220311,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore classic fairy tales worlds with your favorite characters from the Sony Pictures Animation films in Hotel Transylvania: Scary-Tale Adventures",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.69 GiB"
 }

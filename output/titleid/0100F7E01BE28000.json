@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/79e7e8caf51be3484a9780a321f5a725269e1385c6d74cd7901341b63db70dfb.jpg"
 	],
 	"releaseDate": 20230707,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Frantic and epic combat with Simul-Arcade gameplay",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.13 GiB"
 }

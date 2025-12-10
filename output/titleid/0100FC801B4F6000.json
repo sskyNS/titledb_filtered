@@ -4,5 +4,17 @@
 	"publisher": "AnelaGamesStudio",
 	"screenshots": null,
 	"releaseDate": 20230518,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Action",
+		"Arcade"
+	],
+	"intro": "New sensation! Real-time roguelike!\nAutomatically generated random dungeon!\nThe level is reset every time, so you can enjoy it again an",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.85 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0f5ee31a4a9ae1b0f250c58e6df70507f7498ebba74fc524be76ed8bb87033a.jpg"
 	],
 	"releaseDate": 20190405,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Protect your BRAINS!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "134 MiB"
 }

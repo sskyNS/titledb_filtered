@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a1691afed4d76fc26d156e6f02718621948e6aaaece7d871ec220184a084fe7.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Wenjia is a 2D platform game with puzzle-solving elements. Players can freely travel between two realms (the material world and the energy world), each of them with different challenges and obstacles. Players must utilize both realms\u2019 mechanisms to reach their final goal.\n\nWENJIA\u2019s exquisite hand-drawn graphics bring out both the vivid colorfulness of the Matter Realm and the fantastical strangeness of the Energy Realm. The sharp contrast between the two realms offers the players a unique visual feast.\nWorking with game audio talents from Russia, WENJIA\u2019s sound team has created an immersive fantasy environment that features deep woods, eerie ruins, and raging volcanos.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

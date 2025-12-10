@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2764138bac1a137f62e9f445deed494f36818ff60ad2bd1ba36b509cca3e93e8.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "It's time to begin your journey to help a ghost captain and save the entire world.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

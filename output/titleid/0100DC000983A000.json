@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c46ad5e1ddee625d37d6e6afa85e9e3e237d8edea607982694d8fa6b7ba1bce4.jpg"
 	],
 	"releaseDate": 20190718,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Operate the assassin androids NINJA \nand KUNOICHI to defeat the Demon King Banglar!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

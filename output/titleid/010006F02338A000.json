@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf73ed04b10fbfa678fefce34611599b5fe0a0e49beec7b49d50e554e90c5d4b.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "A fun coop arcade adventure for up to 4 players",
+	"languages": [
+		"en",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.39 GiB"
 }

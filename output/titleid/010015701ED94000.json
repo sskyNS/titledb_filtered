@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1504103ea0b538f5b68c4b3f3ac2a034774ab18ec2fa37fd42943bbac3584e99.jpg"
 	],
 	"releaseDate": 20240410,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "Discover the second part of these peculiar adventurous children who explore fantastic worlds and encounter monsters of all kinds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

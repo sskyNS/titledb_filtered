@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9842f2117946891bdf48c9f2e692014453983016bbef666579f01a9e47f8e431.jpg"
 	],
 	"releaseDate": 20200818,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Ignite your Soulflame",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.72 GiB"
 }

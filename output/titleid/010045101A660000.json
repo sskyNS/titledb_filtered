@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4ce777acaedc12424a4ca89648d551008c56e043b62dcb79d4bb29c9cb82eda.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "This is the latest gaming attraction with all new car racing mania adventure in town. So be prepared to break the chain, as it is a real challenge and test of your core driving skills.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

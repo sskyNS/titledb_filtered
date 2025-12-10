@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36ee8e310a9de054bc6ff6a964e42c345489f43422945d6ca011c06cbc583f3f.jpg"
 	],
 	"releaseDate": 20251025,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Simulation",
+		"Action"
+	],
+	"intro": "The sweetest factory conceals the darkest secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

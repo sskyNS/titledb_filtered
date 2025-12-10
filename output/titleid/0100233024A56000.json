@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5251fe4c31bde34ba5af7ba45ae3ff33748974002366c70a1e7c2fb6500f292d.jpg"
 	],
 	"releaseDate": 20250917,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Puzzles with Samurai Paws",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

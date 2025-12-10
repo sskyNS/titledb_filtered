@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b4d382167dab9cdc962aa8fd6f5e29f045253f6f07f98efb7a90c37d96758ea.jpg"
 	],
 	"releaseDate": 20250304,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Platformer"
+	],
+	"intro": "dodge the enemy's bullets or strike them back. Use the enemy's attacks to destroy them!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

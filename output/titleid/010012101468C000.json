@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d0bebb5ac0b64b96e247380e3c2f2b1e8a19ececbd6869658609127457eda41.jpg"
 	],
 	"releaseDate": 20230208,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"Platformer"
+	],
+	"intro": "Get behind the visor of intergalactic bounty hunter Samus Aran in her critically-acclaimed first-person adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.77 GiB"
 }

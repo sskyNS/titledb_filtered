@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a5baa391fdc9cec779fbc7ed434212bf0e6db9a78f15e063e5c76630825514b.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "Next stop... Eastward!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/acde7444176d32df8a7ad72dc241f2def8cc5fb71bac698bfcb160f1f50c5aad.jpg"
 	],
 	"releaseDate": 20171114,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A land of discovery stretches out before you. Explore the beautiful yet rugged world of RiME, a single-player puzzle adventure. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.04 GiB"
 }

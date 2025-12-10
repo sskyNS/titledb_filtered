@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/129e5fa81cb5c04bed665b0929003e894a1f893e1a4c867f6a207a6257ab0352.jpg"
 	],
 	"releaseDate": 20201222,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Explore the worlds of your favorite TV shows, fight their famous villains and retrieve nuclear batteries to escape the Landflix Odyssey!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "987 MiB"
 }

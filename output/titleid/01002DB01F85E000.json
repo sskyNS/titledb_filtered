@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1952a8d49f81b02c09a15786d6df56bc73209b3ca30eed36bb2fd83240ae78e7.jpg"
 	],
 	"releaseDate": 20240731,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Action Satire Casual",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

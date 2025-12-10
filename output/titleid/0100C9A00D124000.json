@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3238aa87da25f3b095d424b7fed3999864bb27cceeb89318fc35dd74a1022e09.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A retro-casual platformer game! No matter who you are, get your cat ears ready! Set off on a crazy journey to rescue your sister!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

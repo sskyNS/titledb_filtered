@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f8867a0359df2ec9c9329e3d2b9244744a60e2dd385ade1efed52ac32f2cc1a.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Tri, tri, tri again.\nTriangulate is a tactical tile game where two opponents place triangle-shaped tiles to out score one another.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

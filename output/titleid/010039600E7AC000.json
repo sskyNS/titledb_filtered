@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f90a80aa49a55b2fa0ed85f0e02666b44c35369361a1f8f3338fbee7813b318.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "These Toy Tanks are Ready for Combat.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

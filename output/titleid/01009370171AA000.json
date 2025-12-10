@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/24b324956062ee67a5c77e24c5de9f3bcb602aa10cf63b4b3dfddd6af3d7be9b.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Puzzle platform fun as either as a solo or as a duo!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "32 MiB"
 }

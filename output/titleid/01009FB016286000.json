@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe726f5e55a7bf8815e64d0a577d93a4ef828f8401d1959b09ea43fe5ba7b567.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Classic Sonic Re-Defined ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.03 GiB"
 }

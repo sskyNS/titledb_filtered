@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/42ffaf0245ae5295d562201c0d07e053a247c10f9864a3e357abd5ae0ec6915d.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Rescue the Fuzzy family and save the enchanted forest in 100 challenging levels!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

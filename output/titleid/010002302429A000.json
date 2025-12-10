@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c78ba846ca69fbca1d0857b29e46069577d46edaecd0cf87eb8f7c5cb7d14cc6.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Watch your beautiful garden grow, dye fabrics, and turn them into beautiful clothing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "510 MiB"
 }

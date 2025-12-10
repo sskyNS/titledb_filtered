@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4218232df9829b1fd85432e43c36b053ba51c8d9f62f67a82f2d1a233a7ecbe5.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\n\nNineteen years after the events of Wolfenstein II, BJ Blazckowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ\u2019s twin daughters, Jess and Soph Blazkowicz, are forced into action.\n\nTeam up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance.\n\nWolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "24.71 GiB"
 }

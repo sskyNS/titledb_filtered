@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3a77035a92256c5fb7baa5e42893667dc3da85ad57deab19b0dbcd14b55e652.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The battle against Zotrix aliens is getting closer to your \ndoor step. Every space station in the network is in danger \nand Solar Division command needs your help to setup \nproper strategy for the defense. This, primarily strategy, \ngame blends game mechanics between tower defense and \nreal time strategy with hybrid elements such as patrolling \nships, navigation towers. You are trusted with this \nimportant task before the whole network is taken to the \nedge of the unknown.\n\nFeatures:\n\u2022 45 action packed missions\n\u2022 6 different challenge modes (CLASSIC, ALL TOWERS ON, \nREVERSAL, LIMITED TOWERS, MAX CREDITS, ENDLESS)\n\u2022 Rankings for Classic mode\n\u2022 15 towers\n\u2022 32 types of aliens with full encyclopedia",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

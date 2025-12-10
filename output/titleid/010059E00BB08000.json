@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d9c0cd25cd87441513051e0589e1f57c45a5d106dcbd460b71ac7196882cdb4.jpg"
 	],
 	"releaseDate": 20190902,
+	"category": [
+		"Party",
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Ride brooms, cast spells and transform your opponents into chickens in this intense magical sport.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "141 MiB"
 }

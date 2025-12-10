@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d49bd865f38019a09ec8523bb5842698c420a2e28d010358a8ae1fdd1fe0d65b.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Study"
+	],
+	"intro": "A matchstick puzzle with matches is a real training for logic, intelligence and creative thinking!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

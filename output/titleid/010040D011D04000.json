@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be2ad559f1186274430a742d5d4caad96ffb6f6049b0147ffb9eb64fa7817f4c.jpg"
 	],
 	"releaseDate": 20200725,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Study",
+		"Other"
+	],
+	"intro": "You\u2019re in the world of cubes now, buddy! A world with its own laws and customs. Choose your character and start solving puzzles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "390 MiB"
 }

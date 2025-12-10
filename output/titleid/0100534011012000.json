@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfdf17dd9a3734f26ae61531f37ec302969e5e75ef06ecd3d5e3c7c909f08b52.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Run, gun, and dodge your way against the forces of the Ducan Empire as you excavate the hidden relics of power to foil their plans for universal conquest. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "172 MiB"
 }

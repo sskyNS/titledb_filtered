@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b48e8c80b83ad2d2c8083afd7d7b6934d6bd0f6049a99c69dab1eac114d18fec.jpg"
 	],
 	"releaseDate": 20180502,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Your goal is to conquer the GI! Race on the turf with your beloved horse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "96 MiB"
 }

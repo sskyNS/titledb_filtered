@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/295a2e8b325a46276fd1b1fffdf12d9f338387f56c72a2ebcdaac771ca7febea.jpg"
 	],
 	"releaseDate": 20210716,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Hide in the shadows and strike down your target with ninja skills",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

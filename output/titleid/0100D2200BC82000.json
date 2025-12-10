@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f10a7ad86f533a521eb0f667a91c747d7e3519ec942828c7ea1eef2a7e5af5f3.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Romance your swords! Includes \"Secret Weapons\" update.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

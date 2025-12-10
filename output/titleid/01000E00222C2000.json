@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/18f4036b372783a1bb1785e5e6b2a517fcb937bf82933806209ce7b5ff367683.jpg"
 	],
 	"releaseDate": 20250825,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Plunge into the jaws of evil in this macabre graphic adventure of horror and madness.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "956 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc204f7a0f8918318e665a80ff050e06e3f6f207d50a4592a026c67649c2288f.jpg"
 	],
 	"releaseDate": 20250312,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Survive a fruity dimension of destruction in fast-paced arcade-style collect\u2019em up style!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "630 MiB"
 }

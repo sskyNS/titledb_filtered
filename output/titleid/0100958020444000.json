@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e8e5c812d22f6dd90212cec21f7636b5d83b02eec2043de96adb4ab969e1cd3.jpg"
 	],
 	"releaseDate": 20241019,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Run a comic store!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

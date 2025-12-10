@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/759f29d3de15edc2378a6478a5598b4769ff051790487589e6882ee36638f724.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Challenge your deductive reasoning and turn-based tactics in this colorful roguelike puzzle mashup inspired by Minesweeper!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "534 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8fe9419bb4daf852382ae77900f0df3c3e2e437c9e0ef064dbb0b354e6f6c36.jpg"
 	],
 	"releaseDate": 20220718,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Lifestyle"
+	],
+	"intro": "Expand your collection of motorcycles!Customize each motorcycle to match your personality!Become the best rider by eliminating your opponents in races!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "470 MiB"
 }

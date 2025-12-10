@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1272a0e1bfad4641c10de0083f218dc1708862ed0bdb93a6bca71e5cd232dd09.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Break into extreme racing - go through a high-speed hill climb, complete the race and become the \"King of the Hill\"!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "185 MiB"
 }

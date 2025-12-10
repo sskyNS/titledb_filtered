@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0518d9d64eba8a0602969e9370f0794da0000fb9708f468910f0951b116131c5.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Retro arcade shooting lives again!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

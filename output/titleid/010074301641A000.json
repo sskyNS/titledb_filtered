@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3894f6a8f3212d293d07b7ec5f6920feb371a76013f1096ef073d2f24cfa2d6c.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Use your legendary katana to liberate a distant solar system from an evil militant organization!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "419 MiB"
 }

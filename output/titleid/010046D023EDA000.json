@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b553d0d6c6d5af51e713ffc2f53e56d66bec14e4b0f2eea973747f965988289.jpg"
 	],
 	"releaseDate": 20250614,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Awakened by a mysterious light, Yang sets out on a relentless journey through enigmatic realms. Face monstrous enemies and colossal bosses in this thrilling hack-and-slash adventure",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "572 MiB"
 }

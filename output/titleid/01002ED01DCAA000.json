@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e772f8f3dc10c304820591aff3127bb2ac3ae67577c95535dbcbbde4612d8e2.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "MainFrames invites you to meet Floppy and to browse a clever and charming platformer. You won\u2019t want to press the escape key on this cozy outing!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.15 GiB"
 }

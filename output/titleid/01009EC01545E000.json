@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2788bcc2bc6c0821d4f242edcd6991e35f3ee224b029492a7cfb0c94ca04eafa.jpg"
 	],
 	"releaseDate": 20230616,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Other",
+		"Study"
+	],
+	"intro": "Build railways to link stations and the relationships between animals.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

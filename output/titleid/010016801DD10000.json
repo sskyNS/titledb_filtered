@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/07e5fad618ae2724416c509ce122a04b34aadffd327d846c8937352e709864e6.jpg"
 	],
 	"releaseDate": 20240127,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Become the biggest snake in town!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5281bf5a6db4583d6cd3ea116c9ae830cfd8946555aa7498b57db38eacfc2dfd.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blast off into a dark, stylish, and horrific alien-infested universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

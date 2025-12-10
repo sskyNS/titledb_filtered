@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/788b3e50d6fb9adfb22697daf4ce2ec534b56d63ebf1e16e865c3b34185a394a.jpg"
 	],
 	"releaseDate": 20180621,
+	"category": [
+		"Music",
+		"Adventure",
+		"Other",
+		"Arcade"
+	],
+	"intro": "Dive into a fantastic musical odyssey, brought by an immersive soundtrack imagined by famous composers.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "794 MiB"
 }

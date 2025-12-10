@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f63f34bfc45fd5113d60af27f9b1b8c7df2ba48c8c9ba54b97a5a5c5dd7091ce.jpg"
 	],
 	"releaseDate": 20181224,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Defeat the mutant hordes!",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

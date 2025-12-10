@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/83731c23f2616d2f10669250f162d7d5cdb7de4a9598b2e6db4eda700efbcb32.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Unleash anime-styled nuns in a holy war against hell\u2019s grotesque hordes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "733 MiB"
 }

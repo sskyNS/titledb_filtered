@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dbad525d2a9786ffc03d653ba1437c74d1671984053945b7b37ec96c1756762.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Party",
+		"Action",
+		"Communication",
+		"Sports"
+	],
+	"intro": "Get ready for a powered-up fishing trip to the vast ocean!\nWith stunning scenery and a wide variety of fish, the fishing is more thrilling and content-packed than ever!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "861 MiB"
 }

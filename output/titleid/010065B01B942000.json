@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1157b33f97c13a5c5698d5cd5807dd3ee3877025d44b72ad7aaaba27de1322fe.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Greetings, valued employee. You have been tasked with sorting the Ringo CorpoNation's genetic samples.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "626 MiB"
 }

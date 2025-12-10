@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a8fd41fc62ae9fa178ff564a54552b7a88b6a1a329da2bc2834ab51265adec3.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "What if all the protagonists of books lost their memory? \nVenture into their world and beat the hell out of historical and literary characters you studied in school! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

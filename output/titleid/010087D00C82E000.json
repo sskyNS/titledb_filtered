@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbe4c1a8498ae2c6fb98fbea536527fa5f6ff12584b0fd179b6222ae460da481.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Become a samurai from feudal times in this multiplayer fighting game where one hit off-guard is fatal.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "188 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a10126436b491c460ff65e9e471780282fb1eef7c564112196bb85de04e1115d.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"First-Person Shooter",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Your helicopter crashes in a remote, icy wilderness en route to delivering batteries to a mysterious research facility. \nNow, you must complete your delivery before you freeze to death or get eaten by a strange presence stalking you.\n\n\u2022\tA terror simulator\n\u2022\tIntuitive Physics-Based Item Interaction\n\u2022\tAtmospheric Exploration",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "897 MiB"
 }

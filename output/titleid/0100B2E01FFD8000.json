@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec39cb5fc9640a474bc6f67a23afbecb70b1dd7e99527b90868f1ad936ed7fbd.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Become a whimsical Grim Reaper, flying through enchanted realms to free mystical souls. Experience 11 epic stories in this peaceful, magical adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.78 GiB"
 }

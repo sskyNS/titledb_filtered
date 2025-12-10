@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4dcda3cfe6cc894d5fda799eb82621d22a20a6591cc78626d48939afa898f2a3.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Racing",
+		"Sports"
+	],
+	"intro": "Be the wind on the circuit!\nA real racer experience with simple visuals! That's Hyper Torque Racing.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "840 MiB"
 }

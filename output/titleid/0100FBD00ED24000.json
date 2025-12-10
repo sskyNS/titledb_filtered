@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd289775b398936f31e0a41ae2f32739850410fb4abfea40363499f2f4d5ebb6.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "\"The Monkey-Crab Wars to end all wars\" begins!\nIt's monkeys vs. machines in this zany action-packed shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.63 GiB"
 }

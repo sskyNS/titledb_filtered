@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8eb304b1fe7c2e54bc3a58f1d2964c329bb944541651fe0615f862d3f6abbd0.jpg"
 	],
 	"releaseDate": 20220214,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Deep below the world, in a place called Darkside, the Black Flame awaits. Smash your way through this retro 2d pixel platformer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

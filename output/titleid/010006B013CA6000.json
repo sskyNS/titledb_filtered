@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8da98d3e9fed5ee5eee4bf2b800eec56fb65c0958d724aa926ad3b1ed6198ce.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Party",
+		"Lifestyle"
+	],
+	"intro": "Have you ever seen a group of pigeons fighting for a bread?\nAs a player, you become one of them!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "288 MiB"
 }

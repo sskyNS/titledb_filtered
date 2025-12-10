@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8c4900e15464a9ef153442202596dd018d4250077cc45905780da199a759952.jpg"
 	],
 	"releaseDate": 20181005,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Super-charged fun for friends and family\u2014now with online play in board game mode and minigames!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.90 GiB"
 }

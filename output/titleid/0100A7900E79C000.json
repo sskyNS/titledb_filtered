@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7600455563e92f37080a9027cd1532d5d33451c069b20a48c86ea40748cafc7f.jpg"
 	],
 	"releaseDate": 20200812,
+	"category": [
+		"Action",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "COMMAND THE PILOTS OF A GIGANTIC MECH!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

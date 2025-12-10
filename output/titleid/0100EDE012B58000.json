@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/51e6278f34898dc8c910b6cdf29cfa2e98b7d10bfd0f6aba7e59c0fbc257d976.jpg"
 	],
 	"releaseDate": 20201112,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A world of 1D puzzles awaits",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

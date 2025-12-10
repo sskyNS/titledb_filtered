@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea7bb3de5d0496e2d57541007915f5bc13fb6b7e2fcd52d04e572be0c36c11ea.jpg"
 	],
 	"releaseDate": 20190405,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Protect the garden and its flowers by ridding it of the rampaging DONKEY KONG and bees with your Sprayer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "90 MiB"
 }

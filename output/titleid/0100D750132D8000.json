@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5d9883235cdbc3116fb15c78ab48ab6b54cab1a0e85b5683a6457accf5341eb.jpg"
 	],
 	"releaseDate": 20210526,
+	"category": [
+		"Adventure",
+		"Music",
+		"Other"
+	],
+	"intro": "A mutant soap opera where small-town gossip meets the supernatural. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

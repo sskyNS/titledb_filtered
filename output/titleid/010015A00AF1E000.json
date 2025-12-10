@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c094afb49b72273688fcc1b2a7f07fdbad526d32d0f79671a93b1a11bc8b4b1.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Interact with the spirits of the dead, solve the puzzles of the mysterious mansion, and help Elena find her missing father.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.33 GiB"
 }

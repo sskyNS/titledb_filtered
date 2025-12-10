@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cd6e990c059097528133b061ce914f8b3a1816cbf92d8454a9c892568e06cc0.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A chaotic couch co-op game for up to four players. Fuel, fix and rescue damaged spaceships before the evil space octopus gets its tentacles on them!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "509 MiB"
 }

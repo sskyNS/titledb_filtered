@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3be44507164564d5463a9f6f72f56a57256e34223ae5e7cd1f950be67124b27e.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "In this sideways scrolling shmup, take control of your spaceship and navigate through vibrant pixelated environments filled with hordes of enemy spacecraft.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

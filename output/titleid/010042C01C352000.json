@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5e155df416bf4d7b3aed6fa75e35643051cdeb61dc0fb058b66794c446bfdbf.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Save the city from demonic mutant robots attempting to take over!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "127 MiB"
 }

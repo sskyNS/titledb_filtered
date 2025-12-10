@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d650ff772180c69abe8a5af8bc33f1be14feb8a87b750d56d2ee56499fa41e2.jpg"
 	],
 	"releaseDate": 20241224,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Dive into a hidden-cat adventure! Explore vibrant coral reefs, sunken temples, and ancient shipwrecks to uncover cats and collect rare treasures.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

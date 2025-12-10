@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/295287a7b70aa4a28c794a4ed9061ad8fce0cf4309f3bf73887e203ba8d399cd.jpg"
 	],
 	"releaseDate": 20250503,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "High-speed reflexes. Endless challenge. Total rotation.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

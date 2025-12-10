@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac1350c93763319723826ad12bf74be80c491c278d2665258e34b45c4af3daf7.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "The 5th Picross in the S Series is chock-full of lighthearted puzzle fun!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "335 MiB"
 }

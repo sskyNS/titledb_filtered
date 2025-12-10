@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c37a08a36650d4ded48502bc5d3f1570bd4639dc4d9970d18e5fac073f16bc3.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Music",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Let's get the party started!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

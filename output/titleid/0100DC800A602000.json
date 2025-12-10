@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9107b326fa43d36a3ab7f199653eb03ab7e81bf2b278009d5b612b45c7cd41fe.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "GRID Autosport is the first full-on racing simulator for Nintendo Switch\u2122, engineered to deliver an irresistible mix of high-speed thrills and believable handling.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.59 GiB"
 }

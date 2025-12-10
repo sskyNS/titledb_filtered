@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a27b0dfa3c9e9f0476d4359f7c45781034cfa36f03f9287845e4a0a788259c35.jpg"
 	],
 	"releaseDate": 20221104,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Become the King of Darkness in an epic journey through 16 connected areas.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

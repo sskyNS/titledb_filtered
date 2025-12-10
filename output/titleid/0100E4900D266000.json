@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/10b2fe58cbb30e0c2623469f64be4373b94ca719075cc4affe09c435b6fa35a9.jpg"
 	],
 	"releaseDate": 20190917,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Jetpack through the prehistoric world in a \u201cStone fiction\u201d adventure platformer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.21 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cc4466f6e02bb265475cc717d698235fed1d7d6321c1a8d6b45de03883cfe12.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Tap, scramble letters, and solve the clues! How many hidden words can you find?!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "344 MiB"
 }

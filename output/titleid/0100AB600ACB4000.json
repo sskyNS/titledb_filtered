@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f9bf1c2876d54a254afcaa51e70bc694aa9b74275f4d249d4f22096508a77ca.jpg"
 	],
 	"releaseDate": 20181203,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The Journey of an Idiot!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "366 MiB"
 }

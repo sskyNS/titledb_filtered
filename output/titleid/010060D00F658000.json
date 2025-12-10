@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/04896f2a0347f3f8c3a4518b80b5f720ed4687c1a7a28fac60b3e9e2983ae6ea.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "RESIST. RECLAIM. SURVIVE. REPEAT",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.04 GiB"
 }

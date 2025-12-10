@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8cf1a258225737c2cdb4b9c6a427fcc1678308b401e69e4d85041ed82e44456.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "1,100+ Levels of Strategic Zen and Global Challenge!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "134 MiB"
 }

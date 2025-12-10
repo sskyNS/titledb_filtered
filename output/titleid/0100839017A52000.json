@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/655ebf239918b3e07736b58dad79b04c712bbdf1fd3284dfd827332faedadd21.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "The Ultimate Speedrun Platformer!!\nOn to an adventure to rescue Momo-chan!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

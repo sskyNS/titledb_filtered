@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2ffd53358a213887e17783119e6c112e666d919d8d77d196bc262971744e12a.jpg"
 	],
 	"releaseDate": 20231215,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Exhilarating platform racing through a mysterious noire city",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

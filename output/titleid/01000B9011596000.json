@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fc1bdf844ce7228ee28c4fa6382ed9b0258f17933a4285d637c2b24ee240a40.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A unique puzzle-solving experience backed by the story of Cole as he seeks to exact revenge on the program and company that destroyed his career in cybersecurity.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

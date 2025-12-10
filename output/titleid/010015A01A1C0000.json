@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f77c6649be2d779507508c966d78e77f2076fb370464fdac711b40bc3593189.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Experience the dizzying life of a top sushi chef as you prepare sushi dishes in this exciting time-management cooking adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

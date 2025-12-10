@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f3edc6e97f1b42a3eb09c8de0bc575f2dc6a7204f6a5321f8ebbf8b7dbb13e1.jpg"
 	],
 	"releaseDate": 20220810,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Hey, wanna warm up with me?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "819 MiB"
 }

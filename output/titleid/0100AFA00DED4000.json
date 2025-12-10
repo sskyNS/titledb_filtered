@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b5f001b2a7969a40d4f24d12c9224da04b3036b64827ea40a0ecec160e1ee16.jpg"
 	],
 	"releaseDate": 20190828,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Robots, mayhem & destruction!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.41 GiB"
 }

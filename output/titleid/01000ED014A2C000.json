@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9a8a16966a1b33f31fa73b95aeda62c29409ac1ffa8451b7859f61ec7542630.jpg"
 	],
 	"releaseDate": 20210512,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Explore a world inhabited by robots and solve the mystery of a lost civilization",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.47 GiB"
 }

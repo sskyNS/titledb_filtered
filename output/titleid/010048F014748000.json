@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fbf6bb0bc553c4af217b1007193d67c947b6aee8650da3101496b8f3d9eaf78.jpg"
 	],
 	"releaseDate": 20210414,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "What kind of dungeon do you make? \nDo you want to entertain adventurers? \nOr kill and rob?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

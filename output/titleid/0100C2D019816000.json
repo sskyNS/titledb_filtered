@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/22850d6aba66192b9bfb829e7b3be618d34a7c52192e482222defc23ab87f68d.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Run, jump and zap your way through 30 levels of robo-fun",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

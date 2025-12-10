@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/72a745c3864af04a62c73a0b17e2bbddb86c17f6f86ad3921444881e3eef3982.jpg"
 	],
 	"releaseDate": 20241227,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Compete with family and friends to uncover the ultimate quiz champion!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.24 GiB"
 }

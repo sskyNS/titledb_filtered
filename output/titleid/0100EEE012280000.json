@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a495c2c3a28c9a990a4b1d5df603a6aecb31145b9308446d489181f3212aa2a.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Magical girls are real, but the pay sucks! Join the Union of Magical Girls, as they fight to protect the city from evildoers by day, and fight to become unionized by night.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

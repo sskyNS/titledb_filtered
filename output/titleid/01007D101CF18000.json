@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c09d6531110f3376d0aba08fa5d1a8bc986b49af1017645c022f1af71e06c242.jpg"
 	],
 	"releaseDate": 20240913,
+	"category": [
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Explore a world of madness as you struggle to keep your humanity",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

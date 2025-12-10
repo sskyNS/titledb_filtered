@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/94fc9e05baf60e122475a662d4b883d7a209946b59ed8b32cc75e4a9cd76560c.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Shoot the harpoon and pull the enemies! \nPull them in close and defeat for a higher score.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

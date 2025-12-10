@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfbe7a7f7907c82005582a99d0d0f710aa760cd073fd48adc3fec7fcb746c06c.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"RPG"
+	],
+	"intro": "Lead a team of adventurers to the highest rank of all guilds!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.09 GiB"
 }

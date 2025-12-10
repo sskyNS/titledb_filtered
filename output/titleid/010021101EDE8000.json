@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0996850ecc17191ac192907ffd2dd790733781c6a9bb0d76700fa0fa18881119.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Sports"
+	],
+	"intro": "Golf VS Zombies is an arcade golf simulator with RPG elements which combines golfing precision with action-packed combat against the undead. ",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.57 GiB"
 }

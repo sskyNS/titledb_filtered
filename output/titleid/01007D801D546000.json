@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a203fc691e4fb56f56831480618132e318051d13442afa05b289dff81624687.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The family is Hungry and a scissors-wielding Psycho wants your limbs.  Can you survive the Cannibal Abduction and The Night of the Scissors?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "355 MiB"
 }

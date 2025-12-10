@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5cc117f7ff5c9711d30bf1654f962d9a57be1d888deeba331051702dbe2a21d.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Simulation"
+	],
+	"intro": "Buy an abandoned gas station and restore it to its full glory. Renovate, upgrade and expand upon the offered services to keep up with your clients demands.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

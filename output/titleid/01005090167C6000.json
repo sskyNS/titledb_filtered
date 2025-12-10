@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4175744e30c09dabccf77b025b6e49efb5c07eff49a8868209f87c03e9c2f72c.jpg"
 	],
 	"releaseDate": 20220119,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Guild of Ascension is a Tactical-Action-RPG with rogue-lite elements, mixing turn-based combat with real-time action combo system.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.18 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1340398a3dd76fb81fb77d80b0e4f0cab16159eaedc442bde50365bd7743254d.jpg"
 	],
 	"releaseDate": 20240310,
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Embrace chaos, mischief, and guide Serious Sam to his purr-fect inner peace in this feline quest for household mayhem.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "309 MiB"
 }

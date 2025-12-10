@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/752c7bd68e6d5856ff724b2237ffd49717d80d939785c080733f62cc319f58cc.jpg"
 	],
 	"releaseDate": 20240716,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Delve into more than 40 tombs filled with dangers and great treasures in a game that will test your reflexes and your ability to solve the correct way to escape each of the tombs alive.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

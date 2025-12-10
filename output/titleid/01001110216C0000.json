@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/419f0042c58851bfbd1db53f6ccab82d43573cbae2c3a65a3fe3cb1e6924a162.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Music",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Get ready to move with Musical Vibes RX, a new dance game you can play using Joy-Con\u2122 controllers or your smartphone camera connected to your Nintendo Switch\u2122 console!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.90 GiB"
 }

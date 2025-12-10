@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f459d4237743ec5fe85f38eab156f9f9b7be02e342ce57a3c2dd029e17023917.jpg"
 	],
 	"releaseDate": 20220913,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Strategy",
+		"Communication"
+	],
+	"intro": "Seek the treasure within the cards\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.79 GiB"
 }

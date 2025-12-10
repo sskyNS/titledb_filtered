@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f9391bec7064f6f19368afbec0a3da30dcb2b73a11b1077a00dc9a1afe72c4b.jpg"
 	],
 	"releaseDate": 20230829,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Embark on a journey of peril and wonder as a Solstice Warrior in this turn-based RPG inspired by the classics",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "5.08 GiB"
 }

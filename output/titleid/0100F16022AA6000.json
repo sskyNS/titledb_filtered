@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/077ef70c2701411b7f0c056b6ed5c73633cb36af5196e9b64d4b91266b6c18d0.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Loot and roguelike thrills await. Begin your epic action RPG adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.25 GiB"
 }

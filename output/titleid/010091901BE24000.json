@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6127eee511674d3ef9017ef7f68d3a696b7acd3d98c140fc22508a95f6858b96.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Noobs Want to Live is a fast-paced roguelike featuring several characters and a large pool of skills to choose from (that synergize with one another, too!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "430 MiB"
 }

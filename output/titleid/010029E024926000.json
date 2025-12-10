@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/345172809567540e8fadf9251ee6ce1d4c01adbf2c61143d227cb7eb8e4b16de.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "The battle for Tokyo! Which side will you join: the Green force or the White force?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

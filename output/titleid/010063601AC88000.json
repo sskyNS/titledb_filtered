@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/710b47e99947fb9f50f7c51343979b51be2e9f4c25551a82b6ffcd325846dfaa.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "MAZIN GO!!\nYOU WON THE MATCHLESS POWER!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "62 MiB"
 }

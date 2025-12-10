@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9236e1533b33a5d76c8c772d39c6c7295c6e9d82b17e445ebebf64ea270f149.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Discover the secrets kept in the long abandoned Tesla Tower!\nMagnetism and other electromagnetic powers will help you explore a non-linear world of beautiful hand-drawn environments, in a steampunk-inspired vision of old Europe. A young boy suddenly finds himself embroiled in a long-forgotten conspiracy, involving a despotic king who rules the nation with an iron fist. Jump into an outstanding adventure told through voiceless storytelling, writing your own part. Armed with ancient Teslamancer technology and your own ingenuity and creativity, your path lies through the decrepit Tesla Tower and beyond.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0d8358423bec01da6d8fb058373a951c709d0fa152c5319a62decfc73ae6540.jpg"
 	],
 	"releaseDate": 20240310,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Help Police: Pull the Pins is a game featuring a familiar, popular, simple, and accessible puzzle game with a variety of difficulty levels.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

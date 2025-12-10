@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/db6750f91dc305ab1648ce4c5e608af2d990b07484edad26048ccb823c0cf65e.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Trapped on an unknown planet, explore and scavenge your way to an escape!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

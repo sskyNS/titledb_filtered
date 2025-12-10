@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/70af6d6188e61971e3cd3ff3684955eeef95a1881a39fdaa923b07ef2d6ad938.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Arcade racing with RC toy cars along exciting tracks with friends! A born racer will not remain indifferent!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "797 MiB"
 }

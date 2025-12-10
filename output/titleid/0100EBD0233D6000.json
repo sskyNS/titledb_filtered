@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/30afb9035139f9a399af099226567205984fbe680416df606384e974dd2642f0.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"RPG",
+		"Action",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Become a legend by slaying demons and collecting their souls!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.31 GiB"
 }

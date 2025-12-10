@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3ada69e1d3f23a9426a376ac49a95b86abc4c51c6fc61fee8d67b980d1c96a0.jpg"
 	],
 	"releaseDate": 20231202,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Prove your mettle on the track and strive to become the ultimate racing champion!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.22 GiB"
 }

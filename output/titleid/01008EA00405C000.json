@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bf2ef35ee5c8857cc5c3b273ef9c007356129971cc8f372ac9b426a5fcb4fad.jpg"
 	],
 	"releaseDate": 20170824,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": " Are you ready to uncover the truth?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "705 MiB"
 }

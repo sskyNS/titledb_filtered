@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d99a241e49b6be878bb8176495362a530a910e907a64fb09a79d51a67bdc7ff1.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Merge into the universe of Timberman! Enjoy the retro-vibe in a 2D platformer style with a 16-bit pixel art classy aesthetic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "440 MiB"
 }

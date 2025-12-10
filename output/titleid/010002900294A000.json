@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc1ac6901fdd83bccbdf8ac4014c614d32e12bd0907d83367cf4aa879749e798.jpg"
 	],
 	"releaseDate": 20170509,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Up your game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "9.64 GiB"
 }

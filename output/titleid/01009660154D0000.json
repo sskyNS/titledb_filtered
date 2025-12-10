@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d7c19e0066d4b2cac37c07171211b5c0db47961b49b49a25ff8e8c5c0018a35.jpg"
 	],
 	"releaseDate": 20210625,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Party",
+		"Strategy"
+	],
+	"intro": "Let's roll... the dice!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "233 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b0e0ccb92b0726286100f854bcfd26cc85668d6cc956af8b7afc72dbf0238ef.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Blast bots, solve puzzles and fight to win in an ever growing Story and online PvP mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "763 MiB"
 }

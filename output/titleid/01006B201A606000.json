@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/df295d1742348c500342767ab9aa51d14a7b35fb808846468ed7becfbc310d18.jpg"
 	],
 	"releaseDate": 20240830,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Run or die - the choice is yours.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "933 MiB"
 }

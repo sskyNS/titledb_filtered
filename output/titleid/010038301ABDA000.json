@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2443f08ae81e6db482975c38f800f38fd44dfdf0659bc19aceb9af17dec57ef.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Adventure",
+		"Education"
+	],
+	"intro": "Grab your hat and your lasso, it\u2019s time to ride into a Dino-rrific adventure to save the Cassidy Ranch! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

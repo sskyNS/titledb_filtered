@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e6abea6b26c15922dc07ce903d679756b59b0161ae8c38eb2020419677b91f8.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A terrible tragedy has struck the vampire community.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "761 MiB"
 }

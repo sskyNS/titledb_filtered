@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa207f3af5a85cd43e19b01e89c2b05252558e36693048dead36b2401fd3b2e8.jpg"
 	],
 	"releaseDate": 20240614,
+	"category": [
+		"Arcade",
+		"First-Person Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Power through hordes of zombies, '90s arcade style, in this on-rails survival horror shooter!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.62 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f4ccdfa34a3b24745ff1b9c221bd523c2659c2782b80c6837f0b40229087755.jpg"
 	],
 	"releaseDate": 20210315,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The story of a young girl's fight against the Four Horsemen.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b441cf0aa8cd5e9acad0d4938b75ffd87aa516eccb19932871950b2ca047c380.jpg"
 	],
 	"releaseDate": 20201118,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Hardcore roguelike about dungeons with hybrid battles, combining classical turn based combat system and a collectible card game. Collect the best spells and conquer the dungeons!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

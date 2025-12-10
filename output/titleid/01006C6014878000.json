@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/36f993411b6a7c16613c9d416e4e727fa6f39fe705b5d99c6f7a0db92c154183.jpg"
 	],
 	"releaseDate": 20210728,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Let's go on an adventure to unite dog and clown.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.65 GiB"
 }

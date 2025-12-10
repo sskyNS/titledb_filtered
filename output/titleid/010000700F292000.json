@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/38abe3824bb6b23e7410eff2fd6050d5c374f5cbc03882247eb3c374ee114cc8.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Riding in on his white horse, the sheriff is here to take out the gang in a shootout faster than the eye can see!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

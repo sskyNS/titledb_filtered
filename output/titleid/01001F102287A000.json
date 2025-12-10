@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/03d91c84e3a6a16ff54d382939049e02251d5d8ac1977f12bed8171fe03df7cd.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Captain, set sail and explore the rough and tumble seas!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "303 MiB"
 }

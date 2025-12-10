@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/66a4e4055e9bc78c0ec3b0e5f3bcf3d365a10b3c5c8d6a6c11ac398486bd8658.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Embark on a perilous adventure in classic role-playing style with dice rolls and card-based actions to govern your fate!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

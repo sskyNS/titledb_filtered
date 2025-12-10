@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a54e22c2d41304b4ccf04cb73b06bf705c90812face898d7cb0e01b92c57e8d.jpg"
 	],
 	"releaseDate": 20200606,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Reveal secrets, uncover hidden treasure, and don\u2019t forget to save the world!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

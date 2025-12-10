@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/96d735dd5e86b60d2a8bd55d38fc342dd55a03485aa921146b618b19cf824cc4.jpg"
 	],
 	"releaseDate": 20241108,
+	"category": [
+		"Fighting",
+		"Shooter",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Choose your champion, master your skills, and conquer the animal kingdom\u2014are you ready for the ultimate battle?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "853 MiB"
 }

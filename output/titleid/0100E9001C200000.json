@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b3c360db11bec052863dc080417e794ec13bfe0c526ba42b8c82b2dfb49c866.jpg"
 	],
 	"releaseDate": 20230924,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Its a 3D war game where player need to defeat all enemies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

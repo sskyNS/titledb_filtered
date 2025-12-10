@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f314a364a5a8e47ae7eb910b6c4d43b1c697149b7affce5c9296485f4cd467b.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "2D puzzle game. Solve 96 completely new and difficult levels. No time limit, no enemies. Just fun. This time it won't be easy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

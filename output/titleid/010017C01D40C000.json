@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53c0abf1cab3f281ee65f75406f88c9f0d7cd5426f0a48118950448143814f26.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An atmospheric point-and-click quest in which you play as a wise white cat.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

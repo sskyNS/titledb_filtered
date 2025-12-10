@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4861c26711db6fd13ae82e1ab549bffa3905c0b02660929c8a2c1dbd5ce08f83.jpg"
 	],
 	"releaseDate": 20250906,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Hunt for ancient treasure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca7a8cf2c3f0e132470da798a0c85de011fd70ffcf3ce2e9c26a42e0f57bcbe8.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Cave Digger is a mining adventure game, which takes place in a small town of an alternative Western universe full of mystery, dark humor, and full of experimental tools for the brave miners!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

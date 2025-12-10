@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b58a822067d1e25ff58dfe899412a303ba70daa778f34dbd2cb06bbab59844e.jpg"
 	],
 	"releaseDate": 20200619,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "An authentic baseball showdown!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "37 MiB"
 }

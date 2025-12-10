@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b655364c115c2890337881945c45ed77c12351281cf8d6b9d7cc5a2519543d50.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Eliminate all the bases to reach the end boss and advance to the next level in SEGA AGES Fantasy Zone.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "80 MiB"
 }

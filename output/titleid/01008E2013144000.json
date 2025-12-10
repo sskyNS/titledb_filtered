@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c82a2f723542c92ec14e05f2d1838b757f9dc3e322090c1b882903cdd7a12df6.jpg"
 	],
 	"releaseDate": 20201204,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Fight for the freedom to not wear pants!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "386 MiB"
 }

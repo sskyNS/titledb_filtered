@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3122c4722d0b16fc4815f6303b4cca930475fd3e9dffbc3bb6d3c4d1c433e1c.jpg"
 	],
 	"releaseDate": 20250506,
+	"category": [
+		"Action",
+		"Racing",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Your Truck, Your Style\u2014Drive, and Conquer the Highways!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

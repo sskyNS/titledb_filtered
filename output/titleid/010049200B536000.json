@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0456978e3e2833d4ebd1ae2166b9158e44bf6692ee80e31d6098bc38401f023e.jpg"
 	],
 	"releaseDate": 20181214,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Start a Rebellion! Lead your ships to take down the evil O'Xelg base in this squad-based roguelite shoot-em-up! ",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "152 MiB"
 }

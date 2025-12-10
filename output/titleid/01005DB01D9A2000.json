@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/46c764d9bdefad86612fbeacff6b461eb435102895abc5af5f5372ae1fed1b6f.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Test yourself in an exciting mini golf simulator and take the champion's cup in Golf Championship!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

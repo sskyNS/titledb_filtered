@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce2617a2ac2aad54209a7663f98e3a8257d8baaf89b860e235b2a06d7fed5fed.jpg"
 	],
 	"releaseDate": 20240105,
+	"category": [
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Dive into the Ultimate Console Arcade Experience!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "621 MiB"
 }

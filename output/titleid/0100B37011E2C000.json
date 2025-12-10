@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7677f76214a8b6bf9d9f603d92d8d652e7810ad4b95fef93d7dc840954519984.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Build spaceships on the fly in this fast paced action roguelike",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

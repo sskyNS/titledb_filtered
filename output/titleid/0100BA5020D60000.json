@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d7a09154a01f67d0ea221439545ac8b40f098f7c3653d33681d2a87c496a1d9.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A fresh fusion of Poker and Puzzle! \nArrange cards and complete poker hands!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "345 MiB"
 }

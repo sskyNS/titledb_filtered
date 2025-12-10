@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c6953e519041f78593a1ae603104e811714a9512414c6b8b51305ff8e9146fd.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Radical Rex is a fire-breathing Tyrannosaurus on a skateboard who has to save the dinosaur race.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

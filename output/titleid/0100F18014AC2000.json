@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b49c5813c32c215ea8430cf961c2df60136cef4af8d294f7059adbe85d251da4.jpg"
 	],
 	"releaseDate": 20210604,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Adventure",
+		"Study"
+	],
+	"intro": "Have you ever played the old puzzle games in which you had to find all the differences? Well\u2026 Tiny Lands uses the basic concept of this idea, but with a new twist.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

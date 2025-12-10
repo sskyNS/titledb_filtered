@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c554b57ad21347a00bf05d94185146f1e05c358a2840cefdfd51d4a4919d087f.jpg"
 	],
 	"releaseDate": 20240114,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Action"
+	],
+	"intro": "Speed through a Neon-drenched cyberpunk world: Dominate the streets and master the art of drifting in a futuristic showdown!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

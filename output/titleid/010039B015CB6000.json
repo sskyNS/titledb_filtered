@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3739b75dabd862a657670dec45c0e616ca71e85151d886224d45597a49bc42e.jpg"
 	],
 	"releaseDate": 20220510,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Strengthen Your Bonds",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.92 GiB"
 }

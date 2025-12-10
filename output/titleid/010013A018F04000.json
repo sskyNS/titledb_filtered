@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4236f49df289cd34e060b324571c797dcd0f6027dafa18ba410653c5f9c5ef4.jpg"
 	],
 	"releaseDate": 20230307,
+	"category": [
+		"\u52d5\u4f5c",
+		"\u5192\u96aa"
+	],
+	"intro": "\u300a\u68c4\u6d77\u300b\u662f\u4e00\u6b3e\u985e\u9280\u6cb3\u60e1\u9b54\u57ce\u52d5\u4f5c\u5192\u96aa\u904a\u6232\uff0c\u73a9\u5bb6\u5c07\u5316\u8eab\u5b88\u8b77\u8005\u6ce2\u5f1f\uff0c\u64cd\u63a7\u528d\u9b5a\u5925\u4f34\u4f86\u963b\u6b62\u5783\u573e\u8b8a\u7570\u9b5a\u5165\u4fb5\u6df1\u6d77\u90fd\u5e02\uff0c\u540c\u6642\u5728\u5192\u96aa\u65c5\u7a0b\u4e2d\u9010\u6f38\u63ed\u958b\u9019\u5ea7\u65b0\u4e9e\u7279\u862d\u8482\u65af\u80cc\u5f8c\u96b1\u85cf\u7684\u79d8\u5bc6\u2026",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.65 GiB"
 }

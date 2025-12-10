@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f28c90c0daa5a50f364021e78a56539dfc4322179a226545aea076f969fa644.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "In a dangerous and exciting world, set sail as a pirate captain and build your legacy. Explore a vast open world, battle enemies, and discover hidden treasures.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

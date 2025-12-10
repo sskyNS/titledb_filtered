@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fff59c34cb2d0b5feaf078d9c39379164d5ac6a9d55011c1b5e8c1be2ac82f47.jpg"
 	],
 	"releaseDate": 20180502,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Run with the ball or make a pass - you decide how to gain those 10 yards! \nGo, go, go for the touchdown!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "110 MiB"
 }

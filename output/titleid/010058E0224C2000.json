@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e490744878d239ae6f2149a4c30f505cd42a31915afa46af6553dda2ff6dcf6.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "An ongoing apocalyptic meteor shower has forced the world\u2019s population to settle underground. As Shell, drill downward through a tile-based underground and discover the Everdeep.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "699 MiB"
 }

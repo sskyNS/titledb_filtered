@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f0c0309aa1a94fdf00d35da3f42bffe4b4e0cbd3fe3a6e1cc93a6667e19b637.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Switch up your strategies with the wide variety of warplanes available in this thrilling, flight combat action game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

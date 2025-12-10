@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/23d3ae744b82e96439b034da250abd038a1888b51d56e169585a7558a5263657.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Utility",
+		"Lifestyle",
+		"Education",
+		"Other"
+	],
+	"intro": "Master the art of coffee, from bean to cup.\nLearn barista techniques and craft perfect recipes.\nTurn your coffee passion into true mastery.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

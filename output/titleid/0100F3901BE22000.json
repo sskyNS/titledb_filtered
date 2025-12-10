@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dee8f12086fa1abbccdeff5c63fdcf26f1d1d2d09d3d5280508b96a62172b531.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Emergency!\nKeep the citizens safe from the prison escapees!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "56 MiB"
 }

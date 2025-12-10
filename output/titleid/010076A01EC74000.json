@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ff5fbddde6891f0f00dad6fefc1fa6eb5309282e4fc6e6ff1a3fe00443a3f3a.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "3rd-person horror with fixed camera angles and retro-styled graphics",
+	"languages": [
+		"en",
+		"es",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.30 GiB"
 }

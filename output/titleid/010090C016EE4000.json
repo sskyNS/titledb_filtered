@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/51a2213d809e595d0314a10e38b038e5fb5261070a325c1fc7e62b27501c6e3f.jpg"
 	],
 	"releaseDate": 20211220,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Build the ultimate Pirate Theme park!  ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "301 MiB"
 }

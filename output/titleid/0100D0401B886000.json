@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/48694fd21d5f2f7f423f874378fa2fe58360a5074eb23d50b216c4429d7d42eb.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Jump, slap, slide, swim and roll! \nSquish and stretch Jello in a tactile unusual way\nComplete the challenging levels and help restore the world",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "372 MiB"
 }

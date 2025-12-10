@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4497ab3a46321808fff74cce2f3930cd4fe0428061121bd9bce0b2bfa3c9303c.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Yu Suzuki's return to the Rail Shooter genre.\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.11 GiB"
 }

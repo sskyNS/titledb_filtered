@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea272f88fef001587772ce61f96df6b15e3dffe0d2161a017a1acb4ab465529e.jpg"
 	],
 	"releaseDate": 20200731,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A retro platformer for everyone!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

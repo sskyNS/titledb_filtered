@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/afdd251abc759bfb751a26d6fb08bc778005dc233b2c1c51fc5168b274169ad2.jpg"
 	],
 	"releaseDate": 20250314,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Meet Rosabella, a young girl with a heart full of curiosity, who discovers that she is the only one who can restore the lost light to the kingdom where she lives.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "556 MiB"
 }

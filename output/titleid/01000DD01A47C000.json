@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/26460f28e3dd41c282a2738da25a4149fe5c2cd91348952a7f5de2fa655e54d6.jpg"
 	],
 	"releaseDate": 20230228,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Explore your kingdom and rule wisely in the card game - Choice of Life: Middle Ages 2 ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "885 MiB"
 }

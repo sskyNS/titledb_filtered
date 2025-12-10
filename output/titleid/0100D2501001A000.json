@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/166120c17817575e383d2957e2141e5dcc672143cec346f68b790f65cdf0b7ac.jpg"
 	],
 	"releaseDate": 20191129,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Help Foxy rescue his girlfriend Jennie!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "29 MiB"
 }

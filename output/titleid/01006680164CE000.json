@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fa2b802fc7b9523bf9d1b8a6cf2fc3540b8067a37910f1b36dc4c1f5c949d0e.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "An epic fantasy adventure across a world of traps, monsters, and magic, where every decision counts and nothing is as it seems.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "854 MiB"
 }

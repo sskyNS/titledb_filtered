@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbe99fae7bf83b12ee80bb365cb3e5c67800030b15acb61adc88279e44d1a624.jpg"
 	],
 	"releaseDate": 20191220,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Atomic Space Age was a blast! Until it became \nthe Post-Apocalyptic Space Age.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.55 GiB"
 }

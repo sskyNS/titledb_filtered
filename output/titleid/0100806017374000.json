@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/188963cc87309899c09ada085edbba79230360c05854fbc5573796c708f51b35.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Defend the Rook is a roguelike tactics board combat combined with tower defense elements. Defeat the invading hordes to stay alive and save the land!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

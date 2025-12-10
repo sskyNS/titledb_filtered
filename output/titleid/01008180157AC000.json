@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6797678fe352e3f03e1994e1aff2f3331d2b92f50a19c29adf9fb16ce78cc94.jpg"
 	],
 	"releaseDate": 20210827,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "It offers the immersive atmosphere and experience of old school role-playing games.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "393 MiB"
 }

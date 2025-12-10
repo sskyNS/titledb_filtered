@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/67c54ecde09c7a74c06523cca2ed9dc078c352258ff199e46fdad8db490c81ca.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Dive into a narrative filled with charm, adventure, and adorable animals. A colorful hand-drawn world teeming with unique characters awaits!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

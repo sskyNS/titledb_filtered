@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6de957dd7d78be580d941ad69d77993886bc54e9d691ce0efe8dbac2b004a6e.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "The OFFICIAL video game, based on the hit TV show - Have you got what it takes to beat THE CUBE? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "999 MiB"
 }

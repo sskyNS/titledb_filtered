@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/700e814f40be256d2c94fb9578ab4c2ca5cccc5cfb6c0a1ee9f155acb55899e2.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "By Toutatis! The indomitable Gauls are back with a new video game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

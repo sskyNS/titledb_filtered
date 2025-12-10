@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b3ac6225fc5d9eb6f348bef3948e6304942559579220520c99cdea36c386c09.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A relaxing tile-based puzzle game where you build cities on a desolate island.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

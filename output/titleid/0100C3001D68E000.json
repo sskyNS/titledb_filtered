@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a084e3d32960adaef1db8419af594531fc6e9f8916dec7f5d3e295faa988bd37.jpg"
 	],
 	"releaseDate": 20240525,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Rogue together!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.06 GiB"
 }

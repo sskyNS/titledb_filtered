@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba8eca2f2ffbf658e6b9ce00c315f252be632b0eec82b745e9cfbe33b10a2dc7.jpg"
 	],
 	"releaseDate": 20221205,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Once inside, you can't cut corners!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

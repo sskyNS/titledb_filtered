@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/020761bbad7b99c6a7bf23c4fc54c6a5d95063d462fc8a924ed68a9e57cedb22.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Party",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "A chaotic, cartoon style arcade volleyball game with local multiplayer for up to 4 people. It's designed as a party game with each level featuring different themes and mechanics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "317 MiB"
 }

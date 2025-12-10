@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c895cb13727b001f52f9882d0156d619d7581ec6c174263be09ca4d0f5546238.jpg"
 	],
 	"releaseDate": 20241016,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Help Aki the alligator find his way home in Beyond Border!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5033f46d242981fa662dcd2ca8f330372e52c718af8f513b0df618e0e7951106.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Realistic disc golf game with easy to learn playability",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "614 MiB"
 }

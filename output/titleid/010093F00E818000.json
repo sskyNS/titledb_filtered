@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/35be5e138ba4d638b6549a8a2249d6413e071d72c72a8c5d0659a73ec55c9f2e.jpg"
 	],
 	"releaseDate": 20191203,
+	"category": [
+		"Party",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Renovate like there\u2019s no tomorrow! Gather your friends in this intense couch co-op about home renovation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.97 GiB"
 }

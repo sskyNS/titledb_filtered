@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/93dc3a19a327473801164584f6082ae9d0e775600deb0d10656d6930dd727a22.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Fields of adventure awaits in this challenging fantasy RPG",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.71 GiB"
 }

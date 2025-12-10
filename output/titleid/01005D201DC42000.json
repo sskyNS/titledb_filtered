@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/69f1cea982669caaffe3a67ddf8d216ab4f09b64cf1c8902cc13beec55ca7938.jpg"
 	],
 	"releaseDate": 20240203,
+	"category": [
+		"Sports",
+		"Adventure",
+		"Racing",
+		"Action"
+	],
+	"intro": "Rev your snowmobile through crisp mountain air, conquering treacherous terrains with thrilling speed.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

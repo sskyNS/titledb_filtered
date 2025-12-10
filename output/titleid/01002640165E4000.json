@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5bac93818ea6afbbaf87da1b84f4875486b87ab0b70c94a11d076b73993eadb.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "A fast paced 360\u00b0 action-platformer with rogue-lite elements",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

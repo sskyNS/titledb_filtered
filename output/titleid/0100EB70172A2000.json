@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d316cffce508f46b01affcc91807e2a5721568aec853b0210c3fea8208952e2.jpg"
 	],
 	"releaseDate": 20220311,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Venture deep into the caverns of Bazoik, using an array of \"zorching\" devices to send these nefarious foes back to their home dimension!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.50 GiB"
 }

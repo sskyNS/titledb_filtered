@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e35f030e27a7506902f6a76402de6a85aedd18b7090cbc9c79d4a616330dfceb.jpg"
 	],
 	"releaseDate": 20180330,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "You are alone. Are you lonely? You're lost. Or stuck? Somewhere...but where? And most importantly, who are you?",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "192 MiB"
 }

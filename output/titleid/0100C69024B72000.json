@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc4e685375973ae2de3db946fda86bceba05648b78cc4ae9a9f44dfaba6297cc.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Lights out - cats out! Catch them before it's too late!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

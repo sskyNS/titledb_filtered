@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/47d4a9405554c02d3160177240f249bcb457042005e372fbe1eb6de39e181af3.jpg"
 	],
 	"releaseDate": 20220920,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A fun racing and sandbox game involving cars. dodgems and trains!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "133 MiB"
 }

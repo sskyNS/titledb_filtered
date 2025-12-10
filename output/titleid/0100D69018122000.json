@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1f4c60db349afd88bc7450ec649d284c78d57c4e8f932628c655599e8731a32.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Flee these Hellish Halls",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "750 MiB"
 }

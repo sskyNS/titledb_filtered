@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/58e5cc7782ede5ec70b1bf9d0bfb1bc2799fba1f0a0e6f6e8849908dbdf5222c.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Delve into a story-driven adventure and channel your inner kitten in this challenging old-school platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "865 MiB"
 }

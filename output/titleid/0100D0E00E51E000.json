@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ae17cb51a465d3131d8cc8e394757f052c825283e1403a9f461ecd035bbc5ef.jpg"
 	],
 	"releaseDate": 20190819,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Hotline Miami Collection contains both legendary games in the neon-soaked, brutally-challenging Hotline Miami series from Dennaton Games. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8371c82544f2a1ad477ce3eaf8f9e6743d3e3a7dcc1806035c5fb8b1ac3cdff3.jpg"
 	],
 	"releaseDate": 20241025,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "A breathtaking arcade space combat game inspired by prestige anime.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.94 GiB"
 }

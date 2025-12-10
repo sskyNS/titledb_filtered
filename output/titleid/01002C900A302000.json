@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2099aee19d56d90914001a48fdec1039aadf0a3c00fa73432584ad369126712b.jpg"
 	],
 	"releaseDate": 20180607,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Every split second counts in this intense game! Tear through the circuit on your motorcycle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "118 MiB"
 }

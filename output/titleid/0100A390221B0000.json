@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/19901f7a48d36505794f6149c02142a4c9aee14a0eb34038cc910c55fcaa1c49.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Step into a place where art comes alive and fear becomes reality",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.98 GiB"
 }

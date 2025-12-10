@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/955cdf97b5a80c85b624b87b2ca70f3b2966b952e44f8327c884f0d586aea286.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "match3 puzzle action game\uff01\nPress the block. Climb the block. Erase the block. Let's aim for the goal!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

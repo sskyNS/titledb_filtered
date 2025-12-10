@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2714a549e23dda4f20732e5c4dd24d0b9173109b35c3f1ebfa0b0d6204f94e80.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "A floor plan was sent to the urban legend-researching VTuber, Roa Usagi. Hidden within it was a certain 'strange mystery.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "361 MiB"
 }

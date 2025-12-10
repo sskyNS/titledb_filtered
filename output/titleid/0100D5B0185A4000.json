@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3a478c783abf0c5475e716610d2e3ce23171bccf14706e512168c4f746f28b5.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Project SNAQE is an action and precision game inspired by the classic Snake.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

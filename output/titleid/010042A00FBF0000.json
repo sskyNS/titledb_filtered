@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa3dca517930ce2003826a36befb0061b95ac7b61fecc4716c0f87332bb74b66.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Enjoy amazing rides, exciting equestrian games and much more!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.46 GiB"
 }

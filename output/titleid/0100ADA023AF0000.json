@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/92bc752c4b07e3cebe021bc663dd4e3630d9c9af3249a1ebd7b25d40a40693e8.jpg"
 	],
 	"releaseDate": 20250607,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Action"
+	],
+	"intro": "The ultimate challenge of speed and skill",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.23 GiB"
 }

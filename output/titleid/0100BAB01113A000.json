@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b27dbbfa079a24eea67e14969ec72f8fd011ac71c6693f8fc6d323df07ffe264.jpg"
 	],
 	"releaseDate": 20200714,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Neon Abyss is a frantic, roguelike action-platformer where you run \u2018n\u2019 gun your way into the Abyss as part of the Hades formed \u2018Grim Squad\u2019.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "842 MiB"
 }

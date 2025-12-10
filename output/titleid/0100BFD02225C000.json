@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18dcf158af9d90072bfde6736c9a7f782f3b1e3376974883113210dd0ca1bbe3.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Run away like a chicken as fast as you can!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "316 MiB"
 }

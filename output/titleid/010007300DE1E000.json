@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2b6e047167f1330678eb111ee8e49b290bbff6060be60d396f3e5dad4f8f10b.jpg"
 	],
 	"releaseDate": 20191021,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Monaco: What's Yours Is Mine is a single player or co-op heist game. Assemble a crack team of thieves and pull off the perfect heist.",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "296 MiB"
 }

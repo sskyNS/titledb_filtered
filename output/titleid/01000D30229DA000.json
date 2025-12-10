@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bedfbc5f8eadad5c386f6cf150d8377a935ae9cfda3d9462a6298e1f1ad05e6b.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Build, stock, and dominate the Gaming Market!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "573 MiB"
 }

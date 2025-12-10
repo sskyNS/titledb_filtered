@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3b904879bbae1fe7ec89346394efa4b6da4fe05f46713c61c9f06240cd307ae.jpg"
 	],
 	"releaseDate": 20200908,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "OkunoKA Madness is a platform game in which you play as KA, a blue-coloured hero who must save the world of souls from the evil hands of Os, his deadly enemy.\nYou will have to jump, run and overcome obstacles through unique and colourful worlds with more than 100 levels, go head-to-head with wacky bosses, find hidden secrets, lots of surprises to unlock and an even more difficult world: Madness!\n- Over 100 masocore platform levels to complete\n- 3 speedrun modes: all worlds, single level, custom\n- Several unlockable characters with unique abilities\nLeaderboard system with local and global charts",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

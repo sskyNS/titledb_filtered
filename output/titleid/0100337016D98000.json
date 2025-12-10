@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b57bd4d78e178bec52f6135e438e10634cc523fece378bedb91e145c9db62712.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "How to Say Goodbye is a narrative puzzle game inspired by picture books. ",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

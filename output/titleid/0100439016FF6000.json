@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a03b2e53905e7c590f277f62d11e9035750b8d2404c9691eb1c384a1c8613e30.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Hone your skills in a retro metroidvania featuring crunchy soulslike combat.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4291b0cd51d0454fe9bedfe2926e67c4de8484256a71311640aaa3be419b0e72.jpg"
 	],
 	"releaseDate": 20211216,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Practical"
+	],
+	"intro": "Neighbor! You will fall in love with me!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

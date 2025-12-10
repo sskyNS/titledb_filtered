@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/402b40b550898d3034993b41cbf43640ffbbf49c3beff91d53f43741d030df5b.jpg"
 	],
 	"releaseDate": 20220519,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Goetia 2 is a point-and-click adventure, leading the player in the demon's version of Venice.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

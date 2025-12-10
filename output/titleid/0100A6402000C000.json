@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/efa181c5e591b6d6cc53a5d6992e10d3a539dd0471fc05c6baf72566e5a1e075.jpg"
 	],
 	"releaseDate": 20250304,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "Mount and upgrade your weapons into special combos in this randomly generated action RPG shooter. Mow down thousands of dungeon dwelling creatures and survive as you descend deep",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

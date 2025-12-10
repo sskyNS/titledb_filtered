@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/99cd84f7fad506195b3d9b7bc83dddb68dde1e55cee0113aae48aa67ee883d82.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A vertical scrolling arcade shoot 'em up!\nPilot a mecha through the wastes of humanity!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

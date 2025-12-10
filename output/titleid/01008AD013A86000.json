@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef129727b60f8ebbda4582c92c3c3d6ea37b437c9b017bd23d931bbaf251c9e4.jpg"
 	],
 	"releaseDate": 20220606,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Only the Cutest Survive",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "718 MiB"
 }

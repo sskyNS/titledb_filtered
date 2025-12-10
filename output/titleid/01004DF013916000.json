@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/626e4aeb3a5a653c35812c7c266437bd3f51565e02cc3a799f45edf6b8159581.jpg"
 	],
 	"releaseDate": 20220126,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "The original cult classic returns.\nA blast from the past, better than ever.\nAre you ready?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "78 MiB"
 }

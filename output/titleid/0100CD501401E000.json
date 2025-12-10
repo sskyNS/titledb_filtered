@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2298095f89f9969e4fc9865c30aece0849ea4c190ee54d518227e2aab751df5.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Simulation"
+	],
+	"intro": "You just woke up and without knowing it, you were the only person left in the city.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "538 MiB"
 }

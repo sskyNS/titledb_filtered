@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/37a2fb3167bbf90cb669a57804a8229cdbfcdf40267d946dadf35555057d93f1.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Become the most popular bartender in town",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

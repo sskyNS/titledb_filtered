@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6610c1baabcc2a5b05eebcdff88cb8c501533279b6d7ae86202bdc88851c0602.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "All hail the Great Horned Metal God!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "349 MiB"
 }

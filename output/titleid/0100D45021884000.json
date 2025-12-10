@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8032f54d6ccbb41d09e9bf602abf7207bca27e8f5a07062d543878322c9ffbd.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Gear up for a carnival game classic: ring toss!\nWin as many prizes as you can and become a ring toss master!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "195 MiB"
 }

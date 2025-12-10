@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b8b53984593dce660f0a8bd84f622b69654cd1ee5cf2e523f7e8ca3489f4383.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "A new adventure drawn atop a small notebook!\nA protagonist trapped in a page of scribbled obstacles.\nAvoid the doodled obstructions to escape the notebook!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

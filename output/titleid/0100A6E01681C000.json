@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/47297dec90c3d4a537d2985bbf0db074c650b012e8aef9e3775a4e95856d20b5.jpg"
 	],
 	"releaseDate": 20230308,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Be careful when handling these 3 cute animals!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

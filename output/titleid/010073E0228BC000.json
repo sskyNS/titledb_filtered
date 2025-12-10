@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c287e566078dad74a2963f2c3765d3eb135dcc10b69c1ef2ad3c6a1afa683f8.jpg"
 	],
 	"releaseDate": 20250419,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Run like your life depends on it \u2014 because it does.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

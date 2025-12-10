@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f59fb051d6d21a9953a1ac6ca2b6e3ee2f518ce90007c831dd455e1a78e210b0.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "The world ended... But the fun didn\u2019t! \nRace solo, or with your pals across the adorable post-apocalyptic world of Tray Racers!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

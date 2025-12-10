@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/66cbb84d7b80082ae651198acd0435a7f88110d1ce1420d96a8c03be395a4c2d.jpg"
 	],
 	"releaseDate": 20200804,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Hop, skip and roll your way to victory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.75 GiB"
 }

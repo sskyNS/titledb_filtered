@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f09f34d074ac5dd3fd20c1ef652e83b5df045f254387a651051c0309c4562629.jpg"
 	],
 	"releaseDate": 20221107,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Patrol the streets and become the ultimate Police Officer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.85 GiB"
 }

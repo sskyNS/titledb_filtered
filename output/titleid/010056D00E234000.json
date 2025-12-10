@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a659455ec730ced65afa7e5c331d48f741781c0f334c1222df8e6907980b1ed.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Party"
+	],
+	"intro": "30-in-1 Game Collection is coming with 30 fun games to play solo or with friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.56 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/356572032d1ae28c0e8ea34805e3fc3d8779d1917278c1efb68f360ebcc486d6.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Utility",
+		"Party"
+	],
+	"intro": "The world's first battle calculator game!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "96 MiB"
 }

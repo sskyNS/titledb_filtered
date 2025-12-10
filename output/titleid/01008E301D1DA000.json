@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d05f63899e3a6587bb4484ac20ab02399f3b9fc7c8a2d1ad3d64b9982d0b55d8.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Study",
+		"Board Game"
+	],
+	"intro": "Place and clear blocks in this addictive and challenging puzzle game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

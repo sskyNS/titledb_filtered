@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7603dad4b3c820589e5ffa64232fa7ff93e76e4bb75ceff9980159d2b30bedb.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "You are trapped in a shrine.\nTo escape, please follow the rules and perform the worship rituals.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "455 MiB"
 }

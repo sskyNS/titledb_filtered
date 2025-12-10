@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9eb9d8e6da5f53c26cc0cbc932e0fe08c2464b718eb5b5b1df2f8f98fa966fb.jpg"
 	],
 	"releaseDate": 20240327,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Immigration Enforcement Case #112: You are under arrest. Unless your friends can cross a broken America and stay out of trouble... this is the end of the American Dream for you.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

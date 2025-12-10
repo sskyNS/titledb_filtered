@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e572bd1206de04f72857465a6e72a1a975e06a1ee70a62b954242fb8c9e09c77.jpg"
 	],
 	"releaseDate": 20220526,
+	"category": [
+		"Arcade",
+		"Music",
+		"Party",
+		"Other"
+	],
+	"intro": "Pride Dance Out & Proud is a celebration of Pride events. Dance your way through the streets of the most iconic cities around the globe!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.06 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/75eeebaaf1f86bb501a9b5f147d79ff1aec68db55f088b34edf544e048ea7334.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Other"
+	],
+	"intro": "Fast BMX racing, cool stunts, and fun with friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 2,
 	"size": "982 MiB"
 }

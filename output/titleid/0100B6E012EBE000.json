@@ -4,5 +4,22 @@
 	"publisher": "Ubisoft",
 	"screenshots": null,
 	"releaseDate": 20210105,
+	"category": [
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Step into one of the most beloved card games that we all grew up with! Match cards by color, number, or symbol, play action cards to spice things up, and race against others to empty your hand first. Don\u2019t forget to shout \u201cUNO!\u201d when you\u2019re down to your last card!\n\nPlay locally or online with up to 4 players: Track your progress on global and weekly leaderboards, gain levels, and earn special Medals to show off to your opponents!\n\nChoose from a variety of beloved House Rules: Customize your game with options like Stacking, Jump-In, and the 7-0 cards rules. You can even combine them to maximize the fun!\n\nCreate your unique game space with MyDesign: Personalize your experience with colorful boards, card decks, music, avatars, and more. Unlock new items by playing any game mode and build your own UNO\u2122 game world!\n\nJump into the action with exclusive features: Discover the thrill of Happy Hour, where you can play a selected DLC for free during limited time periods, bringing fresh gameplay with each session. Don\u2019t miss out\u2014your next favorite add-on is just a Happy Hour away!\n\nAnd, if you\u2019re a Twitch fan, engage with your favorite streamers using the interactive Twitch Extension\u2014now you can influence the game by predicting the winner and placing your votes on which card to play or color to choose!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.34 GiB"
 }

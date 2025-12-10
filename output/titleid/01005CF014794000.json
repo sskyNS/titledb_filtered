@@ -4,5 +4,14 @@
 	"publisher": "KONAMI",
 	"screenshots": null,
 	"releaseDate": 20220209,
+	"category": [
+		"Action"
+	],
+	"intro": "Go forth Fuma, and defeat the Ryukotsuki to appease the souls of your brothers who had their lives stolen from them!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

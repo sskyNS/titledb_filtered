@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b74c0199dbb381ec66244971c43ee177f44404260b38b4ffe10ccb47bb19d5a3.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Push your skills and your fighting spirit to the limit to win through the competition. There is only room for one yokozuna!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "70 MiB"
 }

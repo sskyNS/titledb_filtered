@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1d8b12b3d4888baf582d2261b507d8d2e49f92819496a060f780ff06657506e.jpg"
 	],
 	"releaseDate": 20220830,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Save Taipei from destruction in this interdimensional brawler RPG!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.30 GiB"
 }

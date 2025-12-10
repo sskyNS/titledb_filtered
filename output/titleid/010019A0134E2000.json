@@ -7,5 +7,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/7de3188c918f8c446e511d8faecd65f24920f1fd96af4c8bc6b571591c494860.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "This game is very simple. Try to dodge all grey balls with your red ball as long as you can. The more balls come, the more difficult the game becomes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "27 MiB"
 }

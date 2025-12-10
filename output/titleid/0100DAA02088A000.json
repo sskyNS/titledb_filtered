@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5eb6a8214806202738d9134c8c9bdf741bc8722ed7475b9e79e67202725e2e8b.jpg"
 	],
 	"releaseDate": 20241102,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Get ready to dive into the magic of Christmas with Santa\u2019s Spot It, the ultimate holiday themed puzzle game that\u2019s perfect for all ages!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "510 MiB"
 }

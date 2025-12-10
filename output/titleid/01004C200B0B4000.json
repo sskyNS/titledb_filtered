@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/50c0ac0106e9e5ebde0b9c2a82361c1dad9d4e5ac0bc42b7265b44fa2e5149c8.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Explore the land of Alwa using your magic staff in this charming adventure platform game",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f2a206d79f652cd72157b0dd2dd29f72f1d121cb4ea1e58e78d2ba2fc753995.jpg"
 	],
 	"releaseDate": 20220902,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Wampir Dungeon is a Dungeon game with Diffrent Gameplay.\n\nOur main character is a Vampire. But it has to constantly absorb blood.\nAbsorb their blood by killing the creatures in the dungeon and pass the level.\nIf the character cannot absorb enough blood, he dies. You have to be a little quick.\n\nLevels in different colors.\nSoft and Fast Gameplay.\nFast Combat Mechanic.\nSimplistic Graphics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "32 MiB"
 }

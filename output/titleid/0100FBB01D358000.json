@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f43813efade433fd9f6bca1490f1d6f715213b63aea0b2269b08c3e1cf1050f8.jpg"
 	],
 	"releaseDate": 20231228,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "Prepare for the ride of a lifetime!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

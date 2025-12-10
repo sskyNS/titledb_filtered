@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a16e9cf92d95c4ec0011fbd3f4e02200e02bd05a70a3c5d96d5feb19375b1cfe.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Set sail on a purrfect catventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.52 GiB"
 }

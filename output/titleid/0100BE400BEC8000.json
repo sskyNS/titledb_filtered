@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/315f52407f26eae8db3d1b1cfd679253ac6f562b2f8429a395c1a9b98e8e178c.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "What is the fate of those who have acquired\ndivine power? Discover it in a fantasy RPG\nfeaturing stunning 3D battles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c75d979c3b7eb1e4cf07719897b2d6ff140361bafdcfeff981205a083ce4e66.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Alter World is a 2D platformer that allows the player to travel through different universes and use different realms to move to different levels at any time. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "657 MiB"
 }

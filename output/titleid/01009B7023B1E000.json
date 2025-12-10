@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b073aca34eca10187691854ec4e1d2e17504c9dfdfd072b891119366465fa4f.jpg"
 	],
 	"releaseDate": 20250628,
+	"category": [
+		"Platformer",
+		"Other",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Put on your best British accent and grab your badge \u2014 there's a thief on the loose with a suitcase full of stolen cash!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "86 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/37509206e9d5dc3dde0618cb5e7b99494c3a610f6789101f8adc0d43429bc034.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background color.\nIncludes full colorblind support, using symbols as a color aid.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

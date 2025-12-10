@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/da1e8b67896d413d15ad56f68ded05a0a1ec2f9bea377a4d3a8d4cd0e1d9c61e.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A heart-poundingly intense twin-stick shooter!",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

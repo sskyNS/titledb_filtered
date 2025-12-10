@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d38995963b1cad69e56123872f5e6099f269fc03d092d1ee2d66a5def3204e0f.jpg"
 	],
 	"releaseDate": 20210702,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Discover secrets of the odd spaceship, who unexpectedly entered Earth orbit.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

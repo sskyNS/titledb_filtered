@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e97a30fcd024279e3d58e08095e4d5e1356cf8811f629b6d41529ad77c07e382.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Figure your way out of colorful labyrinths in a rewarding puzzle game!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

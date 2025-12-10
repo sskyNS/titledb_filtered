@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/165c13fbd50a4bde1062283267ff6a78530c992dce7585c1906d803d42ae3f74.jpg"
 	],
 	"releaseDate": 20210331,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "You didn't have any legs... so we gave you some!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "443 MiB"
 }

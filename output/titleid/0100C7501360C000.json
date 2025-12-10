@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a46e8d6f3e8fde1b6a8b984797a80ce70063ca8988e37fce287f8dab9f38ce9e.jpg"
 	],
 	"releaseDate": 20221130,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Get out from the forgotten planet in 11 days.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "615 MiB"
 }

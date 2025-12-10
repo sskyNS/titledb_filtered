@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/70f79ea574e338966ccac2a3450fad749c08b98f6fd4de26adc5043682d1472a.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Become an ace pilot and strike like a hero in HARDCORE MECHA!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "11.21 GiB"
 }

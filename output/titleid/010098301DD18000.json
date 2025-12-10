@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ad4ec9c7763b7599fa513bbd295248220baa278ae7ce5731be10b4fe40fc2ae.jpg"
 	],
 	"releaseDate": 20240225,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Roar through the savannah, hunt prey, and lead your pride in Lion Simulator Survival\u2014an immersive RPG animal battle experience.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "710 MiB"
 }

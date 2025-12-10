@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec76ad6c3dd9c70e69f484e7e439051365e57337640ab845b8121f9b49e4411a.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Adventure Based Tactics",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.83 GiB"
 }

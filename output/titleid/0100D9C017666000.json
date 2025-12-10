@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f400abc9a90a9abd4352cfbbccfcc306fe4711c391ff17bfb463df4ebd463700.jpg"
 	],
 	"releaseDate": 20220305,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Control the traffic light to regulate the flow of city traffic!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "867 MiB"
 }

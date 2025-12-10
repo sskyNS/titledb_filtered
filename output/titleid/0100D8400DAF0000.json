@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7275fea1662274a61f3cfe93ff3f2a655a63a874bb7bf00a1c57b1b5ba3297b0.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Bring blood to cyberspace.\nStrategic,high-paced arena battles start here.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.06 GiB"
 }

@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/38d01e0ec528d50e92ad447c1f90e33660dd01c3ddbeadaca222354c4b35077e.jpg"
 	],
 	"releaseDate": 20240309,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "You have 20 minutes",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

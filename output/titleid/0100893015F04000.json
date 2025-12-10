@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f683ce61963d623774e5641d9d4ca028680b6cc92f1bd30ab06e3638ebe8443.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Try to escape from the deadly claws of a killer clown in this scary horror game! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "385 MiB"
 }

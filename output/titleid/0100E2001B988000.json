@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3fd99a836ec7b1628755e027e3c90a84fb05cada9a10189ccc1dcd8f24f0548.jpg"
 	],
 	"releaseDate": 20230812,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Become the hero of the city's roads, rescue stranded vehicles, and prove yourself as the best tow truck driver in town!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

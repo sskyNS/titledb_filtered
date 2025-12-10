@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/62e67715d3ec1a3776f4c86e99ecde9f446d89afa8b95d3c3b64fb0f1d4bfee9.jpg"
 	],
 	"releaseDate": 20251220,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Your next great discovery lies just below the surface",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

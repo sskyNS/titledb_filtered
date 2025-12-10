@@ -8,5 +8,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff60e869a6877f49996232358bac42507d537c30b07a05c14b87e0efab34352d.jpg"
 	],
 	"releaseDate": 20200908,
+	"category": [
+		"RPG"
+	],
+	"intro": "New Game > Start",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.31 GiB"
 }

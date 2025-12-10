@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3e8a5d5a445e32d57bd768cc38e357d59e795a356b8f885eb1e753cb2523682.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education",
+		"Action"
+	],
+	"intro": "In \"Birds and Blocks\" you have to help the birds! They can\u00b4t fly because of their tiny wings.\nYou have to remove the blocks without the birds touching the ground (because they don\u00b4t like the ground or there might be cats around). If they are falling on the ground you lose!\nIt features 80 levels and an addictive gameplay.\nThere are different kinds of blocks with different properties (\"normal\", \"bouncy\", \"icy\" and \"safe for birds\").\nYou can remove blocks by tapping them!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6a1400f85c7bd38c05decf02c81a5e5c3c1d9ca4a50e72c6e9f22e6d6748eaf.jpg"
 	],
 	"releaseDate": 20230109,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "In Flipped On your main objective is to complete each stage without destroying your vehicle. Your vehicle takes damage every time you crash into world objects.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

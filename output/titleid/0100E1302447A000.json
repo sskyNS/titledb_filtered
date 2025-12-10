@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d479bd895e653048c6ac4f17988db5284899775383c44b70c0209f2fa40ade77.jpg"
 	],
 	"releaseDate": 20250902,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Every street holds danger, fortune, and opportunity.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "785 MiB"
 }

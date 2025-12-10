@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8030121707b347ad3ffab7289aedb04e165f5918936c4a14082f90e34b98b84c.jpg"
 	],
 	"releaseDate": 20180223,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Experience Toki Tori\u2019s Epic Puzzle Adventure on the go, for the first time ever!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "578 MiB"
 }

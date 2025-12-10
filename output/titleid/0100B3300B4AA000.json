@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5451ed5d52c68bf52ce9f64cb0a17a64fbcdde5aaa928c1420d77956a74b1a1.jpg"
 	],
 	"releaseDate": 20200417,
+	"category": [
+		"Party",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "The neon-soaked arena brawler full of lethal weapons, stackable perk drafting, furious combat and a killer synthwave soundtrack.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.05 GiB"
 }

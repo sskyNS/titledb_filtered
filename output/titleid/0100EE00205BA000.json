@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3240b94dbd0f29d53999435779b3f35744ef50698fbbf8fb36efee677420554b.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Shooter",
+		"Action",
+		"RPG"
+	],
+	"intro": "\"HEAVEN SEEKER \u2015\u2015The Savior of This Cruel World\" is a twin-stick rogue-lite shooter where you take your own shot at the castle in the sky!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1020 MiB"
 }

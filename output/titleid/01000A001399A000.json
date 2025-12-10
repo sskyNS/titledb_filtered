@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ee7c3a6fafc67b181d76ee5f19fdc2c279445bf2962222991fb143085780092.jpg"
 	],
 	"releaseDate": 20201221,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "The latest POWGI game is a mash-up of two popular word puzzles. It\u2019s a kross between Word Wheel and Kriss Kross. Yes, it wheely is!\n\nRoundout takes the fast and satisfying word-forming action of Word Wheel and gives it a new, visible goal to work towards. Plus, a free bad joke with every puzzle solved!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

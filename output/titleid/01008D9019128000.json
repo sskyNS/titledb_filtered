@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b657d18c419ebb44cdc98f06ba3138fb28e7665e8405d253bd5dbea8b3b405c.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Follow a lone war hero in this flashy action packed 2D platformer",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

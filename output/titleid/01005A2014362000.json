@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/88c79dd281f57d25639cf2ae202872f3dbce250b3b93bea4332ffee1ae3d2887.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Friends \u2018til the End",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.03 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/698a3cfd4da181f4118bfff0cb72975e4634c66b265493c5ade4d04d29f1a749.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "They Can\u2019t Save The World.\nBut They Can Change History.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

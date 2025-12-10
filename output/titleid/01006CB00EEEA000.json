@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/962d92e150fb98d309d2b197b600a8a6d7244ab3f4356c01bed100461384982b.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Action",
+		"Other"
+	],
+	"intro": "Attract customers, train stars, and win the Grand Slam in this tennis club sim!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

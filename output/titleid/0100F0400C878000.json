@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6d366d9556a45845e8482c23defa9a5c7b7dc7ff86fff7a392ee6cd43a06420.jpg"
 	],
 	"releaseDate": 20190724,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "The original naval strategy game sets sail once again \u2013 Hasbro's Battleship! Choose your Commander, deploy your ships and sink the enemy fleet. Ready, aim, FIRE!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "808 MiB"
 }

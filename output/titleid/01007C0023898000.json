@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e6a5dbad63d508ba3484b3dcaca56eaea0e38f982f82ffc10620aa67b50de7f.jpg"
 	],
 	"releaseDate": 20250813,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A Tasty Heist in 2D!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb8596324c39e714c5588dbc19e3cb86ef1b5ad6212235074767c1b122ae421b.jpg"
 	],
 	"releaseDate": 20221215,
+	"category": [
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "\u300c\u9244\u9053\u306b\u3063\u307d\u3093\uff01\u300d\u306b \u723d\u5feb\u306a\u672c\u683c\u904b\u8ee2 \u304c\u697d\u3057\u3081\u308b\u65b0\u305f\u306a\u30b7\u30ea\u30fc\u30ba\n\u300cRealPro\uff08\u9244\u30d7\u30ed\uff09\u300d\u304cNintendo Switch\u2122 \u3067\u767b\u5834\uff01",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.72 GiB"
 }

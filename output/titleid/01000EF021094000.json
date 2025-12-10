@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa5b0850732926abfe77a4ca2d929d4647f8262a8b219f0d8fb5a9937cdf05b0.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Other"
+	],
+	"intro": "FatalZone is an auto shooter with roguelike and RPG elements set in a savage world of zombies. Exterminate zombie hordes, collect resources, upgrade your camp, and level up mercenaries. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

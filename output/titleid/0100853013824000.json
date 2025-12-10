@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/32c13effa3730e2776b2a5989f42ab89ca94f947f501588c11f34262aa5dae4b.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Adventure",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "A Mystical Driving Adventure",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "760 MiB"
 }

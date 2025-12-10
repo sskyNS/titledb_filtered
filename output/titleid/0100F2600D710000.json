@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1aa426d64d121c48a9da5c1f72601e475293ef008a1abdfa7062f37f06939837.jpg"
 	],
 	"releaseDate": 20190924,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Meet the Rogue Corps!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.29 GiB"
 }

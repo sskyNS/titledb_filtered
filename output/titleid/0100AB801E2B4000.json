@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/337cd07046971b1d8c03acbfdd5bfce7c362729d63bae0c0ae31cb5a966684fd.jpg"
 	],
 	"releaseDate": 20240206,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Immerse yourself in the joy of exploration, tranquility, and discovery. Unwind and relax as you navigate the towns.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "440 MiB"
 }

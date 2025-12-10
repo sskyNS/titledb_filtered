@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/06b4c8fa5ed6c6a3da3a62245b947a02efa9749995ff0c09a24d82a0773b6106.jpg"
 	],
 	"releaseDate": 20240727,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Do you have what it takes to adapt, survive and become an urban legend?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

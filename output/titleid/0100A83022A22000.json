@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/181ce6ca8c3655f757d221cb907962eba397cea5a95f36664cd1a496dfb3fdc2.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "An original roguelite beat \u2018em up by Dotemu!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.46 GiB"
 }

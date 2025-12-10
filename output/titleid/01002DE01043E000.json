@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/71b100269c2b71f43934c592529d5559363d57e80a557f689a7b19c37864b829.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Journey to the end of a world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.42 GiB"
 }

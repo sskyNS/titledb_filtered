@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6d8b8ac9637a883ba7d306c00729bcbe9a5cec2241ac24ce82a045687dbf7b1.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Puzzle",
+		"Action",
+		"RPG"
+	],
+	"intro": "Save the city with inverted gravity!\nInvererted gravity puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "584 MiB"
 }

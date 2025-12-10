@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/03f731f225f64a1958621dc0ff97fcb2da7e32e4f822599fd8a18336735a55a4.jpg"
 	],
 	"releaseDate": 20231004,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A Tiny Sticker Tale is a cozy miniature adventure about changing the world, using the power of stickers!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "845 MiB"
 }

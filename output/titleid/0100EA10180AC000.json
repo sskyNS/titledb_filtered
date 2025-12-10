@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/653fb1f5a25efd5d503ebb11722d286fe9e1b2107b2279523b0b656b0f3351d9.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "It's time for an adventure!\nOnce classes are over, RPG Time begins!\n",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

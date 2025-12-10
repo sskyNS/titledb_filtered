@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/94b06219e8bcac74a665fe889759583ba1bcbac94e46ddbaf80eca07f4d48b2a.jpg"
 	],
 	"releaseDate": 20241210,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Immerse yourself in a relaxing, minimalist and colorful exploration adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

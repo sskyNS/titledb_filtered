@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/df4b8386ba482b1710eeaa54d0bafda511e97840f6d9db778e84a68a15b1a18a.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A Fistful of Dirt",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

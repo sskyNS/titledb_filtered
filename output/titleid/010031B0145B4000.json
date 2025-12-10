@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0309b9ed682332c0e77e2c0861020af33e3df4468b99922637d0b377871341a2.jpg"
 	],
 	"releaseDate": 20210816,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other",
+		"Music"
+	],
+	"intro": "Hitchhike your way to freedom in this crazy procedurally generated road trip made by renowned indie creators.\nNo one's road is the same!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.07 GiB"
 }

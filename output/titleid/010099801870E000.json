@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b64236df47749a8d01d28165a961a12f69669962a1b996ff955f25232705fe87.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Join the celebration! Atari 50: The Anniversary Celebration takes you on an interactive journey through 50 years of video games.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "8.43 GiB"
 }

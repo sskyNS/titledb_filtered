@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/be306ce87a9de587743de7cf2487b6c4e53b55b67fa468c0e94330f845bf2b39.jpg"
 	],
 	"releaseDate": 20230519,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore a fascinating world to save a werewolf's life and bring justice to the land ruled by cruel witches.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

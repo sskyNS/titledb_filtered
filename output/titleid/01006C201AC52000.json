@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/66a8f81f0da64116e5d349276d35ff476e80b5f5796e16dba0954f3d0b465f57.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"\u89d2\u8272\u626e\u6f14",
+		"\u683c\u9b25",
+		"\u5192\u96aa"
+	],
+	"intro": "\u5728\u5fc3\u6df5\u5922\u5883\u4e2d\u63ed\u958b\u5e7b\u60f3\u4e16\u754c\u7684\u79d8\u5bc6\uff01 \u63a2\u7d22\u795e\u79d8\u53e4\u90fd\u7684\u58ef\u9e97\u5947\u666f\u548c\u5ee2\u589f\u907a\u5740\uff0c\u4e00\u8def\u4e0a\u60a8\u5c07\u9047\u5230\u795e\u79d8\u7684\u5de8\u7378\u548c\u53ef\u611b\u7684\u6f2b\u904a\u7cbe\u9748\u3002 \u9019\u500b\u5947\u5999\u7684 2D \u624b\u7e6a\u4e16\u754c\u5c07\u8b93\u60a8\u6c89\u6d78\u5728\u9a5a\u5fc3\u52d5\u9b44\u7684\u5192\u96aa\u65c5\u7a0b\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

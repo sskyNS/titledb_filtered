@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5234bdca2b07682fe94bbe9b962c57d37e444d6ca74bb7dc0a5c582f6cd39ec9.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Take the world in your own hands! \nAuthentic, realistic volleyball!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "111 MiB"
 }

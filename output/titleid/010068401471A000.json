@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b894cebfa966f1d84ee01477d235ac2fd6894d665d891916c354329aab2799ec.jpg"
 	],
 	"releaseDate": 20210430,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Education",
+		"Board Game"
+	],
+	"intro": "More than just another puzzle game. Jigsaw Tetra highlights the fun part of puzzle-solving.\n\nJigsaw mode: Do you like solving jigsaws? Jigsaw Tetra gives you the perfect opportunity to taste that experience on your Nintendo Switch\u2122.\n\nTetra mode: Who does not love the good old 'Tetris'-style mechanics? With \u201cTetra Mode\u201d, the jigsaw is now tetra-saw! Try out Tetra to find out the perfect combination between jigsaw style and 'Tetris'-style games.\n\nFeatures:\nUp to 256 puzzle pieces.\nCompete with your friends in versus mode.\nCompete with the AI.\nCollect all the stars for each level.\nLots of images you can choose from.\nMusic from various genres.\nExercise your brain power while having fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "524 MiB"
 }

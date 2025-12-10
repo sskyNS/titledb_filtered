@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/64412db29bffb709d249aeb71db74e790c66c8900e514668d5691f4311590cea.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Evil has destroyed the tales you love. Hack monsters and slash enemies throughout the Torn Tales in this real time squad based RPG.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

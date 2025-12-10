@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfed1c68e4568660d1e1291c7b636fd4cdaf965aa8eaeb52473d7a3579d84405.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Simple and easy to play point and shoot game. Aim carefully and clear all the gems from the seabed. Explore all levels and have fun.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

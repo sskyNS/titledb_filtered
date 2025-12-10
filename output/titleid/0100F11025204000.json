@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/17f900ddbdb2ebffb789157254af9ca6f942f0df6f29e34db262dc794ad396c2.jpg"
 	],
 	"releaseDate": 20251209,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "An asymmetric, cooperative dungeon defense game where you play as monsters protecting their hard-earned treasures against invading \u201cheroes\u201d trying to steal it.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "531 MiB"
 }

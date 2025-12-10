@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a4a51eecde3d388290c2725e939c6e37df0b37d2e90ef0b6f6950b7c8530b36.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Training"
+	],
+	"intro": "Discover islands, craft tools, and battle the deep.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

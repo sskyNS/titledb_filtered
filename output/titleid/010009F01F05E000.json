@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1495a4f3ffd36cd04c92f71ee9d4a9e403776e444838ab792f76d0465fbd5f3.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A reality FPS game set in WWII! This time a ground battle with tanks in a snowy winter! Get weapons and tanks to complete your mission on the battlefield!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.16 GiB"
 }

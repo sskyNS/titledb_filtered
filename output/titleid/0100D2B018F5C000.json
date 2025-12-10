@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fc45e2b527bd65bf00737f81006477660b05e37205c870e771bba40f236c169.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Racing",
+		"Sports"
+	],
+	"intro": "A full-fledged action puzzle game that is fun to play with just one control!\nIt's back as EX!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "579 MiB"
 }

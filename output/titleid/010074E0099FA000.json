@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/794ba659a891662d01e3c3cdf36ade0b53578893d363becea1920eeebda045ba.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Couch co-op!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "285 MiB"
 }

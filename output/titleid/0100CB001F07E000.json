@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1771a9af55995752adf4ace4d31ce851ef50e0d7c317adad5c697b37c5a20889.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Music",
+		"Adventure",
+		"Education",
+		"Study"
+	],
+	"intro": "Learn about this epic story of a world full of mysteries, where the enigmatic \"Stellarons\" are your allies in the fight against an evil sorceress who threatens to unbalance the universe.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "512 MiB"
 }

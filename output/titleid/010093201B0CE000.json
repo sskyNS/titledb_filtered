@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5a46c22a15acc1a51b42270ff3f348f7b155d4c160d34a472dd7088709bb134.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Study",
+		"Training"
+	],
+	"intro": "Solve fun matching puzzles underwater and use different boosters to splash to the next level!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

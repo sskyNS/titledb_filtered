@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f2a678881cd288a793b76cfa92c140f5bbc9a35db95e168a60c7b110ad09bec.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Other"
+	],
+	"intro": "Stella wakes in an old cell in a rundown facility.\nEvade the evils that lurk in the darkness. Discover the shocking truth of why you've been brought here.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

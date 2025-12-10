@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6779b863b9a1eab6880482db51d0794d429c2fac8b0dacc6e454cb61f0c73e50.jpg"
 	],
 	"releaseDate": 20240426,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Are you ready to take on dark winding dungeons crawling with magic and monsters?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.10 GiB"
 }

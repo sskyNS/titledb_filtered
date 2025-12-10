@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bff1f209385b20e73d36b4649b15f82075043fcef7e7093c598ee94bf686e732.jpg"
 	],
 	"releaseDate": 20190222,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Break, slide, and race to catch the condor waiting at the mountain top!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "90 MiB"
 }

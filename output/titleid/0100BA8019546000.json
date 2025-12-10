@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dedb9013d8dc60655c1d463d179d7933d55c6ea3047e01d490b4016f5368a08.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Roco is just an everyday racoon. He's just given his sweetheart a pretty necklace... which caused the ENTIRE universe to explode! ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

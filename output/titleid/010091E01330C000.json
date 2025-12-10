@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/265ba3951571b96ced93264a52965f36fcd61d8ce5682740a45245dd7a987b6a.jpg"
 	],
 	"releaseDate": 20201208,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A brutal mix between dungeon-crawler and shoot-em up. The dungeon will learn from you and become more dangerous every-time you play!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "45 MiB"
 }

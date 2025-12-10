@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca101fcf5d046cc1480fb30046a0c2bdedc5f70a2cd430134e85484f7f0c5f37.jpg"
 	],
 	"releaseDate": 20191024,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The Legend of Dark Witch is a 2D platform action game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

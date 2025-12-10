@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/613a63f6dd6f32e62ea0eb50b3845c3d23055b0f7de3d23d581dd90222d7af29.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Toziuha Night is a 2D side-scrolling action platformer with features of a metroidvania RPG. Travel through different non-linear maps set in a dark fantasy world; such as a gloomy forest, demon-infested dungeons, a ruined village and more!\n\nPlay as Xandria, a beautiful and skilled alchemist who, using an iron whip, fights against the most fearsome demons and other alchemists seeking to obtain a millenary power. To accomplish her mission, Xandria will use various chemical elements to perform powerful attacks and spells.\n\nFeatures:\n\n- Original symphonic music.\n\n- Retro pixelart style as a tribute to 32-bit consoles.\n\n- Test your skills by fighting final bosses and various enemies.\n\n- Explore new areas of the map using different skills and improving your stats.\n\n- Anime and Gothic style characters.\n\n- Combine iron with other chemical elements to create alloys with different playable properties.\n\n- A map with a minimum of 7 hours of gameplay.\n",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "879 MiB"
 }

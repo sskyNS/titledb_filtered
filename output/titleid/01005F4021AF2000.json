@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/792db0bb94ca02437cf1ed83f853f3172e6306a35fac9c23e3c45e9c17cea896.jpg"
 	],
 	"releaseDate": 20250813,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Bloodthirsty bunnies, combos, and chaos. Unleash your furry rage to defend the Bunny Kingdom from certain doom!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "710 MiB"
 }

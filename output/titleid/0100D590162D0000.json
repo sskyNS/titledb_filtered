@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0658306fe8996769a033aedbf1a0f7e048a290158967db83037d1487a55f9923.jpg"
 	],
 	"releaseDate": 20211217,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Mr. Larson discover the truth among the mysteries of Forgotten Hill",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "312 MiB"
 }

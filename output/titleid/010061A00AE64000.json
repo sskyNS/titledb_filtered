@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9349490bf4b85d36d6d42537c1348ca804729b44b9ec24bba31cb0c0af45f4e6.jpg"
 	],
 	"releaseDate": 20180810,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Meet Borti \u2013 a cheerful T-rex that is a main hero in \u201cTiny Hands Adventure\u201d. Help him become the best goalkeeper!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

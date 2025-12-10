@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/29cd910c747f621a74b120d8206bde868bdb963b7efbe64ef3d5f43e278ed0d6.jpg"
 	],
 	"releaseDate": 20221231,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": " ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.67 GiB"
 }

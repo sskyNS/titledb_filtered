@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/975a78857660eaef64ee0da3665a7c39914b5dcf8b409626d7a376ffe94a1ebe.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Customize your own store with a wide variety of products and business goals.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "159 MiB"
 }

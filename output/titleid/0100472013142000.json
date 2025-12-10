@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/51ff632e78765e7d9500c3c89044d0e8e6b78ef65626a4a3d07c3fb3623a0d89.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Help this sweet elderly couple defend their home by blowing up cars!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "370 MiB"
 }

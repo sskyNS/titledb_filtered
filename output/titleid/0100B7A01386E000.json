@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d7f9f5b9c1645d454cdc7fdc40aff460ab5be3f786d62be2fe87b1c325842ae.jpg"
 	],
 	"releaseDate": 20220511,
+	"category": [
+		"Action",
+		"Shooter",
+		"Music",
+		"Multiplayer"
+	],
+	"intro": "Feel the Beat. Use the Beat. Defend the Beat. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.88 GiB"
 }

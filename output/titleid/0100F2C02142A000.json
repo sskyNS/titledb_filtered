@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3158f32da7cfbeccdb96fae93bc5fd6af96ce67785466afb49869535e2aeb889.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy all enemy UFOs! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

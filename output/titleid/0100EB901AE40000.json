@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/50f2e481f8104efadb5419346a0319f74384db1cf8052d1415dd2bd761455b7c.jpg"
 	],
 	"releaseDate": 20230526,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Chronicles of 2 Heroes is an intense action platformer featuring Metroidvania elements, Japanese mythos and gorgeous pixel art.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "935 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d648e26dda94741ce35b58b0e16e3de7e3296948214a78f87f9c6a8b0ac7001.jpg"
 	],
 	"releaseDate": 20220625,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "You have found this game, first level is complete, good job! Looks like there are many hidden items here, only you can help to find all of them!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

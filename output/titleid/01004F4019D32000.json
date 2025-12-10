@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cba94a6809570e3a280e402cae4ae3a2945dc191e059f15f93542268b119dbb3.jpg"
 	],
 	"releaseDate": 20221223,
+	"category": [
+		"Adventure",
+		"Education",
+		"Utility",
+		"Other"
+	],
+	"intro": "Astronomical Club For Queers is an adventure game with simple mechanics where you can chat with friends and take a closer look at the stars through a telescope.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

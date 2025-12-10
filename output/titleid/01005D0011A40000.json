@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b7e9c47c6805c9f6fb9465b5356fba9238c3f7576b59efb2662c1077177f8de.jpg"
 	],
 	"releaseDate": 20200731,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "The cars might be tiny \u2013 but the race is BIG.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1001 MiB"
 }

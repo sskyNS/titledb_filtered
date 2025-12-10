@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e7d40288f5f638858ba957b2b2a2761fcb14e96fa1b92c3c30f72b66683a2f4.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Adventure is back on the menu in PAC-MAN WORLD 2 Re-PAC!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.44 GiB"
 }

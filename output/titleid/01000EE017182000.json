@@ -4,5 +4,26 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20220218,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": " Register for the Nintendo Switch\u2122 Sports Online Play Test",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "861 MiB"
 }

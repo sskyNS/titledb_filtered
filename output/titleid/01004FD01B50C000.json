@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4dda1f0eacd2ed7ef080756723e50e4286b065ed5ead5859451412cb93e40fd8.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Heads up, sleuths! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9273a791f34c3cdb56fad8dbda63490567e3e705c02b6aa1ee6665be136dfc80.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "On a quest to save the one important to him, Jamie once more heads to the battlefield he once had abandoned.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "293 MiB"
 }

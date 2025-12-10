@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c38ad79fa69ef3e01d95c278652db7700434429e7abea079dc4b7bbd2e4fb641.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Connect the spark, calm your mind.\nA relaxing logic puzzle where each tap sparks a chain reaction across the grid.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "313 MiB"
 }

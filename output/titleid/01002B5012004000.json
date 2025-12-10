@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b72678ac66559ebf96d705ec2fdb810741da8dde8a5425da2d13f184ebb02dc.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Join Pip - a lowly single pixel in a 32-bit world - on an adventure that proves that you can\u2019t judge a hero by the fidelity of his shaders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "514 MiB"
 }

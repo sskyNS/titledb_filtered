@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/db1f1fc9978fc76151ef72f6253237853758774d0f4be841a5077ff4470784c6.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Think, explore, and fight your way through the puzzling Towers and nefarious Mimic hordes of the Unbound in this hardcore, cylindrical 2.5D platformer that will put your wits to the test.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "436 MiB"
 }

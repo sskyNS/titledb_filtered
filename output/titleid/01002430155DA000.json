@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/79ed2a23561dbe56d61666eedd530e66fdeca36956ce02952f85bd84f3aff6a9.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "A physics-based puzzle-platformer about the importance of friendship!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.44 GiB"
 }

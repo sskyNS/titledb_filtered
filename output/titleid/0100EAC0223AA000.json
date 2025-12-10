@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/939239f284654f31952d0e6967626b0514a7374cec085cd32e61c09c5fec6070.jpg"
 	],
 	"releaseDate": 20250215,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Leafy Season is here!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

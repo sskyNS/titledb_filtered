@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a542dbc8e577d7c3abdf0c96f5351be084d5bda6f1bb155c2cc2244d31539ac2.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Study",
+		"Training"
+	],
+	"intro": "A huge hit all over the world!\nThe famous number puzzle \"SUDOKU\"\nhas universal appeal!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

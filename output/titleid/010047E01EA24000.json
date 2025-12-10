@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/211abcb1bad4fc8356757c9dc51fae8e338d2625c6867204d96e29d694fbaf88.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Race across an alien planet on your Hoverboard in this high-speed action-adventure. Master tricks, solve puzzles, battle enemies, and shape your destiny!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.13 GiB"
 }

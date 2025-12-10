@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/297f37ef2ff1da47b2d6e007c872a04da8d460d396b29f7224d78da3450ce4a3.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0"
+	],
+	"intro": "\u9b45\u60d1\u7684\u306a\u7570\u4e16\u754c\u3092\u821e\u53f0\u306b\u3057\u305f\u7e26\u30b9\u30af\u30ed\u30fc\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0 \u30b2\u30fc\u30e0\u300eVostok 2061\u300f\u306e\u898b\u4e8b\u306a\u30d3\u30b8\u30e5\u30a2\u30eb\u3001\u8feb\u529b\u306e\u3042\u308b\u6226\u95d8\u3001\u58ee\u5927\u306a\u97f3\u697d!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/76181581b465c4bc411f98a18a6277fb924289f0b28004e843b818ef2c8a1c4a.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Classic Solitaire is a popular single-player card board game in which you have to arrange the entire deck in a certain order.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

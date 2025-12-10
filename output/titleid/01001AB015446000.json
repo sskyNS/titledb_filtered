@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e5cd3b788db8643b85a071ab6bf063446003ca3057f2285c06bb0c2eb00d430.jpg"
 	],
 	"releaseDate": 20210610,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Start your adventure and explore the pixel worlds!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

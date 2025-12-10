@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b857e5b547f981a26166c81106df505b04277a3975e46c8969996689aa032287.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Rain City: a city where rain always pours. This puzzle game features warm, picture book-like graphics and a story with lifelike animals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

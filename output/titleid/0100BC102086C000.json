@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d894dc5cd7e8bd21be44ae90fcc3175c668f4b4f695f96c4510f92c8ac9b8385.jpg"
 	],
 	"releaseDate": 20241206,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Do you have what it takes to be the number one chef? Show your cooking abilities in MasterChef: Learn to Cook!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

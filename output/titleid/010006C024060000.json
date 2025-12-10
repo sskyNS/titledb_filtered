@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/01136672dec0ceaed5c3b1c49a9ad1667f793c389f953f22cc9df4cbdba9011e.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Noah's Ark x Strategy Roguelike",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1000 MiB"
 }

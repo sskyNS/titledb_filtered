@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c876359973e651e3def4930774937ca1d46318379588dbf050213f4f48499591.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Video",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A comedy-style live-action movie.\nChoose the options displayed in the movie to aim for the correct route!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

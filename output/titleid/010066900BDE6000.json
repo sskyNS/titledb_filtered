@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/17339285375db31837be1c776fd55a307d21ba26525fd506d15ab22e036c8034.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Exciting brain twisters for puzzle fans!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0de76f03a9393d26fdc0b28d2ac20b024b2ab8a33bee3eed210b2b5117f4f07c.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Join the Simmons family as they embark on their Family Vacation to sunny California in this family-friendly adventure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "297 MiB"
 }

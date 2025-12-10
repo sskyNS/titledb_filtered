@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0aeb7b9621b2e554504091dc9e67862c91ac92c65c3b3c519a2850fed8584865.jpg"
 	],
 	"releaseDate": 20210702,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education"
+	],
+	"intro": "A relaxing puzzle challenge for beginners and experts!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/11e8f0a3e79ad720af16f5581a3897be7bfadec18ff856e693b4563b4c5f5c7e.jpg"
 	],
 	"releaseDate": 20180824,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An abstract point and click featuring Daniel White, the detective.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

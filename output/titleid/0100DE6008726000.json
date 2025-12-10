@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/98a7547c0b1f18b8ada33f567abe96f92c6005c09f6b1f6a26833f32f4d12e87.jpg"
 	],
 	"releaseDate": 20240607,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Over 12,000 licensed players",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.66 GiB"
 }

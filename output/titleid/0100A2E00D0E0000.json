@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/65407c08cb8ca1e91f925adeac6e65f713662be18e1697d757e5f6b4df948a84.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Fun to play both alone and with a friend!\n\nA comical shooting game featuring cute pop-design veget",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.70 GiB"
 }

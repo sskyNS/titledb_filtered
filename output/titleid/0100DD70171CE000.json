@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/904c4ceb04869964f8ee6dd62cbbe00b7cb53cef720b7d107f65b2e8b8788ac7.jpg"
 	],
 	"releaseDate": 20211224,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Sit by the fireplace and go through some Christmas races - with AI or your friends and family members in multiplayer mode.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "90 MiB"
 }

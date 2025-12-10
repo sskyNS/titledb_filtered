@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a1e6680963fd572325fb69a40b957a858ec976318fe37b9b50661ab527d8e68.jpg"
 	],
 	"releaseDate": 20231011,
+	"category": [
+		"Action",
+		"Simulation",
+		"Racing",
+		"Sports"
+	],
+	"intro": "At the disposal of the player there is a garage with different cars, which he can acquire during the game. The player has to complete many missions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

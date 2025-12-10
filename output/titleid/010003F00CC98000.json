@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7406ea370ea1df827db195df17f2aadedaa8458913eccd259c2ef0a65694c07.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Elite jet fighter air combat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.46 GiB"
 }

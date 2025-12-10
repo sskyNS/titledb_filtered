@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/111957ca3752bf1a3ee723fb2433b5dedcff71c81f7dc863504222ae1f7fc4fa.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "8-bit like Exotic Action puzzle!\nBreak blocks with guns and solve puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

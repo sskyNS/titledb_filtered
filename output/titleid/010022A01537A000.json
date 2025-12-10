@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/12b71e5acc254a7d8f22e36e5527048f256c0556f2c0d67fb0b4f09bf158cb15.jpg"
 	],
 	"releaseDate": 20210925,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Play with shadows in your own imaginative ways to solve twisted puzzles as you unfold the memories of a girl who struggles to confront herself in her past.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

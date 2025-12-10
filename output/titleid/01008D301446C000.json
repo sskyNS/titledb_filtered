@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d88827afe9fb8ea3cbcb383a192b2cc5d3aa61fbd8e68234d8c5143ea7b1eb8.jpg"
 	],
 	"releaseDate": 20210629,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Agents Jasper and TJ are ready for a brawl!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "136 MiB"
 }

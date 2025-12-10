@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/50baac2225db206a5a53b0d836868ad08ca4aa3b268aa50f2a50796cb81e589f.jpg"
 	],
 	"releaseDate": 20170927,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The origin of The Mario series! \nWill you work together or...or against each other...?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

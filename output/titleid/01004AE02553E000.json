@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f179122d2e61702fbe4c094480abb618fba95368f3c7f359af0162be2e702be1.jpg"
 	],
 	"releaseDate": 20251109,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Collect, trade, dominate the market and outsmart the competition.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

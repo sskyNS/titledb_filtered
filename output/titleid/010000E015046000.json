@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3721fe6fdd5b35d4d70e19a0e67c6d9509a87199976415e530e4d8dc0d658171.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Eternal Hope is a puzzle platformer game that follows the story of Ti\u2019bi \u2013 a boy who must embark on a journey of love and hope to find his beloved\u2019s soul.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

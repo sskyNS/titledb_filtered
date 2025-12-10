@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce29fcd7e4266c1d5b6158695fc5df80b233a856783e9367f3361712e76fe048.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Finnigan Fox journeys through mystical lands, wielding a bladed crossbow and season-switching magic to overcome foes and save the forest!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "329 MiB"
 }

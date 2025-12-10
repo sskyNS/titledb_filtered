@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/26b30c55b3b6604fcb4cd3408e4b1ac07321a556baadeb372dff0d63e6703cc8.jpg"
 	],
 	"releaseDate": 20200731,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Test your skills on your Nintendo Switch, take control of the environment, and guide Naught through deep underground labyrinths full of mystery.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "521 MiB"
 }

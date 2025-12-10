@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a4213b0728a209f50feeb3e72d4c6c07b442dd9ae9d0d6982f9bcfe7e80ebf2.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Run any store you like to build up\nyour own buzzing business burg!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

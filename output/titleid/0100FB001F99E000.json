@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/452d17efa9f712fbdc4752bae5fc33249081a538de15fef00e4f6734e5ad76b4.jpg"
 	],
 	"releaseDate": 20240922,
+	"category": [
+		"Action",
+		"Fighting",
+		"Platformer",
+		"Sports"
+	],
+	"intro": "Unleash Your Inner Samurai: Seek Justice with the Power of the Katana!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "811 MiB"
 }

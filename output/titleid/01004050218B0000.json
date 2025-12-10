@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/24b28af088aad8866e4015d601eb47ff674d32c72b8a31bb64c3ea92d8266738.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Dive into the exciting world of finding long forgotten treasures. Grab your metal detector and set off to explore the countryside.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.50 GiB"
 }

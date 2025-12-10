@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1babf7eda80c0be4ac87d1909e588d258549c0fa894e4cdb6311270754c8f1e1.jpg"
 	],
 	"releaseDate": 20210211,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "\"Escape First 2\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

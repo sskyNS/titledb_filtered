@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/70635ed2995fcaf65bddff0172a12cce4fd7fb250e14f1620c62f07eca02f5de.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "The Friendship Ruining Game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "963 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b942d2a893acd64206f8851dc5fe3529e508c141b71bd413e3eba846fa281c0.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Ninja Kazan! \nTravel the world to recover the Scroll of the Five.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "43 MiB"
 }

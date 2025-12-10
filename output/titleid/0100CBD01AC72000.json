@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/98f11bc1624830ed964db1ed9292807b9524fc88bb20dbec960e9d6411836b7d.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Strategy",
+		"Action"
+	],
+	"intro": "The Birds are back with 120 new levels! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "169 MiB"
 }

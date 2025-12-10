@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/aae51c616fdc7cae6eea076fa02f5fd639a89677d81ce38fbb754ac32a0c3772.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Become an explorer, stranded in an alien planetoid, and discover the secrets of an extinct civilization.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "861 MiB"
 }

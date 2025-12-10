@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/910c374147dc5efe790dd950a021539a14df0ee01f134622e07a9df4447baaef.jpg"
 	],
 	"releaseDate": 20240329,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Puzzles, mini games and plenty of hidden objects!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "483 MiB"
 }

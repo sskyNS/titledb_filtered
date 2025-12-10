@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbd4e205e187c04304bf9d4ab0969c50a9ec409a8b2d13ceb3705eb925cc71e3.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Smash your friends in the face with eggs in the ultimate chicken showdown! Control a cast of quirky cluckers and compete in a wacky version of tennis. Get ready and have an egg-cellent time",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "459 MiB"
 }

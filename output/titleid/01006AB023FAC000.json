@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/7aead3ef133a2067ae9c70ab61695656287d3b5c72bcfbeb563c65aa57c63b72.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Set sail on a marble-blasting adventure! In Zumba \u2013 Treasure of the Marble Sea, shoot and match marbles before they reach the end. Unlock upgrades, earn stars, and explore pirate worlds!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "568 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2b3623e7f6d3b879d4504490c11023cf926ce3f5ad38686081c14794a0ca7ac.jpg"
 	],
 	"releaseDate": 20240918,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Platforming adventure game set in a war-ravaged diesel-punk world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

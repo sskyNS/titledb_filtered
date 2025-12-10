@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c677297df6d847df54245e8ef2b1ee0e6617a0721657edb204371da5096598.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Shoot and dodge in style to become the Greatest Hero of All Time!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "195 MiB"
 }

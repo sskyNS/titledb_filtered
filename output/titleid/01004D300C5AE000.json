@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e14f66a0c47ee1bb1f7ddc0baf87bbd116af6229176d8c45e2215757614156e8.jpg"
 	],
 	"releaseDate": 20220325,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Join Kirby in an unforgettable journey through a mysterious world in a 3D platforming adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.81 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1a50d8e61e650d087d99f2e730235452c3ccc1c886a7e0f0645906535420f69.jpg"
 	],
 	"releaseDate": 20210219,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Relive the Legacy ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.78 GiB"
 }

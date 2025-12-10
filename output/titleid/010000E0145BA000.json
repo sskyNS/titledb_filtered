@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5114622bd460062c2f028594659fa11574bca08103f376592851f35cbc0a834a.jpg"
 	],
 	"releaseDate": 20210601,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Harness the wind and soar.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfee081b80bb4857267726569994525926375f2920adf010d3f04413b0e2a1a1.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Begin an adventure to relieve the resentment of the ghost \u2018Luna\u2019!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "740 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bca2ae49a17967501f847b9be835deddcfbab3010807c09c3240e532b3537ef.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A captivating hidden object adventure set in the enchanting world of Victorian England",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

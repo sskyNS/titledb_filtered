@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd13f1fdb992b7a28c10651c3a5f0b6563a6ebd1d5512273ba444f78da8100cd.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "You wake up and notice... that your house is gone! Retrieve your life back through a new adventure in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "264 MiB"
 }

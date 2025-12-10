@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/94002cf41edb5b0a771a64cf04c9a07bc0b0581782c244e4463a493435f7ebe4.jpg"
 	],
 	"releaseDate": 20250808,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Run wild. Destroy freely. Fear nothing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

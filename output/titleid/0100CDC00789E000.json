@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0f0b5ac01b5baf2a823949b49e375fdf58097953f753a35b4ae39b00e6519f7.jpg"
 	],
 	"releaseDate": 20180223,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Travel by train through a dying world. Look after your passengers, keep your train operational, and make sure you can always reach the next station. Make your way through swarms of infected at each station. Explore mysterious and abandoned stations looking for supplies and survivors.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

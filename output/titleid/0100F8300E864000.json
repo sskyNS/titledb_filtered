@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca9500366ee0badc83f1b30795d56d63b07c859683956f50cc6c409c322c1699.jpg"
 	],
 	"releaseDate": 20190703,
+	"category": [
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Have you ever wondered what it's like to be a mechanic? What if you could repair buses?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "248 MiB"
 }

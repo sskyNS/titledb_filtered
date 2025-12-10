@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b932c146ff9ce5e72d0c0ce75719b364b452a15e0297d8f561d24600c923f9f5.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Study",
+		"Other"
+	],
+	"intro": "Operation Deep Sea Creature Capture.\nA puzzle game you keep catching the same character next to each other.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

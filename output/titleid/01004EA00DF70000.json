@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e0cd2ec9c06fc8376d48a3f72da7ebeff226950fe197f298a62288a5e0ad932.jpg"
 	],
 	"releaseDate": 20190608,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Cooperative action puzzle game for 2-8 players!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "111 MiB"
 }

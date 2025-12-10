@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/41b96739c9fd844c5054481591640fb0e7e48c6b27f2ef7c3428f9c0a622aeba.jpg"
 	],
 	"releaseDate": 20220429,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Dunk, swing, kick, spike, and bowl your way to victory in a sports collection that will get the whole family moving",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.25 GiB"
 }

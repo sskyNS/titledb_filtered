@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/62a4bd768f232456ea0ab66545730f9dac3bf923252b21592e2f0a5b0077d1f9.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Education"
+	],
+	"intro": "You'll visit some of the most beautiful historic monuments.\nMore than 31 levels filled with humour!\nFeaturing soundtrack by Matthew Malley",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "673 MiB"
 }

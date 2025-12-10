@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aef46b04bccbd4e69565603b8bea312e53542620bdc6bf33bffce52672c83531.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Study",
+		"Other"
+	],
+	"intro": "\"Midnight is Lost\" is a puzzle game that need to be solved backward, transforming simple challenges into complex ones!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "424 MiB"
 }

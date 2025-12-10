@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/468de8876540ec27232d21529ca9680a4b259428c51c9495397f790636a2a27b.jpg"
 	],
 	"releaseDate": 20200710,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Time travel puzzle game about an astronaut returning to Earth destroyed by natural cataclysms.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

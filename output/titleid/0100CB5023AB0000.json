@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/63d8f32ee8b16212d71a96886c7e7cd7a57bc4e5460d356b7c1874c5e420461a.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Hop aboard a train and ride through the Winter Valley discovering 25 exciting and fun games!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "744 MiB"
 }

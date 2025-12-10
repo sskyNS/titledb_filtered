@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b64b7affbbbc0d90ba27ae009d28ed5cacf8984e86292099daedd0825e04969.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "Discover and rebuild eerie derelict castles, but beware of vampires roaming the land!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

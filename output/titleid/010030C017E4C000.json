@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2cf01c5b6dbe0f55f9350395d54ae6f98e9ebd72e81592628df1c62407fc43b.jpg"
 	],
 	"releaseDate": 20220615,
+	"category": [
+		"Action",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Blackguards 2 is a turn-based strategy RPG featuring challenging hexfield battles and a gritty story filled with violence and crime.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.34 GiB"
 }

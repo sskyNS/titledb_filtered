@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c564751d5decfd5f4d356e19b26c55e9548cc1b6e699a21fbd11a279ce7fe514.jpg"
 	],
 	"releaseDate": 20240316,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Dive into Truck and Forklift Logistic Simulator, mastering logistics with your vehicles. Deliver cargo, conquer challenges, and redefine transportation in this dynamic simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "417 MiB"
 }

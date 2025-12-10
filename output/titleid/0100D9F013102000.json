@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb4376ac40283eaf10fb612cbda1594ca9dec270d10b2792cc23aec2c841652e.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Experience a mother's desperate search for her daughter in the midst of a nation-wide undead epidemic.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.11 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/50d7ddd17bb0164756fd89844f1e7f1169dc6fe7107c36c6d46e8ea889575845.jpg"
 	],
 	"releaseDate": 20210414,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Will Sam find a way home after being sucked into his dad\u2019s arcade cabinet?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

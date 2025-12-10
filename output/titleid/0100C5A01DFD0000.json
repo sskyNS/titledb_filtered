@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32caf8137db909d9f4fe6c893c1a9614162833fb086a8a25a2895a4594b14cd6.jpg"
 	],
 	"releaseDate": 20240309,
+	"category": [
+		"First-Person Shooter",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Take to the roof tops and save the innocent",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

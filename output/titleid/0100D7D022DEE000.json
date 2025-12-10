@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fde1f7040a29ca402ab11191c08e6b031368113e250c14a20733bb7365a2d720.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Action",
+		"Other"
+	],
+	"intro": "Working as a team of couriers try to collect and deliver as many goods as possible while keeping an eye out for time, traffic and roadworks!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "912 MiB"
 }

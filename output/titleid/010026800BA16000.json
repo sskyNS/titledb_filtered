@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d29f5eda04b3f59d28b7aee389d6c61ca4427de5312f98e49be0abb83c39a4a6.jpg"
 	],
 	"releaseDate": 20190326,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Race at top speeds in electric vehicles boosted by Xenon gas\nDrift through the streets of cities like Tokyo and Dubai in 2030\nTriumph in singleplayer, split-screen & online multiplayer.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.71 GiB"
 }

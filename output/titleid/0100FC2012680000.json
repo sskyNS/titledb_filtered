@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a64928e2843be68ed24448feeeb0e3b8b60ae03c1bd5215c63894e3a8ef26c.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A tale of creating life on a dead planet",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "307 MiB"
 }

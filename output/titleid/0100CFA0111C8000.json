@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/596013b6d790b538c2f6eca5451f004a9f31b7177340f59d3c71c5b4aa16cd7e.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Fight or Perish",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.98 GiB"
 }

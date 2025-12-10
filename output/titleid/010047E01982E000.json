@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5204140850086b6e1e5b882dece8064252496ad58da7ff34b43e7e1281c5865.jpg"
 	],
 	"releaseDate": 20221008,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Party"
+	],
+	"intro": "Lost Dream Is back bigger than ever! Explore the world as a cute little fox and go on a mission to find your forgotten piece.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

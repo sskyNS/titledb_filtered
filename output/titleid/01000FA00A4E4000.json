@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/614586e5cb125a0da8da5432b4773e5cefea5b4849b5af9d76c68aeb0f413b71.jpg"
 	],
 	"releaseDate": 20180510,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Garage - United by Death\n \nGarage is a bloody shooter in the style of an 80s B-movie. Playing as a drug dealer named Butch, you stand alone against hordes of the living dead.\n \nExplore every dark corner of an underground parking garage and discover a passageway to a supernatural world that has never seen the light of day.\n \nFind new weapons and master them in order to survive. Solve the mystery of this cursed place and the creatures that inhabit it.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

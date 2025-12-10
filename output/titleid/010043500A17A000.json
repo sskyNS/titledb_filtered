@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/67c4173d8434e7c5372f7f35501eba9a180da4bcef08797c09e16ad284e417e1.jpg"
 	],
 	"releaseDate": 20180610,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A Better Life, Underground",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.77 GiB"
 }

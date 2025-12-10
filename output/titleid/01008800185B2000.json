@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/37eaa31cc8728b549cf0b9254c7cd3fa4172213389d94365d6ffa80f9a5aad41.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

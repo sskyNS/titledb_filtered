@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/daff8a24a3bef28b0e2e58db25748f4ae64c998498020b86a72081efaae84fcb.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Training",
+		"Study",
+		"Utility",
+		"Puzzle"
+	],
+	"intro": "Complete Brain Training within the Time Limit!\nQuick and Fun Brain Activity IQ Quiz",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

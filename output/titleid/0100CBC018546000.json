@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0e7c2e00d52c38572cf45b1ee50d5ba6fcbffb17059c36604b36ae2c93412bf.jpg"
 	],
 	"releaseDate": 20230503,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Super Dungeon Maker is a creative pixel art dungeon editor inspired by the best 2D adventure games.",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "464 MiB"
 }

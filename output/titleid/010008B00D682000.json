@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec87e30d1059e3ed8f31e4fe96fe130c7237ce14caab9e0ddfebc0a6f844600d.jpg"
 	],
 	"releaseDate": 20241016,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "An exciting, emotional tribute to the Golden Age of JRPGs. Dynamic turn-based battles + pixels with personality!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "575 MiB"
 }

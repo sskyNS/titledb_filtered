@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/65d1ed29a70ecc5154f7bf015f47f280418f76befb1ebc5dfa1b3cc1c0c2463b.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Blast, kick, and dash your way through Rebels and Eldritch creatures to liberate the Isle of Portland before it is consumed by Fog and the horrors therein!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "339 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83797a70cca06fe2970ce37e18030b5af7dddb4ab5f1c22258b42e2fa4d82e60.jpg"
 	],
 	"releaseDate": 20240210,
+	"category": [
+		"Multiplayer",
+		"Fighting",
+		"Action",
+		"Party"
+	],
+	"intro": "Pirate Cattle! Bad puns! Back-stabbing, loot-grabbing action! Plunder the most treasure and survive the curse... just don't let the whole crew wipe out!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "982 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2d32c0016b029e4372c01f95f6f579a37e6db9eeeb9680533d22393540c3fb1.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Shooter",
+		"Action",
+		"First-Person Shooter",
+		"Simulation"
+	],
+	"intro": "Get to the chopper! Pick up the machine gun and destroy all of the zombies to save your crew!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

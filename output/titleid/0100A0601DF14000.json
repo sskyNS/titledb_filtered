@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12bb96c2fad136c06f3035a7f5a9d7033bd7dba30a583c87c1b37e9c79ffe679.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Roll the ball as far as you can and face off your family or friends in multiplayer mode! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "204 MiB"
 }

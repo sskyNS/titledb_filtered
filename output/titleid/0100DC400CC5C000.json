@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/95242f8d59cbec87700b8078d5db2c84f658cd0a10c0f0c57b7751660b62585e.jpg"
 	],
 	"releaseDate": 20190320,
+	"category": [
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u547d\u3092\u61f8\u3051\u3066\u8b77\u308b\u3079\u304d\u6545\u90f7 \u2015\u2015 \u305d\u308c\u306f\u3001\u5730\u7403(TERRA)\u3060\u3002",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.56 GiB"
 }

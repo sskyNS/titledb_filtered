@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cba138cef8c552d7718ab682791fe00f6fdc0d1be4be6a94653053fe748d26b.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Survive the harsh frontier as you master precision platforming stages in retro pixel art style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

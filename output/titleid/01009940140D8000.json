@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b149d1e187056a740a1f1b6615660f190562f90a4fbe5a6fe0f9a7d43af84e5f.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Platformer"
+	],
+	"intro": "A charming 3D platformer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.32 GiB"
 }

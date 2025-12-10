@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f09709e5f557b6568442f001bbce1855c47dae2bee6f3c3e8860559cefb39fc5.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Save your soulmate from Fortuna's grasp.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

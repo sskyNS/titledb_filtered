@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0706c22a7c7363826425b2d60ae634c11286babdca17a3371b93ce04a6322ec.jpg"
 	],
 	"releaseDate": 20250717,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Position First! Command the Plush Battalion to a Clutch Victory in Dynamic Combat Zones!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

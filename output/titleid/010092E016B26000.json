@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4566e0f8caa93c527ff8fc00380b382fdad59da65d0ff26405fa5fe16693e1a8.jpg"
 	],
 	"releaseDate": 20220323,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Music",
+		"Other"
+	],
+	"intro": "Many cute illustrations of Miku and her friends!\nLet's play Hatsune Miku Jigsaw Puzzle!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "434 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/11a51016f75c013e19995d99a7e23bd47ad8b37ee5b0ffe198ef8114dce37c6a.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Life happens, coffee helps",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "507 MiB"
 }

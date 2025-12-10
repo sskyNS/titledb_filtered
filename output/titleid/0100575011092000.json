@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a23ee26be9ea5f20d1141100f4e64a2f74e312614ad353103e1cd2422992c58c.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Run and gun your way to the next level!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

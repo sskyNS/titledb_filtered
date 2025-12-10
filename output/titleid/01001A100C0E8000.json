@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbf3495ab422c0eedd7c5c1ab455bac82e60ef6f239eed55f0a3f8d1731e99f2.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A challenging & brutal adventure with endless replayability",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "166 MiB"
 }

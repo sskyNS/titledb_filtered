@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b70479d779de61580cf7ff5023a163f5ff2c4ab323f99af6ca77f809e74b8541.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "(Through Puzzling Exhibitions)",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "714 MiB"
 }

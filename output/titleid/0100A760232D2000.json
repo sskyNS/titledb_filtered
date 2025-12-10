@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9a24b06e97b06a75be5b6d7b3c05bc4fcf39fbb56f77a623ad264b3c3bb48db.jpg"
 	],
 	"releaseDate": 20250930,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "A party game that\u2019s built different! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.04 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/275b243a692b9c1e6e39a43fdf17735970203c61a3b28dced39a25f1977bf741.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"Platformer",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Guide Itorah through a fantastic world inhabited by strange masked beings. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.98 GiB"
 }

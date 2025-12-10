@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/976235629747b3ed6ac90895163bd4ba4ed20d615c4e29ac808b5b60fe6530f8.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Kaiju or Hero? Battle in a chaotic arena & rise as King of the Titans!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "10.53 GiB"
 }

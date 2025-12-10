@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/59552612101218fc3cd30c81a6132d56854406cf4d6beda467ad26ce8ff2f41a.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Dollhouse is a frightening film noir horror story sure to send shivers down your spine. Survive a horrifying trip into the mind of detective Marie.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.72 GiB"
 }

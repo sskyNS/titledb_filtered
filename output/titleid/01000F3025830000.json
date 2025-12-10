@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/da7a978d09eda7af190a7a3159bc4a7d9cbe1f66783aef026eeb8bdf2c70367e.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Roll the dough and add toppings to order!\nServe your customers delicious, fresh-baked pizza!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "316 MiB"
 }

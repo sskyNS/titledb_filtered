@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/12c897259b85df5ee128d2ece074e5e8ce600606c4b86467b543d468aa99619f.jpg"
 	],
 	"releaseDate": 20190307,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "IKARI WARRIORS is an action shooting game released by SNK in 1986.\nPlay as Colonel RALF and Lieutenant CLARK to infiltrate enemy territory and take down an evil organization from the inside. There's just one problem, your enemies are endless... but ammunition is limited! Pick up any ammo your enemies drop to replenish your stock, and use power up items to your advantage as you advance behind enemy lines!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "79 MiB"
 }

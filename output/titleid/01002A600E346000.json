@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/29dad00a3f50521c6f5de7b4cbf8f488524879d0a08e299a0f5527d1339aad15.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "The classic word wheel puzzle goes digital!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "78 MiB"
 }

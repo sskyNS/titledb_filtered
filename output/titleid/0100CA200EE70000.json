@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2df399d1e86fabc277c397a1ba5e865ec99ddc090cadca7a3b77178148d51683.jpg"
 	],
 	"releaseDate": 20190806,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Show that you are the most persistent traveler and make your journey in the most difficult conditions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

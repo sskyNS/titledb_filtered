@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c3960dfbe1f31d707abb3794bf20dd13672c7a6fe2c73e9e3ecac049a4aa7b9.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Can you survive 1000 rooms of cute terror? Or will you break once the cuteness starts to fade off and you're running for your life from the unspeakable hideous beings within this mansion?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "514 MiB"
 }

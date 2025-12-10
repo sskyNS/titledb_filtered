@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/42a9e6651579878794562372e189ba110e2c8724e2ab6d7301cbd5d81614ca7d.jpg"
 	],
 	"releaseDate": 20190101,
+	"category": [
+		"RPG",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Action platformer with RPG elements for hardcore gamers.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

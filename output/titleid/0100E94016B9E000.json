@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/724a99c77eccc0df925dc95279c1e4a1d037ff2e0f73f7b3199a1d2bc5677c51.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Cross an ever-changing city skyline, flowing through encounters in tune with the cityscape\u2019s beat.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.75 GiB"
 }

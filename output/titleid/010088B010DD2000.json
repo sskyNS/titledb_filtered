@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/17bc4937ec32bc72535971e619afbbc62df37168e680cb50d591727e303b8871.jpg"
 	],
 	"releaseDate": 20200709,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Embark on a great adventure and help Dongo escape from dangerous enemies and challenging environments!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c318b83a05fce96beecaed76a42157b5d0859e0a3db60a5b151e0c3e2db7dd1b.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Simulation",
+		"Communication"
+	],
+	"intro": "A pet-raising simulation that raises mysterious pet!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

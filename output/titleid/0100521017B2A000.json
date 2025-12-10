@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4721259fdf997a818a4b30cfe0a0f46c9c4f8a4efaa43f398eb862d45d7c9f9d.jpg"
 	],
 	"releaseDate": 20221104,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "SQUARE ENIX presents HARVESTELLA, a brand-new lifestyle simulation RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.47 GiB"
 }

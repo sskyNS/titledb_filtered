@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1a065fd4f56ecee717837ed63c26d8b005316c96d670814b7c53e1f33a57fb3.jpg"
 	],
 	"releaseDate": 20200617,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Begin your journey in the Lost Lands!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

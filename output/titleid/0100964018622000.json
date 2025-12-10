@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e6610931e905bab889010ef0064dd7e8f30f4b0ccf28cf3f452caf5b5c264f7.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Education",
+		"Action"
+	],
+	"intro": "Saving Planet Earth!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

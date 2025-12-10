@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/73b636ddbb36afe5aa61252476e87312051f214b6b0b31c2a1be6ac90f0834a8.jpg"
 	],
 	"releaseDate": 20240216,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Stone age-themed classic platform-jumping action",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

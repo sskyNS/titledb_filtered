@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0b44758485846c7bd89aa077e8f43003b78d7a7fbfef646ea358ad9499ad7e6.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Piyokoro returns as a Puzzle Game!\nConnect pieces by Color and Shape!\nPlay solo or with up to four players!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1009 MiB"
 }

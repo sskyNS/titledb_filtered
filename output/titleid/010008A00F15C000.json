@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/14da61c2b0f35e472eb2ce84a38ea777121608e6f61b981aae2e92d5619c093e.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Platformer",
+		"Racing"
+	],
+	"intro": "Speed through a gorgeous retrowave world using parkour skills and a grappling hook to scale and ride walls in this fast-paced, 3D platformer.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e2e6247357eddc1e65392bafec876a72102b3d5b7f55d9be34d507540dbe9c4.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Bubble puzzler full of magic!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "337 MiB"
 }

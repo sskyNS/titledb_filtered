@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1dd8b693a4a94ca79f6c69387d01e3592b5eac2533e872e4cee955402b2d2a33.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "The story of the hero saving the world is about to begin! But I'm just an NPC...",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

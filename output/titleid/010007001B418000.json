@@ -4,5 +4,24 @@
 	"publisher": "Riot Forge",
 	"screenshots": null,
 	"releaseDate": 20230523,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "The CONVERGENCE: Digital Comic and Art Book is included with the CONVERGENCE: A League of Legends Story\u2122 Deluxe Edition\n\nContent Includes: \n- Digital Art Book and bonus content\n- Digital Comic Book Issues #1-5 and bonus content",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.33 GiB"
 }

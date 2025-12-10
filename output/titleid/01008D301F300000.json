@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/569a26d4fe13722d4a8a3ad317695ba42430341c611199c5d452eaa5c576ef81.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Adventure",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Sci-fi horror action ADV fighting aliens on an unknown planet!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

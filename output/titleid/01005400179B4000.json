@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec5e9475104feb41e661a6742f3365ab8d18a721f05ae7a6e738792b8c63a248.jpg"
 	],
 	"releaseDate": 20220411,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "An ecchi carnival full of shooting and attractions.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

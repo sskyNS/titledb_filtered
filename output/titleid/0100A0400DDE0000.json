@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a60f9093edf91e5b20d9d3beb7813ead618fc6439f751fac7c6691e06bebf7f6.jpg"
 	],
 	"releaseDate": 20190828,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

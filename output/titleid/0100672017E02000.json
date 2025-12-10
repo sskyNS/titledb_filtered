@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed10aec057a18ba479e6b79fcfa5dc8edc4d9ede2b0ebd7714d6062a313d8b2e.jpg"
 	],
 	"releaseDate": 20220526,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "1vs1 heated battle!\nEnjoy playing games with your opponent!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "665 MiB"
 }

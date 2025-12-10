@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa2864b212a8563ba02c4a1e16cfcb2462c7f39755442420eb8d96b1ed2d98c7.jpg"
 	],
 	"releaseDate": 20230130,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Voyage Beyond Life And Death",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.01 GiB"
 }

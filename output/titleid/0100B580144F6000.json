@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4995f8e431b5f57d179248363d122c01e1b5395119203b6bf63fe43357753a7.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+	],
+	"intro": "\u30b2\u30fc\u30e0\u30bb\u30f3\u30bf\u30fc\u3067\u4eba\u6c17\u306e\u5c04\u7684\u30b2\u30fc\u30e0\u304c\n\u30d1\u30ef\u30fc\u30a2\u30c3\u30d7\u3057\u3066Nintendo Switch\u306b\u767b\u5834\uff01",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.17 GiB"
 }

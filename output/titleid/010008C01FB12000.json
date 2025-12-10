@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/224befcbb7d1b0a6029387754166a7387c13e25d4727335854af9891a2b38fc5.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Party",
+		"Communication",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Discover how people across the country think! The Jackbox Survey Scramble is a collection of hilarious survey-based games, using real one-word answers from real people. Really!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "321 MiB"
 }

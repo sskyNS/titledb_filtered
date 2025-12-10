@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f33c0e75cb3fcef983dcfa024257099364448680c5eccc685b67699670bf507.jpg"
 	],
 	"releaseDate": 20200717,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Training"
+	],
+	"intro": "A beautiful, fun and addictive number merged puzzle game for everyone.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/556143d665e8ba1ca9c4b032b681e6c4e73ff782d524008b4376cfb073fea458.jpg"
 	],
 	"releaseDate": 20210428,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "My game is missing again! Take back to hunting for consoles hidden by mom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

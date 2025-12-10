@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/198ef0a1c00ea7d56f686d6352170f84adcc8527d3d1ed9a639d1efe45f5cd5d.jpg"
 	],
 	"releaseDate": 20220518,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "You don't work in a regular assembly line. In this escape room, you will investigate what is really being manufactured in a secret factory. Will you discover the truth?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.38 GiB"
 }

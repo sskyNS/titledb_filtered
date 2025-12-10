@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fb0bc5e4e0f8192c2db6f2fc3d631ee5363a1d89e155e0f6047925ab7f1976e.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Compete with your friends and smack 'em over the head in this physics-based galactic party game for up to four players!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "188 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c0f8e4f2f70766ab2aebc4631df5164b2b9e1e5f44ee04d5f832dbf33f18b6.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u30b9\u30fc\u30d1\u30fc\u30ea\u30a2\u30ea\u30ba\u30e0\u5fcd\u8005\u30a2\u30af\u30b7\u30e7\u30f3\uff01\nNINJA\u30a2\u30af\u30b7\u30e7\u30f3\u30fb\u30b2\u30fc\u30e0\u306e\u5091\u4f5c\u304c\u3001\u4e09\u5341\u4e09\u5e74\u3076\u308a\u306b\u30ab\u30e0\u30d0\u30c3\u30af!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.15 GiB"
 }

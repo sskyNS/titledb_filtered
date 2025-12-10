@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/be7c170b3b2c326d91f8f20ca881bd0721f36ca3a4c870966e1855fe16a2b0a9.jpg"
 	],
 	"releaseDate": 20241029,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The 16-bit nightmare returns. Run, hide, and survive in this horror classic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

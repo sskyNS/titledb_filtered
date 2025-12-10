@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c12deee0ba42cdaf28f42d6479411dead416fd74de71c936357c559ad1543a7.jpg"
 	],
 	"releaseDate": 20200403,
+	"category": [
+		"Shooter",
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "A rogue-lite twin-stick shooter that never plays the same twice. Collect and control 60 different characters as the body-snatching alien Parasite with a grudge against humanity. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.08 GiB"
 }

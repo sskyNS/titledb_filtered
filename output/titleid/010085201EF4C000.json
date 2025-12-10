@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/04d14828f8c136b899ea9549b625f2d6f1887de420761c97b04feee7b6017476.jpg"
 	],
 	"releaseDate": 20240719,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Journey through diverse landscapes and collect the pieces of a lost love story in A Lost Note.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.97 GiB"
 }

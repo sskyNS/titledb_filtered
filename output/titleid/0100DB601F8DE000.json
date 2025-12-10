@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5417f77079fbeb3070b0a1431c2a1567babf8a1c0449600d538c371a76f385b2.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Steal your way to the top and become the king of thieves!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

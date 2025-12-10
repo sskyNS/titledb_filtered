@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/57d5dd5411b398c88292b79c93d6db9cdac78c1115f529213600449f55e2f60d.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "One hero, 100 different endings.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "497 MiB"
 }

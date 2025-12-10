@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2388e5b421abbd6b52b1d06e667df99d979ed8cd1019caec8d13edb0b4e9643a.jpg"
 	],
 	"releaseDate": 20190807,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Become Shepherd, an avatar of nature, and guide herds of animals on a perilous journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "992 MiB"
 }

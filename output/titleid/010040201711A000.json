@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6fd77f02071f306e2e07bab4cf7c4fc0c1bcb54aea31d596644db31294844e9c.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Other",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "tERRORbane is a comedic adventure where bugs are your FRIENDS! Enjoy challenging the Developer with your creativity and be the Bane of Errors!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.45 GiB"
 }

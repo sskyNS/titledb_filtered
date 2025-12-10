@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d83fd3cc081f5c971878066adbed106719f232e9b273fe72ce329febde32c14.jpg"
 	],
 	"releaseDate": 20250402,
+	"category": [
+		"Adventure",
+		"Study",
+		"Music",
+		"Education"
+	],
+	"intro": "Sophie and Leo thought their garden was a safe place, until they found a shiny rock. Suddenly, they became very, very small, and the insects started talking.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

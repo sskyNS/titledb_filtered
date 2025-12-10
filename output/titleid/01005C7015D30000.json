@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7bcbfb9768b59e0085f03cc9885ff409d7b68db2bb860696f969ef00b09ca06.jpg"
 	],
 	"releaseDate": 20240423,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Wield the dance of the shaman.",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.31 GiB"
 }

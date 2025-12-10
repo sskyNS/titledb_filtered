@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/916ec2f8f486a28496631886ef0fd7b011a19f0118851088246d06c31061da4b.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "A physics-based, pixel art, precision platformer. Join Albert Einstein's digital remains on his whacky quest to save the World. And to beat gravity.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "423 MiB"
 }

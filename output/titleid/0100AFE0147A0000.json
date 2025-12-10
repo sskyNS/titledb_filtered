@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccada5244ba39cc9c78386839dde978e151ab26e2217d669b90bd55c694a697f.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Become a cyber samurai in a world of neon and Japanese tradition!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.80 GiB"
 }

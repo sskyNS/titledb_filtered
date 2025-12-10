@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/13dbfbaa32b4b048497de2e361621962299549145ed8ad5e12892e36926cb52f.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Escape a mysterious station and save the stranded uncle!\nExperience the first story-driven horror adventure in the popular \u2018Platform\u2019 series!",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

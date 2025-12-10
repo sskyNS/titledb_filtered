@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/45a6096357e6718162b4dc0edfa702350a582c2b66f0f8725b5d859804b5c2bc.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A whimsical adventure with turn-based combat in a flooded world\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

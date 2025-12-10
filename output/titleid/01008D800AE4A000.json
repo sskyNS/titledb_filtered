@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a138db117778ae8a2ca20203a9cdbec7b091fac300c05ae798f75539fd785c5.jpg"
 	],
 	"releaseDate": 20180907,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Blast your way through waves of alien invaders in this retro style shooter with modern visuals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "247 MiB"
 }

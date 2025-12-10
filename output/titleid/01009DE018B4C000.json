@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ece74063243967149ab16a1ca7641d53eec6edac799b9e5b979622ebc5a4ba4e.jpg"
 	],
 	"releaseDate": 20230221,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "5 classic games of the the Ninja JaJaMaru world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "174 MiB"
 }

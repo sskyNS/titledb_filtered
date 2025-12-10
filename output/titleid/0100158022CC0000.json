@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0034209265f8afd7ff572ae013f4e5088c5f7423b83883fcbe9f7b48b460171.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Jump, slide & move! Lorn\u2019s Lure is an atmospheric narrative first-person platformer with novel climb-anything mechanics and modernized retro 3D graphics. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

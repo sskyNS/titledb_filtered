@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f98ca5ee6e656aa7907cabfc2d8a78e427f3708105ee12d7c56aa1a2539dd5d.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A full-fledged action puzzle game with simple controls!\nA massive 300 stages!\nIncludes an edit feature to create your own stages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

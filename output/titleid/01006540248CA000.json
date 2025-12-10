@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af1c9961fc6006ef9ccbf9a07da21396a12a224714bc89edbdfbf8467f226bb1.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Pilot upgrade and conquer in the ultimate sci fi mech warfare experience\nFight on Mars and the Moon.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

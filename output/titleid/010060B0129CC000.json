@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f9b2cdc96f639369e135359242c7a267620cf0f86ac4c1cfef54875a3a380d5.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Blast off in the next great space adventure to defend Macross City against the invading Zentraedi!  The remastered classic Robotech mech-shooter invades the Nintendo Switch\u2122.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.02 GiB"
 }

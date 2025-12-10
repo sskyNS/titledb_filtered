@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/148df383c46e14e8cd51d342cae59ce1a8d4bf1d6d786af78afef02cbc0457ca.jpg"
 	],
 	"releaseDate": 20221224,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "This is a cat puzzle game for all ages. It's a fun game that will improve your reasoning and intellectual ability.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "51 MiB"
 }

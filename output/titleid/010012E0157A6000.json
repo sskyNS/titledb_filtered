@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b2755119deacf9fe7c5f3de8007dda624280212ee8cd362b79188c59d449e65.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Education",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "The world is facing an environmental disaster. But not all is lost. The young, and not so young, are about to receive help from a powerful being from another galaxy: Elva.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

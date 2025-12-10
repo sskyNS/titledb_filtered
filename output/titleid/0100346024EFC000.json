@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/db7f86d1c55fdcde19f4f54ce571d51cd8ad86d3aacb6db33d443bd390af9129.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A lonely honor student, an outgoing gal, and me... an ordinary guy.More than friends, less than lovers, it's time to leave our youth behind.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

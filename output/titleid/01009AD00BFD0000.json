@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c9215f2b3f5afcdcde1eca1c62d3716ac4f3f24b7960aa431c0ce2fee0ef6f6.jpg"
 	],
 	"releaseDate": 20190123,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "TEST YOUR ENGINEERING AND SPORT SKILLS IN THIS DELIRIOUSLY FUN SKIING THEMED PHYSICS CONSTRUCTION PUZZLER",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "710 MiB"
 }

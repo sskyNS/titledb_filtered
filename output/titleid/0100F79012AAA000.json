@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7781ce0f9025979a5a68e016dd027d28768d365eb9cdbecaee06637daecb170b.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Cooperative & competitive play with up to 4 players!\nFun pick up and play arcade action!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "336 MiB"
 }

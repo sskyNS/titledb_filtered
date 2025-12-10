@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d2d65aa6cf2df547ab95cf880b6e380aaba7a3f7050ebffb63a94e264bf131b.jpg"
 	],
 	"releaseDate": 20241126,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "The dual Viridis, separated between the luxurious Bright City and the dangerous Blind City, where inequality reigns until you, Axel McCoin, an idealistic detective, start a revolution. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

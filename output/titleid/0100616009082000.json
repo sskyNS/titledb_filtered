@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3e51e8e419287c79e30f6104044f68af6141a1ae311216062bcc3da5d0e18dd.jpg"
 	],
 	"releaseDate": 20180912,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "What would you do if a stranger\u2019s fate \nrested in your fingertips?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "762 MiB"
 }

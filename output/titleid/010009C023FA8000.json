@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dc3f20a35bf61c6cbcca6e1b4df0a0cd77fe8afd0c74df79d700fef4fd3585b.jpg"
 	],
 	"releaseDate": 20250823,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Buy, sell, and become the leader in the TCG business empire !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

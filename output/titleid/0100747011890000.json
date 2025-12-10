@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9e2b68a3bcc1e6396640cf6cadc304ad16c44538afc9dffcb64ce978440b74a.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Battle Axe is an arcade top-down hack & slash featuring high-quality visuals created by veteran pixel artist Henk Nieborg, true to form game mechanics, and music from the legendary VGM composer Manami Matsumae \u2013 retro gamers rejoice!\nFor as long as you and your people can remember, your homeland of Mercia has been held in the tyrannical grip of \u201cEtheldred\u201d; a despotic sorceress in the distant icy wastelands to the north. \n\nEvery seven years she sends her armies south to handpick inhabitants from each township who will be subjected to a life of slavery, and they are never heard from again. A call is sent out to champions across the land pleading with them to put an end to her rule. \n\nAn elf, a wizard and a marauder answer the call. Join this band of heroes on their quest the vanquish evil from the land once and for all!\n\u2022 Pixel art fun \u2013 an adventure for pixel art enthusiasts, with gorgeously designed characters and environments to enjoy with every frame\n\u2022 Hack n\u2019 slash adventure \u2013 familiar yet revitalised, thanks to new gameplay elements, improved controls and pixel perfect animations\n\u2022 Enjoy a timeless melody \u2013 a superb soundtrack by legendary composer Manami Matsumae\n\u2022 Solo or co-op \u2013 choose from three highly-detailed heroes to embark with on your quest, playing alone or with a friend in local co-op\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "166 MiB"
 }

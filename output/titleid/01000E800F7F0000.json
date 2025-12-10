@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bd0182c7703bb7033c8f6a91abeb76133ce88e23b0bb0b9259423c4efc9f030.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education",
+		"Training"
+	],
+	"intro": "A minimalist zen puzzle game where players learn the rules without instruction.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

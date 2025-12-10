@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cae974edae87e402af08a7e2bb1e583875d6332e2bb2dab33dfd0ab9f4a40aba.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "As darkness spreads, one hero rises up",
+	"languages": [
+		"en",
+		"pt",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

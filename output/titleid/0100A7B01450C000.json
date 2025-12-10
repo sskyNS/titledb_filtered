@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/73072dc7fce62a0e6f7f017627425b98fbefc9b209dd684a9926d89d2f84de7a.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Wield the power of the Fire Axe and put an end to the dark lord's plans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "47 MiB"
 }

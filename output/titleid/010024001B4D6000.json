@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0edd66426a25a3e3528c156bb6e70130c6185dca10db0650b4b78ce174e6107.jpg"
 	],
 	"releaseDate": 20231222,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "CHICKEN INVADERS ATTACK!\nWe've always known it, and now the day has come:\nTHE DAY OF THE INVASION!!!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

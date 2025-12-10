@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ef46414271d560cc462ad3dc1b17dfb568795d9a7953776d85b1ed9c377693e.jpg"
 	],
 	"releaseDate": 20240217,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Can you earn enough coins to transform your taxi into the envy of the futuristic streets?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1014 MiB"
 }

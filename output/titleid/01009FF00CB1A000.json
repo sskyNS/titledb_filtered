@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d8e542def87397312a8f1b6fd21960b669a940091c024189dc822258e4e8648.jpg"
 	],
 	"releaseDate": 20190411,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Classic color match puzzle meets space shoot'em up action!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

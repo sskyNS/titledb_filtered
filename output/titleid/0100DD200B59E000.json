@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/03df8075287c3922b93f3aa3064b6b980df8835d6aafdd57c29445d4f59ddb81.jpg"
 	],
 	"releaseDate": 20190126,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Dive into the wondrous world of Inops! The 2D puzzle based side scrolling adventure of dark and light. Battle the fire breathing demons and rescue the scattered Inops. ",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

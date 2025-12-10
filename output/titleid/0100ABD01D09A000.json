@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6114f19e3ce275525f7ca734be94a8bf3ba33adc6472b1cd4504c3c3dad55561.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "What Lurks in the Shadows?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.40 GiB"
 }

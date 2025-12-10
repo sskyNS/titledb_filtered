@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c21fba285e0592600fa2d6eab7d51feb482047c94dd74a75f02dbaa629536b55.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "An old school arcade adventure",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

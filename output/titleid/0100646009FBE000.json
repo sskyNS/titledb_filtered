@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/10fa342780c703524b222ab0b36620ec01bd4361028e81c48fd1d604cbca5b24.jpg"
 	],
 	"releaseDate": 20180807,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "No checkpoints. Kill, die, learn, repeat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

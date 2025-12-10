@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/42d56d36facff77047c1f1355372c3ea6ea1e9c066e52cfb2612f6161b2ceadd.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Climb, explore, discover.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

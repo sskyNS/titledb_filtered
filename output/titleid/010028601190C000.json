@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f134ae0407d181a452a14f5899c448bd1dbde972f9cfd3c60b1d1b2be440254f.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"RPG",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Steel yourself in the face of insurmountable opposition as you traverse this ever-changing world in a bid to save it from imminent desolation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

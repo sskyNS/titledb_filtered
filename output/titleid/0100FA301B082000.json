@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/10ad95d64b804cced9b7720c9f5b654d8f53640d2de80bd172d41727d8fdd174.jpg"
 	],
 	"releaseDate": 20240305,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Rescue. Extinguish. Protect.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

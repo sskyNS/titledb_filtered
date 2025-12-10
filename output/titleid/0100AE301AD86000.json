@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b18a4de29497424ed151e757df0416f993a6cf88e4a3db4e694c5d42987d772.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Grab a shovel and let's get digging! \nJoin the adventure, hire miners and dig for a treasure.",
+	"languages": [
+		"ja",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "424 MiB"
 }

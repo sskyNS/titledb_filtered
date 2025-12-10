@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7559d9be32986fcda55f6b79bf39bb0509f3985b7e8ba38f504d980281b9737e.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Platformer",
+		"Strategy",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Mr Sun\u2019s Hatbox is a slapstick, roguelite platformer about getting the job done at all costs.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "516 MiB"
 }

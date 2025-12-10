@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/62cd4cd4714d7f7ec0d473dc3dff9dcea078483a6182a11ff1669a8b8cf9c793.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Toy Rider is a racing game with lots of powerups, cars, levels & more. The Miniature Open World Racing setup makes it a unique racing game.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "986 MiB"
 }

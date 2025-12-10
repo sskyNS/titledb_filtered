@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d859f02dacc01ecf43a3ea845d9d37d9d81f91e1dabb023d6dc5f2df397757a7.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Music"
+	],
+	"intro": "Have fun destroying your enemies in a reimagining of games from the 80's! ",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.25 GiB"
 }

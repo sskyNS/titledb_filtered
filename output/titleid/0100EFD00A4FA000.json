@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/aad1960cb2defffffea836038f78a5ca9ad6590e7fc0828444cf59a2c39203d5.jpg"
 	],
 	"releaseDate": 20180320,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Avast, mateys! Set sail for swashbuckling fun as Shantae protects Sequin Land from a sinister curse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "497 MiB"
 }

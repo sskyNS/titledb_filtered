@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/184ec0da37549fbfbe4d16969a0253336f7e31506a3cfad7abcbdb40172023ba.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Embark on a journey through the depths of a lost ancient jungle temple. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

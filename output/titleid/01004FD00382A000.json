@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c97af39f2c1413ea6769ea9299af9d8df35910e131b08cf5ebb2ff687f520a49.jpg"
 	],
 	"releaseDate": 20171026,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"RPG",
+		"Action"
+	],
+	"intro": "The co-operative personality test RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.95 GiB"
 }

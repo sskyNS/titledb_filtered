@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4156b4aa83e5e137d82557a6bae3b0ef8a7b8c45432128e860ceb1e99d2c9b96.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "The puzzle platformer with its own atmosphere in which 50 exciting levels await you",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "188 MiB"
 }

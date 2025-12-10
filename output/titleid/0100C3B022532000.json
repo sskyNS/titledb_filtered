@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/add572d161078581bf246a02fa4ea4a859ecdec424fcea228773ced930d49cb4.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Kick butt in a radioactive post-apocalyptic world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "78 MiB"
 }

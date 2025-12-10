@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b33cb40e6f365b798eded1aa0b10977d0696a0d0fa5c2d3e1af796d075ba71b.jpg"
 	],
 	"releaseDate": 20181016,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "A fantasy turn-based strategy game, fight for Cerulean and claim the crown as her rightful heir! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.16 GiB"
 }

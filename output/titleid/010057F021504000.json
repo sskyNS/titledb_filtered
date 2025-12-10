@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59b635ba728e2424a3353f9ec61c9dce0b2d06cdab9610ce4c20b688d52fdda6.jpg"
 	],
 	"releaseDate": 20241206,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "Bimfli and his travels in time is an interactive graphic novel about the adventures of Bimfli, a young architect.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3741e7c3d84980c3b566b1f7070c3daa2981ebced2d6d411661bc1528a749012.jpg"
 	],
 	"releaseDate": 20180619,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The colorful platformer that makes a real splash!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "66 MiB"
 }

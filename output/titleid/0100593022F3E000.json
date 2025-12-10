@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f876eb20da687bf67c5a4e0e09a462669122a6730adb1801893ae4982d6f7697.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Unravel the labyrinth's mysteries with your wits as your weapon!\nA novel and stimulating brain-bending puzzle adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "481 MiB"
 }

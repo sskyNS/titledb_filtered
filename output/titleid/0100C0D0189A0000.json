@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5171ea79394f8adefc104b20f6662e2542b0f2407fdb356617e0b8d94bc16212.jpg"
 	],
 	"releaseDate": 20220903,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Have you ever thought \u201c...but anyone could have painted this!\u201d while looking at famous abstract art?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "374 MiB"
 }

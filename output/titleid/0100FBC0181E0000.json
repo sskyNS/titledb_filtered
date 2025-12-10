@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9e9d59acf740d3646aa965891b729c6a6251cbfe5bae9c9d928931b36592543.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Do you have what it takes to save Jim and get him one step closer to his goals?\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "305 MiB"
 }

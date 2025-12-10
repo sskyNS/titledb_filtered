@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dac674b87666b1a1287f9ed974a613e0eac34b8a62bb1d52fa1edbaabae1fbbf.jpg"
 	],
 	"releaseDate": 20230712,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Join Scary in the HallowVerse to make things great again!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

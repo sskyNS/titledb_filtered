@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a3e11fe8cccda1d802e5a2987962b633e3ecf4ffdf9533b46538916588979091.jpg"
 	],
 	"releaseDate": 20250103,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Drive your parking empire to success! Be the top manager in the city.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

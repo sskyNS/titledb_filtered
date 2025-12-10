@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/93d1b7e30c9c0c789a7d20565034dfb5709560600616d4660fe820a9c5f779ee.jpg"
 	],
 	"releaseDate": 20211026,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "THIS GAME USES CLOUD STREAMING. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

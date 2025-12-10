@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0aa9ec1a6386ea71834a8a74a2bce4552bceb55b8ab39036b00d5f3a98aca195.jpg"
 	],
 	"releaseDate": 20221221,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Music"
+	],
+	"intro": "INNOVATIVE MUSIC PUZZLE ADVENTURE SET IN A LOVINGLY DESIGNED, FASCINATING WORLD",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/047d78d655c784924a18c6352bcaaf7f115fde0a34a51ee65fb932ab9cd586a0.jpg"
 	],
 	"releaseDate": 20230824,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Discover a captivating Metroidvania anomaly full of secrets, dangers and constantly evolving possibilities",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

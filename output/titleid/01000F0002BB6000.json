@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9599fe1adbe15ed162aef755bd672cd3ce8f4b8247ead2c8156fc22c7e722481.jpg"
 	],
 	"releaseDate": 20190201,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "A modern return to retro turn-based tactics!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "429 MiB"
 }

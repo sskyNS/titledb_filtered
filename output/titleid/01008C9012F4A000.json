@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5b3b8b0f6aff80e4b88053bea809d057de216c207d672cd9586509fb2f14168.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Music"
+	],
+	"intro": "Something is missing from her world\u2026",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/26d7d1291aca7c1da4796455d5064e638b5d16437f926c20201571136ec84227.jpg"
 	],
 	"releaseDate": 20250321,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Communication"
+	],
+	"intro": "Play on colorful courses made of stationery!\nEnjoy a refreshing game of golf right on your desk!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "460 MiB"
 }

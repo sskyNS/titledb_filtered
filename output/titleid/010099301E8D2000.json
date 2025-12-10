@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d71ce497016e4a65408f90bbbf89817785d89c3397fb8a5c040225669854c2dd.jpg"
 	],
 	"releaseDate": 20240427,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Push your limits and dominate the asphalt in cutthroat street races!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcb4caef062f6163a0bef8565de899ca3716fc28d167327a1c1dff08466e6cac.jpg"
 	],
 	"releaseDate": 20180816,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Get some nuts!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "443 MiB"
 }

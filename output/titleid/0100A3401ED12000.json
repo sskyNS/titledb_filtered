@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cac63da11b87ec92d5fc731a791c5161b9c541d41c027e4de16edc400bfbfc29.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Platformer Game. Tell a story about friendship. Deliver mysterious express and save your best friend Kiki who is about to turn into a fox.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

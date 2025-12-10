@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e491225dbff11829571ff06f53fa5cb7b5228277f772d3199f09225133ed25c.jpg"
 	],
 	"releaseDate": 20230422,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Road Builder is a puzzle game based on a road building and traffic flow management system.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "832 MiB"
 }

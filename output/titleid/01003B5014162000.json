@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fca7d3618f4eb4a4c1e2b530654fc3bb3be0b24571b98007c5274fbe64ca056a.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Live the life of a high school treasure hunter in this much-anticipated RPG classic!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.82 GiB"
 }

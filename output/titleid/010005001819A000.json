@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c2043446fa8595ab1d73d52930fd7830996d9aadfa5f2869f8b10f04c998b34.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Simulator with a third-person view. The game takes place in a jail, after a failed bank robbery,and a city chase, you arrested for 7 years.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

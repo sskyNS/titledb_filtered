@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a24dd15d2da04233f34528eb2e2c92768bfec9cf1808fc8bb91347265fc28eff.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "The perfect game to back-stab your friends. Project Winter is a multiplayer game focusing on social deception and survival. Communication and teamwork are essential to survival.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

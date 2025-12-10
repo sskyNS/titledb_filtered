@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e38edecf56b67246e0b7d616fd894604f0fad717c41749e3b184809eb4812e69.jpg"
 	],
 	"releaseDate": 20190815,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "VIC VIPER, ready to launch! Defeat the invading cosmic force BACTERIAN and save the planet GRADIUS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "66 MiB"
 }

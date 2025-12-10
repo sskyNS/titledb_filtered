@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4dfe391e2d3765ce227585e5893340fe5e3ec97f9a9abe0b008031a9257036d.jpg"
 	],
 	"releaseDate": 20221206,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Welcome to the exciting world of the Kukoos! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "7.72 GiB"
 }

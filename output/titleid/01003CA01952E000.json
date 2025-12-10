@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/80d573b5a4cc4f2850bc34730838df4c666e05ac1fb4c1f0ee092364a2488c82.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The shoot 'em up sequel to Cosmo Dreamer, \nBrought to you by Outside.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "388 MiB"
 }

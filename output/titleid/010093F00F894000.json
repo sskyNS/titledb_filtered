@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/12dadfa31b0e985788497c18ec8f45faf37b29ebd7e8a28106daf1d526c8c621.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Party game madness sponsored by Glurp",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 20,
 	"size": "270 MiB"
 }

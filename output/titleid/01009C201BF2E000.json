@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/66f299d3e0f85eb7a44b618c032e042bfddf4f5583ea4dfe50b653ee7eae76e2.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "The legendary classic bomber is back: DYNABLASTER\u00ae is now available as a new and improved 3D action and multiplayer game! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1004 MiB"
 }

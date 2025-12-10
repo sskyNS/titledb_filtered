@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/808f3a62b16191f4c890e166964d05b3aec92be5dbe79ea69a7c799770ec58eb.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Super Sportmatchen is a fun and fantastical retro party sports game for up to four players!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "85 MiB"
 }

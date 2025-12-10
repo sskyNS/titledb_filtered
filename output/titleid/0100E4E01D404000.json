@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/972d3ca091aee3d35c2ee49e7f1bc1acb2b197fff1f56515d80513557050fdaf.jpg"
 	],
 	"releaseDate": 20231031,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "amazin' Mage is a top-down, randomly generated dungeon crawler with crafting and with excellent replay value! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "885 MiB"
 }

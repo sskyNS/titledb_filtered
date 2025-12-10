@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/99337c20ffedf2a5c14240e2773daf782bf57489e5dd1c4d255f523a2f87cd69.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Flipping fun stunt simulator for up to four players!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "319 MiB"
 }

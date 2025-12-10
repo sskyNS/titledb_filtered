@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/29931c97ae56408d2dcf36da3b7e0b0580ab09aa92674d670295807c1116e37a.jpg"
 	],
 	"releaseDate": 20191022,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "The ultimate Skullgirls experience! Featuring 14 hand-animated characters, fully voiced story mode, countless palettes, and unparalleled GGPO-based multiplayer netcode. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.70 GiB"
 }

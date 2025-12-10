@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f679b720676742e5b38d7464d9addc593416a5d1ac25915e9ded20ba91d3850.jpg"
 	],
 	"releaseDate": 20210118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "Dungeon Nightmares 1+2 Collection is a first-person psychological horror series that takes you through a journey of discovering what nightmares are.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

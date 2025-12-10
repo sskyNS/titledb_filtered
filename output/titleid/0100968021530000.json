@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/87ea49ce81d94ac5ec129193046f33bace6ed70b6395252b9bba5ec0984c5ad6.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "On a magical Christmas Eve, Santa and his young helper, Lisnowy, embark on a journey full of adventure, challenges and wonder",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "289 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/30adb5479efa509a00f30a0c39ec30f9212ec392191f54af5926f64b95974067.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "The paint-mixing color puzzler with blorpy bloopy boomy blobs!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

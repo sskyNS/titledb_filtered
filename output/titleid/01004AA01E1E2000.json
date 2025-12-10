@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/16f1377b553c54bec207b24257e097ca8de50962512da04f444ad9ea27cd1c26.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "The fun tile-shifting game for young players!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "753 MiB"
 }

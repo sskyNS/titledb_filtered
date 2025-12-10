@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/84ec7ebbaee554785b2eea1eeb538f5a3deb78b397338ad43d8503645540165e.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "[Path: Through the Forest] is an exquisite and beautiful horizontal dissoling the riddle game, and we also designed a custom level to show players' creativity!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

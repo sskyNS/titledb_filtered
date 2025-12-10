@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/869579bcf92fb27d7a44526c5cb50ca13fc821ad54f594c7c1475867a1b3ee1b.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Control your enemies and eliminate them as fast as possible. You are an alien from outer space with a unique skill: Controlling the minds of your foes and use their skills to your advantage! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

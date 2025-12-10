@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9348a130a491a15938cf6cd64a173cd4569b69e670a909897726f8869356e560.jpg"
 	],
 	"releaseDate": 20190201,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Grow your own farm all by yourself, or cooperate with your friends in this unique, relaxing farming experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.26 GiB"
 }

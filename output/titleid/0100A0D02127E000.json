@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/400d3fa2508fb89f8da884873f27562d3cd2d5f8322a546f68bc0314d1d157ca.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A Journey Through Impossible Beauty",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "314 MiB"
 }

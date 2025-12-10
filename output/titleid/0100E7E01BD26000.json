@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/66697df2864c1ffede48f242844de360c118f8b1db3ac072305e1e7905ef72be.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Fuel Your Destiny: Ignite the Game Within!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

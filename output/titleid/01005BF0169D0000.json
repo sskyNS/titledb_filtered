@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b545f00cda44fdd65f975f4861b7f52ea6ed015141066bce6057997a6904021d.jpg"
 	],
 	"releaseDate": 20211227,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study"
+	],
+	"intro": "A novel logic puzzle game that sharpens thinking skills.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

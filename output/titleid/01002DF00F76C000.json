@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c255ca78f8bc040ec2538a0788c2b0a25253fb2a0b22d7182cb1c96943cbd5dc.jpg"
 	],
 	"releaseDate": 20200225,
+	"category": [
+		"Fighting"
+	],
+	"intro": "SAMURAI REBOOT!\nA brand new SAMURAI SHODOWN game takes aim for the world stage!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "15.07 GiB"
 }

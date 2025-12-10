@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff523822b41147946d8a00c6c4101d2a2e5fd47cb7cb4e0cf71422b2440637ce.jpg"
 	],
 	"releaseDate": 20231017,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "Pixel-art adventure filled with terror, twists and puzzles.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "774 MiB"
 }

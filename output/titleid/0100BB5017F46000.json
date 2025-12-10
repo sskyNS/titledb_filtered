@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b46890ce5429baf32e2d751b207cb9455cf139753c6871502a8f763f954cd85b.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "The greatest Supercar Show has begun! It's your chance to drive the newest, most powerful cars around!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "413 MiB"
 }

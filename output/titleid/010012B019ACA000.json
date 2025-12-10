@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/883b213d08686990d176c1d49adcc21a335049bf02ed237ac618da0dd35c9ce2.jpg"
 	],
 	"releaseDate": 20230426,
+	"category": [
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Navigate a dreamworld",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

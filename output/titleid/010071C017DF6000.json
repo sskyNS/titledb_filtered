@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/69251de335172f368fa3b9843c9fa183f2581ded027c198c9579cce35f8310cf.jpg"
 	],
 	"releaseDate": 20220525,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Propel yourself through the air with a blast of water and roll your way to freedom!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "987 MiB"
 }

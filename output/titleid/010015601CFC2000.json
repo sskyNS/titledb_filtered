@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/735a22d14ac1a613685b893897ec43bae7092448d34edaf3d24c6b8854143ef7.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Japan Train Models is a model train puzzle and layout crafting game for model train fans that allows you to create \"Train Models\" and \"Scenery\" just like a puzzle.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "740 MiB"
 }

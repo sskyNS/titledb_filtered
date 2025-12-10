@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b452491dd0cf73e0438071fefcd1cbf6b474a8bd5ad61c411c392c6551eacc7.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Get inside the ultimate weapon, GEMINI ARMS, and save the world from the Federal force deadly laser weapon.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "129 MiB"
 }

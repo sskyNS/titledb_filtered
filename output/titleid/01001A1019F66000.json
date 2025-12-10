@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/765fca7a77d9d7682dd4c2dfb62299a784d3fd48d3c9ad2991f2270a31ec9c50.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Utility",
+		"Practical",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Write down every amazing moment of your day using Notes + Stickers. Discover a new outlet for your fantastic memories.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

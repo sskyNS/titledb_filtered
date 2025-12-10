@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5cef4a4ac653b1c17790a5a0c8736f10ea881fa1ba17751728287285cdda127.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Good old fashioned 2D arcade fun with tons of upgrades and fast paced action where taking risks is rewarded with a higher score. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

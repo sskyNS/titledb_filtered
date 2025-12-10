@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad83920218a7f3bffb7349742ea0654942555dd108e53a766490ab01d22547f3.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Enter a massive galaxy of adventures created by the players. Build your own worlds, write music, create bosses - or take on the winding dungeons created by other players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

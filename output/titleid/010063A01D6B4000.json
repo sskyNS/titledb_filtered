@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9326aadc00d897433f62e53aa8feea70b686eb921f2a21030d04fd0b6ce772c.jpg"
 	],
 	"releaseDate": 20240426,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "A horde of invaders is coming for Earth, and a bunch of soldiers are ready to fight back",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

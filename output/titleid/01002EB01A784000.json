@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cfe1f32984a07696d1aa23be189467be776e76bf443302c12b62f1f0859ecc1.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Action",
+		"Board Game",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Two people rather than playing alone\nmore than playing together",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.37 GiB"
 }

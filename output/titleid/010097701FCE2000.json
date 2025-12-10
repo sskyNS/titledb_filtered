@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1731f1f74a40bfac9d6e95cd56520ad3bef21406f761115003965980fea7dce4.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In a godless abyss, parallel worlds entwine like a maze. Where does one find the path to the sole universe of bliss?",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

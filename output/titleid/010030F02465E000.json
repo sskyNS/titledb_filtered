@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7949cd820859e36b93b791b90c49a256eac51a88b2dd0d85809ab2eccf61093e.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Fight the Energi War and find your path in a fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "423 MiB"
 }

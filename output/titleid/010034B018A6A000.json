@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ceb16964030f76fe3a559c06d0ec01d6f5c81b5fbe87075489c66dd12f51d63d.jpg"
 	],
 	"releaseDate": 20220823,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Shoot from afar or nibble up-close and personal in a boss-rush, bullet-dodging revival of the 1982 Atari classic title, Yars' Revenge. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "539 MiB"
 }

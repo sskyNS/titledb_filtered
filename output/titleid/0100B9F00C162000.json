@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd3bd2589ea8d94030dace4a8a938622007b9c2e3dc092db9fc2838dab947af9.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Let\u2019s start your travel back to the future! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.34 GiB"
 }

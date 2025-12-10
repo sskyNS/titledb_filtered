@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cef0e7661b3896848981c11e6366aa73e755017ba426ec3c7d1e6fcd5cf78085.jpg"
 	],
 	"releaseDate": 20220215,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Engrave your life on the battlefield!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "13.73 GiB"
 }

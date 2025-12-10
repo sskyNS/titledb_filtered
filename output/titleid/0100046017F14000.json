@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/af00727e874cb2edd9fd196223a47705d7e3e87f547f7bd04abcf9df7a32ec7e.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Ride numerous warehouses, pick up pallets and deliver them to the specific locations on different shelves and heights. Many challenges awaits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "578 MiB"
 }

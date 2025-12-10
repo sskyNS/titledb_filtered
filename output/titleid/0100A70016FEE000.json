@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/0498e17a45fe87aa6b6e179f7b546f3e6543eb7a54d175bf9ceb73bb41800cbe.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An accident has made you the head of a lawless village...",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "486 MiB"
 }

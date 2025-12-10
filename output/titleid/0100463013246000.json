@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/db68388eb54eb33d130abc0281773cd2733879688e9fffc4e92656eeb753bd0c.jpg"
 	],
 	"releaseDate": 20201106,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Oneiros is a first-person, surreal puzzle adventure game that combines escape-room, classic adventure and crafting/building mechanics into a single narrative-based, surreal experience.",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

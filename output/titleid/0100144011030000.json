@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4eb5091f2c6676a56c81a799ead513fffd0c2b630dfc0f85cdf6a98b20815a9b.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Times without drivers are getting closer. How would a world look like if you would control the streets? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "735 MiB"
 }

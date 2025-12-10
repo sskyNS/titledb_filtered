@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/41034827ce223828418a827d38c7dd6e083cdffb8ff0bb8ff01f93b062daeac2.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Embark on an exciting 2D adventure under the ocean! In this puzzle-heavy game, where we manage a magical and unusual whale, we not only overcome obstacles by jumping, but also create our own path by positioning your dead bodies at the right points. In this adventure you have to prove not only your reflexes and speed but also your strategic skills. Determine your own strategy through trial and error and try to finish the level as fast as possible!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "38 MiB"
 }

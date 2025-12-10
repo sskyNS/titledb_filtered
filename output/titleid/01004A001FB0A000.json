@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc71f757cb18f1d67a6be5655119dc357e0be1a537979f56b0e129cb71519352.jpg"
 	],
 	"releaseDate": 20240821,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "ENERGY LAB!\nIn 30 episodes, can you escape this lab?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

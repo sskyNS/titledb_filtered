@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ceaea9716e15e92497343afdf029c72aad4dfadfd6c20f146aff5203e4efc63.jpg"
 	],
 	"releaseDate": 20180809,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "SubaraCity is a city-making puzzle game, giving a fresh spin on the block-matching genre!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

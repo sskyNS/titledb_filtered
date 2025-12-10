@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/453f10b9352681fc5fcf22a9b14583cb38acf199b9a9cd81f7ecb2cd72812c91.jpg"
 	],
 	"releaseDate": 20190712,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Sports"
+	],
+	"intro": "Banging beats and mad style, Lethal League Blaze is the most intense ball game you can play online with up to 4 players.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.15 GiB"
 }

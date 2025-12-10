@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3653963d202d7bb13f4d5b9ad15ad6598e03841a8a739c6ab272f93bdd3d4032.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Rescue Earth's precious plants",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

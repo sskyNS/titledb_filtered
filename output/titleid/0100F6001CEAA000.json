@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/72c6f795cfc5ab877c078e867a127f8e4e1b614985acd51d77c888b486b22b7a.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Discover the dark secrets of the ancient artifact.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "530 MiB"
 }

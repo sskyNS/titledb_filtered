@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7c140866066d53cd7ac6be97f2d4b5c9ecf55560a2c96a962f31364e474987e.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "Yooka(\u30e6\u30fc\u30ab)\u3068Laylee(\u30ec\u30a4\u30ea\u30fc)\u306e\u5927\u5192\u967a\uff01\uff01\n\u6700\u5f37\u30b3\u30f3\u30d3\u304c\u304a\u304f\u308b3D\u30a2\u30af\u30b7\u30e7\u30f3\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u8a95\u751f\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "8.31 GiB"
 }

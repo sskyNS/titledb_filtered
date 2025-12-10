@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4406067d0968966e5352bbcdbaa02f1b42a1600ee404c15336ba32a63547e76.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Survive a fictional pandemic in a city filled with madness and denial.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.86 GiB"
 }

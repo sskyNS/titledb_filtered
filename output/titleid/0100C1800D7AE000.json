@@ -4,5 +4,16 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20190212,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Pok\u00e9mon: Let\u2019s Go, Pikachu! and Pok\u00e9mon: Let\u2019s Go, Eevee! Demo Version",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": null,
 	"size": "2.22 GiB"
 }

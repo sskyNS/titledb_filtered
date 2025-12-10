@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d79c95b43ff40ab35fda1e8ad5cffdb8285f8fe20f6f71d7b8eaa68d4ef005a3.jpg"
 	],
 	"releaseDate": 20190219,
+	"category": [
+		"Multiplayer",
+		"Strategy",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Battleground of the Gods",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 10,
 	"size": "19.04 GiB"
 }

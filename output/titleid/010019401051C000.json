@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f3bcb3dc0d91c95af22b2e25d3f5e5e6eb26b8aa38c58c1b7212d94a7d9c708.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Sports"
+	],
+	"intro": "Tackle, pass, and score in battle soccer with the Mushroom Kingdom gang",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "2.78 GiB"
 }

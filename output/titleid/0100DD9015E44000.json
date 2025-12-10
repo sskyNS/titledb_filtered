@@ -7,5 +7,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/41fde18ace04bf75e65047f7ff1da61ecb73e699f00d11349d601415b129761c.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "300 Mahjong boards to solve !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

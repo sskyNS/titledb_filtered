@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac836b76267ab6722f1d163e24f15cec2d00534dd9d9b5698d4dea7ea3820b7b.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Join this comic-style silly birdy fight!\nWith friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "358 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c760911331cae2fd43661e1a86370cbbf26a686ad34994d208647b11548f67f.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Dash & Roll - Magic in Motion.\nJump, roll, dodge, and discover the secret behind this magical marvelous marble adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

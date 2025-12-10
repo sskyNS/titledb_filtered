@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c24ed5744e7772fe47fa5302de5ab8f7bfc662dff5cf477c74b18741aa7ae0e7.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Aim, bounce, and stick! Stick together 3 or more bubbles of the same color to erase them!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "77 MiB"
 }

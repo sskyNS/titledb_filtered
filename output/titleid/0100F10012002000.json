@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2f8e48a7180639bcb58bf1debaa794b36608a4c26576d7af987cac011a2fb4b.jpg"
 	],
 	"releaseDate": 20200703,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A quick-fire identification game. With a sniper rifle.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

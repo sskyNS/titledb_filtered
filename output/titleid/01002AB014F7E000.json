@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0441c6377f998ecc16ef4e3814ffbdb7aa7e3e75978c02b1b72dc04607ee1cb.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "The Sealed Ampoule is a \u201cdungeon agriculturalization Rogue-like game\u201d combining elements of dungeon exploration and clicker-style gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

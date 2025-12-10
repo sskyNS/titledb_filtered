@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/abcc2f2efe5d3e959e3e158031ac86beca3be5e4cd68a9cf211950edf248fa1a.jpg"
 	],
 	"releaseDate": 20210319,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Strategy"
+	],
+	"intro": "Let your brain fluids flow in this simple yet challenging game for all ages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0af5b39bd65f29680a51aedee28cc1bd2aa67f5a591c90fc9099d29eb975ec72.jpg"
 	],
 	"releaseDate": 20210419,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Defeat enemies, level up, assemble your rune build and collect minerals to forge better equipment on an epic journey in search of immortality.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

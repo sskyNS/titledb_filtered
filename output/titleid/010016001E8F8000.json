@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/43993b451990450f714b28478c3db473079d8767a74b207c7f673d48700426be.jpg"
 	],
 	"releaseDate": 20240524,
+	"category": [
+		"Party",
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Wash, dry, and sort clothes against the clock, mastering new challenges with each level.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "891 MiB"
 }

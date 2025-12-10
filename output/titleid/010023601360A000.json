@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/36d6b2ec50e2a795b390fb1d49f7e28ec16e818abd9172e0322550b422725b37.jpg"
 	],
 	"releaseDate": 20210720,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Mind Maze is a competitive logic puzzle game where you try to capture territory on the board.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "341 MiB"
 }

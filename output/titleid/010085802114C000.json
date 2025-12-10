@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9ccbb2985d1c61426162953efdecca317cb27caa175910c7c03f9c5bcaf9be4.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Face your Fears",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "447 MiB"
 }

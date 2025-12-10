@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9f1a9255e71026c08495bda4d0dfcc60b8df0cf6c41a346425366b937b8bac0.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Blast through endless swarms of chaotic emojis in this fast-paced rogue-like FPS! Unlock arenas, collect power-ups, and survive the madness.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

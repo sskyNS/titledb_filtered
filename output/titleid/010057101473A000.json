@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a79f1b1cb2fefa93a95164ebb081f3ac902db159ec4febd69187f35d90ff163.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Build and fight WWII tanks",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b8d98cf822b545fabc82388acc65307efd2de81cf2c8f58773c8d15c45706d6.jpg"
 	],
 	"releaseDate": null,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Save the Day, Look Good, Get Paid.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.29 GiB"
 }

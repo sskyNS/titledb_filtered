@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee8da23a52cee820d53c64adbde1592df4cf605e5a1ee328eb0e109313528d19.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Halcyon 6: Starbase Commander is a retro space strategy RPG with base building, deep tactical combat, crew management and emergent storytelling. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "890 MiB"
 }

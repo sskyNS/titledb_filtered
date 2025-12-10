@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f8ba24fad5443d51367567b113f814b64cf73d9f2f899d07fa1fd2f38e65987.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Training"
+	],
+	"intro": "A new type of falling object puzzle in which you slide and erase blocks by aligning them.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

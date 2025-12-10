@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d980ceb96882d53645a98f5adc4a0b7d710e5572d2189c26acd9c7d32959be9.jpg"
 	],
 	"releaseDate": 20201103,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Trapped inside an ancient labyrinth, chased by the mythical Minotaur. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "697 MiB"
 }

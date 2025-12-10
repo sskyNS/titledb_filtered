@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc2717ea30aeffc9a2d9dde823174aea9165e9b6d9f57f36f685cb3cdd93b45e.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "Ready, set, go! Get behind the wheel and let's hit the road for an adrenaline-fueled car game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e448076f1df0beac7dc97810a46deb247aad8d87f5b647a3094315b29fee525.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "\u666f\u54c1\u65701,000\u7a2e\u985e\u4ee5\u4e0a\uff01\nNintendo Switch\u304b\u3089\u672c\u7269\u306e\u30af\u30ec\u30fc\u30f3\u30b2\u30fc\u30e0\u3092\u30d7\u30ec\u30a4\uff01\n\u7372\u5f97\u3057\u305f\u666f\u54c1\u306f\u3054\u81ea\u5b85\u306b\u304a\u5c4a\u3051\u3057\u307e\u3059\uff01",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "262 MiB"
 }

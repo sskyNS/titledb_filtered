@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f699942e31bfe1a7e35a8de529cfc8a42357f64281f266c62aca6f9cfec99df.jpg"
 	],
 	"releaseDate": 20250531,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "An adventure game based on the slavic folktale \"Vasilisa the Beautiful\". A scary story about the journey to the mistress of the forbidden forest for magical powers.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "798 MiB"
 }

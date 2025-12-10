@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7df7e7a349a82526c028d0c5bf1fe1eb025cf0307c167a090b21d684631b3357.jpg"
 	],
 	"releaseDate": 20231003,
+	"category": [
+		"Adventure",
+		"Action",
+		"Party"
+	],
+	"intro": "Do you have what it takes to outplay your mates and become the sole Survivor?\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "909 MiB"
 }

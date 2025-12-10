@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6d2d5d81315407ef738d44ce4a41750640363029ec4987e47e9836a0461bdbd.jpg"
 	],
 	"releaseDate": 20171017,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "You are the last Genetic Infantryman (GI). Bred for war and betrayed by your superiors at the Quartz Zone Massacre, you stalk the battlefield as a one-man squad in search of the Traitor General\u2026 and payback!\n\nROGUE, REMASTERED\nA classic returns with HD graphics, remodelled assets, dynamic lighting and more! New features also include modern controls, extra difficulty settings and a revamped cover system. \n\nACCLAIMED CAMPAIGN\nFight through 13 expansive missions across iconic locations from the Rogue Trooper comic including the Quartz Zone, Petrified Forest and Harpo\u2019s Ferry.\n\nCUTTING-EDGE COMBAT\nExperience Rogue Trooper\u2019s timeless blend of stealth-action gameplay, cover-based combat and epic set-pieces as you cut your way through a swathe of Norts and vehicles with Lazookas, explosives, turrets and more.\n\nONLINE CO-OP\nTest your mettle in online co-op for 2-4 players. Defend your position against incoming waves of deadly Norts in \u2018Stronghold\u2019, or fight your way to safety in \u2018Progressive\u2019 mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.56 GiB"
 }

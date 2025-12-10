@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4eba5c3ee3515da1d5589204fe91dc479b50d20170f481d4c4cdb31bfe2752db.jpg"
 	],
 	"releaseDate": 20230314,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore the Kingdom of Haricot in this pixel art Metroidvania.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "806 MiB"
 }

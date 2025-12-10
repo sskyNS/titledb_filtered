@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/778a5cf815b3c86dc07486db7316f4a0c3c9cadc5ec1ed434254b06cdb4c3e71.jpg"
 	],
 	"releaseDate": 20221021,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"RPG"
+	],
+	"intro": "Trick-or-treat as an adorable dog on a spooky Halloween adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.72 GiB"
 }

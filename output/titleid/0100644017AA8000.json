@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/dffb4f09468033466857c2c1be9ac049175d26e5c3a617c591d598bdff42746c.jpg"
 	],
 	"releaseDate": 20230522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Follow a dramatic story in the typical spaghetti-western style.",
+	"languages": [
+		"en",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "757 MiB"
 }

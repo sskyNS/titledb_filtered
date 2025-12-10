@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8187adfc6ef176526401806e9e9b7c61c2584abf88b466f247196545dff49ea1.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Collaboration Project Between Picross\u2122 S and SNK Arcade/NEOGEO Games!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "449 MiB"
 }

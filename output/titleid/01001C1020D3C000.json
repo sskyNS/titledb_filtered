@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a20295b8632b128615db61c93a911f60a0fe54fb43648df76ac201c5f6caf8a.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Party",
+		"Other"
+	],
+	"intro": "Find and discover 100 cute cats hidden across Bali in this hand-drawn hidden object game. Can you find them all?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

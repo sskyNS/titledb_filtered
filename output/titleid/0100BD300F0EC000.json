@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8da8b155cf7d6c66ee9b5740597d427b55aea302143c6c16d2e2d4eda996ae41.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"RPG",
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Destroy all monsters!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

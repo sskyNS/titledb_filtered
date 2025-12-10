@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/538758a3fdb24cdee8f15b9d8624e43b51d4a090bd50dda182e00e4b2e5aff1c.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "This time, the ghouls are real!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/efcc44f7f9c4a613f9b6597b2400939959a8881d085b33784a719be324b78a36.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Fly now! Live an incredible flight experience to worlds full of light and color. Explore different scenarios in search of your rewards. Can you find them all?",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

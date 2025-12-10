@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/12f9b28bb033c4d1092180652d2ea6f343f4d8e4d820f5fb6801b2d9279b8acb.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"Action",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Manipulate Time, Eliminate Your Enemies. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

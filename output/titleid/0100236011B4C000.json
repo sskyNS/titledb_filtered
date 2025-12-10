@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae92589a231460fe3e460433d2e1a497e1d9342d2356d04ab04aa84f2d4e4024.jpg"
 	],
 	"releaseDate": 20210601,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore the wild frontier with Lucky\u2019s faithful mustang, Spirit, and best friends, Abigail and Pru. Where will friendship, and a mysterious treasure map lead you?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.07 GiB"
 }

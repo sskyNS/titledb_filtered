@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fde247d14a6257baa3d505f3f2a84e71087195002aa7fbd889b1054371ba61fb.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A dimension-shifting, comedic adventure about worlds turned inside out.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "485 MiB"
 }

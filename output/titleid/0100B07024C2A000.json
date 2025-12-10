@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba38fa7b6d59053b432b29ef946ad70c18e1ae007409e499e7cc622cea5a7135.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "A witch who has lost her memory boards a train in an unfamiliar world\nand travels to recover her memories.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

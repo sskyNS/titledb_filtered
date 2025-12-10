@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9175110f67f14b0f11fe2392c9c4b432858a6e86d63b3c47516072a53956664f.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Stylish hack-and-slash action with two stunning heroines smashing robots to pieces!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "620 MiB"
 }

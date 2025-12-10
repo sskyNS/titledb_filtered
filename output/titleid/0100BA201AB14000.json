@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c610a5064fe1336b60725015f9dfc179a7dc5eeb183edd166e44cc23bcef5ba.jpg"
 	],
 	"releaseDate": 20230502,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Kick the beastman away!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "61 MiB"
 }

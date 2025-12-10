@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dfe820c40a32c583950a788b3174c2fff1a4a94959e0ca4885315aeabc70104.jpg"
 	],
 	"releaseDate": 20250910,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A hedgehog, sugar, and lots of logic on the table!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

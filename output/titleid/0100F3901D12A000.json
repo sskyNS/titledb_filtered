@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1ee6692b8f7744fdac2b7c5399ad9d945bb7c544f5b843b68c2ab353c8ff806.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Manipulate space and open the way!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

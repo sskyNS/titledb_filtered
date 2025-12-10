@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b36497385c7192b32154ef283854a910dac3bb7aa79e1d45c5459d7d9119c9ee.jpg"
 	],
 	"releaseDate": 20171123,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Help Ray escape in this humorous and acclaimed platform puzzler!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "864 MiB"
 }

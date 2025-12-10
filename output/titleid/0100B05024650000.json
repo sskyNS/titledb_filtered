@@ -4,5 +4,16 @@
 	"publisher": "FURYU Corporation",
 	"screenshots": null,
 	"releaseDate": 20250827,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "The \"VARLET Digital Deluxe Bonus: Art & Sound App\" is available as a free bonus download.\n\nThis application is a viewer app that includes the following:\n\nDigital Creative Artbook (80 pages)\nDigital Special Album (53 tracks)\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

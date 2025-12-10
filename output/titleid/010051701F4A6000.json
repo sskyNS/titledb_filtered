@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/02750eb5b638827632ccd317bdeaa9215ab9fc344345df421279f69d9190499f.jpg"
 	],
 	"releaseDate": 20240506,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other",
+		"Lifestyle"
+	],
+	"intro": "In a world devastated by a zombie pandemic, a group of strangers band together to survive, discovering that the real monsters may not just be the zombies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

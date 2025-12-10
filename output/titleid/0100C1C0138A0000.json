@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9917f6504b157559dd3863fe32fd458a4ec7e169ed6aa57e05d3877286d505de.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Transform a barren planet into a thriving colony in this sci-fi colonization sim.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

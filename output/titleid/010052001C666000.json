@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea257a7018f0864b19e48b06afbd50eb8de7329384fc190e5b6e519c26d807e7.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Welcome to the action-packed battle royale shooter! Grab your weapons and try to be the last one standing, shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

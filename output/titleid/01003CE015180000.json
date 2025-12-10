@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2737783460c0fd8a051d0aa4770998528a4a00952e89edc640c5a2156b34c9f.jpg"
 	],
 	"releaseDate": 20210706,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "87 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/325c6766d43b6496e6e19325f65e9132b2f46403349a4c29c075abc0243c5cd5.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Explore a detailed fantasy world, lead the Order of the Griffin, recruit and enhance your fighters, control a flying island, search for artifacts, and learn the secrets of the ancients.",
+	"languages": [
+		"en",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 3,
 	"size": "473 MiB"
 }

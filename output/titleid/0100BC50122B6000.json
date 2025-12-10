@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/34a7ef48f3e9807ab4403757aba55920280f059a78a3b95f852364db615f18a7.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Build and connect your farm\nScore most points\nGrow and destroy your opponents",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 5,
 	"size": "925 MiB"
 }

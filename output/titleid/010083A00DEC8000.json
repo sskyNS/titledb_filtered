@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9286efdc199c77f58f6df0a6d72d2264cb8e96c6ad0e10da9bcbcc0b47244d4d.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"Arcade",
+		"Party"
+	],
+	"intro": "Classic and addictive gameplay reimagined with colorful dragons. Try to beat your high score or play against up to 4 friends on a single screen. Eat as many butterflies as you can and watch your dragon grow!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "361 MiB"
 }

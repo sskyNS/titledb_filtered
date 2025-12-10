@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6de02c34feb226aefce56e08afb3f1c3c4b83c01c53eb11595c61836f3054d1.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Other",
+		"Utility"
+	],
+	"intro": "Spy Guy Memory improves on the classic memory game formula. It gives you the ability to increase the difficulty level at your own speed and customize the challenges.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

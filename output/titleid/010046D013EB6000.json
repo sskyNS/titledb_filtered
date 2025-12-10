@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/31825121e06c1bec013948ac13328a368d069cd5f8254fb0d62d0958b9b6adf0.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2d322c7e5109f685a1c471f2520097241cb03f16a7a836990b02fbf597b05b7.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Join Dusty and his optimistic friend, Piper, on an adventure through the mind",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.77 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/501392cb5e69693e5dbf558f644c52cbe12d77b3b7fadd0793eae635f7887cd6.jpg"
 	],
 	"releaseDate": 20210929,
+	"category": [
+		"Education",
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Mathematics is a fundamental subject for the development of studies in almost all aspects of life. For all of them comes a new 3D game: \"Math Classroom Challenge\".",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

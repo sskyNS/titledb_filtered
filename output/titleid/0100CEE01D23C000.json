@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/335599b03cca2370334769085aa0cd8fc28156ad383be436fc4f22ceb8777b35.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "A game inspired by New Caledonia.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.70 GiB"
 }

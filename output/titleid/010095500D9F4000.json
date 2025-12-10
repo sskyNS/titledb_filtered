@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c001bbb8cf06550e96db69dd22fee437e3ffcb477a933048ec70b1e5aadfbd7.jpg"
 	],
 	"releaseDate": 20190712,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Action-RPG where your choice drives the story.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.39 GiB"
 }

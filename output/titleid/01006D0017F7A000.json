@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d3456d1abf319d772f41bb7484a5f036f89cd8ae5c015a15d1d8da8655dfd13.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Set sail on an island-hopping adventure starring Mario and Luigi",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.99 GiB"
 }

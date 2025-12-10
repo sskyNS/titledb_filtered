@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/24179ba542ab49c716e621db3251ea456f0f27c4b9b443ffff1e969a0f719999.jpg"
 	],
 	"releaseDate": 20211005,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Brawl it out as your favorite Nickelodeon characters in bombastic platform battles!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.92 GiB"
 }

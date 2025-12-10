@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e91de70d7b982147e229f154739d572d35f73c6046b7211fdfd056ac47f2ea3.jpg"
 	],
 	"releaseDate": 20250903,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Narrative-driven first person horror adventure inspired by Lovecraft's short novel \"The Nameless City\" (1921).",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

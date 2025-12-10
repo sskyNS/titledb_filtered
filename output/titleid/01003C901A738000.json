@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/01df72209a9bb06118aaebf21b80c26aaea87f1f2f5b4c974133902815766375.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Lifestyle",
+		"Board Game"
+	],
+	"intro": "Swap tiles to reveal beautiful images. \nRelax with easy puzzles or challenge yourself with expert difficulty level.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

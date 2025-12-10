@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c46abddce960881792bc6358a1cbe43eb20fdf0b04f36c564fccc6f35bdff35.jpg"
 	],
 	"releaseDate": 20211027,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Amazing Breaker is a beautiful addictive ice-smashing game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "543 MiB"
 }

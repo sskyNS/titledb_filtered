@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc03b3b78f682d5a063d4c9e792caddc43f41fa83e4d2a076588bc7383424dc6.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "The Ultimate Drift Racing Simulator",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

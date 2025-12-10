@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/246f9ad373a4ac3ebf47a55edd5171f22c1e1ed85ef6a83de4f26398a7c1b704.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Heaven, earth and mankind - Create and destroy everything according to your will!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.44 GiB"
 }

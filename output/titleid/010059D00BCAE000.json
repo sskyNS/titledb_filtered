@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f78a3434e414b4ba6dc422d993cf9fd057d4c72b7d5fb62f6bd1c32c0628da0.jpg"
 	],
 	"releaseDate": 20190301,
+	"category": [
+		"Strategy",
+		"Arcade",
+		"Action"
+	],
+	"intro": "What do Vikings, Persians and Demons have in common? They\u2019re all willing to fight for the perfect shawarma in this side-scrolling battle game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "405 MiB"
 }

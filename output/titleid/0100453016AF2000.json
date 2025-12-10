@@ -8,5 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4adf22871c0aa567ddba7be454c34885ad8cd41a49119d3f8230c8719b3182ef.jpg"
 	],
 	"releaseDate": 20211119,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Exertus: Redux is a first-person action platformer with free-run and old school FPS inspired movement mechanics",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

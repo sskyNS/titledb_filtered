@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b67b858758fe4d8a69546043d7919edbd257677936081b4543e3121d984c804a.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A heated gun battle!\nShoot machine guns!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "162 MiB"
 }

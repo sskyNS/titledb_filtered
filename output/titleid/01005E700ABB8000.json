@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4de823689681cf1ab973360339821520d5f30500fe92ec3efeea0f2b960f4727.jpg"
 	],
 	"releaseDate": 20201027,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Abe's back on the menu!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.88 GiB"
 }

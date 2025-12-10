@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/efb8a2609636e9571ccbe1823ab2bc7a28f0bc108ffa821073604ac9d8535d90.jpg"
 	],
 	"releaseDate": 20180517,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play the 2 player Classic Sequel to Burger Time now with 2 players competitive Action and fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "66 MiB"
 }

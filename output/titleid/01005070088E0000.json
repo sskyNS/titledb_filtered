@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1393eccc47c347363277efe18f932160ac2a5e3a1a1a6ad1b07175434b2ee37.jpg"
 	],
 	"releaseDate": 20190815,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Classic adventure formula boiled down to the essentials. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "536 MiB"
 }

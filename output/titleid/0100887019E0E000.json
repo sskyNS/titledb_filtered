@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfb7606416fed2da7f88b894c3d9aa1d9c1309866d530c60b184c21f3790ffbb.jpg"
 	],
 	"releaseDate": 20230329,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Run, jump and roll your way to a new high score as hazards and bonuses pop up all around the planet!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

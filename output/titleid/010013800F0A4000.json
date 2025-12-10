@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/85ca9179a8adf54dcdd9b9e8a740cfeeb1559f116cea3fe42e48a94d01300c76.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Golazo is a dynamic arcade football game with a medium sized fields, no fouls and offsides whistled. Just pure fun!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1016 MiB"
 }

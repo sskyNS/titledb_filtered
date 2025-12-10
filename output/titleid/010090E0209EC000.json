@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff490eda262aeeef38c15323c37653bc185de27b0509b1bb55953dc285e169d0.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Explore the monster-occupied levels of Banban\u2019s Kindergarten. Survive the dreads that reside below as you are now completely on your own. Uncover the truth behind the place!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1020 MiB"
 }

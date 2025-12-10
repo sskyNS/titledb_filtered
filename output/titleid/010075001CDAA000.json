@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e3296549209913f98d120d6725dbdfebc6f6a3d590d7449dd40d7a471194334.jpg"
 	],
 	"releaseDate": 20240105,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Chaos-filled, home renovation couch coop in one package!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.79 GiB"
 }

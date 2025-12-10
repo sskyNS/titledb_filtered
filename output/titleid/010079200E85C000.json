@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb816ff1b53cc6dad447d88b972079beee42bb384f56f0c1f7d4c2f91a97ede6.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Communication",
+		"Other"
+	],
+	"intro": "Roguelike x Relaxation!\nEnjoy your daily life in an academy of fair maidens!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.07 GiB"
 }

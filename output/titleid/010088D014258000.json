@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/58edc7d5c8bd5c88666e960c3f5381937ffeb5f47c577ec425d8c8ecfbe99370.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Sports",
+		"Action"
+	],
+	"intro": "The season starts now \u2013 grab your racket and become the world\u2019s next tennis champion!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.40 GiB"
 }

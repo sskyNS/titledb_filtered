@@ -4,5 +4,21 @@
 	"publisher": "WB Games",
 	"screenshots": null,
 	"releaseDate": 20230919,
+	"category": [
+		"Fighting"
+	],
+	"intro": "Discover a Reborn Mortal Kombat\u2122 Universe\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "42.89 GiB"
 }

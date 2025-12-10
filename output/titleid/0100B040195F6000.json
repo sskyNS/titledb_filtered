@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/786ddca27d43468f9bdf309dd065e87b952b8160907629635138a06b12e3d47b.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A vertical 2D platformer featuring a round bee in an early 90s prerendered environment. Roll and hop up to the precious honey.\n\nFeatures:\n- early 90s prerendered graphics\n- 9 levels with replay value\n- a few secrets to discover\n- a very round bee\n- a prelude to Super Kiwi 64",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

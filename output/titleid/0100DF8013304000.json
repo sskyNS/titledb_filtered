@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/915c0e31ae31fae35e98abdd338875a2d4789c024edc3b37e88abe982ff112d9.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Study"
+	],
+	"intro": "An elegantly designed puzzle game about chemistry.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "301 MiB"
 }

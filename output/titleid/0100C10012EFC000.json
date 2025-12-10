@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d61a8f3b2abf07dfb69ad5926f14a37fc328679969c8464c9f47b19342fb42e4.jpg"
 	],
 	"releaseDate": 20201024,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Become the ultimate War Titan!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "880 MiB"
 }

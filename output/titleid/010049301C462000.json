@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/343e6ccd9c1ca34e1284d13b053063b2f2f0692a59fe4c69e312709471225d87.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Experience a thrilling underwater adventure with classic point-and-click gameplay. Explore with 3 characters simultaneously. Ready for a journey to hidden places deep below the waves...?",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.70 GiB"
 }

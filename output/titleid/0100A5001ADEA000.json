@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/de67877c9ccec9c509ed098b896d32eef77f0ef8e93cc748b0329015b7547235.jpg"
 	],
 	"releaseDate": 20230825,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Travel through a mysterious spirit world and save your sister.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

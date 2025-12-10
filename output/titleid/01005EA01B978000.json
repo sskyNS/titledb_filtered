@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4feda938878b548e52c061a697f80833372e6f3e8402182357d9568908aaa76.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Pick one among the most brave samurai and live the legend, fight against the goons and find the despicable villain Void Samurai that is threatening the life of the empire! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.33 GiB"
 }

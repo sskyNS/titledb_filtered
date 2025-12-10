@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac5e842979a87b0802a429b04e8ef03f4651ecbde42600f28791579d28b4c407.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Help a pupper stop an evil curse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "44 MiB"
 }

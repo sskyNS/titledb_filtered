@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9369564bc86f2c4af6408713853b6f31405351c0fa65a4d42d5b3a874445a64c.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "The ultimate twin-stick action-RPG/shooter is here! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "159 MiB"
 }

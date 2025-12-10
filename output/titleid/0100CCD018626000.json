@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/925bc9ca6e8b93c970dd0ef9cfc4887fcd96ec65889ecafae7ed5cc4144eba2a.jpg"
 	],
 	"releaseDate": 20220731,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Drifting, stunts & epic speed on extreme tracks!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "827 MiB"
 }

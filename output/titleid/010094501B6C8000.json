@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/62ee86378d6767509718872a53fe515b5cb06fbbc96b1cb817df3cae7c77f3fe.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Party"
+	],
+	"intro": "An atmospheric hidden object game with cat drama, cat betrayal\u2026 and cat love.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "687 MiB"
 }

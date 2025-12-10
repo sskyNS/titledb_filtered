@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c942c07a0e6500f8a5354e7ba6300cb8962fe83888b41cc71690fa772012267b.jpg"
 	],
 	"releaseDate": 20221104,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "We're Better Together",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "12.15 GiB"
 }

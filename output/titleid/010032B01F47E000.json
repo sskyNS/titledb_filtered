@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d207afe2075494551e2c047fed44065f27e3189047f4ba18c1091f1fbea4e1d.jpg"
 	],
 	"releaseDate": 20240705,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"Simulation"
+	],
+	"intro": "Horror game about thalasophobia where you play as a submarine pilot exploring the deep sea.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

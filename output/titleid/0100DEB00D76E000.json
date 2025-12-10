@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8c0c2163118f606b87b350694b9244958a5ed281f4bc6ab6d7eb96b6d8b7db7.jpg"
 	],
 	"releaseDate": 20190305,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "Help the Bard to overcome the dungeon\u2019s many dangerous perils and use your new-found treasures to improve your character and to buy new weapons and gear! ",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

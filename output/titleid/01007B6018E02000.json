@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fd308080639fa59503e3613dd05b1a2c5602e3ff21274f4c455428cd1548961.jpg"
 	],
 	"releaseDate": 20220815,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Help Puppy Return home in a fun balloon ride across the skies, city, mazes and country. Fun for all ages!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

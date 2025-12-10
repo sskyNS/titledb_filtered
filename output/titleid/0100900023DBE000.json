@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8f16730c72685fcb0118ae1671c77a459d35a62672b1bd2b7bd110514480aca.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Protect your village from evil ninja cats and save the day, samurai-style",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.25 GiB"
 }

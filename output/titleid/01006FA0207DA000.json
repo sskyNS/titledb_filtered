@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b71b0b5f3d1dc8526ec2fee98520524dd851b3c6bdd9b988d43acb37a8dbc45.jpg"
 	],
 	"releaseDate": 20250606,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Racing",
+		"RPG"
+	],
+	"intro": "Raise your ducklings into the ultimate team of racers in Duck Life 9, where everything is bigger, bolder & more beautiful than ever before!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

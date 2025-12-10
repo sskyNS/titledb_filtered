@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/70929d2a8b4b57cd2dd4fc6639e5152b6219930775a5cfa61fa91cb0b2cd39b6.jpg"
 	],
 	"releaseDate": 20200620,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Help Tcheco the Adventure Boy to leave a mysterious castle full of deadly creatures! Be ready for a big challenge, full of nonsense humor and retro goodness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

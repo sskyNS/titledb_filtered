@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dee12988e63c629c5e6ae5c1c458c899e6572a5ea413eb5f2b9b82348ff4132.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Creepily adorable aliens",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

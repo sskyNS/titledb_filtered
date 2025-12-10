@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ba80b4064a0e5678b02b835053cfbf498546482800d4aff2122ccc3d9c9c081.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Arcade",
+		"Action",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "A 12 Game Package, Including Rare River City Gems!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "581 MiB"
 }

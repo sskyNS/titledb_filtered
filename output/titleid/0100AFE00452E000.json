@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/acb6cd518fbf942a74a305910b0c6b0aaca0a0922e9a35ff51fd3181bc63de97.jpg"
 	],
 	"releaseDate": 20171005,
+	"category": [
+		"Multiplayer",
+		"Puzzle",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Tumblestone completely reinvents the matching genre",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "867 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/11d2f67bd6d847f82c64d21422a7f5e7e96a2bd20550100a79b1143e9fa382eb.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Vampire\u2019s Fall: Origins is a 2D open-world RPG with tactical combat. Create your character, choose your bloodline and venture out in the world. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "597 MiB"
 }

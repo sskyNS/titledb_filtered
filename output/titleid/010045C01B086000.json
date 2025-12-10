@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/70fdc43124e6c7f94979221d33d685f7e78d89267a11372d798b36bf4d8d32bd.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Cross the finishing line riding a unicorn!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e984d29ce47e8fb73fc16fbeebbebfe2e64784f0616a7592a3ae1caf887f905c.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Some ideas should stay forgotten!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "797 MiB"
 }

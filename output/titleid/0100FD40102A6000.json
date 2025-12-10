@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7e2315ecf1479964f504bd5fcf875de1e8d203e42627625372c815d8e0c7412.jpg"
 	],
 	"releaseDate": 20210814,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Many came before, many failed. Copies of previous players are still scattered throughout the dungeon! Explore, craft, learn spells and more on your journey to the top! Will you stay safe?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/079c9a5720ee1a3b46cf650d8ef056adce90c5f65cc693c151662fd05a42971e.jpg"
 	],
 	"releaseDate": 20230718,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "The Finale of the LISA Series. Traverse the world as Buddy. Stake your claim and make your mark.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

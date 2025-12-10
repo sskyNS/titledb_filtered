@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a37d1b9efe7965b26e0f4c9a57bef710049582cec5d05aad4432d5e834ee8fe9.jpg"
 	],
 	"releaseDate": 20250818,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Design and build drones to take down a corrupt regime and their army of clockwork robots! Sneak and fight your way through the city of Riveton to inspire the people to rise up!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.40 GiB"
 }

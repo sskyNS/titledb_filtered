@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa34448952e31abcd860c784e3ee63edec1734ce01d2f48d979d34455d818708.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Mech combat arena",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.10 GiB"
 }

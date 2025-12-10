@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d42e87720e12b669de16e8cbd36e795d8c7429695a58d0a1941a87e6b9a83c.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Fighting",
+		"Simulation"
+	],
+	"intro": "Grab your hat, boots, and bow and head into the wilderness. In Above Snakes, piece by piece, you\u2019ll shape your own landscapes across this Wild West-inspired world builder.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/da9452433b0146033b8c8fb11af65549eb864d5bf2c737443da1bdd261aea3ad.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education",
+		"Study"
+	],
+	"intro": "Japan Train Models 4th installment features trains from JR Freight!\nBuild, view, and run realistic reproductions of trains!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "699 MiB"
 }

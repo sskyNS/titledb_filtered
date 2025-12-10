@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f0dd58a59e2462acbf540ee8aa12cbd7c92a0abdc80ed471a6781f86e41b643.jpg"
 	],
 	"releaseDate": 20230822,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Sports",
+		"Shooter"
+	],
+	"intro": "The princess is in danger! Archer, shoot the rope and save the princess! Demonstrate your accuracy skills and complete the puzzle with real physics!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

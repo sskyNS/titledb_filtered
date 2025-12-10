@@ -4,5 +4,14 @@
 	"publisher": "MAGES.",
 	"screenshots": null,
 	"releaseDate": 20210325,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u30e1\u30e2\u30ea\u30fc\u30ba\u30aa\u30d5\u30d2\u30b9\u30c8\u30ea\u30a2\u9650\u5b9a\u7248\u306e\u7279\u5178\u3068\u306a\u308b\u30a8\u30af\u30b9\u30c8\u30e9\u30b7\u30ca\u30ea\u30aa\u306b\u306a\u308a\u307e\u3059\u3002",
+	"languages": [
+		"ja",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1021 MiB"
 }

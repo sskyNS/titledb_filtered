@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/50a213228f813a5bf91d54448825f5602431045e89100054ad68f2c28a3246f0.jpg"
 	],
 	"releaseDate": 20240424,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Navigate tricky mazelike levels and help reunite a lost rodent with his family!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

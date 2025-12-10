@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c2111a02333e0fe6d3b4b5f4fa2a09b3f4fd1baa6946ea4a3a6e96b31f7e0d5.jpg"
 	],
 	"releaseDate": 20250722,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Make a BIG difference as a TINY robot!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.75 GiB"
 }

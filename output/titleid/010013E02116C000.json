@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb3ee5bda71a6d2e29bfe1e757551eb3cac6ee0b532560ec29632aa5f24d9060.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "It's payback time! Lead your powerful dark army and make the Kingdom tremble with each step! Build mighty towers and find the most deadly combinations.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

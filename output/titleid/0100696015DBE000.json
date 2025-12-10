@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffc3c5944f62dd1f540353c65659ba213b0fb1a75f80c7b29c72d7f171b53fa8.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Solve 100 jigsaw puzzles of Greatest Cities. Puzzle solo or together in multiplayer for up to 4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "677 MiB"
 }

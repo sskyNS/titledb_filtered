@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3368f2077b11bde367b8c341293c36a0ab4c4a59362ea2ef299a530c8803e47.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A mouse-bouncing adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "604 MiB"
 }

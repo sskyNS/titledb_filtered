@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/44f17f22853a2e2c5e46c60e60d413d1412c13e6b8183f1cd8d4ad06833a3a14.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Pierce the sky in this stylish space shoot-em-up",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

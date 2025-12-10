@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f463c8533da840b38b0778f7b1cd937ac0d6b89455b3f4f89002d7ed6b4b307.jpg"
 	],
 	"releaseDate": 20250402,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Croc\u2019s back and he\u2019s still got the moves!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.00 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/23d07449645569bb5cfd6e4e8132222cd57e956f3f8d681c78aa8b1c35536e4b.jpg"
 	],
 	"releaseDate": 20221105,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Go on a unique and unforgettable Hike and discover the old historical forest and it's secrets. Get ready for an calm and relaxing adventure far away from the civilization.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

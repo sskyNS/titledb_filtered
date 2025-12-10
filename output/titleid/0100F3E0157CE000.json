@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1974511804ddaef381edc1b75ec4b62044b48cb4d0b10eb96e9cb574d434a9ea.jpg"
 	],
 	"releaseDate": 20210827,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "What could have possibly happened to the family in this bunker?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "408 MiB"
 }

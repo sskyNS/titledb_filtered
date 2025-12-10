@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/141845b9e6adb794434042f955e6a14c8490ac72361d77ec6126a76740aad56a.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Bang the drums, stock the shelves, dominate the deals!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "601 MiB"
 }

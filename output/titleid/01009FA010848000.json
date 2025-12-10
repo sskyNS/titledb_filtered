@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6970f260cb819ab3fe37d95b42c57e5087dcc3e4ee3fa83a3cd5171e41afe9f9.jpg"
 	],
 	"releaseDate": 20210223,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Team up with friends to combat procedural dungeons, explore an expansive overworld full of secrets and take down the Titans to save the once peaceful land of Tasos!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.84 GiB"
 }

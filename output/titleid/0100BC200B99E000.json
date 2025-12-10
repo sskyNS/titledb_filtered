@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ba2a95e6d53b6c133c769da39041813ec7a40e00089a8dc60a126cf518cbc6f.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Free to play!\nJapanese style MMORPG battle action!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.28 GiB"
 }

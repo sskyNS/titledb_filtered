@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/feeb9b4ec4ac32231c60f95f19c7c50bf7c8cf7289db4977c4ec0dd8f43dbdee.jpg"
 	],
 	"releaseDate": 20200818,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Raji: An Ancient Epic is an action-adventure game set in ancient India. A young girl named Raji has been chosen by the gods to stand against the demonic invasion of the human realm.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.28 GiB"
 }

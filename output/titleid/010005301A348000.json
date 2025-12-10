@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a57901e679b87699d4a001b7e6a986f480fa75aef76dba6c6ec9eef22f126617.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"Racing",
+		"Strategy",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Get ahead of everyone in wacky, fun races and take a challenge to be the best and fastest driver!",
+	"languages": [
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "376 MiB"
 }

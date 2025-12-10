@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/70e5d204a10756b1065152324c4d7ab76de55c5d7df74fd65157e1fe7a59f041.jpg"
 	],
 	"releaseDate": 20220729,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The classic video game franchise rises in full force, with 5 awesome Turrican titles in one collection! \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/05d7728dc8e7d6cc95da9706a1a73d9af01bc7ea4b2b365f5343138a0deae80b.jpg"
 	],
 	"releaseDate": 20180306,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In NORTH you play a man who applies for asylum in a city filled with strange creatures and strange customs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1abff766965fa9f1fd1f29dbe0f63b7eb8914ce4c6fea8639542a0998594e9cb.jpg"
 	],
 	"releaseDate": 20210630,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Defeat the God-devouring Dragon in this deceptively simple squad building game!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "134 MiB"
 }

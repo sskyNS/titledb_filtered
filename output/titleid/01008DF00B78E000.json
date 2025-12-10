@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b0cbb6e4687891cd76bc880b882ba1c6f79b868a204043e96fd27469168eea1.jpg"
 	],
 	"releaseDate": 20200409,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Roll your way through this action packed puzzle platformer.\nThe Gunbrick - A gun one side... a shield on the other. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

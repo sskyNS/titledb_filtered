@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/4508565ff200a1f74d67c37990b9eecf169f7f767ec0c00cfb2cf56488ebb580.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Retro Pixel Racers is a fun top-down arcade racing game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

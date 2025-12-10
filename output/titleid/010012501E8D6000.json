@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/34c6806e8a7b736d930f9510df49c8e419ec3a43c305207acd50f3ce6f729eac.jpg"
 	],
 	"releaseDate": 20240426,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dive into globetrotter adventures, discover granny\u2019s treasures, and relax along the way.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

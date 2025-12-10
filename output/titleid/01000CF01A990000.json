@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/11dc85f90149f97d8eb3334a5fc89e9459b370c71bac082b9b4d67a26529614e.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Enjoy \"THOSE GAMES\" you've seen and wanted to play before. Play a variety of minigames fully, thoroughly, and enjoyably to your heart's content!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "531 MiB"
 }

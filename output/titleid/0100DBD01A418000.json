@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/913637ececf9e83d70f057cefcc2ff0749525e1c9277c86ed1f66b676a0a651c.jpg"
 	],
 	"releaseDate": 20230116,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Platformer"
+	],
+	"intro": "A infinite rolling adventure. Switch sides quickly to stop the ball rolling off the edge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "54 MiB"
 }

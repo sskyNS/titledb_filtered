@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b93d79b2cbc079721011a91d399678185ca1344f9441445a5f9937db41b698f.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Magic Twins is a cooperative arcade puzzle game in which Abra and Cadabra must use their chromagic powers to defeat hordes of color elementals and stop the Colormageddon",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.25 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/731d66fef4c2d8ea8fe21cc3ee338e7d43ecbbb9656d8bcbd6d3ea94be745427.jpg"
 	],
 	"releaseDate": 20240830,
+	"category": [
+		"Action",
+		"Party"
+	],
+	"intro": "A new party action game set in the Umamusume universe!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.47 GiB"
 }

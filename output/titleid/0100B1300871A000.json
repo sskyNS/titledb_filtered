@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a754c8512ea763f0a40186700483114083459f42e3c1b4f0d746d8f4ba7006cf.jpg"
 	],
 	"releaseDate": 20180104,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Vicious monsters have appeared! Who is the King of the Monsters?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "85 MiB"
 }

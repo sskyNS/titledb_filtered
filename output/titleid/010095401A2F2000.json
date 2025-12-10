@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bd66cd62971d8ac72b46f142815127d8319e4b3ebb9e19b00216e15600cdd7f.jpg"
 	],
 	"releaseDate": 20230310,
+	"category": [
+		"Racing",
+		"Puzzle",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Rush over to your customers and fulfill orders in this logistical extravaganza. Experience this unique puzzle game experience.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "735 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4565b256fff9acfedcdc7bfe9c484e8c365c3961bc104f2a20e5d94169d198f7.jpg"
 	],
 	"releaseDate": 20251115,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Throw, dodge, and master endless hoops.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

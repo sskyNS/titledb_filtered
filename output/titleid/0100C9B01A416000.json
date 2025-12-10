@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aed915a13024bd541485ba30e2d815a9b61b6c681725c808fe909dec94cc0e0c.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Action",
+		"Platformer",
+		"Party",
+		"Fighting"
+	],
+	"intro": "A sci-fi combat game combining top-down space dog fights with up-close platforming action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "162 MiB"
 }

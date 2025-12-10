@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7540b1e015adc3b20bba9ce655fa70775b83e3be9b5baa15863bfacf89be669e.jpg"
 	],
 	"releaseDate": 20231117,
+	"category": [
+		"Education",
+		"Study",
+		"Utility",
+		"Training"
+	],
+	"intro": "Discover the world and learn by playing with Smurfs!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

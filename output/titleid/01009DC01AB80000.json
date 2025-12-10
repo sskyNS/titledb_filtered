@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd03fc4a5b437e4677f65b96c15ecb0f95de88cbf2914480cd80f4c46e0c71c8.jpg"
 	],
 	"releaseDate": 20230815,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Astro Flame Starfighter is a classic scrolling shooter with modern 3D graphics.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "885 MiB"
 }

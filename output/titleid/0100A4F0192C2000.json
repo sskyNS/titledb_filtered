@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f00f5f1928466b77350cb28368daaef07b856f97b70d19db9b514718061c5e1.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Welcome to the colorful mahjong connect puzzle \u2014 connect all paired pictures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

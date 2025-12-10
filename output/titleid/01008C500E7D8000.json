@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/92110af60f861ff3808f89b001cd1ed0eb8061568d2af5c4c478cc05f80caf9b.jpg"
 	],
 	"releaseDate": 20190719,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Solve puzzles and rescue your slime friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

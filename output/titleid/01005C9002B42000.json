@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/991670d7c42ae3fa6f9ddcbac48284c49e43c25af41f4a48ab56d99cda816534.jpg"
 	],
 	"releaseDate": 20170720,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Test your mettle against fierce warriors from around the globe! Your skill with the blade will determine the fate of the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "185 MiB"
 }

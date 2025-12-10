@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f502535f62089cf094d9341527f7d4280261a3a1f192d6923c57918743476606.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "Go Go Gadget! Become the famous Inspector Gadget and have fun with your friends in this brand-new adventure!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.70 GiB"
 }

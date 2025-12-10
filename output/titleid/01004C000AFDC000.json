@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/07ffd5a581ef2b9970741df87277dbb49eaf26ca67b761617495442a9a98a73c.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Skillfully utilize the new slide mechanic and clear each stage!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "110 MiB"
 }

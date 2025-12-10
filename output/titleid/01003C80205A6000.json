@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/51e1dccef5580401ca2ebab6928d4d73663a91aec3709abd0c6d840bf2ebb78d.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "'Girls of The Tower' is a Rogue-like game with a combination of JRPG, auto chess, and galgame elements.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

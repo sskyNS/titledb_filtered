@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e567fc46f0efe5226fa38e41dc240fa9a430434f6ad80e388249c7e4f80fc0d6.jpg"
 	],
 	"releaseDate": 20241005,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Solve the puzzle and make the marbles flow",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "94 MiB"
 }

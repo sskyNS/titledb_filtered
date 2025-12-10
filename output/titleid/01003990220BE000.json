@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a62a4fd7e2e0436a0668ae0cd4645055dcd8b7d342ff282f13f39465be2859db.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "ABYSS SEEKER is a twin-stick survivor shooter where you freely control your character with two sticks. Survive against hordes of enemies within the time limit, defeat the boss appearing in the final wave, and advance to the next dungeon.\nThe shots fired by the player character can be customized by combining items that appear upon leveling up, transforming their properties. Create your own unique shots and defeat the relentless forces of darkness to survive!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "990 MiB"
 }

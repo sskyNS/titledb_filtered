@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4385fbdae1d46fcda4c9eac224f3760e165884c732080ec0a2f614341250fc0f.jpg"
 	],
 	"releaseDate": 20180823,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Are the news being spread in the world true?...",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "923 MiB"
 }

@@ -7,5 +7,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7de59fc946b064fd2902428a97d2d7576afefb758cac22ec5339fa9dbb25fdb7.jpg"
 	],
 	"releaseDate": 20200915,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Space Elite Force II is a space-shooting game for up to 2 players in local cooperative mode.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "428 MiB"
 }

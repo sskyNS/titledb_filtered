@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f97157d534610ea91cf4f407d04536c38f12ae46cb70de2c4175321ab11bcd92.jpg"
 	],
 	"releaseDate": 20210513,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Team-up with friends and save Remnant!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.54 GiB"
 }

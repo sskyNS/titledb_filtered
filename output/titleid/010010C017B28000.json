@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/164fb16e1bc9475628a8de1e9842abc8dc9a0cfcdd87468b3029f2938d2a450f.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Demon Turf is back and better than ever! Join Beebz in this neon lit adventure where speedy platforming reigns supreme!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "885 MiB"
 }

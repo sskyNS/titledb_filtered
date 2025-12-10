@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf64e42c08852cd83377adedc000fd5413d0170e51328a03da9f205073f44a61.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "Build, decorate, and run your dream toy shop!\nCraft smiles, serve customers, and grow your cozy world.\nA relaxing simulation full of charm and color.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "980 MiB"
 }

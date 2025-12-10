@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/175d5f595873200a0f8446bbd0a9365c5d92640e02cb4d8584a02de7ba522d00.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Difficulty rewards\nCooperative Mode\nBoss Battles",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "866 MiB"
 }

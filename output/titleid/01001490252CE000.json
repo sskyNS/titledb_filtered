@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bed35af11ead70ddea4c16bd40badd2c4ed14cf09926ffb182f15526f8c8940.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Practical"
+	],
+	"intro": "Mix, match, and merge!\nWatch fruits grow bigger and juicier \nHow far can you go?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

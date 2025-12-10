@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/440e008b91cd59de398c22b57e5448aebd2e3f9241bd86589bc2fa23cbc3432e.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Face off against the legacy of ancient gods!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

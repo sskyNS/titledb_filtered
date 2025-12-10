@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/27d15913d5258417c94055589a7a8aa7d9fe10cba65a87a9e6d438c42a952bc4.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Discover. Survive. Escape!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "770 MiB"
 }

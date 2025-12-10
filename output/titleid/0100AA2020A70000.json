@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/166eb032f631960ab68565f62301b1ce6965f8731cf167cbb851760edaed9832.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Every turn defines a champion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "676 MiB"
 }

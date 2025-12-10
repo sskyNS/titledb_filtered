@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/7042cfaeab06c42ce565aca30e3a65f6ccf7dd2392b6df1f0e7dc943e1ec3659.jpg"
 	],
 	"releaseDate": 20211209,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Winning is Cheating!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "666 MiB"
 }

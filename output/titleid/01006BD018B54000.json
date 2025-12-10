@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7ce41b189aa2319921257becda7d4836546e3f190373790efcd4e520f72a36c.jpg"
 	],
 	"releaseDate": 20240917,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Off the page and into adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.35 GiB"
 }

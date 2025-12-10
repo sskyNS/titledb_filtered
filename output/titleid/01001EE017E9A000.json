@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5a17ba8ce34b45e7632dc2f9f6ea5cdbfcc8a021adfe0b218c3102ad5305dcf.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Sports",
+		"Party"
+	],
+	"intro": "Travel back in time and try to escape the Fort!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.02 GiB"
 }

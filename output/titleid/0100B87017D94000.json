@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b6db003b6443ecdd2358e5dc80f71ccc0b79acd5f5a11ed14211d26311cdaed.jpg"
 	],
 	"releaseDate": 20230913,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "The latest title of the party battle games series SUPER BOMBERMAN R!\nWith new adventures and game modes, it has the largest content volume in the series' history!\n\nThe game features not only offline battles that can be played with family and friends, but also online battles that connect players from all over the world, as well as a single player mode.\n\nIn addition to the well-known \"Standard\", \"Grand Prix\" and \"Battle 64\" a new battle mode called \"Castle\" in which players are divided into Attack side and Castle side to battle for the treasure!\nA \"Stage Editor\" function has also been added, allowing players to create their own stages for \"Castle\" and share them online with players around the globe.\n\nLet's have fun together in \"SUPER BOMBERMAN R 2\"!\n\n\n\u2022 Battle Mode\nEnjoy 4 battle modes, including the new \"Castle\"!\n\u201cCastle\u201d: Asymmetrical battle between the Castle side, which protects the treasure chest, and the Attack side, which aims to win the treasure chest!\n\u201cStandard\u201d: The classic battle mode loved by fans!\n\u201cGrand Prix\u201d: Battle of two teams! Work with your allies to defeat the opposing team!\n\u201cBattle 64\u201d: Battle for survival with up to 64 players! Aim for Bomber One!\n\n\u2022 Grade Match\nBattles between users with similar abilities!\nFight online with players from all over the world!\n\n\u2022 Room Match\nSet freely battle modes and rules!\nGet your friends together online and have a good time!\n\n\u2022 Offline Battle\nWith one console you can enjoy Bomberman!\nConnect additional controllers and play with family and friends! \n*Controllers for the number of persons are required.\n\n\u2022 Stage Editor\nCustomized stages with blocks and gimmicks can be shared online!\nCreate, play, share, and explore various stages with the Stage Editor!\n\n\u2022 Story Mode\nEnjoy the Story Mode that has been enhanced!\nVisit new planets with Bombermans new friends \u201cEllons\u201d and face the threat of the universe!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "5.12 GiB"
 }

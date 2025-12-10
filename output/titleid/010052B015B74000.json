@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a79808db0f5a716b16026a3f446cc9d7dec397d8a2c957dfede57972313e1370.jpg"
 	],
 	"releaseDate": 20210728,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "A difficult 2D top down movement game with interesting level design and simple art style.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

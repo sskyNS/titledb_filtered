@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b4b539e0e5a325d060416050eb26c19c87354c307287c5f132c0facc2c40e16.jpg"
 	],
 	"releaseDate": 20230317,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "A heated rogue-lite that keeps the pressure high. Sacrifice your life to the bonfire, defend the village and restore light to this world.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

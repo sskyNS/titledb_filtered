@@ -4,5 +4,23 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20180524,
+	"category": [
+		"Sports"
+	],
+	"intro": "Become an online tournament mode champion",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "394 MiB"
 }

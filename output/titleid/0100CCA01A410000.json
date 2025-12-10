@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7fb47015c8ef121fe34c49321172a20f075c7b7dbb390e858fffba34911dae4.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "TRAXION 2 is a futuristic cave flyer for 1 or 2 players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "692 MiB"
 }

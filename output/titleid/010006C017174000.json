@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/42c3c51968512aa4d3d7a942c5717b709fbef08f9bebdde195fdb34aa1b94c07.jpg"
 	],
 	"releaseDate": 20220708,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Enlist in the rebel army and board a spaceship towards the fatal destination!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

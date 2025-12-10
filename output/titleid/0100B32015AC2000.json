@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2586080427e3561b3443ad96967f7f3eb7d00fc0642876a402319e38f9df0fe.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "The sequel to \"THE TOWER OF DRUAGA\" is finally here!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "133 MiB"
 }

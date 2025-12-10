@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/20313a5f48e71c64c27907237b5faed718a1924fa2846a721a345ea1622c9fe0.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Bring the magic, light the tree!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "566 MiB"
 }

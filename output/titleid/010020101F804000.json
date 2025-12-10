@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe9dcffa926bfc34ce67e005ebef23609bdbc529a9ffadef92ecb71a43d68509.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Training",
+		"Sports",
+		"Music",
+		"Other"
+	],
+	"intro": "A workout that fits your lifestyle",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.66 GiB"
 }

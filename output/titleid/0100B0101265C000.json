@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/71e9e3af38af67a4657193e5e798ddf628dca10f2c0a083b9e5e06e79f964ac0.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Party",
+		"Shooter",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "An intense quick-fire party shooter with jetpacks set in a world where otters rule!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.12 GiB"
 }

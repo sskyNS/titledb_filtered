@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c88a262fe904d97220b629213466d1e7368bd8563b4a5f1c9dd456582f6fafa6.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Silent Forest: In this forest, silence is deadly. Hunt or be hunted.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "927 MiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e1f8e5626b2c698ac6fae116657609d5fd7edbd9abb9badf22f2b52700ea3d3.jpg"
 	],
 	"releaseDate": 20240511,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Merge guns to stop the zombies",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

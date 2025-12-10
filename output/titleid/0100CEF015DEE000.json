@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/29221a99da5b9508ca03ce5986f553b620f1def4004d1fcc9474ba82d8a5b76d.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Education",
+		"Study",
+		"Practical",
+		"Other"
+	],
+	"intro": "Comic Coloring Book - Complete Edition is fun for big and small, especially for young, creative fans of comic books! Enjoy adventures, use different drawing tools and create!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "560 MiB"
 }

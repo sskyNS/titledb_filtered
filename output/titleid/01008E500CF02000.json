@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/628fc67e3c5734c9de2d433552bc4b218c648b1f48651148eb7bd19887a88f25.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Arcade"
+	],
+	"intro": "Engaging arcade game based on estimation.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

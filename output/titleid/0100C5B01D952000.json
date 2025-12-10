@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4086fd59b6f049c2b90dcae5cae856e91d1174c73eb21dec8725ef1edc97ade.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Roll a human bowling ball",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/674afe63b7e7f9169bdd9d6a2407d23fd86d720f60138c1dc976a49e61a467f6.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Adventure",
+		"Board Game",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Cards of the Dead is a survival card game. Play your cards right and you might escape the zombie apocalypse!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

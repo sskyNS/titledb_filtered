@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b00aeddb927e41ad0f0a39d8f5ad946b2fdf7ad1c31be920741c405f16b598e.jpg"
 	],
 	"releaseDate": 20180921,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Be elusive! Be intense! Be constant!\nPut your reflexes to the limit in the Arcade experience of the 21st century!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "338 MiB"
 }

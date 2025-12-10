@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7576092d46908664019d6f33c3105af39872ad1c5dd299735b347402601e2bc0.jpg"
 	],
 	"releaseDate": 20180116,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "This story takes place in Donorok, in the state of Noctum. After the King of Noctum, Aster, disappears, chaos rules over the world. The relationships between Monsters, Mongos and Dreamers are completely unstable, and Donorok - the land so heavily affected by the chaos - slowly absorbs terrain from the surrounding regions.  ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f204ef4dc623aad0c3cdc40562f84471da3406c9a53e5cb26d9bbec759c8df57.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Brace yourselves for the pinnacle of 2D fighting action - this is BlazBlue's final and most hard-hitting chapter to date, with more stages, more moves, and more characters than ever before. \n\nWhether you're a hardcore BlazBlue veteran, or a newcomer wanting to experience the HUGE single player mode, one thing is for certain - this is the ULTIMATE anime fighting experience!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "11.76 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c19a1059076606aa172a6a673b21c5facf1419f245565bfd31fd3cf3aa22fd6.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Draw a line to enclose the area and doodle it. \nWatch out for baddies who can catch you or cut your line!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "250 MiB"
 }

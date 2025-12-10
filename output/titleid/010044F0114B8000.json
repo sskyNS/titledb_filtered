@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a4a3ef5f0d7586e33f3c20be30c35b56c06b4b0c59cf15c9826c79330329827.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Secrets hidden inside an ancient artifact are clawing at the edge of reality.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

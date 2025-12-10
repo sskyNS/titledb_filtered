@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bb8b9e32d02c755a937e34b1afc3abf88ad529a4cd5a3e76ca8a65df69606a5.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Cooperative play that takes advantage of the characteristics of granddaughter and grandmother!\nWinner of many indie game awards!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

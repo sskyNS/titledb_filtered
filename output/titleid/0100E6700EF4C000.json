@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d5d33c5e75ffc57c912e6d5575286f190fab6c824bdf7e60333d0d5b74ac029.jpg"
 	],
 	"releaseDate": 20190830,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Arcade \nMultiplayer\n2 Players",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "187 MiB"
 }

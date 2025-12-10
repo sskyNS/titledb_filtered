@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c23bd2d6133b37ffb2c353876985fb397ba2ae04b84fffd2f3253ddf15eff245.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "A fresh and original take on a classic puzzle genre. Perfect if you want both peaceful and intense mental challenges.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

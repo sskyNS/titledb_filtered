@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f8225fa3bd0a40a6156b32e14001172b412e72f070757e9f1fc2a6b14fda573.jpg"
 	],
 	"releaseDate": 20190917,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Deathstate is a roguelike bullet hell action RPG set in a bizarre world of dimensional exploration.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

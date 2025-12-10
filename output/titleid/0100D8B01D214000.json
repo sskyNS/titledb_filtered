@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/19c7d6204960298f3bd1ccdf484884627e8f954f6fb9c78ab46bcf250204aebf.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Master the weapons\nand take back the post-apocalyptic Earth!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "97 MiB"
 }

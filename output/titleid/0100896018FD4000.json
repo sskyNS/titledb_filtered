@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/745569d772c8d3e819b410e5b8dfa523ed7de2c7efe33d70dcee23d03f8508da.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Training"
+	],
+	"intro": "Get strong and agile to become the best super hero of the city!Fight criminals and villains to keep the citizens of the city safe!Explore a large and modern metropolis!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "918 MiB"
 }

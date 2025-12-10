@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f03c38ec96bfe9874687e64580c2b4aafe6b5fbcd765a5e76705d7c7d3004da.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Explore the abandoned underground levels of Banban's Kindergarten, and continue the search for your missing child. Can you find them before the facility's residents find you?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "600 MiB"
 }

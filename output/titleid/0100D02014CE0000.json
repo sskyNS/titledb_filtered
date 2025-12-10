@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7517407df45def0f2557e030655631b4a776972777048e2e3f99d950d0b4f254.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "From Rags to Arcade Riches!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.97 GiB"
 }

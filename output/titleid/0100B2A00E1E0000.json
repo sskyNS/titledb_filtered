@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/68dceb1dd6900f4ea12cb4a4e19420f9c3a6a51cc315715aec29f51a6808f95e.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Party"
+	],
+	"intro": "\u201cThere\u2019s always time to Monkey around!\u201d",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.75 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f688f5dfbcb7f4ea27885db2f9a76d930d8e4f8203e767c90e213040c93fcbc.jpg"
 	],
 	"releaseDate": 20220325,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A colourful tile based puzzler, now with added bounce!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c13830e86a52b1edb0b474741a50e90aed7b0e9f9d9b9255c3de95da18c4f0b.jpg"
 	],
 	"releaseDate": 20220528,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Training",
+		"Practical"
+	],
+	"intro": "Toonkars Racer is Cute and Toon Racing Game,\n\nYou Can Race These Sweet Toon Cars With Low Poly Designed Graphics!\nRace in 4 Uniquely Designed Levels, Your Vehicle Can Drift, Keep Control!\nCan You Win the Race on Desert, Snow, and Volcano Themed Maps?\nYou Can Modify Your Vehicle As You Want, Wheels, Colors, Model, and Many More Parts!\nCars are Fully Customizable!\nA Comfortable Racing Experience Against Bots!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

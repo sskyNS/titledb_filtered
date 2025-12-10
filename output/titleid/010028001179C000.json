@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/11a440bae4707bf0bfee920a0d2713e8479c12164b68f7f8e3239bcc408d9bad.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Strategy",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Two is better than one! It's a double-whammy double pack!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

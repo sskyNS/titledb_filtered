@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fffd64409be8818db981ddb720ac50a6aec2605ddf1978d7b0296574df343c7.jpg"
 	],
 	"releaseDate": 20250412,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Action",
+		"Training"
+	],
+	"intro": "Fight for glory, battle for freedom!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

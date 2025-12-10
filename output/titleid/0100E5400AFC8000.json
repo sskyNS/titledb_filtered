@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8c2000488bd9b4f4380152ee86840f6835a2aa76c8da3ccc430d50e008d797a.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "An ultra tense near future fight! Come, if you think you're strong enough!! Who will come out on top!?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

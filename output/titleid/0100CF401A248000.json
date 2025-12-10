@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/88e4a6fbe05fcd6c1afb1bc0559f4bf96eae70654f42ec2ef73b0ec56f7bdf6f.jpg"
 	],
 	"releaseDate": 20230626,
+	"category": [
+		"RPG"
+	],
+	"intro": "Burn your SOUL!\nSOULVARS is a pixel art turn-based deckbuilding RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "710 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/08925ae889f6cd1489ee2e61290e9d949527f74e30a37c32c3880a9224a3d233.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Tour the world, travel through space, and go back in time all on your crazy bike!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "390 MiB"
 }

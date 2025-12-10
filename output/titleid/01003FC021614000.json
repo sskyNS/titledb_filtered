@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/24c2921f5b0ce588aeff58e8377bfd65bc1d6341378ad2a200b1b9567a400855.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Ever wondered what one quadrillion damage per second feels like? Wonder no more! Embark on your quest to attain it today!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "516 MiB"
 }

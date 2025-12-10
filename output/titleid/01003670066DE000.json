@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/021633b8e927e117514d0a1d189203060cb4e692ee309af078f57bf334799b86.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "This time Midnight's friends lost of their Star Fragments!\n\nYour task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

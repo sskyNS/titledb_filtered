@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/41f8c919d7755d999f171aef7c215ed6a2e150a5053f96a052bde86748494ac0.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Welcome to VHR! Unlock the secrets of speed in this turbocharged neo-super scaler arcade racing experience.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "407 MiB"
 }

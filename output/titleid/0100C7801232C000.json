@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ecd1743bba262689ab44006422abe8b2e17cf5f7904b89dcf274e081c0d4907d.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Full-fledged fantasy RPG experience with stunning 3D battles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e812f90c4fb6329b1709ad2c1ead67efcad554fe6ca2777c46c7ca3d35fd94a.jpg"
 	],
 	"releaseDate": 20251126,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Become humanity\u2019s shield by turning enemy invaders\u2019 firepower back against them in frenetic shoot\u2019em up style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "792 MiB"
 }

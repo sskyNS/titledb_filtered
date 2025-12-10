@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1f59df509ec5e65b828f0be07e9f0c3e262bfe94a772cb1c995493208a53b91.jpg"
 	],
 	"releaseDate": 20200117,
+	"category": [
+		"Adventure",
+		"Education",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Explore the thought-provoking memories of a child with drunk and broken parents. Based on real experiences, this award-winning story makes no compromise.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "656 MiB"
 }

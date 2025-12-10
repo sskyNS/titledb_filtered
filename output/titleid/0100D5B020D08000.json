@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/30c88411f776a86246a3df574e75ff9c59c47b24c1cc463136e9eb9939272667.jpg"
 	],
 	"releaseDate": 20251011,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Are you ready to\u00a0cook your way through time\u00a0and prove your culinary mastery?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

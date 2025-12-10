@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d46ef0fc5dcf33162ad430bd4138b95f2eba3b60018c1c57a43cda368332cc5.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The weak need not suffer any longer! GOEMON is here to save the day!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/51e5ea62f295c08758e3070085f4e5a7a76dbf7ccaf3c32e187bbd2650ac3305.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Party",
+		"Study",
+		"Training",
+		"Education"
+	],
+	"intro": "Find it and smile! A family-friendly octopus hunt!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

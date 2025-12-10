@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b69e3d2f9cecb3e34fb334227d468e97ad34d2cf1705a1208b22283750748bb9.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can you break the curse that haunts Heavenly Host Elementary?",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.53 GiB"
 }

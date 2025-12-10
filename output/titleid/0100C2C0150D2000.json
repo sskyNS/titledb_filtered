@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5159b4bd9ac488132d508de703fcac2c2637ba7d27b9dadf82b86aecf46c8a9b.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Space Haters is a tough-as-nails vertical shoot 'em up featuring classic arcade-style gameplay and set in the ruthless world of intergalactic music.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

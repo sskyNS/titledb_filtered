@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a175b4af9763807c9013ae9ca927f1ca4b3ddc059b2d8e81f8626c4125320b.jpg"
 	],
 	"releaseDate": 20251209,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "Build, stock, and serve \u2014 your pharmacy empire starts here.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "727 MiB"
 }

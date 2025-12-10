@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3714e411fd931e059c2b38bba2379af33b5ef35cb2c6bec72561849c2b4055aa.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Head to INSTANT SPORTS Plus for sporting holidays with friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.19 GiB"
 }

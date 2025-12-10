@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/11e453c1a77ba39ef418bbe7ec6cefa5ff7a5d4364bb88c9b5dd915f0f970ac7.jpg"
 	],
 	"releaseDate": 20190815,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Rogue Singularity is a high speed infinite obstacle course that will bring back happy memories of the golden age of 3D platformers!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

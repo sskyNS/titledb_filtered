@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9aaca7a33b253093af10fee3f37457b1b1c1990c2f980f0bce77a99a67b121bd.jpg"
 	],
 	"releaseDate": 20180718,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Wipe out the endless waves of enemies!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "496 MiB"
 }

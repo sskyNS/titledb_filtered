@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/26d2e20d41e523151c8454f9c9b87649e7d070cb48672f38052168b28e4f1e41.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Superbrothers: Sword & Sworcery EP is an exploratory adventure with an emphasis on audiovisual style.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "654 MiB"
 }

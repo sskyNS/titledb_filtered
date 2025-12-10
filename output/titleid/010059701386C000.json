@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/42497066544664ea9b2dcf68c57168062b3ba6fd9b07bc5811d5387bbf483d5a.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A 3D voxel action adventure",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "706 MiB"
 }

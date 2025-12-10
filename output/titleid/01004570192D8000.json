@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ef7555fd8bad41adc278320e956c2737433a80e3dbddd8e46008887c72c17c2.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "A story about the adventures of Ruku and Lish\nWith a heart balloon made from a flower puzzle\nHow far can they go?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "296 MiB"
 }

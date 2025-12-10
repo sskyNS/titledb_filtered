@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1dc2adf4db94f514700139f915e8631a475f2da34c3ed4550d0711a588ee6982.jpg"
 	],
 	"releaseDate": 20240508,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "In the riveting adventure game, King of Pyramid Thieves, you step into the shoes of a skillful thief seeking fortune.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

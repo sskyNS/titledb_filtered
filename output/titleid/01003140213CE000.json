@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b8fce908941790a0f6af900a4b71e19885605075696a32e8cc7daebe9fb7da5.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Solve the tricky puzzles to earn Bitnuts and repair the little robot",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "502 MiB"
 }

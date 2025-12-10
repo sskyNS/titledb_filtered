@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/93f13c913353478beb42037f5d26befc9e96c832f8a73695216037d9882cccbe.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Shadow action to collect the masks of power and take vengeance on the gods. Use the power of many masks of special skills to get stronger! Enjoy stylish shadow action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.22 GiB"
 }

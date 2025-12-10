@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/84976ddf8ba6eb36917ff4e250345d561c21396ca1415b927b0fd0426b4f5405.jpg"
 	],
 	"releaseDate": 20201021,
+	"category": [
+		"Music",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Bullet Beat is a shoot'em up, where everything at the levels is in tune with the music, even shooting. Keep the combo to get stronger!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

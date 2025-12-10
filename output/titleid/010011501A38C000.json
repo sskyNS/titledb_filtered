@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/26c6c4ec905e23a896007638b4d111b56ec0b6c82ca829e01cac497b0ac06e6a.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"\uc561\uc158",
+		"\uc804\ub7b5"
+	],
+	"intro": "\uc885\ub9d0\uc774 \ub3c4\ub798\ud588\ub2e4...\nThe Last Spell\uc740 \ub85c\uadf8\ub77c\uc774\ud2b8 \uc694\uc18c\uac00 \uac00\ubbf8\ub41c \uc804\uc220 RPG\uc785\ub2c8\ub2e4. \uc5ec\ub7ec\ubd84\uc740 \uac15\ub825\ud55c \uc801\uc758 \uad70\ub2e8\uc5d0 \ub9de\uc11c \ub3c4\uc2dc\ub97c \uc9c0\ucf1c\ub0b4\uc57c \ud569\ub2c8\ub2e4.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

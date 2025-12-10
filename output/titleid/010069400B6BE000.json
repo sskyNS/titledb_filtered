@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0dcc37bae3bdec0e629194e6d3b7f6eadae5523623cb1a2fbb424800a94102c.jpg"
 	],
 	"releaseDate": 20190509,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Will you answer the call?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

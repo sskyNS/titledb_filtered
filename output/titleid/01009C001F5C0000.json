@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9e872cd6b31552644b7ce26f67a83d673f81075a5463dfdaef20c110402c16c.jpg"
 	],
 	"releaseDate": 20240522,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Welcome to Sunland Town a serene and mystical place.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "237 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a3174b43b9efcef7b16726d089fabefaa88b53b7c45e5fe645af1f4295d664b.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Prove your innocence and find the true culprit!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

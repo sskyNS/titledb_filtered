@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/57d314135b865e584b70f93a82d0b68909c603ab5304b2b2d026a9f194784bf2.jpg"
 	],
 	"releaseDate": 20241123,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Education",
+		"Platformer"
+	],
+	"intro": "Unlock rare banana treasures with every click! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

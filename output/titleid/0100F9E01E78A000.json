@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/887eb23f617a28e155171a22c45cb3a07bbaff80264d6c0a7b08c930a6b06de7.jpg"
 	],
 	"releaseDate": 20240420,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Launch the ball, win the race!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

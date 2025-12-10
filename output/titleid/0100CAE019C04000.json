@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/beeb2ab9c3fb2178d098585471a4049afa53d55ac075e8e96e712322a7cc21af.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Can you find all the secrets in this desktop hacking simulator?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

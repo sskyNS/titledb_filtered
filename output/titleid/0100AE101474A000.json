@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6020ff0fcac272960a7fd9d9a4bdc4dc8c4a309388957db482e28b8e04a40e77.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u5b87\u5b99\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u7d4c\u55b6\u30b7\u30e0 x RTS\uff08\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc\uff09\u767b\u5834\uff01",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.30 GiB"
 }

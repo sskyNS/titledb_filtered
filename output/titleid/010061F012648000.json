@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2333c966e57d6b40b3a61d138b8c0ec0feccfada0c5d3d24978b102015f815a.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"\u5192\u96aa",
+		"\u76ca\u667a"
+	],
+	"intro": "\u65b0\u5fa9\u6d3b\u7684\u9ab7\u9acf (Skully)\uff0c\u88ab\u53ec\u559a\u4ecb\u5165\u5cf6\u4e0a\u795e\u9748\u7684\u4e09\u500b\u5144\u5f1f\u59d0\u59b9\u4e4b\u9593\u7684\u6230\u722d\u3002\u5192\u96aa\u65c5\u7a0b\u4e2d\u5c07\u5e36\u8457\u4ed6\u7a7f\u8d8a\u4e00\u500b\u964c\u751f\u7684\u5929\u5802\uff0c\u800c\u9ab7\u9acf (Skully)\u5c07\u8981\u5354\u52a9\u89e3\u6c7a\u56f0\u64fe\u5c0f\u5cf6\u7684\u885d\u7a81\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.56 GiB"
 }

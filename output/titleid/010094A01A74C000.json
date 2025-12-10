@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/990b49d7a84460d3ebc0a24a82980837d9838d73295ff0a640a77e80842dbc47.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Find your way through the heavens and escape alive in this first-person puzzle platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

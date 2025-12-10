@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d25fe02bbb24b951ea61dba8f9c449e114fbf601797dd9fc8954742e834004d3.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Walking through the Minefield.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea87eab3be72ff667669ab89463860a15826d9a0e3ba9f88b94de935b2dbd973.jpg"
 	],
 	"releaseDate": 20210608,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Party"
+	],
+	"intro": "Fight against the evil, beat up bad guys and save the realm!",
+	"languages": [
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "896 MiB"
 }

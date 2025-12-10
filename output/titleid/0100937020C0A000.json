@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b409e4c0b431506a0c71aff9147f66aa6e78339db4c88965d4b5631e2630f904.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Create the island of your dreams!\nPaint the landscape by hand-placing tiles, trees, and more...or use the procedural generation tools!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

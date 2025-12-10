@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/07f3229abb99dce53e57d2e8fe68c39da38a0ba98bd945dcb727fb129b6ebd5a.jpg"
 	],
 	"releaseDate": 20180515,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Co-op spell-slinging action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "977 MiB"
 }

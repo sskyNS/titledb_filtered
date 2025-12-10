@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/61855113216a63224708a6074887e5fbafb9d4db278ff3d4c01d3a7e3b41d2d4.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Music",
+		"Simulation"
+	],
+	"intro": "Drift like hell to outrun the competition! \nCollect power ups and coins on the way to expand your car collection!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

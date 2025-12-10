@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7a47a258a6f8ef8976b1faf576f0ee1e78c2abaf7ef87f901c2f4db48ff5a9a.jpg"
 	],
 	"releaseDate": 20210617,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "You might be able to ball, but can you fight?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.28 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/44cfbe038d4ddf19617b059f21d9627b19aa01c345f867aea078c02fe80bc2c2.jpg"
 	],
 	"releaseDate": 20200527,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Ailment is a pixel-art action game which takes place on a spaceship in a far far galaxy.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

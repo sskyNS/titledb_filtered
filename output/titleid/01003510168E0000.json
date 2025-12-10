@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dc41add3fbd17ddf4d1e479d524b5005e858d29e5e42ba472d121fdb25e515e.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Raven needs to reach the top of the tower to restore equilibrium and save the world from oblivion.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

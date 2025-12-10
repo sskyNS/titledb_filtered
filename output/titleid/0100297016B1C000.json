@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/edb1f6219060b2ed4ff2a8db8528f4ae0e15277f752703880238a101a15d2da4.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Embark on an enchanting adventure to find your destiny by rebuilding the forest village and fend off the goblins in this exciting Match 3 adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "373 MiB"
 }

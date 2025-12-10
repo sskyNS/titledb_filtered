@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3aee4d00e08e2e7301332f51da00a88b41e9714f3ebf2189a64a9bdd0337c97.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Return to the world of retro survival horror as you join a band of survivors trying to survive the undead apocalypse.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.06 GiB"
 }

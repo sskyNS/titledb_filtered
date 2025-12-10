@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0b1087dab4d26ea2318b36e07c696158c25bd07d3ac5dfb907afcea8ae6d32b.jpg"
 	],
 	"releaseDate": 20240409,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Botany Manor is a first-person puzzle game set in a Victorian English manor.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.80 GiB"
 }

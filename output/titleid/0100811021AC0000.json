@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/da54646112118c1dcb14d4437e44869f9277c343cc6748986d22648e1bf31473.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An old shack deep in a dense forest, a strange computer and a game that's trying to kill you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "795 MiB"
 }

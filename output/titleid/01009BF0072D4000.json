@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba17251c33d0e8c1b48b17a16154b051b5bb38ca70e774820d30ca82d3ffb73e.jpg"
 	],
 	"releaseDate": 20180713,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Ready for adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.65 GiB"
 }

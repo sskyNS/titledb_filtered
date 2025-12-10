@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/71274c29549a73fe5d41dc54e8a118dba7073a0fb171d22d8865b67e019ce387.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "Aim for bubbles of the same color and enjoy the satisfying pops when you take multiple down in one go! ",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

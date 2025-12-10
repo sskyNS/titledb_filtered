@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4d7efd8718cffaa50f61cd5d79c2908914c050f3a55e587ae33a03e05d68470.jpg"
 	],
 	"releaseDate": 20210209,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Hero-U: Rogue to Redemption is a humorous fantasy role-playing adventure game by Lori and Corey Cole, creators of the acclaimed Quest for Glory series.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.33 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d46914cf36f282c8e8c89527e3d257572c9fadbb34bcca3cbcfc5b7b8c00faca.jpg"
 	],
 	"releaseDate": 20220202,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Fantasy combines with cruel reality in one man\u2019s journey to learn the truth surrounding his derelict hometown!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "947 MiB"
 }

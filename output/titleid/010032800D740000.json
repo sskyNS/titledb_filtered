@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/507194b4569823f45f0086a2069ccaab7f7537ed8aef1f746f132556bf9fc06c.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "You live a monotonous life in a cold city, with no real sense of meaning - until one crucial day, when strange things start to happen and everything changes",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.64 GiB"
 }

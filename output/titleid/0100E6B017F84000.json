@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/632d162cb53d49a10f576e577d7e01b9633311cef311f9609143a59fe6600696.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A single play TOP DOWN game that overcomes crises and fights aliens during space exploration! High quality graphics with overwhelming number of stages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

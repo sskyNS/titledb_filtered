@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4cbb51518985f5585f3b77da88be64c5ee029e337151965db9d0673207a3ccf.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "How quick can you rotate objects to match their silhouette? \nThis frantic game is packed with 200 puzzles!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

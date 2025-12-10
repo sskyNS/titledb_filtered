@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8b5109a39c2f833311e7ebdf49e36c1540d2bf4e620f34ee314b11d7da766f9.jpg"
 	],
 	"releaseDate": 20180802,
+	"category": [
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Immersive WWII tank battles",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

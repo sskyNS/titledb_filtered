@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d5caa78da18a74b0c087daeed748b386450cb28849bb3ccbbf782ba21e47cf8.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Run, jump, slide, slam and glide to find your stolen corn in this side scrolling platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1db170ff5dbf166d71d3376cb722d2bf065edeca6e3e063881e438cd9ce2d6ea.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Lost Artifacts  \u2014 a unique strategy game about the Tonauak world. Restore the ancient city and defeat the dark priest!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "394 MiB"
 }

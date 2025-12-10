@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53a91a49eabe37742248ed3d78b7da732db583200356db0c5d31567757c60976.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A Brazilian game with everything a good classic platform game should have.\nA game from the developers of Ronik Game Group.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

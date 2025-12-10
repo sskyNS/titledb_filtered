@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0b8f12bad6602eddb40bd9f77582cad5a820b21ba9cc5305617f920d15b0c0a.jpg"
 	],
 	"releaseDate": 20250620,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Celebrate 25 years of\u00a0The Original Moorhuhn Hunt! Play the iconic game that started it all and unlock the classic\u00a0Moorhuhn Remake\u00a0as a bonus.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

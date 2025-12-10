@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0feaedae4a5327823468d13bf338499559bbd753c93464c06f1ea6c3a42222d.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Puzzle",
+		"Practical",
+		"Platformer",
+		"Other"
+	],
+	"intro": "The impossibility is moving now.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/537ce549277ed8a101df82f1983d026fb6c7aa66bbdd0a48812e249506771e0b.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Racing",
+		"Party",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Drive to Survive!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.12 GiB"
 }

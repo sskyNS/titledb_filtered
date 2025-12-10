@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/800b88df5592bd6a461fa471729579c519d686aad8f4f99aba5b72252e3e20e3.jpg"
 	],
 	"releaseDate": 20200313,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Rack N Ruin is a fusion of an action rpg and a bullet hell shooter. Starring Rack, a demonic wizard with an appetite for destruction.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

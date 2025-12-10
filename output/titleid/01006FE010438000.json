@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5bcfa9cb96e094595d0f7ebdee402ca3f4fcea0f687329a2db092f806cbdd34.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "RPG with roguelike elements set in a dark fantasy world, where your choices determine how challenging the fights and enemies will be.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

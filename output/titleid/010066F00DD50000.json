@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f73ea1b986ffd2ae08632b524e81464e742b4b3552e36c72b6191faf30bac8fd.jpg"
 	],
 	"releaseDate": 20200330,
+	"category": [
+		"Multiplayer",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "What the box is an Online Multiplayer shooter in which players control living boxes hiding amongst regular boxes while trying to destroy each other. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "384 MiB"
 }

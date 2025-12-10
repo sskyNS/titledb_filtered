@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/92fe95e2e8074014548450c91c3465fa1477dd6d3764edf022fe2ac8f56d2f98.jpg"
 	],
 	"releaseDate": 20240621,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Bounce with your pogo stick to new lands!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

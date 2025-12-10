@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/adf2c3b5cb4c0480daa819752e9b2e909f827c5684fe9644ed3478def7039dc5.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "The main character is hired as a debugger at the game company \u201cDokidoki Games\u201d! With a time limit of one week, will he be able to find the bug safely?",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "998 MiB"
 }

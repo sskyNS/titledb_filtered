@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d9be817fe83838c337e3e01b765d326cfbcd1b331bc91057fe3b5195fd797a3.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "The 6th Picross in the S Series is perfect for a relaxing puzzle challenge!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "343 MiB"
 }

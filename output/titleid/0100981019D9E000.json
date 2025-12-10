@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/cec99c39959b74dcb9a9d3798f6bc7e9381537d3a0738eda99dc93392e644584.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Action",
+		"Strategy",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Join the footbrawl!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

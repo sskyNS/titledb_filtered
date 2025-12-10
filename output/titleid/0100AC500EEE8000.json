@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f46fddd34d40575cc1d7e858fcb60a5b7a0972c6a5976f978d1b07686a78d0fd.jpg"
 	],
 	"releaseDate": 20200109,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "THOTH is a vibrant, frenetic shooter that will put your coordination to the test, alone or cooperatively with a friend.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

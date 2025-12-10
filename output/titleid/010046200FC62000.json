@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/18ed1ac21d89f4d3fc2d7a0debe2e1041d93677d125c3e8c1ebfca6a80793952.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Play the world's best and most legendary Tower Defense game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "420 MiB"
 }

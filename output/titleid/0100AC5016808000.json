@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1260e65d3e63a99b2752b0fb34b89eaf5f95ad1a28539cd7c5bec0404c6b0edb.jpg"
 	],
 	"releaseDate": 20211217,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Music"
+	],
+	"intro": "A journey of self-discovery set across the grand landscapes of a living tower.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.92 GiB"
 }

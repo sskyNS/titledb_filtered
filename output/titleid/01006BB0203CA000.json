@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7866ffa010082ec81c280a7864e9165f589f6e15027362b1d26757c368c28612.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Become Legends Together",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.39 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/90731842f0399369195591bbdda027d280e4f4fe292ed6cfc5d46affcefecdb4.jpg"
 	],
 	"releaseDate": 20250111,
+	"category": [
+		"Action",
+		"Strategy",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Master Every Battle: Every Tactic, Every Troop, Every Triumph! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

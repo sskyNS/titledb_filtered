@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c72d76d3c52ffc651cc3400d2a3ca7749561dd6b5efc47f32c1663f41c9bd60.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Saddle up for a bike-riding, friendship-building, frisbee-throwing, goose-petting, treasure-hunting adventure for 1 or 2 players!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.61 GiB"
 }

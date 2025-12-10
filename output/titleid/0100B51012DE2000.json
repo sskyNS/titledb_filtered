@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/17147372749861754685a0643f46dca656b7f9fc7bf31ce33435078131863228.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A lo-fi game about photographing aliens so that your employers can turn them into toothpaste",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a00d9c1eeb828a093ae577f1d063df87976a7a79e2d9636573112cf50e898cc.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Drift & Drive lets you take control of a massive collection of cool cars, a pickup truck, motorhome and towing caravan to show off all your driving skills in one place!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "479 MiB"
 }

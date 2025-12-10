@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5413a70bfdc32bdd7f50e411e8f471d6d1740001a65cd15e43dbc7e5dfe0be8.jpg"
 	],
 	"releaseDate": 20190904,
+	"category": [
+		"Action"
+	],
+	"intro": "Power through bosses on a team of four!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.10 GiB"
 }

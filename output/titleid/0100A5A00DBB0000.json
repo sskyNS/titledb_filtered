@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/39994b52dd3d83ac9f617654ac4886b05ea4b22be05703a5ecd7297fb3a15c43.jpg"
 	],
 	"releaseDate": 20190426,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A game about being a dog in search of a bone.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

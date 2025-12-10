@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e460e6bc3e390159fbf2f48e11eb6e9d57136009d52916f50f476410ca0005d.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "The third installment of TAITO's legendary Bubble Bobble series.\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "111 MiB"
 }

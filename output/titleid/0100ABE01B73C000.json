@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/32caa4f8efd229fb7064c6213da64d334ca3adee42568bd9ef583b00e185e9a5.jpg"
 	],
 	"releaseDate": 20250916,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Have you ever wanted to be a bed? Or an apple? \nHere comes Henry!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.31 GiB"
 }

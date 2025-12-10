@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf9055085461db1fb8bbfade9a4280cb0dbf7f9c4c500748937358fc5615d535.jpg"
 	],
 	"releaseDate": 20181227,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u683c\u95d8",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+	],
+	"intro": "\u6575\u3092\u30cf\u30c3\u30af\uff06\u30b9\u30e9\u30c3\u30b7\u30e5\u305d\u3057\u3066\u3084\u3063\u3064\u3051\u3088\u3046\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.56 GiB"
 }

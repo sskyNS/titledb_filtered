@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7df1b7299e151d6a8a340816180b1a2528dae62dd0210bff1e79dcee87bd12e4.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Simulation"
+	],
+	"intro": "A chilled-out life sim where you play, craft, and explore across magical islands. Build a house, grow a garden, nurture fantastic creatures, and make yourself at home!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

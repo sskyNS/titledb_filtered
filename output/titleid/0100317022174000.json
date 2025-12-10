@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdc7ff81c0655b201fb2057750e1c887e2505d518b5b31748f6f94fb45b2e857.jpg"
 	],
 	"releaseDate": 20250131,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Stunning adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

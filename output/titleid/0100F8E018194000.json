@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/af04310ff0cc155790c96003270cc98e019ed9dd7c25fb7db392e4b4a7ba6e9c.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Feel the action of real derby in the survival race!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "517 MiB"
 }

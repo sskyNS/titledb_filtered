@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/af3c414f8109dda242f0a52fcb1b9ebf4768649a6f41dc9e40e034c01173302b.jpg"
 	],
 	"releaseDate": 20250304,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Strategy"
+	],
+	"intro": "The world's greatest thief is back",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

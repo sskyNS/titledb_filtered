@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0934d6c035fd7e1b16c653110b4f0f04b5a35ff674aecd94b61ecc9efb4ce467.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Hidden object puzzle game with cute bunnies",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

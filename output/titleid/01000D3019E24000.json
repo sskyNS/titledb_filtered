@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7ccb81639d14c4e43a5bca60e69c2ee9834131137cf3d97eb5f09556b453799.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Discover a fantastic land populated by different animal tribes.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

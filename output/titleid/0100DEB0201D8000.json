@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/64cc8acd1ff9bf051a0e502730433391a8ca3670ddf0b7b138c68ffcb61c8726.jpg"
 	],
 	"releaseDate": 20241018,
+	"category": [
+		"Action",
+		"Platformer",
+		"Party",
+		"Fighting"
+	],
+	"intro": "Defeat Enemies and Overcome Obstacles\u2014Master the Platform with Precision and Parkour!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "915 MiB"
 }

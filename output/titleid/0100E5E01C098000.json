@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef12ebae9def2549ebe42c1d3e975ae7ca093ce2b11dcebd6b1da48b2f6c3075.jpg"
 	],
 	"releaseDate": 20240715,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Face Your Failures",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

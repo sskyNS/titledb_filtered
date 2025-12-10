@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ebc7ca73226ba9a788927371f749922e2a3e3230d868de840acd491e5c75e81.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other",
+		"Platformer"
+	],
+	"intro": "Manipulate your way to the truth in this captivating narrative-driven puzzler.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.35 GiB"
 }

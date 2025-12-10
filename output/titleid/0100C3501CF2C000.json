@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d363cf769016d88e36e10538d0ea18c0bc5379f5f40281ebf05bad43fba8a1b.jpg"
 	],
 	"releaseDate": 20240117,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/19d2febb699a3850cfcf11b62785c459666656d0ca30cf1cd84199e43ac4f080.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Climb into the cockpit of an otherworldly war machine\nand fly into battle against a horrifying alien race bent on\neradicating humanity to preserve their own civilization.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f3b1d112b350fdb723dcc202331c4cf9e893bbeb50b2f90302097e591d43d6e.jpg"
 	],
 	"releaseDate": 20210312,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "All aboard! Tourism is a one-way ticket to urban planning!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.59 GiB"
 }

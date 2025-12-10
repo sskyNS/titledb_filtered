@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b03f6ad32c5544b1629f29a3e2b5d0310ca6039f2a8e1762ef8c7c81c43e327.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "CarX Drift Racing Online is a true drift simulator.\nOver 100,000,000 fans all over the world.\nNow on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.37 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f668e809681753beab345c1e4c3bcbe2f0e2e7ed77e609748830576ac6021f6a.jpg"
 	],
 	"releaseDate": 20191022,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "783 MiB"
 }

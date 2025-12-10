@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/77a1a3e550998f6e42d5a9bf7a38ec0d2232fed8eff6397d9e3313ee5abdab8f.jpg"
 	],
 	"releaseDate": 20200717,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Go on epic adventures that will have you explore fantastic worlds, fight nightmarish enemies, collect dazzling treasures, and solve brain-teasing puzzles using an array of Special Suits!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "610 MiB"
 }

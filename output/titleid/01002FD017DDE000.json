@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1ce1bf473ffae5c71c647242c3b9d5ad3d66604f396279efcefbd7a8346706c.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Color Breakers is a chaotic 1-4 player local and online multiplayer co-op coloring game where players need to work together to complete as many paintings as possible.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "289 MiB"
 }

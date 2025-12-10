@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd3d0ea02692e4e21344bfc40a6537a8c69d7b0423da70509cf41b19f8af35b4.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Action"
+	],
+	"intro": "Shoot! Dodge! Go fast!\nBreak the sound barrier in this unbelievably fast game!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

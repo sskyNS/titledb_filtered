@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a260258486869680e8f20972de512f86711b1feb0cc497739ce4b520590f614.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Bored of waiting for a bite? Would you like to catch some fish? You're lucky - in Ultimate Fishing Simulator, fish bite like crazy! Spinning, float fishing, ground fishing and more!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.86 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b89d3f1f058cb6d18cd0fad1bf9d3a06c58dc655716f253762f9868da6ea2e86.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Spooky Fun for Little Ghouls & Boos!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "72 MiB"
 }

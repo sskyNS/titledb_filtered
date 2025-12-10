@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/34d7b6799ab7c3c85c55472cdbe3c5980ca1c8c6d51cd2ec87deb70e8bbcc66b.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "This game is about managing shops.Hercules enters Dark Gate Town solo, aiming to repay his father's debt with his friends' help.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "822 MiB"
 }

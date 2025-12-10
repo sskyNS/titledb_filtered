@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac5723ca5c6f012f4288bb80787f51f60e5b6344f8d18b64c98f240225e5838d.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Take control of powerful Ork aircraft and engage in the most intense air-fights across various war-torn landscapes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.71 GiB"
 }

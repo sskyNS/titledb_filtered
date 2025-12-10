@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b509a2dc0ab996793cb009c2069ae824a19080828371aa37608e0b89b674cf1.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Steredenn + NeuroVoider + Transcripted = explosions! Kaboom!!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.75 GiB"
 }

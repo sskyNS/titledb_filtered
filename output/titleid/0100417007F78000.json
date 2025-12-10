@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c4ee67178ee66019cb65416d77de663640269907ac682dc07876cfd8e589795.jpg"
 	],
 	"releaseDate": 20180313,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "SHOOT. DODGE. EXPLODE. Can you survive the Bullet Storm?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f599f8b1760fd9a176c71062fecf13a693e183f1eb19b3a4440715fbf4df250.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Multiplayer",
+		"First-Person Shooter"
+	],
+	"intro": "First-person adventure game, playable solo or co-op with up to 4 people. Solve riddles of a reclusive alchemist that trapped you in his workshop.  ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

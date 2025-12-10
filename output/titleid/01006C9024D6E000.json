@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/847fb729021db1548557ff2e4aa51cd2014b01723fe2dc095bb8a3a5da8291e1.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Lead hundreds of \"wise\" little animals to pay tribute to the Cat God!!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "398 MiB"
 }

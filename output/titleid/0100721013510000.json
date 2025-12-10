@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0853691a511677dcb4dcdb57454187235cccaa41e9129fd57ba9c968acbb371.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Action",
+		"Simulation",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Become a dead body disposal specialist. As a \u201ccleaner\u201d you need to get rid of the body and make sure there is no evidence left behind. Remember, you\u2019re on a clock...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.55 GiB"
 }

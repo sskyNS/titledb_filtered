@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b4aeb55d39c9b483074058ac459a83cc6fcd9c02f8d02e1edd9084071db9307.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Jigsaw puzzles have never been this atmospheric! Dark Fantasy will take you on a journey through gloomy portraits.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

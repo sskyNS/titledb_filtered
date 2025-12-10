@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a454b001f154244355f98fa89df48c6d6993dc4bf816a8b796ba5ce5fdc21ddf.jpg"
 	],
 	"releaseDate": 20241018,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "It\u2019s the ultimate arcade experience with iconic legends of horror! Cross into the RetroRealms and see if you have what it takes to make it out alive!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/98b9e28bb5c3228b0d3893e43c5bea6b09a327031b86c94e1ab96b32563f20eb.jpg"
 	],
 	"releaseDate": 20230201,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Party",
+		"Music"
+	],
+	"intro": "Handcrafted rhythm action with original music and a wacky story mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

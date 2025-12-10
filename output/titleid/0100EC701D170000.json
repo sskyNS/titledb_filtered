@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9595c43b2621d67401615100c77406a6dbe1b147219c4e9e937c18092495533a.jpg"
 	],
 	"releaseDate": 20231110,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Why does the sun seemingly never rise? Why can't I leave this place?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5d4f204449670fd0721bbf9b366c18364176b6fb773733adc4efead56f876da.jpg"
 	],
 	"releaseDate": 20210813,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Every foe is deadly. Each encounter is unique.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.11 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6627ef7d90398ab379ff418ca9463e98bf5e7fe079bf0c41592528788481d8e2.jpg"
 	],
 	"releaseDate": 20190514,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Race Faster Than Ever",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.62 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d9c1755cdb80bdb408dac4c9fa8a898a0aa6f6a032229e4aa1a0e996e49d4ff.jpg"
 	],
 	"releaseDate": 20210326,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "This pack includes the games: Speed Truck Racing and WildTrax Racing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "477 MiB"
 }

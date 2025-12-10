@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a94058a43ea999a92f6f69dea460ed1ab23b2a6dd8a75530be9d5e19afe1078e.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "You are the last elite trooper fighting an enormous alien from within!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

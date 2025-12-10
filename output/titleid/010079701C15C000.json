@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e32d1e7be67fecb7733ce309822f7fd841abc7b4acb996798b75597fded99e1.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "A twist at every turn!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "191 MiB"
 }

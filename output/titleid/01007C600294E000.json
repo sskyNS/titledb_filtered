@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a39373e30c70359ce5d52f34f742d41ef8f099f9d9eaeacb19dce5525d57ed7.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Let's Rumble! Pocket Rumble is a streamlined, beginner-friendly 2D fighting game inspired by SNK's classic fighters for the Neo Geo Pocket Color. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "314 MiB"
 }

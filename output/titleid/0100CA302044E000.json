@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c6a36598b0982ae03e0edd93e731c23df6c453d369caf37002373b5ce14f508.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "The Next Level Drift Racing Simulator",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "882 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7196b8ca37aff617c4c05008f49e62477d0912699d4f3278c2289827635cb7cc.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "May the virtual world be as real as the physical reality?\nWould Bit be able to find answers for all his questions?\nHis fate is in your hands player!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

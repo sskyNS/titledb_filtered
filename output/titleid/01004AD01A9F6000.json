@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a477585a6479ece4fade33e4980ca2fd37a3d64cd57dcf55f6da37545bd41b6.jpg"
 	],
 	"releaseDate": 20230526,
+	"category": [
+		"Fiesta",
+		"Multijugador",
+		"Arcade",
+		"Educativo"
+	],
+	"intro": "El videojuego en el que podr\u00e1s vivir la experiencia y emoci\u00f3n de ser un aspirante de MasterChef, en un videojuego party en el que hasta dos jugadores podr\u00e1n disfrutar en modo multijugador local. \n\nEl jugador o los jugadores competir\u00e1n por la victoria junto a otros aspirantes controlados por IA en el set del programa y en pruebas exteriores en plaza y playa. El gameplay consta de 3 partes jugables: Supermercado, Cocinado y Emplatado.\n\nDisfruta de una jugabilidad directa, adaptada y agradable para todos los p\u00fablicos, donde controlar\u00e1s al personaje en movimiento 3D",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

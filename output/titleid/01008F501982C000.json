@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/344eb25e2d7c8846e1f815df9dc8e14ac1f170ddc839307a294165d24216b0bf.jpg"
 	],
 	"releaseDate": 20221029,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A fun, classic, first-person shooter with a Halloween theme.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

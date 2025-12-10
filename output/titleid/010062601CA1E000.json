@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4273d8c25e3c34ae11a5f3dcefd7bea92a78f8004ebde0504ec9107d2a5c17db.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Follows a cat and a panda in Gapon on a quest to reclaim a treasure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": null,
 	"size": "934 MiB"
 }

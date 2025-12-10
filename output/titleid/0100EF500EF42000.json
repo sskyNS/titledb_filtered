@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eaffa95a71166bcdc8c8ddc7a3f1f611acbfd29678e2ab80aef2c376afa034d2.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Action",
+		"Adventure",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Be Jack! Get an axe! Take Jack (and her sisters) on an axe tossing, single or multiplayer, adventure in a vibrant open world inspired by Filipino and Norse mythology.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "132 MiB"
 }

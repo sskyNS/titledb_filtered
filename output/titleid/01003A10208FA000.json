@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1872e083623e739d9ec037bea1e93edd7ce3466b24d6f1a80a841fcfcd72e010.jpg"
 	],
 	"releaseDate": 20250730,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Answer the call, protect the light, and forge your legend as an Arboranger in this heartfelt action RPG visual novel.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.00 GiB"
 }

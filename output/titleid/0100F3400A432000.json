@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ba694331464339cd45cb788bbf7f4daeb9fa673cb73e7e82bc556dfe3703ee4.jpg"
 	],
 	"releaseDate": 20181204,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "The return of the wacky monkey!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "698 MiB"
 }

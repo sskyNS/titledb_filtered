@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a230663141409d6efc0692a807ad0bf3c2dfec835c1071410d9cbeb107670464.jpg"
 	],
 	"releaseDate": 20190528,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Education",
+		"Other"
+	],
+	"intro": "GoFishing3D The Real Fishing is a realistic simulator game.\nPack your baits, fishing rod and get on the boat!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

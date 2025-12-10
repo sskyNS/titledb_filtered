@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8cee05f2535dd76544ea442e234f8e7ba2dee63a2b0dfd5e925a73549c50a8e.jpg"
 	],
 	"releaseDate": 20191004,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Music"
+	],
+	"intro": "Just follow the beats and rush forward!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

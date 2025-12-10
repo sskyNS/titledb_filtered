@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa23390357dab45a893440739d921340022045a7660d2ab15b51cb696f34082d.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Simulation",
+		"Other",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Create the war machine of your dreams, make sure that it is made well enough to take a hit and start wiping out your enemies!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

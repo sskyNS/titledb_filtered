@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/03cddd0543af228f0286a13be9da58ded9bb1ee90c7177418b479453a358c636.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "Create your own bullet hell in this escalating symphony of destruction. How long can you survive?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0d3ffb966e21e2f8c727bc505e537f6f6b82cadb0b8c3a5f05707ee744a6cc1.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Throw The Biggest Surprise Party Ever!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "927 MiB"
 }

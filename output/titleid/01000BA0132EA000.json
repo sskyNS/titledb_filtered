@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/93e14dec9b2834133f4b0a30d6b5743f445ca279c45df76fe73e94061960d1b0.jpg"
 	],
 	"releaseDate": 20201105,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Uncover conspiracies. \nDiscover ancient religions. \nTravel the globe. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "69 MiB"
 }

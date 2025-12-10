@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/202d19eeee47581202a407b387bd990b0ca800c036956bfe0ce960c5c2f18f7a.jpg"
 	],
 	"releaseDate": 20210810,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Climb to the top and save the world in many different levels.",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "255 MiB"
 }

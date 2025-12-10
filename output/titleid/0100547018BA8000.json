@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0683140f6c30183648ed616151e7def98b0099d196f7fd030bdf24da9501ca1b.jpg"
 	],
 	"releaseDate": 20220729,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Study",
+		"Multiplayer"
+	],
+	"intro": "Make room for FUN!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "278 MiB"
 }

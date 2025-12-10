@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/32e51ad663aca848eac5620aebb6cb3175a511d2666b43b55586d21d314462e2.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "This intense action game offers thrills and adventure! It's time to get rid of the space pirates!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "102 MiB"
 }

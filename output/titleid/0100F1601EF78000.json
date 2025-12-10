@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bff5f587b8e19ac0503b1f8feabc188298a0ca0f98ec48a30d23209770cc5fc.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Climb aboard Grendizer the Legendary Robot and fight the forces of evil!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.46 GiB"
 }

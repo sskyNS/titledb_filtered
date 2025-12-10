@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/60120ab906a5ca4235b1c95aef4d28833545899137fa80ea3eae87b1a4e44e43.jpg"
 	],
 	"releaseDate": 20211019,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Embark on a swamptastic adventure to grow into the biggest, baddest gator of your swamp town!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

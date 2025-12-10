@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f16df47f34b3df9c469427ad8a438dc8aeec6127a10294416ae1dd03ccc8beb.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "REDDEN tells the tales of forgotten tools using their own voices.Become an arrow, kunai,bullet from across the centuries. and turn common items into heroes of legend!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "730 MiB"
 }

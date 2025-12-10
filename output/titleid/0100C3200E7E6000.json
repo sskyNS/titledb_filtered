@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/10b14534b36d37c4de6281fd9b58c07af1dac15fc97c1f39f07844c3d8ed677c.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A dark, immersive Turn Based Strategy RPG. Master the art of 17th century alchemy to liberate a doomed city from a bloodthirsty cult of the great alchemist Mephisto.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.39 GiB"
 }

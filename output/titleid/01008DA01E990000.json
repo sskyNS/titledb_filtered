@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4dc7affd4ed37245384fb31bebfe7ef80de87f1e2c5866984a3a879749364b1c.jpg"
 	],
 	"releaseDate": 20240823,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Explore the depths of the human psyche.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "533 MiB"
 }

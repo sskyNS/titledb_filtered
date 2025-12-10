@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/106b7a54c614e54a6db638db5fd23dbbb774b3d2b1e6286857a3ebcb3d39a969.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "This is a platform puzzle game with visual element.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "587 MiB"
 }

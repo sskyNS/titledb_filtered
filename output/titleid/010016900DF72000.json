@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf2f786732f7410aa812be490d67968d261ff15a40d1082d40ba0efcb44e0668.jpg"
 	],
 	"releaseDate": 20190712,
+	"category": [
+		"Shooter",
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Explore a colourful world, shoot and bounce your way to victory!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

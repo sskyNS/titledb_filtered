@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bfaa7f0295b1fffb2fcf5bb890666c6274c04bf5ac2446d95844015ef4d002d.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Take control of a robot named Fight in this roguelite metroidvania. Explore countless labyrinths, unearth buried artifacts, discover their synergies , and kill The Megabeast.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.51 GiB"
 }

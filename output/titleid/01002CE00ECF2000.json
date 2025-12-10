@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/63b9a6d01f313c9299f1f490274acdf47346f31b33f12d19b84a98f696773260.jpg"
 	],
 	"releaseDate": 20191024,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "bayala - the game based on the movie. Plunge into the magical world of fairies!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

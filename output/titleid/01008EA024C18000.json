@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a146c7f1bc6839bbc51febcfa1de5c15b1c2c118279676351bbe901d41d3d06c.jpg"
 	],
 	"releaseDate": 20250816,
+	"category": [
+		"Arcade",
+		"Other",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Uncover peace and wonder on a hidden island paradise",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

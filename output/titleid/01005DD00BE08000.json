@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b97c99194a3779ba591383ff499c8d1391be8b704a43098b6eb4a711e9515d00.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Use the eight Power Armors to take down the enemy defense line!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "94 MiB"
 }

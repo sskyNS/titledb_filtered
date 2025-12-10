@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/53c9407a8c39224f055e2dcc3099066149552eedede2aec4530b6d0307280158.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "What lies beyond the doors to the ruins? Become the best hunter in the world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "420 MiB"
 }

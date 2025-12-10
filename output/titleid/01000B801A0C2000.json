@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/548c7c7ce8d3358c13d69599ce0eae2a68226e5ee1cd57628ba5da15e7164705.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "A fun Halloween inspired Room Escape game!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ec634eeb9255d37e1e8a25050fcdae48300efb0d5dfc8f2acbd0df92152a2da.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Solve the puzzle and make a cappuccino.\nA puzzle game where you rotate pipes to connect them.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

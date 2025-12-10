@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b1a2957b1e216acf20b8c59a444db37aac23c8b6f4d3826942c8045098a4396.jpg"
 	],
 	"releaseDate": 20210813,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Move, hop, and rebuild bridges to aid your fellow bunnies.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "39 MiB"
 }

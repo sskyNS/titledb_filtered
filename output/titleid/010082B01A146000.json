@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2b7cac0d936f9eb9f13928fffe8c735d131a20259a6dd9706dade76ed48d96b.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"Sports",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Cute animal golf battle race game!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "717 MiB"
 }

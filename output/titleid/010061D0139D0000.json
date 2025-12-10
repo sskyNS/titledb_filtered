@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5a52248bdc29fbd52a25756b1a3d3025f2853cb94702820a59252d09275bf15.jpg"
 	],
 	"releaseDate": 20210824,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Spy up and save your parents in this action-packed platformer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.58 GiB"
 }

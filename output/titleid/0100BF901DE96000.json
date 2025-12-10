@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/68f515ac8ff81570e9fd3d76dd7421405142c9bde41d1de9d33669bdd0a0e63b.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Step into the World of Mystery, Find the Hidden Truth!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

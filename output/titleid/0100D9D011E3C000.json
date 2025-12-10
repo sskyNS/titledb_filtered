@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d3eda1372425283986923d6614ba24f4e62c1ef0c51df1fe341d56553eab7c8.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Master the elements in this stealth game where everything burns.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "411 MiB"
 }

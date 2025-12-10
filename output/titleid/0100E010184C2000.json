@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d92748f7395f72ee0495723879a42405cb6650a54dacafccabf71212121425d6.jpg"
 	],
 	"releaseDate": 20220805,
+	"category": [
+		"Sports",
+		"Action",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Listen!, You have only 90 seconds to win!",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

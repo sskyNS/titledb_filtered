@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3164a73ec98c3d61e86b53e4213c4db65d2b8c249e97a80e7e300cf88d509b18.jpg"
 	],
 	"releaseDate": 20180220,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Stretch out cute doggos to their food! Deceptively simple mechanics, progressively trickier puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/64085f1dd247b3d5c5593758505dddbdffd2eede6b843696087a421e3539e896.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Do you have what it takes to embrace the danger and become the ultimate shadow fighter?\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

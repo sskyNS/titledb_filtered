@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9018d9ae3ba7a6d74cd7bf026baa6a89414dd3dc6e8e259e4f2c80bceed51cc7.jpg"
 	],
 	"releaseDate": 20230213,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Step into a hand-animated realm of wonder in which everyday objects take on a life of their own. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.97 GiB"
 }

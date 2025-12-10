@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1c820eead973abcc0f1f344b89f829689c403745b05420b51a8bcc14c44ba12.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "The cast of River City are back to go wild in the Three Kingdoms! Make your way through the turbulent nation with the familiar crew!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.67 GiB"
 }

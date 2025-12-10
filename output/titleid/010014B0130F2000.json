@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccb6d497dac94c0973b6f35ce38e206c87c8b17aa202445dda6a2d192c002a17.jpg"
 	],
 	"releaseDate": 20201102,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Solve puzzles, avoid traps, and gallop madly to uncover ancient llama treasures!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ab47f44c7a2f00829bd4fee6c3a072821946dd4d1abd773636ceda33e8722eb.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Action",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Going Under is a satirical dungeon crawler about exploring the cursed ruins of failed tech startups. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

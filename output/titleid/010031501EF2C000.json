@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a3cf8d141b6828f4af784cf4e0da63a57b04f5db54d389098589969357ecbb4.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Aim for a high score by creating large matsutake mushrooms!\nStick mushrooms together to evolve them!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

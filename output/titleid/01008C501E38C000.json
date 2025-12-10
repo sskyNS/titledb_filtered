@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/790ddc66d36a098517c07d457074a971cc3e6606ec88d361f65828670bebaf8a.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Jump into the game, where your paper plane takes flight through the dazzling lights and vibrant nights of the city that never sleeps. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.81 GiB"
 }

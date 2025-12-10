@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/960be87c4a368f998f4d8e0b49c4544563f9a6f032ab7d445335c19b856cea63.jpg"
 	],
 	"releaseDate": 20201106,
+	"category": [
+		"Sports",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Big Jumps. Big Stunts.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "931 MiB"
 }

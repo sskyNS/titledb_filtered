@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c2eff47468514a9371c48eb636e56f8fcdc3d9da7b5c6cf8323340874ca2439.jpg"
 	],
 	"releaseDate": 20200303,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Amoeba Battle is a new breed of real-time strategy game where you control versatile amoebas in the battle for the microscopic world. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "448 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb183b57dab4418e353d8215c66ace6ddee61f650212c6df3fd3ee7409375cbe.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Blaze a trail through space!!\nThunder Ceptor!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

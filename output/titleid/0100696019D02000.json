@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5d9bf669828fd1219a7d9bd1ad0916377425e849d2e96eb53f61eced6c4743e.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Education",
+		"Communication"
+	],
+	"intro": "The easy way to boost your English vocabulary skills!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

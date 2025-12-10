@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a02df1cb026ddfc720105bb97599406dcab93e04d754b6fe2b6cf1428c92aa90.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Mankind has launched its final counterattack.\nA-JAX, attack!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

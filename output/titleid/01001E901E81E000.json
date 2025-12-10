@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6a09c64af5191c6df2b4e1b0a347b49aff0ff22a70c98e7ecc79847be933fe3.jpg"
 	],
 	"releaseDate": 20240301,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Experience a heartwarming adventure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c08e6c4fb9267fdc5292b773c90e2c039236a41a80b1f159608df0515f98b78.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Command the chaos on a modern aircraft carrier",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "425 MiB"
 }

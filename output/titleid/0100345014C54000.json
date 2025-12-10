@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebdc8e41d1d6dd16bc743ef1c4c3dbf13f4b087b821286a206d8ff0fc46beb1e.jpg"
 	],
 	"releaseDate": 20210601,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "In Pony World 3 you can create your own dream pony from scratch and help develop your character by choosing the way of education, career, and making many friends.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "438 MiB"
 }

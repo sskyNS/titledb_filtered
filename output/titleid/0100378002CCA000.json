@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9c92121dfbcb38b648f559fcc019d81570c166540936b62acfdf89b290fbe20.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Save the Old West, with your rifle and your horse, from thieving Train Robbers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e2fb327bff162fc3a402fd8a4190351a3bab42b57729f75ff3c1d8138ebc28e.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Be strong like a lion!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "435 MiB"
 }

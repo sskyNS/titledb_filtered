@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7423981746ff72d07404d08fd1ede412bbd0d4d1d151bf807b87118f1848efe.jpg"
 	],
 	"releaseDate": 20210120,
+	"category": [
+		"Action",
+		"RPG",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "All Walls Must Fall is a Tech-Noir Tactics game set in Berlin 2089, where the Cold War never ended.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

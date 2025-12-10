@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c71e02e6456b543d358cf7aba911e0fc079764444643e44a17d6d749e72c5e1.jpg"
 	],
 	"releaseDate": 20200626,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Manage the city lights and try to avoid the chaos!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.75 GiB"
 }

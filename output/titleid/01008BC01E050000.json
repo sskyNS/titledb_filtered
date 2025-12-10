@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd47bb0670f6384cab78d4dc51aec3522962e29ff368595bd9e5707cb1cf801a.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Get ready for heart-pounding races and strategic showdowns in this frosty, action-packed racing experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

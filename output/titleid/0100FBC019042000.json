@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dc660122e7e3269e6509c050dc58d616ca658d7773b7722d47987645dcd0907.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The definitive Super NES\u2122 mecha game! \nAssault Suits Valken is a mecha shoot-em-up released by Masaya in 1992. Pilot your Valken mecha across 7 stages.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

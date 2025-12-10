@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/026950953b9b9c8ccf5539f7b091fd56865cf1855d8b05575d67b3372f3b583b.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Racing",
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Get ready for an adrenaline-fueled ride in Stunt Paradise! Take on epic challenges, perform insane stunts, and experience extreme driving. Buckle up and play now!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

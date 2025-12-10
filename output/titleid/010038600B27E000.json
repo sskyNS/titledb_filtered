@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/41f841a37cb6c737dd608f0eac6d1bc419bb55ea5a927dd8d040488ef65ee18e.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "996 MiB"
 }

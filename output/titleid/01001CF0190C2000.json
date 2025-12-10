@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/53bc453ea8f4aab0cc4522283e2987a922e26225604b63e179a9f9e29b8146a9.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Insomnis is a first-person horror game focused on story, exploration and solving puzzles to advance through a terrifying atmosphere. Players take control of Joe Castevet, who will have to deal with a mysterious inheritance he has just received. Discover all the secrets of the Castevet mansion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e873a95aa337348477c880c3ddd3449312c9733bfdfe83e1ee5b4d869a55696.jpg"
 	],
 	"releaseDate": 20211214,
+	"category": [
+		"Adventure",
+		"Education",
+		"Music"
+	],
+	"intro": "Find confidence, change the world and shape your surroundings with your voice!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

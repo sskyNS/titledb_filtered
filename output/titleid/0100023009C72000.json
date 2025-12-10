@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8af7f4dee81a4f99dd18c9b54963b3d5d3a88c9427f9bec612738da63635c82.jpg"
 	],
 	"releaseDate": 20180308,
+	"category": [
+		"Party",
+		"Arcade",
+		"Puzzle",
+		"Sports"
+	],
+	"intro": "Master 30 carefully selected games that will test your reflexes, memory & wits!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

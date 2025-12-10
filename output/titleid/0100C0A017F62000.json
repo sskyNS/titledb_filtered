@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ef7cd7312aa49cb5c6acdce4c83d909bfbde384376c0f2c1e45ee275267e3b9.jpg"
 	],
 	"releaseDate": 20230905,
+	"category": [
+		"Arcade",
+		"Action",
+		"Music",
+		"Sports"
+	],
+	"intro": "Kovox Pitch is a 2.5D rhythm game with post-punk music and wholesome story",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "821 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d02a56b4dc25b9836d2e8dc6bae10ae0e03d4f5b31910f47cdc24c4c3d42797.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Survive random rounds and kill enemies with your pistolflash while choosing a curse card for yourself!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "732 MiB"
 }

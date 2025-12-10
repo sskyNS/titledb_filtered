@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3d1db3e12ead87b5b956cb4b6189e3e9d57a2c5ff5d08841235a0eaf45def1b.jpg"
 	],
 	"releaseDate": 20240529,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Mystery and psychological horror game with retro visual aesthetics",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

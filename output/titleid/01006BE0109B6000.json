@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/81ec4c4d24c5eaeae9cb649ba153aea1aa5dc07d4d2e77625eb9dfbf2f458613.jpg"
 	],
 	"releaseDate": 20200417,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Updates"
+	],
+	"intro": "Theme Park Simulator is a pure simulator game, with roller coasters, ferris wheels, and many more thrill rides\nYou can be a tycoon of the amusement parks.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

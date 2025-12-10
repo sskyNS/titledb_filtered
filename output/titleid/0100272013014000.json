@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/25735cb5c0eb1f417d57e7f203543789d38cfae0be5a726d348b96caede85b12.jpg"
 	],
 	"releaseDate": 20240607,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Help a body save a head-like organism full of air from a life-threatening leak.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

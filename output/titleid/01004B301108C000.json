@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b3ae87a0cf3e1db35fe5887ecceb38f0d94fc92389c58e02c8a78e8ba5378c1.jpg"
 	],
 	"releaseDate": 20200319,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Amazing classic game in a modern view.\n\"Solomon's key\" inspired game with many add-on",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

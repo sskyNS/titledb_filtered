@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb56f8c14c55894020e47ccb1944212c426fd3bd2f6cb5edb045fc3f26b3f1eb.jpg"
 	],
 	"releaseDate": 20210312,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A minimalist platformer with maximum challenge.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "54 MiB"
 }

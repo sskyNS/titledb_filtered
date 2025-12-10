@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a46a06df3ff9ce29458aabe1d0b452d83cc66acf190f86bf0df76cbac5798c58.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Join Neffy\u2014a girl who can transform into a cat\u2014and embark on a magical journey through a mysterious labyrinth to rescue the sealed Moon Goddess!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "915 MiB"
 }

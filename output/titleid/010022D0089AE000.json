@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de508abbc3bf37c8234746f527a1592967425eb546a2524ee247dc90a876d7d3.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Rogue-like as you like!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/40ed9e991292c1631baef533ef72cf9728ecd22bd0a2cae2c1923eff0aa6717f.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "HunterX is an action-adventure game full of spirited battles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.54 GiB"
 }

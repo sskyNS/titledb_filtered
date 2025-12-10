@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f660e25ed1b7225e8be375775cb913726586990cfc51bb78916d5e27067e2cec.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "4 The Elements is a 2D Action Platformer inspired by the best games of this genre from the 90s.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

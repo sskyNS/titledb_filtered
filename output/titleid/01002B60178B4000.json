@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d4c524763b2d163108a79708186ccf3ee563bbaa0dfb637e637d4804bb310bf.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Set off on an adventure...\nTo wherever your heart may lead you.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

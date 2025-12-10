@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e20c63a2cfb26a3925c43ce45577ba0bf5487176a435cf3f025dd03256a8473.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Adventure"
+	],
+	"intro": "The epic story of a legendary knight and her quest for redemption.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "173 MiB"
 }

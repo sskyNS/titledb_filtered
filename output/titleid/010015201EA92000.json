@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/345379c983c78aea1eee6f337633663597bb7490f548505c888dc159cf4e2bb8.jpg"
 	],
 	"releaseDate": 20241016,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "Challenge fighters from all dimensions with Blazing Strike!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.48 GiB"
 }

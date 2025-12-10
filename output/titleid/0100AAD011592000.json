@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e562f83efbff59188a416d571afb6baa9e98f67f8aad05348517a45b2bbfa0de.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Action",
+		"Shooter"
+	],
+	"intro": "The Last Dead End is an adventure game with the elements of FPS and horror.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.39 GiB"
 }

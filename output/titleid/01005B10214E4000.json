@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a29039aac7c65296a91cd3a06751afdbf611284a2255752a68a8c2bee3d24312.jpg"
 	],
 	"releaseDate": 20250225,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "30-second metroidvania-style platforming adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

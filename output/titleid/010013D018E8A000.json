@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/c03a0dc8711789bd0a782c6be8ba5c8a14c8b3728e2991ec20896480a1d5b07d.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Burger Patrol is an arcade puzzle game where you match tiles to create unique burger combos. Keep the food pile from reaching the top as you aim for a high score!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

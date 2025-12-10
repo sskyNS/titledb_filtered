@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2be3f0c2614bc1c1d824a00c00df53d7b020c80df51c0e2cf192e747955d1f50.jpg"
 	],
 	"releaseDate": 20250607,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Assemble a chronological puzzle of family photos to piece together their most cherished memories.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "658 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/35221680a6be3b0c73ed581c3d57e12d1f6d9e03cd33d5545f85a61201e3c36b.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Uncover conspiracies, sabotage occult rituals and run for your life!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

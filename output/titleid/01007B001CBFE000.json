@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc1a3ef2d6145240f9033d85c8a2703a316f3af46aec3f26cfc52a3fbf666538.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Become the owner of a bustling construction site: take control of powerful heavy machinery and a team of professionals!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "956 MiB"
 }

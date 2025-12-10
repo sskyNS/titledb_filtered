@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49.jpg"
 	],
 	"releaseDate": 20211008,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Join bounty hunter Samus Aran as she tries to escape a deadly alien world in the critically-acclaimed Metroid Dread",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.28 GiB"
 }

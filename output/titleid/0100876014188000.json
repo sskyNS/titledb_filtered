@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b7e4d1d7f2abee59bb1cc839cd7b94f69055622fe8820241f5d5df759ffab38.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Pecaminosa is a Police Action RPG, in which you embody a disgraced detective on the strangest case of his career... Grab your gun, hit the streets and do what you do best: investigate.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": null,
 	"size": "492 MiB"
 }

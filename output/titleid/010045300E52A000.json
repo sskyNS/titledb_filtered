@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/08bd15dda3d712a67f86c1b882b95ee83ae7513ecd95453f1c4e7a6276b469d6.jpg"
 	],
 	"releaseDate": 20190621,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Get the Sword of Ages, travel to the future and try to live long enough to brag about it!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

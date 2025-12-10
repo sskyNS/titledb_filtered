@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4249baa2b7f3e5d926ee3683446719bb8f99f67fb03891aecd1437328c083c4.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Music",
+		"Multiplayer",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Groove to Chart-Topping Hits in the Galaxy\u2019s Ultimate Party Game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.08 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cdd8b7ee7023f87040b93e48b377fa8b3299310ec31e8f6ac370fc87cba4d78.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "After his car hit a tree in a stormy night, Peter wakes up in an old abandoned mansion, somewhere in England. He can\u00b4t remember why and how he got here, but soon he realises that the house is not as abandoned as it seems. While trying to find a way out of the house, Peter has to uncover the dark secrets of what has happened in this place.\n\nAs he tries to find his way out, Peter discovers hints which indicate that he has already been here before. But by the time he\u2019s starting to put the pieces of the puzzle together, something evil has picked up his trail\u2026 Solve puzzles to find out how you are connected to the mysteries of this place. But be careful: Something evil lurks in the cold, dark masonry and it has already started hunting you...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

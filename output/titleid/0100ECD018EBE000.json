@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f5e069de49fa3644732f1c7073dea13a059a86e433da60e042d4f0f35b165bb.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Join Mario on an epic paper-adventure to collect the Crystal Stars before the X-Nauts do!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.12 GiB"
 }

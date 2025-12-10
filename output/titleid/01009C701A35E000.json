@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/52f52b16f68768ab7d3ea6cfbf49cad321506d13c5193a80f703d1ebbff8c895.jpg"
 	],
 	"releaseDate": 20230524,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An escape adventure game in which you work with \"Katia,\" a girl who speaks a mysterious language, to escape from a hall where death traps are set.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.20 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/169c94cc256cfbdc261b04092fcd6c418321ce7fcd538aa19b3e55f0430d52ee.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Part 2 of a single player TOP DOWN game with a story about escaping zombies to survive! Play co-op with up to 2 players!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.16 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b21aea17b1c11dd37dddd9f58f07288f7ba15924c3df4d744fd57b39cd48206.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Set out on an adventure to discover Izen's mysterious origins in a sci-fi RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

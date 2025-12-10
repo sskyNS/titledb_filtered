@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cd1c58cc1ca925ba9f2d2d9dbcf41fa94c66edabc17e871d9d3c6669ac1ba81.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "A zombie appeared at school! A single-play TPS game with a story about escaping zombies to survive! Manipulate your friends and survive!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.57 GiB"
 }

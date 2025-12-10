@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/11acd3d23b1310d1ea2aba3ebe03b757fa268b7cada8316dd7a153bba70fcaf3.jpg"
 	],
 	"releaseDate": 20200512,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Classic nonogram puzzles taken to the whole new level!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/807dfe4726a80965fb285a43445a6dc477011996e3f20cca798a21ea0bbba4ff.jpg"
 	],
 	"releaseDate": 20221021,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Get the crystals back and save side characters with your magic powers",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

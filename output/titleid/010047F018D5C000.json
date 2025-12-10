@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5adf4eeea7c86857d8441cf3745bbb4d0fe5d942eda806c3e84ea9567d19ca3a.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the nature of infinity in this sci-fi stealth platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.38 GiB"
 }

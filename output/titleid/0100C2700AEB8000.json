@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4968d2a20633b998ec2a592450e0f2b084a8c195748e92c8c8ccd615b1afaf0.jpg"
 	],
 	"releaseDate": 20200826,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "An adventure game focused on exploration, story, and character. Tiny detective, big mystery!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

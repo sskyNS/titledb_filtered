@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/06d6efb0c09f9951f693558d65ad975ea18b9def36a31816bfa918973116bc07.jpg"
 	],
 	"releaseDate": 20181102,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "The fresh arcade-style puzzle experience!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

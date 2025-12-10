@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/41e3a382f002bc6f6817bf3d0b70cb8c3f08cd44ac572a560f12bef735d7bb38.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "1999\u5e7412\u670831\u65e5\u3001\u30df\u30ec\u30cb\u30a2\u30e0\u524d\u591c\u306e\u30ed\u30f3\u30c9\u30f3\u306b\u97ff\u304f\u9283\u6483\u3002\n\u723d\u5feb\u306aFPS\u30a2\u30af\u30b7\u30e7\u30f3\u3067\u6575\u306e\u30a2\u30b8\u30c8\u3092\u58ca\u6ec5\u305b\u3088\uff01",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.27 GiB"
 }

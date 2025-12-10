@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/763b26d7f845f1a4eb41904c91224678c3a37b73bd0080a515fcc79bc56ae8bd.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "Sand painting style RPG action adventure game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

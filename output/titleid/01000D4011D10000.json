@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebd375740decdc747932719c8c71dd5e78dc44739da54164d2cf2bec487a1264.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Tanky Tanks is an intense, fast-paced tank shooter game. It is fun, easy to learn and addicting. Play alone, together with friends or against your friends and show your navigation and reaction skills in 6 different game modes and countless levels.\n\nIt\u2019s fast. It\u2019s fun. It\u2019s addicting.\nDeafest the enemy tanks while dodging their deadly bullets. \nImprove your aim and maneuver skill while war itself is trying to end your adventure.\nLevel by level the enemies tanks get faster, smarter and deadlier. \nCan you make it to the end and defeat their leader?\n\nPlay alone. Play with your friends. Play against your friends.\n- Play the singleplayer campaign to practice your skills and beat the game by yourself.- Finish the campaign with 2 players in the co-op mode. \n- Defeat your friends in the VS Mode for up to 4 players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "478 MiB"
 }

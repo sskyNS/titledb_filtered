@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1815cc9c4180790d6c6fd80676a38d6e96e89787218c54127f6082dac2e22c35.jpg"
 	],
 	"releaseDate": 20240911,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Castle climbing co-op with the Crossy Road crew!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "833 MiB"
 }

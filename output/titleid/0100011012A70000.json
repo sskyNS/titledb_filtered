@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb2bfb75e539ecc61c9669e08534a6b537800aca2a846d395cd73e1bfeee5859.jpg"
 	],
 	"releaseDate": 20200911,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Open world Action RPG with a rich quest-based narrative, multiple combat styles, an advanced progression/inventory system and lots of travels and discoveries.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "56 MiB"
 }

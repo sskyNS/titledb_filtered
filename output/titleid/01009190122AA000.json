@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fed44ffefa070000a5976788b8fd1925c94198e645716ad004d470a39fef6cce.jpg"
 	],
 	"releaseDate": 20250919,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Party",
+		"Strategy"
+	],
+	"intro": "School mates become ship mateys in this fast and strategic battle to be the best Backyard Pirate",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "262 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d02d9319dcb1a2ffdea54cafe217998d7733ac9fee4c52a7d3ca22c373832c8.jpg"
 	],
 	"releaseDate": 20241026,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Chase and Shoot!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

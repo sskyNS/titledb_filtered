@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c00e18040bb94ec79a6a1da8d2a32055938f780141cf3bc1bed4b4775c8f4f75.jpg"
 	],
 	"releaseDate": 20250926,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "The Club is Yours\n",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "33.56 GiB"
 }

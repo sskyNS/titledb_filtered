@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c921cca1f34b26d12fe54aeb4d35a642f6123c3a951d45a38caec9c71497629.jpg"
 	],
 	"releaseDate": 20200812,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A first-person adventure game whose mysterious story was inspired by the imagination of Franz Kafka.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.30 GiB"
 }

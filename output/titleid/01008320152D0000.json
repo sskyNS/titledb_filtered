@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c54c5f7d4f211fe4aa37332c6c1138fc983c1690fbf6f9ffd3cb225e55b272b9.jpg"
 	],
 	"releaseDate": 20210901,
+	"category": [
+		"Puzzle",
+		"Music",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Alveole is a minimalistic puzzle where the player must understand how to run and why does he do it?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "160 MiB"
 }

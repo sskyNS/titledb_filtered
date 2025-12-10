@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cb8184c020551c153b1cbb68632b295f5ff1a2efb5e16336d8f65542fc7e6e6.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Take care of the little pet creatures, train them to become the ultimate fighters and become an EvoMon Champion!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

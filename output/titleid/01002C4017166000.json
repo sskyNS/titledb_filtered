@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aba60f757de9795a50892ca85603c02ac070eb0cccf780e6c45717617efc5ca4.jpg"
 	],
 	"releaseDate": 20230512,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Roguelike, auto-battler, deep progression, gratuitous violence, pretzels!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

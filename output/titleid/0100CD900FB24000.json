@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e2e9eca35c0789a7577f942c8bb8bd64d2a0dab30ce8a78ef599df083549b56.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Wartile is a cool-down based strategy game in which you control a warband of Viking figurines in a miniature universe inspired by Norse mythology. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.21 GiB"
 }

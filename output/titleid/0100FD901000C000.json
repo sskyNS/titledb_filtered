@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8eff0f37a1d2be75b0c80286d9d7a3cff44ecff41721c279df109f9e86b92fe.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Award-winning archaeological sci-fi adventure. Decipher a lost language. Uncover an ancient secret.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.51 GiB"
 }

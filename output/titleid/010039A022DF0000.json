@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/db1d272f2a813375a82f02499e40f1cf99af384fd1724059a24de4129d711efa.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Real-time hypersonic air battles on the System Super 22 hardware!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

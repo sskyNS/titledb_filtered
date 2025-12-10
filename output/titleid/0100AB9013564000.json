@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/23e6e1e9b92fb6701dc86b225c8499e7a46f3b90dbbd93034429fb09d78ae430.jpg"
 	],
 	"releaseDate": 20201031,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Boss Rush: Mythology - This is an action game in which you have to fight various creatures and gods from Greek, Scandinavian, Slavic and Egyptian mythologies.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "289 MiB"
 }

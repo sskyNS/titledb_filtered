@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8afb16c18bee9edf91a674e176095231b5cf216366da34053f1ac538a550c297.jpg"
 	],
 	"releaseDate": 20241213,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "IT'S HAPPY HOUR!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

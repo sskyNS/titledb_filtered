@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b43a8620b1f0c4f6996412b477c032a254998a0b0c5a52f71b2af4e4f1848eef.jpg"
 	],
 	"releaseDate": 20241001,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Match 3 pearls to collect charms, beat tricky physics levels, and solve puzzles!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "899 MiB"
 }

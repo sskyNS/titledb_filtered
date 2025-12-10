@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2557715a06791cc8ab67c3047168762d0d48e1c92c7f1199df92f6375a63105.jpg"
 	],
 	"releaseDate": 20210928,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "WARNING!! A HUGE TANK BATTLE IN NEW PANGEA!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.65 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef4eabbf1e6e749e0a074b776fac1103bccf95be72a5ca7819caed9c00bea7b2.jpg"
 	],
 	"releaseDate": 20171218,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Oh no! It's the nuclear bomb alarm!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.76 GiB"
 }

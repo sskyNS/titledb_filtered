@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f29626abdd6e9bcc278cd2eb8eb2fd4049e3df786896619d7921dc6fe9336279.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Experience the reimagined myth of the bravest Greek warrior Achilles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.86 GiB"
 }

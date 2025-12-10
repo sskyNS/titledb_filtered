@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3276b787c8ec51a87d6d9b061209979e9945a880ba1129d7768b39531e96f75d.jpg"
 	],
 	"releaseDate": 20240913,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Take up the samurai sword and save feudal Japan!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

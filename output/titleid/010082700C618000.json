@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1df63fd8218320d1f57ffcb4c3b89b6f65edf1bc60394c589321c400aba58353.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Classic Spider Solitaire in Cool and Chic design with 300 stages and random mode are all playable unlimited. \n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "40 MiB"
 }

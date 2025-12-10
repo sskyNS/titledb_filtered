@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0a9b156c44c5701cc8df7393c7751d9b40618c1d893e58d97fb7c3b0eaba664.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In this full motion video mystery adventure you are part of a group that specializes in processing digital footprints of deceased people - all on behalf of the relatives.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

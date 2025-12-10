@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba69a94f4a70933567c6a822b7ebe4113f0b704ac62235da80442592617578cc.jpg"
 	],
 	"releaseDate": 20211022,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The whole city is your playground! Forget everything you know about driving and free yourself from the shackles of traffic rules! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "440 MiB"
 }

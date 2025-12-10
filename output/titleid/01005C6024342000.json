@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/46522b8f09ed622ed59d7d1f9f9c3a82c463f848fbcef97e497b06ab1c10b491.jpg"
 	],
 	"releaseDate": 20250906,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Build your pharmaceutical empire from the ground up.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

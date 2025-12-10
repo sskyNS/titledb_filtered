@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c390a8e77c00c7fd658cb294dd7e41feab22379986f92205f9fa67dfd8f67d65.jpg"
 	],
 	"releaseDate": 20220408,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Boreal Tenebrae will take you on a retro-style adventure, with a mysterious atmosphere and horror elements. The game is inspired by 90s classics and the best TV series.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

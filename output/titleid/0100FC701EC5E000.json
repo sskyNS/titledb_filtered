@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2d4e5b70440c1e421f622a4769a88af9e11deafed822d1d1b20c814e3be0a7a.jpg"
 	],
 	"releaseDate": 20240616,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Push your limits and defy gravity. The ultimate urban parkour challenge awaits.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

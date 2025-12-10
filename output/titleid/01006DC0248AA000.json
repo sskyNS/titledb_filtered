@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aac061de4f0caaf86a2020acb9abe1bf415ccd2806a39edef7ed7008f93c134a.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Mona save the kingdom old kingdom!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

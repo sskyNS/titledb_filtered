@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad6253ed4b20a361c1245fdf3bbca662ec962d23c0445ba51aa977ddfeb5d11e.jpg"
 	],
 	"releaseDate": 20220622,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Hilarious 3D brawling with ragdoll physics returns for a rockin\u2019 romp against the undead!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "636 MiB"
 }

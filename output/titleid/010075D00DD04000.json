@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/11d185efb93ba70223e9adda07684274413c94a8d19906b50c2fd073ffc029bc.jpg"
 	],
 	"releaseDate": 20191101,
+	"category": [
+		"Racing"
+	],
+	"intro": "Ready, Set, Race With Ryan!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.77 GiB"
 }

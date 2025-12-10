@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a91a6324733d669d8cf5b6a41de4bdb2eab2559237a0e498b56911434aa34de.jpg"
 	],
 	"releaseDate": 20201005,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Combining fast paced arcade action with turn-based gameplay in a roguelike setting.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd583c79e8ba260475fa3e1f999e52bae7202e980a9cd1387645b9bcf835f9db.jpg"
 	],
 	"releaseDate": 20250117,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Experience risk in truly wild conditions - become a rock climber!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

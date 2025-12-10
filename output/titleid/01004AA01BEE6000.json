@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c6b9ea193a14dcf5d490620749d386114bd161e6bcbdc72a45dd40a147e093f.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Alone or with friends, go fight the darkness and restore peace in the kingdom!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "227 MiB"
 }

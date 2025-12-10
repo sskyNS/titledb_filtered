@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b70477ec1f77895aed9e8da94712c3489acd1b3a107c36678bd9fc694db9ec9.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Sweet Dreams Await :)",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

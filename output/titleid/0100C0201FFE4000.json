@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/54451c2555071fc343bb400981309dfd44823559de876499b11e691e7e691d1c.jpg"
 	],
 	"releaseDate": 20241002,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Use your grappling hook and blast your way through hordes of weird enemies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "163 MiB"
 }

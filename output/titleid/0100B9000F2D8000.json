@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9e2a1d215ab14117e1b1dbdd0a53876a4ae75b9a94429d0bcc456b7b4278131.jpg"
 	],
 	"releaseDate": 20200229,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Become a Real Pilot, play Airplane Flight Simulator!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

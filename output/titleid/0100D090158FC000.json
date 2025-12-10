@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f8686adbfe8d4f53a74e829b4f964d2768000696053edc19a83fe742a46d188.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Transform into a frog, a rocket, a bird and more as Line embarks on an emotional journey to fulfill the dream of its creator.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.68 GiB"
 }

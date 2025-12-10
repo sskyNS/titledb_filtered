@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7bef2efc8e5393aeabc8cd6c1065e990b8c50e6d186289f5e19a6de0985fb9b.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Dominate the skies, Conquer the seas, Rewrite wartime history. \nBecome a Legend of the Skies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

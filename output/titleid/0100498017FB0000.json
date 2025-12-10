@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/164f27d7806b98d797be4bfda696aef9b601ff6ab1aef323e46c8e5e0c1baa85.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Are you ready to enter a world full of robots and total destruction? Robo Wars is a fast paced action game full of mechs and explosions.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "646 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcdb97cc5db26db5d5645b73c118eed02e29aaa47fade3eba0f4c84e724c57e0.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Action",
+		"Party"
+	],
+	"intro": "Mahjong Tile Battle! A Simple Yet Deep Falling Puzzle Game!",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 2,
 	"size": "81 MiB"
 }

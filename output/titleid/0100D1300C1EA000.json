@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0238ce3d2de359e42b6ce8d1ee198a6aa4081e37cdbc2e6f88be6df5ac1540c.jpg"
 	],
 	"releaseDate": 20181206,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "HOW WILLING ARE YOU TO BEND YOUR MORALS? \nEVERY CHOICE WILL HAVE A CONSEQUENCE.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

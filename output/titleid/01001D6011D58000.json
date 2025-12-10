@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/402f6cd9eb66fa7769cca31a85e0df85fc497c439720133a8b0c230304728bfa.jpg"
 	],
 	"releaseDate": 20210212,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Steamroll is an adventure and puzzle game with a touch of minigolf gameplay.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

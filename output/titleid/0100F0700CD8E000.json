@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/83a835f5681d6b1afacb2965a51d45e45cfdf52ff14a6ddabe5b5f5c2b98fd08.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "RPG with over 100 companions?! Set out on an adventure in a retro-styled world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "92 MiB"
 }

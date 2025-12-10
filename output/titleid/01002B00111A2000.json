@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8f59a854b1958750ca8c20cd6f1bd64335e2cff1ba09177803646264ee42361.jpg"
 	],
 	"releaseDate": 20201120,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "See Hyrule 100 years before the Legend of Zelda: Breath of the Wild game and experience the events of the Great Calamity",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "11.08 GiB"
 }

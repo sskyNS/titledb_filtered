@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/32945a144c943c02ba374872fbb60ac366f343d61ba76141c062cfc39d9cbb5f.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Run and gun fast arcade action with dashes and slashes and fluffy characters",
+	"languages": [
+		"en",
+		"es",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.20 GiB"
 }

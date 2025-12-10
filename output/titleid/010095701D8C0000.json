@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6dd6a139028e5a609b9a35eea31e19c24ed67276bdcc23170370e77a89c6bae.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A modern, funny and family-friendly point & click adventure game about cats, Star Trek and life itself. Created in the spirit of the classics of the genre.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

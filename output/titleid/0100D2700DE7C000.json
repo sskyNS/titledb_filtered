@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe0ccd12c4673b1bdc508fb0687c8d8232e1420830710890742ce86581832dce.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Rivals of Aether has finally arrived!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "501 MiB"
 }

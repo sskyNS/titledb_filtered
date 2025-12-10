@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/da9eb8022b4bd8e16ae5770baecfc9f343217aeaa48a8659991905d5b3391421.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Great games and eye-pleasing pixels \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "743 MiB"
 }

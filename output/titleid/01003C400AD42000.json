@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18f1211c4d39ab88f756c8b4d42506be6b7452d334ceff822faf823cdeeab2a3.jpg"
 	],
 	"releaseDate": 20191125,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Bobby faces new challenges when kids are kidnapped from their home village! Help him find the kids on the Island of Evil Devil from another dimension. The locals will help you get ahead.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "714 MiB"
 }

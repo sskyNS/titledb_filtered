@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a2ff704bcf77de44dc289524281131f7eb78d4f99976ea843b119e2b51114c4.jpg"
 	],
 	"releaseDate": 20200710,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Koji Igarashi and Inti Creates are back with more retro sword-and-whip action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "109 MiB"
 }

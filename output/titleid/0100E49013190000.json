@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6006aafa8006db3f0edebd3741fe75379051522c54fe8407a854218dfcf677c.jpg"
 	],
 	"releaseDate": 20201217,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Alone, outmatched, and outnumbered. A desperate fight to make it home.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

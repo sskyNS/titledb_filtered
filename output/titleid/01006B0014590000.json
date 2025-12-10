@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/04c8b045a789825971279c87023bbeee74831aa9cdceef2b06582953faf1cc5b.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A post-apocalyptic African sci-fi adventure story like no other. \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.98 GiB"
 }

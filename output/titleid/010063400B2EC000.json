@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4129080590baa2b9b65817f3b176c1e8557a072e166aa461c744c8ad5ff3c5d.jpg"
 	],
 	"releaseDate": 20180626,
+	"category": [
+		"Shooter",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Old-school FPS action with a roguelite twist\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

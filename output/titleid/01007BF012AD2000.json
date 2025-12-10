@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f29b34673a83d6b81e4bdd64a321215fae54251986d80a5d4a4633cb857a40c0.jpg"
 	],
 	"releaseDate": 20210101,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Simple rules - great challenges, hours of brain-teasing fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

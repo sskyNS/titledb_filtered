@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b92a3bdbe28af1d2f967cfee6d220bf1deb879b7377b10a841142fddf3b473fb.jpg"
 	],
 	"releaseDate": 20190516,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A bomb-filled battle royale with up to 100 Buta sans of 16 different types!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f31516dc0dc96497da40091163d49361e0633d15b15550255823aa018dbfce3.jpg"
 	],
 	"releaseDate": 20211216,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Enjoy the crazy ride aboard the space station in this cute Metroidvania platformer featuring the raccoon!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

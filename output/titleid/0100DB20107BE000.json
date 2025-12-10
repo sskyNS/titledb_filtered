@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f413edc25833e0e37101f2d9a4b21f823a19e2a46190630fba1460922ee88c9b.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "New version of the legendary classic retro puzzle\n260 all-new levels with advanced physics!\nPremium world by video-game legend Peter Liepa ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "646 MiB"
 }

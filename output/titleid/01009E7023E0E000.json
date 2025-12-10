@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/04116335e6a8e4ab79316b825ff7283d8b06ecfd3e7ef5b940ce170474245f20.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Education"
+	],
+	"intro": "A curious boy, cool puzzles, and a forest that needs you to restore harmony",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "687 MiB"
 }

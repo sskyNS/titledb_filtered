@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/782882ffdc6d9a119ee76785d0a7b911502d2eb50613e16b6d73c7096b3e0ab2.jpg"
 	],
 	"releaseDate": 20241206,
+	"category": [
+		"Fighting",
+		"Action",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Take the fight to the next level with a remaster of award winning Real Boxing\u2122 2. Train hard, fight harder. Prove your worth in the career and multiplayer mode.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.50 GiB"
 }

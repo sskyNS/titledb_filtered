@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a3f071dc80f0b1369791cd302eeee1b611c8abd2a7d2363ebd1d6621b3db206.jpg"
 	],
 	"releaseDate": 20190411,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Vaporum is a grid-based dungeon crawler RPG in an original steampunk setting, inspired by old-school classics of the genre.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.43 GiB"
 }

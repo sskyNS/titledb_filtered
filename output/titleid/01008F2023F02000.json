@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b91bdc69f2b40d6d6ebf1e26a7d202641abe37aa72183d4d45dd2989a5ffc65.jpg"
 	],
 	"releaseDate": 20250805,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Think like an ant. Rebuild what was lost and protect what remains.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

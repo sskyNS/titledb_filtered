@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8944cef5ee3c51b7a9c41e1b59a01485eac79a5e47ba84b3be9195c316f211c1.jpg"
 	],
 	"releaseDate": 20251014,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Embark on a thrilling 3D platformer adventure jump, climb, and swing through several worlds on the quest for the 7 crystals and become a true treasure hunter with Chickenhare & friends!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.52 GiB"
 }

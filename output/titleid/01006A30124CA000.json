@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb8b7c7423f9f1e6b53a37c4efec389236a6faeabc99839ba3c77dc42e100648.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "As the chequered flag waves, start an unpredictable and crazy fun race, where something unpredictable happens at every turn!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "8.28 GiB"
 }

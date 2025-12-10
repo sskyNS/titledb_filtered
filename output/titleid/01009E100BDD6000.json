@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a35b329e144b80b80c89bac820ff9f81aeb323871a74cce1c72862879731aacd.jpg"
 	],
 	"releaseDate": 20200411,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Play in local multiplayer mode, for up to 4 players, or one-player story mode, with a cast of 10 characters inspired by the comic book LASTMAN.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

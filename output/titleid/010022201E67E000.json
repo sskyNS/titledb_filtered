@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9d07245599fd50787dbd56ca376c011011647d1de60c5990cbe0fb1b0e6a05f.jpg"
 	],
 	"releaseDate": 20240410,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Immerse yourself in a world of enchantment and renewal as you guide the fox on its quest",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "502 MiB"
 }

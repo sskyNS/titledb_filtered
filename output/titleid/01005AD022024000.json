@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4ee502bd3ea3c7969dd756ea3e8a6cfcebeef1d4408561275098aaa390e6f13.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "A simple puzzle, brightened by mushrooms!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

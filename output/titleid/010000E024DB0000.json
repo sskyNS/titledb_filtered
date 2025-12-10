@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2504dd606088a02bfbe8db2ce83d6cc7f9fa673c8b17a24e93b06270d6565591.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "Follow the melodies of the wind through a magical world where seasons merge and secrets float in this visual novel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "626 MiB"
 }

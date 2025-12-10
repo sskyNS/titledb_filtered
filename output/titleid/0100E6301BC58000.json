@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d9e8ea4897f7c34c8279e5817d4db49bd71134f73795944160e470bd9e0efec.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Unleash your football skills like never before and show other countries who's the best team in the world! Lace up your boots and prepare for an unparalleled soccer experience!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

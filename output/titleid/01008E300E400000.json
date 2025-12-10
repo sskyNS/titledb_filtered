@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/85978cfd6e51a5dac85e3ec7b65d1758bd4dd37b6495271f76eb131f53d97f46.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Relax, clear your mind and find the way out. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

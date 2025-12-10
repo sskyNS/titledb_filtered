@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b360b90c67c0faa8acf0ac0994f3f5c985335da240f23155b3863c96e86ff32.jpg"
 	],
 	"releaseDate": 20240202,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Flap your wings, create chaos, and explore grand open world theft bird gangster.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

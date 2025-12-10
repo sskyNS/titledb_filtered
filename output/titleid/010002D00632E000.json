@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/38b9dbddf6fbfcf39da969e19219d9179ca14ad0d94ec3d134f1d2611b9682b9.jpg"
 	],
 	"releaseDate": 20180529,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Meet Yoku, the pint-sized postman protagonist of Yoku's Island Express! \n\nUse a unique blend of pinball mechanics, platforming and open world exploration to unlock the secrets of  Mokumana Island, help the locals, awaken ancient deities and much more in this amazing new tropical adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

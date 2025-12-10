@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/282a2e3bab5b9b2ab8a9bca0654b72116da48c703197d950cfb70b93570fdd42.jpg"
 	],
 	"releaseDate": 20201028,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A comedy cosmic horror adventure made in Transylvania!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.00 GiB"
 }

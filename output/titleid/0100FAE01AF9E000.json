@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/de6554cff9ff56b161d3c2c712e0c43ae26ef6b5dae2507c73591cf46769bd79.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Sample tuna sashimi in 3 screen glory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "103 MiB"
 }

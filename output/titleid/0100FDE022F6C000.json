@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f07fb25ccdf89560106adb17990aca1e85866bd5c0385d24b7518d4f370adf3.jpg"
 	],
 	"releaseDate": 20251213,
+	"category": [
+		"Action",
+		"Platformer",
+		"Fighting",
+		"Other"
+	],
+	"intro": "A lone samurai facing battles of life and death.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

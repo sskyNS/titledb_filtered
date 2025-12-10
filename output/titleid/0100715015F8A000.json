@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/aef14ec10af84deaa362794d10abc53aa9ab198a8c4155ec84abe95f6d9ec3c1.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take control of your own upgradeable robotic shark. Slice, dice, and rampage your way across multiple high-intensity stages and try for the highest scores possible.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

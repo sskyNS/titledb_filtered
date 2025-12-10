@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd083c93f4c82d8b182ac3b8cf4d61f1e070e50386e4c3c4b3c51a53994d7d9d.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "Be the first to reach the top of the highest mountain in the world and meet eccentric characters along the way! Discover endless amounts of climbing routes, alone or in co-op mode.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

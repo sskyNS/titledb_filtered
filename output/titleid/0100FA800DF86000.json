@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/533b8fb43c0be2ff986fefa80407e184c3376244aad63f8967e98df4ea317a90.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Hamster. Kung Fu. Beat'em Up.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

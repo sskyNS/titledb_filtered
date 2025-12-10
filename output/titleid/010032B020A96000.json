@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fe7a3d1b11ad352253d9a466716ec3f5749f5c8675294b4d3680f86d9a800a0.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Face seven deadly psychopaths, each guarding a terrifying floor. Solve puzzles, avoid traps, and exploit their weaknesses to escape the nightmare.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.44 GiB"
 }

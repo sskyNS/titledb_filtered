@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/05a5f1b14219a5e38f3180331abb3e47853941610e89287eef9e8bf65db2bd01.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "EQI is a trippy first-person arcade game with spatial puzzles, and a synthwave soul.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

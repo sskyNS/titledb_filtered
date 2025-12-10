@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8913eb74a148ac39180b9566f02eebc5e8e32df652874e37942b88b72357d28e.jpg"
 	],
 	"releaseDate": 20180227,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Hell is an experiment you can't survive in Outlast and the DLC Whistleblower. Explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.76 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e874bfb830036c73c5a183887cda175c2152df44841a33197900e8cb45d36a09.jpg"
 	],
 	"releaseDate": 20220603,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Simulation"
+	],
+	"intro": "Mr. Prepper is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

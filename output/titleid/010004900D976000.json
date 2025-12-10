@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/db799c38fe4b0ab377daecc7a7eebd02b75dfebdfd0d9b03241068851b93f175.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Contraptions is a physics based puzzle game with a fun cartoony look and feel to it.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "250 MiB"
 }

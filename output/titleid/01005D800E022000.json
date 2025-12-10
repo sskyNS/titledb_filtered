@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/955e5e1e5221c227b87882890892209ade421409ace714af34b3bb6a552a3d14.jpg"
 	],
 	"releaseDate": 20191129,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "A narrative-adventure game about traveling, sharing stories, and surviving manifest destiny.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

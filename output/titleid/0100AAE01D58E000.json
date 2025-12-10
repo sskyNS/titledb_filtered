@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/779297e3a26b5378a78ec0bf9f28613ab5a47831542b5f9882b1f97e1ad6a09a.jpg"
 	],
 	"releaseDate": 20240717,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "\"Those Games\" are back! Play through familiar minigames to your heart's content! Take on five different minigames with a total of 250 stages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "836 MiB"
 }

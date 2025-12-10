@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/96212d06a18bceef9dd00e920f6c8a370e522e22b6ddd7663ec9251fdb0409f4.jpg"
 	],
 	"releaseDate": 20200110,
+	"category": [
+		"RPG",
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Adventure-RPG Platformer in a primal world. Choose your class, hunt the aggressive fauna, learn new abilities and fight the enemy army. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "119 MiB"
 }

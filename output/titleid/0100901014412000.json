@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/154cc448d22d497bd29735f8b21e405bfff065420382c318e1c79c80d7f9275a.jpg"
 	],
 	"releaseDate": 20210324,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Action- platformer filled to the brim with blood, mayhem, and demons straight from hell!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "838 MiB"
 }

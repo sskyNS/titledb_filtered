@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/387a4e9b5c577943bb6a4be45c687847a335e7ec18ded1e0f352cd25fdfe1eaf.jpg"
 	],
 	"releaseDate": 20180206,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Craft your arsenal to avenge your fallen comrades and save the world from the fearsome forces of CLAW!",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "290 MiB"
 }

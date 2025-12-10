@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c16939a545cb562fb4567033a44a7bc4d58ca67e21c097d340c2270893c86d.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "A fast turn-based strategy RPG with real-time combat.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 7,
 	"size": "487 MiB"
 }

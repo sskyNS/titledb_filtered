@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/92223eb7e518bcf59155e6f85d3ded564a01e3f6091dd86a528a841fd3fba57b.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Play as the bounty target Ares, battle various enemies, overcome numerous traps, and escape from the underground labyrinth!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

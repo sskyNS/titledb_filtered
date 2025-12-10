@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fef1db901b080b8cdd03f1dbab15c0a5533a63aa3f1310eab5164dbe939baedb.jpg"
 	],
 	"releaseDate": 20231224,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Training",
+		"Arcade"
+	],
+	"intro": "Start your journey of nurturing and attending to your virtual companions. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

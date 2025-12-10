@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e163966a6edeffb330830b2e9b97d3b90885e6a48c0ae4eb2d9eea855684f925.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Explore a haunted mansion, uncover a killer\u2019s madness, and enter surreal paintings in this chilling horror adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.30 GiB"
 }

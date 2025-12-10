@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/df90e556abe2cd66de5e61713ded8bcd56eed84620650d325fb6b54ef300e5c5.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Classic Jump\u00b4n Run (Platformer)! Collect coins, jewels and special items.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

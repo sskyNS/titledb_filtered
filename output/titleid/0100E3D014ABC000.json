@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/010dcc424824c587023a688f1967c6d744b92c2dc0bb645ad9113e87ea679f35.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Moorhuhn Jump and Run 'Traps and Treasures'  brings 21 challenging levels + 6 bonus levels full of dangerous traps, devious enemies and hidden treasures \u2026",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "491 MiB"
 }

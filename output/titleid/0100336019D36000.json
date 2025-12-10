@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc99f50206062a07064a02a284cade09c7775dbcdad94c1195f313e4d6236a4b.jpg"
 	],
 	"releaseDate": 20230616,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Rush straight into the action. Embrace the fast-paced bullet hell, hidden within the Cave of Past Sorrows. Watch your past, present, and future collide in a surreal spectacle.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

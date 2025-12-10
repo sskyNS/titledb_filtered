@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f98245571b7412b15af181eeba561aa41c7dde4786d5e7c991c7c1eb2e3950c4.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Save your good friend Hiroshi! Your enemy: the mob. In this battle your life is on the line!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

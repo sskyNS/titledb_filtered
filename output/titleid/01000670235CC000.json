@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83cdb63f6c818d16495c9806e23de9f10c3aa9c8107b6f1320436ccc3963dff3.jpg"
 	],
 	"releaseDate": 20250801,
+	"category": [
+		"Fighting",
+		"Shooter",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Airborne chaos at your fingertips.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.90 GiB"
 }

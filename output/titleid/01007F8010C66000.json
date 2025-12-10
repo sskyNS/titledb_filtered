@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/25b43e5a92f9f250c8828264f2a3b77033935df83d9d49a475b2efc3a16762ad.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Get items to transform your fighter ship into different 3 types of ship!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "107 MiB"
 }

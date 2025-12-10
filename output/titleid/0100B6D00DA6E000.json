@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a97b15fdeb3c35f8a536b5819fb2a90cfdc372c6956b5bd07b7388947eb6a46.jpg"
 	],
 	"releaseDate": 20190422,
+	"category": [
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "Ding Dong XL is a neon-infused one button arcade game. It is an addictive 'just-one-more-round' score attack that will test your reflexes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7b8b2a18a1f5ff75554e6a4963f5a6870239dba2a022a53feec52fe66d6bc13.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "This planet is yours now!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

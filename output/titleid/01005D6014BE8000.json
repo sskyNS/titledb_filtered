@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e3d38b4d9eddf0a73f8c507723d9aaf3ff72394eaa089540d8963ac5ba74049.jpg"
 	],
 	"releaseDate": 20211215,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Every second matters in Timelie, a stealth puzzle adventure, where you control time like a media player. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

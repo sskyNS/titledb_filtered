@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c630f2e5fb54af63eda865f202b1d63bce2f1def9d61c8d311fc80595f44453d.jpg"
 	],
 	"releaseDate": 20210317,
+	"category": [
+		"Fighting",
+		"Action",
+		"Sports"
+	],
+	"intro": "The dream collection is finally here!\nRelive the 10 classic games that defined the NEOGEO POCKET COLOR!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.01 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/761058ca07bd16da70a027e27fc80b2b0109d9c133e0b3178da165101e46c91d.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Push the ice cube in the water tiles to pass the levels!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ccc55d6e8369753050304a682b5a152abee8171e744c02b1fa6a1d3b1ced8ed.jpg"
 	],
 	"releaseDate": 20211215,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "RECORD and RESTORE are the keys!\nUse your puzzle brain and action brain to complete the the puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0447699980e8f6aa877e543dbd9c383ef5fc1f6ac07aa3bb4c36363a6f2bfa2.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "The monsters are back with a vengeance! An earthshaking monster battle!! Who will rule the world!?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "179 MiB"
 }

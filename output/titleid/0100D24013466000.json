@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/53d27f10ee4be0a363d8d848279fa2a67bd4ac97907424e4cb4ce5da41f939c7.jpg"
 	],
 	"releaseDate": 20201119,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore strange landscapes and solve mind-bending cube puzzles to unlock mysteries of a dream-like world!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.62 GiB"
 }

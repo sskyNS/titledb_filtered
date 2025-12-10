@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1d941cbebd355ecf7e766bb875f55d4562453182d928d9b5f3df10d64ac85cb.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "It's a lovely day in the village, and you are a horrible goose.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.14 GiB"
 }

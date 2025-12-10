@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a7badad418536f0631ed1c40db07648fb9605336a71bdbc2e2340a40864597c.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Travel aboard Starship Mario, and team up with Yoshi, to save the galaxy",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.85 GiB"
 }

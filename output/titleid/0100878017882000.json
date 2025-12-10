@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd976633803e83bad4b72a6caa85a0b9f50c69ebbee264faa180e57b0be0e2f6.jpg"
 	],
 	"releaseDate": 20220222,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Your memory has faded away. All that remains, is the horrid state Blandville is currently in. Dark. Cold. Abandoned.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

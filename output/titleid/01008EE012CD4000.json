@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7db84b9762a319b88531311508b84499c8b1bb16ec826ee36765b39718c6db5d.jpg"
 	],
 	"releaseDate": 20201030,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Welcome to the World of Arkanys!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.48 GiB"
 }

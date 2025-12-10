@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba94e29bb0b434cdb336b55e7c5bde3dd28e11b94816d49294ba8247311fe32a.jpg"
 	],
 	"releaseDate": 20220201,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Nonlinear Dungeon Crawler Metroidvania full of puzzles & challenges. Inspired by good old classics games with Retro Pixel Art Aesthetics.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "778 MiB"
 }

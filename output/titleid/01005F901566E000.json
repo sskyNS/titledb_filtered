@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/de058dfb207786af60bda8a6351b1d089056d5367ddb0e15c38f2753f98cfc81.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Enter a match, defeat your opponent and claim your trophies! Climb the divisions, collect powerups and dominate the field.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "669 MiB"
 }

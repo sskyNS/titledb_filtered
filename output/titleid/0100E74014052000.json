@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b30e932af46f76f12dff6706c7908347c43f67ac3653e33805db93221608836.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Create your own gym, train boxers, and aim for the championship!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "288 MiB"
 }

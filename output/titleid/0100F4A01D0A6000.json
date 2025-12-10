@@ -4,5 +4,17 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20240308,
+	"category": [
+		"RPG",
+		"\uc2dc\ubbac\ub808\uc774\uc158",
+		"\uc804\ub7b5"
+	],
+	"intro": "\uc6b4\uba85\uc5d0 \uc800\ud56d\ud558\ub294, \uc720\ub300\uc640 \uc0ac\ub791\uc758 \ud658\uc0c1 \uc804\uae30",
+	"languages": [
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.02 GiB"
 }

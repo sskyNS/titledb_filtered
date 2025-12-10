@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cb9053c634be6a66b249f8693e2f59854f952a34eac1b89234f76154fd9c6cc.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Infiltrate, rule and rescue the mind of the father of Psychoanalysis: Sigmund Freud, in this surreal and obscure adventure.",
+	"languages": [
+		"en",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

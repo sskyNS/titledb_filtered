@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c5879ff080dfd7e5e48bd857b1d9134000aba5fc2e7a0c3de7126783d01ff24.jpg"
 	],
 	"releaseDate": 20251112,
+	"category": [
+		"Education",
+		"Study",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Colour delicious foods with your crayons!\nCreate sweet desserts and dishes by hand.\nMake your own food art with rich, real crayon textures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

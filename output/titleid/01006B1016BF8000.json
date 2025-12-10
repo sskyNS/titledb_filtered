@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/084788fe0181e46e270ced424bf5865d5c46d116cfb2d2bf98cd1a8fe8b24ed1.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Other"
+	],
+	"intro": "Welcome to Mars Base, humanity\u2019s foothold on the Red Planet! Join the expedition as an interstellar botanist and make history.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "157 MiB"
 }

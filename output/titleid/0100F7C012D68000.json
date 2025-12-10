@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/baf759d146a62a7978a1a1eb171b648bcf1e4bd0873b06072f80d06691603649.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover the secret of the magic crystals in this epic 2d platformer! Travel through colourful worlds packed with unique enemies, wacky weapons and challenging bosses!",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "211 MiB"
 }

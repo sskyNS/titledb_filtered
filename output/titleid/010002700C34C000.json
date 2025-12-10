@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/100b6210b5a3209ad3617eee1e88b4ee948e72edefed6e0639ddfa25a2d4912c.jpg"
 	],
 	"releaseDate": 20181031,
+	"category": [
+		"Action",
+		"Education",
+		"Training",
+		"Shooter"
+	],
+	"intro": "Fly your spaceships!\nRescue your dog!\nTrain maths while playing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

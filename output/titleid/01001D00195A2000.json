@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/64f80416c9215fcb5ad22632376f1595768bd699b56be584410c2e9ba8d0b4ca.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Tasty Slot Machine is a single player quick-play game that is fun for all the family - keeping Vegas-style slots in a fun and safe way for all.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

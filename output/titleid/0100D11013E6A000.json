@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/239d027c06e3258cedb24728891b14fcc098d9f5e0f71bc64d1396e1aad0dea1.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Hard-core vertical scrolling shoot 'em up game with fast-paced, exhilarating speed and sci-fi world reminiscent of the '80s.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "594 MiB"
 }

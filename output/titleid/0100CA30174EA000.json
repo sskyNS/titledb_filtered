@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5ff1099a8d7411256c88a885053ecaebf543ad68d36317eec8151584d369ee4.jpg"
 	],
 	"releaseDate": 20220318,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Protect the caravan, fight bandits, get gold, rewards, and experience to survive another day.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

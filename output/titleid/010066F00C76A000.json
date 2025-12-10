@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bda09ca9ba1de880e2a89322efdb54637b0bf9eed9c4d341042f266c4da96df.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Adventure",
+		"Other",
+		"Simulation",
+		"Education"
+	],
+	"intro": "A touching story of a refugee's journey",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "855 MiB"
 }

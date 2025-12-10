@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1281a3a294e3ea5ed79d93d8c45d0106b708423727e7c5ffd16ea03b90d3a61e.jpg"
 	],
 	"releaseDate": 20230926,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A narrative-driven, social simulation adventure game that celebrates Japanese culture. Craft whimsical items, eat delicious snacks, and ultimately enjoy all the cats!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

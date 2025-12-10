@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1dbb3ca6b2932f80b448c88c9974e4f6f0b996b4e68625b0e988eb2372f23f4.jpg"
 	],
 	"releaseDate": 20180628,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Rally your friends and hold your ground!",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "465 MiB"
 }

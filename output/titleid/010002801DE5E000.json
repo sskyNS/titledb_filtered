@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f248251a79163a7fd192409f9603ea451f498a53b724298537933f2436b95d2e.jpg"
 	],
 	"releaseDate": 20240517,
+	"category": [
+		"Simulation",
+		"Practical",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Run the best sushi restaurant in the city, talk to customers and learn new recipes.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

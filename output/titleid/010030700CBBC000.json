@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/54f265abf597454c89ab67450c79278423b213813a0f0ef96a3e4d4ce0b40f28.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Action",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "The friends of Ringo Ishikawa is a unique and immersive existential open world beat \u2018em up - experience the story, meet new characters and explore the town.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

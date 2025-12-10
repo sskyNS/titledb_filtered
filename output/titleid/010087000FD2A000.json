@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ad3414143bac00cde1591325cfb7afbce31a53a8b1e54d22b274589f05e78f3.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Study",
+		"Other"
+	],
+	"intro": "Build your own spectacular, multi-story station for your favorite trains!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

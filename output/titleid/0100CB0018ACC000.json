@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d3b96196a045e644648e50cd7a0c829fdab496eed5abbdbcbab86f2cf160faf.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Training",
+		"Adventure"
+	],
+	"intro": "In the year 4044, after countless wars and confrontations, global changes, and upheavals,the earth is not in the most attractive form, and humanity is in decline.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

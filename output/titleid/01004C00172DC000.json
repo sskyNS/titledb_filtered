@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/85d3c019f3bc2d710ad4d48247857e5b28077ea038332ecdccbddc761765444c.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Play as Mari the ant and Bayu the firefly to solve puzzles, surf the wind on a feather or even ride a friendly grasshopper!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.85 GiB"
 }

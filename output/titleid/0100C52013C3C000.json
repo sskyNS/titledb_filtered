@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/486b91f6ae4dda6fbe1ab460d4402a6ef879fa054d056721c7687f4ba5d63d11.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Become the ultimate champion of freestyle-football in this amazing soccer ball trick simulator game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

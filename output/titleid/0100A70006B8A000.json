@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b649e1ae8f7dc1a4c46466097557af727c72f49094f6e70b852ded8120ee782.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Action",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "The Department of Sneakin' is the world's most elite stealth agency. Your mission: stop time-traveling master criminal Amadeus Guildenstern.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "519 MiB"
 }

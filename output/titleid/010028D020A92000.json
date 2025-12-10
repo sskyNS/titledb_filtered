@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/06efa570aa353523de22c79b6f40b0478c3e9345621fcf743d6efb19968b8a2e.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Racing",
+		"Action"
+	],
+	"intro": "Become the best pizza delivery guy in town!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

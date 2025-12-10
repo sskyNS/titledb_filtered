@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/36ccd001c5222357c8eb652bfacfaf318dfe907c4dde0cb3a507b6bd7c748c30.jpg"
 	],
 	"releaseDate": 20231004,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Dinosaurs have returned in this retro survival horror crisis.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.57 GiB"
 }

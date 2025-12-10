@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cdab3c6c6fb612f323b87b56c7e88973520b1eae7dd8406087aa0e577230dad.jpg"
 	],
 	"releaseDate": 20221202,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "THIS GAME USES CLOUD STREAMING. PLAYING THIS DEMO IS REQUIRED TO PURCHASE FULL ACCESS TO THE GAME.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "63 MiB"
 }

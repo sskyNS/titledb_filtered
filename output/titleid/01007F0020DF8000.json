@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/763f0eddd2e50b744733f911b96fcbef2ad13e85d609ea329b86c3f131ee0db9.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "This ruined Earth sees movement once more?! In the midst of waves of robots waking once more, the zombies' solo struggle begins in this action roguelike!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "362 MiB"
 }

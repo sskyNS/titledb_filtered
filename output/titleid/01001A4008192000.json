@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e548b7aa20a59e43644da7e1674a67d52b6d30fe5b68d38ae801d0b573977ee3.jpg"
 	],
 	"releaseDate": 20180315,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Are you ready for a fast-paced action-puzzle game?!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "432 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b827b08f32527da5ae9ffb4c0e648506aef040dd2b0561084d990f3489356c24.jpg"
 	],
 	"releaseDate": 20231018,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Roll, bounce and double-jump through tough-but-fair platforming stages in minimalistic retro style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "644 MiB"
 }

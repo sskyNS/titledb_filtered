@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a9131dc3f5734539892b0f9c47226f73e01a51aed9a1639da1ecbe8471efd63.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore the ever-changing dungeons in the surreal world made of clay. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "367 MiB"
 }

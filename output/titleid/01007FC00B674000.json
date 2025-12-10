@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4630a106e501bb89e24d3a792338031bd39fd510b1d91045e2f9af57109c81f.jpg"
 	],
 	"releaseDate": 20180907,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Join Knight Sigi as he runs, jumps, and battles in a flatulent quest to save Melusina, the love of his life !",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

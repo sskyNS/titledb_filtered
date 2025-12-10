@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4488f4f8d192fd5abf3a3287b1a472c985ed41108fa3286fd0edd68335c9f03.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Melodies, outfits and puzzles \u2013 the bright show begins!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "296 MiB"
 }

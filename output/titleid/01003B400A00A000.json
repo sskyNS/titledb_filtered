@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/44795d8b72d9451993139bdf01432d0dc9f5111abebe2c82686dc32574cc373f.jpg"
 	],
 	"releaseDate": 20180329,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The Adventures of Bertram Fiddle is a hilarious tongue-in-cheek adventure game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

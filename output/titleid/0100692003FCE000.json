@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8fc58d0b01710b8999d6b7ff8ff845da342da202115e5d259e8977d891dcee10.jpg"
 	],
 	"releaseDate": 20180511,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Hyperactive arcade shoot 'em up action",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "940 MiB"
 }

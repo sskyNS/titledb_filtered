@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/45b130b84295a6958553b8c8a91ab6afbb9b17692758f8774514eb9c88a68647.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "AN ADVENTURE ABOUT A CONSPIRACY AND A DEADLY VIRUS.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

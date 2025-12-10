@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef416002021dfc9c3a272078bc02a69b6146b2fc9373a213061ab711fdfc4901.jpg"
 	],
 	"releaseDate": 20200324,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Name your crew, name your ship, manage your supplies, trade, battle, survive, and make your delivery!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2578d455f9a9d0fd8c8790fcd47780e47c97040b8a829a19671e64bf848f6b1e.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Break through the frontlines by any means necessary!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "87 MiB"
 }

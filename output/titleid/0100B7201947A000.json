@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/658befeba49d820163ee2fa886d8b82c6420a3076abdbd26f9d4734f41e1a705.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Backgammon is the ancient board game known all over the world!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

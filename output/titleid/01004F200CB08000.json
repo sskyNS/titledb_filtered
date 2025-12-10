@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5f7c38d97faa1d23c5a29b63cf811c5dcacc004ffdb7dba648728effc7c65ac.jpg"
 	],
 	"releaseDate": 20181121,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Fun for everyone! It's time for the crazy kick-off!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "351 MiB"
 }

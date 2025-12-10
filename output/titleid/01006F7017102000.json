@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac6571f8604274a3b54e02469b2503ea4dc2869759aa6a9e564cad1ecef277dd.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Hop aboard the fantastical Frogcopter and join Geru as he goes on a journey to help a small forgotten town find its lost passion and energy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

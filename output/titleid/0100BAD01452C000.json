@@ -7,5 +7,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/99f3dc255c05abba0dc7d716fb861225f5be5e937d751277437793dc19f476f9.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Simple and very addictive block sliding puzzle game! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

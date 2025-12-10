@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d99a4492ce623a38b111c27c01d1ee7dbbd98257303fae4828c3fc5982bdc698.jpg"
 	],
 	"releaseDate": 20220112,
+	"category": [
+		"Platformer",
+		"Fighting",
+		"Action",
+		"RPG"
+	],
+	"intro": "Enter a dark and malicious world inspired by classic side-scrolling platformers and matured for those who grew up with them!",
+	"languages": [
+		"en",
+		"es",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.88 GiB"
 }

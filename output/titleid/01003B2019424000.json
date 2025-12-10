@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fa40eb53331ad6ecf3c2a5c3dc254408f2acfd14fa70d25a9ed5b03f63ea967.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Challenge your friends to this fun 2-player game and check who's the first one to get hot hands! Ready? Get set! Gooo!!! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "196 MiB"
 }

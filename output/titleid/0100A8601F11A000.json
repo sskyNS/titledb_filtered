@@ -6,5 +6,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c78a6125bf2a4011ba4563d553ddd565c963965161b7e924e12f9fba9ae3f798.jpg"
 	],
 	"releaseDate": 20260227,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "App includes:\n- A digital artbook featuring background art and illustrations from the making of Tales of Berseria Remastered.\n- A digital soundtrack where players can listen to in-game BGM tracks.\n\n*The Digital Art Book & Soundtrack is a separate application from the main game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/275fe5ef50a7e1d26197e46c981a6da16d5f48cb5c5d2cbbde2102438aed555b.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Action",
+		"Racing",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Ride and jump your way to glory on a motorcycle and a prayer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "152 MiB"
 }

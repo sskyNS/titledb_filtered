@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/44d885254cf061ed7997b8b857ef01ae1bea7cdc140ef8d3532aa70250316632.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Xtreme racing on dangerous hill tracks in powerful cars - overcome this difficult climb and become the king of the mountain!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/082c2a2e6b85c20ad60e743d698ff37b12817d2f31fa63a236ca7de32e27fd1c.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Stories Untold is a compilation tape of four experimental adventures, including a remaster of the original hit episode \u201cThe House Abandon\u201d.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.16 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef46b27ac435f7f0f6bebfcbcb9358b8d532116c087970bef01fd531c0915fa1.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Use your driving, jumping, and jousting skills to knock out rival breakfast foods in this wild party game for up to 4. Grab one of six characters and get ready to get Toasted!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "446 MiB"
 }

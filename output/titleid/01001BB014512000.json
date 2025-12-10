@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/89ee76cc4704c73e0292b60556faf3e6f0dbf2090b2868b735776d52932e03ce.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"First-Person Shooter"
+	],
+	"intro": "Become the mystical alchemist, choose your contracts wisely as they will shape the world around you, discover the long forgotten magical recipes, upgrade your lab.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "888 MiB"
 }

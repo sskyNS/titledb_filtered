@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe8a73e7517c5d58f3a5d208e3eb8d45ed51d8a426179d3bc43c65573f52be99.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "An exciting horror puzzle game in which the player needs to escape from an abandoned house from a maniac... This is a real escape simulator!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "567 MiB"
 }

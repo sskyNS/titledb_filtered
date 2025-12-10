@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/49a40f3995ed07a048d351dc28e06e58ba8a8cea6699e3b30bd28644a117afb0.jpg"
 	],
 	"releaseDate": 20211105,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Test your skills in this brain-melting platformer with an incredible pulse-pounding soundtrack.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

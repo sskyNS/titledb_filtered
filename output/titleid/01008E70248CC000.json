@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cc237db0f7ea885585be59f4b5b0f7e6d2b88a97d3ef7ececd956f4f5259eeb.jpg"
 	],
 	"releaseDate": 20250719,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Draw your bullet",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

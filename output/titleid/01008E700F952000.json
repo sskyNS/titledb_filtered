@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f289de7be16585da2abc8b00469be0d0d0dc8d1089c5f869c4b7c122cb0652b5.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Instant fun with friends & family! ",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.89 GiB"
 }

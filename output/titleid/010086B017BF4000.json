@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/02220912ea67f3d183a3fdc4abbc9e1a4d206d95e310e745cacc7da55989fe4d.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Knight's Try is a difficult 64 bit styled platforming game. Take on the role of an honorable Knight of Trye attempting to complete their sacred trial by leaping through a world full of perilous pitfalls and dangerous traps!\n\nA 3d platformer for the most persistent of players. Challenging and exciting even for experienced platformer fans.\n\n- Classic platforming action\n- Nostalgic 3D graphics\n- Adjustable difficulty level\n- Knights!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e42ff0e84a563878d98048b27f1524da195025fdcc4464ac08db75cf09df581.jpg"
 	],
 	"releaseDate": 20230602,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Immerse yourself in the captivating world inhabited by Yui, Shirayuki, and Etsuko. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "848 MiB"
 }

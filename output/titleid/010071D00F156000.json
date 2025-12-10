@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf3a57058c2bd815081aa676e51eed3c27d2b3b723f4069d475d2e1d847d49e7.jpg"
 	],
 	"releaseDate": 20200715,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Communication"
+	],
+	"intro": "Death is just part of the adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.59 GiB"
 }

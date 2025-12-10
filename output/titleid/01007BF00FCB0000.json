@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d77dae2a1f99591f7af85c3d2d4edcadd1de97866944b7eb4d347555ac869c90.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Practical"
+	],
+	"intro": "Take 2D platformer, add some souls-like difficulty, get rid of all useless stuff and turn lights off - that's Blindy. \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5853dea7219296ca3d33f8dac9fcc3d6d6c061735c4053f9472f6e23111696e4.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Explore a labyrinthine spacecraft and discover its mysteries and purpose.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "460 MiB"
 }

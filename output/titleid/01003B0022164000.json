@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae7744e53a0e5a00661111d544c02dedf135bf44d2d0cfbca4cf214eae539b75.jpg"
 	],
 	"releaseDate": 20250131,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "3D local multiplayer ping pong game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "270 MiB"
 }

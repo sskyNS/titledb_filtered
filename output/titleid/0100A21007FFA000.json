@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ecda1e23451d8ed8b645f4aaa3a33fcaeab39d5dcb39867533e63e0d9006d1a0.jpg"
 	],
 	"releaseDate": 20171228,
+	"category": [
+		"Action",
+		"Strategy",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "Prepare for boarding!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

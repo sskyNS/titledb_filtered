@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2993679da70896f70a6df5f063136fcacc38651cc4ae35fd974977ace5d56369.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Education",
+		"Lifestyle",
+		"Utility",
+		"Other"
+	],
+	"intro": "A daily challenge for puzzle lovers.\nCarefully curated quizzes inspired by Japanese logic and culture.\nFrom IQ tests to tricky riddles, it\u2019s time to train your brain.\nPerfect for all ages \u2014 sharpen your thinking and enjoy every \u201caha!\u201d moment.\nPlay solo or with friends and turn each quiz into a brain-boosting game.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/30381ae61c9801a099f7cef41d66effcaf762f02db5f0a98f863ddbdb765c421.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Dunk with or on your friends in Dunk Dunk, a multiplayer action basketball arcade party game full of chaotic fun.",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "697 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b90e7fcd736d5c52054688696377e37e3f2343a82d9da406bb8009b6b11aa047.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Platformer",
+		"Party"
+	],
+	"intro": "Bro Falls is an asymmetric massively multiplayer party game with chaotic elements, trap activations, and big Falls. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "924 MiB"
 }

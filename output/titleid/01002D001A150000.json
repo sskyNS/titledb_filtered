@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1b4830baf883b8dd96d56d8fe83665379778a55c30aa03b01be9c15e1b90a1c.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Hop into the lives of four adorable animals. Uzzuzzu My Pet lets you experience a wacky world of absurd scenarios. Relax and sink into the world they inhabit.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "935 MiB"
 }

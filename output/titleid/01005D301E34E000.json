@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/98da3c1e9af30aa309195a2031d040a62c0ccfa39e39b0bbeb1cdb4575f5a177.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Compete with your friends to see who is the best waiter ! 2 to 4 players locally.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "509 MiB"
 }

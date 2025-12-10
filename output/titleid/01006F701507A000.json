@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/281aa78e5fa11590e4b28d5007bc8eddff7add62be183812782375969b275670.jpg"
 	],
 	"releaseDate": 20210512,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "You are the test subject. In this dark environment escape room, you have to solve various puzzles to escape from the research center where you are trapped. Will you escape?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

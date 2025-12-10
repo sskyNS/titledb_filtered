@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/14191fd4599ce966500cfd7ef54dd403c25474131863cb21f84b4f1765b1b5c7.jpg"
 	],
 	"releaseDate": 20200708,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Outlive the apocalypse!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.53 GiB"
 }

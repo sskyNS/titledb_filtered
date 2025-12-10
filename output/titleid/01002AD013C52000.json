@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/92a9507b9cd471decd80b6fada5346edbb20ab554e3e2dea251b88827d739cfa.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Relicta is a first-person physics-based puzzle game where you need to creatively combine magnetism and gravity to unravel the secrets of Chandra Base. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.35 GiB"
 }

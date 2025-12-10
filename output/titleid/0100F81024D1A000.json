@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/580d4df68b5a8a42c6627aa7b62b8f63fe6e3337d6c7808b9018985bb9c3e469.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Put your driving skills to the test in the ultimate arcade driving game packed with wild challenges, chaotic tracks, and endless opportunities to show off your precision and control!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.18 GiB"
 }

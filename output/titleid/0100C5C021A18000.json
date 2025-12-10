@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4936d14cb2d70e281506b67f86d76a8b4f2cd9c29b99b0c62948ea1715c1f613.jpg"
 	],
 	"releaseDate": 20241220,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Other",
+		"Adventure"
+	],
+	"intro": "Welcome to Ghoulie\u2019s Garden, where Halloween magic awaits!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

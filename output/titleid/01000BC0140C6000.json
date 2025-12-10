@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3be704d808670836ecbc459c791f3a7800d10d1a560323c9738388cf360258fe.jpg"
 	],
 	"releaseDate": 20210602,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Find a way out or die trying repeatedly in this challenging 2D platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "170 MiB"
 }

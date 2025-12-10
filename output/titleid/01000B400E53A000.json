@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc32dbd04d0257bd4889d430ac72702f92a8ae065807321bede42407b9fbc9c9.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Mable & The Wood is a Metroidvania where you can take the form of the bosses that you kill, changing how you're able to explore the interconnected world. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "633 MiB"
 }

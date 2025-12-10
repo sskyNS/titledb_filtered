@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6c4ea5eb884cf8ae6f69cf059243841c6be8ce03aa4b4fad56350551099ee98.jpg"
 	],
 	"releaseDate": 20180517,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Your Saga Begins Now",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.00 GiB"
 }

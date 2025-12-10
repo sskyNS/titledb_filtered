@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/16ecdbac6bd5110603aedc290854666dc3cb780d7585f16cb951b3b78b235ebe.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Easy to play, but not easy to complete!\nCan you get the NO KILL BONUS?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "154 MiB"
 }

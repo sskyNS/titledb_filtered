@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4a85dc93885d5af72451dc9094f38e697effd289dde8b326efb50ba8ccc1b41.jpg"
 	],
 	"releaseDate": 20221125,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "It's time for crazy Pool. Sit back and enjoy 50 unique tables.\nFancy multiplayer with your friends? We have it - up to 4 players on one console!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "366 MiB"
 }

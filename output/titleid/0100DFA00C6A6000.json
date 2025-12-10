@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd462875aca91192f8b7f25500104fc6a4412c83ec394a3bda63501d90c57f41.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Study",
+		"Practical"
+	],
+	"intro": "\"Help us squash some bugs!\" The BITROBO need help!\nSolve puzzles to defeat the bugs and save the BITROBO!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

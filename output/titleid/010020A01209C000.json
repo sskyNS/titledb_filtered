@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/db6571a328414bae2671b3a977ef2b3f3bd677fdba33a2d40dc7c0efb1e1d569.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "El Hijo is an exciting spaghetti-western stealth game, in which you guide a 6-year-old boy on his quest to find his mother.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.00 GiB"
 }

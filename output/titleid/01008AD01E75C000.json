@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/03bdb4891f17af7c739b213641c7f23d02b5e688dbeab34e57f3b7ae9b6aa6d0.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Party"
+	],
+	"intro": "The Crystals of Atlantis is a story-based puzzle game, where players take on the role of an intrepid archaeologist working to solve the mystery of Atlantis.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

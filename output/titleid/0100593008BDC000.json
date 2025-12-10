@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fbbbbf7d78c318e9785fafe8bc31d3313558756a5b43bcf35baa9e5714e02eb.jpg"
 	],
 	"releaseDate": 20210319,
+	"category": [
+		"Racing",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "One player drives, the other one builds the road. At the same time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.79 GiB"
 }

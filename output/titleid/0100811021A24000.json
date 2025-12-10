@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfb4415b92624e8ffeb34410487feeb5c399e098a0f1ebdf4ff62970bdad68f9.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Interactive graphic novel that tells the exciting adventures of three adorable animal friends who participate in a daring race through the jungle.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

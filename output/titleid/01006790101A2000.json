@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b169692e4b6312cc65fbccf3f1f80996dc13b5c747a875b78b3b3f788716fb0.jpg"
 	],
 	"releaseDate": 20201204,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A small Norweigian town is overcome by a paranormal plot, only an expert quadriplegic professor of occultism and his faithful assistant can put a stop to this terror. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

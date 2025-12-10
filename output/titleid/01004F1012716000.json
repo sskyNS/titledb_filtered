@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e9f347c8db29fa60b779be6c29cb62fad446bbd7958507153358ab3761d5989.jpg"
 	],
 	"releaseDate": 20200829,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Collapsed is a roguelike platformer set in a post-apocalyptic world.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.09 GiB"
 }

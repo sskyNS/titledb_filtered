@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5488c7697ff8214604bd884bc791af4367cc90bba34e7f1eef928eb2b4b2b25.jpg"
 	],
 	"releaseDate": 20240715,
+	"category": [
+		"Action",
+		"Adventure",
+		"Education",
+		"Study"
+	],
+	"intro": "Join Carter in an epic pirate visual novel where he will meet brave friends and together they will embark on an exciting search for treasure and adventure like no other.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

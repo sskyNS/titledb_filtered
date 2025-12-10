@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/234e570cf09deb13fd68dafd3ce61752609e8c534a3d21600a3ea4014166a560.jpg"
 	],
 	"releaseDate": 20180510,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Recover parts left on Earth and destroy enemies\nwith formation attacks!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "94 MiB"
 }

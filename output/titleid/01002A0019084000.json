@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3493fcb02bcbc3f9fe9e07d9cd095735e7af083365d83fe2c0e8762f1dcc91ff.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Hand-craft your own islands \u2013 block by block!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "625 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3417d65184051a27b13bb0cbc30b4f2bae3aaf98c663e452280ade3fe3de671.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Slither through challenges, grow longer, and unlock exciting worlds!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

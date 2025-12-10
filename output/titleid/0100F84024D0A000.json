@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b23c941566cea1ce0f4a86bd18d0084e54d0dc64b3e9c1d1da6a2b8826b8d0f.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Let\u2019s get this meme flight started!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "922 MiB"
 }

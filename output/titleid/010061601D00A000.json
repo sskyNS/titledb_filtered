@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/28ef4514aee2ccf18cde5213d604b0dbb017287a1cfb28b3c38048829a305fbc.jpg"
 	],
 	"releaseDate": 20231009,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Training"
+	],
+	"intro": "Solve 45 beautiful princess jigsaws in a magical ice world",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "691 MiB"
 }

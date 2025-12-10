@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c9e649367eb5b1f30e8103a07e525c2003218dac68a3758d44208151f784907.jpg"
 	],
 	"releaseDate": 20251018,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Other",
+		"Strategy"
+	],
+	"intro": "Be flexible! Squeeze into tight spaces, scale steep walls, and make incredible jumps to overcome obstacles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/31485a10fde68044a40e8af160ae455028fcf05e385d7d61126bd8cf55d5f60b.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "The original brick breaker returns with its toughest challenge yet. Survive as long as you can in arcade or take on one of 50 challenges picking up game-changing power-ups along the way",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "438 MiB"
 }

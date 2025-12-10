@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b34e74f6610ca81c167f796250517e3ca5114b8f0c3f9bb201546f7200c3e10.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Defeat the demon king with a monster girl as a companion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "163 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c15f3ef2d6fa06799d6e86baba5f790dc576090a83c773f0605e0b152ca2eff.jpg"
 	],
 	"releaseDate": 20220902,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Build your way to the top in this lighthearted, team action brawler where anything can happen.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "3.49 GiB"
 }

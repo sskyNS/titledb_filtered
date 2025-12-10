@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f505a3ecaf38df50ee8e03d1eddb7627f2580ac4be3e28f1443884e9960eab08.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Unite, Fight, Liberate: Write Your Legend in the Battle for Freedom!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.31 GiB"
 }

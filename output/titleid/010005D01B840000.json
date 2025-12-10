@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/92cb1d48289755b75748e7a1fad5f5bcd576a9b1e472b2d9591b27af6cf52e01.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "More than 150 puzzles await you to be solved! Slide the pieces around the empty box until you form the target figure.\n\nThe figures to be formed are \"identicons\", which are pixel like figures formed from encoded words. Moving Blocks tests your ability to solve puzzles, you need to plan your moves to solve them in as less moves and as quickly as possible.\n\nPlay it during traffic (never while driving!), your commute, on your lunch break or in the bank lines and exercise your brain while having fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

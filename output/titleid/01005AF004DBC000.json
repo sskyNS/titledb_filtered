@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/42689e227e8adaf35b2eb28a713d27886cc2b1a76708d59237b59fa05d40822e.jpg"
 	],
 	"releaseDate": 20170831,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "\"ZED BLADE\" has been announced! \nDestroy the escaped giant fortress known as Yggdrasil!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "78 MiB"
 }

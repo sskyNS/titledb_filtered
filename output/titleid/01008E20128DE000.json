@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca0d8b01d0bda361f480ca14bb04ff064b65dee7060d1bd28cb7730e34d6bcb9.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Cheer! Cooperate! Construct!\nJolly, couch co-op party game with a pinch of construction building!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "996 MiB"
 }

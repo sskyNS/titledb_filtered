@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b47ee538a8074349be6ee769454074fabb38a5ba1a4a9a2eeebc15ae7be8716.jpg"
 	],
 	"releaseDate": 20250102,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Enjoy in your pixel magic!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "171 MiB"
 }

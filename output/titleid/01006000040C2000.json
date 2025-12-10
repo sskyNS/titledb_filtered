@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed06a0cf6319158906704d60be28b94bb4a9bdeeb8bc89679ab0bb72d0dcc570.jpg"
 	],
 	"releaseDate": 20190329,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Get crafty with Yoshi in a handicraft world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.61 GiB"
 }

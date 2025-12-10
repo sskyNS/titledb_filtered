@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6c5da346ada20f4a90ce327d2b6e50c60b479ba608e35cf45825b44fcf2db35.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Arrange the town islands and see them come to life. Just swap the blocks of a 3D jigsaw puzzle.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "586 MiB"
 }

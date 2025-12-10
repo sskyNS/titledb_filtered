@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/413abd6a5dcf258653936bf748deba613f4fd759217c499c9fa7025ad9a98c7e.jpg"
 	],
 	"releaseDate": 20241021,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Action\nAdventure\nPuzzle",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

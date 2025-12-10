@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f6b9a69bcc65c45eeba69099fa3589f03ff4ab4475fb6dbf75bdaeceb7418e3.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Escape from \u201cYomi\u201d \u2013 a dungeon filled with riches \u2013 and danger.\n\nYou have been recruited into the Undernauts \u2013 a team of brave subterranean adventurers who comb the depths of a massive, monster-infested labyrinth in search of priceless resources.\n\nMake use of your powerful skills and magic items to create exits and reach the surface alive.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

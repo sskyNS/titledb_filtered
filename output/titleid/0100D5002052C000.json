@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6dc75a59e5c347b1a3fce028a09f1991e8fba9d06fb5ee5d383d12cc022b9e9.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Macho Shot!\nRaise your Machos and grow them as big as possible!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "181 MiB"
 }

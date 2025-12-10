@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e274929beec73fd1d204a4390121c03427d57b48caa0a9e380ff880b519f4ad0.jpg"
 	],
 	"releaseDate": 20220701,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Almost My Floor is a point & click horror detective story.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.90 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ceccb3390ffef08288e970ef509982816d5764238189dbcc1ed32be88bee8cd6.jpg"
 	],
 	"releaseDate": 20210901,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Unleash your summoning powers to defeat the Cyclops Lord in retro 8-bit style!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "235 MiB"
 }

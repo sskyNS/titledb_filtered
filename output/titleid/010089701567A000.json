@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb9c4fa5098dde00019bbddd189513d9c7d6c6ef7c2aa3d994004d5d02b696dd.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "An exciting collaboration between Picross S and characters from hit games on the Sega Master System and Sega Genesis!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "333 MiB"
 }

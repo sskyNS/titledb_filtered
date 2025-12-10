@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/988bf640c30a7667d00025c78c2c06453fafaac0fe584d0ebdb6b20e22b34417.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "This marks an exciting comeback!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "52 MiB"
 }

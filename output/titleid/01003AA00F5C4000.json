@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6644dfd3acd65568625650ea39e8c40f470827cb768b094048bc60beda99fa4b.jpg"
 	],
 	"releaseDate": 20200120,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "New System Game, Sideways Puzzle!\nLet's release ghosts from Blocks!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "903 MiB"
 }

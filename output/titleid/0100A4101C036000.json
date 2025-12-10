@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cce2ccc62e0a390d2d6cee279aa6aeb26d53446024a6147b9efcd51e4b41495.jpg"
 	],
 	"releaseDate": 20240813,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Music"
+	],
+	"intro": "Awakened from his slumber, Beatbuddy journeys through lush hand-painted environments on a quest to save his companions and his own immortality",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

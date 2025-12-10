@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4395126c2286e33979ba79f22096323a7fa4a1dc124dce448d492fde8505f98a.jpg"
 	],
 	"releaseDate": 20170511,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Craft, create, and explore alone, or with up to four players in split-screen and up to eight online.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

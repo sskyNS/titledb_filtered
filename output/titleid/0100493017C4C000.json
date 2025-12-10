@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/be4ef4d1d95120016f9845367ae4986f8b9b043799bee441b9f8870a18619d91.jpg"
 	],
 	"releaseDate": 20220316,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "In a universe where the earth has merged with another world, the hunt for a bride from another world has begun?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

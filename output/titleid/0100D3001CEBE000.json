@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/05fb98bb7464b45690fb446b70e0fd42daabfa2c8cde6f348eecb72eae99fa72.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "The game you loved to hate is back ! Ikki Unite plants the seeds of rebellion. Enlist up to 16 friends in this Roguelite madness!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "597 MiB"
 }

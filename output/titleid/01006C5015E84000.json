@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/04e3e751108c4eff3e463a850830330223e0172da9c987f2f41ddadaadafcab4.jpg"
 	],
 	"releaseDate": 20211012,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Lifestyle",
+		"Party"
+	],
+	"intro": "A groundbreaking role playing game. Become a hero or an absolute disaster.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.81 GiB"
 }

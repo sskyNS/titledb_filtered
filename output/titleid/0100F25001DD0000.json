@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/830cc555818f3deb7859bee77b72c5b5df490580fdcb2fa9a0c372ab5cdd05ca.jpg"
 	],
 	"releaseDate": 20180118,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Twin brothers fight their way into armed gang territories to save the damsel in distress!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

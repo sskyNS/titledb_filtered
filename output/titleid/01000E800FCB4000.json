@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab020bd0cd5a7ce0f396d03f7f6b3c234fafe24db3e325b5668ba37fdaceaa46.jpg"
 	],
 	"releaseDate": 20191105,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Strategy"
+	],
+	"intro": "Take control of 3 special-purpose ships and perform interesting missions in the dangerous waters of the Baltic Sea.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.78 GiB"
 }

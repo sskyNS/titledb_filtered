@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/eddbc1fff0aff8d27c3da0e7ee6b971ff07d3ac4a54b49694bf58da575c5b81f.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Video"
+	],
+	"intro": "This simulation game lets you operate a train directly, based on footage of actual trains in motion! Simply operate the up/down accelerator and brake levers to experience the beautiful scenery",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.14 GiB"
 }

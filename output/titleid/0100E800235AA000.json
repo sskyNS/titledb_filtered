@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3febd534bea6428192482d6ff05a40a40aa2292dd2115ba1727a2c49031c010c.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Search for the legendary sword \u201cDragon Slayer\u201d and defeat the dragon! Now with enhanced graphics and BGM compared to the original version.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

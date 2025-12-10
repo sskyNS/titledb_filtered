@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9010f02d8ddec1b52de620a01a788a348e1d707461ff94017b915e961a09b528.jpg"
 	],
 	"releaseDate": 20200424,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "Trials of Mana is the 3D remake of the hit classic RPG released in 1995 as Seiken Densetsu 3.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.66 GiB"
 }

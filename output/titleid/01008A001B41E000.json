@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/41e972ccce2331193290595ffd662f8ed08c50491ae86b581fb200f327f9b672.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Put those nasty mice to rest!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "95 MiB"
 }

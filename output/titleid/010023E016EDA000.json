@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/59513ef090a4e52329ddd707cd0e1daa20f04f2514199ccc8d6d7688e2792e8b.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Be a cowboy and liberate your hometown from mutant vegetables!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "39 MiB"
 }

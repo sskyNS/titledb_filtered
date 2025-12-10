@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbb252210a56367a47641d1576ad503e82b4f9892bc855e415a6021e202574cf.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Chess is ideal for everyone. It contains 10 different levels of difficulty, over 400 challenges and a diverse set of boards and pawns to make the game even more enjoyable.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "242 MiB"
 }

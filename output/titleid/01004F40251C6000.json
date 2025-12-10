@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8681be430318fe8ee0d94b09bd670f8f0fb950731918c174fedb809953de5336.jpg"
 	],
 	"releaseDate": 20250922,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Climb higher than ever before.\nOne wrong move and it\u2019s all over.\nEvery jump counts.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "483 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/71e4e59200fce5385ea716d833da6f9e8bef4717e87263e843d12b2e6a19c8c1.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Exhilarating! Fly through immersive battlefields!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "72 MiB"
 }

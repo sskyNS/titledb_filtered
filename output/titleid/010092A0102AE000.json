@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbd7f1cc87d96102d89328d2e95a668c404f2e15a22bfe0a9b5d56fb730b03d9.jpg"
 	],
 	"releaseDate": 20200117,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Spider Solitaire is one of the most famous solitaire card games. Now on Nintendo Switch\u2122.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

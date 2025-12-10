@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ad9cec6e33eabf842efcb615306fe3ce8ecd03876f1da20026ebe5d8470e3c2.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"RPG",
+		"Action",
+		"Sports"
+	],
+	"intro": "Online tournaments for this all-new game of hyperdimensional football are poised to set the world ablaze!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.46 GiB"
 }

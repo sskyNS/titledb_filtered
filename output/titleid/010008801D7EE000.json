@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/308ad1d43376b7dee853b68bcc61f1e954bfa4c6db3a7a50a1c714ff305f11f2.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Take on the role of a secret agent specializing in anti-terrorism operations in an exciting first person shooter!",
+	"languages": [
+		"en",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

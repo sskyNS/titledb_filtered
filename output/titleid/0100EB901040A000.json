@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ad99e817d9b91054cccd20ff786757b16848f6b2f1a3d17444936cc7bf5cdcd.jpg"
 	],
 	"releaseDate": 20200528,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The Half-Genie hero returns in her biggest, wettest, wildest adventure yet! Hair-whip, dance, and explore a mysterious land to stop the Seven Sirens!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

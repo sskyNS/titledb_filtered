@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e54352528cf384d0eed03fd56517e28604f382617d99e4e94cb2c4cf7973ede8.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Sci-fi action puzzle game.An atmospheric and futuristic world presented by concise art style.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.49 GiB"
 }

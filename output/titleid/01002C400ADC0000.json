@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/52f4b1c51bba01719b284a1e671fe92c0c174f1db3b9bc3fe4a71a36db51e00a.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Other"
+	],
+	"intro": "A roguelike game with RPG elements.\n",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.35 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/47ed28ee80c75d9ff8c301ddc46864616b6489ba145f2d90be102b5d491ffae9.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Other"
+	],
+	"intro": "Detective visual novel in anime style, telling about the secrets of the city of Kuznetsk.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "938 MiB"
 }

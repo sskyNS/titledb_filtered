@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fa71d4d08628adab9605cf41742ce03d4253f2eb7bc7ead10d15f93afb5c6d8.jpg"
 	],
 	"releaseDate": 20240315,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Team up with the Power Heroes and rebuild PJ Power HQ. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/10a4e30d7e1094119f73f892b43d6aea702252e81ca2ebcc07b7fe4ef792a190.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Ready to start anew? Build a village from scratch. Learn to choose the right items, use real life-based constructions and craft techniques in this turn-based tycoon game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

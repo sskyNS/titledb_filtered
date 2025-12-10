@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/69949b70dbab1f59d8e3f5ab1c96c9337285381a74908f85703d4ad271cbf325.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Flippin Kaktus is a brutal, 2D action-platformer with retro-inspired graphics and an 80s vibe, featuring a spiky hero with a thorny past and a rage outbreak combat style.",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "975 MiB"
 }

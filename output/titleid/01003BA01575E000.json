@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d272a0ec941dd6f886e4d5f7f17ecd90c6ac353686625a76cd7c79b3e9fb364.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "The next generation of Nickelodeon Kart Racers is here!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.91 GiB"
 }

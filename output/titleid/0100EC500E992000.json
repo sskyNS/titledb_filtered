@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5965db228ca0c43742adb1d1ac7090c8e4f91910a2f72d7d66822f1e29f7e708.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "Draw a loop and paint cells black in this double-challenging original puzzle from Nikoli!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

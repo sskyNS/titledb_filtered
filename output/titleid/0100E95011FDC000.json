@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3adc896ffd7c116596ca6299af01e4203e59ae272943ed5208f61fd04b10b10f.jpg"
 	],
 	"releaseDate": 20200722,
+	"category": [
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Aircraft Evolution is an action game, where you have the task of destroying enemy bases by bombarding them with your aircraft.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "450 MiB"
 }

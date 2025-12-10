@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/77cc59d65fe8be7c05cf3eef277a36fb66044c9c751d9bf2a36f5260d35b945e.jpg"
 	],
 	"releaseDate": 20190926,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Northgard is a strategy game based on Norse mythology in which you control a clan of Vikings vying for the control of a mysterious newfound continent. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

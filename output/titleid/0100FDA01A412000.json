@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc4a2ef381ec169cb5e913c5be975ae37eca3936f5237c021204e33e8def2aae.jpg"
 	],
 	"releaseDate": 20250117,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Knight Flight is a physics-based adventure game set in medieval times. Fling your heroes across the screen to smash obstacles, defeat enemies and solve puzzles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "192 MiB"
 }

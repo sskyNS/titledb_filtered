@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9d2e0e81bf1ad1748782be4fcaf4f45b6589982f2df43f7892bdb5406f44261.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Vampires, Ghouls... and Veggies!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "759 MiB"
 }

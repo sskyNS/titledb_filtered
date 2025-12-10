@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c65f07442b33c2518ec6d0a5328e3c793083ea923e43a60698722f5790af104a.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "When you wake up, you find yourself in an empty spaceship.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

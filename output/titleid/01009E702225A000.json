@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e34713f701318ff5175379e9273daa0641de2d24af38d7b291f104c7857ff61c.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A surreal 3D platformer about childhood trauma, 80s-inspired horror, and broken memories.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.03 GiB"
 }

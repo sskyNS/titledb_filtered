@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/32da45a2eef49662a272dffc3b9e1c6bde7fd6325cd219cf2f819445660c52c0.jpg"
 	],
 	"releaseDate": 20190129,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "UNWORTHY is a hardcore combat-focused platformer without jumping. Play as a warrior, risen from the grave. Equipped with sword and shield, you must traverse a bleak and hostile world swarming with creatures of nightmare. Your patience, determination and skill will be put to the test, as you fight against epic bosses, uncover powerful weapons and abilities, and attempt to prove your worth.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "123 MiB"
 }

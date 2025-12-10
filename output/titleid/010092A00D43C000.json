@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/de2cfb3cd077f3a79b9a68bd96443f1b51d0269731c5c8512a337a630517e95d.jpg"
 	],
 	"releaseDate": 20191210,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "The Talos Principle is a first-person puzzle game in the tradition of philosophical science fiction. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.68 GiB"
 }

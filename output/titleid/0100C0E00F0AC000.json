@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec827f0a6bc483eadbdd149eb46e6a71c2abaeda8620773406f0ec34b9c41ae0.jpg"
 	],
 	"releaseDate": 20200219,
+	"category": [
+		"Action",
+		"Sports",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "More than you can handle: 18 titles!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "343 MiB"
 }

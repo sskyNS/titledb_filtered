@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e918a998f70f0c937964f7ae6cb8c2f4b88bbcb328da40317e406af241ea10c6.jpg"
 	],
 	"releaseDate": 20241028,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Schr\u00f6dinger\u2019s Cat is a fun, frantic, wacky and colourful puzzle-laden platform game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

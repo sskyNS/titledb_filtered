@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/882e2fb564a9aca744023004966bbaf1898b660efb5b66b7eb5ad7db126f874f.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "The world of KEMONO FRIENDS has come to Picross!\nSolve the puzzles to make cute Friends appear!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "143 MiB"
 }

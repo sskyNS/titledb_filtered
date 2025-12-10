@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b777f4c2753d894456ba456db5e9fa432043089fb60ca632b06db24ef75078bb.jpg"
 	],
 	"releaseDate": 20220801,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Save cats! Kill dragons! Kiss the Princess! Again!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/eba7fab361bcf98c894b240468449b37697aee87425f2e279f7a307dc4ca34a3.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Evil is rampant in Crime City.\nCrush out crime to bring back law and order!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "113 MiB"
 }

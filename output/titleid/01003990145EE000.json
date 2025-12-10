@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f81c9b9af351f0f9f7da7bcd8aabedbd1b8d77f5327001572fb94dcdd8518af.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A two dimensional Shoot'em Up based on the classic arcade shooters of the 1980's",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

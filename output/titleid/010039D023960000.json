@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f12e297cc9d5647354bf70389f02d21040868a639c361ee502e955fbbf87e29.jpg"
 	],
 	"releaseDate": 20250705,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Draw a line to enclose the area and uncover the image underneath. Watch out for enemies who can catch you or cut your line!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

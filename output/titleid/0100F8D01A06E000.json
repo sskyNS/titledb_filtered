@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd5355e03f257c658385e8c6fd3c6e138dc5e444cf89fb17cab31eeb919309b7.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Confront time and fate, explore meticulously crafted worlds, fight brutal boss battles, and upgrade your skills to take down enemies lurking around every corner.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

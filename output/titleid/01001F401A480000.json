@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4ad97fd1b6c299dca8e320d054fcd3eb9a993ecb3ae6b15074a721185fe9460.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Sports",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "On your marks for a roar-some sports party for one to four dinos. These eight chomp-sized games are enormous fun \u2013 but watch out for Giganto!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.45 GiB"
 }

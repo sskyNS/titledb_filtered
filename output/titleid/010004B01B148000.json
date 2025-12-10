@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2ba95e24052646927585c5a87f1045f39d71cf76f9a2f63e88a37b8c80cdb44.jpg"
 	],
 	"releaseDate": 20230408,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Get ready to become the ultimate ninja warrior!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

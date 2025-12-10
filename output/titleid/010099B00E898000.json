@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/964d77ec2899c1f5fd19b128001bec46429380189410f9549cc29cac434a04df.jpg"
 	],
 	"releaseDate": 20190912,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Sci-Fi morphing vehicle combat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

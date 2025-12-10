@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bf324feed088d7a5e896f884203611573af739ee84a41cb8bebf32f50466f29.jpg"
 	],
 	"releaseDate": 20190916,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Party",
+		"Other"
+	],
+	"intro": "Welcome to Free-To-play, challenging, physics-based demolition game with addictive gameplay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "95 MiB"
 }

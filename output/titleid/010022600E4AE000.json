@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a60544ba9bf71884b3d73540760978af13bcb24161dd5bea4ce3cf073b020703.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Every dark fairytale has its monster.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

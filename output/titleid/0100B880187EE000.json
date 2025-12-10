@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9efdea6038b5e363d05e2236a5268f8642426f1231c48ac9d4872df5f9b86da.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Open your flower store and create a beautiful garden landscape that everyone would love to visit!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "352 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dee10c2acf8b48de3f30ad2ecc90486334bc71d3480def212baafb8f5b08945b.jpg"
 	],
 	"releaseDate": 20220603,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "What better way to try out the newest, high performance cars than to take them for a drive on a race track?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

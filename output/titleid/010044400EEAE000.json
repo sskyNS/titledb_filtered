@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/16d6ff8ec39699e214b43b1709841b30edd854599840a824e5240060ae62def0.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Party",
+		"Board Game",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Ready for a great adventure? The Petoons need your help to face the evil Kitra!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.28 GiB"
 }

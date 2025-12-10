@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a66618b3cef74e1eafc330090d29aa3a598bd3030e40848e98624095f4778b94.jpg"
 	],
 	"releaseDate": 20210713,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "A jigsaw puzzle game that takes you on a relaxing visit to lively and magical environments with a peaceful and serene environments.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

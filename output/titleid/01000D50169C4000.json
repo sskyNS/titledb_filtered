@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/022997af029a3eb5b4112f3563186de0880a8e5bf7b76c0c290b22f1df96dbf8.jpg"
 	],
 	"releaseDate": 20211216,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Go, Shiranui! Defeat the cyborg ninja army!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "48 MiB"
 }

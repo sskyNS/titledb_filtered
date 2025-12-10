@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bb2bd2574044035e951fe0ef3809281d559fca9fdbefd18ff4d356141514601.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Build an empire in a single sitting. All the strategy of a classic 4X in a faster format.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "880 MiB"
 }

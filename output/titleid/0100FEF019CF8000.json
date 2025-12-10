@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a37b16ddf86cda13b969b2efeb90ba37f5e69a892f9b79a9efcba65e47a60b6d.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"RPG",
+		"Simulation"
+	],
+	"intro": "A large number of enemies and allies that cut through the battlefield and clash in real time! !",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "750 MiB"
 }

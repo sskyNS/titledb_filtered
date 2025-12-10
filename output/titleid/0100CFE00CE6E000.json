@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3226ecfe0e15eb92c8f655460f8879cd6cbf09415a3010a8393fbaa5546ee862.jpg"
 	],
 	"releaseDate": 20190320,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Can you reach the Nuclear Throne?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

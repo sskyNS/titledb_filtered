@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e538fdcd3b398f396f47efa3919bef484ce605c93b320ff64196305974066e7.jpg"
 	],
 	"releaseDate": 20241009,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Action",
+		"RPG"
+	],
+	"intro": "The Age of Sky Pirates Returns!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.39 GiB"
 }

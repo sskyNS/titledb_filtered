@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e276e89740419001740bb7b4a3da4b4e1bc8786e65782919a7d5bf823313eebb.jpg"
 	],
 	"releaseDate": 20201211,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Become a legend of air combat at the dawn of its existence, spreading fear in the airplane battle arenas of World War I",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c3bbcc46f9e3890041d59d2f127e1502dfa2b79b7a4e3b3eb1544d2aa99593f.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "This is a very orthodox shooter!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "48 MiB"
 }

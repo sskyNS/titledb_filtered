@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0d502679a889cd99114edc550ebe1bcb508e1854e2bd64595a20d87072b2c57.jpg"
 	],
 	"releaseDate": 20181120,
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Choose your racing style!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.81 GiB"
 }

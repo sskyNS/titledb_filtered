@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/990d5baf85dcb8769969d8b31d661c3e3b645b27e013f62b11155327bdd2a1ab.jpg"
 	],
 	"releaseDate": 20241220,
+	"category": [
+		"Fighting",
+		"Shooter",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Your Sky, Your Rules: Experience the Ultimate Aerial Combat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "880 MiB"
 }

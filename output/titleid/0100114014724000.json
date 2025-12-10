@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3e6d00b11858cda1dc20f389b2ec40336c34a26b26c439b3992708b5a8fd7c7.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A rip-roaring adventure into the unknown...",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.29 GiB"
 }

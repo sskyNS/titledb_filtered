@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8c2cd86c391cdc7ccb675bfba0cd7f616ab74af0526409259900d676a45514c.jpg"
 	],
 	"releaseDate": 20220114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Welcome to the AirRevo flying tournament!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

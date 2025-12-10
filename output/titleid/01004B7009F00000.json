@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8bb2a89899110304795f350c0a036b5585de1baf208d2abcf076ec33a79c382.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Race across a curious island in this \nfast-paced, light-hearted platformer",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

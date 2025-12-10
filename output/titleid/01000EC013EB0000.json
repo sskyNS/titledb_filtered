@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5babdd8e7fc3fc65ac9ccbc674dd8839b48d252bc323767fb8baace1f3dded0f.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"Strategy",
+		"Education",
+		"Simulation"
+	],
+	"intro": "Travel the universe creating settlements on uninhabited planets with the sole goal of setting worlds in motion through the power of automation.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

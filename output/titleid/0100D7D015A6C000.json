@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4759e1b022c9dd4cfde8f4d033f5299f7f5c9dd71c144f80d0ab639d9d05c5a4.jpg"
 	],
 	"releaseDate": 20210929,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Retrogames are ever-present for many people. We played those games a long time ago. Now, we have decided to give a tribute to one of those games.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

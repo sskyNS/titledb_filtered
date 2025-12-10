@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c5acb46104c971df8e840ae27a05ed9ac80cbe3acb375e2aea494ded24ee7c2.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Arcade"
+	],
+	"intro": "Witch Hunter is a 2D endless runner game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/db1f57d87d79f218b32c110a8f49841f998b8059bce5fdba7af0ac060668f258.jpg"
 	],
 	"releaseDate": 20210817,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Pile Up! Box by Box ticks all the right boxes as a family-friendly cooperative 3D platformer! Jump up, slide down, play together and carry the load!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.62 GiB"
 }

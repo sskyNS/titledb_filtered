@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dda3253d670b7dbc5658d786cd0c9690aae4596d330847752f27d1721104eb8c.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take back the mirror country! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "95 MiB"
 }

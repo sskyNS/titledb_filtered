@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d64f21d6a1b55e2d7710a9ebfcede19672aef73e83b4596c416a83b40675ff1.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Other"
+	],
+	"intro": "Coloring games and puzzles for kids!\nDiscover fun scenes and educational activities! A safe world that encourages logic and creativity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "581 MiB"
 }

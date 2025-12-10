@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c5e9fee25326f65d02ca6b6e6d4250bf469225b7b93b9d1471a12e4b5531e62.jpg"
 	],
 	"releaseDate": 20210421,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "You wake up in a spaceship with no memories. In this escape room with a sci-fi setting you will have to investigate your past solving different puzzles. Will you escape?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.59 GiB"
 }

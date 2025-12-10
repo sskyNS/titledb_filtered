@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/77589a588dd85867380139ffb208e55fa892e1aa48ce2d11c963cef42a8fc33c.jpg"
 	],
 	"releaseDate": 20201016,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Enter a labyrinth that moves as you move, where mastering the elements is key to defeating enemies and uncovering the mysteries of this underground world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

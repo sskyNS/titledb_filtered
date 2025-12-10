@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ad8792dc0de85571563db8de07b7b8d97fd1adb2028f54c827becca1007d479.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Welcome to the J\u00fcngle",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.87 GiB"
 }

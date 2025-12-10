@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cf959616316c2146a5e63e0d0b2b6bca883dafe47f925132ec92b242340438e.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Armed with a sword and a shield, jump and fight your way through beautiful and colorful levels.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

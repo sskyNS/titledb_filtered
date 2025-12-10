@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6d3c90336d8e1faf6d9c2d9d5f77e05f9c61d600d3270f33a69905195d1f307.jpg"
 	],
 	"releaseDate": 20240817,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Roll up and take the shot!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

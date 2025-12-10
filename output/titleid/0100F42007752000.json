@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/98775af06184b288850d2ccc49ada487d4e8f4356cff941314728f681ea86286.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Voices echo through the sky of Gensokyo,\nwhich will strengthen the girls for a Fired-up Spell Battle Action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.37 GiB"
 }

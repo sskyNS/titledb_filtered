@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/07df7086b8961ba36cae9c8fb2257f33ee3f904cf7416c2cd058c50300fbf192.jpg"
 	],
 	"releaseDate": 20250606,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "A journey through a magical garden, which needs help. An adventurous girl and her dog will seek to restore peace with the help of new friends.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "288 MiB"
 }

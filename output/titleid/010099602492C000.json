@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad8eda955c30f8aaf1c50070ceedc56a8c6cfecaa4514b22c5a8437f2043c990.jpg"
 	],
 	"releaseDate": 20251029,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Cauldron is an upgrade-heavy, minigame-centric, turn-based RPG.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "316 MiB"
 }

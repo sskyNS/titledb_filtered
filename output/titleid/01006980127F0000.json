@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/81036390d80900b95bb901e4268bc175e70bd082c7a595feb08b2c2c9220aa9c.jpg"
 	],
 	"releaseDate": 20200915,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Unleash Shell!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "858 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fba58a79095a557699b7ccbbf1b7d50f670cdbae7a33cf757e6f795ac4cc6a00.jpg"
 	],
 	"releaseDate": 20241022,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Queen Aurora has known many years of peace in her kingdom, but everything has to change when strange nightmares affect the inhabitants of the place.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

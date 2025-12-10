@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e01e8cc78aec71b416d9da164bc1583065edf4fb6cb0ca0ff968b60bb7a1a7c5.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Help Malu Reclaim Her Stolen Crown!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "359 MiB"
 }

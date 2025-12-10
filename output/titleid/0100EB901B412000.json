@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea0d46a22be4cfe933b8c540c6541e87affbe37844d30729742466533a5f0be9.jpg"
 	],
 	"releaseDate": 20231021,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Explore the reunion of a broken family from the perspective of the house cat.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "727 MiB"
 }

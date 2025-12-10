@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/338edb117ced3184eb000f0ad6b179a2873851639c7a810011d06fd1d80bf116.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "In the dusty, undeveloped wastelands of Western Mudos, cantankerous townsfolk find their settlements besieged by belligerent outlaws.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

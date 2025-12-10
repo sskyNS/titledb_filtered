@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d01ae9473154e4288a1ce3758fb00dc7066e4318d0373bd88eee1b7662e2db9.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "This is the third installment of the Beat 'em up series in which Ryuichi and his friends fight with the motorcycle gang in Yokohama!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "110 MiB"
 }

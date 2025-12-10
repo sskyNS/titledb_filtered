@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/872de1f4d19fffcd71456b10a830f31c96a51e1c213f4b711866efe977456458.jpg"
 	],
 	"releaseDate": 20230223,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Training"
+	],
+	"intro": "- Many levels!\n- Hundreds of mix betweens costumes, backgrounds and items!\n- Three stars system, giving the game replayability!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "173 MiB"
 }

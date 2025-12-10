@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/49796a5186ae2a2b3e6fe40a1150138b60b2536df7cf55a3edcdf6ba362bb39a.jpg"
 	],
 	"releaseDate": 20240313,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Enter the mind of Jeff Minter, maker of some of the weirdest games of all time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.01 GiB"
 }

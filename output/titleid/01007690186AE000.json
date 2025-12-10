@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/18a9e2b558e9dd6159891ee7e4ac7f058157deb20bc7c92960f3759f98fc4ed1.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Travel the underwater dangers of the reef in an air bubble. Test your reflexes as you avoid obstacles and carefully explore each stage, to grab items essential for clearing each level.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

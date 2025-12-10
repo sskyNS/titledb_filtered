@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b07817ac3e61fe04aca9e31ab09e046142bc4420e5c52ae4f5df40c88ee40f8.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other",
+		"Lifestyle"
+	],
+	"intro": "Follow Tommy on the adventure of a lifetime where he meets the legendary pirate Blackbeard!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

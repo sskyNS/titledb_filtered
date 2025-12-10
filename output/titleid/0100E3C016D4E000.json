@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe8877c215d5d1e08acf917eda1430acb6cc54e449ba3a2cd3b6f19193f12163.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "You only have one shot.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "471 MiB"
 }

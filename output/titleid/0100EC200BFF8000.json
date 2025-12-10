@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f84575a9882d242ecab2d75f78fd7df036fded7508858478fc02f75d45216dd.jpg"
 	],
 	"releaseDate": 20190522,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Gunlord X is a eurostyle platformer with emphasis on exploring huge worlds and blasting off enemies. Jump! Shoot! Explore!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

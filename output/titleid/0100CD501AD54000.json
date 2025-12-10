@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/db9514aff63eb531b90a9a7658d08f918bcd8c00bb56d0907e3059886311be87.jpg"
 	],
 	"releaseDate": 20231031,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Other"
+	],
+	"intro": "\"Everyone has the right to determine who they are.\"",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

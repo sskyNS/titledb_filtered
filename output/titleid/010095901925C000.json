@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b06923d1ef46f98e378513c3df3e67f413317b9462dd895d757ad0f5269c483.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "The Wild West was known for its gunslinger duels. Everyone feared the relentless cowboys. Until a new threat appeared... Zombies! Now the Wild West is really crazy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "773 MiB"
 }

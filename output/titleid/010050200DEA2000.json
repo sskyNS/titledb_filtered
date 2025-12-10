@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/508ee71053665bd2c5929ffa9e445255362e9b7da54caa9568744afd50d9dd5e.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Animal fun for the whole family!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.36 GiB"
 }

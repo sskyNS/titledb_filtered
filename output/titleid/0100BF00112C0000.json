@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0817e47009b52bdd821f0e0b850af24ccff66e68bac4bc5af6a8a019323c83e.jpg"
 	],
 	"releaseDate": 20200707,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Dark. Intense. Intoxicating.  ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "14.29 GiB"
 }

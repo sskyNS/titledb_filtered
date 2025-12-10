@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/482f532d6c6f8c8753e1827ddcab75a7bb5fc36599501e8e66e3b8144674b643.jpg"
 	],
 	"releaseDate": 20210122,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Help Joy in building her dream, a Cupcake Bakery.\nDiscover all-new ways to play this wacky puzzle game. Find your perfect match with different breathtaking game modes that meet all your sweet desires. Cascades of fun, journey through over 100 challenging Quest puzzles, charge into the electrifying non-stop action, and tailor your experience for a revolutionary new way to relax.\nEnjoy the amazing sights and sounds and engage in endless cupcake-matching fun, and earn your way in building to the cupcake factory as you soar to dazzling new heights!\n",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

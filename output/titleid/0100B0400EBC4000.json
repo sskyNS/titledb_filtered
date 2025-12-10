@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/994713e14c43fb51db4a03e9d29a947dcb6c7680a5f43287820e5428b2a5b7b1.jpg"
 	],
 	"releaseDate": 20210720,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Experience Past, Present, and Future simultaneously in this gorgeous, indie love letter to classic JRPGs.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.44 GiB"
 }

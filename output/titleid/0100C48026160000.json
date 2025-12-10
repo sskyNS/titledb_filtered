@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b4e0c8e1f8d1d8a1348d7a76c596a928b7c825171e998f87b87e3556a6b2644.jpg"
 	],
 	"releaseDate": 20260102,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "A quick, sci-fi adventure inspired by classic 16-bit and 8-bit retro platform games.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

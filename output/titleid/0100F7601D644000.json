@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b11cb117f3e392a1c9ef89ceebc8f8cba9f1e9a783a9666c6948299c40893402.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30d1\u30ba\u30eb",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0"
+	],
+	"intro": "MADiSON\u306f\u3001\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u5fc3\u3092\u304b\u304d\u4e71\u3059\u30b2\u30fc\u30e0\u30d7\u30ec\u30a4\u3068\u4eba\u3092\u5f15\u304d\u4ed8\u3051\u308b\u4e0d\u7a4f\u306a\u7269\u8a9e\u304c\u7279\u5fb4\u306e\u3001\u6ca1\u5165\u611f\u306e\u3042\u308b\u6050\u308d\u3057\u3044\u4e00\u4eba\u79f0\u8996\u70b9\u306e\u30b5\u30a4\u30b3\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u3067\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "747 MiB"
 }

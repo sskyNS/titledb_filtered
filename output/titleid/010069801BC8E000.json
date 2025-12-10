@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3015bbbf7d7c57ad9aee1c7944911214e9d528034bf0204398156033a88352d5.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Enjoy tank fights in a tale of fleeting memories and the lives of freedom fighters!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "157 MiB"
 }

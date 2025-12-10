@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/72097963df00dbefecddce22bc49b5f1b581c30dbfc2ab66ce24464a73789c9b.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Pixel art! Classic Roguelike! tile maps and turns! Infinite dungeon randomly generated! Interesting collection elements and multi-endings to grow villages & weapon!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "372 MiB"
 }

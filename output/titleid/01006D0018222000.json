@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/834fd9e3b5db38ca73efe9ebb0a598555b44a5b9a586e83d8fb8a64d615e6a7b.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "\"Become a mime!\", they said.\n\"Riding a unicycle is easy!\", they said.\nI don't like them.\"",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

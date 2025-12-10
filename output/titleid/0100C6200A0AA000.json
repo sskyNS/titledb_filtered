@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e45aa3879778bc2a5874ad8000a8e47bf0117d4b2f5c7edc4261ce39a644f06b.jpg"
 	],
 	"releaseDate": 20180525,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Reveal the secrets hidden in the mists!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

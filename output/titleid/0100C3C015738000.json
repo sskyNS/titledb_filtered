@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/92a3ff6780adfff6cca1ef40fc8ec9d745d1552b3807cbeb18d734d789e2e1b9.jpg"
 	],
 	"releaseDate": 20220621,
+	"category": [
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

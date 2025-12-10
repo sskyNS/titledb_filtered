@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ab2e6e03e8117b27b0265fee3a80ff4a9b444d7afba1490c5fdcd8d614e581f.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A dexterity challenge!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

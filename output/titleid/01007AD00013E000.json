@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf127021610ad24cd6ea34ad06ea15f3875f682f67f454b7c8a91b3673762ec0.jpg"
 	],
 	"releaseDate": 20170303,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Have a Blast with Super Bomberman R!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "3.84 GiB"
 }

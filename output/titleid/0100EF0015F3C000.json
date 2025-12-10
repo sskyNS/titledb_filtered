@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/76ffe516d6a84b046d95ce94d171e7d22bdbbddfe59e6a16b77e9d471209446c.jpg"
 	],
 	"releaseDate": 20210910,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Study",
+		"Practical"
+	],
+	"intro": "The round one must go into the square one. Easier said than done.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

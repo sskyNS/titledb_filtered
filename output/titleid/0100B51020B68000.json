@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0060c14f35e04b1af9c275c7e2b00ef08526dc5b5e4ec73a027fb85099c430b8.jpg"
 	],
 	"releaseDate": 20251212,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Experience the thrill of T2 with arcade action & pixel-perfect graphics!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "595 MiB"
 }

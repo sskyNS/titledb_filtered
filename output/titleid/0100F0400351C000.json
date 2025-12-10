@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/881f5de4402c422ede42e522c4b7921e4ab9480805d3bb522e6f731c7bb3f36e.jpg"
 	],
 	"releaseDate": 20170530,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Shoot your friends in space, then run them over!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "327 MiB"
 }

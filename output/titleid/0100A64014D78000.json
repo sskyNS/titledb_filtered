@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b369ccdb9438327eafcbb77e94cabc1027f4aacb2cc211efcbafd5724514c079.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Enter the town of death to save the dear daughter!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "518 MiB"
 }

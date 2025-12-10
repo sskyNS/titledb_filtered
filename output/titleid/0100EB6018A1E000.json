@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8745b5ae30aaf66d8b8c1f6bece2d9b64908309fcbc865200f9705ea44a6f5e2.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A prisoner bound by an ancient obligation begs you for help!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

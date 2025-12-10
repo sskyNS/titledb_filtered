@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f75009c03663c2f05b49c22955ca5f8c406345bb60f38d7e920b81bba2431721.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "This is an anomaly game. When you start you will be on level 0.  You will be presented with an area to study the layout of objects observe your surroundings and get familiar with it.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "361 MiB"
 }

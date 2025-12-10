@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb1b5d93ba8d0e8c676f32a07fccc0889e692117ca53fb6cdf2bc09dcb4c236c.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "GraviFire is a logic game that mixes the mechanics of movement and gravity.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

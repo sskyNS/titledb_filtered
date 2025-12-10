@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9712c8ef189be54d70f14b2199e64eee4c5b6e1d42f280d42d113a1718b871e6.jpg"
 	],
 	"releaseDate": 20240823,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Rediscover the golden era of arcade games, feel the adrenaline and joy of high-speed 80s racing!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "915 MiB"
 }

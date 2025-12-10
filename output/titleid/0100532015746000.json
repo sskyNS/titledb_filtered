@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/57463e0b97a4ca1eb702ca6c2299577849be19ec7919acca8e22906c51bc4f40.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Reveal what is causing the Scarlet Mist to once again spread in Gensokyo!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

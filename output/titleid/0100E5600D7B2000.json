@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4667b01082b04036821dfb928eb9f17d3a8afd1d318d48378ade465609600c77.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Warhammer 40,000: Space Wolf is a turn-based tactical strategy in which you have to take command of the Space Wolves and join the battle against the wicked servants of Chaos and the sinister Necrons.\n \n Game features:\n \n - An epic story campaign, a unique survival mode\n - A system for levelling and tuning the squad\n - Different classes of armour and a huge number of weapons\n - All previously released DLC.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.55 GiB"
 }

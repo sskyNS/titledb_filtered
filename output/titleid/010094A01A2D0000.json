@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e73cec0e8123a9d9484f72dbfa626cfa6e65aace76791fda22a358bc443b8c36.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Party",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Party, Arcade, Action",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.13 GiB"
 }

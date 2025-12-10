@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ec7e8f67c396ed96fb28c1c8d27e85679ba00e513dbc304235dbcf447a5ddb4.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "It's up to you to blast away the approaching meteorite and become the savior of the Earth!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "206 MiB"
 }

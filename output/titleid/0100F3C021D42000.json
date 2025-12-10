@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f5798c6126ad885d3aabbd56e5d5ea9f9e1852a22ce31958878dbde1afcdf01.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A hardcore platformer for anyone who\u2019s ever been jolted awake from a fright.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.81 GiB"
 }

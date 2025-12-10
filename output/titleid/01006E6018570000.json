@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a2969f31d52a918f6be81d1a8d21b0915a439070000ec0126d8e292da2fa589.jpg"
 	],
 	"releaseDate": 20221209,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A charming strategy RPG with students, ancient relics and adventure ahead!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

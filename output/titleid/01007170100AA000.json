@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/54a00d54209c2e7216bfab0dc6dd08df647e30557911de165f486cb4d3d7a569.jpg"
 	],
 	"releaseDate": 20200420,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Embark on an epic fantasy fairy tale adventure in Amberland, a place full of mythical creatures, with your party of noble heroes ready to do heroic quests and fight the forces of evil!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

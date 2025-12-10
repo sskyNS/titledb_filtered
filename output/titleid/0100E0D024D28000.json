@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/83d8144808a919d45d2b6bb9de823c400bc5450059ff34a06bfdbb4bb66ae4e1.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Training"
+	],
+	"intro": "Sharpen your mind!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

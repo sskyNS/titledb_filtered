@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f7acb8116c29466608ed91e37ec928844a1fa4e6e6465bce7e4ca8e88731f51.jpg"
 	],
 	"releaseDate": 20210414,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Short handcrafted horror adventure with multiple choices...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "667 MiB"
 }

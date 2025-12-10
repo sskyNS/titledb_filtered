@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/db6e0ba714f1ae63f01cbdb9429cf9f9685b2a36c9e0f8b3a8229bb6ad38a65a.jpg"
 	],
 	"releaseDate": 20191216,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "A classic nonogram puzzle with a twist! Lots of fun and just the right amount of challenge for the entire family!",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "377 MiB"
 }

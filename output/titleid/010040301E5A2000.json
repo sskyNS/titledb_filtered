@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e485df98745e322269a84fb0f99776356b2753047f83d35d5a06b482a3a8b78.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Go on an enigmatic adventure in this 1-4 player game set in an alternative western world. Discoveries, dangers and digging await the Prospectors.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

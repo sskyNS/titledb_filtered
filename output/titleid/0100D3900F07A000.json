@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c7cb89c8884213b0d9de92dc60ebbf307fbec771c0737fa3e7386f73a7395df.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "You are a delivery driver, your primary job duties include ensuring successful transfer and delivery of goods to intended destinations.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

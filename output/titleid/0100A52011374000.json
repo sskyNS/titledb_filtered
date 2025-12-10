@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aec052a5c31f9e5f4d56bf90b3d4a50bc7ebfa2a37227d166db939d5d03f05f6.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Other"
+	],
+	"intro": "Let's throw the animal alone! Let's throw it together!\nInvite as many animals as you can to the park and make a picture book!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

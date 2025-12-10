@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c33e5595cea1dc97c511d94b90ba7e671a8b84991df659c29c9c7d601e18be1.jpg"
 	],
 	"releaseDate": 20230707,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "JOIN TAD IN THE QUEST FOR THE EMERALD TABLET!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

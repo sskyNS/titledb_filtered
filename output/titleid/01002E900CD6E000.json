@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/31547255eecbb4cb0acaf38aac0de6bce28de63d68a678cd9aa4737dc5f8792b.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A unique hand-drawn memory game!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "972 MiB"
 }

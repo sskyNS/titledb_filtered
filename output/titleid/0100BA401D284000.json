@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8ba69fdcd271eed2628ae7a3a5e1d27a0cf9a5ecbffdb4b3301ebe2f5cc5277.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Ortheo is a bite-sized open-world momentum-based 3D platformer. Join Ortheo and explore massive worlds in this all-new 3D adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

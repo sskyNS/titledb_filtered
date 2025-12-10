@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce7741540bd1acb95a5cee7c7eb6cf13404cf01b0c4837bcf53fb00002aa1b69.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Welcome to the Great Gardens, the serene beauty of an ancient and sacred Japanese garden.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "447 MiB"
 }

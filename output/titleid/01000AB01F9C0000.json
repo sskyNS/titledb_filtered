@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f278ec4f45a6ce3b3c19910ce8cff4381a3a5d450abf412fe3788e78662056a.jpg"
 	],
 	"releaseDate": 20241213,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Chernobylite is a non-linerar, science-fiction survival horror RPG. Explore the Chernobyl Exclusion Zone and uncover the truth of your tortured past.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.91 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/696be92ce0ed00483d687c7b00fd6919e83d73be5740cdf43efe2035624cf26f.jpg"
 	],
 	"releaseDate": 20221109,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Draw beautiful constellations in the night sky, \ncapture the heart of a celestial maiden in your hand! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "117 MiB"
 }

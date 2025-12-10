@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/55d9365dd5719ee3489b8a1beb984703ca8079e6854ccf95a9b77f5d6fcb3f88.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Important note! This game is difficult!\nWe recommend it only to experienced players!\nPlayers who have completed Supaplex well!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

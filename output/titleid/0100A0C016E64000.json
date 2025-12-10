@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e74f9cb4a414a35e8c74f27263450eb9b8d7ac9005b60691a1b366ada0b8995.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Are you a brave enough stunt driver? A crazy enough stunt driver? A fearless enough stunt driver to SEND A CAR FLYING OFF A SLING SHOT?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c15401fb59937e4b939455d1616f673eb450bb6eef97429ff335656b868e97c4.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Basketball Team Management Sim\nCoach a custom team and\ndunk your way to glory!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

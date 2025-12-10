@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c88b7ec583686445160a9bc4e3e27b115c59e34a1a564e4d17cbab0f22d4f80a.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Flip the board, change the game: Hola! Reversi on Nintendo Switch\u2122",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "232 MiB"
 }

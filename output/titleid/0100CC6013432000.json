@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/284a76582abcff45e61bbc2e763fa509982aed29f236ceeeca730d7ef4c68d30.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Chaotic Co-Op Firefighting Mayhem",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.10 GiB"
 }

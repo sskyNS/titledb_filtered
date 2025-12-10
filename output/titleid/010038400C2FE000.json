@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d7064d6b2af54d534a233567613c16d8c5aeea8ef9673b79828ee9a77a12560.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "G'day, Mate. Explore the wilds of Australia with TY the Tasmanian Tiger, the charming Aussie platformer.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.25 GiB"
 }

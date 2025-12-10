@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea1cfc497ad76ed7afd78a9f2015f9ce8aa58c706eddabe7421dc6b3d3acfed3.jpg"
 	],
 	"releaseDate": 20240531,
+	"category": [
+		"Action",
+		"Party",
+		"Communication",
+		"Board Game"
+	],
+	"intro": "Flick, hit, smash\u2014it's ruler battle!\nBattle it out online with players from all over the world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

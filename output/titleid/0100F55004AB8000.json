@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/794191920a88817a1b1aeee5e99a755fde51a30fef1b3723f4d90bb2db31bfda.jpg"
 	],
 	"releaseDate": 20171121,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Enter the wacky & whimsical world of Uurnog Uurnlimited! Explore a silly, puzzle-filled land full of cubes, bombs, weird people & adorable animals \u2014 then steal them all! Play single player or co-op as you jump, grab, throw & teleport your colorful collection back to the Save Room (and try not to destroy it).",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "117 MiB"
 }

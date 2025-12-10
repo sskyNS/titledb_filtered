@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd9b33adbfaa7e8bcfdaa9e42cf774189906cd011d14320fa0016496653bd298.jpg"
 	],
 	"releaseDate": 20230520,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Go on a journey through lush forests, babbling brooks, and picturesque landscapes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

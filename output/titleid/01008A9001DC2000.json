@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/021fe13425795f8cfca454233fa86afe79a962a1bf76f40b7c7681f026742179.jpg"
 	],
 	"releaseDate": 20170309,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Eight mercenaries challenge the monstrous terrorist organization! \nThrilling action shooting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "192 MiB"
 }

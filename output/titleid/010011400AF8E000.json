@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cd6ac2ea0d02ee9735db0c97784065a53f2fd3b63b91df9e13b6ac0c05c25f3.jpg"
 	],
 	"releaseDate": 20181206,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Julie's Sweets is story driven time management game with 60 story and 18 challenge levels. Delicious donuts, cupcakes and pies, make them quick and time flys.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

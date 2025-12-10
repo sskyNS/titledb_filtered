@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ee9d08a2d03d2f2561e24a0a5b9d0121f77d4a51f4bcff8fa6b403006d596c6.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "The snowy season is heating up!\nIt's time to play Our Winter Sports!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "182 MiB"
 }

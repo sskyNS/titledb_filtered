@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a22917cf485b23ee9ea65c966e0044298ff77a8d17258490b9872505536fc776.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Can you escape Sahur? Beware the Tung Tung Tung...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "980 MiB"
 }

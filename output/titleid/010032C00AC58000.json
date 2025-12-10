@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f55790eb7d005371232748d6aff0793824e39931709bae1cc75babd5aa8760b.jpg"
 	],
 	"releaseDate": 20190423,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Set forth, Arisen. Your journey begins now.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.14 GiB"
 }

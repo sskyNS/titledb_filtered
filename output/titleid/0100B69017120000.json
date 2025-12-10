@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebb90dec952aab4944bf818efd42cec1f173eee0a6691402ca4ed4666101c813.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Lock and load, there are zombies everywhere! Fight off hordes of infected and get to the source of the un-deadly outbreak!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.61 GiB"
 }

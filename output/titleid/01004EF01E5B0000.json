@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/600af49ca5e4ed2a77ce64afb71748042071ab2daa8627dd1f83e40650cf464f.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Hunt during the day, be hunted during the Night! Scarlet Tower is a gothic horror casual game with roguelike and RPG elements, like talent trees, classes, familiars and more!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

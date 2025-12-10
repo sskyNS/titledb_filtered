@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e798fa0d841a25852113d5420ca86cd18c1511f8153c0218921da5e26d79c87.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Be Brave, Little Fox",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.93 GiB"
 }

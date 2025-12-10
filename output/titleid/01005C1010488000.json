@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b71e15c0c2d518fbdc74eee6e63ca666ce57b58815eabb6bbc6c1df6d525439.jpg"
 	],
 	"releaseDate": 20191128,
+	"category": [
+		"Party",
+		"Shooter",
+		"Fighting",
+		"Racing"
+	],
+	"intro": "Space is your battleground!\nTake part in Co-Op and versus battles filled with comical action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.19 GiB"
 }

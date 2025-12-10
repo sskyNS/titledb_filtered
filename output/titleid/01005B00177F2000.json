@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d15f24dea9b49447d5aeb3f9a3f13917af39008324595d3b68314583e5d993a8.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Explore a world straight out of stop-motion animation! Floogen is a fun platform adventure full of clay, jumping and ... melons. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "621 MiB"
 }

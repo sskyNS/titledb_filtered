@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b507a2b715282393d99461cfd2599764a77d23cf17fd14478285aeec58e2d69.jpg"
 	],
 	"releaseDate": 20240830,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Strategy"
+	],
+	"intro": "From Shipwreck to Escape: Master Survival.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "640 MiB"
 }

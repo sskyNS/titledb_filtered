@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/82042e4925689a701a263c95effdc5dff230ec083371d6da4fa4064cc459f143.jpg"
 	],
 	"releaseDate": 20231218,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The saga of a British computer game icon",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

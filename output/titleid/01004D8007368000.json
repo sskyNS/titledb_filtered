@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa408cb83c31551c147437c5609f276d21a60eaa71cc3f97c0467e4da76f2ae9.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"RPG"
+	],
+	"intro": "The World\u2019s First Twin-Stick Action Arcade Clicker",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "400 MiB"
 }

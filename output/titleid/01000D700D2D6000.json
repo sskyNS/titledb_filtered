@@ -8,5 +8,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ecaba261da668802569a559e8448b33ea4243eaa7346f6a1c6a1d509efc77a0.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "In this game you have to drop blocks on the balance.\n\nBlocks affect the balance according to thair distance from the bottom triangle.\n\nMatch three blocks of the same color vertically or horizontally to remove them from the playfield.\n\nEvery block has its own weight, so let them fall wisely.\n\nIf the balance hit the ground, the game is over.\n\nUse Special Items like columnCleaner, rowCleaner and the colorCleaner for a faster playfield cleaning.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "27 MiB"
 }

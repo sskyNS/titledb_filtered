@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/60caffd6623efc3598f15f2cc1c09514972c2c75f7c6d5568ad316ac2ca879bf.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Education",
+		"Simulation",
+		"Training",
+		"Utility"
+	],
+	"intro": "Play with livestock! Play with colors! Unleash your creativity to make farming animals of your dream! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "95 MiB"
 }

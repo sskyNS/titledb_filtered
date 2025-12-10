@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2cf0103ec2df663e1328da2f517638592d994ad002834550b75975a8237c807.jpg"
 	],
 	"releaseDate": 20210210,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Billiards and platforming combine for a unique puzzling adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

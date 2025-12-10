@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/06320a7bf50fa08b44024feb837b8c7af1553b6db4ef5269617fd001aa473357.jpg"
 	],
 	"releaseDate": 20190307,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "When a tragic turn of events sets one man down a path of supernatural chaos and revenge, he must brutally hunt down all those who wronged him.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.66 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3099f8045fe8e304aaf9886a7653a8204c001232113d29ec1a69548f989a1ed5.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Go it alone... Or team up with friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.92 GiB"
 }

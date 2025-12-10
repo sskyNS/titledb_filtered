@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3df7d66097b75b8306ed0be1e3cbb8c4c25660a7800c46b92a96aa7a09e61d7d.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Manipulate Time In A Surreal World.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

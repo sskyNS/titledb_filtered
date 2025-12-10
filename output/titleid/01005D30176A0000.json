@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aac1a7af33cd3da6c912e698356f0bc1e0968536569c829e4c23f71173f7b5c8.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Formula Retro Racing is a 8-circuit retro style racing game influenced by the classic arcade racers of the early 90\u2019s.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "525 MiB"
 }

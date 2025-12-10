@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2b7faef5508028934657dc854db8a59269c8f1d004e8314ccf756e5dae75237.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Make a fantastic, dazzling water park!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

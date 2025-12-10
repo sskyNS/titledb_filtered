@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5cc6e2f4fd87ea8215cb6b556d5579c9d2ca089fa5e7e06a16d957c1cf19791.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Rogue-like Shooter! If the demon is a lovely little girl, will you still give her a wide berth? You are the Demon to purge the Human beings that corrupted by the Holy Spirit.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

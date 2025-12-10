@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf38eaeefc7d75b365776f04c85a4a2d3b77cbd284e7ee9e74884af1815667c8.jpg"
 	],
 	"releaseDate": 20231212,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Gather your heroes and journey beyond the dungeons of Castle Hammerwatch to explore a pixelated world like never before.  ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "807 MiB"
 }

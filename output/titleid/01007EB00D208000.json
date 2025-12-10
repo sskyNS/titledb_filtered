@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9f4b623ce84c93aab5c12b6a67a9266bf2f8847abec214c3a373e0ce3036984.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Prepare for the awakening of your hungry god.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1017 MiB"
 }

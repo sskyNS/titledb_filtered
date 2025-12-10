@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7112244723e42c35bafcaf055dba0dd3342935eececd5f4ec71f4d3e521b89c.jpg"
 	],
 	"releaseDate": 20190301,
+	"category": [
+		"Sports",
+		"Racing",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Ride as Mountain Bike legend Sam Pilgrim, and use the advanced trick system to bust out insane combos in over 40 hand crafted levels. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

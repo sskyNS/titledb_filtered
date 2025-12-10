@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e41208b590f2f1b07f0e222d6b2d5b9321de71f4b447c73e7c9c2c9c7d292d6e.jpg"
 	],
 	"releaseDate": 20250704,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Education",
+		"Puzzle"
+	],
+	"intro": "More than groceries\u2014it\u2019s your empire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "761 MiB"
 }

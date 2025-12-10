@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8049b22780d19eaace734e8a80af729d2f97089e43b262513d2468f5edb90fb.jpg"
 	],
 	"releaseDate": 20221103,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Music",
+		"Other"
+	],
+	"intro": "Space Tail is a 2.5D adventure platformer, which immerses the player in a deep, emotional plot, and lets him explore new planets and interact with alien civilizations.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

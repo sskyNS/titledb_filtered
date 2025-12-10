@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/04254e127d2b0c51c5adc544fd4d2ea75e270a27b915a8cd9dc369dbccd2b727.jpg"
 	],
 	"releaseDate": 20230707,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A totally new 8-Bit experience of survival, puzzles and exploration unlike anything you've played before.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/de6980137643d2193f7ea985c97d3351595ec9fa13635f2eb1e676e53adcb962.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Escape a mystery mansion full of mechanical puzzle boxes and hidden objects.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

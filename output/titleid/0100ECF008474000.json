@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/004efaab0c613c898bd5118368b45e1ce07f5f2f8b480ae1cba97589dcf4b7c3.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Simple space, dynamic jump.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

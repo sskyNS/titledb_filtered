@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ea51a8bdda088f3fd91bf964fd17131d8c2e8ec5d8fef4652fd0eec0419b01e.jpg"
 	],
 	"releaseDate": 20220222,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "There is always a clue hidden somewhere deep in your memories. Will Alice find a way not only to help her uncle recall his past, but to discover how to harness the power of the burnin",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/96f479991cc872240635bd96264ccaf7f06731961e4d21f72ad8b11a21cba236.jpg"
 	],
 	"releaseDate": 20230408,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Madness is doing the same thing over and over again, hoping for a change.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "197 MiB"
 }

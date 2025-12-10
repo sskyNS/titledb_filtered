@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ba67834e5e24f0d11d6a757516c6a04b34cdcb4ed46fe29f877209877d7be6a.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Fight against the robotic forces of evil!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "780 MiB"
 }

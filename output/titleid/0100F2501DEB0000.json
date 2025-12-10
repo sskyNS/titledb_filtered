@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/09d890eeb664db9aae6e7e44e7d02f579e033be28c7ae83b51c443de4ebee28b.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Nordic Ashes is a challenging Norse inspired roguelite-survivor game, where you\u2019ll have to survive hordes of creatures that come your way.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

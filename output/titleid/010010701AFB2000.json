@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4407b50820b410348353a1dbfcd6c5c1940aef899a75da223e9019914039db9d.jpg"
 	],
 	"releaseDate": 20231107,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Brawl is Back!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.08 GiB"
 }

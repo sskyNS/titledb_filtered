@@ -4,5 +4,14 @@
 	"publisher": "MLBAM",
 	"screenshots": null,
 	"releaseDate": 20220217,
+	"category": [
+		"Sports",
+		"Simulation"
+	],
+	"intro": "This Tech Test is intended to help gameplay experience for MLB The Show 22. We appreciate your support/feedback to help make our game better. Please note: this will be a limited Diamond Dynasty experience and by no means representative of the final product. Learn more at theshow.com/techtest.\n\nhttps://www.playstation.com/en-us/legal/ps5-system-software-beta-agreement/",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "12.58 GiB"
 }

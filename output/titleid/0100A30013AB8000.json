@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c62967d207c9e27f23a69d13440a0d3904d3c692afacef558d08bd20e0062e2.jpg"
 	],
 	"releaseDate": 20210115,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30d1\u30ba\u30eb"
+	],
+	"intro": "Spinny's Journey \u306f\u3001\u3084\u308a\u304c\u3044\u306e\u3042\u308b2D\u30a2\u30af\u30b7\u30e7\u30f3\u30d1\u30ba\u30eb\u30b2\u30fc\u30e0\u3067\u3059\u3002\u8ff7\u8def\u3092\u901a\u308a\u629c\u3051\u3001\u30c8\u30e9\u30c3\u30d7\u3092\u304b\u308f\u3057\u3001\u5b87\u5b99\u8239\u3092\u4fee\u7406\u3057\u3066\u5bb6\u306b\u5e30\u308b\u305f\u3081\u306b\u30b9\u30d4\u30cb\u30fc\u3092\u52a9\u3051\u3088\u3046\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "472 MiB"
 }

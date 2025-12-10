@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dfaf17e325f1f948aab23821656e78b07384e2dd277e67bc9ec8a400b62d0de.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Double the action. Double the metal.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

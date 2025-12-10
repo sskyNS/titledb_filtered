@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0f29b2172855331404ef1ff89dd7debff46a49246ee7f8ee856eb4f642d9dfa.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "Unleash the Legend of the Monkey King!\nBattle through chaos, conquer mythical foes, and reclaim your destiny.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "338 MiB"
 }

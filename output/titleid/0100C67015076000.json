@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e3094c7522a73a1508feacf715aa9d9984d29e124aa759971914decaf422c13.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "In this original mix of Dungeon Management and Roguelite, you will lead your career as a Dungeon Master! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "804 MiB"
 }

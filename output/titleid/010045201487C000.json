@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6772f6103fd92c97f7c8541ca7ad02c52476efad2a7b57e6fc0726ce8449cbc5.jpg"
 	],
 	"releaseDate": 20210526,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "16th Century - an unknown danger plagues the land. You play this story-driven Action RPG as our heroine Aluna as she tries to defend a mystical shard with the power of earth within it.",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.39 GiB"
 }

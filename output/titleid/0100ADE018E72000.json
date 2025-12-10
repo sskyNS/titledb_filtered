@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/871f06151df636db1921b6e915cfdf1375421ab0b5a48210f0524e2faf6b7b7f.jpg"
 	],
 	"releaseDate": 20220805,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Puzzle",
+		"Training"
+	],
+	"intro": "Solve puzzles to discover pictures. Fun makes you smarter!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "503 MiB"
 }

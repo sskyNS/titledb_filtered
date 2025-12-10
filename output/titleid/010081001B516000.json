@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/820c686724ccb97ec7dae85ee446ae617d2922821c9b097937b99852a5a142ea.jpg"
 	],
 	"releaseDate": 20230627,
+	"category": [
+		"Simulation",
+		"Music",
+		"Lifestyle",
+		"Party"
+	],
+	"intro": "The ultimate high-tech rubber duck simulation, Placid Plastic Duck brings you dangerous levels of relaxation. With many different happy ducks, your only priority is to float around.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

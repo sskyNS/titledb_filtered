@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0a345df2528523f57988f9f128b81df3a016b7666586015623d74ff723193ad.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "An adventure to share, full of fun, thumping and friendship.",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.17 GiB"
 }

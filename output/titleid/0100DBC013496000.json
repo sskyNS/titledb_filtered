@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/18c53a86d081d83c1e033e2c52b832a486a0ab74ffeb5bce5f37cb5181be26f5.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Wrestledunk is an explosive, colorful collection of super competitive multiplayer sports games! Face off online or locally with up to 8 players. Get into it!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "569 MiB"
 }

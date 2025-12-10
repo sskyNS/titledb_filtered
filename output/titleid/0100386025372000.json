@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/638a041d595f765efb06f17a786b8630233e7a222132300e95f7a1fb9ea23fe3.jpg"
 	],
 	"releaseDate": 20251128,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Build your life in the heart of the Scandinavian wilderness.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.57 GiB"
 }

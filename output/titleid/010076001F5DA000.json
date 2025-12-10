@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd73f834a866eec74d070652a93a8e9b4bbf541e2a9d89a4446eb246dbd72811.jpg"
 	],
 	"releaseDate": 20241203,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Those who promise paradise deliver only ruin.\u00a0",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.78 GiB"
 }

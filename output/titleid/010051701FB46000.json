@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac1b0694c86119ed445b7289f0bea043902b1c815177e2e1fd1dbb08db46226f.jpg"
 	],
 	"releaseDate": 20250521,
+	"category": [
+		"Strategy"
+	],
+	"intro": "The classic roguelike deckbuilder returns with new clans, challenges and modes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

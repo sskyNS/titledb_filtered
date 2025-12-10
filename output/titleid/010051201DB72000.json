@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/797f569993d45aaaa5a760cfe12b5b895aa9da106258abee8a330af0ccd313d0.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Discover Stone Age, the digital adaptation of the classic worker-placement board game. Roll dice, place Meeples wisely, and compete for resources to become the prosperous Tribe leader!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "412 MiB"
 }

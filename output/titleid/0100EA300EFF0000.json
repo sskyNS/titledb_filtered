@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/013d18f751c3dab5de9361bbd90329c7ae31656239cef406376c0cbb251a13e3.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "New York, 1988 Rescue Madonna, who disappeared into the dark underbelly of the city!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcaadc227179921367171ee2447f08fd84dae8f5ccd41e1f344ba79241cdb618.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Action",
+		"Fighting",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Guide a head-chucking skeletal warrior on a quest for vengeance!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "452 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a67ee4dcc22cb0be6911a6cb08cd90ad096c1fa54dfdd3e042ea9da7779f213a.jpg"
 	],
 	"releaseDate": 20180403,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A story of love, giraffes, and hot dogs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.44 GiB"
 }

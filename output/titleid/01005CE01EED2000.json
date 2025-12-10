@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc58e919e1281d0f1cc43beb329e4c575098b57d839c755c2552adc23acc40d4.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Zombie Night Defense is an action tower defense game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

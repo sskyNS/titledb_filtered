@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0f6539e7351aceb96dd462b0c268b6e5b0c42c3429f3ed4c2405d8016f31341.jpg"
 	],
 	"releaseDate": 20251215,
+	"category": [
+		"Party",
+		"Action",
+		"Communication",
+		"Racing"
+	],
+	"intro": "Slide around, throw snowballs, and aim to be champion!\nPlay solo or together\u2014the winter party begins!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "575 MiB"
 }

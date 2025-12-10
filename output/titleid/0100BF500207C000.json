@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a184b3744d180913b3542fcf7b0bd8247abbf367bdcce914ae574bdde3a6c18.jpg"
 	],
 	"releaseDate": 20190625,
+	"category": [
+		"Platformer",
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "The king of Metroidvania returns!\nCraft, cast and explore your way to victory.\nSave yourself, save the world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.40 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f98dd40b0bf2824992d8725057b0007b5012af0c29116138788fb2e2f502d679.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Vampire Slayer is a fast paced multiplayer team game featuring two completely different teams, Vampires and Slayers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "993 MiB"
 }

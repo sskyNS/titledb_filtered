@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b22e960dc3755c3bffef9a7155dffa666d34145dc592fd6d65ef2bae6541791.jpg"
 	],
 	"releaseDate": 20250919,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Video"
+	],
+	"intro": "Collect energy, grow your tail, and fill the SPACE HOLE in this bite sized arcade game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

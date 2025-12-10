@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0f489ca2984a31e648156c5a186d327c87d2a0469ee50b21804cf2028e854dd.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Simulation"
+	],
+	"intro": "Puzzles, Cats and Programming",
+	"languages": [
+		"en",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "809 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba13e5710226eb3bf98b1c4231dc1d5c73a5353a4a272a0979a5a40eb6fc9e96.jpg"
 	],
 	"releaseDate": 20220903,
+	"category": [
+		"RPG",
+		"Action",
+		"Fighting",
+		"First-Person Shooter"
+	],
+	"intro": "Action-Oriented Dungeon Crawler RPG",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.38 GiB"
 }

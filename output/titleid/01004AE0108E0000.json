@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e763b55aeb6bd8133a6b6e2f392b776ec66bccf61f7e103c9a090ef21f75e092.jpg"
 	],
 	"releaseDate": 20200721,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Hop in the Paladin power armor, seize melee weapons from the demonic invaders and give them a taste of their own medicine!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

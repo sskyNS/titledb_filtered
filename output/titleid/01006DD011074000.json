@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/69e743d12b8344f6237f9dc94d67d856d5b4e1f09d153ee1ad9d5a17b9c491a5.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Excellent indie games handpicked for your playing pleasure \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "754 MiB"
 }

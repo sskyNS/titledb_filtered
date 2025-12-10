@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb41c9a99e0b0905904a39cff8220d0d935f7e78cabcff0be2ce86e04d780f4a.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "The only way is up! Fight your way out of Hell in this heavy-metal roguelite.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "776 MiB"
 }

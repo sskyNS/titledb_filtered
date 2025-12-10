@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/44fa6a061edab8eb9fe074edeb50be9f2d14409391c81c5c3f5a5659a62e5bc3.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Warm up your fingers, close your eyes and take a deep breath\u2026\nYou\u2019re about to enter the depths of Yuri\u2019s world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "310 MiB"
 }

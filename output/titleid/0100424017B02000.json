@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed4c961e5abb62068c3d09d52f7900c2aaea749471d55d4ea0c694c9dac08a8e.jpg"
 	],
 	"releaseDate": 20220415,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Test your reflexes with three games that are all about speed! \n\n- Complete obstacle filled water courses in JetSki Rush!\n- Escape from your pursuers and crash as much as you can in Adrenaline Rush\n- Help a school of 5 fish escape from the aquarium in Go! Fish Go!\n\nAre you fast enough to master the Extreme Speed Bundle?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

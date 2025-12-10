@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c52fc5ea249de3a20bb0f31a303d5909acd9817db0a9eca28a8272812a7e8428.jpg"
 	],
 	"releaseDate": 20220511,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "In the hospital again? Doctors are starting to doubt you, so they won't stop asking to find out if you are really sick. Remember your answers!! If you are wrong you will never get well.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "713 MiB"
 }

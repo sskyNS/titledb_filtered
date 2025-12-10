@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/69c92585bda4ff2f2e92a8d0f450699dd134c768a0bbe9eabfa7a9dfc8cdd030.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Exhilarating dive bombing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

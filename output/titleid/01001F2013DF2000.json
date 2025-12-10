@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c920374e42ce8d0f057ae16e264a04d692af45ee90f8fc2f688338249d237467.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Escape2088 is an old-school escape room game set in a futuristic, cyberpunk world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1020 MiB"
 }

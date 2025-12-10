@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f801b83f9d17fe768be8593957c17e318a99e23f35b6005ac71b4fcde7c6a27.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Heroes Don't Die, They Respawn",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.30 GiB"
 }

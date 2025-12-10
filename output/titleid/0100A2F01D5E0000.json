@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/795178e73db2d8e6037ba7589045c1d3005ee6fb224d0a30405213d0ba6ad984.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The Z virus, able to turn anyone into a monster, was stolen?! At this rate, the monsters will take over. Stop the villain who stole the Z virus and save the world!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

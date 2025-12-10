@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/889f6b4b6ba6c3dd566d400b1d370c9b5fa31e22a41dd48a9161ec83cd649881.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Save Ryan\u2019s friends from Dark Titan and his evil allies!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.85 GiB"
 }

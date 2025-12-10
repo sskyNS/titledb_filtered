@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b2bcd2632f7881b9d88f8b644070757510a0e86a43eda75cb6cc1e2eaddca42.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Adventure",
+		"Other",
+		"Simulation"
+	],
+	"intro": "The item that was passed around the pawn shop is a \"Time Capsule\" that travels to the present day...!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/76b5cb6597079e34cd9ed0dd9df38aeebecd12e2d7ef58bcfa1b6f9fc03f5b65.jpg"
 	],
 	"releaseDate": 20230405,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Shoot eggs down to fly up in this speedy action platformer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

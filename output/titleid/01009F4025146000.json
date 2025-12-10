@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e36888a85647cced373d0166efc1cccf5c9d8e2684e31058ee29b3f8fd30101.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "In a world where candy is forbidden, you become an sweet dealer. Craft candies, outsmart the Candy Police, and build your sugar empire in this colorful prohibition parody.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

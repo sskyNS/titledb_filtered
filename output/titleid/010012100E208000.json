@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c919033b4b3dd38b2fcb050f46fda6ef66033a8a3b4a4a3aafac8d0a9ce6940.jpg"
 	],
 	"releaseDate": 20190809,
+	"category": [
+		"Adventure"
+	],
+	"intro": "The Mystery of Black Sage Ranch",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "392 MiB"
 }

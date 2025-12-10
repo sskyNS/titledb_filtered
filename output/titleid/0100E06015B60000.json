@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/151fe0d23e1b5a7bb203f5e5cbb08e32c30d2476824a51d287ce19fe590ddf25.jpg"
 	],
 	"releaseDate": 20210730,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Jenny the City Demolitionist needs your help!\nHelp destroy each building infrastructure by solving each puzzle.\n\nMatch at least 2 pieces together or combine more to create new power ups to be used. Explore different type of power ups available or bring your own. \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/23515b5aca71001c2afddd3f7cc694079df53a1595c0eb28cd63a82160811636.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Communication"
+	],
+	"intro": "An online action shooting game in a world where medals have power, players can choose various jobs, fight monsters, and strengthen their characters to their liking.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "722 MiB"
 }

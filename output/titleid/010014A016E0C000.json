@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb82b464ffaa0f884d2fb5aa54400b3e46cc94ce244dbebaa5c8dd76564242e.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Help Chack\u2019n catch the hearts!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "124 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/adf31cb43c19216135034ecea444afe676d74a3137f0d4f99bc1d7001c878e93.jpg"
 	],
 	"releaseDate": 20230214,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Classic JRPG + Action Combat System",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.59 GiB"
 }

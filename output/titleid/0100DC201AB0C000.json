@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/732da5407db06b6d45fb897e257070b09e21f4378b30d8525a8c27c6d4c1d7f7.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Adventure"
+	],
+	"intro": "Solve picture puzzle to uncover the epic story of NONO and join his adventures! There's so much to discover!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

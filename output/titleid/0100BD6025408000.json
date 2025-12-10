@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b31899ab50d186a868d8c6673c3c5a38057985a4df4d0ab95d45bf6b34cafa51.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Run, jump, and claw your way to victory in the ultimate battle of cats vs dogs",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

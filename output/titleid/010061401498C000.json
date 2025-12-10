@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/280e4064463c992e79011bafec955b9b2083c1c4ee4b19160fda0e96805b5c39.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Four heroes are facing a horde of evil! Ultimate abilities, magic artifacts, hero upgrades and clever tactics... All these will help to defeat the Boss.",
+	"languages": [
+		"en",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "528 MiB"
 }

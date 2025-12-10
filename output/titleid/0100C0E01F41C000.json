@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2184e77740a6882fe4e297ef5461d282f998e3794d57036231ce00de58b90629.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Board Game",
+		"Party",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Holo's Hanafuda is a banter-filled card game battler fully voiced by and featuring hololive talent!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

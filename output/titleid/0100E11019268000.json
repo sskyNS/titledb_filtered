@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7c054150302ec01613aaa02d4a1a457f0e905d6373a9baecc04aa72d8f225aa.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Brings you the joy of building miniature interior and homedecorating mixed into a puzzle game. Simple, relaxing and fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

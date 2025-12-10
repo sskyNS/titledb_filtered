@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c501466a3a61e9e046a2cefdbb3924a27f12728b7f692713daebec53b1ca4dda.jpg"
 	],
 	"releaseDate": 20221207,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Fill the world with blocks in an adventure across the Galaxy",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.18 GiB"
 }

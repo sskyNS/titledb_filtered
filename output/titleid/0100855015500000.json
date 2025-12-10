@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/98e20c8d66bd2efcd9a23a253ad007c8724ba3a4cd6ec2a3dd1320586a13c127.jpg"
 	],
 	"releaseDate": 20211208,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Join the Freelance Police on a bizarre adventure from the North Pole to the Fountain of Youth, from outer space to Hell and back.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

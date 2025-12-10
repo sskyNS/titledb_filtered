@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/246fecf8a1805066be3f2c5c7ee188c6d518030b88d5cd2ff7a05a041533acec.jpg"
 	],
 	"releaseDate": 20230628,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Be guided anew into an epic tale set in the Taisho era...\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.04 GiB"
 }

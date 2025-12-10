@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f364acda09aac4b9b62086e68f725595ba36eef78dd59c8f42d353dffd16b48.jpg"
 	],
 	"releaseDate": 20250827,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "An epic adventure that will test your courage",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

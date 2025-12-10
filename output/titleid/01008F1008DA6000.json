@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/171358f1dabb78c25c68e1c1357dc939a521d4eeaf769862e56a42d26bb4b7a8.jpg"
 	],
 	"releaseDate": 20180118,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring.\n\nRecruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond. You'll battle not only unimaginable foes, but stress, famine, disease, and the ever-encroaching dark. Uncover strange mysteries, and pit the heroes against an array of fearsome monsters with an innovative strategic turn-based combat system.\n\nFeatures: \n\u2022The Affliction System \u2013 battle not only monsters, but stress! Contend with paranoia, masochism, fear, irrationality, and a host of gameplay-meaningful quirks!\n\u2022Striking hand-drawn gothic crowquill art style\n\u2022Innovative turn-based combat pits you against a host of diabolical monsters\n\u2022Narration system to celebrate your successes...and failures\n\u202216 (and counting!) playable hero classes, including Plague Doctor, Hellion, and even the Leper!\n\u2022Camp to heal wounds or deliver inspiring speeches.\n\u2022Rest your weary, shell-shocked characters in town at the Tavern or the Abbey to keep their stress in check.\n\u2022Classic CRPG and roguelike features, including character permadeath, procedural dungeons, and incredible replay\n\nCan you stem the tide of eldritch horrors erupting across your family\u2019s ancestral estate?",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.75 GiB"
 }

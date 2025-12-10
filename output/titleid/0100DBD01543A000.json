@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7140fcae4ab293f64c82a4e4212c7d0185750d7520d130fd4b3fd941b4bcd48.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Sports",
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Unlock secrets, discover treasure and take on challenges. Your golfing journey awaits.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

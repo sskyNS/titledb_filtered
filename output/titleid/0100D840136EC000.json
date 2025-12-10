@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/650e0fd743d45f87d53e1bc02b76a3c7f7209775730be1650d786f04473d4b86.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Puzzle"
+	],
+	"intro": "Come for the view, stay for the friends.\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

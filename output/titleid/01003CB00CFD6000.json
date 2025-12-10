@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0fc3d2964a068db6bfb70bc2e411363d10a8311d5c9868d99fdafc41e4535c25.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Exciting match-3 gameplay!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

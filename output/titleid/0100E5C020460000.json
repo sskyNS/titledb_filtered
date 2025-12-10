@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcf6bb15bba8bc3041c709b6c088ae2795fac7bc6bc755d7eb0b8392c0a2310a.jpg"
 	],
 	"releaseDate": 20240806,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "In a remote dragon-hunting village, a boy establishes an unlikely friendship with a small dragon, challenging the traditions and prejudices of his community.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "246 MiB"
 }

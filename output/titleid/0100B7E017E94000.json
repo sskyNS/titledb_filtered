@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/da377917c30d40e1076d126708a98c9ac750dfeb4431b0d8c586e00ea6e0da57.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A classic and funny point & click adventure game. Designed for all the family, including the kids.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "404 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c319bbf900cb2f523f47ca10175ff41e496dce8df1f63068cf088ed134632642.jpg"
 	],
 	"releaseDate": 20250725,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Hunt giant beasts using a variety of Karakuri tech, now with up to 3 teammates!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "Unknown"
 }

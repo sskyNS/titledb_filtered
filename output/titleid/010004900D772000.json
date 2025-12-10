@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/065dedb3953cbcb14eb2704fb3aa3dd88798cb54a60250d69be1d7f76695818a.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Foil the plan for world domination!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "902 MiB"
 }

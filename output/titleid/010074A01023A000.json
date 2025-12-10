@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95c95d5d17496d94940242f0bc4cdf6fb099771a618b11b45a9ba160bc7f84c5.jpg"
 	],
 	"releaseDate": 20240826,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc"
+	],
+	"intro": "1988\u5e74\u306b\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u300c\u30d5\u30a1\u30a4\u30ca\u30eb\u30d0\u30d6\u30eb\u30dc\u30d6\u30eb\u300d\u3092Nintendo Switch\u2122\u4e0a\u306b\u518d\u73fe\uff01",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 2,
 	"size": "19 MiB"
 }

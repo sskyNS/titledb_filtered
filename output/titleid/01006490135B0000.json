@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f76a73114cae822883fb4d0af46a67db835a25f62deccc24589004a509844c6e.jpg"
 	],
 	"releaseDate": 20210216,
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "BRUTAL RAGE is a scrolling beat\u2019em up. \nCross the city and beat all enemies on your way.\nUse your skills and weapons to realize epic combo ! ",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "50 MiB"
 }

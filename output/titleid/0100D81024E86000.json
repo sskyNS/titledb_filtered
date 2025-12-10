@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc9d3fc0592498b7b329d4219cca18d798562768934c4bcb1b8e879e33a05a49.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Sports",
+		"Action"
+	],
+	"intro": "The arcade's popular attraction, the Punching Machine, is here!\nTest your power and become the ultimate champion!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "796 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/69c1125fcbff7cc3150e0f5ad6a63972a2f0242dd9d7b13b538a3fcc6cf9186c.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Board Game",
+		"Party"
+	],
+	"intro": "Piece together animated jigsaw puzzles of beautiful\nwomen from Japan wearing traditional dresses.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "460 MiB"
 }

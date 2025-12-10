@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/3af29b4ef64b122de052498a18799633f1c49fc4c05bd7be7c5ceda5e3e4d9b4.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Have fun helping Corbid to overcome the mazes to be crowned champion. Eat, mix and shoot colors to solve the puzzles of Corbid! \n\nEnjoy the colorful worlds full of creatures with different abilities that you will have to play with to advance and solve the mysteries found in the gardens.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

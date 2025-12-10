@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f42f4b1a41d6eca2807ba73365feb2bf634c7f512e36d2679475e027c35692ee.jpg"
 	],
 	"releaseDate": 20190619,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "The evil has returned! Join the fight once and for all! \nThe epic hack-and-slash action RPG is finally here for Switch.",
+	"languages": [
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.81 GiB"
 }

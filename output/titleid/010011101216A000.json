@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09e15a7afddb698ea7c464224eb13640267538d2b061dd190b0798186e29a1cf.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Fighting",
+		"Party"
+	],
+	"intro": "Aggressive hockey is back in town",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.48 GiB"
 }

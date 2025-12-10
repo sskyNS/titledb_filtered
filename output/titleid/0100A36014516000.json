@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f922040a2fb5230f61805a259ad4f133f4c3f88a1ad418c935e70c249f886c7a.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "DREAMERS will lead you on an emotional journey in a story about friendship, exploration, and personal growth.",
+	"languages": [
+		"ja",
+		"en",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.41 GiB"
 }

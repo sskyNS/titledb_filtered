@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d180e5be1f43ac75c06b324fe2dce1a679081f2c3e7dc9fa493d817692648ef6.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Discover hidden cats in enchanting cities, mystical schools, and diverse villages in Cats Hidden in Magic Places. Embark on a delightful adventure to find felines in these magical realms!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

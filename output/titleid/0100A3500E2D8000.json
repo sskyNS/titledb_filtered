@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3456b65d919cf19573ebc49535c3bf2c0e8b1a0f99e1a70ef4aa049591be146.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Simulation",
+		"Study",
+		"Training",
+		"Other"
+	],
+	"intro": "Make history with manga!\nTurn your work into anime, drama, and even movies!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

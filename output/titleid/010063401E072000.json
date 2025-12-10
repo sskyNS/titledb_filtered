@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/007916fc7c6121507158f89370c48830c230f4b3a339bffe7ef647d8550f580d.jpg"
 	],
 	"releaseDate": 20240405,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Take off on a colorful and hand-drawn adventure with Spy Guy! Travel between cities in search of clues and don't let the bad guys get away with the treasures! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.77 GiB"
 }

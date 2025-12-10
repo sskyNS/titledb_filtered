@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/438610cf7e3a1a57bb9443eee2117d104eb779bc0689082f1deaa6e623c8d782.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A cute platforming adventure for players of all ages!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "565 MiB"
 }

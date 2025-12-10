@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3767c4bb8be949375507fb9b746f7f1e9d6e6dd180bae0c540046fbf5d14bd97.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Experience epic 3D battles and customize characters with Runes & Gems in a fantasy RPG with an adventure awaiting in search of the legendary Sword of Amal!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "352 MiB"
 }

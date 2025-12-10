@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/45831c4dec1850af2d15257986ad02863f511803826113582182ba998b924881.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Join the Smoots and win all the championships in Smoots Summer Games II",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.93 GiB"
 }

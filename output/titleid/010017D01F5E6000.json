@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7f8493a54782377c0427f7255a5dd2b6748e622c9cfddc0dfafb5f678a8d791.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Simulation",
+		"Action"
+	],
+	"intro": "You're so exhausted you can only crawl, but still refuse to sleep.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "764 MiB"
 }

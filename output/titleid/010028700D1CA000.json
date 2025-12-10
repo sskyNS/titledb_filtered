@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/45b229581e162ab8a8e56e2b7d13aae9f2abcc0e5b3680ef8878aab93a6ee4f9.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Witch & Hero is an 8-bit style action game that can be played by anyone!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "84 MiB"
 }

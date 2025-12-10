@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/29bef620a0fd010a29b3ed6d2a1ca775f8d1496f62d0c70118c504755b3a08ba.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Party",
+		"Fighting",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "A frantic brawler game to play alone or with up-to 4 friends.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "323 MiB"
 }

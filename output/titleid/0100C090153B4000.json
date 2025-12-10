@@ -4,5 +4,19 @@
 	"publisher": "Crunchyroll",
 	"screenshots": null,
 	"releaseDate": 20220217,
+	"category": [
+		"Video"
+	],
+	"intro": "Enjoy a world of anime on Crunchyroll",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

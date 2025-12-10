@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b66e1e315cbf4ba7a353a42787e28338556ad9fe0c4f42b47ddc210cc90c7678.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Ascend the castle tower. Level up your skills. Fulfill your destiny. Become the wizard you were born to be!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

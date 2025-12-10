@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd5483281cf3ecf0896e1b2372174455bd71ffbd0142365ab83ed303b7162133.jpg"
 	],
 	"releaseDate": 20211209,
+	"category": [
+		"First-Person Shooter"
+	],
+	"intro": "Blast your way to the top!\n\nTeam up and storm the skyscraper in this gang-busting, name-taking, explosive shooter. Take down London gangsters, turning the weapons of the fallen into your personal arsenal. Man by man, floor by floor, quell the enemy onslaught. \n\nWhatever it takes. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.69 GiB"
 }

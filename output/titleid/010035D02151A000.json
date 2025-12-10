@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5966b8847e21b9e296d111a7af25f9b239f673516180c887b03d3d5223fa200e.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "Video game pinball with four separate tables!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

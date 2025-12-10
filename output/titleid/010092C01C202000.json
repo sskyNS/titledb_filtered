@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e88c4660579fba1beb143867769575970ac98339513f74d5599767c7544dd7e.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Get lost in a lucid dream, bending the lines between reality and fiction. Utilize the strange camera to navigate through the ghosts' mysterious residence. ",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "822 MiB"
 }

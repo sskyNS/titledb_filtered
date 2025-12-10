@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b30a6881f163e40350de948dd958a3b79fb19734b5864e4e1c645dc8840d126.jpg"
 	],
 	"releaseDate": 20210915,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "You are going to steal a time machine. In this escape room, you must travel through time, explore mysterious places and solve puzzles to obtain untold treasures. Will you come back alive?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.87 GiB"
 }

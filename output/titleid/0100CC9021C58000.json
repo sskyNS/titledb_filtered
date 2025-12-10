@@ -4,5 +4,17 @@
 	"publisher": "FURYU Corporation",
 	"screenshots": null,
 	"releaseDate": 20250903,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "An art book filled with the unique charm and kawaii style of Kemono Teatime.\n\nEnjoy character design materials, concept art, worldbuilding documents, and more.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "411 MiB"
 }

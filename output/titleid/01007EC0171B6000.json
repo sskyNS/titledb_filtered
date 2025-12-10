@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/858ba114b0e30e22d1d496571ca6a3295fb2a5c511c72aefa8d62eaa41794eea.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Meet new puzzle game. Air hockey puzzles is new perspective of classic arcade game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "80 MiB"
 }

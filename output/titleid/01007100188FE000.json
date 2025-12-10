@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9295ad463fbe25cb39efab344a21ab04ddf9fd692b71a7dd719ec6ab6724edd.jpg"
 	],
 	"releaseDate": 20220722,
+	"category": [
+		"Lifestyle",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Unwind in a casual jigsaw puzzle game with a variety of themes, pleasing graphics and adorable effects.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "468 MiB"
 }

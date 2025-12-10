@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6b4b82c90c0aa334aa64d902fd8553c6a9a031cbfb25eeb393e5ae11b475e76.jpg"
 	],
 	"releaseDate": 20241227,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Education",
+		"Training"
+	],
+	"intro": "Train, Care, and Play \u2013 Build the Ultimate Puppy Academy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "962 MiB"
 }

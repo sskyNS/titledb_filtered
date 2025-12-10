@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a36d630b47dec308415af36de33731d5fb75e0536b798c1f20035c02546f6103.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "PAN-PAN is an open plain adventure that expands on the concept of environmental narrative storytelling with puzzle solving and exploration elements at its core. \n\nSet against a backdrop of soothing ambient sounds crafted by renowned sound composer Simon Viklund, your task is to fix your downed spaceship and begin the pilgrimage home. \n\nIn a world littered with world shifting riddles and sprinkled with the memorable characters - how you solve these riddles is firmly in your hands. \n\nMain features:\nSet in an open world: Unlock new areas by collecting items and solving puzzles.\nStellar soundtrack created by acclaimed sound producer \u2013 Simon Viklund.\nA balanced blend of exploration and puzzle solving game mechanics.\nStory beats told through environmental interactions.\nUse a mix of tools, gadgets and devices to solve puzzles and uncover the path home.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

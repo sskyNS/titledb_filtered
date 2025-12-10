@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef6a453c220cfd31dfd2e847ce87aadcd4b4a3701292f31526418559fa5b22df.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Biggest Solitaire combo - can you beat all the game modes?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

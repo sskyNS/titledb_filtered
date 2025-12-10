@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b548285b3bdb78668e2fb6fe2923ddea09301fe0cbee926c441b073ff616ecc.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Guide Starman through breathtaking architectural sceneries with delicate atmospheres and elaborate puzzles. Recover the light, and bring life back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "487 MiB"
 }

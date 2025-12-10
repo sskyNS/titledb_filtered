@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/45a0590e618203321738757a15e24ef165c4fe81218379d655d0707169302785.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A new, remade version of the Panzer Dragoon game \u2013 true to the original, with improved graphics and controls, that suit modern gaming standards! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.04 GiB"
 }

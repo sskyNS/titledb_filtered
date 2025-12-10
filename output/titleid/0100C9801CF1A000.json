@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3932efe93effb6d2581fb88851700f2fcaf1220305e8994855a5ffa4a4c8d7af.jpg"
 	],
 	"releaseDate": 20231024,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Journey through the wonderful world of Geisha. Help Ichisumi to reopen the temples and restore a world of beauty and passion.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

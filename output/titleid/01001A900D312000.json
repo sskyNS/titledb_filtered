@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/76f00858925d89a857cbeb8a7cce3a6805a8029f3e47be1a07ad590b8145bb09.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A teenager who has lost her sight and a mysterious cat team up in a surreal fantasy adventure into the unexpected, weaving a tale that brings together some of the world\u2019s greatest minds.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.05 GiB"
 }

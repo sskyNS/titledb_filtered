@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8309d18a0ecc8d6c1e42fd7aecd4635599b3d7a3841da3f1d7edafeed7f8e30.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Lifestyle",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Build your own dream farm! Take care of your animals, harvest crops, and sell homemade goodies at the local market! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

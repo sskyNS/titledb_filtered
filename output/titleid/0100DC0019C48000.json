@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/391e03a416da153e20689c32af1442cfd737dca9ee325423e0f630b507355eea.jpg"
 	],
 	"releaseDate": 20230809,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Running Fable is a cross-platform multiplayer racing-strategy game for up to 10 players, in which each player must place items and traps strategically before racing on fantastical levels.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

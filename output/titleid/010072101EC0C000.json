@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/573136cd4ece78451e084deaaa0819acca541660d6f8c2d5d443b34072e692d2.jpg"
 	],
 	"releaseDate": 20240518,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Use your finger like a magnet!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

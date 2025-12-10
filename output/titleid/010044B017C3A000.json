@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/abc7a6f785f503501cc5a3b6cf6237656fb310ccfa13129c7e2c9be7e3b9f45e.jpg"
 	],
 	"releaseDate": 20220423,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Sit behind the steering wheel of a spaceship and save the galaxy from alien invaders! P.3 is a retro vertical shoot 'em up with a twist, inspired by classic arcades! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "81 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/14b31e75b6a5eb074299eb54dcc2e3a16c68c58e1a264eb309847c70a2c7dbd8.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "Flowing Lights is an Arcade Puzzle Shooter. Each fight is a puzzle. Attack and... Fail! ...Think back... try again! Got it? Improve with each try, there is always a smarter way to win!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

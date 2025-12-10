@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfe35872eeef815c0d7d5b6693862661388d390bc3425e97e21c769234ffc925.jpg"
 	],
 	"releaseDate": 20210429,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fly TOGETHER! is a multiplayer game of explosive airplane action that will challenge your inner air traffic controller.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "656 MiB"
 }

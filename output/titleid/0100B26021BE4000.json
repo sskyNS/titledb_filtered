@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7150c65549454719398ddf9acc35f6459fb4b1b2bea68ce618504d9d310735e0.jpg"
 	],
 	"releaseDate": 20250131,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "In the peaceful village of Acornville, an ancient legend tells of a treasure hidden by the town's first explorer, a secret that has intrigued generations.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "228 MiB"
 }

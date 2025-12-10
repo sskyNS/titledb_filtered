@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/12e21fcf4ef8ce9e77a54c9dc39acbd23e3fdbdb7c52a0281557bbd2dca4ff50.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Are you ready to defy the ravages of time and emerge as a true survivor?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "321 MiB"
 }

@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae27d1641e13ad863e5869b90b4edcfe61a54ef08dfa454e0335ca0f2ea2615f.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Minimal input, maximum tension \u2014 return to the blue planet.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "440 MiB"
 }

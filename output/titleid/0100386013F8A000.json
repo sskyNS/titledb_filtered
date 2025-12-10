@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3a5b2c426e6f6ce6850b8b0f14c8d70ebe379dcb93d7edff9233cdb9045504b.jpg"
 	],
 	"releaseDate": 20210220,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Other"
+	],
+	"intro": "A casual ice cream shop tycoon game where you need to make your customers happy by stacking up icecreams and make them even more delicious with toppings, syrups or dips!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "144 MiB"
 }

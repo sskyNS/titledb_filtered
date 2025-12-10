@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/adcbf1a9be51a68bd88169f16bcc8739645cc0cf3878e161276824aa45f61ed9.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "DateJournal combines a dating simulator with a board game and minesweeper.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "682 MiB"
 }

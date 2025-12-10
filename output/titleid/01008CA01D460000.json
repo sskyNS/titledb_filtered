@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8d300a6372b35866949d350d370240f0a7ac93b26e03532d959a33ebd609261.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Erogods: Asgard - is a dating simulator with feminized Norse gods.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "713 MiB"
 }

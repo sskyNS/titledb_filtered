@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/33b4403d73e6facee48d39eadc4fbe2273e2812bfe69d642cc11360157e29e27.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Hit the gas, defy the limits: rule the roads in Highway Legends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e3e2ad87ae806a05a4bddc11765e9fb8f1cf15af559007fdd7cfa360163888a.jpg"
 	],
 	"releaseDate": 20201023,
+	"category": [
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Scream like a man! Scream like a goat! Scream together! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.46 GiB"
 }

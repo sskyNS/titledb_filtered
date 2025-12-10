@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/71870a026db899558b24039fdc0cff453ab4aa7bae830770955ecb3b0b33cab1.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Modern pixel art platform adventure with an epic vegetable hero",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

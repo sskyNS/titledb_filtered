@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/41ffdd7ca1944b68cb82ea8d327ad0da1953369ad537f111770306809346bffe.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Challenge yourself to a new kind of bullet-hell fusion shooter. Change your aircraft to get new skills just when you need them against advancing foes. Aim for the top!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.32 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b721740564a995c2222405d24449110604c97d9c8aeda6dd44969a75e4801a06.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Racing",
+		"Platformer",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Ride, jump, and challenge gravity! This bike balancing game is all about two things: getting cool rides, and pure racing! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

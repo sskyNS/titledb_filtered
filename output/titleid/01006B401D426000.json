@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cbeddadb794fafe78441975c9f1552eeb1ba96ae2db1576630996894c7eebad.jpg"
 	],
 	"releaseDate": 20250805,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Defend your cat towers from hordes of monsters with a power of match-3",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "640 MiB"
 }

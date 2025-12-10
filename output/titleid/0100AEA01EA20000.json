@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/97715d9db575b84da4b27ac988f8eb0adc68c5b4c2a0d60baae09192a1e054db.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "New puzzles, new challenges! ",
+	"languages": [
+		"en",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

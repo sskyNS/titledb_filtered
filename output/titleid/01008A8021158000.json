@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/01e8d6f0b1a8606f04a8ed6fddaa7310eb7a6f59e92b681724b51fbf08d867ee.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Manage the city lights and try to avoid the chaos!\nRock the apocalypse in punk style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.51 GiB"
 }

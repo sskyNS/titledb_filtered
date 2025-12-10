@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2988848cd67adb1d3d9d8477e8ff4c4df5467d18ce60b5a8ace12ccbb25e6efd.jpg"
 	],
 	"releaseDate": 20190329,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "When those you Love have been taken and a Maniacal Fiend wishes to take over the World, You need a Hero of a different calibre. You need a hero, like METAGAL!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

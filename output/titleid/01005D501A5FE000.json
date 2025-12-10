@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5184c0c4f38d84748c7fdc409fc9c48db2924f2d92cacae81e587fedffa7f2f.jpg"
 	],
 	"releaseDate": 20230531,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Decarnation is a pixel art adventure/action puzzle game with a horrific story inspired by some of the most influential films and novels in the genre. Dive into a breathtaking thriller...",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "642 MiB"
 }

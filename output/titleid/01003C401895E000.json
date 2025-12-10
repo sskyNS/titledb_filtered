@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9365f91e08700baa40864c9e88d74981b8b56bd258d072f185a2a8fb31d3d9b2.jpg"
 	],
 	"releaseDate": 20221115,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Who will win the Lasagna Party?\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "960 MiB"
 }

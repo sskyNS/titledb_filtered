@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b073585cbf950310a3ef739cf8650def355d6f67cf74329f55be4eae1543ce97.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "A Pretty Odd Bunny is a stealth platformer about a rabbit who likes eating pigs. You play as a red-eyed rabbit and help him reach the pig at the end of every level.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "315 MiB"
 }

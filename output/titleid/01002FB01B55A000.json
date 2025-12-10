@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a457f993abb3ada484e6a196b638b25a49ef6dff16a870312a2f692d1886bac.jpg"
 	],
 	"releaseDate": 20230930,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Supfly Delivery Simulator - a game in which humanity is ruled by delivery service and now it's your time to become the best deliveryman in the world! Do your best!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "182 MiB"
 }

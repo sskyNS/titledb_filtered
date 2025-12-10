@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebcd42765d9dc9b9c839e752ab533297837f9b191d66c1ff3cc92240bb0fc4d5.jpg"
 	],
 	"releaseDate": 20211231,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Experience \u201cEufloria HD\u201d, an incredibly addictive ambient strategy game that anyone can play!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "402 MiB"
 }

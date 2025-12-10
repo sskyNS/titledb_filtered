@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6023f9f1f79943b5f279ad596fee9bb771ed8442980ba649e309bfa10a879496.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "25 Days, 25 surprises, 25 games! Count down to Christmas and enjoy a new present every day!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "564 MiB"
 }

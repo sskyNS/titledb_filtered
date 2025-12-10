@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cf918af6bc42b651bf1edd1368ee2ce269642f078a3c344b0c0effd8f700f6c.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A creativity-driven RPG about a rundown theatre and pleasing its unruly clientele. Help the Rainsdowne Players become the premier (and only!) theatre troupe in town!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

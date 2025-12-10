@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0fd7ff39867e8c704ccdbba9461551c1c8796f5f65ec709aa182f82f2a44201.jpg"
 	],
 	"releaseDate": 20220101,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Fight terrible enemies through a varied fantasy world",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "192 MiB"
 }

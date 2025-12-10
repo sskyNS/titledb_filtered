@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd13a2e53884057f936e3cc00cc63e25e9faed9ef7567b7cfa6f303ef2009327.jpg"
 	],
 	"releaseDate": 20220609,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Mini Gardens is a logic puzzle game inspired by Japanese puzzles.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

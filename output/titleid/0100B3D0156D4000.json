@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/814bfd851da95e0b26538965b591621c37ca0af5bb1088c4ecf4f956784ee729.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Battle enemies in a real-world setting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "43 MiB"
 }

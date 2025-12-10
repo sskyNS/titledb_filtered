@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f174d3476a3b10205af93fdec4b290ed6c4876b2aa3b81edae0c810ab2bc6b9.jpg"
 	],
 	"releaseDate": 20230419,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A physics-based game, where electromagnetic powers are at the heart of survival!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

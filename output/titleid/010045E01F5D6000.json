@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/039ade8c1db9e196b30ac1aec4e18c6bfc56b1ee35ed431af21180f2d536ab60.jpg"
 	],
 	"releaseDate": 20240730,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Stick Guys is a strategy game to protect your castle from evil enemies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

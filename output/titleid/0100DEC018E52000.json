@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/48da44180966382e9b220aa19ac13d384b8283ce9e0ba543ab9400dedb41536f.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Are you ready for a car driving adventure of a lifetime?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "479 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09d03a14d3e36ad775d2bde900382acb89fc267d4b08a20c7650ead462a06ffa.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Gather your angry team and attack! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "587 MiB"
 }

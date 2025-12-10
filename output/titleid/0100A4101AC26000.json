@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/aea2b1733289a25553f03f97ec51cb8ed9e6e2c7767a25f01c92e7a8d62411a1.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Cultivate your garden, brew potions, and enchant your customers!",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "842 MiB"
 }

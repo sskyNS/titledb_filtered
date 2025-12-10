@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5c717f5ffb676afdfb0612bacf4f07764c13f32f7c79ce888a0226b361e6967.jpg"
 	],
 	"releaseDate": 20240904,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Dig deep and make it big as you pilot mining machines to collect subterranean resources in pixel art style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/858c30f680f4f69f93ab197c96db36632a0f0759513ebbf80e7a44160284c8a3.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Fighting",
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Get ready for the ultimate Arcade Boxing, Retro-like experience in a game brimming with blood and violence.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.42 GiB"
 }

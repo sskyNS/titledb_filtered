@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6f02143237ce395888866119a0ab1b75614c311fe9c34e802640e95640fdf87.jpg"
 	],
 	"releaseDate": 20231121,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A 2D adventure platformer with turn-based combat and a mind-bending narrative.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

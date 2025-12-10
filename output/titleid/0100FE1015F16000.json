@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/03af6f3c886147b42285d2024652fadf41ac79f13f25b0dd922753d05bb2e71f.jpg"
 	],
 	"releaseDate": 20210816,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Enjoy a classic game of chess at the height of the Middle Ages in which the pieces have come to life!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "197 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba6eff5c8ab26540bb1d96d2ffe77726fe0fca9d74197791d998cea439995ab3.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Maximillion Fortress is 2.5D Side Scroller Game\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

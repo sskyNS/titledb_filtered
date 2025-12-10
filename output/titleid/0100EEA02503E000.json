@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f91254739a6f072e25c5ff36840fbf8ab1ecba77346d65831c16bd89ee52160.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's time for a piping-hot roasted sweet potato challenge!\nYour customers' satisfaction depends on your skills!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "245 MiB"
 }

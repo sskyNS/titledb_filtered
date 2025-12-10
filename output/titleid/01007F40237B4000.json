@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a849c2009771a03d8a7409539d2cec8fe90b8ffe50e58563265f994ad1afaa2.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "From Pitstop to Podium \u2013 Dominate the Circuit.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "775 MiB"
 }

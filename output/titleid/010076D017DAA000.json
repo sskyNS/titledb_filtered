@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/26f7994533389d424cc0cd05c9f3e79f504289d7811229b1ae6ce6f0cfed9ac8.jpg"
 	],
 	"releaseDate": 20220926,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play as a mouse and explore a quaint French village, make electrifying friends, and do good deeds for those in need in this lush narrative adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

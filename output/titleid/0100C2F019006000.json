@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8daddbb1e51f77f7f7604dd694a92e5af22ba7fa6ce4068a39c1df9df65360f.jpg"
 	],
 	"releaseDate": 20230221,
+	"category": [
+		"RPG",
+		"Arcade",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Two legendary RPGs that never saw the light of day outside Japan - fully localized in English language for the first time!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "35 MiB"
 }

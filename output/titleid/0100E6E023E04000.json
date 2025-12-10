@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/16d7fcd3d492134e7cd0c9701f247899fbebb176929fe4f37ad9e50444576566.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Run for your life and never look back!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

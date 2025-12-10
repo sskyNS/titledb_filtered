@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1225a1dfaf6fdf24b32f411e11ecb32bfd4bd45109a913a14aac64cb4a7193e6.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The chaotic feast never ends!!\nThe fight for the \"CHAOS CODE\" now in your hands!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.81 GiB"
 }

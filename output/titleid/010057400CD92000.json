@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3614c5c88c44cc7e451e12b64634f08d73d70e69a6ae5e82e87aebbda85a51eb.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Party",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Run, jump, grapple, and pop your way to emerge victorious amongst your friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "205 MiB"
 }

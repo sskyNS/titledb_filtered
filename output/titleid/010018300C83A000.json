@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/10ebee238f94f9a262b1632414fe7c3bcd54d3274de215ecf03aa763cce8a751.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Become the most epic intern of all times (or at least save your own neck), in this frantic puzzle-adventure game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

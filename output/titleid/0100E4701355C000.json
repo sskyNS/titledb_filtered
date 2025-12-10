@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6083a9691c66f1d75d4486eaa73312442608223a1a427c4dfc468831caf0cb56.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Turn your foes into allies in this Action RPG with Rogue-lite elements",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.41 GiB"
 }

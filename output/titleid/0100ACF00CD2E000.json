@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb43497dfa30e2cc40ab12b70a88711ab0f4f2b84c99381b561e43e313749ec.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Cyberpunk Dungeon Crawler",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

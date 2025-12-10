@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a7afb4caba4e46a77ab08ecd828bebc35cbb0bc121f434b3ca40b264a3da34a.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Yuma, an amnesiac detective-in-training, and Shinigami, the spirit haunting him, tackle unsolved mysteries!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "15.17 GiB"
 }

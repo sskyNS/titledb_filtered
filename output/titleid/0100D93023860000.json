@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/144257e846ad134df195f92ac44b57858d3d7577a1c18d7304a01007e48ff7d0.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Push the Limits.\nChase the Clock.\nOwn the Road.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "485 MiB"
 }

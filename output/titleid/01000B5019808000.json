@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89d28315b1b03c71c5c5940a46080c7d81b2e028360b6c91f9f57932ae9880c2.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Lost Chiko is 2D Adventure Game,\n\nOur main character, Chiko, is lost in this universe. And it has to get somewhere.\nPrevious explorer Chickens are failing in this adventure,\nand you'll see them as you travel through this adventure, and they're probably not very lively.\nBut Chiko is different from them. You need to help him in this adventure.\nTry to finish the game by defeating the enemies and finding the right items on the large designed maps.\nJoin this adventure through Forests, Caves and Snowy mountains!\n\nFeatures;\nCollect Items (Door keys, Foods and More!) on Your Inventory and Use.\nTreasury Chests on Maps\nThrowing eggs. Yes, you can eliminate your enemies with eggs!\nLarge Maps,\nChallenging Maps.\nand More!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

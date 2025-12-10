@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/01189f7fab4dd8e19d6e0cc1b31c8732637d0ebda0c22081982cfe1e59da0cc3.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A simple and fun arcade game where you'll feel like a real adventurer, escaping deadly danger. Save your hero and help him escape from the ancient temple.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

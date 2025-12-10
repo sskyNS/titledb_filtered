@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e13c55a3a89497bcb91281354811c48a8c7f2bc9d67bf4fe31ba84585117e3b.jpg"
 	],
 	"releaseDate": 20250222,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "A fast-paced arcade space shooter with epic battles, stunning visuals, and intense boss fights!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "177 MiB"
 }

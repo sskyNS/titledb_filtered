@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6a7e63222841c859985e4f10bec6fa9cb9934281c9bfba1256981551380b816.jpg"
 	],
 	"releaseDate": 20231108,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.55 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ba819d4dcf8420926b0ca54486655b3151c4593e3373d65e575b2f9dbab346c.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Bullets, brains, explosions! ",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "622 MiB"
 }

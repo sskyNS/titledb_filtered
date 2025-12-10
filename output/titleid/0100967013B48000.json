@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d99eb62f32bb333ef3d7e6760b19a6086b896d3a235a3e788192af1394370fa.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Adventure"
+	],
+	"intro": "DISTRAINT 1 + DISTRAINT 2",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/df16defb2e9cb528877fe43b591534ac684477ea8f78a121236a90ab505b7406.jpg"
 	],
 	"releaseDate": 20190722,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "\"Drift and slide like never before in an arcade rally game taken to the next level!\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.68 GiB"
 }

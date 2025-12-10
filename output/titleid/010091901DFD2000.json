@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8b0d738dd7cb910c305a1632477dcebffa21bbac150f365e779437b49031d1e.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "FRIGGIN' ALIENS! They hijacked your ship and kidnapped your shipmates. IT'S ENOUGH TO GET A GUY...PO'ED! \n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

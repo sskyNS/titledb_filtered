@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/adc3898334029b50c2480b8677a3914ce5bccf4e31d75ade21951fd0bfb793db.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Embark on an epic action-adventure to save the Kingdom of Avantia from ruin. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.54 GiB"
 }

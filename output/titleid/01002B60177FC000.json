@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/37b13fd9d4bfc81cd1e9735d77362656692c34be366650c55fe0a5b3b6ce846d.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Go on a voyage of discovery following the traces of a mysterious culture. Discover diverse landscapes, investigate abandoned artifacts, and wake strange machines from their slumber. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "716 MiB"
 }

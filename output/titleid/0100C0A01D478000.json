@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cccc4606aa86791b78864ee99a323077776a1eaaa9710fe737ca88224491d0d.jpg"
 	],
 	"releaseDate": 20231224,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Join the party extravaganza with Party Friends, a riotous collection of over 20 mini-games spanning 4 wildly entertaining themes - up to 4 players in multiplayer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "782 MiB"
 }

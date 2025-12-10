@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf8ed8d8dad38075a8a6344e3debaa6f5e10a67d415cce340055b964d6894dc6.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Rebuild civilization in the face of apocalyptic rains.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

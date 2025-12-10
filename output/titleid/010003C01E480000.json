@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2806267260bcd4e20d86f30699a98970494890c8079f89c1bf3329b288876598.jpg"
 	],
 	"releaseDate": 20240220,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Hopping Bunny,\nThis rabbit needs to jump and overcome the obstacles that are dangerous for him,\nDo you want to help him?\nBut you need to collect the Keys to pass the level.\n\nWhen you jump, you can stop time!\nThis feature will come in handy because sometimes\nYou will need to maneuver in the air!\n\nCan you pass 20 specially designed levels?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

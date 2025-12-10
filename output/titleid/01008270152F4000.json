@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f65557c5c5c6811101a6b987fdf5043bdf4b914330a4b84c07fe72a75727b74.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "3D cartoon style graphics with stunning effects.\nJoin your friends on an adventure in a local Co-op mode.\n10 stages to overcome with many brutal bosses.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "486 MiB"
 }

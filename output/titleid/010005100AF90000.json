@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fe17ca1a0b0912ad9e9d89c044f26d566d40e101261da4d85a839285c882330.jpg"
 	],
 	"releaseDate": 20190122,
+	"category": [
+		"Racing",
+		"Sports",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Nail the perfect line in the future's most challenging stunt sport!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "502 MiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2599138f17932c07c4609ffd57e508888e8ff1eab1164d99bd5ccf0bffc30e87.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Help Idaho Joe explore the caves of Idaho seeking loads of treasures. Watch out for rock monsters. Idaho Joe only has two survival skill. Jump and Jump Higher.  Collect all the coins and become a billionaire explorer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

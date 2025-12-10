@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd6a2b3e5621f4abacd1e9d66ffa5cef9935986f8a58acc588038846844e349d.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dark shadows are rising once again! Spirits are restless! For he has awaken!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "443 MiB"
 }

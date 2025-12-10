@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ad854c8c225f378aee26053b4759ca545569cc5cbc1cdfdefc1f72aaf63cd7c.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Will you be able to save Mother Nature in this vast open-world Adventure?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.44 GiB"
 }

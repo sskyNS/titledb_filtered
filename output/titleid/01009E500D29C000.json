@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f827df681b3f9b0ed9004b5e01e4c218c9c0413db0fbfa21495b269f30d8ce3.jpg"
 	],
 	"releaseDate": 20200730,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Create your hero, lead your team, and save the world in this exciting new turn-based strategy",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "13.34 GiB"
 }

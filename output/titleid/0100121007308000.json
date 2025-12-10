@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/818cf39f5131da29d211575d23035d97863e12713744780dc5ed7832149f96e5.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A ridiculous platform game where you propel yourself around using your vomiting superpowers!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "410 MiB"
 }

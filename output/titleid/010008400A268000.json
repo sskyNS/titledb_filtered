@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/24309c48edd3e5eceb32498e9fe1fac8d2fea4019ad51cd2d5e9c5b9b17f171e.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Other",
+		"Puzzle",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Explore the social life of Laura in this spiritual sequel to A Normal Lost Phone.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

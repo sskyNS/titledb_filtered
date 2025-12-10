@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/520bf2a2b155a0c983656336b795e4cc942685b6407bff907810ff9f1a087305.jpg"
 	],
 	"releaseDate": 20231117,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "CHANGE THE STORY. SHATTER FATE",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.20 GiB"
 }

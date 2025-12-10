@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/889064e4bc6e3747efe57ef7c7dfea23199fcedd03c4d0d74b182c756905584a.jpg"
 	],
 	"releaseDate": 20180206,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "In a bizarre universe where the oppressed are on the brink of oblivion, Dandara has awoken to reshape the world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

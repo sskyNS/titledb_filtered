@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ece62e82838230946646f7906ac0692f840bd8dbdb51bbaed54bb328f63c611.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Platformer",
+		"Action",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Rain World simulates a harsh, complex ecosystem- one where you are both predator and prey, hunter and hunted in unforgiving, apocalyptic climes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.04 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/91dd1e33820b2c9c780aaf993ef1241cb7589872100e510b4e43c78766fd3e8c.jpg"
 	],
 	"releaseDate": 20250423,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Every step matters... Are you ready for the challenge?",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

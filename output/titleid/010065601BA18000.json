@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e05a95da09be0f527daa20c003422af3956419ec904cd1ce1e0d88efecb91ff4.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Enjoy this textless journey, where all ideas are shared in icons and your powers of observation will be put to the test. You play by rearranging and reconnecting public signs in order to explore and advance through each engaging environment.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

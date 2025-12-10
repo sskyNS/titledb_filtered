@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb2921f1b23316671980ac86964a34c0e4ca4af21da32e352aff292ed6cb0d86.jpg"
 	],
 	"releaseDate": 20240628,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Clean, Build, Prosper: Sweep Your Way to Success and Family Fortune!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

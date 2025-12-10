@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/168df9c0d23b854b3a45f059764ac220ca6fa1f2727303bd6b696f66401c0fec.jpg"
 	],
 	"releaseDate": 20250325,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Breakout is back! Choice Provisions has flipped the legendary series on its head. Or rather side.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "761 MiB"
 }

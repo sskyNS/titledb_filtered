@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/39340d4f3d522512d5698ebf7bfe9fbaf27a974c6d5aea4c4dd9a4d41e73d3ef.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Lady Archer to solve the case behind murder mystery in Egypt.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

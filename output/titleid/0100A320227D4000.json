@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2dea79f5bb662c1fad0b62232b80c76abb346c11a8863e9a4af676a2d431e7b1.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Run like a Toaster! Collect slices of Bread and speed up by shooting Toast at the Vegetables!",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

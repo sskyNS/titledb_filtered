@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/90e338fd611ff106620fb8e8fa427590b511a465c74327ca6a8ca6063eee944a.jpg"
 	],
 	"releaseDate": 20230301,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A Young Fox and his Robot Search for Meaning in a Beautiful yet Dangerous World...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.05 GiB"
 }

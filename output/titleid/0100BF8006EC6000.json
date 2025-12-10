@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c1186415cea688610108f3f99f31ed796539a39d3aa322bab8e64c78a95c7eb.jpg"
 	],
 	"releaseDate": 20190314,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Use elevators to crush enemies, collect the confidential documents, and escape!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

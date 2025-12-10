@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/684352e7b6692a41a09d58b163671242c4ccd0fdd1f87b2be1090f686a44a156.jpg"
 	],
 	"releaseDate": 20171024,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Break Ahmanet's curse in this retro-inspired horror adventure! Exploration meets blast-'em-up action!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "785 MiB"
 }

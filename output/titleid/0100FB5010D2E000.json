@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd09ff2f565a7f51b2b4ea0227460e2a4d1b636050b5c81a6b8b4bcd749d00cb.jpg"
 	],
 	"releaseDate": 20200219,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "3000th Duel is action-adventure game that has speedy, exciting battles as its charm.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

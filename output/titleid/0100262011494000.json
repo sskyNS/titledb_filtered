@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f211870b4c46fed6bc7ab99844a1f992e530094bc7c62a5c7b1b11a3a5d8682.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Blackwind is a top-down sci-fi action game that puts you in the shoes of a teenager piloting a prototype battle armor suit during an alien invasion.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.52 GiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/94aa940b9fee5d85fc6b8dcaef343ea54509b5eb6bf010901251167ac3f85c22.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Conquer the world and continue the legacy of the demonkind!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

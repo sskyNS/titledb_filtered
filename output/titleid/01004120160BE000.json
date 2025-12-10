@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d5941e663f21252a53c64230be4d0e2f61bc91927870849b5fa6adaf775d8bc.jpg"
 	],
 	"releaseDate": 20220322,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Music"
+	],
+	"intro": "Tempest 4000 is a visually stunning, action-packed tube shooter based on the classic hit arcade game, Tempest.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

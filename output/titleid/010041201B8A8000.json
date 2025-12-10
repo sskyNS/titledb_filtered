@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7deff66c0d5403133c689286463a330dee65afaccbd4801a82bfdb3684b23950.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"\u30d1\u30ba\u30eb",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
+		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+	],
+	"intro": "\u30e6\u30a4\u3001\u30b7\u30e9\u30e6\u30ad\u3001\u30a8\u30c4\u30b3\u304c\u7e70\u308a\u5e83\u3052\u308b\u9b45\u60d1\u306e\u4e16\u754c\u3002Nintendo Switch\u2122\u3067\u63d0\u4f9b\u3059\u308b\u6700\u9ad8\u306b\u9b45\u529b\u7684\u306a\u30d1\u30ba\u30eb\u30b2\u30fc\u30e0\u4f53\u9a13\u306b\u3001\u5f7c\u5973\u305f\u3061\u304c\u3042\u306a\u305f\u3092\u8a98\u3044\u307e\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "807 MiB"
 }

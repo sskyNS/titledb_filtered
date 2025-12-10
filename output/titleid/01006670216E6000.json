@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdf01b3b1a5c15a21792e6ed657b40cc7f79c0bf6941746f16cd55e453e88c52.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Don't get stuck in this loop for the rest of your life.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

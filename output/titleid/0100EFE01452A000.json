@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/75bc53002bce5fad8721a6373d893343118e8a20039bfd79d63365c60fb81b53.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "One hose to clean them all!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "436 MiB"
 }

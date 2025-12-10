@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/61b1214e3cf61da61f006df434bd4ced325b89155ed0c25bb7b37c952ac8e7e0.jpg"
 	],
 	"releaseDate": 20180713,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Inspired by an arcade classic, Super Destronaut DX is retro space shooter that pits you against an enemy more dreaded than a UFO, a scoreboard.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "140 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4eb6ae84d186c3a1ada0c7082366727bd3bd43c1c75a3d078b2876bf1dc4d13.jpg"
 	],
 	"releaseDate": 20181225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Music",
+		"Other"
+	],
+	"intro": "Single-button, music-based challenging side-scrolling game with a beautiful but dark monochromatic art style. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "824 MiB"
 }

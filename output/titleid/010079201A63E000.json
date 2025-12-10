@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7629b10e6f0220b636907759d3057ce6ffc38233fa433e3e8281c85ef712e3c.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Shooter",
+		"Strategy",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Invite your friends for a conquest of a new planet in D-Corp.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.60 GiB"
 }

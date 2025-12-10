@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8213a69da18689132fe7e5b0efd4e48ac6b88be7038eea73ae564da28e75def.jpg"
 	],
 	"releaseDate": 20201210,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Your mission is to destroy Antarctic Bases. Go and bring peace to the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

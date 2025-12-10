@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea9ad4ec0d28a30ce716b83395d7905d9c7cd5a699379d2fa360e104dd44042d.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Guide a toy truck through a mysterious, playful world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "171 MiB"
 }

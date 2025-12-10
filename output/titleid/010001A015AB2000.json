@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/20d80c6652a1150ad07ea2ee7b648d3a5111f142b3e4686f4e7f1e1b1eb4be90.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Two characters, two hands, at once!\nA unique and peculiar double action for Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.20 GiB"
 }

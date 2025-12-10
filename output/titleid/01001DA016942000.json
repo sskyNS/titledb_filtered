@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/db443a39035f308122e05e69fe2373709534d4266432518771668244dbd48afc.jpg"
 	],
 	"releaseDate": 20220302,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle",
+		"Racing"
+	],
+	"intro": "An incredible evil threatens the world once again!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2a15ea559c5110b1c0a7ab0f8b03a98826d22e0b999eb9693797844b6a4e65f.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Board Game",
+		"Party",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Build your railway empire! ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 5,
 	"size": "1.95 GiB"
 }

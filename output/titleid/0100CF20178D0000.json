@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2d412857f0b3594bda894520998788d9ba823090444b0437e01ac4a239b02ae.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Expect unusual surprises!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "108 MiB"
 }

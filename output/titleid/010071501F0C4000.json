@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/375214f3868214c8e3938419cd15322183956194c41a9eae957c83b9fe6b40eb.jpg"
 	],
 	"releaseDate": 20241022,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Hookshot your way through a unique platforming adventure",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

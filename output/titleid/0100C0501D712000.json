@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/412d7d0d173f379dc15b3d719ff698c360abba1356669871fd9564b4f73299a6.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "In this game you can't pet the dog... because YOU are the dog! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "744 MiB"
 }

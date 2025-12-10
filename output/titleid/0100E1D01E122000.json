@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd26b85a436c8e2117156c024950814d470e5e8438ca829b26a31136c2329251.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Defense + Shooting + Roguelite, simple yet fun. Enemies will continuously appear from the right. Can you withstand the onslaught?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "956 MiB"
 }

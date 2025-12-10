@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc73153ffbe9cce5e781fc3db0ca0dcde2c468b42d0b7ecaa53f0861c6da1ffd.jpg"
 	],
 	"releaseDate": 20190802,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Can you infect the world?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "985 MiB"
 }

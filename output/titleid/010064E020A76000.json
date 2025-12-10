@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4224b2efe613c6e0a593cc1d103434f3760e7a9855e6acf8d295a8bcf63c469.jpg"
 	],
 	"releaseDate": 20250125,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "The city\u2019s most prized cars, waiting for the perfect thief.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.38 GiB"
 }

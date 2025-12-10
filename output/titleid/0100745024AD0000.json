@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9222bc4993c5f2dc38acf4602c0317e3aecf26ab64dcc62ff7073685c48c5512.jpg"
 	],
 	"releaseDate": 20251002,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "When it comes to fall flavors, sanma is a must!\nFan the flames and grill up some delicious fish!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "314 MiB"
 }

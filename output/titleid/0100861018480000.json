@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3ba3e30ac1327e4ae782ba6004a1274e62642c78d1bebbd5a69070835d69984.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Solve imaginative puzzles while navigating memories hidden inside nested worlds",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.15 GiB"
 }

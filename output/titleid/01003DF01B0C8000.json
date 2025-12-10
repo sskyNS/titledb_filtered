@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ec3c86d4fb396d330c015881693fb5973485ae4ed33d1c47674e7b2e148c6de.jpg"
 	],
 	"releaseDate": 20230630,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "A time-bending action platformer shooter you play your way.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "145 MiB"
 }

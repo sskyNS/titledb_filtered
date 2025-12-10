@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1cb29d99f3465dd75f70c215a57551b1ceab5677641c23726269b79a4262e965.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Blast into an action-packed roguelite adventure through time, where Earth is under attack by aliens! \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.85 GiB"
 }

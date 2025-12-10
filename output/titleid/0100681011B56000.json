@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/25e34d8bd18c8e0446c05cf440a3eeb20d5eecba52606caa5c61ea4f40cfc763.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Platformer",
+		"Strategy",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Struggling is a physics-based co-op platformer with a twisted spin on teamwork. Control the arms of a squishy abomination and lead it through a deranged world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.83 GiB"
 }

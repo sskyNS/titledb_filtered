@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c369abe2b87dd8129346dc0f428c849cf3ddfd95b0eddfd820204186a4fbac89.jpg"
 	],
 	"releaseDate": 20181127,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "The ultimate off-road experience!",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

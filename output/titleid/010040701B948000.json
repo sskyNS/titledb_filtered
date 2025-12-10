@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dcdc47ba75264b83a6e031c5c22a277aafeef1d0c8794b05252d18cfb15835a.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Multiplayer",
+		"Shooter",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "Fight in iconic battles from across the STAR WARS\u2122 galaxy",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "23.18 GiB"
 }

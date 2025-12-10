@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/22f9fd883a77aac8732a36b080e051a07049913bfc8c645191c0572134bf91e9.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Join two heroes on one grand adventure!\nThe PC version achieved 2018 #1 at the German children's software award \"TOMMI\"!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "980 MiB"
 }

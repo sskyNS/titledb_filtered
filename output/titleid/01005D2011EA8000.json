@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/975431864c496f3882d2cb81b32f9312fec062c42232adcb4dbae13616b4d970.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Music",
+		"Action"
+	],
+	"intro": "Experience the music of KINGDOM HEARTS like never before!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.17 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/27a11caecffb53bb7d031b90a4c6e95b9b9ebe83f977d5f226f94008578f07a5.jpg"
 	],
 	"releaseDate": 20210112,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Tower defense reimagined! Dead Ground is a procedurally generated tower defense game with rogue-like elements. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

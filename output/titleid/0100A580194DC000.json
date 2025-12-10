@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f76aa1297fad299ee69d6d6673d014dae91cec492ffae0d321722afdc5e304a4.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Transform into demonic creatures and fight the seven deadly sins.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3eb9d81a8786fd15a847e9553f883d17d28ec08da8724e021ef36aa600519e6d.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Roll, jump and fly through Balloony's adventures! For 1-4 Players",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "201 MiB"
 }

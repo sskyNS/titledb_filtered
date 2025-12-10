@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/08e49843278bd1069d12ff4f762923e1a24fa56b981204784ece6a3257439afa.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Music",
+		"Action"
+	],
+	"intro": "Slide to surf, tap to jump. Experience original soundtracks and travel in dream journeys!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

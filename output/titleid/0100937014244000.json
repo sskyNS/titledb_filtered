@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/18b42dbee2bf46084638991f7aa9a3126b8c7cb1c6daf0c7ebe0df2858be4115.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "What The Dub?! is a multiplayer party game where players overdub missing dialogue from hilariously awful B-movies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.75 GiB"
 }

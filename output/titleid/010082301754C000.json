@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2918c53e1cdd0340da39efc7ede4aff73fe8d4390f1c1ac26dc5a2abccd05acd.jpg"
 	],
 	"releaseDate": 20220318,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "You\u2019re a god of an ancient forest. Answer the call and jump & run your way to help humanity in this fast-paced, retro platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "863 MiB"
 }

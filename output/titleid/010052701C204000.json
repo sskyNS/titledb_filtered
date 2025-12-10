@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff430b7f5747a19b9ebc286a4e03554c5b92e350c2e1f2992d4e639bb5f3b6e4.jpg"
 	],
 	"releaseDate": 20240410,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Experience fun moments as if you were playing a cartoon!\n",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.30 GiB"
 }

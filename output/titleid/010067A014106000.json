@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ca0eda1bd3562d6deeee58fe3062c513fe0580a5414cce876f65e7176b5dd7e.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "You have the night to win a clandestine tournament. Lead the rankings, get the prize, pay your debts, escape hell.",
+	"languages": [
+		"ja",
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "484 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b2f3008aa1d3062e652bf1e85b21457a1d143900951108e7e8ccd38cc020f99.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Link The Cubes is a relaxing puzzle game with cute little cubes. Solve the puzzle levels by connecting the cubes and moving them to the goal.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

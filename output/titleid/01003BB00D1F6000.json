@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b09e1326e5a05b6a0bb353a679d9113124cd66b14a32e9c25eda18eebb34a65.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Party",
+		"Shooter",
+		"Fighting",
+		"Racing"
+	],
+	"intro": "A comical versus game for everyone to enjoy!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "399 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/738a75d52820d876de1186cc790760cba0d601daac0250ed2cab288a789930a3.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Void Bastards is a revolutionary new strategy-shooter that will test your wits as well as exercise your aim. Can you lead the misfit prisoners of the Void Ark through the derelict spaceships?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.05 GiB"
 }

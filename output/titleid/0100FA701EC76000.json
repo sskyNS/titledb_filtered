@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/01d2905ea250e1afdec66d8d6cc7010c9228ca49135ca04b29887e2239c54162.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Choose your Spells, Perks, and Traits, then let the Wizard do all of the work in this unique Idle RPG!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "706 MiB"
 }

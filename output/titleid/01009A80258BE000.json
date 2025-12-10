@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0170ef4c17ed8d188056dc1d48c884e9e66c712657419261368fb63cc2b620a1.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Galactic Fighters: Which mecha will you pilot, which weapon will you fight with?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

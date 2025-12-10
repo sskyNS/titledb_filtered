@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0786f62111309a9adac0302f7ae299b8c8575cf09df28fbb7be52b3b82765976.jpg"
 	],
 	"releaseDate": 20181217,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Racing"
+	],
+	"intro": "San! Ni! Ichi! Hajime!!!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "3.58 GiB"
 }

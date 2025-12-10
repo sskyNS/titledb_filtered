@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e14574e757785fb488e6e5840e58cf8d80e6e0caf02111a517431faac274a4b.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Break every brick in this retro pixel art adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e150a5aaadc43ff7fbb5808a0c38304ef7e287619b71912a91f98ec43efe76f3.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Merge items to develop the ultimate alchemy",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

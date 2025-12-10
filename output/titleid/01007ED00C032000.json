@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b071915e9542f4990ee878180b83543743524d79c83c19862bddcc13967476ce.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Gear up for Adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.65 GiB"
 }

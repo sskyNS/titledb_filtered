@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d032234e1b9d0550f5e8d7f01db30d6cc7f1cac3f4cb1505c04092342b8054fe.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "A single-player TOP DOWN game that fights against terrorists around the world! Do a battle and play with each other for up to maximum 2 people!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.49 GiB"
 }

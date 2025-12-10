@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e6c611e093c81b9bfa626c7fb113c78d052bbf84162680c5535e5878ae16fbf.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The Cutest and Deadliest Roguelite",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "791 MiB"
 }

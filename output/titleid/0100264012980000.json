@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a06f866f9f9ea9d63f02d15b2f0556c254582ead0c62653d5025e3e6354cffab.jpg"
 	],
 	"releaseDate": 20201002,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Help Lily use her imagination to unlock her memories and relive the events of a night that changed her life. Discover what happened and what 103 is.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "946 MiB"
 }

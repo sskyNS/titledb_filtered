@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a1b6b4ecac7b051205498ee57316b395d30d565cfa20b4bb72ed43e5df08519.jpg"
 	],
 	"releaseDate": 20210605,
+	"category": [
+		"Adventure",
+		"Other",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "A different game, in 8 languages. Exploration game with dialogues and puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "110 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/581425238bfb2052ecad6e6e112e6bd62a00a6a29ceadf8245d6366747fcfc61.jpg"
 	],
 	"releaseDate": 20190411,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Parry, Dodge, Dash and Counter-Attack to outwit and outlast your enemies on a desolate planet ruled by raiders, mutants and fanatical sun worshipers.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

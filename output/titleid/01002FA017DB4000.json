@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/24c7009858ec4d977e439c70649c0958bb2c6eeaea997f3f2306c035a1fdb7bb.jpg"
 	],
 	"releaseDate": 20231017,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Grab some jelly beans! It\u2019s time to save Blobolonia!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac73eed506f374853d980923f34e48a66367af462e72e7a796daef1ffc7e3a57.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Build, explore and survive on floating islands!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.31 GiB"
 }

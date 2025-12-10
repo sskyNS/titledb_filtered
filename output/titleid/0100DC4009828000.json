@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/56d80cea2882fba78c65311662420022d4076a51d2ee325ac9b2a28009808541.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Shooter",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Destroy the target and aim for the exit!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

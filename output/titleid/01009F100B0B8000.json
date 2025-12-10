@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/335e78e6c64109fa1f19014d4a791f1c89354479a819a769feeeec958e713c0a.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Platformer",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Battle your way to the bottom!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "196 MiB"
 }

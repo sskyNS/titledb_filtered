@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d44f8f5e667dd99d1cbfa8190ce83427804c05c7e4288e284db32c7fa292d82.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Part 3 of a Reality single play FPS game set in World War II! The upcoming operation is D-Day on the beaches of Normandy! Defeat your enemies and get your weapons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

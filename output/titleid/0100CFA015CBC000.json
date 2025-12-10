@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7efebb3c89457793bed2b0db408e60d29fdfd85d3ca6e4f6fe602a2eef8e11a5.jpg"
 	],
 	"releaseDate": 20211023,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "10 locations\nDifferent types of tracks\nFighting with yourself",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "958 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f1bf1ad291c65912d241fead93c46a05b2ec6cef2822e4c4827370a1bece615.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Some things are best left forgotten.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

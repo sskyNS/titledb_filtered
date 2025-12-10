@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e4d4b04c4beaaf847f66489abe5cbd001eb49daf5e6dbfce108f74da570260a.jpg"
 	],
 	"releaseDate": 20200918,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Even dragons have their endings.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

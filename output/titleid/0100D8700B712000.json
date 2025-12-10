@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1fb5ed474d4aeac1470d50b67c786286f1de497c8c6c76a9bc15d06cc43bb2a.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Begin the fight to switch on the light.\nNever lose sight of your friends.\nNo soldier fights alone.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.03 GiB"
 }

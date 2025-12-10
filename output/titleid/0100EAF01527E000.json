@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/10d43075400db78f69159ca3817e03ab00155416addc1bcd1fa9ff224fd3c324.jpg"
 	],
 	"releaseDate": 20221206,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Find out what your neighbors are hiding in the open-world of Raven Brooks.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.35 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a984835352a7dbd2e38929021103f28325f50ba1e35047ae3e89ded19133521.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Frutakia is back and better than ever!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

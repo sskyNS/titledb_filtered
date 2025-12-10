@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac763d96d2b39fd6e1b8a3b8242684b6af1390a675be023cdb9afb801a848fef.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Shooter",
+		"Action",
+		"Other",
+		"RPG"
+	],
+	"intro": "A bird of happiness, or fowl fortune?\nFeathers black, all lives consumed!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1017 MiB"
 }

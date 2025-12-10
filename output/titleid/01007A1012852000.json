@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/65312db696b70cd91938dfbffd0e55a608d76224fbea8fe4ef02848f92ef073c.jpg"
 	],
 	"releaseDate": 20200817,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The ultimate homage to arcade twin-stick shooters!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

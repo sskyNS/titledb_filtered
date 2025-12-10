@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3118cee9dc06a2b0821cb2daafe1d7aa91f3fb1a865290f41ec19998b90b7e51.jpg"
 	],
 	"releaseDate": 20251118,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Complete deliveries, unlock new trucks, expand your trucking empire.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

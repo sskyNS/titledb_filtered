@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/24a868730c4bb6f73e929e947244fadee3c4a19b85c3a518435b2836d0136b8e.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Enjoy flashy explosions, beautiful scenery and massive bosses in single player or local cooperative mode!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.33 GiB"
 }

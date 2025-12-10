@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/71dafe6a6e42ad5490c319f6ba44c49706d66fda66b82826bc6f23d451193721.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Adventure"
+	],
+	"intro": "You're a detective, and a frog, and it's time to solve 3 thrilling mysteries!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "942 MiB"
 }

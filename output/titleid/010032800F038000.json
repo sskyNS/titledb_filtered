@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbec7176cd5a17177084888206f873d4279ce142715d26e23d57ee32bee9ca4c.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "M.A.C.E. Tower Defense is a classic tower defense game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

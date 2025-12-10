@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bffa535f475d3a4f222cef5f62525a629ade0396d6850263d521b1d0abb0c6e2.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Aragami 2 is a third person stealth game where you play as an assassin with the power to control the shadows.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.93 GiB"
 }

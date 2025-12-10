@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a1be098fb77d4bfa9a768531575189d1fb3c42297484e8d91c9c70e451dce57.jpg"
 	],
 	"releaseDate": 20200519,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Lead an army of 100 Wonderful Ones from around the world in this Unite Action spectacular!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 5,
 	"size": "8.47 GiB"
 }

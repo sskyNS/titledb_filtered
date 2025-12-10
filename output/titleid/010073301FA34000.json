@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/977ecbd70141e490f790750c76b717d123677791d36189d50c40c56fdcc6a692.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Cute little bunny? Not a chance.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.91 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/51f78a543e53ae93ea7c546667de20937907939a204f637797c2eef1d9dec4b8.jpg"
 	],
 	"releaseDate": 20180810,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "TETRA\u2019s Escape is a platforming puzzle-game all about blocks.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "480 MiB"
 }

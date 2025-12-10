@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e554b8fbbf74eb17e6d40fe24332a69aeaa86db35cbbc7e8a44daebbf992ed82.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Rail Shooter x Caravan STG \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "673 MiB"
 }

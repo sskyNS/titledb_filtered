@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f4c5d2ad2b350c68ab085ce72e19077f5aaaf5105e221d364fbc3982c36a8c2.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Japan Train Models second installment features trains from JR West!\nBuild, view, and run realistic reproductions of trains!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "742 MiB"
 }

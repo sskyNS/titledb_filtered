@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/89bac999b1053926d450f9eff71209b14db5391ecc445f20fdedee4bafed2f41.jpg"
 	],
 	"releaseDate": 20211220,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "An addictive casual game where you will find creative levels and surprises that will provide you with fun for hours on end!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

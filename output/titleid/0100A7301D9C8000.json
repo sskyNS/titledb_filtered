@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/214c89c6340b204af4482627361ec0eaa6b2f2f4adf4a4bb02ff4fcfc5b91e17.jpg"
 	],
 	"releaseDate": 20240112,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Rise from Defeat, Triumph in Every 'GAME OVER' - Navigate the Empire's Inner Corridors with HatLand!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

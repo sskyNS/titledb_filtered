@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2ea24b0c7ca6337e8fc78bcb28e9f4b32b762b1761ce51f5d2c778d5371bdec.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "There is a corporation called ROBOTEC, which was established by Professor Sharpey.  ",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

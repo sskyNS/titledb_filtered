@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2ce99008e7ac25ccdbcf30e4afcb6d90511d497d2129453ed30b7fad1f7451b.jpg"
 	],
 	"releaseDate": 20190913,
+	"category": [
+		"Fighting",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "CHOP is a 2D party game with tons of gore and fast-paced action. Swords will fly, bodies will be chopped, friendships will break!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "647 MiB"
 }

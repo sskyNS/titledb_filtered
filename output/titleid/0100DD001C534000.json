@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8437b77689744b0436b2da8a0427813a0f660273bc71c5a0603b0c4df8866c4.jpg"
 	],
 	"releaseDate": 20231007,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Shoot for Salvation: Your Bullets Are Humanity's Only Hope Against the Undead!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "285 MiB"
 }

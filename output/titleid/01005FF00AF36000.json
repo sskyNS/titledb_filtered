@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/57e2f530848b6d0c57c52ffc063df77bbaf2923b1cf6d1b9b771e2fec4b4ac72.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Take to the air - a wild witch rally begins!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.47 GiB"
 }

@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/234f8933f3ec94d8072ed0513ecedc272d39468caa5171fb91a72c44235fda78.jpg"
 	],
 	"releaseDate": 20180206,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "An action-packed space shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

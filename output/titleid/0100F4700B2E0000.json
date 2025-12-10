@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/54e24ae4469f9d975ff65eaef65f5e3b9e1578d16361865dfb23926806517473.jpg"
 	],
 	"releaseDate": 20181105,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Every adventure has to pay off.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.94 GiB"
 }

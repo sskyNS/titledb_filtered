@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5291b5dd7aa483a0a3f3ca960f6d18ca76512697b5ef2f621ad7eda93082ece7.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study"
+	],
+	"intro": "A coloring game for the little ones, featuring Bob the hamster!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

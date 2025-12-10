@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4535a17e32b88c84bee0bdbc2c4b1bfda59f5e344465d5cb7acad78f8cad1658.jpg"
 	],
 	"releaseDate": 20210416,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Party",
+		"Other"
+	],
+	"intro": "Collect snowballs each with a different theme, from \"folk tales\" and \"retro toys\" to \"enchanted forests\". ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "625 MiB"
 }

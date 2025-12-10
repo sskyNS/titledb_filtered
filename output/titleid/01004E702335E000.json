@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ce41041dfa5bf844d5c9aa774e402be819736f35d8e35238bd2144cc9aad452.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Practical"
+	],
+	"intro": "Welcome to block party puzzle game, offering a relaxing yet challenging experience for all ages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "410 MiB"
 }

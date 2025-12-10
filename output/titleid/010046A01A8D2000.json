@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5e40476c3cd710ed6ca4cf7a397ff753548339636e5964954f6db4dcebdf554.jpg"
 	],
 	"releaseDate": 20230823,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A mind-bending \u201csingle-player-coop\u201d puzzle-platformer in a beautifully illustrated soothing, lovely game.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "980 MiB"
 }

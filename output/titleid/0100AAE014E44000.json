@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e4c1a159270dbaeff564f4746db7d6d365ac302d165e7ea1a1d30a86b66517a.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Party",
+		"Shooter",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Mow down zombies and top the scoreboard in co-op/competitive multiplayer survival gameplay!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "506 MiB"
 }

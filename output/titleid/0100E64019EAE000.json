@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/962fdf4183465a7a9e15cb948356a8e3a15b90c8b8b27e3dec3a47d8011fb01e.jpg"
 	],
 	"releaseDate": 20230918,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Unravel the secrets of a tormented nobleman\u2019s traumatic past in this stirring puzzle platformer with an innovative mirror mechanic, challenging puzzle rooms, and towering bosses.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

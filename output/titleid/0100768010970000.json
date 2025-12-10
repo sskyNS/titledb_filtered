@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6a713be048b8f349c8628b7b6217e19be4a05cee71fd75a69c529785da082f1.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Addictive retro-styled arcade for 1-4 players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "145 MiB"
 }

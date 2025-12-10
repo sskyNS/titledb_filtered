@@ -8,5 +8,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/894cfd7c55be0daf1d5c5776d256de74f00670cd185eefe2be1f5a6a83026c62.jpg"
 	],
 	"releaseDate": 20251222,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "Survivor-style action with 7 cat girls!\nOver 40 combination skills and infinite growth up to level 1000!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "673 MiB"
 }

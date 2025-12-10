@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6d6588a0927029f6b491b670fd46c2a48217b5aad305ee813fa0abda4f6458d.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Other"
+	],
+	"intro": "First-person survival horror with ghosts and demons. Find yourself smack in the middle of a haunted forest in the dead of night. Talk to spirits through your Spirit Board.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

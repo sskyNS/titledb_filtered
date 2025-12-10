@@ -11,5 +11,29 @@
 		"https://img-eshop.cdn.nintendo.net/i/398c9f5e2eb5ea4df4c5251d1c7ddadceabc47b4654a5891c37fa1479a876300.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Your job is simple: monitor live security footage and report anomalies. The longer you watch, the more reality unravels. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"th",
+		"pl"
+	],
+	"numberOfPlayers": 1,
 	"size": "743 MiB"
 }

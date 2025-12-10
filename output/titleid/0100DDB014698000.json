@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef54ebfc9548f440c62394a0e0fcbab1eaeb46fb637b3600538a8a42b5c1e21a.jpg"
 	],
 	"releaseDate": 20210723,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Get behind the wheel of the newest cars on the market and learn to drive!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.65 GiB"
 }

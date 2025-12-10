@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7d6d2a235265fda10268fd54628d08d844bb0777b3457b524f8d1b3372672c8.jpg"
 	],
 	"releaseDate": 20211213,
+	"category": [
+		"Simulation",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Join the hospital's top medical team!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

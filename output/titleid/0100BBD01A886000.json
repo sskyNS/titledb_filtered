@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/916964ca5bdd8b2c1d31cca119a043a33070b4848c1fce736aca459eba4a96af.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Training",
+		"Puzzle"
+	],
+	"intro": "\ufeffSet off on a journey of nurturing and attending to your digital companion in Dogotchi: Virtual Pet. These charming dogs depicted in satisfying pixel art are bound to steal your heart! ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "29 MiB"
 }

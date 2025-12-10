@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0b1cc56f21efc1eb99c27290234cafd5c79f5a32f6a15847b2fb68ddac6d72b.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"RPG",
+		"\uc5b4\ub4dc\ubca4\ucc98"
+	],
+	"intro": "\ub2ec\uc740 \uadf8\uc800 \uc544\ub984\ub2f5\uace0 \ub0c9\ub7ad\ud558\uac8c \uc219\uba85\uc744 \ube44\ucd98\ub2e4\u2014\nTokyo RPG Factory\uac00 \uc120\uc0ac\ud558\ub294 \ub124\uc624 \ud2b8\ub798\ub514\uc154\ub110 RPG",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

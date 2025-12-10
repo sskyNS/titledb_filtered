@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/06e9146d70140af5e49b66e28812fc001ec918e0b14903c5fe2e35ee19424650.jpg"
 	],
 	"releaseDate": 20210430,
+	"category": [
+		"Shooter",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Upgrade, Evolve, Destroy",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "17.88 GiB"
 }

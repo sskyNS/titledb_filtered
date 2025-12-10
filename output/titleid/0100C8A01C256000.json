@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/16ec72e3d3082dbf4981af2849fab616daa7e9e75a28e9cb82aa54d4aca76f83.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Build the biggest space farm in the galaxy!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

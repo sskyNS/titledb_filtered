@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9aea7b0a3afba8b00fc70fc6194552be5939a4b2aacc94efcab73183892abfef.jpg"
 	],
 	"releaseDate": 20181214,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Work for Death! Become an employee of Apocalypse, Inc. - and send their clients to Heaven, Hell, or Purgatory!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

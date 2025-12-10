@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d09cb832ba8857c008886c38476ba0d233ea09717aca8ebd50a36bd3d7dee84.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Action",
+		"Music",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Survive against the RALLY of aliens. Need an ENCORE?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

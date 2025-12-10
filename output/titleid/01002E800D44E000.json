@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f37bcab93bf5f11bdbc36021c2243ba73f08f7cc60f01dc99b1b4ad1486961cd.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Evil Inside is a first-person psychological horror game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

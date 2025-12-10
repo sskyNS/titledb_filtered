@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/10cbb5af06813a69fd82510b1aefaa608574df3be68eacc0ee751393e0dad088.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Racing",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Whizz-whizz: The race continues!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.31 GiB"
 }

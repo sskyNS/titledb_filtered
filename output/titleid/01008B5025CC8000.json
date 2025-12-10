@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5616f124730a61c1e2f6dee5ecf24513cf2ee9a13600ce8d6697f2ac0b7cb224.jpg"
 	],
 	"releaseDate": 20251225,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Party",
+		"Other"
+	],
+	"intro": "Unleash the childlike wonder and find the magic in everyday life! Place, fit, fill, cook, connect, and train your brain in the cutest possible way.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pl",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "756 MiB"
 }

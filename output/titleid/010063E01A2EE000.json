@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b2ce4bf2e3d6a085178721d49222bb18c4c7dfaeeabb1f3584a963046a42348.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy the enemy's unbreakable fortress-peninsula!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "83 MiB"
 }

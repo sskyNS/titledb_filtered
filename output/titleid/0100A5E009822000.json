@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7f4016382a698a370e19d823c84f7ed7a7561c5d8d84fddf11b9f5f5ad68559.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy crazy robots in the vast NOVA world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "77 MiB"
 }

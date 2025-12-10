@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/140a58e58ea2f69b256f5ceead5baa6a67617f8dcc166d75d4e185052f50cf74.jpg"
 	],
 	"releaseDate": 20231126,
+	"category": [
+		"Lifestyle",
+		"Arcade",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Dive into the world of ninjas and prove yourself as the ultimate ninja master in this action-packed game!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "825 MiB"
 }

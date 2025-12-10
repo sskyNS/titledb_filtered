@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab3da492260796e23d31a96eef16aeea38718179679d1e25395bbdcefea5b4a2.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Upgrade your weapons, build turrets, and repel the space pirates and aliens! Cover the screen with a barrage of fire from numerous support turrets!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

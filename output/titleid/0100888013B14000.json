@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4596306851c988783e49283e11741f82e23cbb2ace36d8fbc46c872d79db64ae.jpg"
 	],
 	"releaseDate": 20210406,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Stacks On Stacks (On Stacks) is a zany 3D tower builder.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "215 MiB"
 }

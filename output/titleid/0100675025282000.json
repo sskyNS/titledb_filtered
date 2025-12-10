@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/4570c68211413bc5d1cd56f8953c74fe3531e95e15feb33df3730cf913767698.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Practical",
+		"Training"
+	],
+	"intro": "Take your perception into a new dimension with the relaxing sense of photorealistic miniature scenes in Tiny Lands 2.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.87 GiB"
 }

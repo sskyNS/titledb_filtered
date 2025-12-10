@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e6e28e0619dd9bf0a7435fcd6605bffce9ce5b679c653439909bf609cfa761e.jpg"
 	],
 	"releaseDate": 20240805,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "Learn about this inspiring story of hope and the power of effort to revive a lost world. Join ECHO on their journey to discover if the Earth can be saved and if humanity can return home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "228 MiB"
 }

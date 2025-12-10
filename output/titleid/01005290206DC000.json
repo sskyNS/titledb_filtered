@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c641eb5d215b34d70b7d6972062ae65b0d4231ab80874f30a07f6e11dff63e3d.jpg"
 	],
 	"releaseDate": 20241102,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Smash a path to the finish!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

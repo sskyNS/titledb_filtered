@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d57a481e6fd865c1f006fbdea36b842656bc2a54494cd5dbd41806674b70641f.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Party"
+	],
+	"intro": "Challenge your eyes and brain\nwith a slightly tricky spot-the-difference game!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "242 MiB"
 }

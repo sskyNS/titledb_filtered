@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2353b12be1c1828032b9ea0ae5a8fe57ccd4c0cc1ffaa96f732d86d5e413536d.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Co-op arcade game with a retro feeling. Push blocks to defeat the monsters, match them to get power ups and defeat the bosses to recover the parts of your spaceship",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "210 MiB"
 }

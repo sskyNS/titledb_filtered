@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d443fe714f898044efaad24243bdf1bd1075bbf320c70e0a9e37d9633099f7db.jpg"
 	],
 	"releaseDate": 20211110,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "The famous duo appears!\nTheir slightly funny, slapstick adventure!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "822 MiB"
 }

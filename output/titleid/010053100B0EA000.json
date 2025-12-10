@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4204338662661ab1fb88fb5eab7d07d981ae094dae46625f8d49a7d87c44eb41.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Music",
+		"Puzzle",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Intense rhythm and puzzle, set in Tokyos Electric Town! Can you feel the beat?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

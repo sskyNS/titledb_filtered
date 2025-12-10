@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/897a87e228dda991c8952ef3b910927b2f3cf6652e386a5c5acf827ad6ef3e1b.jpg"
 	],
 	"releaseDate": 20230808,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "Take part in a one-man investigation and solve the mystery of your brother\u2019s disappearance. Find out the truth by exploring unsettling locations.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.95 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd89bc16be4a4689c5bdbbf65bceb44c88b4f6d4bc189cc44deb721090c84e52.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Party",
+		"Communication",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Who wants to play cops'n robbers?",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.00 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cbb35ebb3cb984725db1aacee97bd35f8295db39b80da65e5ef324cc796fa87.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Training",
+		"Puzzle",
+		"Party",
+		"Study"
+	],
+	"intro": "Can you solve this problem?\nBrain training quizzes that will test your observation skills!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

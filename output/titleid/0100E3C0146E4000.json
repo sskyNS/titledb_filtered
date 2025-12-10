@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d24dd9ba7cad2effaf4acfab814f7018ebe932da0684866cd6993ed560ada45.jpg"
 	],
 	"releaseDate": 20210720,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "The official version of one of the best board games - Steam: Rails to Riches.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 6,
 	"size": "585 MiB"
 }

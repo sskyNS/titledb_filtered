@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/241dde1e307019d651f609fd654bc5964180111696827e716099ef894866e50b.jpg"
 	],
 	"releaseDate": 20241015,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Nikoderiko is a wild platformer for all ages to enjoy alone or in couch co-op!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.94 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9073ee8753659fa77f60b03bc896d9de16823cadaba7c346e3661a499226033.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Will you be the plague or preserve humanity?",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

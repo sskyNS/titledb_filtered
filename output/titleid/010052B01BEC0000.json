@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dac5c7912559e647acd10babc78404960d0717d0774a4476eed629236906b1cf.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"RPG",
+		"Simulation"
+	],
+	"intro": "One little Yordle, one humongous problem.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

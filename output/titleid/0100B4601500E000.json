@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd923191386d9289d7f156bedd0d521a38e11de9c322744f15531e3bcf802b3c.jpg"
 	],
 	"releaseDate": 20210915,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "Titan Chaser is a surreal driving and walking experience, where your job is to scout giant creatures and use the light to drive them off without fighting or killing.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.97 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9061699c447892a6c9044843fa0be7a3e915e7d350dd0212bb16210559bf350.jpg"
 	],
 	"releaseDate": 20210319,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Help Ashley Dig her way through the mine and collect as many gems as possible before the time limit. Use specialized tools and explosives for an all out fun filled adventure!\nAvoid Bombs and Rocks, Dig up Gems and Bones and make  your riches. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

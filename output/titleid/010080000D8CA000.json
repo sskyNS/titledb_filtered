@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d852b4720e36a940a65be62c23f3fce44a529c8068eb4e4f1f859e9b4898219f.jpg"
 	],
 	"releaseDate": 20190510,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Return from the dead and reclaim your kingdom",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "192 MiB"
 }

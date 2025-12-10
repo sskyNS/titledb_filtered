@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bc85ab528a2d27a867ed668eee1ea963e6128124389b470a1f03f1a6fc4a1db.jpg"
 	],
 	"releaseDate": 20201030,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Clea is a jump scare free, skill-based survival horror adventure. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

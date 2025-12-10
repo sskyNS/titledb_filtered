@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a51962ed3fbe2fd78803be0479ad39b4c0b9a98ad5786b72fdb21b93aaf38223.jpg"
 	],
 	"releaseDate": 20250315,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Embark on a serene journey through a vast desert, uncovering forgotten oases and hidden mysteries in this relaxing walking simulator.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

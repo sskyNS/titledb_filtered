@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/14b58c3bbf5023890941d44835f8a0c1c54352be85b994e77bfbdec2647ba127.jpg"
 	],
 	"releaseDate": 20191003,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Despite only being able to burn for 10 seconds, a little candle journeys into the darkness, with the purpose of seeking the light.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.65 GiB"
 }

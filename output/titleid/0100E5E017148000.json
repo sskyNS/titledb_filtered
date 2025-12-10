@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7c5be331025a85cd9237950121d81cf0d0537f5449b9ab75ab568537b7cc456.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Let's race in the sunshine - take part in the Sunrise GP!\n21 cars, 20 tracks, an amazing soundtrack, a four-player split-screen, car modifications and more!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.22 GiB"
 }

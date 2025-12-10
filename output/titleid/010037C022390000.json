@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d01f59522f61bde8e5c35c4293ba4ce63a0a048302a558b1177a6514a81dec9.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Become Agent 47: the ultimate assassin.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.47 GiB"
 }

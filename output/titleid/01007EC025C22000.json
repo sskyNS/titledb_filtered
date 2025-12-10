@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/26a70483f3729297b0988a81979bc06be17e50a02e53c7484d659fd889aae05f.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Kick, crash, survive \u2013 the arena never forgives!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

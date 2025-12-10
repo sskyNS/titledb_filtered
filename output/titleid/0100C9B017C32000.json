@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1db475a19801810562486b6f7f8ee0b4b58d289990de2823a1dbafccb59ae7fc.jpg"
 	],
 	"releaseDate": 20220409,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Become a magnificent elephant who climbs things in the mid of a desert",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "36 MiB"
 }

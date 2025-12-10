@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b609a8d16062c4e9e2ecf8cfc25082621975e7dd817902b7ef1acbdb143344e8.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": " Immerse yourself in the blistering winter preceding Ragnarok -- The Fimbul Winter! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

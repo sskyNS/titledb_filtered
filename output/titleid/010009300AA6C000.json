@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/148478ba501679de50f39e49af26995a119c0caf21df0177ed4a6f69e5fb400c.jpg"
 	],
 	"releaseDate": 20190312,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Claybook is a unique world made entirely of clay. Every inch of the environment can be shaped and molded.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/51a9d884f1e2f8a0c794e74b46ffccee074cf7f9dac7d5618a5e66a2faf0b9d7.jpg"
 	],
 	"releaseDate": 20191015,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Recreate the golden era of 90s arcade games with TAITO\u2019s impressive reboot of one of the best Japanese side-scrolling beat-em-up games of all time!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "669 MiB"
 }

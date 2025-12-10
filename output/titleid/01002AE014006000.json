@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6759ebb524c7c0ae97149da208f937dcf7d16139522a617a57bdd67d6ffdb12.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "A survival journey through a harsh world without rules or judgement. Only your choices matters in the face of moral dilemmas.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

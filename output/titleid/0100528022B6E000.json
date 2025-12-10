@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fca7280418085cf67755d63f87b2466786c6b3ae89a18c63f4788eaa01ef379.jpg"
 	],
 	"releaseDate": 20251101,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "Trapped in a video game and armed with a frying pan.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "835 MiB"
 }

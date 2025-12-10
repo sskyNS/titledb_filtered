@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/484d407603a4c62e1a270a994b85023cb73d63a2181d26d80e03c6e1cd5d6271.jpg"
 	],
 	"releaseDate": 20240212,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Music"
+	],
+	"intro": "Discover the adventures of these peculiar adventurous children who explore fantastic worlds and encounter monsters of all types.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "396 MiB"
 }

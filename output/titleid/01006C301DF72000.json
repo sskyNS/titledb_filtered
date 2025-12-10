@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/856289385b47684d7abf95dd272c3e26b3bb1a0c5cb55542e5823623a7d9f89c.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Get ready for an all-new and improved baseball experience!\nAssemble an original team like no other!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "451 MiB"
 }

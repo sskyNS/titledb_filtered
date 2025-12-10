@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3627c17aff7ba3d092fce1c4554671bbe09ad8a29fe4a2ea2fb87bec080be1eb.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "It all ended with one sword, ancient gods and endless deaths.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

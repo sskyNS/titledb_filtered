@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e41dc558c58f8301844608b45d81cded821dbef95388b1616c4c6cf89572c7a.jpg"
 	],
 	"releaseDate": 20230523,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Rewind the Past, Control the Future",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.19 GiB"
 }

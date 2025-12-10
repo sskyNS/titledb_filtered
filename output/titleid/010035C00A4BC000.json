@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb2c166701976f3883a7ab7bfd6e15abdcbb5b57daaa71b6c2df7852223c5c4.jpg"
 	],
 	"releaseDate": 20180515,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "A concentrated pill of nostalgia in the form of a game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

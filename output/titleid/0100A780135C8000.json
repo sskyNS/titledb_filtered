@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ecae90e9c6d3ad0615c3c0d1445ebc9b88704323946dc4f725e3e74e4f39484.jpg"
 	],
 	"releaseDate": 20210513,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Death Crown is a minimalist real time strategy game in a 1bit style. You will be play Death herself, commanding her legions and punishing humanity's Kingdom for its overconfidence.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "454 MiB"
 }

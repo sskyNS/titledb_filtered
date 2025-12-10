@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/95a35086df4e1c46a214f7daf3c72b3306af36925fb25ca9e52730807dcddb86.jpg"
 	],
 	"releaseDate": 20190325,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "President F.net is a fun and fast-paced card game based on the Japanese game Daifug\u014d.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/beb6fd797669c6d2ecc0c5a098be02501e0a12ae620799f0a5b77bb6ff2ce8c2.jpg"
 	],
 	"releaseDate": 20200513,
+	"category": [
+		"Education",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Are you a Savvy Saver?\nBlast the trash and save the islands!\nHelp save the Savvy Islands!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

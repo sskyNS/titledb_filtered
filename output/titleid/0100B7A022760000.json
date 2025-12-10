@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f61e8c253d8560c283df108286ea5b0ac29d3afb3047e09b8e7064d3aa3a9a9.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Race, drift, and speed past the competition.\nMaster every track with skill and strategy.\nBecome the ultimate kart racing champion.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

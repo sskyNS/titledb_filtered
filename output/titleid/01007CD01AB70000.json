@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/89a960c937e4cbed39821395fcf37c48a0c61ffab90da1961c96c42c888cfbe8.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Defeat monstrous giants in this fantasy roguelite hack and slash!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

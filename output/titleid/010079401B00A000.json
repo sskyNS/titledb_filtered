@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a34c71f05cdce6885dad9c26ac4c62b9d8892654e8e4ef4b8d8f4346fb5cbccd.jpg"
 	],
 	"releaseDate": 20230430,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "High-speed horizontal shmup \"Terra Flame\"\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "408 MiB"
 }

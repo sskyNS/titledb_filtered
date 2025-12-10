@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/15e72fcc88c108cd8b30a2990636f4ac0ba43c51fab84cb560ccb5fd85ebadd3.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Aim, plot, and plunder your way to victory!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "1.72 GiB"
 }

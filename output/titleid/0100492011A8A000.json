@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2439eb97fc07148a52c8930f750226c2b1824ea2d2a123b1510707d3ae0f61d5.jpg"
 	],
 	"releaseDate": 20200828,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Death\u2019s Hangover is an arcade ball and bat type of game where the humour is black and jokes are bloopy. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "125 MiB"
 }

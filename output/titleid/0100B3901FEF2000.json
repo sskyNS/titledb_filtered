@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/31988caecc6a77e02fe635ddb380912b87319ddf57c04e9d196e85e824416057.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Ringlorn Saga is an adventure RPG inspired by the Japanese PC classics.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d098b29ceeab19dacb0bd80eef44857122ef7a3b32f6c64205309349c8a02b84.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Simulation",
+		"Party",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Master your aircraft and embrace the adventure of flying.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

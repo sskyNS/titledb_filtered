@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/15b981f27752f54710afc794acee5b3032b9c02339c38032f6ab3728fc95d217.jpg"
 	],
 	"releaseDate": 20190501,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Take control of the latest line of robots and test their fighting capabilities, agility, and endurance in various arenas.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "986 MiB"
 }

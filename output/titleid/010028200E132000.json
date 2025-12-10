@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/36159f6e27d5cd832789cc62db7ebc21370bf25fbd0fd7d1ccfbc29ecf76110b.jpg"
 	],
 	"releaseDate": 20190710,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Music"
+	],
+	"intro": "Grass Cutter is a game about cutting mutating lawns, that requires lightning-speed response and great logical thinking. Here every level is a challenging puzzle.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "380 MiB"
 }

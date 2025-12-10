@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/af2da5a078f12682f1feadcc369f22d6c1a1832c05ab8991df73621801604a05.jpg"
 	],
 	"releaseDate": 20240529,
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Superheroes clash in this turn based strategy game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.65 GiB"
 }

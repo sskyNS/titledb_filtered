@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/536d8c306d40e631d46c20b11d34ce4c7336f45618ba451f3de15b52101df310.jpg"
 	],
 	"releaseDate": 20211101,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Explore the dazzling streets of Colonial Japanese Taiwan in the early 20th century.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.45 GiB"
 }

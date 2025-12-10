@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e62bbc926af3cb9267448c20bdefd1ed71d9dccf4d0687ff0bd1967132bab58.jpg"
 	],
 	"releaseDate": 20190405,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Darkness is coming. How long can YOU survive?\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "304 MiB"
 }

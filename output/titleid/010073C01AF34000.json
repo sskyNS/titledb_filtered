@@ -9,5 +9,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bce0110063232866f84acf2fb114efffd8bfa896b69c2787ba3d9a86328f4dc.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "SOME HEROES ARE BUILT DIFFERENT ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.27 GiB"
 }

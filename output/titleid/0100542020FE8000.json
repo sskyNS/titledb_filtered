@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/937f2c993f2848453d597609a2f93ac3a911ea801d782ab2e4d18583198aac3e.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Santa's Christmas Adventure \u2013 Collect the gifts, defeat the enemies, and save Christmas in a festive, toon-filled world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "498 MiB"
 }

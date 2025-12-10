@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe89bc14a4a54487fceee953ca8a495280a5d8cefe5bee8a8349ed228ceb92c7.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Little Kingdom was invaded by the enemies\nHero Little Triangle! Save your friends and fight to take back the kingdom!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.42 GiB"
 }

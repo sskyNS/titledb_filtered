@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2f9ac92571412c089153bbd6fbcd86bc30eab183071d3f88d5e77aa1ef81328.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Simulation",
+		"Other",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Explore all decks of the ship for valuable items. Take advantage of the opportunity to explore the mysterious spaces hidden inside these amazing colossi.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.49 GiB"
 }

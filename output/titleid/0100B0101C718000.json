@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d2e14e6ad46410240633b2a63fc7391ee7dfa34f01537d300c2e5d1511a82f6.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Retro Kart Rush is a retro racing game that will transport you back to the 16-bit era.",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "130 MiB"
 }

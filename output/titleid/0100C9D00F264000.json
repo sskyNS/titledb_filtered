@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f337f38a0719d4bf7f9f20b8d218c097036444297dd33f227d03ba43e7c496d6.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Action",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "This is sh\u014dgi esports!\nThink ahead! Aim for being the best of the whole world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "646 MiB"
 }

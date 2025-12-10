@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/272f820e60b3d29b577a1c806451b926e92686a6385675752c2d46b930fc47d8.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Critically acclaimed Doctor Who mystery game featuring the terrifying Weeping Angels! Created by the developers of Sara Is Missing. ",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

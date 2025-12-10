@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e1e67517a6557292b9f93226b773f4c989e2fa617bc054d0b7d8d08fb3a03b0.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Eternal Threads is a single-player, first-person story-driven puzzle game of time manipulation, choice and consequence.",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.33 GiB"
 }

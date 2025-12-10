@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb92a0ad0b12823f39fcd12b07ffc19ab3e074bb5e50a6e82fa5ab9e54e80cbf.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Small cars, big fun!\nPlayroom Racer is a 3D toy car racer for all ages.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "232 MiB"
 }

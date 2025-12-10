@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f19e2bc0517fdbf163a68215f327156521441a9976ad786d64b601ade90e33b5.jpg"
 	],
 	"releaseDate": 20250308,
+	"category": [
+		"Simulation",
+		"Practical",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Master the art of repairs and build a mechanical empire!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

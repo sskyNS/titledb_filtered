@@ -8,5 +8,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb1fbec35fa62a98df873306807d966494a40c1f17d44da558297b93e6f5d7a1.jpg"
 	],
 	"releaseDate": 20211216,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "A single-player journey of discovery through an ancient world of wonders.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

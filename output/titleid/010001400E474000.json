@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6596ae81d7e77f5473c125da5bd701a9d90cefa8af275f5089ceeb1477a8bcd7.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Step into the cockpit of an intergalactic fighter and explore the great expanses of outer space.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

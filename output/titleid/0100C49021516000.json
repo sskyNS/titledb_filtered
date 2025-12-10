@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/42765f63b853bac806cf0d51d14626de10ee49d3f75f080d6fab58ae647ed122.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Board Game",
+		"Training",
+		"Arcade"
+	],
+	"intro": "Timeless gameplay that never fails to get intense!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "82 MiB"
 }

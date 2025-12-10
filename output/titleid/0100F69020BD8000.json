@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdb885f992b527ef171ff581a7cfa60db496ef9116446af7f8add231c5536c27.jpg"
 	],
 	"releaseDate": 20250919,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Throw a party with Gabby and the Gabby Cats. Explore magical worlds \u2013 enjoy fun activities, minigames and rewards playing solo or with a friend. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.67 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee2da1efd6f1444e42712c9d725e12a17eea86587980d8bc612cd1dea34075bb.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Explore a world full of charm, humor, and endearing characters.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "378 MiB"
 }

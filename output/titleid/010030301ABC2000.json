@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e27b79c40fd4aa487a55a154a014d2c1df2a57bf558b7ecefd13e3de2d4c0e9.jpg"
 	],
 	"releaseDate": 20230607,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Music",
+		"Other"
+	],
+	"intro": "Explore a planet full of wonders with Miku and friends! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "512 MiB"
 }

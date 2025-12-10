@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d0395c227de4d524ee3265583e762ccf0bd700858628ebffb4a4ff3be3a7c59.jpg"
 	],
 	"releaseDate": 20200404,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "Push boxes into their correct position with a minimal number of pushes and moves.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "89 MiB"
 }

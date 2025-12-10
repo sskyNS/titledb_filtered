@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4639e3ba19b5883cec9b56b2f26020250c6ed3faa1666bfb6971d639fae9dea.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Test the limits of your destructive power with highly deadly counter techniques!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

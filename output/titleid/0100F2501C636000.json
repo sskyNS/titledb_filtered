@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cff7bc969cb01fc5e88290756a233daf8515dbccbe70e22127ae7e8642b29823.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "The disastrous story of a girl trying to escape the real world by playing video games, to the point where they become her whole reality.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "118 MiB"
 }

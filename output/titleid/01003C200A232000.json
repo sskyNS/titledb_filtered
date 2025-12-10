@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd78151f7e432c8f8af5189e47349fc0dd6012ef3b440b2eb59b08f931e733c0.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Training",
+		"Multiplayer"
+	],
+	"intro": "Put together pieces of an animated jigsaw puzzle of Japan\u2019s  most beautiful scenery and watch it gradually come to life before your eyes!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "537 MiB"
 }

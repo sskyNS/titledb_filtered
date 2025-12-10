@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/91abc1cd4aae6e491ecca2cb4a9a5ecd777f81fe5361cd0e213fa57dc73c2500.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "\"Sally's Law\" is an award-winning puzzle-platformer, which took home the TOP 3 Grand Prize at Google Indie Games Festival 2016. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1002 MiB"
 }

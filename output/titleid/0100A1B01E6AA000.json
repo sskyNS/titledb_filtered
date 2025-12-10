@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d109f6196747efb93a9decaaddfd5ac9a0ed6ada0158da157217094ea7d374df.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Serious competition is here.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "102 MiB"
 }

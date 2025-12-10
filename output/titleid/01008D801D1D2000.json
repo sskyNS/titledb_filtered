@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9159deeb7271956a589dc7bdf23d4dcaa220aafb7c88d3ccc9f0b84c656e092.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "As a lonely dragon, you set out on a long adventure through treacherous landscapes, overcoming exciting challenges, and solving quests with your fiery breath and elegant wings.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.76 GiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/60783184d862331b94570a1f7419f8d041ab11b82ac7cd1fe7daf6b051b69452.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Leave no cow behind.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

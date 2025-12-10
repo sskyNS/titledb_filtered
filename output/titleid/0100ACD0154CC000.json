@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0e8ed92b79d54cb2fe668c982bcdee6651ffd05f0e726c0f6752d68ee77a0f1.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Experience chill summer vibes, relax to a City Pop inspired soundtrack, and take to the sun filled skies with friends in these Bonito Days.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.01 GiB"
 }

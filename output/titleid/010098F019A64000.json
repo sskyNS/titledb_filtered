@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d29b44ff4bc3fdb32a2a964d9bb23c2035a7286929465ceee8bc087a8592247e.jpg"
 	],
 	"releaseDate": 20230419,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "This is the story of a knight who would slay the gods themselves.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "787 MiB"
 }

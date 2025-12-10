@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/10c98c0fb8c1be06244c18aefe232d5b3618f68fb34cf6c55d1e929425d4f003.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "The biggest collection of puzzles ever! Play with friends or go on solo adventures, there is a game for everyone!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.26 GiB"
 }

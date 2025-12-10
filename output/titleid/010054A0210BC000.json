@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b3021bea1791c11f27a5fd24d25600ceb406f2db063ffe44bb32694d15a51bc.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Hone your racing skills, sharpen your strategy, and aim for the podium in the ultimate racing challenge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.78 GiB"
 }

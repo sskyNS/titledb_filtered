@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2af51a7e4bc2147a3e752e10052d33dae2b1ab34b3e352fb6a3ba876aa277635.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Dino Galaxy Tennis is a 2D side-view action Tennis game set in space on the surface of various planets with all sorts of dinosaurs.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "493 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7fbabbcb88a1b6db8a920a6760eb566b240310bff8ac7280bf5da70fc55ca3be.jpg"
 	],
 	"releaseDate": 20201218,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Find the woman lost in a mysterious Carnival of Horrors.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

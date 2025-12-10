@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c72abc6ac99944f2ca7346299c30e9a9cecb4e5f2904e5007e72c2575cf11ab.jpg"
 	],
 	"releaseDate": 20211228,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A murder. A hack. A bombing. All it takes to plunge the solar system into war \u2013 unless you do something about it. Help CDI agent Neil Conrad make a string of difficult decisions.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

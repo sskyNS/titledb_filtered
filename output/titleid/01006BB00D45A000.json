@@ -4,5 +4,16 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20190318,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Get your feet wet in this Splatoon\u2122 2 Special Demo event, which comes with a 7-Day Free Trial for Nintendo Switch Online",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.64 GiB"
 }

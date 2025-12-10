@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a053f6f55c2a1781d2f14d0fbbdca544a8863a80bbce0051d04c0bc02e4464ac.jpg"
 	],
 	"releaseDate": 20180404,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "You already know how to play! The challenge is in the game, not in complicated controls! \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1022 MiB"
 }

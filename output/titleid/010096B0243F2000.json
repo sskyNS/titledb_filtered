@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3510dba0c1e2d623258a1e3b916e84c40c649b4543dff98bd6615f729daa083b.jpg"
 	],
 	"releaseDate": 20250816,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Born in fire. Forged for chaos. Unleashed in Hell.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

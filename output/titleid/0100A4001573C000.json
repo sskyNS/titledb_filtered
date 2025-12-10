@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f512810bd570c1c08eb6be3a96366f9b9c52132495d76dc8b2e26b0ed3c1841.jpg"
 	],
 	"releaseDate": 20220118,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Another day, another new adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "260 MiB"
 }

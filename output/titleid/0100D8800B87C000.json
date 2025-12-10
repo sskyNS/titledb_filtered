@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf1f50e2991bd7a089f3e28db26ee5a1fbe1dd13c73d12b9226937f0bb69f9da.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Build Anywhere. Play Everywhere.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.21 GiB"
 }

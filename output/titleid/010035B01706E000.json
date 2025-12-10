@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6fb501fa36c54c6ada45a2d294785c85ea1d069bbc04154f34c3efa92aa6e17.jpg"
 	],
 	"releaseDate": 20211226,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "This is minimalistic horror platformer about survival at snowy mountains. Follow the mysterious voice from the radio, fight your fears and reveal the truth!",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca34c6e3bac19d26e970dd7ee41f3a269a1f3f180ba8bbf0b21a4dff5fbded0a.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Work as a veterinarian at our animal hospital and be the doctor for adorable little cats. Assist our furry friends in regaining their health and happiness. Unlock new hospitals and enjoy the best time playing this wonderful game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "164 MiB"
 }

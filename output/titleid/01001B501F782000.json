@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e343e77a081304bbb37323a352fae417117c579a9cd3261601853ef27e3bd91c.jpg"
 	],
 	"releaseDate": 20250726,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Get your duck ready for the ultimate race!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

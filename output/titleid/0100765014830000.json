@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8160f6808b1d5a7608df2d81c6cbc513e80325da78e182e8b942b32420068ce2.jpg"
 	],
 	"releaseDate": 20210806,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Castle Of Pixel Skulls is a fun retro-styled platformer filled with fun and crazy hurdles. Play challenging levels in a race against time in order to escape. Will you have what it takes to survive?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

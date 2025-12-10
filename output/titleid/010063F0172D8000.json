@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf8b47418894657b4933e61fce0cbc31083615c45c0f748232088d8984c82375.jpg"
 	],
 	"releaseDate": 20220117,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Kubi Adventures, 3D Cute Platformer Game!\nCollect keys and coins by passing enemies and obstacles! and finish the Levels!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "950 MiB"
 }

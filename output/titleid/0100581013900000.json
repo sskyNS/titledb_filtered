@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3808e6321728ebefd66296f5674757369b54d59d304c0f6dd755de2f884847e.jpg"
 	],
 	"releaseDate": 20230811,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Embark on an unexpected journey and redeem yourself as a failed monster tamer in this strategy RPG!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.16 GiB"
 }

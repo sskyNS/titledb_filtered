@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e77d5b81bfabf97a0c4673245ff58df1700dff5c424af335213405db81957a79.jpg"
 	],
 	"releaseDate": 20191121,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "G.R.E.E.N. THE LIFE ALG0R1THM is a 2D action-adventure video game based in a world invaded by genetically altered vegetation. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.48 GiB"
 }

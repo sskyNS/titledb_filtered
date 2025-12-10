@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/857b9bc634bf00972ac4b3c31a1f81996142945a62a35347ea98eccdf63be094.jpg"
 	],
 	"releaseDate": 20251007,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Fight the undead and conquer chaos in a shattered world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "885 MiB"
 }

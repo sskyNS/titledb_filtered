@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bea7b2c044e14ffa88f958a839f121cd5b09274e94f7f299115ce2c977d7a793.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Grab your controller and build a balanced stack in this physics-based puzzler!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 4,
 	"size": "200 MiB"
 }

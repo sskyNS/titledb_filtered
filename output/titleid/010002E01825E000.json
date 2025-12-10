@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e00d35c1bbcde9e2f2056cc093e66acbbe1a2667060de1362fab3fbac067a0b8.jpg"
 	],
 	"releaseDate": 20220610,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Welcome to the Lake Ophelia",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "467 MiB"
 }

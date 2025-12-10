@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/613bc50720f49723f5bb32afe0a809f8f21b12a70725eed47940dcc9a5e094b8.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "In this 1-bit rogue-like adventure you shoot first!\nBut then a swarm of enemies will shoot back!\nPrepare to block them at the right moment!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

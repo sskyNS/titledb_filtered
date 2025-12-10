@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5f1a2c156da49c3308301b6c62179cb5150ebc4bb1b09a738f370c8b5fe8ef1.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Action",
+		"Simulation",
+		"Platformer",
+		"First-Person Shooter"
+	],
+	"intro": "Counter Bottle Shooter is a fun game where your objective is to shoot all the bottles while standing still.Complete all the levels within the time limit and also try not to run out of ammo!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

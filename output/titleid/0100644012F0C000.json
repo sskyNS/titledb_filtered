@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd5f6e193c011d23483f5cf13886646cda187b24e570e2b184495d1d62719e42.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Action",
+		"Arcade",
+		"Racing",
+		"Party"
+	],
+	"intro": "Power up your hoverblades and blaze through the future!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.03 GiB"
 }

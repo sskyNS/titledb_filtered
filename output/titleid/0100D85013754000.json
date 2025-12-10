@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5bf6816c525a7722dbd0078659384967f3ca408cb2bb0bb32354eee2ee44265d.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Elliot is a colourful 2D platformer inspired by 16-bit classics, with a touch of hardcore. Don't be misled by appearances: it's a colorful game, but really it's technicolor hell!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a5bda07926b42bdc008967e9e4bf6b73134eda3aefc8a5b5ade6d80d6bb0b5a.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Demanding wire action to find your way in a devastated world!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

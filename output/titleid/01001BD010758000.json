@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c57e3e2d29d36f1ceb6e7b4d6aa17b2e3ef4e0e97a1df12d1ce381fb61981fa4.jpg"
 	],
 	"releaseDate": 20200207,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Build awesome constructions in an amazing fantasy world full of surprises!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "696 MiB"
 }

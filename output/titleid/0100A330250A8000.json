@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8efab7dbff2521ccb31cc6acd29ff1db5d4e4920c7a8e9c4deeefe28a03fbf17.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Organize with flavor and precision",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "56 MiB"
 }

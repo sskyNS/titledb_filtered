@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f39e41f1b48882452a32e4fab559d5b63b3adfd4b54864c4a7dcf27425141aab.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Who will settle this battle...!?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

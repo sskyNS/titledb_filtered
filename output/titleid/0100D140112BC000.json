@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/da0039b1b20f11553e73f754e9b0c53a87e065484dcf419081c3ace2d0d2a2f8.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Explore a medieval world as a minstrel mouse",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

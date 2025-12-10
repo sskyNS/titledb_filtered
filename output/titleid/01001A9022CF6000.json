@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e0c65647bb2ef79c1d44a8dd61312272e209ca71204ac585708569e602017e5.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Communication",
+		"Other"
+	],
+	"intro": "Dark Hero Ichijo",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

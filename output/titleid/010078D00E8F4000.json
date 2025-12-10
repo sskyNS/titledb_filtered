@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee279be1b873aa46d1fbc914434903d54af7a1c8877d235143cf0ee01989c5f2.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Stranded Sails \u2013 Explorers of the Cursed Islands is an open world, exploration and farming adventure full of quests and discovery! You\u2019re ship-wrecked on a mysterious archipelago.  It's up to you to survive and solve the mysteries deep in the heart of the islands, then finally escape! \n\nFarm, craft and cook to survive as you take charge of building a camp full of survivors. With the goal of building a new ship to escape, you set off on a journey across a wealth of islands for useful treasures and items!\n\nMany exciting quests await you \u2013 as well as numerous dangers and threats. Will you solve the secret of the cursed islands? It's the only way to escape. Awaken the adventurer deep inside!\n\nKey Features\n\u2022\tExperience an open-world adventure full of story driven-quests \n\u2022\tFarm and cook to survive! \n\u2022\tManage the creation and expansion of your crew\u2019s camp \n\u2022\tExplore a diverse array of different islands by foot or boat \n\u2022\tFight against supernatural dangers and solve the secrets of the cursed islands",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

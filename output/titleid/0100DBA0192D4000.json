@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b3e47b10a4cd8d50b311eaf8c91c845fb46d10ff4f88472690c42f20ab61084.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Find your little brother in this adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

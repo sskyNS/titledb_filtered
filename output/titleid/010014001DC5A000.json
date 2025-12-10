@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1239533ee09c519407fdd478add12e9ce87818c31b7181331b6eac6a4e15aae.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Strategy",
+		"Arcade",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Collect symbols and spin to defeat capitalism in the iconic roguelike deckbuilder!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

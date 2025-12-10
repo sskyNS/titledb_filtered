@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4f78949f003b92a68fd997469334d8210d0013a12651ab2c6d378c5370dbbd8.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Training"
+	],
+	"intro": "Charge... keep charging... and then jump!\nMake inertia your friend and fly!\nBut not actually, as you might go too far and fall!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "283 MiB"
 }

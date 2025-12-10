@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f84e7ab69a955e6b62652695300ad0aeb4bcd4088f283651c3233f138bd52e79.jpg"
 	],
 	"releaseDate": 20230728,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Floor by floor to the top of the infernal tower!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

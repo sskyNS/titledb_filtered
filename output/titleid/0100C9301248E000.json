@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b79200da5c81b1b50a51d7e9feb070e5d721429c932c3586c3dd93c09d4cfb08.jpg"
 	],
 	"releaseDate": 20200701,
+	"category": [
+		"Education"
+	],
+	"intro": "This fun and motivational game teaches numbers, colors, animal names and the alphabet, just by popping balloons! Multiple spoken languages are available.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

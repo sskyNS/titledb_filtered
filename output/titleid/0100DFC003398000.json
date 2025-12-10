@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/24d19f52982f10eee35bd5886ad08b07765b0cfeffeb8308825cf8e1d065d96e.jpg"
 	],
 	"releaseDate": 20170502,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Put an end to the reign of terror of 4 sentient bio-weapons, born from a never-ending war between two planets!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

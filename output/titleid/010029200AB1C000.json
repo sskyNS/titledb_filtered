@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/978d584329e3aca12660422047b68f152ceed1e0a349938665a1750e7cce6689.jpg"
 	],
 	"releaseDate": 20180820,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Your Design, Their Fate",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "541 MiB"
 }

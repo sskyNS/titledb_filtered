@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bb1f6811de9ff6986543935723a13a60cf9a9dc5d3d920c87f5d9bf093634d0.jpg"
 	],
 	"releaseDate": 20251118,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "A fast-paced roguelite where a mouse leads monster pals against evil cats.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/790d6ca42fb99fc2535cd9e14fa0991d1146b16a4afb199aaa13d6ab15d3304c.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "A single-player fishing adventure with a sinister undercurrent.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

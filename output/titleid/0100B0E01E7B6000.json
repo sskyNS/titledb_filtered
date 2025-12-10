@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1e1a0340eec9f3716c656ba6762e4e1e93dc3a0573e6f6026f87f7a53e70120.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Board Game",
+		"Training"
+	],
+	"intro": "1000 x 1000 = 1 million cell minesweeper.\nThe royal road puzzle is now accompanied by a super huge field.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

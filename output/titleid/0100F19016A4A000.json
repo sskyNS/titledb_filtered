@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bad50bb9df1e105086a4bdd65073589d6e940c09bf2c975a6ffdd72188f7a39.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Study",
+		"Training",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A new brain training game has been released!\nMake full use of \"DUAL TASK\" to compete with players around the world for scores!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

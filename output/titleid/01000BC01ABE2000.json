@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e3f65ed9921edb308294a06fd2bb1101f7632f631953e54f4af5a835a5b776f.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Kawaii girls are broken into pieces. Can you reunite them by completing these jigsaw puzzles?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

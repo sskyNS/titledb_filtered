@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/107f9f2a5335765af3a8a16d1da22ecd7faa9102ba2487a3a5d16733aa38a1f3.jpg"
 	],
 	"releaseDate": 20220129,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Avoid traps, upgrade your sword and reach powerful bosses to find a way out of the underworld. Enter the world of Broken Blades and let yourself be carried away by the adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "884 MiB"
 }

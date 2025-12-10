@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ebcce129d649d715291d3462b73c7c2b4160f11c088034d399c0ab2616a7000.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Action-packed, oldschool arcade classic is back - an all new arkanoid experience! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "534 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/de5cb295d8a3438ed2523000f8b6399f7a8a2ba61f52e07b7432dc0d4816960b.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Board Game",
+		"Study"
+	],
+	"intro": "The ultimate children's puzzle Jigsaw learning game with lots of great animal illustrations and motifs. Different levels of difficulty can be selected.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "273 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9649d6eb04e0b9067aadb29ac520f569e01b5afe9c8615a5851289c2abe8d9fa.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Platformer",
+		"Action",
+		"Fighting",
+		"Party"
+	],
+	"intro": "Climb huge mountains, impale hundreds of enemies, and solve tricky physics puzzles... all using only a spear. Pole-vault yourself to victory in this epic joust-'em-up adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "235 MiB"
 }

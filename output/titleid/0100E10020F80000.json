@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/70a0fb4f3fe812fe69916ba58b100031b9c6be1c96022d7c7cde55e2b6afd31f.jpg"
 	],
 	"releaseDate": 20241130,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "Jump into your food truck and business will bump up!\nRock the apocalypse in punk style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "502 MiB"
 }

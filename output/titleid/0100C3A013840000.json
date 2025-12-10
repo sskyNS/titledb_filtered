@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7368ec1f173011b4537e69f1dd5358abc7c3555d3b5a291bf9348a82cf8231e.jpg"
 	],
 	"releaseDate": 20220117,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "He is coming, stalking criminals in the spirit world and the real world",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.02 GiB"
 }

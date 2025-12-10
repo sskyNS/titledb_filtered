@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b8999dcaafffe5d809a4105dc0d7f8e2e36e651ba56951e1acc07d8a44fb820.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Not sure what you want to play? Let the game decide! ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

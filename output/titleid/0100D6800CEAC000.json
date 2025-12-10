@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/788e434c9872757b5aaa712cef83fe639aa5126f7227c2287e172654c793ba3d.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Racing",
+		"Lifestyle"
+	],
+	"intro": "Experience the story of Ari as she arrives in the Alpine area and quickly befriends Windstorm. Together they will go on exciting adventures and discover the true meaning of friendship!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.24 GiB"
 }

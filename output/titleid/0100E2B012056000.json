@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/29d9d6fcdac3baa9f5964aa2b6834cce5cf1c40ad988f2ddb6651b722226b535.jpg"
 	],
 	"releaseDate": 20210831,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "The mail must flow!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.28 GiB"
 }

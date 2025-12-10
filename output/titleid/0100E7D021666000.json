@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3051871ddfda9e9521153091bcde16f5415357ea1502731cacaa9b1205b95e5.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Pick a card each turn as you aim for the dungeon depths and attempt to claim the treasure that the Golden Warden protects as your own.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

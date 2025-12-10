@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a27bcc1e9f9232009513356c8939043c741fc8f78135d3787acfc5c9e7f7554b.jpg"
 	],
 	"releaseDate": 20241009,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Join Mimi in 'Mimi the Cat: New Friends' - A Heartwarming Sokoban Puzzle Adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

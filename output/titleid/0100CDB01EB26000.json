@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/632659f3a1e701f6aef741ead73be6f3340ff0d2648ccff0fa5d63a0051a477c.jpg"
 	],
 	"releaseDate": 20240605,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Utility"
+	],
+	"intro": "Euphoria is a first-person puzzle game combining elements of social fiction, detective and horror with deep philosophical insight. The players will have to crack some grim criminal cases by exploring the world around them, rediscover the mysterious identity of the protagonist, cross the borders of inherent dangers and formal logic and create their own vision of time and history.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "550 MiB"
 }

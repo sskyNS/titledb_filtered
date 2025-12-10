@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a99821d3cac60c82ca1dee942c7d045032257ea3ddff743276c8c278b21857dd.jpg"
 	],
 	"releaseDate": 20190704,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Destory and fix walls, collect the hidden\ntreasure and save the beloved god!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

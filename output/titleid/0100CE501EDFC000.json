@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/88e068e09128acbbc2fdf0abcdd0a36140c49b74e3132195724f075b46ab6043.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Something isn't right in the city of Cypress Ridge... Experience pre-and-post outbreak in this double punch of a visual novel and JRPG adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.42 GiB"
 }

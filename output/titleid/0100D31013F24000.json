@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8aabbcb957fddea561293b6b0772e5c49f3eafa8d1b4d95cc6475d7b46705659.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Blast your way across the galaxy in a classic inspired multiplayer arcade side-scrolling shooter!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "285 MiB"
 }

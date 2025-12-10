@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/095869187ea6fda0f46feb8966f968ce734dfe878f33980b745163f205b6540d.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Dan is a bumbling first-time adventurer who risks everything to solve the legend of the twin books by exploring the abandoned town of Red Pines.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "687 MiB"
 }

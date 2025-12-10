@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cae3a967f1a87e52217ec72859eea4ccfc3d2d2ccb5307ba8b1c252270534485.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Steal a mysterious hologram. Quit your job. Dig through humanity's trash.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

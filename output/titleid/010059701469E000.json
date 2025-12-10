@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0882fc480bb3d33ce9b13e47f44f77fbbe1ac206b2e29035cb8005ce425f131.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Join Mia Faircroft as she seeks the true heir of the MacDougal castle.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

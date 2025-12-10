@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a93b4ccefa131ba17efa03ecb01ddd87c9228d86100c65c34e9f41abc7dcf5a.jpg"
 	],
 	"releaseDate": 20240420,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Embark on the role of Risky, our fearless adventurer, in an epic 2D and 3D adventure! Explore the enchanting worlds of this modern platform/adventure game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "398 MiB"
 }

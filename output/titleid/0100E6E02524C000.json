@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a359e231080c6946abcdb063257bbbab3538d7475f8abfa8ff89ed9bfb16391.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Firm noodles! Dashi! Tempura!\nFill udon orders as quickly as possible and follow the road to mastery!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "182 MiB"
 }

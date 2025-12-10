@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fbcae0a1931a4b7f9018de5f1ef4999dec0b3ae98e28f75088aa647671dd1a9.jpg"
 	],
 	"releaseDate": 20220204,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Two devoted sisters. One incredible adventure.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

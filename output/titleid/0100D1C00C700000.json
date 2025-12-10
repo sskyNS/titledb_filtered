@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/620a496ba8dc81191b2745b5569d8a3e3f2612dff45917b786cb2a0cc77523a2.jpg"
 	],
 	"releaseDate": 20190517,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Discover where one of the best and mechanically richest fighting games descends from - at home and on the go on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.25 GiB"
 }

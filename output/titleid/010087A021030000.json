@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/401794c87cc0e8780fe57df13dc203c4defe5365c0cf6648f82cc1e70999c66c.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Your perfect, cat-themed lunchbox puzzle is here!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

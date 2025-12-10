@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8778e45a49644178445cf49b2890562489b8c3f1696fadae4c94d9fcb2236369.jpg"
 	],
 	"releaseDate": 20190823,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "It's time to take the Plunge! Enter the adventure of Billie, the billionth prisoner, in this turn-based dungeon plunging adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "716 MiB"
 }

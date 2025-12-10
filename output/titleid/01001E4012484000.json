@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/083711cf8f876bb70a6c05440abd2be662e30bc7752dee040007f80e04f52a08.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.50 GiB"
 }

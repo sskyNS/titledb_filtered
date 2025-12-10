@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cb108cae6460d8c224382a3261f9deceb9c2fd8628a4123354a2a4798282ffb.jpg"
 	],
 	"releaseDate": 20231006,
+	"category": [
+		"Strategy",
+		"Fighting",
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "Merge, fight and take down the T-rex!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "160 MiB"
 }

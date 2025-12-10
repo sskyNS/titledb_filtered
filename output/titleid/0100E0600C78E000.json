@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c822465d51bb47eba761c0cd49f275b7454cc45ed895360e42c4a2f8a4b2bfa.jpg"
 	],
 	"releaseDate": 20211012,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Dive into a dark world where monsters rule and make pacts with them to defeat an evil young woman seeking power. Hunt, battle, tame and breed monsters to create your own legacy. Together with your monsters, you can restore the balance to Crown Island\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.44 GiB"
 }

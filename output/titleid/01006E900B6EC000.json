@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/79ca96a7d596279a2c1923a995e59eda7415f5516400c03ba8f3defbce670f7d.jpg"
 	],
 	"releaseDate": 20180928,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Will you help reunite Jack N\u2019 Jill? 140 levels and a bunch of minigames!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "60 MiB"
 }

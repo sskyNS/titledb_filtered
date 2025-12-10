@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c386f3e5b9c4d85dd537de768548ff6d56262d25b587a60dd5d2d482f75f9f83.jpg"
 	],
 	"releaseDate": 20200515,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Poetic, surrealistic and melancholic, EMMA: Lost in Memories offers a unique experience in a strange and dangerous world where walls fade away as you touch the",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

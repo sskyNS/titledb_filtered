@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb1b5c6703b6f8ecf8c0a58416274a0db219e6513bf6d9d4a0e4b26db0e6a1d0.jpg"
 	],
 	"releaseDate": 20200409,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Your desk is the court!\nDribble, shoot, and dunk your way to victory!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "925 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/57760786a6bcea68631387693931dace2ba1d1f5cb039462121cf500c382a32b.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A fantasy RPG of a tale of fighting magical girls!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "524 MiB"
 }

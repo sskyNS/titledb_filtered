@@ -4,5 +4,16 @@
 	"publisher": "WOWWOW Technology",
 	"screenshots": null,
 	"releaseDate": 20210204,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Super Meatball is a phenomenon is animal planet.\nTeam up with your friends and compete with your opponent.\nRace your car and get the meatball into the goal.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "232 MiB"
 }

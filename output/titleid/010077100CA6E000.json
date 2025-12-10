@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c37426dc5f8f6cc635f4fedc090c3b66289c63a9e43e01c42b7ed8f7eb510c73.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Enter the magical world of Season Match!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "591 MiB"
 }

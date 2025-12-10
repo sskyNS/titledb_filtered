@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3c0470b29a7c09398963d954dbbd8a4580fe79b1c2897bee18506bd45e18d24c.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "KI was waiting for the knight of salvation ...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "115 MiB"
 }

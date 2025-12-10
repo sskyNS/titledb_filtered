@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/41a1b6f3bbc0596b54712db9791c93b0ecb44bd447664e68a15c2b6f490c5cdc.jpg"
 	],
 	"releaseDate": 20200904,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "ATOM is an old school role-playing game, inspired by classic RPGs and gamebooks.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.23 GiB"
 }

@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdf60471828335be437c6cd0227b305d4e5b329fee5d3a1c025a09f18169b666.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Enter The House of Da Vinci, a new must-try 3D puzzle adventure game. Solve mechanical puzzles, discover hidden objects, escape from rooms and dive into the authentic atmosphere of the Renaissance. Use all your wits to find out what's behind your master's disappearance.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

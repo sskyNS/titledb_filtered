@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b83ba695b99c42626deae84ff5c968f61fb07bb760e6a19e32263048073a6104.jpg"
 	],
 	"releaseDate": 20190727,
+	"category": [
+		"Platformer",
+		"Party",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Put on your magic hat, the quest for candies has begun! Master powerful spells and tricks to be victorious, on your own or with friends.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.43 GiB"
 }

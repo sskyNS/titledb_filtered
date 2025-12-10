@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ff708118b175ed9a71bb814d7e28b4123e00ac838c95f9ccef19dea7dba5025.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Party",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "Spin to an aha moment! A brain-training puzzle where you complete a masterpiece by intuition",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "124 MiB"
 }

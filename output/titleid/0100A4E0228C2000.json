@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/edb8b91773b1b79b4c71662a0cd441210dc3b879389b07bbd5988ad9bc3b538e.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Strategize, fight tactical battles and shape the destiny of a war-torn kingdom.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

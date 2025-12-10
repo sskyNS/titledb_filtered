@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1185b54588528aab6b39b4da2ecf8575896ed1a87cd7d0c547b1461fd3a62b87.jpg"
 	],
 	"releaseDate": 20220519,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Christmas is coming, and your goal is to spoil it! After all, you are the turkey!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

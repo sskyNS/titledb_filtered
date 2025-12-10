@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/eeda0ba991e13a4e343aeda72e756479df150e05dd53cac98056340a1e73c960.jpg"
 	],
 	"releaseDate": 20190906,
+	"category": [
+		"Platformer",
+		"Music",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Can you be the light in the darkness?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

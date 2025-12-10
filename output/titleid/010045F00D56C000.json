@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/562e7dd0ea489cb9554d0da27993e7e43d7bfa5ddfa9f494ce27e87fcc9f804c.jpg"
 	],
 	"releaseDate": 20190703,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "OVIVO is a mesmerizing platformer with unusual mechanics where everything is as simple as black and white.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "351 MiB"
 }

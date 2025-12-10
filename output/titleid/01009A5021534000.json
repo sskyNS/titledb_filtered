@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/160c700a2af2a746dbebd6c1f0e50e44aca2c52e2aa01160478f34abe1be2fa2.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Hunt the legendary Beast of G\u00e9vaudan, conquer the darkness that lies in wait, and forge your path to glory in this epic adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "602 MiB"
 }

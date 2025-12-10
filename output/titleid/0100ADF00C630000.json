@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/aaa61b1a3b0b738f4c4d7502da7ee5241c473dc86fb6a0c947168a78353e9a31.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "A pass-and-play game of hidden alliances, backstabbing and politics for 3-6 players.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "118 MiB"
 }

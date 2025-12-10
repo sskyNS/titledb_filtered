@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0be85e40487853ec3a4930ce8660ce47e44a4db5af5a8e1342db6ffd9b9b98b1.jpg"
 	],
 	"releaseDate": 20250730,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "A cozy, first person metal detector adventure game, where you reunite residents of the beautiful Cornish island of Glasden with things they have lost. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "921 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/280936545e0d1fdd78ac902d4fa8aa628167db77dde27e02269b49d8470bc531.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Beat the Boss of Shadow with your rainbow powers!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

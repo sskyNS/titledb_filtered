@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d308cc67371f74f47c547e03aa888a615625e63c433c007ed0ac13f61acb7b5b.jpg"
 	],
 	"releaseDate": 20221007,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Training",
+		"Lifestyle"
+	],
+	"intro": "A party game like you've never seen before! Compete with friends, or work together to win. Here, everyone plays at the same time in over 90 mini-games!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.21 GiB"
 }

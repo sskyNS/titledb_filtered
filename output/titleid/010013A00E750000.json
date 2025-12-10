@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/59ba85d23f5bb6cf89c37b0d17138f886ee9e3082e15ff1cdb350a50a1f9feb6.jpg"
 	],
 	"releaseDate": 20201215,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Magical Girls Running Cat Cafes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

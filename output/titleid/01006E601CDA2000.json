@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/45a49a634af5a7ffb22c4f505f251d54560dfe88231e5c69a3b9b5a92fd1fd46.jpg"
 	],
 	"releaseDate": 20240202,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Fight your way out in this dirty retro-styled tactical FPS.",
+	"languages": [
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.07 GiB"
 }

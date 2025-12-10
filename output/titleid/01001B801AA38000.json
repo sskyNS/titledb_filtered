@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcf77076f893ce274105b9f5c79204fe645ef3d57a2c0dd8e853303f593bc3b3.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Action"
+	],
+	"intro": "Mercenaries Lament is a tactical simulation RPG set in a fantasy world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "695 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fedaddbf280eba651cf454d1036223672e16d4c2007ca528ba82c266c2600fc4.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Welcome to the new chapter of the \"Mystery Box\" series. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/e20dd4afcc650afc91a4c7dfa74f1343a1a2498a4f19f45ad8bb5ef13164d604.jpg"
 	],
 	"releaseDate": 20210505,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Go! Birdie is fast pace action game, where player has to collect all the fruits in maze-like maps while avoiding enemies. Play solo or in local co-op with your friend.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "252 MiB"
 }

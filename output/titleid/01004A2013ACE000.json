@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b520f2cdb35e0d2161bcef9bf6f7d8e19bfab1f87c2bcc97d6adce1f5594f9f.jpg"
 	],
 	"releaseDate": 20210603,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Death is Only the Beginning",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

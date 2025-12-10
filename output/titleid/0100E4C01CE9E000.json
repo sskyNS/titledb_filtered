@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d5d1f193d14dc07f1221634c464b253d44a9aff865535d800a44c5ce86d63a0.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Action",
+		"Arcade",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Explore the Wall World on your giant robospider: mine for valuable resources, upgrade your equipment to fight off hordes of monsters and discover exotic biomes. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "209 MiB"
 }

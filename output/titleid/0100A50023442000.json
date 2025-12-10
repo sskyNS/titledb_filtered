@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/326099b3d295cbbdf2f8470d75e978c4a89018f694134b0807151a0bcd44184b.jpg"
 	],
 	"releaseDate": 20250502,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Robinson Alchemy is an alchemy game set on a deserted island where the objects you connect are the ones you first need to find and harvest.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "468 MiB"
 }

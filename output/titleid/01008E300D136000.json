@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2052c1bce1cdcd7da39fff78dce798a678c8eb8ac25b65b0d29f59e0d20633d5.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Find ingredients, make menus, and run your own restaurant in this sizzling sim!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

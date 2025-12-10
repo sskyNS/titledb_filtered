@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b3fb9709a3a3de41b52ace6d160c3e3b40a573a4b0d44c9d2673809e121ae33.jpg"
 	],
 	"releaseDate": 20180621,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Wizard Fire a is classic multiplayer action RPG for one to two players. Originally released in 1992, and a noted classic arcade title from the 90s. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "72 MiB"
 }

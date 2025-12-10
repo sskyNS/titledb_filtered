@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b60d3dcaa9aba21d109d421e8ff17ea704e7314f1f48fda4bbe39cdcc32463af.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action",
+		"Simulation"
+	],
+	"intro": "A young fledgling hero sets out on a journey to teach misbehaving monsters a lesson. \nBut behind him is the shadow of his mother!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

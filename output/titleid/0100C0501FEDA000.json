@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc261b7968fb18b80edd7794a5781b22feb77159a033f370ca563711cdac6be9.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Untangle the mysteries of \"Prison Loop\" and escape the endless cycle",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "453 MiB"
 }

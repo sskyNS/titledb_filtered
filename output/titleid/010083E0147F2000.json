@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bfca1cd801c1b85aa1f1499b04ba79bed9ab295201f28f1cd8da2d599d7121d.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "The Cutthroat capitalist deckbuilder where cash is king. Make money to stay alive, build businesses, hire workaholic employees, and collect cards to destroy the competition!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.78 GiB"
 }

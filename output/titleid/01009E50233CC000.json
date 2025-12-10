@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/93cdc1103a955bc13145ca99eb0a0c3a2b999cbd9ce8d9839ca43ebcc7e2efcc.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Simulation",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Lock. Aim. Defend the valley in style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "308 MiB"
 }

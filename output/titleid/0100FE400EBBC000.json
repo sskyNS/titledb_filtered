@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa390bc1615534ab8a5e35f430c714f4db6c3a8b7b5d96191fadc821c1dd06ff.jpg"
 	],
 	"releaseDate": 20200601,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Indie\nSimulation\nStrategy",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "874 MiB"
 }

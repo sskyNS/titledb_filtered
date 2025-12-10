@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/55c6cceca66c6ca47ae96ea12a6077b2bf2aaf792c9926f8886293e68b221e92.jpg"
 	],
 	"releaseDate": 20250404,
+	"category": [
+		"Education",
+		"Study",
+		"Training",
+		"Practical"
+	],
+	"intro": "Brain IQTopia is a fun and educational brain training game. Challenge your mind with 10 mini-games focused on memory, math, problem-solving, and artistic skills. Test your IQ.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c34cfd60298b8ccf21f91731d92759e3c3cf646be0b443ea08dc5bc5bcba0ea0.jpg"
 	],
 	"releaseDate": 20180213,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Action"
+	],
+	"intro": "Do anything. Use anyone. Become Unbound.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "901 MiB"
 }

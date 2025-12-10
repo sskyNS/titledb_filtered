@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/745c91b799d9b317efea339a77936267826d75df55d3afc454f337dd0ca23c2f.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Venture into an old, magical ruin to seek an ancient power in this highly replayable roguelike twin-stick shooter.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "791 MiB"
 }

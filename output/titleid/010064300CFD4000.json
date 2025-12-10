@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c4d45d68b1c2e31c3c3aaf516b6a559cb98a0ce863801dec939ce2f316bf0e0.jpg"
 	],
 	"releaseDate": 20190124,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Show off your skills in this challenging solitaire adventure game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "176 MiB"
 }

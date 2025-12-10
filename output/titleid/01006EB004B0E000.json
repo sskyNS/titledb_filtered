@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a2d5cc50553f6361b180d4f1616d48477fe782a985ba2a524a806d0b1bf6822.jpg"
 	],
 	"releaseDate": 20180817,
+	"category": [
+		"Multiplayer",
+		"Fighting",
+		"Party",
+		"Action"
+	],
+	"intro": "Acrobatic tanks take flight to fight.\nIt's all about moving with style!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.86 GiB"
 }

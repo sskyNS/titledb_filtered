@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2d76ff2cf65c72cea5d4ae771b8e24cf676a2e681074665919f2e9b40f8bb99.jpg"
 	],
 	"releaseDate": 20221028,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Education",
+		"Other"
+	],
+	"intro": "Open the door to the magical world of Cat Tales. Let your imagination run wild.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "198 MiB"
 }

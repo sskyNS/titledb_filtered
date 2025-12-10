@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbaaec49906d47c276cf00a805f373cc0c8503b65a0ae51b3b967ad85c9ba128.jpg"
 	],
 	"releaseDate": 20250523,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Fall in, fade out\u2014where does the real world end?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

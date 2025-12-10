@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/022019f0e65cfbf5c105522bd569effc279fdc455ebaf1187f7dc7489aef65a9.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Music",
+		"Training",
+		"Arcade",
+		"Education"
+	],
+	"intro": "Wow everyone. Become a pianist in just a few moments. ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

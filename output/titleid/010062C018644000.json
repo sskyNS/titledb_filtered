@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d424a429a3314518f7aa4345e9bd6bd8a763bca5cafd745b40b64efb95b13c02.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The people of Gloria needed a hero.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "121 MiB"
 }

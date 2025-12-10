@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f0fcd681960d6067a1cd7b269d7e1ba11fbc7b944b03d81dd4e0e1b8d4e2aa6.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Techno Tanks is an intense, fast-paced arcade-inspired tanks game. It\u2019s a lot of fast fun and a must-have if you enjoy arcade games.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "741 MiB"
 }

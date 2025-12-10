@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5ce8687503628468a3d65d63baa21947a8fdf5de87c2bd6728ac17f3e078324.jpg"
 	],
 	"releaseDate": 20220603,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Pick one of six metalheads and SHRED your friends (or NPC's). Throw metal shards or dash into enemies to become the last one standing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "591 MiB"
 }

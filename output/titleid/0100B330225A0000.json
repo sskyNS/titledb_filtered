@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bf6f05e9d631c454e8b8b064c70ccc13e7b5fa921c5ad9e8156041ec184de2e.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "Drift. Customize. Dominate. Become the Ultimate Drift Master.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

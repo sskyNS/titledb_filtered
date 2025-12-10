@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ede84f0b4acda9b29eee7c3e01420316a0889ea8ac50c9fbe90f4f981e0f9d32.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Solve a globe-trotting murder mystery full of death, espionage and revolution, assisted by the ghost of Oscar Wilde.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

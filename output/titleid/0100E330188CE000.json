@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/408898267ef9660203294e2828c82157c3f97863f3897e24c14135a5bb6c69bf.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Fast & Funky Physics Fun! Put your skills to the test in this action-packed puzzle platformer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

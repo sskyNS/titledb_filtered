@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fa51334dfc322e96eabd2afa71edf3274fbb1982303ee466635a808c4a52dd5.jpg"
 	],
 	"releaseDate": 20250829,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Lucia and her friends travel to Wonderwood, a magical world full of challenges, mysteries, and adventures. Will they be able to open the legendary magic chest?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

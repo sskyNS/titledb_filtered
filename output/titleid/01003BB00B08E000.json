@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7a1dbee772d1ddf8957826d0b345083f98512d84906c9dc5d93eb9b27004232.jpg"
 	],
 	"releaseDate": 20181031,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooaarr!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "438 MiB"
 }

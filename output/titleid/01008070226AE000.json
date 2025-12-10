@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f287a81b8efb5692b9d4fe0b5611b01932b5dedbc3063cfc1e09850cb3692203.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Practical",
+		"Board Game"
+	],
+	"intro": "Relax and find the differences in beautiful 3D dioramas. With the Deluxe Edition, you can play all the new expansions for Tiny Lands.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

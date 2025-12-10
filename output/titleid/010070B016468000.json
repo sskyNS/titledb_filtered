@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/786c7bfc77527814f18b56d067691c6091bb5aac53e40ac74f5c6db22325d083.jpg"
 	],
 	"releaseDate": 20220914,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"RPG"
+	],
+	"intro": "You owe us money, Joe, and we plan to collect. We don't care where it comes from, but you'd better not skip town on us. Otherwise, your family will be searching the river for your body.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.48 GiB"
 }

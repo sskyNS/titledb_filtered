@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f95732cb503a397a42e88a682138d35a547905eec2e1bd8c030efd59b840360.jpg"
 	],
 	"releaseDate": 20210112,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "The Tactical Battler where Death is a Strategy!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "249 MiB"
 }

@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/53cba9a04490c3d55a6c498f7683ebe78f8952e274c4cc66ee12b25ec2ee9a38.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Dive into the game, enjoy the process and open hot illustrations of charming volleyball players!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

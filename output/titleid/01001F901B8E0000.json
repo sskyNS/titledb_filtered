@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/25f52c9f19ae6ac3f0fd14792403f515b5ad1ffcee8d71f58d28708b7b7a6085.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "\"Five heroes with super powers, five hammers saving the world.\"\n\"At that time, Satan was not completely dead.\"",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "682 MiB"
 }

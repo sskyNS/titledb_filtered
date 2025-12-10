@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e8cac9282c1c0e55444080296eb068329eedd25149f5bc1836ba4a2b4854a7f.jpg"
 	],
 	"releaseDate": 20221220,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "The gates of heaven will only be open to those who prove that they deserve their place in it. Prove your goodness by answering all of the angel's questions right.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

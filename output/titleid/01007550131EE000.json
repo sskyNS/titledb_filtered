@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/89d884682f7e020897ee1ab11f058a731d5b296c78755cee98822ae3e2cf374f.jpg"
 	],
 	"releaseDate": 20201124,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Other"
+	],
+	"intro": "2URVIVE is a top-down zombie shooter. \nPrepare yourself before every wave and stay alive as long as you can.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "83 MiB"
 }

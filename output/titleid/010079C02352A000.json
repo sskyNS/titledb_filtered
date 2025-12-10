@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e6bbc048aff872846001ee5a5c68db70f0473a0bac25d34d6bcf4e107f808a3.jpg"
 	],
 	"releaseDate": 20250527,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Terror awaits in the shadows. Will you survive?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1005 MiB"
 }

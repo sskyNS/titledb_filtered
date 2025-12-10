@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/74ed7fa74f3e7b0863dca5400fa53b416660d9030973f1d6dc1d6d1cfd86c4f8.jpg"
 	],
 	"releaseDate": 20201126,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Join the mercenaries and choose your pilot in this epic indie shoot 'em up for 1-2 players.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "229 MiB"
 }

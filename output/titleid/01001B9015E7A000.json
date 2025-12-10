@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/28938d69f7d877d8780ed272eab032ffd0e5fa1c64f2f5bf2bcdc6e04fc164ff.jpg"
 	],
 	"releaseDate": 20210922,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Party"
+	],
+	"intro": "Drive the fastest ocean-going powerboats in this exciting ultimate racing game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

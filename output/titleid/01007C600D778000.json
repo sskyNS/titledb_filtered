@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a245c3ae2425c340b6c9c8b1a24dbcdc31bbbb69644468e148fb5de87442b710.jpg"
 	],
 	"releaseDate": 20190906,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Unlock the power of an ancient facility and face the ominous, all-seeing Creature in this unique pinball-inspired hack & slash!",
+	"languages": [
+		"ja",
+		"es",
+		"fr",
+		"pt",
+		"en",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

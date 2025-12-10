@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d98838cf5c3e2f3a40c52c0bff7e918f50e006f1cdf8b8ade2be2c63657d438d.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Every life has a story. Every story has regret. But what if you could change the past? ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "792 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7615f11c998d62e1056be12804f89e6abcc640be14e955c1a73d728d7ef61270.jpg"
 	],
 	"releaseDate": 20220310,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "The neon-emblazoned tables of Cyber Pool are calling. Will you take on the challenge?\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "692 MiB"
 }

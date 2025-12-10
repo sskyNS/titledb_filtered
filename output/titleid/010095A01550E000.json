@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/40efdc55b9454d4235af43fb68db46ca23b2cb7b8c0334ae54f473954e33478a.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Party",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "GRAB YOUR TOOLS AND GET SET FOR SOME CO-OP MECHANICAL MAYHEM!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.91 GiB"
 }

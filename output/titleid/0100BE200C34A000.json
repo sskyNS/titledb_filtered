@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/062930af4af029784b08438bf8d5dcfadb20b2793ab12ad452753f95d81d0019.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Snowboarding The Next Phase brings snowboarding to the Nintendo Switch for the very first time!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "960 MiB"
 }

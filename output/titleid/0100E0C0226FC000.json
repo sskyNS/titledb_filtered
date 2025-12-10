@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/594770a1a977ccd3066cbcbbcc4155f5f98bc29c7f591f8d258d3d654a506066.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Life is always easier with friends. But what if one of them goes missing? Grab your weapon and jump, shoot and dodge in this action-packed side-scroller adventure. ",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "524 MiB"
 }

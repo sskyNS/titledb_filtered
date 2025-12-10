@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd0381a89f55e9e29ff0c987d2886ed75a5e517eda583f6448636f5386db1767.jpg"
 	],
 	"releaseDate": 20190704,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore the Finch family history and try to figure out why Edith Finch is the last one in her family left alive.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.28 GiB"
 }

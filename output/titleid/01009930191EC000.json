@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cc36f0831b90a0ef718713ad42b09e7d51d7b52d09923e4eb94aeeb554c471d.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Super Double Dragon rises again after 30 years! Now with new features such as customizable wallpapers and speed options!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "171 MiB"
 }

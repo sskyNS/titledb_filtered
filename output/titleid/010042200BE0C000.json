@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1e8833abd87dca11ebcbeceaadc2928f5140624e16a58351af6c6ea99b3e6d2.jpg"
 	],
 	"releaseDate": 20181109,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "An all-out fistfight! Choose your time to strike!\nYour victory could be decided at any moment!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "70 MiB"
 }

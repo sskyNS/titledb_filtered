@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c9c359c4e0133d5ef8a1ee15372dd75afd0de11b19f2ea1be00ba28308e6f96.jpg"
 	],
 	"releaseDate": 20200210,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Study"
+	],
+	"intro": "Become a doctor! Help to diagnose patients. Be careful with the documentation, signatures etc. Decide what your ethics will be. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "929 MiB"
 }

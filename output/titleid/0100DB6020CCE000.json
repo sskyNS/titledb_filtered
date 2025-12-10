@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2ad3024ee9af5d80c43480343b75368b10f6640e265a921d93e655c2ede5afb.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Little Droid is an adventure platformer that takes you to a world of mysteries, tough enemies, and hidden dangers.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "301 MiB"
 }

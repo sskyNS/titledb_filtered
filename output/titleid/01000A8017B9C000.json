@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/22f1576ff92caf6d080f831cd6ba6c07bf70b8bb09f50796c4a75e2392b5f552.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Stop the Snake God\u2019s return! ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "539 MiB"
 }

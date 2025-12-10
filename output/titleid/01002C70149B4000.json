@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/826b33b585f6f14b5f3566605158e89b6c40183f5b9fd8d3002c5207a08efe32.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Mayhem Brawler is an urban fantasy themed beat 'em up that brings back the 90s arcade vibe to present day. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.21 GiB"
 }

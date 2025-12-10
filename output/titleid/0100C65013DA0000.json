@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/661b7c69bb1d33f0ba724c2678ace126e962bf30537f0d781b7121218d2170ed.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Enter an all-new world of Space Blast Zom \u2013 A Matching Game. Where evil alien bosses view for the rule of the galaxy! Fire planets to make matches and destroy the deadly stream of enemy planets. Guide your race to victory! Will you succumb to the perilous pitfalls, or can you rule the galaxy in this cluster-busting challenge?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "220 MiB"
 }

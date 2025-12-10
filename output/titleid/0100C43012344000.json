@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d2ebe5917014fa6a049f0a1f2abf8f6cb3a8b35e59f754fa5b216ddb6b6cfef.jpg"
 	],
 	"releaseDate": 20210317,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports",
+		"Action"
+	],
+	"intro": "Beach Buggy Racing is back with new tracks, cars, characters, powerups, and new ways to play with your friends and family.  ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "771 MiB"
 }

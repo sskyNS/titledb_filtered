@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8a1bd0d225a0eb0bed44099d9e4e30ea847bce522cc5a4981247ab67b041fa6.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Study",
+		"Adventure",
+		"Education",
+		"Music"
+	],
+	"intro": "Five mischievous kittens find a magic map in a tin of cookies and experience the most fun and brilliant adventure of their lives. Where will the map lead these adorable kittens?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

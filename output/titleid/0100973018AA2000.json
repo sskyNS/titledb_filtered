@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/45de52cf4738dcf2123de7937cdb6ee29dc6ad1a7073a0c15d0bc468242b6db3.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "Become an American truck driver and show your driver skills. Choose cargo and drive it. Transport cargo to city warehouses. Feel what is American road.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

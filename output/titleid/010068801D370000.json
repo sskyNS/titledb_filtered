@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/41baedccc482953309ae11c3f2b01a2e1d07feeda56e04ce6686965e18c40fa0.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A quiet, peaceful forest hiding a werewolf. Can you heal him?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "947 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ccf0876e9bc28431b911337a34d4a9662a1da3180aaf71726d8099d0b6ca5ae.jpg"
 	],
 	"releaseDate": 20240204,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Master the Ocean's Challenges: Craft, fish, defend against sharks, and expand your raft into a thriving haven in this immersive and unforgiving survival simulator.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

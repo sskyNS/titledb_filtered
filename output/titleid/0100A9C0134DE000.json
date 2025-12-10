@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/28809cac41203622b53f6ff31b0bb2c30de5b224c4ba6e8084641e52963214e0.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Music",
+		"Study",
+		"Action"
+	],
+	"intro": "A music game where you can enjoy songs that combine contemporary music such as rock, ballad, and jazz with\nclassical Chinese poetry such as Li Bai and Du Fu.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "596 MiB"
 }

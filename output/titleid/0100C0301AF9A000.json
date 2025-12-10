@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf00b592682277924095e6923110c7584189d29bee42c1a4a0b4061de11bb755.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Guard the HQ with your life!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "56 MiB"
 }

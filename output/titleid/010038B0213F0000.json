@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a00face2db9e095d734658dd3a1eededd6cc867d4a122ea75247e606128b86f5.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Conquer the Underworld, One Bullet at a Time!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/64305100e3b317a5c0cecea42a25e359b013dc673a6e593e77721b3ef419009e.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Find the perfect date for your clients and become the best matchmaker!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/40eee9be884fa634947ba24ff3349f9f9009106348ae942ffcc57c6b4bb9b103.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Escape a quarantined hospital haunted by a dark entity. A short but gripping horror experience blending puzzles, action, and cinematic QTEs that will test your courage.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "803 MiB"
 }

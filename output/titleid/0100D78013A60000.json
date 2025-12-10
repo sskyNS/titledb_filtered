@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/772c910a097f92179548ccefcf843ed4d4e378dc03707c07b410a672582ca9ca.jpg"
 	],
 	"releaseDate": 20210305,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Visit Once is a simple yet engaging puzzle game. \n\nYour goal is to reach the end point and visit all possible middle points just once.\n\nIt's easy to learn and gets more challenging as you progress. \n\nIn a nutshell: \n- One touch mechanic\n- Easy to pick up\n- Violence free\n- Dozens of playable levels",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

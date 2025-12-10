@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b6242d0ae705e7c13a378b2ee3fae8aca5d33103a4aee56841948c62bced1f9.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Hop into your beloved Clarice car and chase patrol cars on highways around the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "132 MiB"
 }

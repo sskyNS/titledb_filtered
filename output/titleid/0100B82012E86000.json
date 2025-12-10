@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e60b1095d21ce72c05a122f40f2e9009446d69c83b7c45de8ab0b0d52947f139.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action",
+		"Fighting"
+	],
+	"intro": "It\u2019s gloves off and claws out in this adorable physics-based cat fighter.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.22 GiB"
 }

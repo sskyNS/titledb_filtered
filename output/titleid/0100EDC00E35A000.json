@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cee396c54a9af1e709beeca39c08e47d2bc2a7c4e635770ae9790aae937669b4.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Let's go GLOOPY! Show us how you turn and twirl to find the gold!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "86 MiB"
 }

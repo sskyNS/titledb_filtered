@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac4f9b6f61fe02ba803a35ab821624effd2ecfba9e9a53aa520670e37172754d.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "This is an action game to reclaim the lost colors of creatures.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "467 MiB"
 }

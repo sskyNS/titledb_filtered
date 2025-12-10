@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa8201ce0dfcfdd9e8421ff119940dad4585018cc95dff80f8e0a70fc987e001.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "What should I use today? A tank, maybe a monster truck? What\u2019s it like outside?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "369 MiB"
 }

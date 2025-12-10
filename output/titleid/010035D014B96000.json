@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5fa07c798f9237eadfd6b24fc15f95ba1e7bdad9510bb2f685b59eb8fae5ca1c.jpg"
 	],
 	"releaseDate": 20210529,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Let's go on a new journey with \"the girl with a white cat hat\".",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

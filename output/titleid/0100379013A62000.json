@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e79035c6b11ddb1a46c977566728098022d778f06b631eb42a7b652ac04d46fe.jpg"
 	],
 	"releaseDate": 20210525,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Very Very Valet is a madcap couch co-op party game - all drivers welcome!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "928 MiB"
 }

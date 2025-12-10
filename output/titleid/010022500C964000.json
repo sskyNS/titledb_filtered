@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc551a1555b7750df2086fb0fc933fbc8143e8c68703973a56b038c1df9f7987.jpg"
 	],
 	"releaseDate": 20200429,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "StarCrossed is an action arcade game with a magical girl aesthetic and a cooperative twist! Join our cast of 5 space-faring heroes as they travel across the stars, working together to strengthen their bond and defeat a looming evil that threatens the Nova galaxy! It\u2019s time to team up, get sparkly, and take out the bad guys!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "879 MiB"
 }

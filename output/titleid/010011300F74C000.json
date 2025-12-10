@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec0a683400f8b64c12b40a1ecb4dc6e4dfa59f0cd0ed58290b2f15ce813153c9.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "MO:Astray is a pixel art, side-scrolling, action-platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.08 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3be6a2b69a0f4d1c075928a74437039f13259225e0732f4fc666beeb8614532.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Plug into the cyberpunk world of Dex, a 2D action-RPG with non-linear gameplay. Explore, fight, talk and hack through a neo-noir adventure! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.03 GiB"
 }

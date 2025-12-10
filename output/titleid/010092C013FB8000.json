@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b83b28a30f58258fe7acca5e7a40fd17ed57b1f41ba1c6d161bb69876997bfdc.jpg"
 	],
 	"releaseDate": 20210505,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "As a moustached Soviet nuclear missile operator, you\u2019re the last frontier of your Motherland\u2019s defense.",
+	"languages": [
+		"en",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

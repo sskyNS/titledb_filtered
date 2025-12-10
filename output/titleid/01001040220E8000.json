@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/852666470ccc6c5870a35698b8196c3c1406fe678ddbc9acac23bb8e14f1fff2.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Grab a backpack, boxing tape, and focus on what high school is all about: Beating the ever loving crap out of one another! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.22 GiB"
 }

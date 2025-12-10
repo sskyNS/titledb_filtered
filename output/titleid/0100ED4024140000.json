@@ -8,5 +8,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a21e7793e3012b012191d91e1d8fafdba455bd7f78ee8114af38105fb93aa5d.jpg"
 	],
 	"releaseDate": 20250704,
+	"category": [
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Master the table. Beat the dealer. Play like a pro.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "161 MiB"
 }

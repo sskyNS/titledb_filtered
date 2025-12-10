@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/799dca290ec59b1308b67f8e17399efec66ebb702b0c5fd0c403617b9a8635a4.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Puzzle",
+		"Other",
+		"Board Game",
+		"Education"
+	],
+	"intro": "Combine tiles and battle magical foes in a puzzling world of witches and chaos!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "361 MiB"
 }

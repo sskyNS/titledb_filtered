@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d48c8a63c209ec71ba9290a992bf602e39da03d824da579bb16b14322ad64e03.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Battle Your Exes. Disappoint Your Parents. Find Yourself.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.42 GiB"
 }

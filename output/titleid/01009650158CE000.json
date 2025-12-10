@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cc5371d444e380eb8abaf1f4cd5d34e2dce534032af878e44d8f2b6fe9f1c83.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A comedic whodunit railway adventure!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

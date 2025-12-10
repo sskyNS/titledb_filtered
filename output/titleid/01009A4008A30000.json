@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3950af92515352aa7dfd57e4a29f77c83663f7b9e4614302af4f4d3f4abb9bc.jpg"
 	],
 	"releaseDate": 20180222,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Young soldier, everything is in your hands! Save your people from this crisis!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "76 MiB"
 }

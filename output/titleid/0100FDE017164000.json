@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9516303b9f78362a98ca391c4820292f7fca13ca0d3dd587cfb282164f8f280d.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Discover and solve fascinating 3D puzzles full of mystery and play with all controller modes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

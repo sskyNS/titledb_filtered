@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8952a314955766360717f3e048e2a89ceb368f2c762cdb02f2a3f7abfb9a5e7c.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Face an ancient evil from another world!\n",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "381 MiB"
 }

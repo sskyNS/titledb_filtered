@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/964b0dbd82fc55b5e2dc5f0636533d4465adada2b37c7bca8aecd95a66a41faf.jpg"
 	],
 	"releaseDate": 20220924,
+	"category": [
+		"Board Game",
+		"Adventure",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Compete locally with up to 6 friends and conquer the sea. Gold is an essential thing for every Pirate!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 6,
 	"size": "311 MiB"
 }

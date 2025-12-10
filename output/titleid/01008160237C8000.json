@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dac3961cd8354ef97a232c7078712f15b5ba5070b2aa6423a55fd4fb429205e3.jpg"
 	],
 	"releaseDate": 20250705,
+	"category": [
+		"Shooter",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "This artbook features original concept art, as well as never-before-seen visuals, including a whole chapter of creations that never made it into the game.\n\nThrough art, design, notes, and even scribbles, follow the creation of Yu and Kay\u2019s journey on planet Source. Discover its creature design, world design, vegetation, architecture, iterations on the Nest, and, of course, the design of Oink!\n\nThe artbook is 194 pages long.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

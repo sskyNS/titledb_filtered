@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e631aed81c478d116c2f8d56a2c1bd990cd5a79a9584a0c0c9f6f62e6b66f995.jpg"
 	],
 	"releaseDate": 20250801,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Prepare your bag for a peaceful adventure",
+	"languages": [
+		"en",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6f338da473054f51ef51351f3cd4b875df0b128f47bec743d4f7923496235b3.jpg"
 	],
 	"releaseDate": 20241210,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Experience the epic conflict of Kain and Raziel in original form or with remastered graphics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.60 GiB"
 }

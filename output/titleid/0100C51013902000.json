@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddd1e4f6dd475e372c2fa0dc1d9ddb79df70c8f97e8d2ffaa9b3d432c8d9c1d5.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Practical"
+	],
+	"intro": "Help the Knights to rescue their Kings and Queens in the beautiful and dangerous Vikings Lands. An innovative game concept inspired by chess.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "685 MiB"
 }

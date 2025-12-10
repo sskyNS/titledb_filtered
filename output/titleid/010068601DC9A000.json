@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/60ed8b2ab8804111e089660b53a0646135a6eff79d893155826283e39ba888d0.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Avoid bombs, break the wall and proceed through the cave",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "279 MiB"
 }

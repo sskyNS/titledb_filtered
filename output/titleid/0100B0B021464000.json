@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b091f8b32a0e8b43c090625d9abea0bf305d8fe5d28ad3aecd1520bb84843a5.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Where every recipe tells a story, and every loaf builds a legacy. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "224 MiB"
 }

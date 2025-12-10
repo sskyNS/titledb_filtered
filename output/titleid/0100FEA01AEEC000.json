@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb24c01000d0b11fa0d28a8cd51ec429f4dd628d952c66b871153d337f44111b.jpg"
 	],
 	"releaseDate": 20230417,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Run, jump, survive - escape lava!\nLeap to new heights with friends.\nEndless obstacles, infinite fun.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "112 MiB"
 }

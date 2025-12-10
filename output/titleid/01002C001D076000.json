@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccd42a1ec6c4ce3dc449daf014331073c637aa9bfbbf51c59c2234e3e9c45f92.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Lifestyle",
+		"Education",
+		"Other"
+	],
+	"intro": "Get ready for an exciting journey through the habitats of the most extraordinary animals and discover all their curiosities while appreciating the diversity of life on Earth.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

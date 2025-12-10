@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d653b46fbf89209fba9eb4f10b11ef15bfbe70ef3fba20008d95edaba6f7b1c.jpg"
 	],
 	"releaseDate": 20190110,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "\"Okay just one more try\"",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

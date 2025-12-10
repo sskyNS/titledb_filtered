@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee82d0a3d069e1948d5902681a814fb572e7ea3defe183f955ff865ccad7aa5e.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"RPG",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Gear up, eat rocks, throw banana-boomerangs and fight a Giant Potato! Save a Magic Dog in this local co-op action RPG for 1 to 4 players!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.23 GiB"
 }

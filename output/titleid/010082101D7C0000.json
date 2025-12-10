@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ac4b8a336a0a6c3f2c42fb0f42941f0ea09e0cb34b2960a5229a8be8c5b790b.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "MEOW~ In this 2D puzzle game you have the responsibility to arrange your feline friends in a way that fits the grid. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

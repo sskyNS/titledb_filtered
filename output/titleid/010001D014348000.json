@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0194256126a9200edd623e917737106b055d368a6694ffd7b598b4139c7f577.jpg"
 	],
 	"releaseDate": 20210611,
+	"category": [
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Discover a vast world full of mysteries and action in this Metroidvania-style game inspired by the classics of the 16-bit era.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "378 MiB"
 }

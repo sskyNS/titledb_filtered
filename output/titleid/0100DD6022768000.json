@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/735c0759b89a5f74307feb9d2d477be02f779358a039f733e6d2fc6d62b29e77.jpg"
 	],
 	"releaseDate": 20250604,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Narcissus is an adrenaline-pumping, top down, action-horror game that puts you in the shoes of the last survivor on a doomed spaceship. The clock is ticking, and danger lurks around every corner.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.69 GiB"
 }

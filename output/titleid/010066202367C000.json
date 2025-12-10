@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4938beb6c341bbfc551d35bd4734295158c6a838e3802c20ffe82bee61a4d32.jpg"
 	],
 	"releaseDate": 20250709,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Save the princesses at all costs as you infiltrate castles filled with treacherous foes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

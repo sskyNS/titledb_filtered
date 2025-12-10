@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/886ec6bd7b6054b97749037646eaa961ec27f9b01cce2462987698dadc535ec6.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "After living in a big city your dreams come true \u2013 today you start your new life on a peaceful pixel farm!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "364 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9c1e0c6e02a8f7f603fb87a17c06c35be8f82e6cbaef32d3e5412ce93bb34f3.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Welcome to airport controller simulator! Airport administrator, build a route for the flight of the airplane in such a way as to avoid all dangers and land the airplane on the airfield!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

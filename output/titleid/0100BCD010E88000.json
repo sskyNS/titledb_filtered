@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e480978aa8199572843714ba60ac2d5eaf7e60eba6ea5f08094e867ab7ffc3c3.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"Shooter",
+		"Action",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Pick your guns and fight giant bosses, but dont forget the beer!",
+	"languages": [
+		"en",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/de679597f9ca781e861c3633afe90250040a88171fb355ff8c5a7bef1c731e08.jpg"
 	],
 	"releaseDate": 20171123,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Kid Tripp has crashed on a mysterious island and now the local wildlife is out to ruin his day. Run and jump your way through 20 levels of intense platforming madness in this tough-as-nails platformer! Have you got what it takes to help Kid Tripp escape?\n\nFeatures:\nSuper challenging, fast paced platforming action.\n\nSilky smooth 60 frames per second.\n\nTwenty levels, four awesome worlds.\n\nSuper cute pixel art by Mike Burns.\n\nOld school soundtrack from Chris Kukla.\n\nOptional challenges to test players' skills to the max.",
+	"languages": [
+		"ja",
+		"es",
+		"fr",
+		"en",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

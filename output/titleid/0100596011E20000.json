@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c223db7e07ae07bcda463f27ab85db0608c2a753a61b8195c783c9cb4c6d9cf.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Platformer",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Being bad never felt so good ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.80 GiB"
 }

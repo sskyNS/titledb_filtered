@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/234220d3908f5e96257689f89699b3aec2d6fc9eebb58bb4e5ffd11341bc59ee.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Instant Death is a First-Person hardcore reflex game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

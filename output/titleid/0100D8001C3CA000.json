@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e5ffa94b89bcbaa3bdb0728b74f637a040a2c4e8ef10e2372c2ad6a3802490e.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Charming girls are already waiting for you in our hot and tempting puzzle game!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b14a2247a9cfceb010cc59debc04e57963260e45a409d7d115ff81286c48600a.jpg"
 	],
 	"releaseDate": 20201124,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Education",
+		"Puzzle"
+	],
+	"intro": "Jump into the ultimate toy sandbox and build the train set of your dreams! Lay down tracks, create bridges and build worlds, then hop into the driver\u2019s seat of your train in first person view. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

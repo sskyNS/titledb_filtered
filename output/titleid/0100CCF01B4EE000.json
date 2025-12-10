@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7026659b0f24d0b6278bf8830fd730010cfa801b026d488711b7dd6b6bc8d99.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Kill the aliens and enjoy the cyberpunk aesthetic",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "243 MiB"
 }

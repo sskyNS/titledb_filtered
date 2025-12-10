@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/f187a8a5f89b765177308819d590b91ca3fd8efe895a50218fe7687224eb0420.jpg"
 	],
 	"releaseDate": 20220511,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "An ecological adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

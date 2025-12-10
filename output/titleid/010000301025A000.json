@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f42fbe221639efad30b58ef0a216ffdb465239810b88fa07c53d65e0e1ae4c5.jpg"
 	],
 	"releaseDate": 20200124,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Become an all-powerful Warlock and lead one of 8 races to ultimate victory. Discover unique worlds, plunder the underworld and conquer cities.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.01 GiB"
 }

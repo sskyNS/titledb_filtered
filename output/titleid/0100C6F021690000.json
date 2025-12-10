@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/91e381024f3a4cd2bba4f534028e13ee7539c89a3f5d157369b4d0a7a2ec9631.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "In the magical world of Christmas, Smiley, a cheerful and brave elf, works in the North Pole toy factory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

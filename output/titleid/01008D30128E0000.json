@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/938e7cdcfc15795759e55219b6e530507992ce586ab0a16ba8b4d32fc161faa8.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Fighting",
+		"Action"
+	],
+	"intro": "A fast paced boomerang fighting game for two to four players. Fight for the favor of the goddess in an outlandish, colorful world in this local multiplayer game. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "461 MiB"
 }

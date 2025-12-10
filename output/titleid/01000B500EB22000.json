@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/485aca94fbe09e90cdb00f8cade556d27e6b899f2ab95715ebee1c4ddad5657e.jpg"
 	],
 	"releaseDate": 20200226,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "The world's fastest brawler is back. Experience cinematic kung-fu in the most epic stickman fighter ever made. Staying true to the original, you play with only two buttons.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.54 GiB"
 }

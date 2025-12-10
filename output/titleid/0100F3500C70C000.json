@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae3d1b8587a4e415b2de2e3b76473ecf0ce448ca772e6d33985d86ae3bd4b6c8.jpg"
 	],
 	"releaseDate": 20200512,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "363 MiB"
 }

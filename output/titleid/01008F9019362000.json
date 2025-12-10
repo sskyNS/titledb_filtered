@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/38c1956768f4b537a882433b83dc9e50df72438eff2026f23292f5f8c90d8921.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Welcome to Supreme Car Race on Highway Simulator! Let's see how good are you. Get your favorite car and get on the road!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

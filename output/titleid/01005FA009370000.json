@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2d999aa3d51904f4c6d6c4def3b40ff3245f9c3833b8165575f73b112521288.jpg"
 	],
 	"releaseDate": 20181102,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Communication"
+	],
+	"intro": "You can play it easily from\n\"beginner for game\" to \"advanced RPG player\"!\nThis is the real time Full 3D MMORPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.21 GiB"
 }

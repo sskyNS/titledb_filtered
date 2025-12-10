@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/cad1584960734d7c90f96bacffe45ab3218067c257cd191499c0827ae4507938.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Open the door to a new battle! Our new, emerald green flame-wielding hero, ASH!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "135 MiB"
 }

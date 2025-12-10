@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c1ee0679b5368391c0d0fe5d493d4f7f7519c8d736db28abacdecaedb531593.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Action",
+		"Shooter",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Fight hordes of mutants, boost your skills, and claim victory on live TV!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "381 MiB"
 }

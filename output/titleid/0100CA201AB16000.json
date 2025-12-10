@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/042bdd619bac69b566592a1a7c6101b4c24512807189f1fd534b2a9ba3297759.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Humanity's final battle approaches, thanks to Project V...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "89 MiB"
 }

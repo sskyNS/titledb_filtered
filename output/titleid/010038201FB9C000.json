@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e8e6080d8383a7982368459989578ea34f8922202fde9581c2b04d2ba6add18.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Take down the enemy tank corps \nand hold your HQ to the end!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "141 MiB"
 }

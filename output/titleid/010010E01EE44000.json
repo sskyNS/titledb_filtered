@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/88ce1b66f5cc881fab91188454e0055c56ffb7b514e0713bc1cbf2a2dd6da746.jpg"
 	],
 	"releaseDate": 20250102,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Go forth, with the power of love!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "90 MiB"
 }

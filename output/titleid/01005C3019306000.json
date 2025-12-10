@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d7affc16310397c2eb89b9c91e037dfbe87ed6e4e5af08a3a7a4bfe088a7190.jpg"
 	],
 	"releaseDate": 20221102,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Put on your thinking cap to solve problems with those puzzling platforms!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

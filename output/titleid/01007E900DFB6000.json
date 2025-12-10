@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e5fc74684f7fab0b97ae5d6d282ff3e655d45da1238556ee26152264ab1ef84.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Free the light of courage to rip through the darkness! A fantasy RPG with turn-based battles and dungeons in beautiful pixel art!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "497 MiB"
 }

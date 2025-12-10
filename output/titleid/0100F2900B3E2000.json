@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/40d69cda917f0f00a697ee98b39cbe3d9fc82c65963a1f0522b0190d72343b3b.jpg"
 	],
 	"releaseDate": 20191011,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "A strategic team platformer that offers endless party fun and killer competition.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

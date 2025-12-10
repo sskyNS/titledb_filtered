@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/927db8a066a4609e3d30d383aa2eaa7ab072067d196f1a1971ed2a8112976ca1.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Adventure",
+		"Communication",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "A sweet love story that even melts your heart!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

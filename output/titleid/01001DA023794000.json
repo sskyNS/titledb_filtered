@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/38696d2fe76a83ba4029660e3e4d93f3a21cce55bdaa9d86c7a2d15d2662997f.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "ION Shift delivers fast, high-stakes gameplay with precision controls and a unique sandbox-style approach to combat arenas. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

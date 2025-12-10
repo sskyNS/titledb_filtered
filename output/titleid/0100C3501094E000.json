@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9651248d6dce416b803bad88d312fa1ace861ff231b70a5ffe6c863645c37898.jpg"
 	],
 	"releaseDate": 20200709,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A turn-based, tactical RPG with 30 character classes and 50+ hours of gameplay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.43 GiB"
 }

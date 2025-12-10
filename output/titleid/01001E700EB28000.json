@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/eff4b33ebbb0635906b4a208cc005d396b904849ae9ee560adec087e4d4a4b7e.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Idle Champions of the Forgotten Realms, an official free-to-play Dungeons & Dragons-based strategy game. Assemble your Champions and master the art of Formation Strategy. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

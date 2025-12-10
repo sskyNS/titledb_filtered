@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5985df352e7352ee50642b7bc928e859b2a6724af82b8c4e517291885188382b.jpg"
 	],
 	"releaseDate": 20190614,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "A pump-action 2D side-scrolling game with different enemy types. along with a jump-to-the-roof mechanic that spices up the combat.\nAvoid traps, survive enemy encounters and upgrade your weapons and gear to overcome the challenges.\n- Multiple guns to unlock along with alt-fire upgrades.\n- Seek out the secret areas of the map to find Collectibles.\n- Walk into dangerous arena-like rooms where monsters will rush you.\n- Multiple unique biomes with Acid, Ice, etc. monster types.\n- A heroic mode for those who seek a harder challenge.\n\nStory:\nFor many years the people living on the surface world have been oblivious of the horrifying creatures dwelling beneath them.\nUpon the discovery of one of these Vosari Lairs, the Armada sent 10 Marines dawn to the hollow caverns to eradicate the creatures. When these highly equipped marines made no return, concerns were raised. Perhaps these creatures are a bigger threat than expected.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "60 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4e1582d7b69941cc9254181c5f0f90ec0911002621deca82705d84692ac923b.jpg"
 	],
 	"releaseDate": 20190529,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Explore, build, craft and battle across alien worlds in this physics-based construction sandbox adventure.\n\nDesign cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.\n\nSingle player modes:\n\u2022 Fight enemies, complete missions & work your way up the ranks in Campaign.\n\u2022 Explore and build with or without the threat of enemies in Creative.\n\u2022 Build the fastest Tech you can and beat your previous race times in Gauntlet.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

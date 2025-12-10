@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6191f3b656768178161d6846d57847d24e965e6c8a3d0b0c9c465593c271f3d.jpg"
 	],
 	"releaseDate": 20221010,
+	"category": [
+		"Simulation",
+		"Education",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Run the best aquarium shop in town! Create, renew, manage, observe. See if you can create an aquarium empire.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.77 GiB"
 }

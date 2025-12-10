@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f73c9144af2e88576dd39db3ead123e7969fc51f7a8ffc8250a67231f52b2a55.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Spiders with laser swords! Swing, stab, shoot with style and cool parkour.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.27 GiB"
 }

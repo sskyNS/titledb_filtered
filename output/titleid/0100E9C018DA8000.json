@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fc525426a1f2994a16d4341a5497607a0d0d88f208cb0ca88daf3507e3af9da.jpg"
 	],
 	"releaseDate": 20230127,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Start your own farm! Plant vegetables and fruits, harvest crops, employ people and take care of animals. Buy farming equipment, manage workers and just relax!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

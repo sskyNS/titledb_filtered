@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cc6bc615f64037ae1fa74aba49ad19b97b2c153d075627fb46f8a50e20bd798.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Communication",
+		"Party",
+		"Practical",
+		"Other"
+	],
+	"intro": "The world, THIS IS JAPAN.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

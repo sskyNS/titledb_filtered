@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8845c33ae0b2525aa43491fc5c99a9d2c8e303c0841bf90bdbf8a531a22a2d5c.jpg"
 	],
 	"releaseDate": 20190315,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Training",
+		"Education"
+	],
+	"intro": "Just go Up, Down, Left or Right. Easy, is it NOT?\nThe ultimate brain-busting challenge finally on Nintendo Switch and with a Multiplayer mode!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "157 MiB"
 }

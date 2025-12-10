@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/baeb31092747ef87240448155ea1748c391d81c1a3276f504b742b31521d0032.jpg"
 	],
 	"releaseDate": 20240918,
+	"category": [
+		"RPG",
+		"Music"
+	],
+	"intro": "In a world where music is outlawed, play as a singer in this turn-based JRPG.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1792ec99890ec2a2fb664b08c413d37045208ffd78f15c4cb63f6ac8e85620bf.jpg"
 	],
 	"releaseDate": 20230616,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Join Hoppy in this classic action platformer as you collect candies, dodge enemies and jump. After all, you are a rabbit! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "192 MiB"
 }

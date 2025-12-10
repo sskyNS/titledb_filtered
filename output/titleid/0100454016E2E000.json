@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b7ed68c6bc12b3cbadcccdd67854508ddfd2cb5fdf4be25d57da2a0fa60f576.jpg"
 	],
 	"releaseDate": 20220401,
+	"category": [
+		"Shooter",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Super Cyborg is an old school non-stop hardcore run'n'gun action game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "271 MiB"
 }

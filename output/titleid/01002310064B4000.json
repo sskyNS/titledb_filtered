@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1423875851cad3ef6cbe328779e024a204447182ac39220d144a38bae0f62818.jpg"
 	],
 	"releaseDate": 20180111,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "On a desert planet in the farthest reaches of space, mice await your command! Direct their mobile fortress, and seek the legendary city of gold!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "422 MiB"
 }

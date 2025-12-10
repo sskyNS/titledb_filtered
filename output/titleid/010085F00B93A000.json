@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/23e0bd4e82edb5ba841fd8199c54a2348a05d0fdd4ff5c1aa9afcb851498e7a3.jpg"
 	],
 	"releaseDate": 20180829,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Become the Ultimate Bounty Hunter in this Bullet-Fast Shooting Gallery set in the Wild West!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "685 MiB"
 }

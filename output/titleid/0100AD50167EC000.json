@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af1975dac882ed133087ce87779666ed9d8b5d0fcfa06ffb570109b6013f20d4.jpg"
 	],
 	"releaseDate": 20220114,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "The ultimate pinball collection it's here!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

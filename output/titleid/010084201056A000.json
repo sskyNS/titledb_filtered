@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4ad86096fe2473268771a89f069d23c0d41f88e9d85098069ebf368effa33ab.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Racing",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Competitive party game featuring hippo!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "639 MiB"
 }

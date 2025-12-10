@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0220f11f8f581d08ceb3252e398582b4651a3e33e66145bc53e60c1e4554b68.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Experience a story full of humour, epic battles and unforgettable encounters in a thrilling platform game!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.68 GiB"
 }

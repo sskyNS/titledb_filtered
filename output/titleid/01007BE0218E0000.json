@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e84881179211bc64ec50417a0a0f94a36a34d74b202b16578d2eaef001f274f4.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Christmas holidays in Europe!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "387 MiB"
 }

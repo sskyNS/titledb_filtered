@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12b63cc57abc7ce363cef59e6cb28e5d264a272fb7d396c446fa8abb81a74988.jpg"
 	],
 	"releaseDate": 20230924,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Dive into the bounciest, squishiest adventure today and discover the magic of The Jelly Adventure!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

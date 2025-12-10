@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/439790363bb77f324d2a6394a755eac2d1dc0551e9f87239ab8beffaaee563e5.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Party",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "The time for Our Summer Festival has come around again!\nGet ready for tons of festive fun with friends!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "520 MiB"
 }

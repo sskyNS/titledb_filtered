@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/de4e90c551ceda69fd4152104b7689e7e9cc8d0e33d77c49e2e3fd367c57cfa0.jpg"
 	],
 	"releaseDate": 20220622,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "REDO! is a game about a girl trying to find what\u2019 remains of a dystopian world overrun by biomachines. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

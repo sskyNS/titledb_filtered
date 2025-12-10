@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c11fe4f08604d804d5e847c38cd0b2b83892ae26f53ae5b9fef8e9c484561b3.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Sometimes fighting malevolence requires brave souls and a bunch of smelly fruit.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "484 MiB"
 }

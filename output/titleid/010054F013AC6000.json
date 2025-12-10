@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6936c7e67ac4eed29ee59969d6d716c69c17b60544e45b7a1af5238318dd1240.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Bear the fate of light and shadow to save Asdivine in a grand fantasy RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "297 MiB"
 }

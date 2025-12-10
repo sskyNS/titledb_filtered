@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ba5b88a2bf93f7ecece0da43aaae775d6bacb8b072ffb1c829036f327e341c3.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Build unique synergy spell combos to destroy the hordes of monsters and bosses in this rogue-lite action game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

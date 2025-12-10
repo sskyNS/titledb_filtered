@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/31e2b10923b96d2e344f19649982e218dc82b6e56c7de4318beec5b3e7a11a18.jpg"
 	],
 	"releaseDate": 20241104,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"First-Person Shooter",
+		"Training"
+	],
+	"intro": "MASTER CREATIVE PUZZLES AND FIND YOUR WAY HOME!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d7444398e4554850ffb078ea5e4e0a55d36f58fcb65b7b8a5341d3053af63d6.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party",
+		"Education"
+	],
+	"intro": "Words in Word is a game to collect words from over 1000 word puzzles.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "145 MiB"
 }

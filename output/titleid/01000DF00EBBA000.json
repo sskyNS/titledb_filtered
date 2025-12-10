@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3b3bfaaedd7eb4ee36c3cbfc222a9a116e22a3623e8dd29f0055f59ce731ce3.jpg"
 	],
 	"releaseDate": 20190815,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Practical"
+	],
+	"intro": "Indie\nAdventure\nStrategy",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.84 GiB"
 }

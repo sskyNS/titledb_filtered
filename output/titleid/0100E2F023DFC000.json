@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8dbbfdad51b357dfd8d190882f9f797d08e32da5586c91a1e0e2aeaee04a0b6.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Practical"
+	],
+	"intro": "Shove it, stack it, sort it out!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "396 MiB"
 }

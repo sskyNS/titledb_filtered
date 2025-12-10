@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3ced5b5c9178ec936c64f756f75044aa232e630d04c7d92172d17a116634f10.jpg"
 	],
 	"releaseDate": 20250722,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Set sail for adventure in MONUMENT VALLEY 3, a brand new story in the award-winning Monument Valley series. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "596 MiB"
 }

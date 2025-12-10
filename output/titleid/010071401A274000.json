@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e73ee0014430cd795d1a9301de399ae89bd597245a2bcea58ef3697ee9728e04.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Astrea is a DICE-deck-building roguelike that flips the script on deckbuilders by using dice instead of cards and a unique dual \u201cdamage\u201d system: Purification vs Corruption.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "604 MiB"
 }

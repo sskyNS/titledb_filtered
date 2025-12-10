@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c3642dece4cd982b0fd6a22aa381b061c356754d7ac99ae73c72237aa30faf2.jpg"
 	],
 	"releaseDate": 20180411,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "\u00abDeep Ones\u00bb is a retro arcade-platformer with multigenre parts, inspired by ZX Spectrum, Bioshock and works of H. P. Lovecraft.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

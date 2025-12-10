@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/27e3b753ed6bad80571b8578dad583f0ae2572cd93fb163272361ccf7cb88c01.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blast off for a retro shmup experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

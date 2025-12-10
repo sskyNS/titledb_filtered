@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/58f22477da3e396be7831c28f1942b1d3bb672e7749bc89aa47a5cb02b2c72ce.jpg"
 	],
 	"releaseDate": 20200221,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Lifestyle",
+		"Strategy"
+	],
+	"intro": "RAISE THE FUTURE",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

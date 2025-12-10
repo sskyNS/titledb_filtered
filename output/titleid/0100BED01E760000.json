@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/70218262502036c88251a0284116cf9ba049ebe13f590041c79c1066113c20f9.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A fun and challenging puzzle game for all ages.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "241 MiB"
 }

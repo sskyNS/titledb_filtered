@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4f735f25b70d3f828da89756182ae58990906d808f93dda087c594af9b796fd.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Training"
+	],
+	"intro": "S.O.S! Astronaut Aki-chan needs your help urgently....",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

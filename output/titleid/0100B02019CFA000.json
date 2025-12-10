@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4413912494f565ea1223c74693f170c226e71faaec97822b7469f10710c11e85.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Save the world from darkness!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

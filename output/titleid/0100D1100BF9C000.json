@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/60330ca4652e5a6ac148b7ced7ace85216f545fac9b10bef112895118aa6a4ad.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Skulls of the Shogun is a fast-paced turn-based strategy game, supercharged with fighting-game flare and packed with a serious amount of humor!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.07 GiB"
 }

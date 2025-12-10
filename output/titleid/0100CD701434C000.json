@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c8483d216ecaf3a6522761f409622f94d2f15eea02ad9f1aececd11c0ec4f59.jpg"
 	],
 	"releaseDate": 20211207,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "An interactive thriller about a man trapped in a time loop. Featuring James McAvoy, Daisy Ridley, and Willem Dafoe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

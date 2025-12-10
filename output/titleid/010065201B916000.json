@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/28ae13d4ce41003d36e4b4a9389cbebaa1de31abc07b506ff38ee0ddf7627f9a.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Deflect. Defeat. Destroy!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.39 GiB"
 }

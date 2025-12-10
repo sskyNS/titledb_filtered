@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/138d5d9973b8a8732c4f626928c5c3dc611f4da487f67ace5b073f452ddef8ea.jpg"
 	],
 	"releaseDate": 20240220,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Balatro is a poker-inspired roguelike deck builder all about creating powerful synergies and winning big.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e6b9b407d08711c32b0c5f735dfc74d481c0b7dc59fe4076053655c0ea179bc.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Forge your weapon and follow the path of the Jedi",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.61 GiB"
 }

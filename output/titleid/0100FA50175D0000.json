@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e26f46d2ab43f32dec8f5c4163f61a4d583ac76bcd98ae34420a6cfec233ff2c.jpg"
 	],
 	"releaseDate": 20220323,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training"
+	],
+	"intro": "Collect memory points to unlock fragments of memories.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "327 MiB"
 }

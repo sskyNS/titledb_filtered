@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/207236d70b63bdd25dd872cb3541d3655f26f7567c8fd701207b311b59431eb6.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Gooooood Mooooorning!!!!!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "943 MiB"
 }

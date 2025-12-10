@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d35a9a0e9237b34b8180f808766773db44bfb1dbfabfd82dbd1fc85d8a6b375a.jpg"
 	],
 	"releaseDate": 20250127,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Music"
+	],
+	"intro": "On a vibrant underwater reef, three very different friends embark on an extraordinary adventure. Learn their story in this beautiful visual novel.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "317 MiB"
 }

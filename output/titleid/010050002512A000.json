@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/63a86d0f75bfcda9791dd58750521bbb3899ce7350a3529fd168daa3dfeab024.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Emma finds a shiny egg and from it hatches Spyke, a purple dragon with whom she will live a great adventure to save a magical world hidden underground.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "237 MiB"
 }

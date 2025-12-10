@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/63afd94de868c08b698a093fa8ee2532e59ebc8e8377abb8e9a4a410cfd4628c.jpg"
 	],
 	"releaseDate": 20210625,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "These spacial puzzles will throw your robots for a loop!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "192 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8b4eaa307882f946bf7e616430b8f1294801262358605a3c0b4869c3fd58e32.jpg"
 	],
 	"releaseDate": 20240101,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Cleanse the Rogue Dungeon of three Demon Knights as you battle through the depths in this addicting rogue-like dungeon hopper from the creators of Mutant Mudds\u2122 and Xeodrifter\u2122.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "724 MiB"
 }

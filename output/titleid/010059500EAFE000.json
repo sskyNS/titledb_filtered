@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8264c3f7b431c06bf4ab9bebd9361d9ac89b4bbbd5d5bab0ad0b5024dfbb98ea.jpg"
 	],
 	"releaseDate": 20211013,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Sports",
+		"Action"
+	],
+	"intro": "A 2v2 futuresport with chickens, aliens, and flying pigs, where professional chicken-catchers\ncompete for the galaxy's ultimate prize.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.66 GiB"
 }

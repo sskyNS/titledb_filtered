@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf0d43cfd937c8cfb55dfef63679ed3b0a4c63d4ddd1534a7c4799cc9a9efb11.jpg"
 	],
 	"releaseDate": 20230318,
+	"category": [
+		"Party",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Play fantasy characters in frantic matches set in a cartoon world and score as many goals as possible!\nFor up to 4 players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "342 MiB"
 }

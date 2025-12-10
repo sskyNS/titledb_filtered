@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/da319e9f57fe817b08183272f402605046d1ebdea3f1cd896f12aeb34c7e5022.jpg"
 	],
 	"releaseDate": 20230513,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "Deliver all the cargos without damaging them and win this insane challenge",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "690 MiB"
 }

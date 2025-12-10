@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b39d495966353225767d734f261e37a9aa9d5fd3dffb328b49e4bfc0a1d4fe39.jpg"
 	],
 	"releaseDate": 20180330,
+	"category": [
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Join the millions of players who enjoyed this classic puzzle platformer, now on Nintendo Switch!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

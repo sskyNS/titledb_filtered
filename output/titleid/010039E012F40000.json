@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/aebe8a9a6ff848716a4b37fc825628fe2a26c4b27ece9ca4e10678aa48232c5c.jpg"
 	],
 	"releaseDate": 20220118,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Experience the next generation of Yu-Gi-Oh! \u2013 a digital trading card game!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.01 GiB"
 }

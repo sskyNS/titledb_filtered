@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e41de3e04d26cdac1eaf86c847cc040123a57300863c4c0eefc458301468511f.jpg"
 	],
 	"releaseDate": 20240724,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Experience a love letter to the world of motorsports as you climb the ranks and collect your dream cars!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "977 MiB"
 }

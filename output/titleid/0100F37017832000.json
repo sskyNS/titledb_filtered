@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebf74ae068d0c827253daa1155eebdc8c3a035f975dd0f904bf242ca3e848cb8.jpg"
 	],
 	"releaseDate": 20220629,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "When Bum-bo\u2019s only coin is stolen by a mysterious entity and pulled down into the sewer, Bum-bo finds himself facing droves of deranged enemies, lost children, his fears and eventually the beast that stole his beloved coin.\n\nThe Legend of Bum-bo is a puzzle-based \u201cdeckbuilding roguelike.\u201d Players collect hoards of items that can be modified, upgraded and combined with others in many interesting ways. Play as one of many Bum-bo, each with its own unique abilities, as they smash, bash and splash their way through a variety of cardboard monstrosities, giant bosses and dark personal urges. . .\n\n. . .oh, and it\u2019s also the prequel to The Binding of Isaac!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.36 GiB"
 }

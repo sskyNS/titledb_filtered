@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b104ac03b8e3e4315a9d5c867ff5a3735f6c7940ff49a966e6f92d6681ecec14.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Roguelite Adventure With Tactical Card Combat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

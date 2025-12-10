@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0375f2bf85f3c3a17135b0b35154c1e4b1e25068206182bf03e29716ee578fd.jpg"
 	],
 	"releaseDate": 20180928,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Giana Sisters: Twisted Dreams - Director's Cut is a challenging fast-paced platformer with a twist.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

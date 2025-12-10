@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/12dec7e1998ff95e872ea8e2aa1b1f53d8b5553074d1af8659450a4bea6f2cda.jpg"
 	],
 	"releaseDate": 20190827,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Eight-Minute Empire is the super-quick area control game requiring tough decisions. It\u2019s easy to learn and perfect for when you only have a few minutes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 5,
 	"size": "729 MiB"
 }

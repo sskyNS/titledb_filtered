@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cab2a3340d40df9d4c467e5242a34267bc5d9b90825125edfd7bd47e8a9326f0.jpg"
 	],
 	"releaseDate": 20220617,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Explore the world of Aravorn through storytelling, conflict, and romance",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

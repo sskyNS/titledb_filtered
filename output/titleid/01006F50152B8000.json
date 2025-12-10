@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/afd2a4cc173843393f10839b75007e8fda4e2e9cc05d014e6172f0ac9d364ecb.jpg"
 	],
 	"releaseDate": 20211117,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Help a sugar-free marshmallow fulfill his dream of finding the perfect balance between joy and vitality!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "26 MiB"
 }

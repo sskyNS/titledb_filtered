@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/929f63deabe9352b9f26b9b16db242ae01a166b7ca2367f744b608d8e6619d90.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Party"
+	],
+	"intro": "Try to imitate the sound by \"voice\"! The more similar the sound, the higher the score!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "243 MiB"
 }

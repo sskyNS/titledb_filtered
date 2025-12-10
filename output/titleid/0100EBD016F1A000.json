@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9dd91306f227a549bc4565d73d3c4e5e62f694740f4bbe61df379c33778cbeb.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Swap between characters instantly in this hand-drawn Celtic action-adventure! Wield the power of three siblings in their quest to save their Clan in the breathtaking world of Hibernia.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

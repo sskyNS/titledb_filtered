@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d0c0312b534a91cb6a1d8d66477f395cb3c4df99c3267fef7b9a6b2209c0508.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "An interactive modern fairy tale about the fun adventures of a Hippo girl!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "319 MiB"
 }

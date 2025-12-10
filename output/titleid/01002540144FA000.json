@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/77dd98422bb7db116d7ee6786982addc56dcffefa6f08da658407405ac81d569.jpg"
 	],
 	"releaseDate": 20210331,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Blast your way through escalating challenges in retro two-tone style!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

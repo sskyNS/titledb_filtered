@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/63a307f37622424bd2e4e2e5394533f7c22b03e9907de274492099fd612a2d4a.jpg"
 	],
 	"releaseDate": 20200226,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "See how many floors you can stack in this hot new game to stay ahead of the roaring flames!\n\nStack this towering inferno as high as you can before it burns and falls over! \n\nThe higher you build, the more stars you earn that you can use to unlock new colorful worlds.\n\nChoose from Pirate, Viking and Sci-Fi plus many more worlds to build in.\n \nTest your brain and reflexes in this fiery stacking puzzle!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

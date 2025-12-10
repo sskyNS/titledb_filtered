@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5628b6b922d6f393539077e8db836362f0a3d425188b7ff2ed6634ed52847d05.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Simulation",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Care for your Cuddly Forest Friends!\nPlay over 10 fun minigames to make your adorable animal companions happy. Entertain, feed, and accessorize your friends and see the forest's Tree of Happiness grow!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "461 MiB"
 }

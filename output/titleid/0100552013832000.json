@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0971c2be848e7412d01aabdc7251f7e5f6063ab0888a5a7db3370be119c900a.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Adventure",
+		"Education"
+	],
+	"intro": "There's no reason to be afraid of the dark, as Sam's about to find out...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "310 MiB"
 }

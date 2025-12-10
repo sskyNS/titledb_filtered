@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c7611ef80c725c8717e14f4b3879678403a7f5db51bb69da699556166d04d4b.jpg"
 	],
 	"releaseDate": 20200915,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "All young naval officers dream of becoming Admiral, but few realise this can't be done without a loyal crew and keeping the vessel under your command afloat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "569 MiB"
 }

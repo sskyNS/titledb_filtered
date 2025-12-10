@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1e9a349d853854d853b435d0353e911aef8dd82bf423e7f5589e47093f78f0f.jpg"
 	],
 	"releaseDate": 20201218,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "A heated rally battle, use two types of hitting balls!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "67 MiB"
 }

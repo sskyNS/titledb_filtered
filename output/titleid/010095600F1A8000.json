@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7baa2f9cff39183de0f687c3c679bc232fe36eb97d7746d24a5a59d1efff9ae2.jpg"
 	],
 	"releaseDate": 20200228,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Pick up wings, spider legs, tumors and many other helpful mutations in this visceral, physics-based fighting game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "44 MiB"
 }

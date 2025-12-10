@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ba8e3d1ea5a8c2f0a403f5bc3266fc78585161dd1b7d7baba887bbf4f2a5b50.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Arcade"
+	],
+	"intro": "The cleaning robots have gone rogue. It's time to make mess! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.20 GiB"
 }

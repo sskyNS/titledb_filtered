@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9151068426aab290c3ba8c69e8a3ed8e9855e34b6488542c88c4eb4f03686a6.jpg"
 	],
 	"releaseDate": 20250117,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Explore dungeons, fight hordes of monsters, and survive on a huge map. This is Ocean Keeper \u2014 an action roguelike with tower defense elements. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

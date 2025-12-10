@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/58ab77d0b37f70f819da24c924c08c384418aa08f5b018a608434dee1dda61bd.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "Complex 3D color blast puzzle challenges, with explosives and aliens included.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

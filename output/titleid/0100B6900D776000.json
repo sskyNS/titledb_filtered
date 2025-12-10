@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ea7d338218e3cacd28c33ebf635e7e17ae8f77ef24a0aa56a76592764bdf5bf.jpg"
 	],
 	"releaseDate": 20200606,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Three game modes in one eclectic-fun-filled package!",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "129 MiB"
 }

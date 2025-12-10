@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/97116bfaa9527156b90ea3ab41bddeae5867cb327c2ee5eccdbcaaf9c7bd4b1b.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Cooperate with Yourself\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

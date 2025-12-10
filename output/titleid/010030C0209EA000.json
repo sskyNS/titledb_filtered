@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f69a0f37878b9b37841a6aa984836531bd1d4ddac2711cdcab61aaec4a12e5a7.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Explore the forgotten levels of Banban\u2019s Kindergarten. Survive the new terrors that reside below. Uncover the truth behind the place, and find the whereabouts of your missing child\u2026",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "686 MiB"
 }

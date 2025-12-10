@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5677f54f13ed251ec025860d16830a2a6fe142548a8869f40b9b9f9ae8b47631.jpg"
 	],
 	"releaseDate": 20221223,
+	"category": [
+		"Sports",
+		"RPG",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Embark on an all-out sporting adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "927 MiB"
 }

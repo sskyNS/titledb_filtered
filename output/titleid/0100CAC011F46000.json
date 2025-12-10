@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f57350405f38122c47486960017d1f8a1e86984a114fcebb968af44aad90182e.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Ready, aim, fire... And fire again! Are you ready for this frantic journey? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "165 MiB"
 }

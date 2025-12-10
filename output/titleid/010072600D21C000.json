@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c16eb22b48816eb957cefaf826901e872f665e115c6f6865781b59c071f5d7e4.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Agony is a first-person, survival horror set in hell. You will begin your journey as a tormented soul within the depths of hell without any memories about your past.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.69 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/afe094d91c97450a022f57cbfbf75cfa1e5ca63473c7162a253ccf3d0d366d8c.jpg"
 	],
 	"releaseDate": 20220906,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.50 GiB"
 }

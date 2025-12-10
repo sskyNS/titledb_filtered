@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef0cfc9c205dd2223f54c4946af3b4b1a87244a52cdfdd1be09764533b47f21e.jpg"
 	],
 	"releaseDate": 20180823,
+	"category": [
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Epic scale historic WWI dogfights",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "624 MiB"
 }

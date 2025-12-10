@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1352281153dae62c764fdd278d9a13b967bc4d31901429475a3b00d0ea2041db.jpg"
 	],
 	"releaseDate": 20200623,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Training",
+		"Strategy"
+	],
+	"intro": "A relaxing puzzle game. Turn on each board by connecting all magnetic pieces to it.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

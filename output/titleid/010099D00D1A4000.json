@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a71a33da0abe6cd3d6132702d57bce3fa466a6d3f9ef2ebfe13ab0cd80e759a6.jpg"
 	],
 	"releaseDate": 20200115,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Your company is going global. Use big machines to demolish huge buildings or go close and personal and use your hammer. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

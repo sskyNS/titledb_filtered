@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a148110d883c9de16f8c779d952545a1984eb71c4dd4b0e9545b81baa873f01a.jpg"
 	],
 	"releaseDate": 20230221,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The latest addition to the Ninja JaJaMaru world: \u201cThe Great Yokai Battle +Hell\u201c!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "582 MiB"
 }

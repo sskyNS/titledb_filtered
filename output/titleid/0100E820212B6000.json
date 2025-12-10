@@ -9,5 +9,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/00cdd2e67b8b38c43b3eb59ad5fd91e190eab0ae150114166b80629de074ef58.jpg"
 	],
 	"releaseDate": 20250221,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Experience a unique visual novel with decision-making and over 20 different endings! Survive an ordinary day in the life of a student",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "405 MiB"
 }

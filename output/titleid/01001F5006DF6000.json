@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae64875a0d9753f7117205f6f4a0d615edf36839cbfa4aa55ef1e464a36250a2.jpg"
 	],
 	"releaseDate": 20190719,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A physics-based mix of platformer and puzzle game with classical music tunes included. Family friendly, especially in co-op. Help Jim to move-out and see the world!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "931 MiB"
 }

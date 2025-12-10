@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0a2fb73a6893f7b7be9be4563851f97917d158b732c84ed629fc1abc27728c5.jpg"
 	],
 	"releaseDate": 20221124,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Kick it 90s-style!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

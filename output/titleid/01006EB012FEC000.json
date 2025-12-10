@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a83ac686065030e8d507c273d20b3f91956bcceb49fb8d0d2639697fd346995b.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Embark on an Adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "978 MiB"
 }

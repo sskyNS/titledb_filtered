@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd4ba04593a4595c65462861d3a90f5a5b989920f9cbea940a73444f70457a21.jpg"
 	],
 	"releaseDate": 20200417,
+	"category": [
+		"Strategy",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Choose your faction and use your Rover to build an army with a variety of units. Bash the opposing forces or call in a devastating death-beam. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 8,
 	"size": "361 MiB"
 }

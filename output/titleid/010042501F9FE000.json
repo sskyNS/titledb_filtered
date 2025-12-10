@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/85ec22f10aa2fb4879e0bd7c148a1b277a37cfa9aead22ef4d78edf07091d644.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "\"The Throne\" is a medieval adventure in true Metroidvania style. Get lost in a huge castle with 2.5D pixel art environments and increase your power with new abilities you find along the way.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "709 MiB"
 }

@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c389851bd8810e884155f727004e35963da1406a7dcc3e52d10a9dd05c8c8bb6.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A lightning fast first-person action platformer set beyond the pearly gates of Heaven.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.78 GiB"
 }

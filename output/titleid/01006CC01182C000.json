@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8424df3c0ec5072dcc44454095153d47b5478debf251134736f4c59f13579ce.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "Evil Hides in the Woods",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.03 GiB"
 }

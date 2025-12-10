@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/821da9c80c457b9b6d6a678d2f3a89caf0fd5c1bfe429a6d6c34aadd34964d09.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Find your way through a disorienting maze as reality distorts and fear grips your mind.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.74 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc060624e0a1d1b43ba2a08ae7f84b4ed3caceb9977ba9f5945b6ef773c1fee9.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Gatewalkers is a unique mixture of co-op game, survival and RPG. You, as a Gatewalkers, travel across different worlds in order to save your own.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.04 GiB"
 }

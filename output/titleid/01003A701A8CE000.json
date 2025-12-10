@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a79a44948465f4bea460c6cd75517b0e96139859a0f4a9eb16fb661a3e6caa6.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Join your favorite Nick Jr. friends in this colorful puzzle platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.94 GiB"
 }

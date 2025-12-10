@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d16730256b8b7a1e5af5534b167dafe37980f2c7e5e8a58ac6acd7f529b1f1f4.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Echoes of the past linger\u2014will you dare to listen?",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

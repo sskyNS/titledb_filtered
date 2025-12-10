@@ -4,5 +4,24 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20250829,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Contains the digital art book and soundtrack featuring music by Koshiro and Tee Lopes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "780 MiB"
 }

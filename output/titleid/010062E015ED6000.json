@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2896f8b65f11a4b1cd1885fd525490a5d0eedc01f9723f6b9c6988049b17666d.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "This is a science fiction FPS puzzle horror game. Experience a tale about an unexplored area within the Chernobyl Exclusion Zone - The S.W.A.N. Institute.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

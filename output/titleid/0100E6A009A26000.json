@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d76e86430f769069b8143b38f3a7a35b5f794073c18b75df6a2ef70eada670da.jpg"
 	],
 	"releaseDate": 20180401,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "King Leo kicks platforming back to the arcades!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

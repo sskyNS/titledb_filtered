@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e6db0eae3d26cd345684f9e9e2eb9c60c53adbf599556957ac7e8ce2459ef81.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Study"
+	],
+	"intro": "The classic matchstick puzzle is a real training of logic and brain!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

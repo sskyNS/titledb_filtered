@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/970658e5da800240838b6cb768fa0ed1ed862f47b5bf00aba6c76a75b80c6870.jpg"
 	],
 	"releaseDate": 20240320,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Clear retro 3D levels or build your own in this 3D action platformer for all ages!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

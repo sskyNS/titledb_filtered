@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc07a13d71e1542ede6d9c4d697ec0956519c9224ab211d71156cebddef53664.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Save the galaxy in this fun and exciting Shoot 'em Up game.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "115 MiB"
 }

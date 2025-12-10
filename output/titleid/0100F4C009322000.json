@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e26b2b5fbaa785806044caf66f77a61e6cb991a641fc8a820bab5fa4759448d.jpg"
 	],
 	"releaseDate": 20201030,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Grow a squad of adorable, plantlike Pikmin to traverse a strange world and save your planet",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.54 GiB"
 }

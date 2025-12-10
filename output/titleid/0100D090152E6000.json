@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be7064b2a105830f45ea3d90e317e69a3bc3202bfe4992925759144190c00344.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u300e\u30ec\u30b0\u30e9\u30f3\u30c9\u30ec\u30ac\u30b7\u30fc\u300f\u306f\u5f80\u5e74\u306e\u540d\u4f5cJRPG\u306e\u30e9\u30d6\u30ec\u30bf\u30fc\u3002\n\u30af\u30e9\u30b7\u30c3\u30af\u306a\u30bf\u30fc\u30f3\u5236\u30d0\u30c8\u30eb\u3068\u6226\u8853\u306b\u65b0\u305f\u306a\u30a2\u30ec\u30f3\u30b8\u3092\u52a0\u3048\u305f\u4e00\u4f5c\u3067\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.23 GiB"
 }

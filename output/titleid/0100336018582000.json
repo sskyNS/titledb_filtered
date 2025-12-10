@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d2cdc61d6107f20c67b35bd1bdc996005b806230434d2e7feed99a12d786b19.jpg"
 	],
 	"releaseDate": 20220531,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Lying is not the best way to win a boy's heart. So behave well and be sincere as well as quick in giving your answers.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "777 MiB"
 }

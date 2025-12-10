@@ -10,5 +10,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b1642fc29abcc0df709d1b998410f630c4673bc1a16ba5cfe97a1b4aae37827.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "minimalistic Sokoban-based puzzle game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

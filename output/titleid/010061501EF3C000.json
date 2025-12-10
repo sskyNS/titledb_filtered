@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ae66a606c92bc4dc87fec28f4a1373fe9932407a7664cf06c0cfd89df853d7d.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Beware The Willow Man as he lurks throughout the halls, in your dreams, and into your soul. Can you survive the night in this horror adventure.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "611 MiB"
 }

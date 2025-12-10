@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d85250d869bb8bf04779efa42f4a4eeadadd9931d8bdb4736680cbe52e8ff9af.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "\u201cAlien Engine\u201d is an incremental game where you need to build a megastructure alien organism in an extraterrestrial style of technology.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "108 MiB"
 }

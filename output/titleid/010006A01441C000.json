@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/55397dd1e48e743245891e874f4959831f52a95a21314c755c9ae3a7afc7f26d.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Magic and firearms make a deadly combo in this blood-splattered take on classic top-down adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.16 GiB"
 }

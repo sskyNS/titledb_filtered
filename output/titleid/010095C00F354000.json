@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/71ff61b81f3e590b1e42877dc6ae6ce0a2784cc7245e67d0d43ab33701a49e9f.jpg"
 	],
 	"releaseDate": 20191126,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Real Trucks. Real Action. Monster Jam! Monster Jam Steel Titans delivers the complete Monster Jam experience for everybody to enjoy!\n\nAll the trucks, stunts, stadiums, racing and massive air in one game! Play in various game modes including Stadium and outdoor Racing, various Stunt Challenges and Destruction modes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.26 GiB"
 }

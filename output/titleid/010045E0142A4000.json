@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4d52efcf9efc77c92224663e2eb3f264b5022fba873e454a3d69b3db5ca19a9.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A jump scare free, skill-based survival horror sequel to the 2019 adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.17 GiB"
 }

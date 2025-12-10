@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/219a30192e08f2dd1f94086d8d4359aa18f00c4d63374c2c8b518b0187f09a41.jpg"
 	],
 	"releaseDate": 20241009,
+	"category": [
+		"Arcade",
+		"Action",
+		"Music",
+		"Shooter"
+	],
+	"intro": "Brew up some action in this coffee-powered sequel to the hit musical shooter!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.51 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa1a238f19f721b30c135cf6dff96ab7aaa90ee6d1520d5e9432a0d253cec172.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Training",
+		"Other"
+	],
+	"intro": "GROW YOUR BUSINESS\nTRIM THEIR LAWNS",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.49 GiB"
 }

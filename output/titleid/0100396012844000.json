@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f183456212f525e8282d8cf7c9adfb9a0d713be5c016d2aebf9b83f4e13bb56.jpg"
 	],
 	"releaseDate": 20220425,
+	"category": [
+		"Action"
+	],
+	"intro": "RESEARCH and DESTROY is a TURN-BASED ACTION GAME with local co-op. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.87 GiB"
 }

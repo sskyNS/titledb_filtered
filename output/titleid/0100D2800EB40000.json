@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0092d84575ee5cef10f9641b36868ccf0787c801b03235d67aac020ab425f5d7.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Battle Planet - Judgement Day is a planetary rogue-lite top-down shooter in which you fight your way through hordes of aliens, military and police units. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "745 MiB"
 }

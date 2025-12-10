@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f3b247e269cacb4bea9f9b4317fda17395c3cbeff555f4c0924747d7750c248d.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Face off across seven sporting events to become the champion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "98 MiB"
 }

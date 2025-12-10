@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c4f632485c9c6cb80496fe89e450a026ec29e6de6959cd5c7dbf9ed72bbddeb.jpg"
 	],
 	"releaseDate": 20220615,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "An exciting puzzle game about finding differences. Compare the pictures and try to find everything that they differ from each other.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "371 MiB"
 }

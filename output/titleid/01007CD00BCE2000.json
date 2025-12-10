@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a0a3e5db3f12d9946bc29d6bbe4f434015eead9a7a8b6db6287e963cf7e237f.jpg"
 	],
 	"releaseDate": 20190114,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "Forever Forest",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "333 MiB"
 }

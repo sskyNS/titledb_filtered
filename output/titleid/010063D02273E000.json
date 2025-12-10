@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/41be937af6cea8d851b5a806cad1fb4448fcb519b9d2fa776e5234c986187e61.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Action\nRoguelike\nCasual",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "346 MiB"
 }

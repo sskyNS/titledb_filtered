@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e50064ad073f6e8493db94278a3550bb1b9556c94b464120ccaa5170102222f.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Assume the role of a Grim Reaper and decide who lives and who dies... as an office job!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

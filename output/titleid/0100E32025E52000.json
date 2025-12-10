@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7038f47d3d613a9b70e04cc69d70eccd33f5ab183d103479f6924754a6f2cd2d.jpg"
 	],
 	"releaseDate": 20251129,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Draw. Think. Let physics decide",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

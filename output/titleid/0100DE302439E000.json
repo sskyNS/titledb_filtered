@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3556300bf3d8b0629bed9f88c7b34d2849753b2437758a893d60fceb2f51f50e.jpg"
 	],
 	"releaseDate": 20251117,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Play a third-person, story-driven game set in alternative Russia at the turn of the XIX century where religious visions clash with harsh reality. ",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.32 GiB"
 }

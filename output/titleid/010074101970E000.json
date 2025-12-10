@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e635f297cbc662b08a529ddf70056b0056f181771178f290e1efef1cc143dfd6.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Lifestyle"
+	],
+	"intro": "Simply mini golf fun with 72 holes and playable up to four players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "350 MiB"
 }

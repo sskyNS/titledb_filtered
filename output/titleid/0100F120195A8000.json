@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/18e6870d887cec98ad06d500a7c740f1d8cfdfa0a2a009c94e8450c684148865.jpg"
 	],
 	"releaseDate": 20230204,
+	"category": [
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Create insane builds and break the game in all possible ways to get your name into the leaderboards!",
+	"languages": [
+		"ja",
+		"en",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

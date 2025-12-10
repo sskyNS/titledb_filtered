@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7eeae5e7b8de4ca70bbd3d44e06675a3129d3eb5ce72f93bc781cbf2ce14d66c.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Prepare for world-class excitement! Sixty-four teams from around the world give you an authentic soccer experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "148 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb00ad61a1dbac930725bf3b31a98756e41477408ba2ebc077bb6b2d5c0b9383.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Party"
+	],
+	"intro": "Human Rocket Person is an absurdly fun platformer where you jump & fly through levels on your trusted pogo stick using rotten apples to fart out rainbows.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "355 MiB"
 }

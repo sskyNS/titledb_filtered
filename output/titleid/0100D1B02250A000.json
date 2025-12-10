@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a18b30283c9d339a6337e6f7e42add4a0785f00babb256e3a7d450ebcf46c47b.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "In Tales of Autumn rebuilding your farm and animal care go hand-in-hand! Befriend chimaeras, help the town, and become the hero of this story!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "363 MiB"
 }

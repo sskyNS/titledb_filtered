@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3aa995f97812a31e8893e1b7dc24a6f20025367284be3c5a6f3b9dc32072642.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Help Eleanor recover the Life Fragments in a dangerous, magical world!",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

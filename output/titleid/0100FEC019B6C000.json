@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bfa5d01032a6b0a1665e85ddbca87645555d03d9ace73299727625fae866e28.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Play with Animal Puzzle Cats!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "336 MiB"
 }

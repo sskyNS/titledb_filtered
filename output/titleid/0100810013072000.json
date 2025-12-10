@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/828e988515bd1a202360b6a1de1af298e3ed848a4234c7b8755ecb7f5ee8c195.jpg"
 	],
 	"releaseDate": 20241211,
+	"category": [
+		"Adventure",
+		"Education",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Rascal's Escape is a co-op adventure game to satisfy your wanderlust.",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.47 GiB"
 }

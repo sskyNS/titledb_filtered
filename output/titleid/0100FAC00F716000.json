@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfd4409cb16c6b69316b9f6cb24e0fea6566127841fc9e0201c25fc1c0ee2882.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "The thrill of a rugby match all on one desktop!\nEvery try is electrifying!\nEvery win is a feat of teamwork!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "734 MiB"
 }

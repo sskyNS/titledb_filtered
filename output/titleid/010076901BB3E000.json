@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/464b561069ba7a14c833392fad8946e422a2ec4b703ada90605e8309a48e6b15.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Start building your passenger bus transport empire between cities all night and day! Bus Tycoon Night and Day is a passenger transport tycoon game. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ab381e00afd2cbc914f8900a879e22756ecf633f555d8b87ce60ec4a553366a.jpg"
 	],
 	"releaseDate": 20180809,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Minit is a peculiar little adventure played sixty seconds at a time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

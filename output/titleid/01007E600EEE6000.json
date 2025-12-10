@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/45cd711d3eb530147a79309eb9957c9857a5797ab8859d29eda6b1ca5f86ad46.jpg"
 	],
 	"releaseDate": 20200109,
+	"category": [
+		"Music",
+		"Platformer",
+		"Action"
+	],
+	"intro": "140 is a challenging platformer in an abstract world that moves to the beat of the music.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

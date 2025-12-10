@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac81ff5ee3df200e010d6834ddd623a93487ade09c8b3f16fc99ef381614dfb1.jpg"
 	],
 	"releaseDate": 20190302,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "Frenetic arcade style twin-stick shooter.\nFight your way through hordes of enemies alone or with a friend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "189 MiB"
 }

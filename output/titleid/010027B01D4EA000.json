@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfc1a6492cb436235fb2ca551f98e26e4cf9cee3dc0aad72b6b89a23950ffeb3.jpg"
 	],
 	"releaseDate": 20241129,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Build your farm and relationships and forge ahead on a quest of magic, monsters, and dragons. Level up your skills, explore multiple amazing towns and save the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.56 GiB"
 }

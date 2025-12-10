@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7286300099fffccc1897c718c00fe2cbfb5844092a94ede82f30c50120c3d9f1.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "What is the true face of justice? Find it out in an RPG full of drama and hope!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

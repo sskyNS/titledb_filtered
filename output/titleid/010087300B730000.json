@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a878bfd0e89f0b5934da7055e2c952bba9278ec84969850e04203f7feaecce8f.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Guide two brothers around the world to save humankind from an alien invasion! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "435 MiB"
 }

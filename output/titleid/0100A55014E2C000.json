@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e732cf272885ae06bff61511e515b1d89196fcbd848aa12f169017d39eef913.jpg"
 	],
 	"releaseDate": 20210908,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Rebuild a frontier town and become acquainted with its community in puzzle-RPG Frontier Quest!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

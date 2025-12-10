@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/570eb590d41c888cba7667d466f612238d2c5d806fdc3c4d76e301fac2482772.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A battle accountant storms the castle to rescue a princess, but accidentally rescues a lonely dragoness instead.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.88 GiB"
 }

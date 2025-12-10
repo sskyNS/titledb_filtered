@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/27166dc6ccefd9850091bb8151dc67fb786a5965f21bcb9681be87ed5f70b8e1.jpg"
 	],
 	"releaseDate": 20210621,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Tales from the harrowing and beautiful journey of Lily \nand the Immortal Knights",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

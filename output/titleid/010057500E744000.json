@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/596740576b221deb40651ecd8f1282c2dd9806401f982902c90d36031088c617.jpg"
 	],
 	"releaseDate": 20200703,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Introducing the Grapple Beam! Chain ghosts together then pop them all at once for points in an endless 'bullet hell' arcade apocalypse.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

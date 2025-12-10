@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcc8cad06c5089499edc5d5d8e25621f26240d5b1d696cae7677c02071b46b1f.jpg"
 	],
 	"releaseDate": 20200212,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Top Run is endless runner with platformer elements. It has everything we love: neon, pixel art, a bit of outrun, tiny piece of synthwave, scanlines, VHS effects.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

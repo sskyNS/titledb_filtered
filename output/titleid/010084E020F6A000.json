@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/89a6b7163952e0368453af1f7ed6c8b29d0c802d82f530f407fc443137d1bec2.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Puzzle Your Way by Controlling the Light!\nReflect the beams and hit the targets right!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

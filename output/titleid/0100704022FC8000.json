@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5341d9805aedcf1a20d9cfd65941cd43748e22bf4c180c704e344293b45a9779.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Dive into the game, enjoy the process and discover new stunning illustrations!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

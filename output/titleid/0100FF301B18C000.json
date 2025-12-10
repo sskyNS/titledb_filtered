@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/953c6b6950772ca9bdc5fe3771c92f84621cfd7e4249af9f11c22d52b72ddd67.jpg"
 	],
 	"releaseDate": 20230922,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Bud Spencer and Terence Hill are back in a brand-new original video game adventure! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.46 GiB"
 }

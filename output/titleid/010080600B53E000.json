@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/496f300ea8bf6327c20ff74e66400a6f8deec499f4be0e81ee4daf1d3bb49f7c.jpg"
 	],
 	"releaseDate": 20190514,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Fight for evil!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

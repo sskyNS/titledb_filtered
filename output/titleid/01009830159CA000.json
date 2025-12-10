@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b63fa2b9a716aafb6adf09df044aa0ea757eb683b02d0d5d7d0b36b5fe97a56.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

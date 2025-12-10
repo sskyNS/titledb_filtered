@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7abbb3c79bf4f70ad0a5839c2c15ea056e1390300ae696cc4b0f80493063f193.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Life. Afterlife. Real. Virtual. Dream. Nightmare. It\u2019s a thin line.\nIt\u2019s Axiom Verge 2.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "432 MiB"
 }

@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/effc1f5abb6d30b3cd7c08026e1bbfd769796870092c1b348e2e1a31eae7c413.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "A love letter to classic games!\nExplore an ever-expanding, challenging maze filled with countless secrets.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "440 MiB"
 }

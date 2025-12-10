@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/26cd1009cd055888cd036d4852c2b02929de5b0aeb373d8dc6e032e9b9498ed3.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Cave Dive Into The Unknown!",
+	"languages": [
+		"ja",
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "277 MiB"
 }

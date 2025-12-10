@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8bd7abca08b52a3b71c837eecb8290493ac6599f91e51991ca58d895fe665ce.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Sports",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Get ready for thrilling action! It's time to bowl!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "89 MiB"
 }

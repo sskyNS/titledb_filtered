@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/67d4f7474b8588a65e29d203b4baa1ac05a4602a42c8767cb83c1be26ee8f247.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "YOU ARE LOST IN SPACE! ALL WEAPONS ARE DOWN! Survive by ramming your ship into meteors and hostile forces.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

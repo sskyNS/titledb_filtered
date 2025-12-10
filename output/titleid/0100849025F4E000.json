@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd5d891c4e78b50fac28920726a8fed8056d68e07b1ac1a814e0b41d737845fd.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Study"
+	],
+	"intro": "Get ready for a spooky and sweet Halloween with 111 backgrounds full of pumpkins, magic, and terrifying fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

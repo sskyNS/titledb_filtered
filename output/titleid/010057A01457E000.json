@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dd73f7112e0fa3390841c9d03c2a0adaad05ee12ef19ab2bf7ccf076d101315.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Hoard all the items!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

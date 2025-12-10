@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff7972b7edc5cf7da6df0af05059b0450b23d4baa418ca5f2770bca00ddad6d4.jpg"
 	],
 	"releaseDate": 20230622,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Shooter",
+		"Communication"
+	],
+	"intro": "Online cooperative Corinth-game like game that can be enjoyed by one or all, based on the theme of healing in nature. Cooperate with other players and aim for the JP!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "719 MiB"
 }

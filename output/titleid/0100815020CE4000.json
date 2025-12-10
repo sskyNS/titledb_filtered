@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dbec655d8c594dcc3f53772e282eac5b87580addb60ed4d214aea1f343b13e1.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A dark and terrifying horror full of secrets and mysteries will make you feel the whole atmosphere of escaping from an abandoned labyrinth.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "931 MiB"
 }

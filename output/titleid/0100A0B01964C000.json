@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd7419ee5990c59aacd73691c5eb8301be6375b520257dad5861ec094ae1aae3.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Be ready for a fast-pace, uniquely stylized platformer game. Use your grappling hook to swing around in giant levels, dash through energy crystals, and find hidden secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.07 GiB"
 }

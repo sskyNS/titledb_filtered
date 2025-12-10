@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/a763dedc1fa3345ecf36359016855ebb7b35b6e61c0becec9ccdc3a3e85f8c43.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Scrapnaut is a co-op & singleplayer top-down, base building survival game with steampunk elements. Explore an open world with different biomes, take care of oxygen, manage your farms, generate electricity, build your home and much more!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c06e19f45c185db9e201e28cd99eb2669b0435fab1dc831e57ea3509d54644ba.jpg"
 	],
 	"releaseDate": 20250627,
+	"category": [
+		"Simulation",
+		"Training",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Every bike is a new Adventure. Every stunt a step to glory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

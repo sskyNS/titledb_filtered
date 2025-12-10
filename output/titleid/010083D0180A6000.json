@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b171380b4f96325a5cdd7ce16f6fb0e05a672fa50b4405d4025f5333f14d8e83.jpg"
 	],
 	"releaseDate": 20230426,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "87 MiB"
 }

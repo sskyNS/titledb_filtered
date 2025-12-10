@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2d2ab26a4d8c721f99814017745f0c854de588ef6c8318f53445544844aa43e.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Rise, Unite, and Triumph!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.80 GiB"
 }

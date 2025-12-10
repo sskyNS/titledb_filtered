@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c6d830e87a1c809d2fc63ed87f23f78f880ef9aaa0aebef5029b1db058713ef.jpg"
 	],
 	"releaseDate": 20221004,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Immerse yourself in a psychological thriller of a new kind, playing with the limits between reality and fantasy. Freely inspired by Alfred Hitchcock\u2019s universe. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.16 GiB"
 }

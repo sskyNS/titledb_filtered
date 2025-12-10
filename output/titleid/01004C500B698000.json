@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d9449d9e3a83bc49b18ae80d41a813d8619754776869ef9f214642cd5d5ca65.jpg"
 	],
 	"releaseDate": 20180912,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Shoot, drop, switch, repeat!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.59 GiB"
 }

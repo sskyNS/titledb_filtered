@@ -4,5 +4,23 @@
 	"publisher": "BANDAI NAMCO Entertainment",
 	"screenshots": null,
 	"releaseDate": 20220707,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "The KLONOA Digital Art Book & Soundtrack allows the Player to listen to the musical tracks from the game as the Player flicks through nostalgic old pictures and new artwork designed for the latest title.\n\nThe 30-page art book and 143-track soundtrack are available to be enjoyed as part of a single combined application.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "936 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ed92117ceb6bf1bc5abafc93dbc73220a300332341537d61abc471c8b932fee.jpg"
 	],
 	"releaseDate": 20230713,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Action",
+		"Other"
+	],
+	"intro": "You get a chance to renew any car and restore its splendor at the request of demanding customers!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.17 GiB"
 }

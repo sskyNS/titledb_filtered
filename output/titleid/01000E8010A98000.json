@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fd826c0939680ef4ca1e1236976ab9f0c48a0a58dd287cc596b3579714f955d.jpg"
 	],
 	"releaseDate": 20200220,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "\"Escape First\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

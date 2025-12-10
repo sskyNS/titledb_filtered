@@ -4,5 +4,17 @@
 	"publisher": "Spike Chunsoft",
 	"screenshots": null,
 	"releaseDate": 20230630,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Digital Soundtrack",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b286fdfb80c5be8c5b4f9e95ec6516e520fb716f5c6c2898cf172785a42b624f.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Become a valiant animal rescuer as either Leo or Mia! Save wildlife in the savannah from poachers and other dangers in over 15 exciting missions!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "917 MiB"
 }

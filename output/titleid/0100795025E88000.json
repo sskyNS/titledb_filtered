@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dee06dd351fa2760c29aedb9b9c9993a59770120be025a9fbeadaec64a90bd1b.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An incredible and amazing adventure is now in the format of a TV show!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "617 MiB"
 }

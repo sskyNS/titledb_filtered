@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2145545ef74cfeff08d3b6a315414555b5eba5f625eaef0a9505bcda0eea1691.jpg"
 	],
 	"releaseDate": 20250829,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Education"
+	],
+	"intro": "Craft your ride and master the endless journey.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "884 MiB"
 }

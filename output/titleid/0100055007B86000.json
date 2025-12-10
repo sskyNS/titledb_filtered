@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc171c799e809bb565882476062eae81772d44551bfc220ed14a372248a83236.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Your decisions are you.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.63 GiB"
 }

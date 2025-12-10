@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/47621f11e5d6ebe83f1c8129f91f5bd2be2a35e94fa985dce39b5471fe00f725.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Akira's unlucky encounter with an evil spirit throws his life into chaos. With the help of two beautiful shrine maiden sisters, he sets out to banish the spirit but...?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

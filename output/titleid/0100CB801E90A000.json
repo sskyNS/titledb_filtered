@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a4eda0cc62a0363db6ccfe046bf405773738c046c2949ac334d7cd412e89a79.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Join this exciting saga, where friendship and courage merge. Live every moment of this great epic adventure. Don't miss the opportunity to be part of this legendary story!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "460 MiB"
 }

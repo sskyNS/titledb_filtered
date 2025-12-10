@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a183ea2086e529f1b19e0b4cd5bd7fa026aee8c42b5e45e76bd85019d4170f7.jpg"
 	],
 	"releaseDate": 20250626,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "No time to explain. Just start digging!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.14 GiB"
 }

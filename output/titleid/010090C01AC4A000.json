@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/172b5c69022ff04568df5d590b37d446f601e71c44e3a70b785883a6086849cb.jpg"
 	],
 	"releaseDate": 20240424,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Death always climbs with you",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "855 MiB"
 }

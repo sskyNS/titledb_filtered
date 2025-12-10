@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb0de69a21e581f40aaa1172602dd5e8a5be456b7eb0c8e89d422868d2561e67.jpg"
 	],
 	"releaseDate": 20210919,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Fun, relaxing, and easy low poly adventure through different zones with fun missions and secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "584 MiB"
 }

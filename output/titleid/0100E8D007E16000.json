@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5b9405eac08535acef24ed88cabba13946973a5b3d8b0b4adf3c568d8f02f95.jpg"
 	],
 	"releaseDate": 20180329,
+	"category": [
+		"Racing",
+		"Action"
+	],
+	"intro": "Get parts from the gacha!\nCustomize your machine and drive the tracks!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "465 MiB"
 }

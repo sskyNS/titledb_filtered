@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b25f7787ef0088a49b0cfc90c41f2565f01b147328fbfec2429d207cbbcf167.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The day of camping with friends has arrived, prove to be the memory of the group! It's up to you to prove that you know all the rules of camping. Answer the questions quickly.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

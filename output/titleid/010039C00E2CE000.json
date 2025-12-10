@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/06d3b4628eea81260edddad3108de54bcb28563a90121ba4741a73ff76b66186.jpg"
 	],
 	"releaseDate": 20200529,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "A co-op puzzle platformer with an attractive twist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "961 MiB"
 }

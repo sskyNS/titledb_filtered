@@ -9,5 +9,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/81db7c15de8d38321cc8367a36e17daeccda334eb214a9977715df8c4c922817.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Party",
+		"Other"
+	],
+	"intro": "Feel the rush as you join an Omaha Game table! the excitement before the flop, turn & river and the thrill as you decide to fold or to bet...",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

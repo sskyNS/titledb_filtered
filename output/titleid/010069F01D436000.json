@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d413291d426c7aa7f9a0408395a34f7dd7e71378a4e32a2c101ee6cc616f7cf9.jpg"
 	],
 	"releaseDate": 20231124,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Explore space and lead the crew as a starship captain",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

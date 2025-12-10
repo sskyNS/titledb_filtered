@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/be553e4a804d6b4a42eea12a110ced0caeea07c2dd840cb320ce6c3084eb4b91.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "This game throws you into a brutal arena where endless hordes rise and only raw skill keeps you alive.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

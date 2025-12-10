@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/de2495e21f9ea11212e63bd8eff2f690580470da67195c4b521be16aa989c6f9.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "Battle through hordes of monsters on a journey to\nreunite your family in a fantasy 2D action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

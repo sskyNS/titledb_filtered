@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ec3233b8d4cb09c832b1524c525f6e2b55d55d19cb72ad5ace2dc833c51a4f8.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Leap into the air \u2014 where every flip is a fight for survival and every jump writes your legend.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

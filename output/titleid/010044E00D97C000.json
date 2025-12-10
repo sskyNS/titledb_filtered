@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/58f8127756d6d59a3d0d87ee88c7fbab16d3becb4bc69ff7ca89efcf85dae243.jpg"
 	],
 	"releaseDate": 20200227,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Party",
+		"Shooter"
+	],
+	"intro": "Sloths.  Pizza.  Chaos.\nBattle with your friends using an arsenal of PAIN to collect the most pizza.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "456 MiB"
 }

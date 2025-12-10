@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/75a26dea09e210a0f458931bd55786c209d80a1ea79258bb6cf25584dce160ed.jpg"
 	],
 	"releaseDate": 20201103,
+	"category": [
+		"Party",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Lunch A Palooza is a game for everyone! The goal is to be the last food standing! You must use special attacks and food items to dominate the opposition.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.21 GiB"
 }

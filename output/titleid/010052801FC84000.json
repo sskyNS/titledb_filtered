@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d82fd95efdd1a174fd69ad7a1c798572c0239ca4bb5e3c15336d176106c46407.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A fun and easy battle game for all ages, with simple rules and controls, playable online and offline!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "146 MiB"
 }

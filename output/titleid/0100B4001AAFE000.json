@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e030aabbbc834dacf861d0dac0c23b4497d1ccf5699e9c0038582ed8f92f27d0.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"RPG",
+		"Action",
+		"Music"
+	],
+	"intro": "Battle against war machines with electrifying Guitar Solos, and save the planet!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

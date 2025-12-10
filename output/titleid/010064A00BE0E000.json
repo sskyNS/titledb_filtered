@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c1ef8f1d472fc7da9ee661d8d541b3580b38cc81259124024c12f05f77e1da5b.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"Sports",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Make way for the American football game that made America go wild with its high impact graphics and gameplay!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "107 MiB"
 }

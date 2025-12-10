@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/25793a603c29c5e0e910154b866b5fb0b1177968fc9f9b78978bd19d8b339fa7.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Are you ready to slash your way through chess-inspired challenges?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

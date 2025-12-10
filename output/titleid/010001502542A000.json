@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0619d88aa3f832a02e3b9a4327c265ece38b0a10e120c7ba91b54b38950f8e9.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "This is what real street basketball is all about",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "254 MiB"
 }

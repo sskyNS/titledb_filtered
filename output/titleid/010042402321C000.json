@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/71f203bdacfacdfe9e62a2eb9a644f1a92dda4a3bbac7aebab1498a3900e0e0f.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Party",
+		"Simulation"
+	],
+	"intro": "Four disciplines, one goal: higher, further, accuracy!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "738 MiB"
 }

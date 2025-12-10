@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a043f99cab86ecd19bc8a5f416d7642e47e9ea245966e90de8d6504d28251a8.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action"
+	],
+	"intro": "An exciting parking simulator in which you become a driver of a powerful and huge truck!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

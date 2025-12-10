@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a0253f11b3742cb318e465aa0252f8c6212c55ca4cf31f7a06856c02be71996.jpg"
 	],
 	"releaseDate": 20201125,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "\u2018My Aunt is a Witch\u2019 is a Visual Novel full of adventures and quests in the world of magic",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

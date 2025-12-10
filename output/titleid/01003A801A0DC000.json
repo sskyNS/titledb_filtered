@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0a6da70934095ee1915e82717caac48705f0d44b0a4c50b9feb496bf588e31b.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Explore magical worlds in search of lost tools that will help you find your brother",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

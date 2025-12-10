@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e26d486324730ab0c3ab780569f43548730693c999d0143f1b9b6144d962ef4f.jpg"
 	],
 	"releaseDate": 20181030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Traverse the haunting world of Yomawari: Night Alone as a young girl searches for her sister, or share in the terror facing schoolgirls Yui and Haru in Yomawari: Midnight Shadows. Uncover the mysteries plaguing a rural Japanese town, hide from the things lurking in the night, and maybe get home alive...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

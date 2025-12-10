@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/87defd6be7769e76f504f4261b8780b0775f5e73948f2e6ea1699853eb97c80d.jpg"
 	],
 	"releaseDate": 20211005,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Is there truly such a thing...as a happy ending?\nAn adventure game themed around rain, yandere characters, and strange abnormalities.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "207 MiB"
 }

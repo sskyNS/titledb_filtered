@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8282de650ff1082f5439ae1f5c75050bb0a04c13631870157e509a7dc7e834c1.jpg"
 	],
 	"releaseDate": 20190326,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Get back into the cockpit with the premium all-you-can-eat version of our rogue-lite love letter to 80\u2019s anime and space shooters.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.41 GiB"
 }

@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/77cf480df422e887f0cdf120eefaa14985f58a9bc27e6692741063b9052d3b1a.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Racing",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Push pedal to metal, drive fast, and survive the Furry Road in this physics-based, side-scrolling racing game for single and co-op shenanigans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "517 MiB"
 }

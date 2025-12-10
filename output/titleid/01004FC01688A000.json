@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0234305ec4b71c0598ae2076d1c4c89ec69e19ef530d663e92f47f71c105d793.jpg"
 	],
 	"releaseDate": 20211119,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Shooter"
+	],
+	"intro": "Go back to the 80s with RazerWire: Nanowars - a true tribute to retro arcade-style gaming with modern rogue-like progression.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

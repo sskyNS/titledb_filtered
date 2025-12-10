@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/46d8951acc162de0fb3a4a9d157ab0a330b951bbeca7b4bed9c4fde32b9f3e54.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The Ultimate Weapon for Peace.\nBattle preparations are complete.\nWe will not retreat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "131 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/35f46a5d0b4dc8de41dd92a92867b0b4535230f5ccad2e61c41732d5c269348d.jpg"
 	],
 	"releaseDate": 20220329,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "With tears shed, you shall revive the dead.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.28 GiB"
 }

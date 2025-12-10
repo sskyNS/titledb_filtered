@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7509b184ebb6c402b191d81d399560ac8aee9b5a0768d938b462ad53111d8bd.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Tandem : A Tale of Shadows redefines the puzzle platformer genre with a unique top down and side-scroller gameplay and exceptional aesthetics. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.92 GiB"
 }

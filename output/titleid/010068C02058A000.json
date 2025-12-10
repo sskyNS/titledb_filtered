@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b99493c56497949967a18fe42b47a6e7c1861dcea942aceaed0e311a880da374.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Lifestyle",
+		"Puzzle"
+	],
+	"intro": "Solve puzzles and uncover mysteries to escape the darkness that consumes souls. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

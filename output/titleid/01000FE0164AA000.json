@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d7f2e67fede66445a348866cb03779d538b7f345a9c1b61609e45c712893563.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Co-Op Fantasy Beat Em Up!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "338 MiB"
 }

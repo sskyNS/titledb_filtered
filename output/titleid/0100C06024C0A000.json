@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/54ab414aefa99e093e614fc3bb9e5c87df7319bbbc60df1ea1ca4eb4d0b20c2b.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Study",
+		"Party"
+	],
+	"intro": "Spin and complete views from around the world!\nA brain-training puzzle game where you'll discover your favorite ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "138 MiB"
 }

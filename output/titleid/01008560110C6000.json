@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9a7eff14e1b5f4cf286238338a7fc24fad42885cb256f508778b3275fdaeefd.jpg"
 	],
 	"releaseDate": 20210902,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The horrors of Yggdrasil await",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.28 GiB"
 }

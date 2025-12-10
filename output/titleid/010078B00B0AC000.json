@@ -4,5 +4,23 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20180525,
+	"category": [
+		"Sports"
+	],
+	"intro": "Try out Mario Tennis Aces for free!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "394 MiB"
 }

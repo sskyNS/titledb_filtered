@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/37c58160b41a98baad384af3d1aa55fc516fb86f436f6d8e7823ca30ddc9aa79.jpg"
 	],
 	"releaseDate": 20200213,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "\"YES,SHOGUN.\" Sasuke, save the shogun from enemy ninja!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

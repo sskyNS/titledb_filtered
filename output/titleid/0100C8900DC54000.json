@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1d865856c49960194b367baae44d286b4237954d51987a663d72c35fe79fdec.jpg"
 	],
 	"releaseDate": 20190614,
+	"category": [
+		"Action",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "Hunting season is open!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "103 MiB"
 }

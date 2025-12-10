@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9df21138e38103c75803c7d522bb4f7045d492d21807fb720ad840cb667ebdc.jpg"
 	],
 	"releaseDate": 20211027,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Test your reflexes in a mysterious labyrinth full of enemies and deadly traps!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "153 MiB"
 }

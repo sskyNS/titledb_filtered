@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e670ea563da44abcced1eae8673bc6479d52854ebdd44e7bf401e134b942e7a3.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "High-speed chaos with meme-fueled racers\nUnlock tracks, drivers, and abilities \nSplit-screen fun for two players! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.17 GiB"
 }

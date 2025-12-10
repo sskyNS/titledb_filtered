@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d86ef052bb7dda6673793299bd99a502587e2f0a6c4afbe80afaebdc757bb145.jpg"
 	],
 	"releaseDate": 20250704,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Join Naira and fly high among dreams, islands, and secrets!\nA magical adventure that begins with a feather...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

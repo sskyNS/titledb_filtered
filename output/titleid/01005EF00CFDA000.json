@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a096cdbd784eabbc475a4e79cd5765159835dc10cf7e9bed448549f94e3b4e8.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Play as Rusty, a clumsy adventurer who accidentally sets about the end of the world. Solve mind-bending puzzles, defeat huge bosses & platform your way through this action-adventure",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.27 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/11f3ff69675e6451bddeaf6b4ae176616c4819d42ca60a38b81ed9f1cd3c83b2.jpg"
 	],
 	"releaseDate": 20230406,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Connect the dots in classic dot to dot puzzle with gems and fruits!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

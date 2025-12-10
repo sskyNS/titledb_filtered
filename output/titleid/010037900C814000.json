@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2fd23ef150f48fe5fea288960bd912ef124a73a906f57770356e9b4a1c64736.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "A lone warrior against futuristic evil.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

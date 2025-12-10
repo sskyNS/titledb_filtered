@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/271cb00f7f3088946084330a140634a59564a88abf93e24bbc0db67983a2ac3c.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Train hard, fight crocodiles and find love. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

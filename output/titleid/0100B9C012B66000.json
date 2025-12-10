@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c3eb62f57ad51c048eb6ea711ca8486e964e608d84a85105a78bfd2aafd367e.jpg"
 	],
 	"releaseDate": 20200818,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Helheim Hassle is a narrative adventure game with puzzle platforming elements. Play as Bj\u00f8rn, a pacifist Viking that can detach and combine limbs at will to solve puzzles. ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

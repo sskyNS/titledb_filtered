@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/60dbcdb0291f0399b1997f24b0bd8190ab8f3e5825089fc9b18286a8c4e9db0c.jpg"
 	],
 	"releaseDate": 20250701,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Strategy",
+		"Action"
+	],
+	"intro": "A group of non-adventurers is the last hope in defending the castle in this chaotic co-op tower defense game with roguelike features. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "615 MiB"
 }

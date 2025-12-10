@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2afdc7ccef896d46211d28fb6bcd93aa08dac38d4da707d633dccdb797ffaf3e.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Study",
+		"Education"
+	],
+	"intro": "Build efficient bus routes across beautiful islands! Solve puzzles, connect stations & pick up all passengers",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1993f201c94dd1f6cb6756c8f0c4e9801053fbcf7c459e33da4b9401c832b59.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Experience the thrill of precision and strategy in HeliCity !\n\nTake control of a powerful demolition helicopter as you navigate through a high-stakes urban environment. Your mission? To strategically plant explosive charges in a towering construction site, all while facing off against new and unpredictable adversaries.\n\nFeatures:\n\n-Master the art of helicopter piloting in challenging scenarios.\n-Engage in intense combat with enemy forces as you secure your objectives.\n-Strategically place explosives to bring down the building in a spectacular demolition.\n-Tackle unique mission challenges that require both skill and strategy.\n-Feel the rush of completing your mission before time runs out.\n\nPrepare for an explosive experience where every decision counts!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.06 GiB"
 }

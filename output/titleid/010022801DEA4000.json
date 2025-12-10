@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7a2a9cf0f66a5a57405a01b8d772d61f279a953059f7dedec6ab3b151825dd9.jpg"
 	],
 	"releaseDate": 20240315,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Fuel your need for speed. Take the lead and leave the rest in the dust.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

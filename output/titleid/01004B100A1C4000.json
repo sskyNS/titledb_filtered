@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9da96c544e4a251248dbc24565f158f0fb9afec7caed2c329ffd3cc9abc25be.jpg"
 	],
 	"releaseDate": 20200224,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Educational video game for kids. Improve your mathematical level in addition, subtraction and multiplication.\nIt is not just a math app\u2014it's a real educational adventure!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

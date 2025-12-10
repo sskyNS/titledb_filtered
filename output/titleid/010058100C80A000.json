@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/db70b72813e40d5ffc95f59d5dbf776f413b3478375d99c443ffd8acab0c001a.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Study"
+	],
+	"intro": "Become a wonderful pastry chef\nand learn how to make various confectioneries \u266a",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/56576119a5f367fe107780e2d89091f5f18dfee580466186435c3edb466f914f.jpg"
 	],
 	"releaseDate": 20220324,
+	"category": [
+		"Simulation",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Thrilling modern jet fighter combat",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.49 GiB"
 }

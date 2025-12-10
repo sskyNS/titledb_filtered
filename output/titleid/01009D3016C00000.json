@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad462c5117a7de87ba33896f61afdf14c745ad3f5bf302c372aa41e27e6d08b4.jpg"
 	],
 	"releaseDate": 20240320,
+	"category": [
+		"Arcade",
+		"Action",
+		"Other",
+		"Shooter"
+	],
+	"intro": "Fly a star-fighter against a bloodthirsty armada. Gather weapons, resources and upgrades to help you hold back the relentless tide and protect the galaxies civilians. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "202 MiB"
 }

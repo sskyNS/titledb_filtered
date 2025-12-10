@@ -6,5 +6,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a6915a7dfd9dfff40c3df2334cc189674bc941c997aaf0c1e0562e493c9bcd5.jpg"
 	],
 	"releaseDate": 20230524,
+	"category": [
+		"\u30d1\u30ba\u30eb",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+	],
+	"intro": "1995\u5e74\u306b\u30ea\u30ea\u30fc\u30b9\u3055\u308c\u305f\u300c\u30d1\u30ba\u30eb\u30dc\u30d6\u30eb(\u30b9\u30fc\u30d1\u30fc\u30d5\u30a1\u30df\u30b3\u30f3\u7248)\u300d\u3092Nintendo Switch\u4e0a\u306b\u518d\u73fe\uff01",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "44 MiB"
 }

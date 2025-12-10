@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/931576d9ea01ef3725c631f23500815cc793d4b1d785b6da8247ec6b6750228c.jpg"
 	],
 	"releaseDate": 20231201,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "We built SteamWorld. Now it's your turn!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "907 MiB"
 }

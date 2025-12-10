@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a86e9c4669c21e520b4e63fe52871a273b6aaa490bc144fc729132b70f602bdc.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The most exciting puzzle & stealth action game is here for you!\nControl Ninja and assassinate all the white enemies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

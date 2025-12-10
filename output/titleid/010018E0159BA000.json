@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d149c09a218fafd88256022d104a5f94b093d5dde3b146362530ecb71cfb6dc.jpg"
 	],
 	"releaseDate": 20210922,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Defeat epic bosses in this endless runner.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "87 MiB"
 }

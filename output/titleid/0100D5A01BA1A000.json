@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/99ab6bb7bf515d5584ccaf734de5a498074c22f717e36b73a7f015f5903060d6.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The exhilarating Atari racing classic \u201cSprint\u201d series returns with NeoSprint!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.70 GiB"
 }

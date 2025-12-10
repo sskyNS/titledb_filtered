@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/831842068e8881276181dc80a29169bee47a56323996e68835d3d20f01862925.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A fun top-down arcade racing\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

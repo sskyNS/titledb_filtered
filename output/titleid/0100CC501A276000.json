@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/443ac11c3b79619c8aa032d0d8a60995d02af645b00b307217a51c6bae6efe93.jpg"
 	],
 	"releaseDate": 20230109,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "7 minutes, 7 warps, 1 spaceship.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

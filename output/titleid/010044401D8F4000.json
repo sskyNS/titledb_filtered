@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4802b3c9532e87368c6c40881ecb54260e1854145f0f97bfa3ffa73208a8cdcc.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "This 8-bit style side-scrolling shooting game features limited sound, limited colors, and as few modern gaming references as was possible.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

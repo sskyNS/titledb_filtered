@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea542b9637c14f6d80a69c1978f9394832d378785f8066169ab4604c5697f7e8.jpg"
 	],
 	"releaseDate": 20250409,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Board Game",
+		"Updates"
+	],
+	"intro": "An application where you can enjoy the art and music of All in Abyss: Judge the Fake.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "946 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/12f7f1a577d30f82e608660b0a102388004e298965f9b667fb10348146eace11.jpg"
 	],
 	"releaseDate": 20220608,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Challenge Good & Evil at the Twilight of the Old Republic\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "15.88 GiB"
 }

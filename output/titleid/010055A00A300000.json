@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/53e8c0eb8e71eb3cb9b57bf47835a837e4437fb4fec09c3d3e1b94634ecaeb8a.jpg"
 	],
 	"releaseDate": 20180510,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Aim for the goal and see the world! These soccer matches will excite and thrill!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "125 MiB"
 }

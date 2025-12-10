@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/85df4e889cc2f81d275cdf7d0188780f91048510773f93d5b29344f8293be38a.jpg"
 	],
 	"releaseDate": 20200901,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Show your skill as a pilot in this frantic shooter",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

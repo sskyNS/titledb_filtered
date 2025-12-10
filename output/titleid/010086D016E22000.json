@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/00c8b42c3e58f39da1670b83536ecd329861c27362c7365a832914e87a99c0f9.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Guide all mummies through various chambers full of traps to finally set them free from the evil Pharaoh Cl\u00e9o.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

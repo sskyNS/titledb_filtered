@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e30680be519307a9e13a1901a75a643dfff16daf776d56288f449f67587f942c.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Spirits that challenge hard, while cutting down their own lives. It's a hard platform game that depicts a sense of togetherness with friends you meet along the way.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

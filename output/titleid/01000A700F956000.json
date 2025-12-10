@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/edc1d65c1c3de297825be6aaa4b37243d20ee7aa60607a49049e2566de8d29f7.jpg"
 	],
 	"releaseDate": 20191025,
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Help DeTeam stop a virus outbreak from infecting others!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "28 MiB"
 }

@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa21d4eb93ad733cf005fc8320c437e0e3d8142de1c53c74aa5987a5934f72ce.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Welcome to your new career! Deliver mail, complete routes and pay off your debt! Become the ultimate postman.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

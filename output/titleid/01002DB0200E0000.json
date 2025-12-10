@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/69d889d713b61f3f672c206006ef65d0a7832e6ae59c62afe11e1dad6e2213ab.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Communication",
+		"Party"
+	],
+	"intro": "This new \"Q\" sequel isn't just about \"drawing,\" but there are \"players\" involved.\nAdditionally, it supports multiplayer for up to four players",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "923 MiB"
 }

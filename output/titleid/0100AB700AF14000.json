@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b578d4bf5732a76b2f9d36f347e56d0f412dd3f3708edb4a50d2314d1e40dcfe.jpg"
 	],
 	"releaseDate": 20200930,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "A point and click graphic adventure game.\nPlay as Detective Case and Clown Bot.\nSearch for clues and interview witnesses.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "114 MiB"
 }

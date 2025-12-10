@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6e530d0a45b99f935b151c74895386b73a821ae65c85b4afd6218893a622b48.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Party",
+		"Training"
+	],
+	"intro": "Papertris is a fast-paced, excitingly designed arcade puzzle game that combines classic gameplay with fresh new features. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "353 MiB"
 }

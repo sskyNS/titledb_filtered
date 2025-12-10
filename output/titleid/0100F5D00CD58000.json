@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d651501ff518cd32a20e593c975961e58d9ef1ac5d3e91273c342c4a0549ccf.jpg"
 	],
 	"releaseDate": 20190125,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Education"
+	],
+	"intro": "The newest Vs. Puzzle Game from Baltoro Games is coming to Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "717 MiB"
 }

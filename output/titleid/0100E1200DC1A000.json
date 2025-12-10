@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d07b1c45912cb24b8cae1274593a5584564a9da86017ac34f4932f69cee6077.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "The ultimate indie fighting game",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.18 GiB"
 }

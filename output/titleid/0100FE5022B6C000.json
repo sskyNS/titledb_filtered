@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/426c774ec594d09479246bab65bcf486c1c73da8468aedf8f1ad9f96791b8efc.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A wonderful family vacation in Europe.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "479 MiB"
 }

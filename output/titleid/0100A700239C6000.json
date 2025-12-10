@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1aed31cf0c7f8f5d3430f6a8710c1b8cb02336db1d7cd7b143df5f9ddcc7e1ad.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Utility",
+		"Lifestyle",
+		"Other",
+		"Communication"
+	],
+	"intro": "\"Your cocktail journey starts here\nThis digital guide teaches you how to craft 20 delicious cocktails, from timeless classics to modern twists. Easy-to-follow instructions, tools you need, and pro tips make it perfect for beginners who want to mix, shake, and impress.\nReady to pour your first drink?\"",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

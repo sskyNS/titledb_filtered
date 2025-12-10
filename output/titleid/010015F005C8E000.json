@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6624841364d63e16c0390d82060a54f7651f09e179656fdbe26a1ee6a63425d.jpg"
 	],
 	"releaseDate": 20181011,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "With your brilliant robe and magic powers, it\u2019s time to build some Tricky Towers! \n\nStack your bricks in this land of fable, whose marvelous tower will be the most stable?\n\nCast magic to support your construction, and fend off dark spells to avoid destruction.\n\nBattle your friends and rise to fame, in this frantic physics party game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "191 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7446eaa701c6ba3378eac2a98abb7036756bd6889f7400ffcbbb82706688b459.jpg"
 	],
 	"releaseDate": 20190418,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Experience fabulous sword battles! The SAMURAI SHODOWN contest between 28 characters, including past bosses, begins now!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "160 MiB"
 }

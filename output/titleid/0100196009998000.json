@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/089f0643779e7cff0467288fd454c40e258356b45915a0ebd9dabb038861e814.jpg"
 	],
 	"releaseDate": 20190320,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The best alternative to conventional football games is here!\nNo referees, no rules, JUST GOALS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "750 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7b0a55fd80a52fdec0ebbd2f6cfd8d34641f9154bb9286d1a80e51dc50b978f.jpg"
 	],
 	"releaseDate": 20180807,
+	"category": [
+		"Strategy",
+		"Party",
+		"Communication",
+		"Simulation"
+	],
+	"intro": "Overcooked returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom and assemble your team of chefs in classic couch co-op or online play for up to four players. Hold onto your aprons \u2026 it\u2019s time to save the world (again!)",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.82 GiB"
 }

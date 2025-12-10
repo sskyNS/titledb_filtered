@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b9e06dc036e8c03be63808937810fb7896b91732e3cddefc2bc2c2af3ac4484.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Hear the murmur of fate: \n\u201cGo forth hero, to the kingdom at the end of the earth!\u201d",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "101 MiB"
 }

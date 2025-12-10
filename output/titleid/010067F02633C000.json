@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/76aa841cca6cdab37ffad74f1dc78e4737844ad416fd508505b056731a2fc1fe.jpg"
 	],
 	"releaseDate": 20251222,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"First-Person Shooter"
+	],
+	"intro": "An immersive horror and home invasion game",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.35 GiB"
 }

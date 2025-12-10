@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c439cdd5a800c1686b3ea8f098dfd29469d93702cfdea1adff4aa146047addd.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "You are on the test! Afterlife spirits have chose you to stand for the mankind when the time comes. Will you resist the temptations and outsmart the one who has many names?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "375 MiB"
 }

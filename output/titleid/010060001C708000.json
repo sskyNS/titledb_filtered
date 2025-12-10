@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8011208ba77ceb34e3e14da711f8c3f3a707057035d333dc2a5b86d3c733af8e.jpg"
 	],
 	"releaseDate": 20231004,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Unravel a plot in New York, play as two detectives who fight to find the truth.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "147 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/552ffe79d2303ae1f07481ab74cc5fa5ddc9956e5dc0fde0ec9c884913d57278.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Launch the Zooks at your enemies! Make massive chains with Star-Bombs! A comical action game awaits you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "85 MiB"
 }

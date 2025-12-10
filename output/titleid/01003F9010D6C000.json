@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/798900002304a13701ef878474238b3ccf2f314ffe35f3ed0653a43c22a1497e.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Play chess like never before!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

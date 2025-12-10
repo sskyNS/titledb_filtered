@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e20049d763d4eed4c256365c48a0a2d678745abd8b92d9e030a1cc0eb2c41896.jpg"
 	],
 	"releaseDate": 20241023,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Guide the mouse through tricky mazes and collect trophies on a cheesy adventure!",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "98 MiB"
 }

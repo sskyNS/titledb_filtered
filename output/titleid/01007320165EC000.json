@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd695c5851def484ecfb802a67d5504e3d2dc17d67c2920280e5d806c93ff9bc.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Strategy",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "As the proud leader of the Dino Dudes, it\u2019s up to you to lead your hairy band of Cro-Magnons to the top of the food chain. Discover fire, weapons, the wheel and the dinosaurs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

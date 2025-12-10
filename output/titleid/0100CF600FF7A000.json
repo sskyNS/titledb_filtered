@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e806e826844136a7588a13314703e3b3f7db22627c6783bcd8348b0016b16f7.jpg"
 	],
 	"releaseDate": 20200117,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Would you give your last chance to a little girl?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "130 MiB"
 }

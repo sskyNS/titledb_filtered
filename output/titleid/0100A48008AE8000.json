@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0db17fd74bf9fbc2cd74f4bf3653e083f2104f48e3d9cde8d3c11cbf973adc9a.jpg"
 	],
 	"releaseDate": 20180308,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Be The Greatest Hero of All Time!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "219 MiB"
 }

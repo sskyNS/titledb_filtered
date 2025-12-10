@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a648785aa5275479fbaadb30823cc5d2b5c7f94ede5bd49407a6bbb0563d5e26.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "DUSK / DEMADE",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "75 MiB"
 }

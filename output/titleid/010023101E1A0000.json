@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a65052c49456ce96610fcb153301ea01d47ced62dfd6ee6f1d4b6d8663342046.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Survive the waves of enemies. Use different guns to survive longer than others.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

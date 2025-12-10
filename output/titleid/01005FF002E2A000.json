@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f5163413e4a41c5457ff9925a84235171c13b7a340bf2530bce88826f56544c.jpg"
 	],
 	"releaseDate": 20170912,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Rayman, winner of multiple artistic and musical achievements, is coming to Nintendo Switch\u2122 with Rayman Legends Definitive Edition. \n\nRayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.\n\nJoin the team with up to 4 players in local co-op!\nCompete with your friends in tournaments with the Kung Foot experience (local wireless multiplayer)\nRun, jump & smack your way through 100+ maps\nJump to the rhythm and rock the party to beat the crazy musical levels",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.95 GiB"
 }

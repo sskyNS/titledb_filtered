@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7953a66f15158c1a9e3d1f29dabd4f7882bdfcae65472dbfa986c5f9aae86b25.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "1980's Paperboy meets 2020's Food Delivery Service in an exciting, stylish arcade adventure. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "267 MiB"
 }

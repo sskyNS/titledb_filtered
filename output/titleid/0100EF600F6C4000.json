@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/63d37d72a2477c2bcf523c51454f4c9316051265f54b0a202cea70875aa1efaa.jpg"
 	],
 	"releaseDate": 20191120,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"Simulation"
+	],
+	"intro": "How Far is Far Enough?",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "531 MiB"
 }

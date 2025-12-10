@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5f5382280162768d0a87454e839a7ce1c8b61f6f341110a84dc3ff8e4b90528.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Are you and I really seeing the world the same way?\nAn exclusively two-player puzzle adventure game that makes you question your reality.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "355 MiB"
 }

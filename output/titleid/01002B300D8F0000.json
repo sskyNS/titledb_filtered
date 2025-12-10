@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/87d43962520dea5572e5c3367951abcde7bca918383bc7931cabe07dcb6be5e6.jpg"
 	],
 	"releaseDate": 20190219,
+	"category": [
+		"Action",
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "It's the caterpillars' merciless growth competition!\nDefeat everyone else and be the last caterpillar standing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "459 MiB"
 }

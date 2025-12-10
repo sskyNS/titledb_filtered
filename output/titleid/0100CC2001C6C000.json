@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7f0d6409008e08298c0e38270d0ab1b390f4da10f2219d74c76f18ee6c9bb93.jpg"
 	],
 	"releaseDate": 20171120,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Vive la Brigade!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.70 GiB"
 }

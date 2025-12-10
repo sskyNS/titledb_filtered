@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/75d99934e7dc27b9d07bf3772e128cc78f8a56a3974ea66bd9ed8a607586d256.jpg"
 	],
 	"releaseDate": 20250827,
+	"category": [
+		"Fighting",
+		"Party",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "A physics based fighting game where planets sumo wrestle. Grab with your moon and bounce with your planet to launch opponents out of the solar system.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "166 MiB"
 }

@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/453d82ea757267296b615ddc3084a64038c05658ca18690b02d2551bef991607.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Shooter",
+		"Action",
+		"Party"
+	],
+	"intro": "Third person shooter, immersive game in a paradisiac island.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "818 MiB"
 }

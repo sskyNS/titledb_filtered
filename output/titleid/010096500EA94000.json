@@ -8,5 +8,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2a0163d190b01aff71e999038bee3438d8e2143782135291055740614c64e97.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "2048 is back with new twists!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "351 MiB"
 }

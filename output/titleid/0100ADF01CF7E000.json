@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/412e68bdd020967fc5ef3e5a304f4b8d344690c819a56ac8a4c05304bb274b1d.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Training"
+	],
+	"intro": "Revive the Classic. Be the Best!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

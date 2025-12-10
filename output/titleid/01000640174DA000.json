@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83f6e9a3c661d839200f97fdc656f37096c733ff959c247a96462b9a3074b2d0.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Education"
+	],
+	"intro": "Travel through six open-world transit hubs!\nTranslate an alien language to read moth jokes!\nPet any dog at any time, with an infinite number of hands!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.46 GiB"
 }

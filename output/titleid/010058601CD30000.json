@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b30ab673ee52fa8692d843cf791ad60b85975c242cf46326bd876a23a48136de.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Get behind the wheel and drive a big rig!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

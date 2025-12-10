@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e78646f574e3ad5ee8e989e16863d36e1184e82ef22ff40cedcc793050d6ae3e.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Build your own street in this tiny cozy, \ncasual management sim.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "840 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebaf2e375e573bb8a1410fb32815fde2cd2f8c22fb9f25a2ded34fb099dc127e.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Who's the strongest in history? A new World Heroes Tournament begins now!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

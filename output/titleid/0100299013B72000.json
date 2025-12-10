@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c5bb0f2f111a26308652736a3924b387ad6b02e1d054c5040b9d0193d4a57e7.jpg"
 	],
 	"releaseDate": 20210718,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "You are The Commander, the last resort of your kind. Humanity's faith lies in your hands.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "159 MiB"
 }

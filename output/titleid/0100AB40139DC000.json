@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d53d4ad81be0da3d824d8e8653258ed7a18a52ddaced2664735d2c15d13e897.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A unique artist sim game with realistic paint mixing, physics and painting tools. Upgrade and customize your studio, complete tasks, sell and expose art, buy instruments and get famous!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1008 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d59ee7f54b77005c84ea47340839b04b17c05d2176768962415d5ad7f423fac.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Tonight is the night! Next door at the spooky mansion, the most famous girls in Blueball Falls are throwing the hottest party in history!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "325 MiB"
 }

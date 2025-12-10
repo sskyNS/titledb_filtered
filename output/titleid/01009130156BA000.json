@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b5ccf13a12340da017463f078fb619fdbab2ecf0f861f64d81f7ca8a3a3e457.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Bus Modification Adventure RPG",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

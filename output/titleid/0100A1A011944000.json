@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/38685a1efd1b5624e867e9f5e3c3a6223f2fc35a9c0d3855d4f7cda40f487a4d.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Join the Smoots characters and play all the tournaments in the Smoots World Cup Tennis.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.12 GiB"
 }

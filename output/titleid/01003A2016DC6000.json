@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0bde60bdfdb290c81ba7766a2d081aef7c01ab049d9bacec9f7263e2f4b1d8be.jpg"
 	],
 	"releaseDate": 20211224,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "PC80's is pure arcade, pure speed, pure adrenaline.\nFrantic driving, with no time to even blink.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

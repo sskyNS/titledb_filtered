@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f15bba9353683e69f2b38af1a2dd25ce6566cd402f54a36632fa9f48501ef83.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "An epic adventure of bouncing animals and evil carrots!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "698 MiB"
 }

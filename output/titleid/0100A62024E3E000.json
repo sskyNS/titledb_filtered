@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/35e2f9d8e5c71123ecd3df44e7b8664fe4ff01692dd69e701d528d3e19199309.jpg"
 	],
 	"releaseDate": 20250913,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "The famous game .cat is now fully recreated in this reboot version.",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

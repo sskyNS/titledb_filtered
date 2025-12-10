@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/124fc3ded757eee5005d75cf6b01a342d4a131d296420ca9bd6f7896be463b77.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "This game is a story-driven, narrative 3D flight exploration game in which you control a little bee on its journey to find a new home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.15 GiB"
 }

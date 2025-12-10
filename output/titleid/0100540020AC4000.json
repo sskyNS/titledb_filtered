@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dffdcf291634f32681009b1deff59b1cd8dc0473e652f4eb93e6d1b0e1ddabd1.jpg"
 	],
 	"releaseDate": 20241106,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Guide a young being\u2019s daring escape as you puzzle your way through isometric landscapes!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

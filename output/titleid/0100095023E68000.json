@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/913c915c01f2ac0844d40ad0dc14af998153ca33af4c0bede41aa1e6adfb7f9e.jpg"
 	],
 	"releaseDate": 20251112,
+	"category": [
+		"Action",
+		"Arcade",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Tame monsters! Slay waves of enemy hordes! Explore fantasy lands!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

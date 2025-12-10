@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6106a9a423d8ae31d82bc0f61278eefd8dc2b671e114a0ff986e9c0bb6ec1155.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Help Buck bring his friend back to true form, in this comic comedy adventure full of puzzles to solve! ",
+	"languages": [
+		"en",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "332 MiB"
 }

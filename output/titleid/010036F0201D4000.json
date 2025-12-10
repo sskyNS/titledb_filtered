@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/126b9ae4ab57289b22edc4500e762fa969443f8ac2cb1440b636969406446453.jpg"
 	],
 	"releaseDate": 20241127,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "You are trapped on a train that runs forever. Keep an eye out for anomalies and find a way out.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

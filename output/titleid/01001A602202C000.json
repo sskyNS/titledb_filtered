@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/372cc16d5b8ad79ac0ab67b0e8ab63e04fe0c585ac460ee99a71666f72b23d4d.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A turn-based Galaxy totalwar game",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "513 MiB"
 }

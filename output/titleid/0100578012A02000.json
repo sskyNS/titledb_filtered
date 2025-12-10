@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/381d7125fbeee3afa42f7d0c5d2b6ea98073943d4b37ddeaa679ee4adbcc21dd.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Control hurrying, stubborn animals and bring them all back home!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "72 MiB"
 }

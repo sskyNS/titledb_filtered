@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/38d7bf514aeb884e8a2a3aaaa33fd7dd2b88dcec46b36656a495b2a42853c183.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Exploration and treasure-hunting game inspired by classic platform games",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

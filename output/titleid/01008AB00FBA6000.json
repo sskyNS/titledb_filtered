@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb89eba5bad4030240bf3f7f6d0e499a1204248e731241b4ea1a3a67db17ac1.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An open world investigation game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "556 MiB"
 }

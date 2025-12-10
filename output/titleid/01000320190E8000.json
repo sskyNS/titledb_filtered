@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb4b38ccc36b21014ecb16369a5a8ebfb2993960f61329fa1fff026c052c8c44.jpg"
 	],
 	"releaseDate": 20221118,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Set out on a gravity defying journey, alongside Kurt, a boy lost in space. Find a way to lead him home using only your wits.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.24 GiB"
 }

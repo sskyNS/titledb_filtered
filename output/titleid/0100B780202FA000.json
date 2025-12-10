@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/97cada04abe53f086e2b6de32e73c71bcd99af6712c1c74261b3bf685e1f156e.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "A short shooting RPG where you destroy non-aggressive enemies called \"Inorganic\"",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

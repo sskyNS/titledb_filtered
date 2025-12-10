@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12624df10a46dbd0c006e47d53f91364f73df3e89d8367e7260f2dfcd6cda907.jpg"
 	],
 	"releaseDate": 20251125,
+	"category": [
+		"Action",
+		"Simulation",
+		"RPG",
+		"Racing"
+	],
+	"intro": "Step into the uniform and protect the city you serve!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.97 GiB"
 }

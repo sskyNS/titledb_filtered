@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/826c8a628271a404af626238c9e32165f254c669851befb5ca1c3a10b0a7181b.jpg"
 	],
 	"releaseDate": 20240728,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Looped is a short interactive story told through hand-drawn animation. Guide Him and Her through the chapters of their story by solving peaceful mini-puzzles and finding a way out of the loop.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "815 MiB"
 }

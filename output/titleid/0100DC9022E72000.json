@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fdd7effb494f54748d3c32b1aed5358c4be4e404918bfb839271c61d938e40d5.jpg"
 	],
 	"releaseDate": 20250624,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "How 2 Escape: Lost Submarine is an escape room-like puzzle game where two players need to cooperate on different devices to prevent the start of a global war.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.80 GiB"
 }

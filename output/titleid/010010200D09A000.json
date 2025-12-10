@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f8afc3c130b260e2af21bdb7b263be767a5f42ca7823b13ac7ea5f4365d815bf.jpg"
 	],
 	"releaseDate": 20190419,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "This little piggy ran into a pack of wolves and gave them the beating of a lifetime.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "49 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/af4d28fc6ea828534d75cb6a9a3e9aa8547868656765260c0ff0a73590b36c98.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Attention, Earthwad! Welcome to Nations United by Convenience, the NUC. You have just called up for a great mission on Earth as an intergalactic border patrol officer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "316 MiB"
 }

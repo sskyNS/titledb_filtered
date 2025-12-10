@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae0996ae527cd01777761389c063359fe6cfb90d9cd3ef6c0675b5fdc3b0fc20.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Take a seat in the cockpit and blast off into space!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

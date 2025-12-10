@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/30ba7a51fe349b061507fe2a801116c1266beb075a50f75d154342c365cc9dc3.jpg"
 	],
 	"releaseDate": 20200929,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Follow Greta on a puzzle-platforming adventure through a mythological shadow puppet world, as she embarks on a journey across cultures meeting legendary heroes.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

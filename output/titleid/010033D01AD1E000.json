@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/27a3e20548edf253a3a9a0f65a0a914dc823f62c3262e042c03003cacd295414.jpg"
 	],
 	"releaseDate": 20230320,
+	"category": [
+		"Simulation",
+		"Education",
+		"Training",
+		"Other"
+	],
+	"intro": "The adventures of little Tom Thumb. Interactive classic stories for all ages.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "632 MiB"
 }

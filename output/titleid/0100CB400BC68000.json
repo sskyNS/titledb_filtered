@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6243d8588b733e0dcc425afa5e0bdc88e8f6f4fdbf1c994227f01c8224d76e66.jpg"
 	],
 	"releaseDate": 20210623,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Grab your friends, hone your blades, and set off for adventure in Trove, the ultimate action MMO!",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.61 GiB"
 }

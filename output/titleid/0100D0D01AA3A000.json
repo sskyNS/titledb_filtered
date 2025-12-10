@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a0e9831bef108255a2ff4431640bff807fe5c12dcb2aecd8377eba028fad14f.jpg"
 	],
 	"releaseDate": 20230303,
+	"category": [
+		"Adventure",
+		"RPG",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "The Great City has fallen, and you find yourself clinging to a piece of driftwood in the aftermath. A new nation, Atla, has risen from the ashes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.11 GiB"
 }

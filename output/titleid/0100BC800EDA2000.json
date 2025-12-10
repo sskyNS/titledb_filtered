@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4166b156615bfb3a1287ce02f1b9c36f7091892be8932755c6e20b14846c5742.jpg"
 	],
 	"releaseDate": 20191009,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Stellatum is a new exciting scroll shooter. Equip your battleship's guns, install faster engines, and increase the power of your reactor.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "583 MiB"
 }

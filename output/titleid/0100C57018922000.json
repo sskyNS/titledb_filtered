@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e60e6ba3f0c7bd1766532bf43420499f809d81fa327f0f6067f7bc135173438.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"RPG",
+		"Action"
+	],
+	"intro": "Join forces with Captain Velvet Meteor and heroes from Jump+ universe to face off against forces of evil in exhilarating tactical battles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "990 MiB"
 }

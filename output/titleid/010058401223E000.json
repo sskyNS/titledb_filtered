@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ddb0380aec021a556559b516e1f0a43b18b6057bfe4b0fdaa8733c11ca43713.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Ellipsis is an action-packed puzzle game with minimalistic, yet powerful retro styled visuals. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

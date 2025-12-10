@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/67c77ad3c9c0ea11479f83ae351b203cb0aab9322a5e725e001677a9907171cd.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Play as Miyamoto Musashi, fighting against numerous waves of enemies with your katana and special abilities! Save feudal Japan in the sequel of the famous hack'n slash!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "693 MiB"
 }

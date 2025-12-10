@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/498c6c3cd763296f6193e0afb3473ee611add8c377afded7cc669c5943abaddb.jpg"
 	],
 	"releaseDate": 20241213,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Guard the border - Uncover lies, stop the contraband, and uphold the law.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "810 MiB"
 }

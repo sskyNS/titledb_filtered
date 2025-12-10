@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4caa9ce0697877ce335f3e5ef01025c0bd9458b491f213445f246119b9be114.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Show-off your engineering skills and build the perfect mechanical creation!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.07 GiB"
 }

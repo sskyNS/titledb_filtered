@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6963fb81a8b2d3e7a02e734554c7c42059768bf746a5488ebf1025639c301eaf.jpg"
 	],
 	"releaseDate": 20210715,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Help Bilby find her children in an endearing underground adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "920 MiB"
 }

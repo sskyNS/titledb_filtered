@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/31184e6067c41f1027a6ed2ae38f851d7a8820fb7695640e2a3075b6df6a1549.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Lifestyle"
+	],
+	"intro": "Drop and merge sweets into bigger ones but do not touch the red line!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

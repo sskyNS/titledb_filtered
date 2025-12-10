@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/eaddb84e184c2dd087dc15012d13e3e286c01dd34ab6fabb286ef5b87ac1e861.jpg"
 	],
 	"releaseDate": 20200305,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc"
+	],
+	"intro": "\u30d5\u30a1\u30f3\u30bf\u30b8\u30fcRPG\u300e\u30e6\u30b0\u30c9\u30e9\u30fb\u30e6\u30cb\u30aa\u30f3\u300f\u304cNintendo Switch\u2122\u3067\u767b\u5834\uff01",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "425 MiB"
 }

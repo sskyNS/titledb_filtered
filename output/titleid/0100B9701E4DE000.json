@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1e9f6263f5ae300bd5bf374efd5e8e416a490ccc968046884a07baf2883a7367.jpg"
 	],
 	"releaseDate": 20240326,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "~ Cyber Citizen Shockman + Cyber Citizen Shockman 2: A New Menace ~",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "214 MiB"
 }

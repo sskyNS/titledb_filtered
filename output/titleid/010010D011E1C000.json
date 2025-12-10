@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0cd5744fbdda6674f4d82b4043050bc514a7fbd150bd35fe4d1a4933c4d7db5d.jpg"
 	],
 	"releaseDate": 20201110,
+	"category": [
+		"Adventure",
+		"Racing",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Get ready for extreme waterslide action as you blast through adventurous water worlds!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.65 GiB"
 }

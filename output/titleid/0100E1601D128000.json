@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/994aef72fb8a3d4a6e48e6237171c3a5fee00333b5737471f1490811b2a2cb41.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Utility",
+		"Multiplayer"
+	],
+	"intro": "Just spin, connect, and erase!\nA new type of puzzle with simple rules and a new sensation.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "295 MiB"
 }

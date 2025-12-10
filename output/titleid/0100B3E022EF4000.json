@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/66d31f54c6f622310524f567df2781e7c55e87e316d5c89ce07bf37f966f5e78.jpg"
 	],
 	"releaseDate": 20250607,
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Grow the biggest balloon and don't POP!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "123 MiB"
 }

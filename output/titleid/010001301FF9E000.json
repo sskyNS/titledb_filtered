@@ -9,5 +9,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c66d988d508b4b8cf387b009a6ea9d666034749d314b00e6c5acc3b014b2157.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Study",
+		"Puzzle",
+		"Training",
+		"Party"
+	],
+	"intro": "Let\u2019s find the hidden secret items in the photos of World Heritage sites!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "396 MiB"
 }

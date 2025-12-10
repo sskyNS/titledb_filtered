@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d19276c6ccf1d459027fbd94f32125a596732a5b5d3c4eaab267577c77356011.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Unite the Citizens to save the timeline in a hilarious action-packed adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.58 GiB"
 }

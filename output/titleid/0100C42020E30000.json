@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/208e0a30abfa6998ade00c18be817018615b7cda814bced5e00d0ad3cec3e9c4.jpg"
 	],
 	"releaseDate": 20250813,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A minimalist puzzler - color the grid with squares and rectangles",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

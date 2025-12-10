@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/73a4fca4d4a34c0767187ca520bc9cb342ec53187c7cdf8ddc63e60fdf0a72e2.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"RPG"
+	],
+	"intro": "An RPG set in the world of Kypros, comprising the continent of Zaius and the seven islands. The story features eight heroes, including pirates, fortune tellers.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

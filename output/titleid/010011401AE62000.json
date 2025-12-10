@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d762cd33d5f9173826d162bdfd8a0fb2a4fb5a8d8eb290a280508255c17fd5d.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "OUR TRANSFORMING HERO YAKOPOO IS HERE\nIN AN ALL-NEW COLORIZED VERSION OF THE ORIGINAL TRIP WORLD!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

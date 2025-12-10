@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2d05a5e198134981c0a99ff8ef814f94624d0ad5bcf7858555a630a6d20e844.jpg"
 	],
 	"releaseDate": 20220701,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Gain new skills, unleash an arsenal of combos and special attacks, and revive the spirit of the arcade!",
+	"languages": [
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.92 GiB"
 }

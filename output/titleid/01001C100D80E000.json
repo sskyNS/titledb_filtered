@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f71a6a66be8d19eb129682c13dc5e185b5cddbfb45b657e40b37832e5abcf2c.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Mainlining is a thrilling point and click hacking adventure that mixes dark and dry humour with a gripping narrative that will have you hooked from the very first case. Following the government's introduction of the BLU Pill Act and the Secret Intelligence Service's reintroduction of MI7, all online personal data is accessible by the powers that be. Mainlining questions techno-ethics and whether it is acceptable for an organisation to have the power to look at personal data. What if someone else got the key to that?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

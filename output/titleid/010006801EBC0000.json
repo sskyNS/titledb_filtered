@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9db4238d3ca3bfef38b49d7857febc2bbfc874c5ae390f61841ff17ec6d58001.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Cilla is a dynamic 2D side-scrolling shooter that immerses players into the complex narrative of humanity's evolution and the endless struggle for survival at any cost.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "746 MiB"
 }

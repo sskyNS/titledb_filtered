@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a3ee8a54a30179c0ca807889c3c2bb551034eedb5783a58110fdef48b602d52.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The top teams from around the world fight to be champion! Seize victory after victory in heated matches to stake your claim!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "118 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8605a782c62b8035f694889d0a82ec6b07417e0763ac8543d619458bbaa0722b.jpg"
 	],
 	"releaseDate": 20201022,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Are you ready to get sliced in half?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "390 MiB"
 }

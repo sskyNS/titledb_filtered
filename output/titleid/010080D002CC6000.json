@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de1219c5d7d950933315f5ecccc62c0c96edace2dacdb53696f4baa0361c5e19.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Play one or two mercenaries hired by the American government to stop the terrorist organization \"Big Valley\". Take control of post-apocalyptic New York City away from the Big Valley terrorists.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

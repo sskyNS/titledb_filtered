@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a31eef04f60e686c3dffc550b803ffbf957f9d0f294005c3d6b909c761554d3f.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Boom! Bang! Crash!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

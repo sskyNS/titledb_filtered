@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/8afd24df6812fdcb5b1c05ef153aa45c11d4142af7eab609b09a3b96159c1d0e.jpg"
 	],
 	"releaseDate": 20170803,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Explore the open world of Retro City Rampage DX.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "51 MiB"
 }

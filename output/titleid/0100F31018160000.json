@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fedec8c3b8cc6de131383cd5d9bc14a86ad975d90453e528568abf64da681e9b.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A story-driven (non-roguelike) cyberpunk RPG where you fight and hack using cards.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

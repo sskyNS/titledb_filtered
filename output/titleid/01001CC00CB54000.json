@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b28a9d6935cffef53c0ca37e7b008d10ee118837c01a9bc3f1dd7e377f32b6b.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Help Chris Knox and his team plan and pull off audacious heists from high-value targets to fill the coffers of a surreptitious crime syndicate. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

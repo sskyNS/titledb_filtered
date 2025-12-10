@@ -6,5 +6,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/58863ecb699c2713d673df5a9d20321a1fc449a5bbd6e7033f09948b9673c420.jpg"
 	],
 	"releaseDate": 20210524,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Mix exquisite letters into delicious words and empty your plate !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

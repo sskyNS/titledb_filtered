@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3fac3f58291a507036c91b76b7438aa6fe4b3fbdd9d3ef981974e2450053f77.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Action",
+		"Sports",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Your perfect ride. Worldwide.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "780 MiB"
 }

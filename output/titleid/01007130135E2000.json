@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8060fa1dfec0d3d33facedaa92d6ff5f9ad72539318051780f648f8ff5933336.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "In Savage Halloween, the world is taken over by monsters from the afterlife who were trapped in the Earth after a Halloween party.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "235 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3af6702b6062ddf594d7685c60cc267cf87a24dc26367bb4ae870fc5b6ee0673.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Perform challenging surgeries, manage your own hospital, and experience hospital drama in Operate Now: Hospital, an immersive medical simulation experience.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

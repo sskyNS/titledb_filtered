@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c379eb318aa2cfad030625fcaba846f33f6f1ac39a5c7471a9a9e3881c0c8294.jpg"
 	],
 	"releaseDate": 20210723,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Expose the evil lurking in Japan's pop culture mecca in this HD update of the first entry in the AKIBA'S TRIP series.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.18 GiB"
 }

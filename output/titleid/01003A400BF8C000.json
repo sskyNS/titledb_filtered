@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d6fa8662421c9b3584b6f52964ee2e6bb07a6f178f9682969143a989c469590.jpg"
 	],
 	"releaseDate": 20181115,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "A special forces action game that can be four people can play together!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "531 MiB"
 }

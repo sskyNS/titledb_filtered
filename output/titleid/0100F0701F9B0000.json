@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ad8a7ada5c4cb2bb271df996a7a4736563a250cdce6bc935984bf100e99f396.jpg"
 	],
 	"releaseDate": 20250617,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Roll the dice, crush your foes, and defy fate in this Lost in Random roguelite!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.45 GiB"
 }

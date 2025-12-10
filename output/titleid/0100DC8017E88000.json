@@ -4,5 +4,16 @@
 	"publisher": "Red Fables",
 	"screenshots": null,
 	"releaseDate": 20220728,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Lying is not a good thing to do, especially in love. So behave well and be sincere as well as quick in giving your answers.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

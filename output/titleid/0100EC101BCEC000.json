@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/09969ba90622ccf0ab2ab2a159a1443b64ecb543166eebe2d74d6fbd4a22f8db.jpg"
 	],
 	"releaseDate": 20230824,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A battle with space pirates will begin, \nsaid from synth voice!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "56 MiB"
 }

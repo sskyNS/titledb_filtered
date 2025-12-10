@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/30962f4c93aa7af01b6eb9c1c35e90c346e4f2c63d798d807b63efe970be1bef.jpg"
 	],
 	"releaseDate": 20190503,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "The orbital avoid 'em up - How long can you survive?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "36 MiB"
 }

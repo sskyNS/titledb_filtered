@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0fccd0f3cb4c5db473ff093cb998ccbeb922cb8de1661ef8ac9c53e4990da4ef.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Party",
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "A 1-4 player local party game with 12 gravity-inspired mini-games called the Galaxy Games!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "764 MiB"
 }

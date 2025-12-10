@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/47769fc81c133109d6cdf88479f651fa5a697ea24a82380a2a5975389fec9fc6.jpg"
 	],
 	"releaseDate": 20230602,
+	"category": [
+		"Simulation",
+		"Action",
+		"RPG",
+		"Fighting"
+	],
+	"intro": "Are you curious about prison life? Imagine you have the whole prison under control! Become a prison guard and deal with dangerous convicts. Will you handle it? You decide!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "993 MiB"
 }

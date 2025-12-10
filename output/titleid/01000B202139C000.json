@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/06199a1c7bd563e21e32fff7b37c66aa0e3c3ac960e78e03fea603a0f97db674.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Action",
+		"RPG",
+		"Simulation",
+		"Fighting"
+	],
+	"intro": "Wanna bet it all on sheer mayhem and destruction? In comes Maniac, a rogue-lite crime action game in which the world goes against you, and your insanity creates chaos!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

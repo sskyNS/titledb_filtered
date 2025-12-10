@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/daee2f19b77314ad1f987c18b46054ac5772f71d87bd6fc78802b30208c62fb5.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG",
+		"Action"
+	],
+	"intro": "A short psychological adventure about a stressed girl who wants to explore her attic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

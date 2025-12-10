@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ebadc7363ac0ab06991808773476c65117e6991b69254252feb150015daff0c.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Embrace your sovereignty, defend your realm, and conquer the relentless tide of enemies.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "189 MiB"
 }

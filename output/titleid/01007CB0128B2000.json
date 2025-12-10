@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e15905ed8a9acda4b7be6e90ba3c49e405726e1e85901f9ca695a384f3b73ae0.jpg"
 	],
 	"releaseDate": 20200724,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Become a Detective Driver! Drive various Cars and Boats to investigate crimes, chase down the gang and save the City from corruption!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

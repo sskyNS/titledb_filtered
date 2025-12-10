@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f116a1207294e9b29e73400fb00c5d5c33fdf1d8268c2d8d7860a1d43a8c5ce.jpg"
 	],
 	"releaseDate": 20170810,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fast-paced Rocket Dodgeball Arena",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "385 MiB"
 }

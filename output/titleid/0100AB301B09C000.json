@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/05f7ee419623c8b469919ca07fe11b00021e82ed16ac372123a73104c9ada7e5.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Practical",
+		"Study"
+	],
+	"intro": "Solve different Sudoku puzzles and choose from four different difficulties.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "101 MiB"
 }

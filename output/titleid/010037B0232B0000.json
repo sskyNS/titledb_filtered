@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/932421d073bd3401e877be47743c5cc24d02f08d52abd6caeb12f9c604711fd1.jpg"
 	],
 	"releaseDate": 20250411,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "In a magical forest, a little deer and his friends live happily... until a strange darkness arrives to change everything. A story of love, friendship, and hope.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

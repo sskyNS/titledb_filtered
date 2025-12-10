@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35e969265b197f4b386ac17be31367b783cba7a957c6524f6a533904a281d6c0.jpg"
 	],
 	"releaseDate": 20200625,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "An old school hardcore arcade tribute",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

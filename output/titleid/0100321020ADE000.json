@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0320b0565309053e933a654f43870b186e34c7187fb3ef3443913c814a4cde3.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"Racing",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Undead Drive!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

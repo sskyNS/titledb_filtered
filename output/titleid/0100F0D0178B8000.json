@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbb85f1997a70a999f85b06c614f8679435433172d8e8fc3467fc251d90ed4dd.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Racing",
+		"Other"
+	],
+	"intro": "Restore order to chaos!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b49009167daa9067e729d6befa60bf5965e2039462dbb436d3ec4d1a1fa887f4.jpg"
 	],
 	"releaseDate": 20220727,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Explore inner conscience & multiverse in order to recover your memories and become GemaBoy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.44 GiB"
 }

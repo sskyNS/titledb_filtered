@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f78e3e5188af7c043e653596f4fbe8d93e20af11f803e950ac30121209f5fc9.jpg"
 	],
 	"releaseDate": 20180918,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "beat'em up, action, fighting, coop",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "7.94 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/50775246c20ff183c0e950de3a052d3a8dfdfc658b8bb7c41ac2fe96a7e3d9a8.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Puzzle",
+		"Study",
+		"Party",
+		"Training"
+	],
+	"intro": "Find the secret items hidden in the pretty illustrations!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "284 MiB"
 }

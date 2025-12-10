@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/6375cdd305d62bf2b041c2acbec283a82504f032772c8a1357cbb0b9c17bdc4e.jpg"
 	],
 	"releaseDate": 20221002,
+	"category": [
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Kattish is 2D Puzzle-Platformer Game,\n\nOur main character is a very sweet cat,\nBut she has to pass these levels quickly.\n\nAre you ready to pass the challenging levels with plain graphics?\nIt's not as easy as it looks. Each section has different mechanics from each other.\nYou need to understand these mechanics and pass the level.\nYou need to analyze the levels well.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "44 MiB"
 }

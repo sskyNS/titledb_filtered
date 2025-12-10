@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b0012244265b1f6f8a5f739bf4b8d2f3f75dc31711ba6f434813d839934192c.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Adventure",
+		"Other",
+		"Simulation"
+	],
+	"intro": "A sequel to the critically acclaimed horror phenomenon, Layers of Fear 2 is a first-person psychological horror game that puts you in the shoes of a Hollywood actor aboard an ocean liner.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.64 GiB"
 }

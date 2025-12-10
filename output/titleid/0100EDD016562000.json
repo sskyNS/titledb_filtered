@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d87e0b9f543365bac106560681cc74f4941accdd5bd746d32a54b8d603430b5.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "With the fate of the world at stake, the fierce battle between princesses is about to begin!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

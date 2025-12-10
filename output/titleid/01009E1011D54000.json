@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/48316b4c935e1d4d72b5c6a153a7bacbac963aaa79ee886cccb5c3ee9d553814.jpg"
 	],
 	"releaseDate": 20200501,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Mischievous cats are messing with your 2048 board\nWell, how could you blame them if they are so cute!!\nCome and join them to play with 2048 game!\n\nHow to play:\nUse the Stick to move all tiles.\nWhen two tiles with the same number touch, they merge into one.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

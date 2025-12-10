@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d1a452dfdfc180fbb8ca0e22868125c3deb519cf7884bc89bf489452c061457.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Build your glorious Egyptian towns and expand your realm in glory and prosper!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

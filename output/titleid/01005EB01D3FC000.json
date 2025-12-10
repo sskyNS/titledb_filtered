@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/75a3911df491cb546838f6365e19c1ce3c27677d3d4e6d8aa0d49288198c43ca.jpg"
 	],
 	"releaseDate": 20231031,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Embark on a tranquil journey through the mesmerizing landscapes of the Hidden Valley.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "306 MiB"
 }

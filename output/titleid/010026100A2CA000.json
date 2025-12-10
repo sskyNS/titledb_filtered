@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b0fb83cb49a3062f19f340eef2d1879462e678c2bf2513264c16691905e8568.jpg"
 	],
 	"releaseDate": 20220601,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Grift through the totally rad '90s in all its plaid and payphone glory!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

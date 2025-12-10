@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/815e0f51c8505128610e7b9f1abad6dca4079b300237732fa89f57134b8000a1.jpg"
 	],
 	"releaseDate": 20230224,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Other"
+	],
+	"intro": "Survival in outer space orbiting the planet. Explore the area. Find a way to restore oxygen. Create tools for your needs. Beware of the dangers of outer space. Build your shelter in orbit ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "871 MiB"
 }

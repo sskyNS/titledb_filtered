@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cd8aefb7159faddd4828901e540cb7d91636d37b1a98f58fbdc74ee889c1b3f.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Step into the world of Terrazael and lead soon-to-be legendary heroes in a quest to restore a land fractured by broken oaths, reckless wars, and untamed magic.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

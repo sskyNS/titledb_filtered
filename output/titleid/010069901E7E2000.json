@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/117194e0bfd4b4dcd42acbf32f784a933576dd4a7fa3c995d3ebfa86a4a6628b.jpg"
 	],
 	"releaseDate": 20240425,
+	"category": [
+		"Action",
+		"Party",
+		"Racing",
+		"Communication"
+	],
+	"intro": "A school trip is all about learning and having fun!\nHave a blast and make memories with your friends!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "543 MiB"
 }

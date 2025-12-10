@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/216282acb2ea4c38e6f9e6f2200cf4bfd51ebfb95c1d1e83f6812e5d16d14bd7.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Action",
+		"Fighting",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Defend, Build, Conquer Unleash Your Cosmic Power",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

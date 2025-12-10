@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a525601ce9de298f5fab756bcd03b5082320a1904a29c3f1e6671dce6f4fb30.jpg"
 	],
 	"releaseDate": 20220704,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Timber Story is a relaxing story about a lost Lumberjack in the giant world of many unique biomes. Experience the adventure & explore the interesting parts of the forest.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

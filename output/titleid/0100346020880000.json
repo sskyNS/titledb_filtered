@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/03498ed11634c1178fa28a242f64d581a242de1ff425b6a45ca0d3a54e4e10d5.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "They're coming. There's no hope.\nStill, you're a HYNPYTOL.",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

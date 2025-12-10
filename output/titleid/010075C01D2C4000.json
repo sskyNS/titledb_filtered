@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/64625b8c1a5fee882dcf08f310e5e834b4a08d22ce8baf4a53ca4d2946eefdf5.jpg"
 	],
 	"releaseDate": 20240415,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Dream Tactics is a 32-bit handheld-styled strategy RPG with cunning card combos and deep character customization. ",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "238 MiB"
 }

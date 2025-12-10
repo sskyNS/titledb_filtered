@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dcc6e0d7f286defc1720c52f5f551a9138a276903ae7e4d93c8291bc3baccfd.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Embark on an adventure set in the ancient ruins of Chichen Itza, where you'll explore the Temple of the Sun and search for the Solar Key.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "51 MiB"
 }

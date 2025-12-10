@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd89564f8bd8276f75721a13a8f4ac09477d6bbb41859ab86edb70b110b325f7.jpg"
 	],
 	"releaseDate": 20241011,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "On the moon Europa, a lush terraformed paradise in Jupiter\u2019s shadow, an android named Zee sets out in search of answers. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.69 GiB"
 }

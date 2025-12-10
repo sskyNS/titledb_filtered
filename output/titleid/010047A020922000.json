@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f38af7d16385033911747ae98c7c5c954cbbaad56e1df2cf922ab2434408e933.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "The futuristic Human City has been plunged into crisis by an invasion of AI robots. You are the only hope to take back the city! Fight against AI domination in exciting FPS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "615 MiB"
 }

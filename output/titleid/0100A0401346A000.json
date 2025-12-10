@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1201b0fa099e6052d261f23f85046dbbf803746c0f0f932454cae8c032bcf0d.jpg"
 	],
 	"releaseDate": 20201211,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Between two moons and one love.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

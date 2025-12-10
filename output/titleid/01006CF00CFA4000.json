@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/40dec8a38d872fff39fa4929ba72dd5f8a3fdac92c94f37311dcc4e2d93259d2.jpg"
 	],
 	"releaseDate": 20200331,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "The Dungeon-Crawling RPG, Modernized",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.94 GiB"
 }

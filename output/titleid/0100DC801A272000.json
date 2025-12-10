@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b2260505ffe5aacde69483fb968e44d6dd203d7101e0ac5d0ce3e4f92df91a1.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Zoeti is a turn-based roguelike that features a deck of playing cards to create card combos to activate skills in the heat of battle.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

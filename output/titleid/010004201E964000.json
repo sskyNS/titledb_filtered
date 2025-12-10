@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c0b7671daa28782d3c6cb5cd7d33377345d8b9234090e7c7106e00669335681.jpg"
 	],
 	"releaseDate": 20240702,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "At long last, play The Battle Cats with friends!\nTeam up with friends to take on the Doge Army!\nShow your friends the power of your Cat Army in versus!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "621 MiB"
 }

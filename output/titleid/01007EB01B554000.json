@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f93fdb0236eb3592e652284f150ba8e432c042f69e291f9559903a7de6aa501e.jpg"
 	],
 	"releaseDate": 20230718,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Roguelite auto-shooter set in the same world as REMEDIUM game",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

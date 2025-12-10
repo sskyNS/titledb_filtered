@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e10005f5911df356d38af29efcd870417b5da2faf7f4820a43c100b0d5988de.jpg"
 	],
 	"releaseDate": 20230918,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Gloomhaven is a grim challenging Tactical RPG with 17 unique mercenaries and over 1000 abilities.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.82 GiB"
 }

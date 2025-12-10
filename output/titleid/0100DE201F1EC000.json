@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/25e08b3ac2006836df1a5884c3f5deff61cb6cdbc76cb598b2dc50639de7eaea.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"\u76ca\u667a",
+		"\u5192\u96aa",
+		"\u8857\u6a5f",
+		"\u6d3e\u5c0d"
+	],
+	"intro": "\u76f4\u63a5\u9032\u5165\u300aTales from Candleforth\u300b\u7684\u4e16\u754c\uff0c\u9019\u662f\u4e00\u6b3e\u6c11\u9593\u6050\u6016 2D \u9ede\u64ca\u904a\u6232\u3002 \u89e3\u6c7a\u8b0e\u984c\u4e26\u667a\u52dd\u5f9e\u4e00\u672c\u53e4\u66f8\u4e2d\u6d41\u51fa\u7684\u623f\u9593\u6a5f\u68b0\u5e2b\u3002",
+	"languages": [
+		"ja",
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

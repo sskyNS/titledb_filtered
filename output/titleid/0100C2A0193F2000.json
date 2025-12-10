@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5bdf4bed574bb2237a27ca713eafbc9aebf11868def94b271b8a88ca8b33652.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "At the dawn of time, a terrible war raged between the forces of good and evil, ending in the destruction of the world of Agarest. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.97 GiB"
 }

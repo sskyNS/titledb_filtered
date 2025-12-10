@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ed353bd5d89f736108fce6a10c3606ef9c734da3dcfad06ccadc3ddfb4339d6.jpg"
 	],
 	"releaseDate": 20211123,
+	"category": [
+		"Music",
+		"Party"
+	],
+	"intro": "Sing your heart out!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.54 GiB"
 }

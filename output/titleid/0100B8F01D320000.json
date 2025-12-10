@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cea39b5f7e75010d539ce3b928423faf267a055db267bb4004ee411855409434.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Swing, jump, flip and slide your stickman body from one neon color shape to another to make them glow and light-it up.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "355 MiB"
 }

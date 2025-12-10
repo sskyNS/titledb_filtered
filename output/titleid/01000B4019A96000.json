@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c13cabea968b1379303da8083b0aa9d215473c6a4bc1e33cc9e0710962300dcf.jpg"
 	],
 	"releaseDate": 20230609,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Battle 1-3 friends in the fast-paced & frantic arenas of Zero-G Gunfight. Pickup different guns. Dodge enemy bullets & avoid unique hazards as you strive to be the last one standing!",
+	"languages": [
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "919 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/68313b0993ebdf5bf3ece4c861f105656cf7cd0156c7a22d23bc50d2d40d0e4b.jpg"
 	],
 	"releaseDate": 20180823,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Lie, blackmail, and steal your way down The Low Road.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.58 GiB"
 }

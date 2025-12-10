@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e33f078566cac02d31583e2b6875619253b283bc0504a6a5790066e8ab87e2c1.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Party"
+	],
+	"intro": "Learn German, French, and Italian simultaneously!\nThe ultimate time-efficient learning puzzle game",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

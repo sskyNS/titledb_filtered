@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b97eeb16b5e2e77762d2924604a3611e746594c09ec88f4fd89df36f7cab5f3f.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Restore your town as you run, jump and dash through cozy locales while helping lovable townsfolk!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

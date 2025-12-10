@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2bdaf2bc2104c4e4298d94fe2a5579d7079a79b95768ab8aa371fa8529830e57.jpg"
 	],
 	"releaseDate": 20221116,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Save the planet from evil forces as the only fowl for the job!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "97 MiB"
 }

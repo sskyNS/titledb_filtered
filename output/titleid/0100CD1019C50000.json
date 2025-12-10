@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2280189d371d82973b98407f1094a11bd6de758785731fbaae3fc25d1ec26719.jpg"
 	],
 	"releaseDate": 20221117,
+	"category": [
+		"Sports",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "The festival in which the whole world is united by soccer will begin! Win the game and get a variety of equipment, grow up and become a world class player!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

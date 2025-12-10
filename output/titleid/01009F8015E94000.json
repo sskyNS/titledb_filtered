@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/63c1c1bc7f36ba57131cb219bb1d4103eb7661a283838ad300439f0cd6ae63f1.jpg"
 	],
 	"releaseDate": 20211103,
+	"category": [
+		"Adventure",
+		"Action",
+		"Video"
+	],
+	"intro": "An interactive action-adventure movie",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "10.52 GiB"
 }

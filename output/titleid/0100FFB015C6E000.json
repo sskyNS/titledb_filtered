@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa4962c74d5d2c978417c6ca69591889702b92e13db93247a3d02256bc95cd84.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"RPG"
+	],
+	"intro": "Welcome to Hagmore School of Magic!  Step into the clogs of a freshman witch-in-training Belle MacFae, and explore ancient haunted castle, while solving inventory puzzles!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

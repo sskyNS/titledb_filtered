@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c761736ce98276bf0b505cb892cf13ef2afd9b7f7e853f833cf55bdbaea72fb4.jpg"
 	],
 	"releaseDate": 20241219,
+	"category": [
+		"Simulation",
+		"Action",
+		"Lifestyle",
+		"Strategy"
+	],
+	"intro": "Soar, freefall, Conquer the Skies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

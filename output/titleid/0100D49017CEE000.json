@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8d0420b9886dba7999c8f54fac9785ea1a8fa758e3f82014601ee6d29786428.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "It's gone! Where is my pudding? My brother ate my pudding!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

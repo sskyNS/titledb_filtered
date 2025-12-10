@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffdf3f85879445208fda879301863d8186c5f8640d7640ad686d9e038cd7219e.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Roll, collect, and dive into the waifu-filled adventure of your dreams!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d171e91a6eed3cab8b59b4b01c54e3bf1c2ccc0fd0de0b0978c8646aee138d3.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Survive heart-pounding horror as you\u2019re relentlessly hunted through a desolate space station, in the immersive game rooted in Ridley Scott\u2019s masterpiece.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "17.78 GiB"
 }

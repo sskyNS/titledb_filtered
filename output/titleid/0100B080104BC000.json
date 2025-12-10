@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/984d3a1ae78447b1ef4cade79becdabfc0795567e60316cd5fb71ab561abc983.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Play authentic Ten Pin Bowling with Touch Screen and Motion Controls. Add spin with the flick of a finger or twist of the wrist!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "238 MiB"
 }

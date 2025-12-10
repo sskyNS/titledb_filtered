@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/67e400b32482fadd2f3993e89d30808697c91066d7186652ddfc42d98a583160.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An incredible and amazing journey, again!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

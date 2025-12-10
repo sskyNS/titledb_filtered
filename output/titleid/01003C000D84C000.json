@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/79e0968aa157eeac06a418f6c1446de953b65ceda5ac141ed2477273b4cd73ae.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Wield The Ash. Guard The Gates\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.13 GiB"
 }

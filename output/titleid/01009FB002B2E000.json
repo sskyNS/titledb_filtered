@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/14df58e29eee8235ec305e01d18d94263d43b52b974a67179d5ec3e3360d63c8.jpg"
 	],
 	"releaseDate": 20180807,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Possess the living, aid the dead and flip between the worlds in this puzzling platform adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.85 GiB"
 }

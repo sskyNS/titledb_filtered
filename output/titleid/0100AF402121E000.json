@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8d1e4259ac39bd1e9fcfc2062733b7f4341e658b694e21bd05a9d80b74bf23f8.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Clash of Rivals is a strategic card game where you build a powerful deck of warriors, archers, and mages to defeat your opponents in epic duels.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "158 MiB"
 }

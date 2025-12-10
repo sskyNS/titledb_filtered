@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59dcbd192f2ccc1c89150b0931c19c39f9bbce574da6a6e3f39ebcf818b09842.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "This new word puzzle is a mix of crosswords and sudoku, challenging both your vocabulary and your deduction skills.\n\nThere are 26 blank squares. Each letter of the alphabet must be placed exactly once in order to fill the grid with valid English words.\n\nReveal a terrible joke each time you solve a puzzle!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

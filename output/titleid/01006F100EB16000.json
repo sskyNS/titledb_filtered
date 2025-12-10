@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2bf6258a3c4fa7c2765f024d1f9b34c091c879719719e41c4d007632f52782b9.jpg"
 	],
 	"releaseDate": 20191115,
+	"category": [
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Explore a woollen world with two unlikely heroes and discover why the world is being threatened by metal insects.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.22 GiB"
 }

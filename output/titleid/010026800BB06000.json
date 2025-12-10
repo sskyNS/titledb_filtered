@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/198f15719d18f394ae3d54da730729763c33b61b821db86be55b059141c32914.jpg"
 	],
 	"releaseDate": 20190103,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Brick Breaker, the classic arcade game, is back with a breathtaking new version. Its explosive gameplay - unique and timeless - is filled with surprises. Sharpen your reflexes and precision to overcome the hundred different levels that await you. Collect bonuses, avoid traps and shoot your way to victory. Play alone or with up to 4 players on a split screen. Brick Breaker will offer you many hours of fun and entertainment!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "225 MiB"
 }

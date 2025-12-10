@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cef1545a311872cbd10fb645a863ee109a15d59c714df0fa6c55377bee142f3a.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "At that time, the internet was definitely our place... Let's protect the memories of that time!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

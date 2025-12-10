@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e28e6141b65012ca909feaa7256817f2b2ec8e2347b51c407888f0e8163c1d91.jpg"
 	],
 	"releaseDate": 20220520,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Accompany Cotton and Silk on a brand-new adventure, joined by iconic characters from the Cotton series and various guests!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

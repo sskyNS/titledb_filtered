@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/91e80e622a14cc924f97268ef74886cb33a04a01e23d4660b6c35d2356f63421.jpg"
 	],
 	"releaseDate": 20220527,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"First-Person Shooter"
+	],
+	"intro": "Use your balloon-gun to plant and destroy balloons in this physics based game. Get as far as possible on your glider, before you run out of time. Find a way to avoid falling off!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

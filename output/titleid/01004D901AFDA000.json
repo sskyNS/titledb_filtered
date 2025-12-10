@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a24b2fee3dab2f09a76303a23b2495c90aa48778dcc52d5ed6adfddea6309398.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Disney Epic Mickey: Rebrushed brings the magic of Disney to life in a vibrant 3D platformer. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.69 GiB"
 }

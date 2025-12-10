@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7eb271d4551c39ed7ffabeb100d4a312714456a399b20a667aa868a8e7652203.jpg"
 	],
 	"releaseDate": 20201002,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "\"Infection\" is an abstract strategy board game that involves play by two parties on a seven by seven square board.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "59 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/454a2f2e045ad3befa88fa2420bda09c9e7915910adf8d05aa29da5da17f8e11.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "The Ultimate Solution to All Your MEAT Dilemmas!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "807 MiB"
 }

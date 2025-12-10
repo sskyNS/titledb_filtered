@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/883167f052301481af5c9eb6e8ed4c98903077196a1d0694179e4260f68d516e.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "A card deck-building roguelite! Explore labyrinths each time from level 1!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "469 MiB"
 }

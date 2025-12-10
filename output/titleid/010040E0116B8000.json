@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/826224f6813060efc72e5e0d6318919401f162d82cb9a8af1d11b2cfad57df16.jpg"
 	],
 	"releaseDate": 20210907,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Non-Stop Sonic speed. Color the Universe.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.77 GiB"
 }

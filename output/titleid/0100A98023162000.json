@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb9e323527fa84e6fe043c0c84871b5eebeaca10d1c0f82b1da4cfce7de50de3.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Dive into the world of cyberpunk, enjoy the process and discover seductive illustrations!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

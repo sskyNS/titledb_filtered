@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac500f74be9c553e9b99c00fbed515cd58361b0cc9e47a8e59643878f9ba9a63.jpg"
 	],
 	"releaseDate": 20190822,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Make excellent jumps for a high score! Ski across the tropical seas and aim for the island where that dancing girl awaits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "67 MiB"
 }

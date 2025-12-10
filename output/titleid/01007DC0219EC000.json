@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8666abaa294bce55d73a6598378c249c0a2ebaa790d176816c2ce1c9766d1c57.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Shooter",
+		"Platformer",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Strike Force Heroes is an oldschool arena shooter rebuilt with modern mechanics with full co-operative and PvP online multiplayer.",
+	"languages": [
+		"ja",
+		"es",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.28 GiB"
 }

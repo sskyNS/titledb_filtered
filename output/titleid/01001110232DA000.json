@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb88e0bac1a38ce710e7650376d66dc25a778eadd681ad130985610f947d05a1.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Test your match 3 skills as you battle to save the kingdom of Etheria",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "475 MiB"
 }

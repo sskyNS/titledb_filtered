@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6696bc5a603e212fdf18acea0d53e6af38193e1997b254794f9cb2bb0fdfd812.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Enter Banban's Kindergarten, where you're sure to make some friends. The global phenomenon Garten of Banban is now on Nintendo Switch\u2122! Fly your drone and uncover the truth!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

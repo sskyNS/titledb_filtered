@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f93020e5e53378bd7d5a599b38450116d79abd494fa51928229ffb81fb12e28a.jpg"
 	],
 	"releaseDate": 20211106,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Dog Dog Dog!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "47 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ff28fd16bba896e4302a4a4ae8846cf25bb730bdd2803798b89a1776c72308d.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Learn the secrets of chess masters with the finest instructor!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

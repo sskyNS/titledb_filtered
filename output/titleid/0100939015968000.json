@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/84a7c75521f97d7a0dbbb4ea876463c1d9fcee585b035c069502a64034d17ec7.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Education"
+	],
+	"intro": "Lone McLonegan is an old-school point-n-click adventure game inspired by old westerns with touches of acid humor.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

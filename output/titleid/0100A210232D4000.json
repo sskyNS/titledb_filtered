@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/293e56678c615d2c872cf759fb791f34767978c4495aded8899742c19ca16b74.jpg"
 	],
 	"releaseDate": 20251219,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Join the adventure of a lifetime! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

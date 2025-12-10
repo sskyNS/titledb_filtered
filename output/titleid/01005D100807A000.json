@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b74567ad4ba2d8b083c723978157abf7b4cd9e91794911d704418493cf1820d.jpg"
 	],
 	"releaseDate": 20180529,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Welcome to Tumblecube Island,\nwhere Pok\u00e9mon\u2122 have turned into cubes?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

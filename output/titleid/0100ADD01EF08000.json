@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/521835c5b9cb90b6427ef0c0ebabc77596eefb9843a24fba1b0bd02a81860638.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Party",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Welcome to Empyreum, the video game that will transform your gaming experience into a fun-filled party for the whole family!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

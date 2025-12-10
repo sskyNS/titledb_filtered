@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/73c0cac95e20dde27e8975c5552cee1b57c98ed2e9885e58bab67bd095e54799.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Adventure",
+		"Action"
+	],
+	"intro": "An arcade classic ReCursed! for modern platforms.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "991 MiB"
 }

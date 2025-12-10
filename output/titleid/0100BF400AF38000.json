@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7cf87918e9a6e51b9f66e994540cdc285a829465cf9c683abe587c5c82ec4a9b.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Are you ready for the Falkenstein horse race?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "706 MiB"
 }

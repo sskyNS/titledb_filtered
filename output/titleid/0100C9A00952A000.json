@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/184e7c952dc1a2b999080c032e0162288f2d7ae5cca7179827c79af24326ead2.jpg"
 	],
 	"releaseDate": 20180419,
+	"category": [
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "FIGHT ALIENS & SPACE PIRATES IN THE #1 SCI-FI ACTION SHOOTER",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.98 GiB"
 }

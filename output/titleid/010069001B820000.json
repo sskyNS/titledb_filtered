@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9987a3cfc03b7c77a35000f583719bd9c7e7dd6a9eb256a6705c3d5ae89056eb.jpg"
 	],
 	"releaseDate": 20230712,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Become the CEO of a space company and conquer the market with your rockets!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "842 MiB"
 }

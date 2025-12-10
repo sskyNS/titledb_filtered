@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0eb00cfa2a26a3c3b31b1ba5b389e45cd7ad16cf67eb881246dc76d94e3d3f5.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Adventure",
+		"Education",
+		"Action"
+	],
+	"intro": "A fun collection of minigames that revolve around life in a medieval castle! This game is aimed at kids from ages 2 to 8.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "38 MiB"
 }

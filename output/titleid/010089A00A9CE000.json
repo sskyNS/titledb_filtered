@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/664f7586ed454542b8174076ff72184be422312e4b32ac950e1fb1f3b66cd70f.jpg"
 	],
 	"releaseDate": 20181016,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Action",
+		"Other"
+	],
+	"intro": "Real Fish! Real Lures! Real Tournaments! Real Fishing!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8127bccd3bcfe432d4fde0f50ccf014953ac1e62734a35facf63360b2037579d.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"Racing",
+		"Party",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Loco top-down Battle Racer with Pi\u00f1ata Stampedes, Avocados and mayhem for up to 4 Players!",
+	"languages": [
+		"es",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "731 MiB"
 }

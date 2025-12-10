@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/62aac258d81203186ab6f8b252e00421e1d7dbb8839278e709fb85ef1097831b.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Solo: Islands of the Heart is a game about love. About love as fuel, the force that drives us.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

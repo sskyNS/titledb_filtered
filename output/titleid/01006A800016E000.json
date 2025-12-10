@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1194f11c5397e5134cad94a723d9afb2c9ab274ee5d824aa80c6ea4d60f0dc7.jpg"
 	],
 	"releaseDate": 20181207,
+	"category": [
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "New characters and stages join the entire legacy roster!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "17.31 GiB"
 }

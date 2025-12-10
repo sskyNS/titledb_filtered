@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1eefa6afb5cd9f5a6416da919ba9c955ad3a8aa2692b199af207fe294111c9f5.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Travel the world and solve dangerous cases using real world research in a neon-lit world that\u2019s on the brink of collapse in the year 2037.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

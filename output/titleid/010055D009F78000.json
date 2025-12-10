@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a1a1a0b658453e00a6f7aab7a1cc1c2138dc84ceb72b9cfa6f2720dda13d365.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Three territories. Three houses. Your very own journey.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.55 GiB"
 }

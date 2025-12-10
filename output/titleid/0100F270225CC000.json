@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1851e1edd06228f5d542edea2b8178817897464909062212e257f5b3ac0bb609.jpg"
 	],
 	"releaseDate": 20250825,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Board Game",
+		"Party"
+	],
+	"intro": "The world has gone mad, it's time to unleash chaos! Super World War is a turn based strategy game for up to 4 players. ",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.77 GiB"
 }

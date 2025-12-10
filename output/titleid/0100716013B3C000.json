@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/facb40b4e212b2b63834024c6f5edad498f856db97c4206b1b3d00430a0affef.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party"
+	],
+	"intro": "Fun, retro style arcade game. Main goal of the game is to avoid, push off or even destroy enemy cars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "293 MiB"
 }

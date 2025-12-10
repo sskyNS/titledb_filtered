@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a272576833c4e3ff2e62dde484346fe39173b88e76e886442bd7d1b900b11d49.jpg"
 	],
 	"releaseDate": 20240924,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Other"
+	],
+	"intro": "In this visual novel, Mogli, a curious and brave young man, finds himself stranded on a mysterious island after an unexpected storm.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "233 MiB"
 }

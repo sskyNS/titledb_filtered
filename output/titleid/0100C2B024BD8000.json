@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/33e6d3d2321f4e4433eef83399233019053f232c566aff18227cd228ec07a6f6.jpg"
 	],
 	"releaseDate": 20250913,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Survive harsh nights and unpredictable airport dangers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "781 MiB"
 }

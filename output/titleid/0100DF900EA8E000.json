@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf478943e1989dec66e4683f890ce0732abdf0487a4ccd7b87cffd238aa8b5fc.jpg"
 	],
 	"releaseDate": 20190802,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Tasty burgers? Only in here!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "350 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6f63df080ed8013e7777bf29b1df7e59d91f683d68d401d3f176642e68440df.jpg"
 	],
 	"releaseDate": 20230627,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Strategy"
+	],
+	"intro": "Arrange the Viking villages in the islands to expand their domains, in this logic puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

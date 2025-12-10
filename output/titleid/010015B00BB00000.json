@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/67aa112070ba74eb605e07d4528cfa067b8db502361e571202eb004f6954e5b1.jpg"
 	],
 	"releaseDate": 20190501,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Party",
+		"Arcade"
+	],
+	"intro": "The Ultimate Pint-sized, Powered-Up, Combat Racer! \nSplit-Screen game play both Online and Offline!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.18 GiB"
 }

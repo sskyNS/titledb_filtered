@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6da33d96339e4a7a6405921760187d04a07237705d8724505db4cbc905f1671.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "\u201cJohnny Rocket\u201d is a 2D comic adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "323 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8405edb0785a5baf3386d8993228efae1c7232417c38db050c88c25681a248f2.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Prepare to face your deepest fears in Sinister Mansion, a bone-chilling horror experience that will haunt your every step.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "552 MiB"
 }

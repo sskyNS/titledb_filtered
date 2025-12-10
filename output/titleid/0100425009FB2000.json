@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e9ff9aa03243e1c011e45a8ee887824ea04e5b44d90c00e71cf1f0862154766.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Communication",
+		"Other"
+	],
+	"intro": "Who is the inhabitant 64?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.38 GiB"
 }

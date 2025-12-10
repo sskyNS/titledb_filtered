@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7f91cc4e2319d560a86a0154236d06cbde7ba5acf280d2a5757b4e92bf76f22.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Racing",
+		"Training"
+	],
+	"intro": "An exciting and realistic boat parking simulator! Boat parking is not an easy task, it is a real test of precision!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "446 MiB"
 }

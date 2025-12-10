@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed40e35321f5e048dc3b03c672e6d11394be356578a1002c128b028f1bdcad31.jpg"
 	],
 	"releaseDate": 20240312,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Reloaded. Reimagined. Reborn. The original run-'n'-gun action series is back!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "7.00 GiB"
 }

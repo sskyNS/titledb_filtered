@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1547897001be99dd8126d5e91e2ce8d29f0704853b99a45790a740d66f2e4331.jpg"
 	],
 	"releaseDate": 20251215,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Training",
+		"Action"
+	],
+	"intro": "Embark on an epic toy cowboy adventure.Battle legendary dragons and claim your glory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "993 MiB"
 }

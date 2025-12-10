@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c1fe6745bc72dde8e9d438af03ebcfa529bbd8b1981a0ec263c77b0685d47a2.jpg"
 	],
 	"releaseDate": 20190510,
+	"category": [
+		"Shooter",
+		"RPG",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Roguelite - where too much greediness can be fatal. A colourful world with armed birds blazing their way through piles of mutants, monsters and creepy creatures.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "508 MiB"
 }

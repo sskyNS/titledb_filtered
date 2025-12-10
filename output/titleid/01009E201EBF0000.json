@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ef7fcc6c3464c0ecc1e0a22dceab95ca650529147cc96f59aea066ef501f25b.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Continue the story of Banban's Kindergarten! Delve deeper into the bizarre underground facility and uncover the truth behind it\u2026 if you can survive meeting its eccentric residents.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

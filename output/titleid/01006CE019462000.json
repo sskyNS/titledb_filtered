@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab9fbc610b45e5ec261b4f6e7a1ad7a92f9e82751d9a1591adf54de00dd04386.jpg"
 	],
 	"releaseDate": 20230302,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Make a safe path between the stations and let your train deliver all the resources and go to the next island. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "439 MiB"
 }

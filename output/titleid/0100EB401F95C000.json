@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/52cd3919f713527282db9130f1f21cbd947dbee6bbfd5c43609a6b24d636f961.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Transform freely from a fighter jet to a robot!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "159 MiB"
 }

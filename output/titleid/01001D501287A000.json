@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/80fd10722c7aa2d76005310c0de95e4d4b7df611d3bde21f3e070130458d0d44.jpg"
 	],
 	"releaseDate": 20220203,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "NINJA will be the hero that defeats the KAIJUs!\nThe great NINJUTSU will destroy all evil!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "53 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a445005272942fe884d13c675def14c60eeea7b5a4796787dacb735305b634b.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Run, fight, and maneuver through the colorful 2D world of Avalice!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

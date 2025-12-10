@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca29a291f120caf21ea7a3d1a7add2d6a92feaaf545c5627b5c85c8d922c914d.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Astral Flux is an action-platformer with roguelite elements where each run is different. Traverse hostile alien planets, discover dark secrets, and face powerful foes in combat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "733 MiB"
 }

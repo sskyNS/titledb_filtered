@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab53e9dcb63b624ab75b9b28443d6772adaf5dfb883adfa48a205196395b5912.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Lifestyle"
+	],
+	"intro": "This is an optical illusion puzzle game where you explore a fascinating world trapped inside a mysterious cube.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "954 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6a952d0309e7929423407e3f37d3fc8f6022c8af11613878fd389f1a023c14e.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Follow the story of a fisherman, stranded on a mysterious island during a violent storm. Little does he know his adventure has just begun, and the island is home to more than it seems.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.54 GiB"
 }

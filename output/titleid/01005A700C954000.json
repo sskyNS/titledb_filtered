@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4ee006c9062037a46fe4f174f94473c7f876f8bc30b497e8d5483a054348ddeb.jpg"
 	],
 	"releaseDate": 20190111,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Music"
+	],
+	"intro": "Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect Cartridges and checkmark your kills of the various galactic overlords.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "416 MiB"
 }

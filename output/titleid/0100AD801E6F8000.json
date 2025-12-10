@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/51403608c8ad864c5c0f9c91674d25e04d6a836d68f2ce10dfd8e112be9ed5a5.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Action",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Embark on a thrilling journey through an unforgiving desert. Gather scarce resources and utilize your strategic skills to build a train capable of overcoming attacks and fires.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

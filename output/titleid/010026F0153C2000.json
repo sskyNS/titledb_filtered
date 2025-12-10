@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d87dac38385ddd054156a61b2f2074b29d926ed2b99e8d5276da7cdec96041b6.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Simulation",
+		"Shooter",
+		"First-Person Shooter",
+		"Multiplayer"
+	],
+	"intro": "Fight massive WW2 battles between infantry, armored vehicles, tanks, cannons and planes with realistic weapons and squad management on fully destructible open world maps.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.39 GiB"
 }

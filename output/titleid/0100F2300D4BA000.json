@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdf2eb760ee3c74b36d0dd22c265451318a4ca3b362cd87e2f4a1f9ccf878fdf.jpg"
 	],
 	"releaseDate": 20200214,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore the epic world of Darksiders and wreak havoc with a friend in two-player cooperative mode.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "10.02 GiB"
 }

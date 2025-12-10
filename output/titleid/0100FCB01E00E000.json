@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9018d1778c8f02e489a1c656e9202c07e4b2f47293a494097d3cc4e578f6ef7.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Spend a summer with an old high school classmate making games! Play and debug a 2D action RPG to \nmake the best game ever.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

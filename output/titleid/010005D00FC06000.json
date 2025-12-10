@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c8495c5005210520dfa4ee6d652df5f255731515af27cff8a1965ed419112f0.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "* 50 beautifully crafted mind bending levels\n* Relaxing music & sounds\n* 100% indie",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

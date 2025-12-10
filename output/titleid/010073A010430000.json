@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/16bfc39712f42f22fec1b59b0b2ae08adc5ef704fa039d7742b5ce3d4162a610.jpg"
 	],
 	"releaseDate": 20210513,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Start your career as a taxi driver in the US City Hamside. Carry your customers safely and on time to their final destination, build a reputation and upgrade your Taxi.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.34 GiB"
 }

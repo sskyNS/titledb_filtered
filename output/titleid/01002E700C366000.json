@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4078d385e60d34b22fa9dc578716d63cd68b51d6102d7c712d174716c9fcbb43.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An adventure across worlds within worlds.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

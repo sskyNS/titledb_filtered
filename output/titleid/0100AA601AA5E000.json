@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdcde70e6599992816ac2f95e1abaabcf287a8e140c7be1a446aa3e0784624e0.jpg"
 	],
 	"releaseDate": 20241218,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Meet the adorable cats and sew the coziest quilts.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.73 GiB"
 }

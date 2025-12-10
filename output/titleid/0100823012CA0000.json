@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/21859cc4848a0f15a4ecc482f07d95434414266a3e9b9c66107d033269c6624f.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Get ready for a cozy adventure on the back of your carpet dragon",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.86 GiB"
 }

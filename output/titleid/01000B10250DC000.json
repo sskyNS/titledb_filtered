@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2deb34f17d0e9d0b5c6f93e0c85f5896778df1263abf057e441a7cc800d89763.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Become the Ultimate Geek Store Owner!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

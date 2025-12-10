@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/879d68d1680f4d603a8881831b8d63ebd7dd7232a3f86e24a9751e56fbf03ed6.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A single play TOP DOWN game with a story about escaping zombies to survive! Do a battle and play with each other for up to maximum 2 people!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.26 GiB"
 }

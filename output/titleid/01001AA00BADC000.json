@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d41191c05bab40097753dcb166cec6f35ab5649a889d440c21bc311da9ff422a.jpg"
 	],
 	"releaseDate": 20201029,
+	"category": [
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Manage your own esports squad, expand your gaming house, and defeat legendary teams to become the best in the world!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

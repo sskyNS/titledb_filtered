@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/165d5983fbfa7187e0d2ce35522e41b73a18650499d33f1f5ff26d5c14c81c25.jpg"
 	],
 	"releaseDate": 20211001,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Shoot Zombies! Craft items! Build and improve your base! Level up your character and weapons! Rescue lost survivors! Survive in the zombie apocalypse!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "215 MiB"
 }

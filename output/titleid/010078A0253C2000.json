@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f69aff1fdc88552b85cc1d3b68ae17f0c0bfea26aacafae5b4069fd810b951c4.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Solve puzzles, uncover secrets, and marvel at every detail of stunning photorealistic masterpieces!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

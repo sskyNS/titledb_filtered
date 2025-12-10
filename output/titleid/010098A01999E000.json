@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/44dbc9a3b9732035489b7de5dd092a6eaa46ff828c37e52b191842f31467697b.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Education",
+		"Communication"
+	],
+	"intro": "The easy way to boost your Japanese language skills!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "87 MiB"
 }

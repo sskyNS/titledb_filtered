@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/952bc71ae51eb99ebc50c10372f22a97f42ae755adea2d3b6f5dae9be65c2469.jpg"
 	],
 	"releaseDate": 20211203,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Simulation"
+	],
+	"intro": "Detective Di: The Silk Rose Murders is a point&click adventure with an extensive, immersive story. Take on the role of the detective in ancient China and solve mystery of serial murders.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

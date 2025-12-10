@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/67145b0718a5b7cab62176258b5d40bbf99e7f55653d433a407cc583bb59785e.jpg"
 	],
 	"releaseDate": 20220103,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Race awesome tracks and drift the corners to load your boost to win the race and customize your awesome race karts ! With four player splitscreen multiplayer !",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "559 MiB"
 }

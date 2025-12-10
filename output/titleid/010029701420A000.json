@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/32a64965f97dc1abc5e2e8c7979e2b281b06f9ebf372a5afaa66befe27060d0f.jpg"
 	],
 	"releaseDate": 20210402,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Play as Siegfried von Hammerstein, a unique experimental battle unit whose only purpose to exist is to kill and destroy unrelenting mutant hordes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "499 MiB"
 }

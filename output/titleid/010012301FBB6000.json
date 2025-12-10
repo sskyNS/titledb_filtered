@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f1ba0f17613e30c7dee6e364889e7b5fb1951895a995bfc9a87d3240ad0e125.jpg"
 	],
 	"releaseDate": 20240906,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Aero is back for more acrobatic fun!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "123 MiB"
 }

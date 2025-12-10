@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/91a32d427fd9642bdb4bb7d6ba2914618bec6fcdf1b24b0b526c9190a2d1a1af.jpg"
 	],
 	"releaseDate": 20201027,
+	"category": [
+		"Party",
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "A delicious party game! Compete in several culinary mini-games, prepare burgers, wash dishes... Who will become the best cook?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.44 GiB"
 }

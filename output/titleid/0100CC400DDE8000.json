@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a88e46426c036dda97bd33f0e83be4e077adc669db86a2c30eeec5feaa94210.jpg"
 	],
 	"releaseDate": 20190620,
+	"category": [
+		"Shooter",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Join 20+ million players and experience a new kind of battle royale in Realm Royale Reforged! Choose your class, forge deadly weapons, and master powerful abilities to be the last champion standing. Mount up alone or with a team to explore a fantasy world while outrunning the deadly fog.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.49 GiB"
 }

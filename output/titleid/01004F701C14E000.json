@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c2b52ecdacdb2fbc11a9821b3c452f250674a881d13ca0ef8467724270e150e.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A special technique for raging!\nMaster the invincible rolling!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "105 MiB"
 }

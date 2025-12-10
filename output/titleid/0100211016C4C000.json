@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5fe7990dcddc95fb484802e60773d4db3e4dd84413ed56d3c15db8198ed25d7.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Music",
+		"Arcade",
+		"Training",
+		"Board Game"
+	],
+	"intro": "Challenge and music now together!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "471 MiB"
 }

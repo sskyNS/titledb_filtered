@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a27b91a99685e9c19dcdc76b688beef79e01a62a59ca9a3a193754990cd753d.jpg"
 	],
 	"releaseDate": 20230908,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A singleplayer first-person shooter in a low poly art ! Play epic matches in different game modes, rank up and unlock new weaponskins, attachments and weapons.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

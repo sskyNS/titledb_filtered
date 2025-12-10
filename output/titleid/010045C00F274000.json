@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf5ae3b4805c74ca60b9cec007c44e358cedacec0083265e2564b29c4891e35b.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports",
+		"Party"
+	],
+	"intro": "Moorhuhn Kart 2 remastered - choose your favorite driver from the Moorhuhn family. 8 tracks, 10 weapon and Power-ups, off-/online races, Championships and more are waiting for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "857 MiB"
 }

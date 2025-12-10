@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/54ab583f8d8f8b8c000109fabe784f8c83a02c612ea55480aa0bcf4ad13e6de4.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "The tale of Rico the Squirrel to save his sister",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

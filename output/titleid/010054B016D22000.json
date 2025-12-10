@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9855dde2a6afbd5ed7acef613550d1aebf41bbbf10640542dc6548fbb8999217.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Action",
+		"Simulation",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Become a dandelion seed and soar to the sky.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "151 MiB"
 }

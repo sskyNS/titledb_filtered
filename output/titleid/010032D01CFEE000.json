@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a25c64b0ab7feda563b23d1baa0c1a4e8d7b7f4c87eb1b4f1432fbf6d96e046.jpg"
 	],
 	"releaseDate": 20231003,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Welcome to the fascinating world of Elder Story, where every step is a journey through nature and human life.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "205 MiB"
 }

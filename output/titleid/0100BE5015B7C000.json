@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/681e199c1f47d4b85d981ae6f216fb8454183d6d24311a4f343178a2a4785aa9.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Get your weapons ready for the ultimate action game! Metal Commando combines the adrenaline of platform-style games with the action of 2d shooters.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

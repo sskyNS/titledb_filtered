@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ff60e0d5f313c3ec24c95d69bd381ba733525331d706067cae15f65834e29fd.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Block Tower TD is a roguelike tower defense strategy game with interesting innovations. Build a world out of blocks, choose random upgrades to make every run unique.",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

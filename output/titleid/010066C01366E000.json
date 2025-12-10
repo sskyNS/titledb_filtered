@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1c8fb6457e532f4ad5b174d54396f61fbaa561177374551f8ec46a9fa9475b2.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Experience an unforgettable adventure in space and time. Explore new worlds, face your enemies and join two Doctors on an epic quest to save the universe!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.13 GiB"
 }

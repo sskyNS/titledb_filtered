@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4c8f9c8dce333f770eb4de2104e3bfaafc04085b645ee03b9ff4b34b81873361.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "A game for people who like to organise stuff.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "144 MiB"
 }

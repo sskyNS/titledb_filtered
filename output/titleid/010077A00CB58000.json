@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce4505786a3186016b1246b96650e9383fe32b500e031dd5a34de012e79e6025.jpg"
 	],
 	"releaseDate": 20210915,
+	"category": [
+		"Simulation",
+		"First-Person Shooter",
+		"Action",
+		"Platformer"
+	],
+	"intro": "The premier first-person destructive house cat simulator is back with a vengeance!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "807 MiB"
 }

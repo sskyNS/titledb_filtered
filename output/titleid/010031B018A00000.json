@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/50774fd8010f4d33902327c28a1b1b68ca09dd5ae01c0680686118cb2e3ced5e.jpg"
 	],
 	"releaseDate": 20220819,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "I see that tall castle in my dreams. It used to be an Island.\nNow, A tall castle stands surrounded by dark, ominous clouds.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

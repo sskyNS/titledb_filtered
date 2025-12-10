@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c95c293d092361155de9bb0917d538abd0faeba4d1a9a3b5da363d0249a73af.jpg"
 	],
 	"releaseDate": 20250903,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Cook with logic, fry with flair!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

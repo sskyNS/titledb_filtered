@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff08e53d383feded5d8aa1275436004b390909a88d7bbf425bab60802f64c69c.jpg"
 	],
 	"releaseDate": 20200327,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "You are the President now",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.56 GiB"
 }

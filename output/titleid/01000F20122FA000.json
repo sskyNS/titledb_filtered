@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/15992f1013e32fee4f2d28c262a6f6625afdcc4a42058420b89e3bc2dfa1c0af.jpg"
 	],
 	"releaseDate": 20210216,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "#DRIVE - An Endless Driving Video Game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "581 MiB"
 }

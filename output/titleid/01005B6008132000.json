@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5423dc3a9a5ec40072881ad4db5de080f50e250e2ba5f18ea3493c9b5bd7bdff.jpg"
 	],
 	"releaseDate": 20180906,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "An astronaut discovers an abandoned Soviet town on another planet...",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "916 MiB"
 }

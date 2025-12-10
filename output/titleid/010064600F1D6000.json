@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0d6ba53c4102ff97d79092996ff3fe9236b6fcc3b09f89f1c9bc2c2e8a6ae6a.jpg"
 	],
 	"releaseDate": 20200731,
+	"category": [
+		"Action",
+		"Shooter",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Pilot a super fast ship through brutal environments, and try to top the leaderboards! Featuring numerous challenges, ships, enemies and traps, it's a shot of pure unadulterated adrenaline!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "594 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/486094f39fc2584a3ac1f0e3381ede6d06b53fdf30ae6e355cf5a6bfe950b84c.jpg"
 	],
 	"releaseDate": 20230629,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Ready, Steady, Go!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "278 MiB"
 }

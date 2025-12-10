@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b501954f0163ad0c4f7689a678ce2545677b186d1a3acf6cf3ffde6516b1b5c6.jpg"
 	],
 	"releaseDate": 20181129,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Descend into the Crimson Keep, an ever-changing labyrinth full of monsters, traps, and treasure. Discover the sunken remains of an ancient castle and cleanse it of the evil within. Uncover secrets that will bestow great power on you - it could be your only hope of escape.\n\nCrimson Keep is an action RPG adventure in which your only hope is to explore, scavenge, and fight for survival. Will you find the mysterious Crimson Keep? Will you escape this terrible place? Or will you be food for the innumerable beasts and horrors that lurk below?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "936 MiB"
 }

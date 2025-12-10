@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cfacd7f130865ad9db9b184f92282b3d0ff2177b5ba0bd5ae5d10f454d17a1a.jpg"
 	],
 	"releaseDate": 20240822,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A gripping text-based narrative adventure set in a dystopian future where your choices truly matter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "478 MiB"
 }

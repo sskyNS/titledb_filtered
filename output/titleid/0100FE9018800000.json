@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a48fca1b2687e3cd56fa8ab50092d1887eb0dc7328388a6b7e4ceb0188f8813.jpg"
 	],
 	"releaseDate": 20220804,
+	"category": [
+		"Action",
+		"Simulation",
+		"Racing"
+	],
+	"intro": "Get ready for spectacular car disintegration!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f1d1668b8b2fbadb7339b5986729c1ffdb4a1d6bf9640dcc4f5c37639410a84.jpg"
 	],
 	"releaseDate": 20211015,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Experience the single-player experience  from the iconic first-person shooter, Crysis 3, optimized to take advantage of today's hardware in Crysis 3 Remastered.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.03 GiB"
 }

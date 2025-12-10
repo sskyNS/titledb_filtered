@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b53da85a382529a84b33ad4a2ca0fceb362f6708ddbf1ba647d91e3d11dd9479.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Vambrace: Cold Soul is a roguelike fantasy-adventure set amidst a frozen landscape. Plan your expeditions underground, then journey to the cursed city surface with your team of heroes. Wield unique powers, avoid dangerous traps, brave strange encounters, and survive deadly combat!\n\nThe King of Shades has cursed the great city of Icenaire. Now cast under a permanent blight of frost fall, its former residents have returned from the dead as mad Wraiths. Woefully outmatched the few refugees are forced into hiding as the King of Shades amasses an army of the undead above them. One fateful day, a mysterious stranger appears in the city with an enchanted vambrace\u2026\n\nA narrative-driven game filled with memorable characters, brutal challenges, and deep strategy. You must choose perceptive party leaders, camp to recuperate, navigate strange encounters, and survive deadly combat. The surface of Icenaire is cold and unforgiving. So, prepare your party well before departing\u2026 \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.29 GiB"
 }

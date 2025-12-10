@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c62a48fe63847be5d3e95a9207208e1ac7a21f896c0c73dc33bea50eb932454e.jpg"
 	],
 	"releaseDate": 20190529,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In the nightmarish first-person horror game Among the Sleep, you play as a defenseless toddler, roaming around the house to find your missing mom.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

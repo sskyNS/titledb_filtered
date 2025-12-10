@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebe1dc956298feab7fe2aca6f158b8fc86c6df4a2c224b84ea642b735e9f0a0b.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "Now with more goo.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "671 MiB"
 }

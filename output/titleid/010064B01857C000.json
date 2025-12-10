@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f689b5bb454aed64e37be0827488244d627f1a0771f7fe6712ce693ac24fac0d.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Multiplayer",
+		"Adventure",
+		"Action",
+		"Party"
+	],
+	"intro": "DIVE. DISCOVER. DIE. Crew a submarine with friends in We Need To Go Deeper - a 2-4-player cooperative submarine roguelike set in a Verne-inspired undersea universe.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "883 MiB"
 }

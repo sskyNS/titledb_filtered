@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e23686e3fd4b458d9b2028657f764a6458e7aea9a38701824a49faaff3a45591.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Get ready to race your jet skis!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "463 MiB"
 }

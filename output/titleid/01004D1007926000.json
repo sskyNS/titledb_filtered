@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e1472a18bed084209dd7e8c938fc9bd38140757c6743926a982e8356ba7fd92.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Action",
+		"Racing",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Reach the finish line in 10 seconds!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "95 MiB"
 }

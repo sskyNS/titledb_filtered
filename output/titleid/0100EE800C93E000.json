@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f204ef4dc623aad0c3cdc40562f84471da3406c9a53e5cb26d9bbec759c8df57.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The definitive edition of the most-played 2D fighting game in the world featuring beautiful graphics and a well-designed, fighting system.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "11.74 GiB"
 }

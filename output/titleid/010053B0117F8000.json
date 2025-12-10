@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1282c6040fbfc5d6de61d316e3f642f2fad011fa31a45ba3c78655779af76a53.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "MASTER INNOVATIVE AND SIMPLE CONTROLS, CONQUER TWO-PLAYER CO-OP, EXPLORE FUN ENVIRONMENTS, PAIR YOUR LOOKS.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.38 GiB"
 }

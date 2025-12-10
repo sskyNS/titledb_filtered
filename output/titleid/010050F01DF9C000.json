@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6dfdb24fc371dbf6a6bfdfa7010e5cbac5f5248cc8f83a90f38c77ccd4e7830.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Liberate your world",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.25 GiB"
 }

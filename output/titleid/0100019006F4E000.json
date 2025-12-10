@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/754df19b0359f28fd74f5b4aae5e108320add48ce979736b8bf9f2bf9873bbbd.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": "I Am The Hero is a pixel art, beat 'em up, fighting game that tells the story of a \"Hero\" with a glorious but mysterious past.  ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "455 MiB"
 }

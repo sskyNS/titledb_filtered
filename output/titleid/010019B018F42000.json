@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/471e8ad90a98e769ea3204da6b2b21143237888021f914ecb2a38b12e6f6207e.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "The moles are trying to destroy the farm. Use your hammer to hit them and save the infected crop. Get the highest scores and take on your friends.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "263 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb8c4b24d1ba71d6afca7371d41773a02141e98fc5e4c7cd4c2bebdc26776f48.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Classic ball puzzle - color each ball, pull the pin and fill the glass with colored balls!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

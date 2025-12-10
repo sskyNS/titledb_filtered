@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/add0ff3f59c215ba3fbbb113d4830affcb03d541edc17c47840b7d2d76bced51.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Even the situation seems hopeless for troubled Realm of Orion, a single person can change its destiny!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

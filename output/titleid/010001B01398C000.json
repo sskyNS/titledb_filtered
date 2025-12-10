@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d6b69e3fc78877d5df00888b7c909afb2ac9417e327fbc866df100d4f4fad37.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Fight incoming waves of monsters with a friend! Control powerful wizards as you free 4 different worlds from the grasp of those evil beings.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "397 MiB"
 }

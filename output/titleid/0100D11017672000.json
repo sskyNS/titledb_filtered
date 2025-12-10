@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3069f5a9e2706909684306acb7961772e59e4eb40cb015c3e931990cb841d9b2.jpg"
 	],
 	"releaseDate": 20231007,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Music",
+		"Action"
+	],
+	"intro": "NOISZ is an unprecedented mix of rhythm game, bullet hell shoot-em-up, and visual novel. Battle through 40 stages in a massive anime-inspired narrative full of surprising twists!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

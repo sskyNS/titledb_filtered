@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a7e3c32d2d41ac2f94d1e8db713271323545f42dc813babac5fcd303e4d6a69.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Join Boldy, the adorable green monster, on his sweetest and most thrilling adventure to fix the broken candy match factory: Paintball 3!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "630 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8011f95b8cdb3168ca841d0a43249ca9e54b4fa6701153e39fe35867d883c5b2.jpg"
 	],
 	"releaseDate": 20251025,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Peek into visions of forgotten worlds and reassemble what remains.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "227 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/776bd2918c6710dc33878adc998134f8db71abb435270751df348b150d292a1d.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "You play as a little bird-like spirit that watches ancient civilizations evolve.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.43 GiB"
 }

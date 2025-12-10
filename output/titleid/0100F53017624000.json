@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8be5d8fde746424d022dd3aa37a878f78a9160cc739c588b3485e36ca1acf4ef.jpg"
 	],
 	"releaseDate": 20230615,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "New jobs can be tense \u2013 especially when you\u2019re about to become a doctor! Join Finley on an original narrative adventure as you take your first steps in a fresh and exciting world.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.27 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6aa125d8fd4458d6661c99352746d50883b7365b7623221707287191333c3bc3.jpg"
 	],
 	"releaseDate": 20191018,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "16.35 GiB"
 }

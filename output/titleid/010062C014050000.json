@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/12d928e464028dcd53d1e85ed66c9dc416d4b17d65bbec4b385982743d66069c.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Unleash your fury on the highway and shoot down everything that moves!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "166 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d10ad374cae154667c6060f0134371f87230b5136e428985341abd34983f606a.jpg"
 	],
 	"releaseDate": 20221208,
+	"category": [
+		"Sports",
+		"Training",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Score as many penalty kicks as you can!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "283 MiB"
 }

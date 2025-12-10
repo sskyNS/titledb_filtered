@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/25c1a8b1fc12f9d45fa6d37993abe88683ce64514df6e22bec1ea04f02ae2ed5.jpg"
 	],
 	"releaseDate": 20210507,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Battle your way through 3 realms of 'Sector 781', a pixel art platformer. Upgrade your character and weapons; collect shards to increase your energy supply. Use teleports to navigate around the realms. Shoot things that move and some that don't move. Activate checkpoints to save your position.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

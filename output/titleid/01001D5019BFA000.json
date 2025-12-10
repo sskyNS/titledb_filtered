@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fddd2bb38b1e6113a67c8983b2bce4bf508bf26f830a5c5d1df011b2b5e315ea.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "XPOSED SWITCHED is a tribute to the golden era arcade games.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "448 MiB"
 }

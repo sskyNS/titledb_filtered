@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d13fe5ee6f2f28db42e9739433dcd435618918c65907e131f33feedf6eed312.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation",
+		"Study"
+	],
+	"intro": "In 1908's Vladivostok, during the aftermath of the Russo-Japanese War, witness the stories of those who fight to find their places in the turmoil that follows.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "654 MiB"
 }

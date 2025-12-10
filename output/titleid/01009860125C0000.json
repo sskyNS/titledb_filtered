@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/95f73c68595d3e69bc9b95fbfcdb0656d78abd4e89acaff7916505c6be105e1a.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the mystical woods and mountains of Pozoj Creek and defeat the evil spirit called Strix!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "258 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/615a42eb46e1e017f1b3fa0b6ae83fc77acb46fa06802269e5c23d20657e9949.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Team up with friends, family, and neighbours to hone your fishing skills, nourish relationships, and restore a remote town's fractured community in this slice-of-life fishing RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.22 GiB"
 }

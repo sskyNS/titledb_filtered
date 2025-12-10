@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9018f0b81a4b2fddba41b39df255fc25a39be838a5ad7f61b7cfc92128763d23.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Adventure",
+		"Training"
+	],
+	"intro": "Erogods: Mirage is a dating simulator with feminized Egyptian gods.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "678 MiB"
 }

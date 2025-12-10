@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a39b4b047ef5e7c6058a9b1c0d38e02e53a8e9f12f63ade9aa5be8d5fa9b16e.jpg"
 	],
 	"releaseDate": 20180906,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Drift up in a mysterious world to find a cure\nfor a deadly illness... traverse a dark,\ndetailed land with vicious enemies and\nsecrets abound.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "854 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e79a4190e382bcf89857073aab7a80c0b0d51658d34691f13721a3bd981a82c.jpg"
 	],
 	"releaseDate": 20220522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Galacticon is a arcade cabinet game from the early 80's in the style of Williams classics, with the gameplay of legendary games and with touches of \"puzzle\"",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

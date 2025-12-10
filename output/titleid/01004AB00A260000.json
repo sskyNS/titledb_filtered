@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/18cd1b5d7653be7d4b5b02d17e6ddc005355a8225a8010f8ae234ffa3268747b.jpg"
 	],
 	"releaseDate": 20181019,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "DARK SOULS\u2122: REMASTERED\nGet ready to return to Lordran",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.99 GiB"
 }

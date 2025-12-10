@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b432f9bb6c62f3717ccc8a9e55bbdc73e1b4dc94c4f9b1c064b16a71dcff342d.jpg"
 	],
 	"releaseDate": 20240615,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Defeat evil forces together with those cute anime girls!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

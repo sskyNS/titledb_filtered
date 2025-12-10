@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6e0c3409bdbad7e9e92c626cf2890ff9400a10fb49ddc84a6c584d73e6a43c5.jpg"
 	],
 	"releaseDate": 20240223,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Become a master of gravity!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

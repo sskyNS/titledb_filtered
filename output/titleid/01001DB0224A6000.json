@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e26c6c4448c3c681235f12024dc297fac88d4fcc5acefb14a57a22caf2cf334c.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "Take care of destroying and recovering materials from shipwrecks.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

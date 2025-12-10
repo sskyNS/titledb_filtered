@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c05a7b49f960714e3bf73f1c34bce5ed4890a45d521f593c8df03ccd970caf2c.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Cube Raiders is a fun puzzle game for one or two players where you have to combine groups of dice using the energy of MagnetoGloves for solve puzzles.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "504 MiB"
 }

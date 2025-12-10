@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fadcf94fe7ac633ff44abb5a253a7f3e151d18ca13290bd88cf51e536d35c27e.jpg"
 	],
 	"releaseDate": 20180823,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy",
+		"Education"
+	],
+	"intro": "You better be smart, IQ is in the name",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "423 MiB"
 }

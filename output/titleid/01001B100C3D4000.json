@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2d67c8ef6ec46ec43361ab5eeca280a72b0a144521e2137175a5ff380745035.jpg"
 	],
 	"releaseDate": 20190116,
+	"category": [
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Planet RIX-13 is a classic 2D adventure with pixel art graphics that takes place on an uncharted planet.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "127 MiB"
 }

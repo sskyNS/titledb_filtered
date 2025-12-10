@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7eec05369f8835813d811f74dd024b78cfb352f02f404dd50bdbc205bbf34f4.jpg"
 	],
 	"releaseDate": 20250825,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "A classic western dungeon crawler inspired by great 90s era RPGs. Light, fairy tale, epic, heroic, slightly humorous adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

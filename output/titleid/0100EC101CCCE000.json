@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/63e53f011261ac82a9f691599ba74ba38a9db30da44f672c0193774d596b9150.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Adventure",
+		"Communication"
+	],
+	"intro": "World Trip using English words! Solve unique and thrilling English word puzzles operated with your fingers and adventure on hundreds of stages around the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "571 MiB"
 }

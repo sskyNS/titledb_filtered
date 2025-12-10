@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/067662ef88ba3bfc42919862b9d0454ac678e2c84cf5ddbb17cf3b4666fcaac3.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Kontrakt is a hyper-violent action-adventure game about schizophrenia with a dark and twisted story. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "291 MiB"
 }

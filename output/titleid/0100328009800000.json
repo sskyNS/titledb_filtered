@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3da422e5f8f612073c5392d6426302d3dc11de09deb34f6c70357cd0ef6abbc4.jpg"
 	],
 	"releaseDate": 20180921,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Dead heat races coming down to a hundredth of a second!\nUse super jumps and more in this fun motocross game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "77 MiB"
 }

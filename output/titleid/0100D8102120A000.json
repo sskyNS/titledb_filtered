@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7910fbd86580b08ead17440ac009b02070b8bc06bc39d9a3c61502aa252cb84.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Embark on a shape-shifting adventure with a bite as you morph between the forms of human and shark!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "897 MiB"
 }

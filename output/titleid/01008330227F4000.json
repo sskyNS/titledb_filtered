@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd7bd254e99a04e70eedb1935972dd1869dc2d41e9771968f559105d3625e6b7.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Build your life or accept the inevitable - the choice is yours! \n",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

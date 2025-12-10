@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5d6952fab9a49b4fc8b85ae8444c67e3fb7cca5c596500df40546abe837d3be.jpg"
 	],
 	"releaseDate": 20250508,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Go on an adventure on a subatomic level! Test your wits in a freaky, tricky logic game with an abstract concept and colorful heroes. Perfect in single player and up to 3-player local co-op.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.73 GiB"
 }

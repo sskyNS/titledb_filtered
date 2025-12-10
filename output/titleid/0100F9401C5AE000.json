@@ -9,5 +9,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0c9f1975db3f1edf9394484e8ffed7106ade4df715d8ea5f46ca9e6c5b66abbf.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "Enjoy a real show with Show Ball: Tiger Life! A challenge where you will have to overcome 200 levels making a single movement.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "337 MiB"
 }

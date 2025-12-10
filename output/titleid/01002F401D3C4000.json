@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5390e5d0bebda182856ca658cadf95e3197a4fb55b88642f45cef37cf79dfdaa.jpg"
 	],
 	"releaseDate": 20231028,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "All new puzzle expereince!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

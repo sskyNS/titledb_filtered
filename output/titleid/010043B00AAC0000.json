@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/59e757b4295aa8c930c122b1ff3da453b8f2b804985b6ef8716856d1aa1b0fd8.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Racing"
+	],
+	"intro": "With the powers granted to him by the dragon, Kayra will destroy the remnants. Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook platformer.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3f2bf17dc1342f334689190526465946fab12d320559e221ca17f13ac034e295.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Adventure on a mysterious island jam packed with puzzles and cute yet surreal characters!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "790 MiB"
 }

@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/06b12549bf25ac6b704b332919fefd51d38996bcea3173581f6afa661c5827e8.jpg"
 	],
 	"releaseDate": 20210213,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Puzzle with elements of stealth\n100 unique levels\nMinimalism World",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "237 MiB"
 }

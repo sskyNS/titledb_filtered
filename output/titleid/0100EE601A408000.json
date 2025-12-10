@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/007416a66467994b037baeaafdd4a537742e538e8b275b170c764491ff7c0817.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "From beginner to advanced!\nChallenge various modes! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "168 MiB"
 }

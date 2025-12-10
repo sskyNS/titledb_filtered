@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0b339bb5a22f02efec5fccfec18c9ceca3fd8076a728a81bac6c2013bf65992.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Education",
+		"Study"
+	],
+	"intro": "Classic puzzle with finding differences - show all your attentiveness and ingenuity to find all the differences in the pictures!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "134 MiB"
 }

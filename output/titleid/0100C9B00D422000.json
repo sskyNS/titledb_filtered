@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c639995349aa5c96ae681c1ccbc98d9ffcc602ac7739cc372b3ff91ec203f11.jpg"
 	],
 	"releaseDate": 20190205,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Party",
+		"Sports"
+	],
+	"intro": "Smash that jump shot!\nEnjoy the all-new Ping Pong Trick Shot!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "271 MiB"
 }

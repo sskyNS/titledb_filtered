@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5bad9c6613b140eb08d5f097a4dcb73ae609235266c48cb5f148bf0349a1ce1.jpg"
 	],
 	"releaseDate": 20210530,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A small toy with a big heart!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "380 MiB"
 }

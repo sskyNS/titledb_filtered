@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/630d93207cbfb73f86083da95f1ad3c665fb73d0c39052153ffa1dba0c77fdc7.jpg"
 	],
 	"releaseDate": 20230811,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Mid 1980s. A small industrial town somewhere in Soviet Union.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.38 GiB"
 }

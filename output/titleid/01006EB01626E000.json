@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b4fd6113dbdc3ad7c7429b5ef3df8b0dc05d5ae3b207e049a15999fb2aca29a.jpg"
 	],
 	"releaseDate": 20220119,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"RPG",
+		"Other"
+	],
+	"intro": "Vivid Knight is a roguelike adventure game in which you save your friends from being turned into jewels and combine their abilities to form the ultimate party!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "567 MiB"
 }

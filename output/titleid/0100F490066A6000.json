@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d74cf2b6d5b543e3f15c6cab63fab2d127c432448405ca06949d165f9482158.jpg"
 	],
 	"releaseDate": 20180215,
+	"category": [
+		"Sports",
+		"Board Game",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "A 3D Pool billiards game that uses the Joy-Con's\nbrand new capabilities to make it feel like you're holding a real cue!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "137 MiB"
 }

@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/209e0bc361f1f21a395aabadea5d95463295be3bd0e7023e868ad5aa856aa8e9.jpg"
 	],
 	"releaseDate": 20171110,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Fight Like Hell",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "21.97 GiB"
 }

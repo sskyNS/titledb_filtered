@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/70b6c6ba3d5759b42da96816afdaeabb00eef9e6c31e7b7fea220e07009ba22e.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "A pirate turned into octopus. Can you break the curse?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "555 MiB"
 }

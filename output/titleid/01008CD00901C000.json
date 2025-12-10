@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae461c0e84d5106219b0adaf33a5dcf2a5cbd1edbc83c143d5d0bb308fabcc6c.jpg"
 	],
 	"releaseDate": 20180524,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "The ultimate block builder experience!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "135 MiB"
 }

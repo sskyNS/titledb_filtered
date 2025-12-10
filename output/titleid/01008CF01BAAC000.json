@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f262de99a1b5fce1c795f4ceaf84b40c5abb71d1e8c5e655aa01c1293fc29c4.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Play as Princess Zelda and use her wisdom to save Hyrule!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.61 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4d3210a92f36b54afee80d7eb0186e542277b28e8e93fc68c83f870b6a23b48.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "Brazilian Military Police. Amazon jungle. Hungry dinosaurs.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "907 MiB"
 }

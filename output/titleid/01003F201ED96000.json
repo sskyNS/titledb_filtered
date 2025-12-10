@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdb9fb3daa77273eae9ee5f42c393b6ea67088109d4347a1331ca52e4d88076b.jpg"
 	],
 	"releaseDate": 20240405,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Communication"
+	],
+	"intro": "Discover the adventures of this patrol of adventurous kittens who will have to save the world together",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "504 MiB"
 }

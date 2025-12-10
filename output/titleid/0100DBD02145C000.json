@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/801b831060c71261f3ee09ac3c12b05015e16326827ee85aef9be6b278823ee9.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Revive the Land, Save a Village!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

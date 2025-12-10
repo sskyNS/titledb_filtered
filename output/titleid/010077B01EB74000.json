@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9983167815dd619a127a1fda1385f57dfc1d8a748bcfeb93df30b3a0ef25885.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Roguelike shoot-em-up rendered in beautiful hand-drawn art. Find and upgrade weapons while combatting the electronic legion across the galaxy!",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "280 MiB"
 }

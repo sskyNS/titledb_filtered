@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/47bc40f2d2933a6f8fd5445903360c2e946b0159e931bde43af8c135875856e5.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "Arcane Vale is an action packed open-world RPG. Embark on an adventure to discover a long-lost treasure in a vast and dangerous world.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "463 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/23084799e23ea5bfb8a3ad8975b189472d157a42bd546622978912fb2504c60f.jpg"
 	],
 	"releaseDate": 20211005,
+	"category": [
+		"Arcade",
+		"Party",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Go Bananas with your favorite monkey gang in the ultimate Super Monkey Ball adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.12 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ddef43ff72cb4e9f2e4d52d0c0094d1cd9d25be526810d07d0c4c6af922f7b16.jpg"
 	],
 	"releaseDate": 20240315,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "King, Family and Revenge",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.44 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9b0b0e5b2c94fc1386f3c05f2d31565355cdd7e04b25d054a2ecc42b3b76bd0.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Set your belongings on fire on a beautiful voxel art puzzle island.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

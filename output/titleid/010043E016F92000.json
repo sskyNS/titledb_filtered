@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9c4399aa073f3aee315a4504ae8b820257af0c9f2a517ca034a9394bf6de625.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Uncover the intricate mystery of the Museum!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "635 MiB"
 }

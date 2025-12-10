@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/51487e7c5f0b2890beed564c9d421b5681d9e47844e1923844f74ec37a5d3f6f.jpg"
 	],
 	"releaseDate": 20220126,
+	"category": [
+		"Arcade",
+		"Action",
+		"Music",
+		"Shooter"
+	],
+	"intro": "Join a magical girl with soda-powered guns on a dreamy\nquest to defend her home from sinister invaders in a\nmusical beat \u2018em up packed with shooting action!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.80 GiB"
 }

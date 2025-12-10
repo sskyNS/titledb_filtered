@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b053879babf5129de4bd73988c3ef1fdab364ea391b8b75c3a691f2fe00db90e.jpg"
 	],
 	"releaseDate": 20190201,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Other"
+	],
+	"intro": "The platformer you play... In reverse!\nForget the classic tropes - they will be used against you!\nYou know how it ends... But how did it begin?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

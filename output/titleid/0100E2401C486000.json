@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8e31cf7588790e5021d2465755b83362edf28bb90c750cbdc87bb50c80e3ac4.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Put on your farmer hat and help your big and small animal friends escape their pens! Guide them through tricky levels with moving parts that test your quick thinking and reflexes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "311 MiB"
 }

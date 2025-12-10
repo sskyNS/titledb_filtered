@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc864e6d35df0b30f36e0a7c2581eb732f541fd3a4283f4d06791ca717a6fbdc.jpg"
 	],
 	"releaseDate": 20250319,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Join KinnikuNeko in this fun 2D platformer and fight against the mysterious alien invasion. A story full of humor, friendship, drama and action. Its aesthetics are a love letter to 90s anime.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1b5e3042197ecd6fd0980f2ae1b13ac9da614e1ce97b19c37e2726e559163eb.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Racine is an Autobattler Strategy Roguelike. Use your cards to increase your heroes stats or cast powerful spells. Find some artifacts and new cards to develop your own play style.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "652 MiB"
 }

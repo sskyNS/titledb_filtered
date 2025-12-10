@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d43759edc98e25f671bbb4c9ec4feae327930778073ce540a3435bce6f4a98d.jpg"
 	],
 	"releaseDate": 20230425,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Welcome to DROP, a fast-paced action-strategy hacking simulator. Ready to hack your way to fame and fortune while avoiding getting caught? ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "692 MiB"
 }

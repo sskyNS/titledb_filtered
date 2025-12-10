@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcfdafe97a0dc7770cc8292260573fd10f960d7e2cb5a7ad7c9e46f317adc35e.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Play dodgeball from the comfort of your desk! Dodge the ball, or catch it... It's up to you! Knock out your opponents with a super shot!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "788 MiB"
 }

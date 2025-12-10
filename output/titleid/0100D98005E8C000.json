@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/472396962e99e0a60a5031d21a295ad555c9450ba2cfeb4c0333a1d755034c98.jpg"
 	],
 	"releaseDate": 20180529,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Hack, slash and crush your enemies! \nValhalla awaits!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.12 GiB"
 }

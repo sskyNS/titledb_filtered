@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1ca57ed2953de74fe44dea4cb51710c2a1e7df58414dc3a89ed0095505f6a6a.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Party",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "See the truth beyond the mosaic!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "226 MiB"
 }

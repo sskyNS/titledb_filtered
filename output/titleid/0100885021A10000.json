@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9aec99e5488b0e89ae296f1ffd7ca0af9f0291806ab3e70aa19ac2c5b52bffa3.jpg"
 	],
 	"releaseDate": 20250228,
+	"category": [
+		"First-Person Shooter",
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Fight with strategy, dominate the battlefield, claim your victory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "817 MiB"
 }

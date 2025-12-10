@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8847745c84db2917cd7815fd52a4f6b721b6309e207fe21fabb7489e75164df.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Puzzle",
+		"Music"
+	],
+	"intro": "A puzzle game to connect BGM by erasing blocks.\nFor those who want to be healed by the music of HYLE.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "502 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8e3bb9a5b9b9944db2d1a615f39f71894adbb4fb658c9683f8ad3afe2ba10e6.jpg"
 	],
 	"releaseDate": 20190611,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The long-awaited \"Trials of Mana\" is now available outside of Japan! Play all three games in the original Mana series!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 3,
 	"size": "355 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cb0a0fa1044d4682d35204edb9d394781f7584f4a95feba70dd59a92dd18e20.jpg"
 	],
 	"releaseDate": 20211101,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Get your spaceship and embark on an amazing astral adventure of engaging puzzles into the final frontier. Discover more incredible puzzle planets in the farthest reaches of outer space.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

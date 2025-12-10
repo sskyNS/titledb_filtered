@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e1caf12b9c0a520b0e750c805b314c1b7d95db21a66a537c51c94a04e7207b3.jpg"
 	],
 	"releaseDate": 20190301,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A classic brain-teaser featuring stunning 3D graphics, now on Nintendo Switch\u2122 !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "576 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e461b4449fface57c854624286a5cf901b8045b0e6ee789c5c2d7b1aa14d08d8.jpg"
 	],
 	"releaseDate": 20211004,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "The fast paced budget platformer returns for more ice cream chasing!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

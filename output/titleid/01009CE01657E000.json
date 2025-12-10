@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1aa5884dbd2cfc0a4d04a58769f8ab63e6dd90e475f100a65bfb04348e5f53ee.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Unique gameplay with action, strategy, reasoning and memory.\nEvocative hand-drawn art style.\nOver 150 levels designed to thrill.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "216 MiB"
 }

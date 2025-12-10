@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba27f8236415a9dd76cebbb208751c8d2cc015c68bef75fb5cbc48a76b5f145e.jpg"
 	],
 	"releaseDate": 20250502,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "One city. One detective. No mercy. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "602 MiB"
 }

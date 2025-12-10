@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/decd12dd44d39591bf6ffb0518366579c364e192a8cfac23f601d7e008083ad1.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Choose one from the many cars available! Complete challenging stunts and challenges! Realistic car crashing mechanics and physics!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "390 MiB"
 }

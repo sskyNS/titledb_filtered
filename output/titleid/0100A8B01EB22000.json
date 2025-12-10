@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c91c9dd1260c7cd89066c9ea87cee4b8be6f7d191f6f25ee525c59ce5d70ffc.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "\"Ginger - The Tooth Fairy\" is a 2D side-scrolling platform game. It is specifically designed for kids and newcomers to gaming. The fun and intuitive gameplay will put a smile on everyone's face. Ginger will explore various worlds filled with obstacles to overcome in order to find her magic teeth. The entire journey is educational and will teach important lessons about teeth to both children and adults alike - because healthy teeth are important and the subject should be fun, after all.\n\nSix large worlds to explore, with multiple exits and collectibles\nCute pixel art and catchy music make exploration fun\nThe game is beginner friendly but also challenging for seasoned players\nHidden items and optional upgrades invite replaying the game\nChild friendly, educational and most importantly: Fun\nSupports multiple languages and control methods",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/77f916e4b3682f2b922c46c54ef66cd9dcdfa20234e3fddc90c5fde02db980a2.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Embark on a global adventure in this \u201890s-inspired platformer about a chubby underdog kid with wacky superpowers.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "536 MiB"
 }

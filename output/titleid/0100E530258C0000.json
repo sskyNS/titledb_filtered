@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ea9d1665f7e9b7537d152596b3abd9fe62befc674f43535c1f690df8cd30ac9.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Party",
+		"Education",
+		"Practical",
+		"Communication"
+	],
+	"intro": "Find the hidden mysteries in cute illustrations!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "172 MiB"
 }

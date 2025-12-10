@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4035ea69d38c8411330c848363e89d2da8247656014c1bf106da4298972ce54b.jpg"
 	],
 	"releaseDate": 20210515,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"RPG"
+	],
+	"intro": "In my dreams, I see that island. I'm now there, and there is no turning back. A lonely knight on a deadly island.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f43ace6179993c41c2b94b054850fd70ee1e94d76f47678d167a6279258d9a4.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "It\u2019s not just a game \u2014 it\u2019s TUNG TUNG time.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "386 MiB"
 }

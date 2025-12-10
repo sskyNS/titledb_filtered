@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ed79e4800980c33d01683b50963b3f5cfea26ddc7707e083334b60851483b35.jpg"
 	],
 	"releaseDate": 20220202,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Webbed is the story of a happy little spider on an adventure to save her boyfriend from a big mean bowerbird.\nExplore the dangerous wilderness with nothing but your webs and your wits. Practise the art of web swinging to speed your way through the world!\nLeave your own unique mark by spinning webs through the interconnected world. Stick webs to almost anything and use them to create your own paths.\nMake friends with bugs, and dance with them. Some bugs could use a little help from a friend and might even join your rescue effort in return!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

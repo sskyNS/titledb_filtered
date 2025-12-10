@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c5b4748a6b9dde19ea379ba8babf8b59bd12fd98defdb7b2d611d8613e663a34.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Party",
+		"Action",
+		"Fighting",
+		"Sports"
+	],
+	"intro": "Comical party action featuring adorable Shirimon!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "895 MiB"
 }

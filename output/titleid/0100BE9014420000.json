@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b8e85b3fc8193f4c77626a1a7e8f4e468ba5f8a8bc9c885a510cea3530c37af.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Make the dwelling of your dreams a reality in this apartment management sim!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

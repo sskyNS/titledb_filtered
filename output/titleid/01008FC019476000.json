@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b5a8b1f9efa23a628713dd0245a2ea53647b5a65ad4549c297c9b39e8d2a81d.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Board Game",
+		"Simulation",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Billiards is a very ancient and popular board game in which you have to show your skills of dexterity and accuracy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "75 MiB"
 }

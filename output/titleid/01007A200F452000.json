@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/633e828d6a91f19e658712e4d4b8dfa619238ef244f9cda3471d7e492c381eda.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Slay the armies of darkness and defeat the Archdemon to save the Paperverse!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": null,
 	"size": "830 MiB"
 }

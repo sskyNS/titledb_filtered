@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f5935b48aa8c4f902f2bad9279c2598f5d6c118980b414ccd51151483f7456f.jpg"
 	],
 	"releaseDate": 20250430,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Witching Stone combines elements of puzzle games, roguelites and deckbuilders! Incrementally improve your spellbook, and find patterns on a unique puzzle grid, to battle deeper and deeper into the dungeon!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "332 MiB"
 }

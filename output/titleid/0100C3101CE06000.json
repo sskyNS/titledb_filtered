@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e90daebe383919bb79655f1ad6cbdfee1690510aed575b504653329be72dd8b5.jpg"
 	],
 	"releaseDate": 20231003,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Open the doors to the world of endless artistic possibilities for your little one!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "520 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/20391e70fd7a6d7b24441bec83c8261b36d45f92769fc5bfa454640ec71645c0.jpg"
 	],
 	"releaseDate": 20251018,
+	"category": [
+		"Arcade",
+		"Party",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Don\u2019t let your treasure leave the dome. Merge it together, and create the biggest fortune!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "417 MiB"
 }

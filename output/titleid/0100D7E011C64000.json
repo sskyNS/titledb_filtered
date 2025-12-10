@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/beac5080703431443c19649d1cfe0a49e09b3b12862ca69847843d7dbf086bb8.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Can a grumpy girl become friends with a gluttonous demon?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7232746b2b40fbeaba1e484870b283ec53860bcdd46f80628d93a84ed2a1cde.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Drive a diverse selection of cars, trucks and other vehicles around a beautiful northern island!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "778 MiB"
 }

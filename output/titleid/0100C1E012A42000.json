@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa73521d9902bc7e4acf018e36c993b09ec977d5c34e8f73c13562aa12429c5d.jpg"
 	],
 	"releaseDate": 20200730,
+	"category": [
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Explore the Wild West and help Ted and his friends in their adventures!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

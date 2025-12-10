@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/933074e482f7cc1d64219c39303bf18eb70942bd5481c087c04dcf1cea2ee7fd.jpg"
 	],
 	"releaseDate": 20180208,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Head for the rooftop!\nChallenge this super high-rise building \nas CRAZY CLIMBER!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "79 MiB"
 }

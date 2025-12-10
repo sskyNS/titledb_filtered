@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/04cf3631ce3bc1a634f311f980273cac8d3274b441fda4c563225df64cce5819.jpg"
 	],
 	"releaseDate": 20240721,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Party",
+		"Education"
+	],
+	"intro": "Embrace the Chaos and Conquer the Stunts!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "509 MiB"
 }

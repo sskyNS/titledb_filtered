@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2125107c0e1327a4687670e9e91d17b7fc77015626a8a4c996e7f93a38647c2.jpg"
 	],
 	"releaseDate": 20180301,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "The player is a member of \u201cFreya\u201d, the organization that uses GEARs to make a stand against the RAGEs. With parts retrieved from fallen RAGEs, the player will strengthen their mechs, and wage war.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

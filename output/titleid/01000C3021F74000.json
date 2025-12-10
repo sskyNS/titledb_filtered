@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/26bd46306af2ed029eba7ba0a1f05054c6d16fba24dd827e79e415e753cc012f.jpg"
 	],
 	"releaseDate": 20250808,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Manage a team of traveling gladiators in this turn-based fantasy roguelike.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "493 MiB"
 }

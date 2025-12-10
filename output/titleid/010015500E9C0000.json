@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/32007cf4592f9eb30626d503104d298aea1bd626cb19d69fb2bab96f4411cca7.jpg"
 	],
 	"releaseDate": 20191003,
+	"category": [
+		"Music",
+		"Communication",
+		"Lifestyle",
+		"Training"
+	],
+	"intro": "A truly creative musical strategy game. \nFollow 6 rules of music making to clear the stage.\nPerform DJ tricks to maximize your score.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.04 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/81f9e9ffaa353b04700e66d292257d1484fb92794f9073845af58b8a5a43e5cd.jpg"
 	],
 	"releaseDate": 20210629,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Dreams are fed by our own desires and this is what we call them until they become real. But\u2026 have you ever wondered what happens to dreams that never come true?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

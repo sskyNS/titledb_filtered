@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/584a4a54c65ceb165a54b8a882a532136fb1a07c389ae7396b7400f65a7c3ed7.jpg"
 	],
 	"releaseDate": 20220628,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Return to Aperture Laboratories in Portal 2 where you\u2019ll once again face off with the lethally inventive, power-mad A.I. named GLaDOS. Meet an expanded cast of characters as you think your way through dangerous, never-before-seen areas of the laboratories and a wider variety of portal puzzles. Plus Portal 2 also includes a co-operative game mode with local, split-screen and online multiplayer so you and a friend can think with portals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "7.34 GiB"
 }

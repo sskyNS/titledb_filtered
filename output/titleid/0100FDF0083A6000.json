@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3fab02ea7773fd3b2fb3d1551525b6012160448492eb967ccdb149c6c6348df.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Regalia: Of Men and Monarchs is a modern jRPG with skippable battles that delivers a mix of good old adventuring and dynamic storytelling.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.61 GiB"
 }

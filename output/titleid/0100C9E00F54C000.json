@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/62bad43e1107df888dca3beb1b82fd0eb6267acc155651079dea2a2ca0c8a814.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Air Missions: HIND is an action combat flight simulator based on the Russian Mi-24 Hind assault helicopter. Dominate the skies in the infamous \u2018\u2019Flying Tank\u2019\u2019! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

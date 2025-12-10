@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5312f7f44dccf4a8a286b5f53ac673bf5eb42109c5d3438e32051582cb846188.jpg"
 	],
 	"releaseDate": 20221220,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "You are Captain Thomas Welmu, lost on the other side of the galaxy. Dark forces are en route to Earth to destroy our planet - and you are carrying the only thing that can stop them. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

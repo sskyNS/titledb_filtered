@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a35c1c65f6887c7c1888a5a0146ddca37e6d88423c9c67b52f403d6de20f7616.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "An action-packed, story-driven top-down shooter with vibrant pixel graphics and a pumping soundtrack.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "706 MiB"
 }

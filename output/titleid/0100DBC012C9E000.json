@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdff341aee0361f0cea8cb5f2169a05f69ba09bca86a1e6beaa0a4a8afadf846.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other",
+		"Simulation"
+	],
+	"intro": "Beyond Blue is a single-player narrative adventure that takes you deep into our planet\u2019s beating blue heart.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.32 GiB"
 }

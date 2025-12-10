@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/8dac2708583a08a3426907a5db5b30abfc99615e65c6354b88b82fad0266ff40.jpg"
 	],
 	"releaseDate": 20180508,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Raging Justice is a classic beat \u2018em up game of epic proportions, dragging the savage charm of the genre kicking and screaming into the 21st century!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.06 GiB"
 }

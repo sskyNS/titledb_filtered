@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/05137dba183bc0191a6b610f5705c998e0a09aef619eb2b8bf3e0976f672b7b5.jpg"
 	],
 	"releaseDate": 20191203,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "EarthNight is an illustrated epic 2D platformer about the dragon apocalypse, and a love letter to classic arcade games.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.96 GiB"
 }

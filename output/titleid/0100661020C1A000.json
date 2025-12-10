@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5354e9fdf94fe14b7ee49a5ad981cafdf2eff0ae7903c9ad127a9866ee5fe6f.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "3D stealth action with modern effects, randomly generated missions, modern equipment, and local multiplayer!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.44 GiB"
 }

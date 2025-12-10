@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bfbc4041fa9e7fed0b51f380fb152af7c35829d6dd426d033c88e3c08c82cd0.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Immerse yourself in Andrew's story and feel the pressure of being a sniper!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

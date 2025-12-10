@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc8b0e2205aae2a90336682bd9a5ec20683f858994de0703036d6c69c68b942e.jpg"
 	],
 	"releaseDate": 20221207,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "The Fight for Survival",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "425 MiB"
 }

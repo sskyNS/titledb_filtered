@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/59ba0f42acf824a4c877d1bdf460287177a333846651a25a708f53d57cae87a7.jpg"
 	],
 	"releaseDate": 20221207,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Take control of ninjabots Robyu and Bytron as they seek recover the golden skulls from Giorqio and his band of hench-bots!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.15 GiB"
 }

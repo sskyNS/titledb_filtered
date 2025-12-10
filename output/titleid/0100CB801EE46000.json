@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9989ff000c2fe1e0892a332015b7a141acead296334db5cff9c363b8d4027a3e.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Exit Slum 11 is an anomaly observation running simulator with an eerie atmosphere.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.98 GiB"
 }

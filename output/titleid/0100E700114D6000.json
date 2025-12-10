@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e25025abb3e5be423c3f2f82f327e42901ddf90f24e811e8f12720cbe5656664.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Bear and Breakfast is a laid-back management adventure game where you build and run a bed and breakfast...but you\u2019re a bear.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

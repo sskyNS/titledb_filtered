@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2ffcd0aa1d4a8fd8b07b84f0573812ad08aad932ea09a94035f1918fa316001.jpg"
 	],
 	"releaseDate": 20171012,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"RPG"
+	],
+	"intro": "Ready your trunk, it's time for an adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

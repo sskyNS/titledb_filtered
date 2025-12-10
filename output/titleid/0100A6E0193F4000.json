@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d08722e20d0eb6b228a58f85184710710a167736def95721e9d682f19ac47b3.jpg"
 	],
 	"releaseDate": 20230214,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Those wacky gangsters are up to no good...\nDodge them, plant the bombs and flee the building before it blows up!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "262 MiB"
 }

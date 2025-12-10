@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6631799db435f08ded86160778b42c4280bd2fc5ca29066081c2a37130ee83e4.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Enter in this wonderful game world of jump and parkour. Your only competitor in this game is you, because you you have to surpass yourself every time with the highest possible results!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0955c4ee2db8eaf93159a89cb1a4c624cf42b07a3d64ebddfd911ad64ff88a1.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"Music"
+	],
+	"intro": "\u266a x (\u25c7 + \u25c7 + \u25c7 + \u25c7) = \u00b0\u02d6\u2727\u25dd(\u2070\u25bf\u2070)\u25dc\u2727\u02d6\u00b0",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

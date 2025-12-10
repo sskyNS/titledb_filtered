@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1b68cdf20f525ee87c48b19159ba2503b520ffac7eaf1e55f5dcc3202b02e98.jpg"
 	],
 	"releaseDate": 20210916,
+	"category": [
+		"\u52a8\u4f5c",
+		"\u5192\u9669",
+		"\u97f3\u4e50",
+		"\u6d3e\u5bf9"
+	],
+	"intro": "\u8fd9\u662f\u4e00\u6b3e\u8ddf\u968f\u8282\u594f\u8fdb\u884c\u6218\u6597\u7684Roguelike\u6a2a\u7248\u52a8\u4f5c\u6e38\u620f\uff01\u8282\u594f\u6fc0\u6597\uff0c\u62f3\u62f3\u5230\u8089~\u8e66\u8fea\u6253\u602a\uff0c\u780d\u74dc\u5207\u83dc\uff01",
+	"languages": [
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "900 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/a88d2557b10e6c8d3b3132b6261c7679297114c0015ebae0f1da755108bc5a59.jpg"
 	],
 	"releaseDate": 20240627,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore multiple haunted mansions with Luigi and his ghost-hunting Poltergust 5000",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.00 GiB"
 }

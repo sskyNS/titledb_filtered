@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7488b650b13289153ec724506d785033063c4e980d2d178fd867a8cabaaba427.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Study"
+	],
+	"intro": "Tired of Sudoku? Get your brain working with Suguru Nature!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "241 MiB"
 }

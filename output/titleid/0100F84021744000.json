@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7ebbee6659c50890fb41e8ceac82dffc827ccf61b846a701872365f02db26b1.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "Awaken the true warrior within! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "479 MiB"
 }

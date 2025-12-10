@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ea7799ededeb4f46ac436ceac3d39a697d03ffc927e120f484c5e66e6acd44f.jpg"
 	],
 	"releaseDate": 20170706,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "This time around, the world is the battlefield! \nJump back in your Slug for more amazing action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

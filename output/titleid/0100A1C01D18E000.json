@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e789be980287e5de210c052803e3a2087cf6ec7cae3cd95fa9bcd3759193df14.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Metal Mind is a top-down shooter that blends mech modding with Roguelite.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

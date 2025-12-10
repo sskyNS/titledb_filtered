@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/31b6bd76a52f55737f4281cf71e42da4f597d0e65fd7aa1331abff699ec7d0fe.jpg"
 	],
 	"releaseDate": 20190312,
+	"category": [
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "You are the bomb.\nBombFall is a fast-paced arcade game where you play as a bomb falling through the sky.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "567 MiB"
 }

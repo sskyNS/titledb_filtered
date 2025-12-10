@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/80abae4e1499ca57123c738167327913c2d4ea979f39d1789d75dfb465a643d9.jpg"
 	],
 	"releaseDate": 20180626,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Take to the skies as an air mail delivery pilot in a fantasy land rife with conflict.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.46 GiB"
 }

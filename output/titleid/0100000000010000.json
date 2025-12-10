@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7db70ecd883f94d935f65b9f4454b8151b6f8be7c4be95543e87488e48e5a6b9.jpg"
 	],
 	"releaseDate": 20171027,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Embark on a cap-tivating, globe-trotting adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.61 GiB"
 }

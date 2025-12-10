@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/def40012983f75093250005b1de12f9aa046fb2cbb442b551120fa04d7416943.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Dig. Explore. Grind.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

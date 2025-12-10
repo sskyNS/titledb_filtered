@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a4ece0919289ffa493b346d5ebd7fb6266061e8805ed2772267f862f75550fc.jpg"
 	],
 	"releaseDate": 20250211,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "This graphic novel follows the adventures of a group of dinosaurs who find an island full of challenges and ancient secrets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

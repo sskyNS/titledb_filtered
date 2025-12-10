@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7dde9fca2524093458d78f28d8cec8902fdb2cab74d850071d4f235aad8f4d6.jpg"
 	],
 	"releaseDate": 20200720,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A colorful retro-style hardcore platformer that will challenge every player to reach the top of a vertical scrolling scenario, easy to understand, hard to master!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

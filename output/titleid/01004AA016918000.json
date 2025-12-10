@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e057671185595b102a9220a0762faa4b5fff02248967a36b4f5b570bfbaeac3.jpg"
 	],
 	"releaseDate": 20211113,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Dive into the underwater fun in this breathtaking adventure. Help Beatrice decorate a fish sanctuary for Halloween.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "325 MiB"
 }

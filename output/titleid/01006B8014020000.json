@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ac725a63d8643c4461fcc5f86131d4968ca8c547aa6709c247501f0e4073a23.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Adventure",
+		"Party",
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "Dubbed the \"funniest take on mystic doomsday cults in years\", Fhtagn! is a text based adventure game, where choices matter! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "434 MiB"
 }

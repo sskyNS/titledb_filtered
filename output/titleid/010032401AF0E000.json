@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8248623a278f2db26ee80a1b8a50acc21f7d0fd50fc9f9e9b99d92d49fa04dcd.jpg"
 	],
 	"releaseDate": 20230811,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Outwit, Outplay, Outlast: The Ultimate Prison Life Simulator!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e385042af96619ee0a42af1bfbcd3b0e1f46b11c2e99bcef5854d30163fcb29.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Kauil's Treasure is a new single-player adventure-puzzle game. Discover the horrors behind Kauil's Treasure and find your lost daughter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "442 MiB"
 }

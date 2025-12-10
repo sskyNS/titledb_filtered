@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d12020f2af92109ebcb6b88c3288c2f48ec1ebfc8a3b12b21e422af0dd633c82.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Hundred Fires is an action, stealth and infiltration game with an exciting story and incredible cinematics.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.93 GiB"
 }

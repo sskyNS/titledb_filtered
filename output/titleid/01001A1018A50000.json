@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b86a118fea523c2753ab56001bf6374af0a2013d85219eb4b6a02c6d242f50b3.jpg"
 	],
 	"releaseDate": 20220707,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Launch your rocket into a new galaxy in the Retro Pocket Rocket universe. Join our astronauts and get an interstellar score by destroying asteroids.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

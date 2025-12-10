@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b82da383a1006c433ae724815153f255812a0269ba1100959653049cf63f16d.jpg"
 	],
 	"releaseDate": 20191210,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Riverbond is a fun and frantic couch co-op adventure game for 1 to 4 players set in a stunning voxel world. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "561 MiB"
 }

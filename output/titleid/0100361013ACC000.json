@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/57d3da94aead3adcd011b3b32346df443d92bda369315354635cee135c215cf9.jpg"
 	],
 	"releaseDate": 20210304,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "RPG with a two-souled heroine! Discover the mystery behind the stone monuments!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

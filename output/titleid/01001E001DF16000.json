@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd211045494a57a27f7fc1b959f0316cc5d7954b83f668afded3e574e7edb3c8.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": "Create the biggest army of animals and defeat your opponents!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

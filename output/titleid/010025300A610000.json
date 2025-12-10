@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c504bcbe5a2197b4f3f6f8f384cd717ad4c3e75ae691c7d704db3a5a3605eb2.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Sports"
+	],
+	"intro": "Play pinball using a car instead of a ball!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

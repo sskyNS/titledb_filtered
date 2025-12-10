@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/841731a8126c5ff480521986df8731e1ac1d56ff1f05e2ea1803cc716e139055.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Cookulo: An experimental cooking game where your mission is to complete your Recipe Book!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

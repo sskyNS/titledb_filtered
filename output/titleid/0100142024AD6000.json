@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d56728e229ef4e0525e8dd82be0862277124bd4da7e495ec69d52e786d731e47.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Play as Mr. Orange, the new interior designer in town, and help every cat-citizen decorate their cozy home to purr-fection!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "232 MiB"
 }

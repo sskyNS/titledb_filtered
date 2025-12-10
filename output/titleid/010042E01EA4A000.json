@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dafda77f84353c0841e89210adb985b580baf7292f8a9e0cfc0b94bdf600b512.jpg"
 	],
 	"releaseDate": 20240726,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Party",
+		"Board Game"
+	],
+	"intro": "Fantasy beauties are hidden behind puzzles \u2013 dare you unveil them?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "446 MiB"
 }

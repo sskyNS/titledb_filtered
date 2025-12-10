@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/84adf091686ba4e44fe8fb688b180e300931eaf780d20b01607e11fe031dd007.jpg"
 	],
 	"releaseDate": 20180320,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Dive into the relaxing and refreshing atmosphere of Swim Out, a strategic, turn-based puzzle game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "252 MiB"
 }

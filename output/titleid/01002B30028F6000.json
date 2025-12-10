@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc250befc44966777a68ceeeaf1f9770ccc911e9c2cc8c5f31e7d1c43b90628d.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Brave hundreds of hand-crafted challenges in this super-tight platformer, as you help Madeline survive her journey to the top of Celeste Mountain!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.54 GiB"
 }

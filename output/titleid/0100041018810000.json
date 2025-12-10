@@ -8,5 +8,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/10e8737f73968e8f63ab9fd814cf9ba51dab51bffe4b28b1933beafd1e927806.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Drive into the thick of the action behind the wheel of the new 2022 WRC hybrids.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "14.38 GiB"
 }

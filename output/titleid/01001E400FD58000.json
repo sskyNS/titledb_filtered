@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9eb7d42566d4bd2cb0a2d9156c9b5de6b5579d2a1e60f666961d669adb9d24f.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Be the best and highly professional cook in the world. Or just throw knives everywhere. This is your kitchen. You can do anything here.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

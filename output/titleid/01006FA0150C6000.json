@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/34d6e5065b6bf868a80df7f740576c8ed21cb929dcee39747f9d642ca29b73af.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "SURVIVE THE APOCALYPSE USING DEADLY SNIPER SKILLS!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

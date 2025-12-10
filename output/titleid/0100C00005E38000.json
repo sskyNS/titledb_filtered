@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4db0a00a5051481f4ccad029808d66907cdd0205503fe6863ba728f3d58ebae3.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Leave no one behind!\nPilot advanced combat helicopters in enemy territory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

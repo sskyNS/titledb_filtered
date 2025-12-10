@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/948823b462ddc1efdc7fdaa941329f6cb00ceaa3627cab9c1c63e9f3786641d7.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Other"
+	],
+	"intro": "Cipheur: Trivia is a cryptogram game allowing you to test your knowledge as well as logic and language skills against 500 different questions and answers from 5 scientific areas.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "236 MiB"
 }

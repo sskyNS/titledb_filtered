@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b21768a06198057153ce753db50f16bf68118f6be810d01b2d2331d6a500ebad.jpg"
 	],
 	"releaseDate": 20191101,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "A horror and drama-filled story revolving around two different characters whose paths cross in the middle of nightmarish events.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "547 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7814f4ea57a075afc472a73bb387321ccd2a38ae44332fb89c32c4afefd69f4e.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Exciting football simulator - take on the role of a coach, assemble your own football team and fight your way to the top of the tournament table!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "158 MiB"
 }

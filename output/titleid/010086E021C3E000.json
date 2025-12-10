@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f161c0f0accd50ea43fa79689309be46fe0af7f4d571a1ee14c63376c5f5af3c.jpg"
 	],
 	"releaseDate": 20250219,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "-> hello? who are you? i'm hinata.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "176 MiB"
 }

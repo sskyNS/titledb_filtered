@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f62215333c0473d12df85129434b367ddf2e06592d309ef4d3eb1727b82a407.jpg"
 	],
 	"releaseDate": 20230124,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "A deep roguelike and card game that is played using only two buttons: Right and Down! Choose your hero and explore randomly generated card dungeons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "743 MiB"
 }

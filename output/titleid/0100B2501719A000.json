@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c567c929ae63311389f68360d2c935faa32218fb438efc37e35088b57e1e1c4.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Offroad driving game for the adventurous! Navigate a dark forest with a map & compass, complete exciting missions. Detailed graphics, awesome cars, lighting and effects!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "549 MiB"
 }

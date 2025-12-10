@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/720b83346acfecb74f8b03d8d8537b06f2c8c085094b843ea7b8e17b17f97ecb.jpg"
 	],
 	"releaseDate": 20210528,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "A relaxing 3D puzzle game with a block placing mechanic to challenge your brain to solve tricky missions in an underwater adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "220 MiB"
 }

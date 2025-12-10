@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/263c923cd8d678928d6fc5efb07337175a2e031d1069dc446c6a94099db5e954.jpg"
 	],
 	"releaseDate": 20221229,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Accompany the pharaoh on his final voyage.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "828 MiB"
 }

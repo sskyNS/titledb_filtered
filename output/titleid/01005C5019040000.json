@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/16b0a0fb91f77f13a1298f3cb1e0d759eb8c5c4876e615c35764001e25be68f5.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Omochapon is a little packet of fun!\nDrive, Jump, Roll, Glide & Collect all your little capsule toy companions in this wholesome 3D puzzle adventure!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "705 MiB"
 }

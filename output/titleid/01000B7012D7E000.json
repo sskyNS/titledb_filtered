@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1227809db27911b91daefe83b56d5352e5fbff2e39018a96f23ec5e0a38b9850.jpg"
 	],
 	"releaseDate": 20220303,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Return to a post-apocalyptic world now rebuilt for consoles.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.10 GiB"
 }

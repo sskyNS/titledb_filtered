@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e8c97798216b66ed87272d3e9f620e8e94e406b4e0d59f552fe0364091dbdd68.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Rebel Transmute is a sprawling 2D action-exploration epic!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "634 MiB"
 }

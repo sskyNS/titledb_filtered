@@ -8,5 +8,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/b16b7ab6363af596ec2742a45ff9099c4dce9adaad6050aec62ac84b03966eb6.jpg"
 	],
 	"releaseDate": 20240719,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Find hidden objects and learn interesting facts about animals from around the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

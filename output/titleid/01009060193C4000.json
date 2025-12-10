@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9afd8a2693ecbb934559c2a5dc7b0410aae668bdd73507fa161f57231c1f2bf.jpg"
 	],
 	"releaseDate": 20230419,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "THE NEXT CHAPTER IN FEAR",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.73 GiB"
 }

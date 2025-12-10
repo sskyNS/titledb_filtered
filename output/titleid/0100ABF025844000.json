@@ -8,5 +8,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/65990dacee80bd44661cc071659b8a8920e8514352d984385c338ff454f46562.jpg"
 	],
 	"releaseDate": 20250927,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Collect, feel, examine every detail!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "212 MiB"
 }

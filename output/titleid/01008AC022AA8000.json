@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f15d7640b579def7b19a3e3e0e393c7ff065049239ca69439940106a524bbf99.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Use your brain to win the battle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

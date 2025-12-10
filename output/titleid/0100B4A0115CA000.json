@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd1ee9d4489b6a0f40ae8f91deacb1c9c57793bc151ec299e39b785247020902.jpg"
 	],
 	"releaseDate": 20210316,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "PLAY YOUR WAY. Win a World Series and make a statement.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.54 GiB"
 }

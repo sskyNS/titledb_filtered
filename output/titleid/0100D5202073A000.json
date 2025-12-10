@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cb874c01510a8f78ad40ec4298a60bf1cba913e5bd6f61886d4195b84119c72.jpg"
 	],
 	"releaseDate": 20241003,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Action",
+		"Lifestyle"
+	],
+	"intro": "Survive on the Raft Conquer the Swamp, Beware the Crocodile",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "685 MiB"
 }

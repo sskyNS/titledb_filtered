@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/63465a5e3213ea4fe78f5e77e2607a53cea050247b9ba42b46e5ac61a3d49604.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Action"
+	],
+	"intro": "Choose your hero and enter the dungeons!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

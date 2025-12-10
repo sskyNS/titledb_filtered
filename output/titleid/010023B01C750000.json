@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cab08d92eb9499c76f51353f692754e9d224ceae9f26af254f4ec0b98f80231a.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Practical",
+		"Education"
+	],
+	"intro": "Unleash your inner gardener and immerse yourself in the serene world of Garden Buddies, cultivating a vibrant flower garden alongside your new friend Mutsy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

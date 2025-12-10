@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/35e2201f5e55ad471ba08d8cc3488e81821e5950158c464d3eb6020940f17339.jpg"
 	],
 	"releaseDate": 20190627,
+	"category": [
+		"Action",
+		"Sports",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Fort Boyard the game: as if you\u2019re really there!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.84 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a378b5c87940295f2f9ee74bf6a8f8e3a8b0949987cb2c430e2cf4347aa80dc.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Action",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Experience the definitive Sonic The Hedgehog experience on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "51 MiB"
 }

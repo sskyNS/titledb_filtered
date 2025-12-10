@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/4119ec90647c5867eae32df7467a024a1544349b42f44134498142ee8bb8c331.jpg"
 	],
 	"releaseDate": 20250905,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "A top-down shooter with explosions and total destruction awaits you!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/eff12d8236a35810a8e6f22d64a6357c9be2ba169009cf1378226f3da34e731e.jpg"
 	],
 	"releaseDate": 20260130,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "Running Fable Petite Party throws you and your friends into 16 fast-paced, friendship-testing mini-games across 3 tabletop arenas.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.01 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/373abb0d5bbbfbc7899ff7455f44f54f400386a868cf7da7f49c0cbc5b918a55.jpg"
 	],
 	"releaseDate": 20230727,
+	"category": [
+		"\u52d5\u4f5c",
+		"\u8857\u6a5f",
+		"\u683c\u9b25"
+	],
+	"intro": "\u5728\u9019\u6b3e\u878d\u5165\u7d44\u968a\u5207\u63db\u5f62\u5f0f\u548c Roguelite \u5143\u7d20\u7684\u6a6b\u5411\u6372\u8ef8\u52d5\u4f5c\u904e\u95dc\u904a\u6232\u4e2d\uff0c\u96d9\u622a\u9f8d\u5144\u5f1f\u518d\u6b21\u767b\u5834\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "569 MiB"
 }

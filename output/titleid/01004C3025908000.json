@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e3c945898e49746cf172de4517641555b25a5a7159258c58aa5b8421be6d8b8.jpg"
 	],
 	"releaseDate": 20251023,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "The runway is in sight, let's make it a smooth landing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "85 MiB"
 }

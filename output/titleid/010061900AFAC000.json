@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f9cc0c329610f37daac005034b855eb42ad1a72df61bad1df0b4129c3b27f22.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Become the best driver! Let your rivals eat your dust as you go for glory!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

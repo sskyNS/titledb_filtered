@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/053312e3df95cfdc15bab134c44c905499a28b7774cd3bc8579bc4babb6503f6.jpg"
 	],
 	"releaseDate": 20200911,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Jump, fire, dash in midair and save the Facility from burning; FIREWORK is an action platformer in which heart echoes games like Megaman and Cave Story.",
+	"languages": [
+		"en",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "468 MiB"
 }

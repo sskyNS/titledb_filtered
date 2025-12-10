@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8672ce0ff4f6f16f64343e450549131ea45e9de6551dfa9c11599eff57d3fa6d.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Get ready to skid around at full speed with your family and friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "581 MiB"
 }

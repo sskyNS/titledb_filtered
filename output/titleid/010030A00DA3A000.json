@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fce291ec7d76b29b705442b7656b4712cdcc8a1d32336c0760037b393acb8ee9.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Unravel the truth behind a 15 year old murder mystery",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.65 GiB"
 }

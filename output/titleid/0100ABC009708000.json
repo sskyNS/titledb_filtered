@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f72123f3b9e0b61f7af04baac57a9a7248ecc54faf8143b03fba26a24eaa8e68.jpg"
 	],
 	"releaseDate": 20180925,
+	"category": [
+		"Fighting",
+		"Action",
+		"Party"
+	],
+	"intro": "Local & Online party game for up to 8 players. Play with friends, family and/or AIs in multiple manic game modes! Choose your favorite gummy and show who rules over the sugar!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "1.30 GiB"
 }

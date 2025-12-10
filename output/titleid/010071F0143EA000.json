@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/968770a51c8a1e8a367971582dc40182f826f035e35d282f499d8790163c77f0.jpg"
 	],
 	"releaseDate": 20220624,
+	"category": [
+		"Action",
+		"Strategy",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "Join Fire Emblem\u2122: Three Houses characters in epic, real-time battles across F\u00f3dlan",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "13.46 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/86e04442a786ea891abc6cd398e5f4dbacb59a7c56cc55db50f5bff9bc1487b0.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Control The Shadows",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.67 GiB"
 }

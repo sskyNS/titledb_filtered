@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c8d239163dc9e6c06d9affde7bbcaa894cdd5a9b2bf43fb780d1c6373ec3f90.jpg"
 	],
 	"releaseDate": 20250731,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A New Evolution of Harvest Moon!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/54d587e9f63f537266df3a061b41b89a536e831976572b7857f98674c1f4b864.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Learn to become a farmer and renovate your own environmentally-friendly farm!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

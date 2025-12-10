@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/541db7bef3a239c5402f12bb95d6b471d0a5b7fe807ba864a3482d0f7f03fdc8.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Simulation",
+		"Study",
+		"Training",
+		"Strategy"
+	],
+	"intro": "Logistics company management simulator with heavy machinery and realistic physics!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

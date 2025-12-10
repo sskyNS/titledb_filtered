@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4fde1be56bfdf280f2f5cbaecb4aa226b16b38f11ef38f1d1846d39de649002.jpg"
 	],
 	"releaseDate": 20200123,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Rotate and rule supreme!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "648 MiB"
 }

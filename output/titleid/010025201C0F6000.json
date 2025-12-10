@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/22653c9d837dc948a5a26ebd20e7d0d3320eb4fed5f8f9cf7503a18bc808847f.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A fantasy world is taking over the streets of New York.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.72 GiB"
 }

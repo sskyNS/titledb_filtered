@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1895af22574af03dc28cc715805abb41a12c3b9d0dfb7dcdf1095189ccd170d3.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A competitive puzzle game in which players summon monsters to fight!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "81 MiB"
 }

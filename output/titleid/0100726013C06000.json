@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/f24db9030d7621b0897422870ebc27ff6ce13a96904becdd1b67bf342b4d8b6a.jpg"
 	],
 	"releaseDate": 20210208,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Fast paced top down shooter, you need to be fast and deadly, choose your character, pick new contract and go do some hunting!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.96 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c9fb2b375643e12a6c0f07b54584eb2552384fe47e64ad106c77ffdcb6ceb471.jpg"
 	],
 	"releaseDate": 20211130,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Mind Scanners is a retro-futuristic psychiatry simulation in which you diagnose the citizens of a dystopian metropolis. Locate a host of other-worldly characters and use arcade-style treatment devices to help them. Manage your time and resources to keep The Structure in balance. Remember, you take full responsibility for your patients.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "276 MiB"
 }

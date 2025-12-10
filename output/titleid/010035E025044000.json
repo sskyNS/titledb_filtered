@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/687c7665aadde4fb6ba85d589765cb91f7411e8d3b1cdb5353e0a5a1d24e052c.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Ride or drive the turbulent waves of luck toward victory! A novel rogue-lite vertical scrolling Shmup!",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "599 MiB"
 }

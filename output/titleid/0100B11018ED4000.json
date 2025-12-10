@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/05d99bdde1086f7d5f8750b039077cb26609eac9b2dd300607c7a369e07e1299.jpg"
 	],
 	"releaseDate": 20220801,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Red haired adventurer girl Viki Spotter decided to go out to the city for a walk. In front of you lies a whole new metropolis and it's different areas, in which you can find many interesting thing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b09aff91f51ede5f099c57a02d739ddc773c9edcdc3a22749ad9afd3722aae4.jpg"
 	],
 	"releaseDate": 20230714,
+	"category": [
+		"Racing",
+		"Adventure",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Play Subway Simulator now! Drive trains, explore routes, and become a master of the tracks. Don't miss out on this exciting experience!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.07 GiB"
 }

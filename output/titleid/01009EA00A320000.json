@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9688b0d8beb9f36f7848312f445a7d397f13e0dc53a2b80ba78cfb222247939c.jpg"
 	],
 	"releaseDate": 20180330,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"RPG",
+		"Action"
+	],
+	"intro": "Set in the Dark Ages, Devious Dungeon is a medieval focused action platformer title.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "102 MiB"
 }

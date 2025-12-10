@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f9e9c2abc8ae067a13a50853e908b4456d46f9b4911b2e7662a203fcc58a192.jpg"
 	],
 	"releaseDate": 20190829,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Bubsy: Paws on Fire is the game Bubsy was born to star in, on the platform built just for him (not really).",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.94 GiB"
 }

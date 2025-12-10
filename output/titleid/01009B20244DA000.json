@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ca67cb5558446f5ac17fb96656d8f1b948d005c43b33d4749a186e7e7d1e90b.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Cozy collection of hidden-object wonder!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "480 MiB"
 }

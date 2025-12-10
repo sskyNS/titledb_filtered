@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a79b606ca87d2372ccd31c15905076eeef035c09bd0bff25726a0bf6457e6a97.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Racing",
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "FLASHOUT IS BACK! Where high speed meets high stakes. Where unforgiving combat, loud electronic music and addictive boosts of adrenaline mix up to separate winners from losers. ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.61 GiB"
 }

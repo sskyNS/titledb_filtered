@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e887f4cee808c9d76313d5e5afb1fe8bac31262c55d6e7ea516c13f2d9f8722d.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Three incredible action adventure games from the Castlevania series have finally returned, for the first time!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

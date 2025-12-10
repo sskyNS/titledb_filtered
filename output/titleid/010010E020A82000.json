@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c46331450b1988424dec029b86153bc8abf27d8ffb9f533dd885777946d250d1.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Party",
+		"Board Game",
+		"Adventure",
+		"Communication"
+	],
+	"intro": "Get ready for a thrilling adventure of strategy and luck!\nLet's play Sugoroku Casino Party!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "530 MiB"
 }

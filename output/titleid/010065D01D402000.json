@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a250246bc8fc5aad88e15abf7757f76c501133cf3915a713c8eb0899f3c198c4.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Lifestyle",
+		"Training"
+	],
+	"intro": "The Christmas toys are everywhere! Can you fit them all into the toybox? ToyBox Christmas has many colourful levels guaranteed to challenge your critical thinking!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "325 MiB"
 }

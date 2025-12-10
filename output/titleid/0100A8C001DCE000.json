@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/915338d454affff7f861eec1a636ccbf94886eb75fee1da11db3f1124b4abdc2.jpg"
 	],
 	"releaseDate": 20170309,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Classic action in the early days of NEOGEO! \nRun through the hell's battlefield!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "147 MiB"
 }

@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/21a318be1a95421b261f6d172e2ada333ba991f87bd851b6199f41b24e6fd1de.jpg"
 	],
 	"releaseDate": 20250910,
+	"category": [
+		"RPG",
+		"Multiplayer",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Hellcard is a unique cooperative deck builder rogue-like game.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "491 MiB"
 }

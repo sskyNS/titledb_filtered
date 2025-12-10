@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/faaf40a48606920e768357216e50797f241e4e1a49af3944b0642e7dbb993176.jpg"
 	],
 	"releaseDate": 20221013,
+	"category": [
+		"Action",
+		"Fighting",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Become a descendant of Lancelot, and fight punishing bosses to protect the truth you were sworn to guard. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

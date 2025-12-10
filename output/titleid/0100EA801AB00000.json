@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a71bf13ddc4be97f6b00e0ed563cdee80ba1f6faf5b5a316377176e88b4c8057.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Enter the world of Nubla through the paintings of the Thyssen Museum.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "464 MiB"
 }

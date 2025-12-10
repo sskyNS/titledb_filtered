@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f5fd01b0ae31dcf683c48f2ad4d6d89e559e1a89a4ece7ea24c180df5dfc058.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "YOU ARE A WEREWOLF. BUT THERE ARE WORST MONSTERS IN HELL\u2019S CREEK.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "157 MiB"
 }

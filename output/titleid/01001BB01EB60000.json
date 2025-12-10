@@ -8,5 +8,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6ab069d4d53484c26893491b80697c6122d8add494ac355fcf1062c74a52273.jpg"
 	],
 	"releaseDate": 20240419,
+	"category": [
+		"Music",
+		"Education",
+		"Study",
+		"Practical"
+	],
+	"intro": "Start the whisker-tickling Fun with Cat Piano.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "231 MiB"
 }

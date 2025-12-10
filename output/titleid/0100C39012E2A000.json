@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f71dd55a2dfd27e054e75260e57902185b2c1b559800d93c415ea48403440f88.jpg"
 	],
 	"releaseDate": 20220217,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Strategy",
+		"Communication"
+	],
+	"intro": "Set sail on a voyage to change destiny itself.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.12 GiB"
 }

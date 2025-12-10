@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/24df8a1814ae6279b437975fa346c2e275e55229959e788fd12b5d039480ae4e.jpg"
 	],
 	"releaseDate": 20240430,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Action",
+		"Arcade"
+	],
+	"intro": "BECOME A BACK SEAT DRIVER",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "261 MiB"
 }

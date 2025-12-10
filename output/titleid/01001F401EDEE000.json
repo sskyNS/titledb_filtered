@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7c4a80e62fee603db72204bdb0eb3dfe96a5f07ef05577eb67f71f2f9f598581.jpg"
 	],
 	"releaseDate": 20240511,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Become a Culinary Master! Cook, Experiment, and Conquer the Kitchen!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

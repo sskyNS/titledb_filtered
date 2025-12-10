@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8f8f09077284ef52c537ff243538a8190fbf1347e51a5e4c56538c93a61709f.jpg"
 	],
 	"releaseDate": 20180607,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Board Game",
+		"Other"
+	],
+	"intro": "The real time card battle game features simply attacking with energy-accumulated cards but hottest battle!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "106 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/021a2f579cc69cfc1fcebd8ebdd27d5bcc66f1e22cd62ab8528b66454ce1af18.jpg"
 	],
 	"releaseDate": 20220922,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A single-player TOP DOWN game that fights against terrorists around the world! The suspenseful stages in various places! Weapons that excite military fans!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

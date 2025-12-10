@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d04f651186a296f9019ac63bf24062b9b14fb613edea53632f114d2c168855f9.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Action",
+		"Shooter",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Find it in Fortnite.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "Unknown"
 }

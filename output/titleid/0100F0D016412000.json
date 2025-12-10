@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/393b8bf690b37218666af9bedf68c71d2e8f8a7c05c1cead9bad61f544b23472.jpg"
 	],
 	"releaseDate": 20230906,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Defend against mechanized invaders as you make a mad dash to destroy their jamming base and send a distress signal!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

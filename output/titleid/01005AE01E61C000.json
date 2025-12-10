@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/61a98d692df852da1d670109786c589a76341c1fa16c28cbd9a568e99c24de54.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Lifestyle",
+		"Training"
+	],
+	"intro": "The Easter toys are everywhere! Can you fit them all into the toybox? ToyBox Easter has many colourful levels guaranteed to challenge your critical thinking!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

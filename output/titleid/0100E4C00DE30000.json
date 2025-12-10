@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b1a190d3f18a2b600389f910deb779ee2f0720eaef87a3573612951c4121775.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Ash of Gods is a tactical turn-based RPG with a nonlinear storyline about three heroes facing an ancient mythical evil.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.26 GiB"
 }

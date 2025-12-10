@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4d04293830528ced34675d41bd9eedd26deda6c2020f412721d963e4ba30534a.jpg"
 	],
 	"releaseDate": 20240807,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Challenging 2D action platformer with RPG elements inspired by soulslike games",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.40 GiB"
 }

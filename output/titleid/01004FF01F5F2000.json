@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9bab244c821baed1c88f675d9dc1e1914e1065635ebac455e62872de23847e59.jpg"
 	],
 	"releaseDate": 20240524,
+	"category": [
+		"Adventure",
+		"Action",
+		"Music",
+		"Other"
+	],
+	"intro": "Enter a devastated world where zombies, mummies and humans fight to survive! Can the undead fall in love? Find out in this exciting story full of passion, betrayal and wars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "422 MiB"
 }

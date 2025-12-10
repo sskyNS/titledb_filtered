@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0d00ec1d15b00c1485256badab03dfff153eee9172c50e0f63bc88cc24231d46.jpg"
 	],
 	"releaseDate": 20200828,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Where legends become reality!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "918 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4632d69ca819f0858bd80944a4c2623c0810a8e10ad6ee8a81a12d6628061dcd.jpg"
 	],
 	"releaseDate": 20200320,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Shooter"
+	],
+	"intro": "Help a pupper rescue his parents!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "34 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf09bb956319bb998c3ac9ac52c19c5ad3ca72902451e2a683a3b03a87f6e0e9.jpg"
 	],
 	"releaseDate": 20190111,
+	"category": [
+		"Platformer",
+		"Action"
+	],
+	"intro": "Two Super Mario Bros. games in one, for double the fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.53 GiB"
 }

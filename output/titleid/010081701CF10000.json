@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bba0696356754e5d619be2ba93580a2d8a89ef30f3b12081b4e638c1105be77c.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Your Dream Farm Is Waiting",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

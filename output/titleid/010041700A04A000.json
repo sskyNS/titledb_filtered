@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5186518a4e4ae5cfa8a72bad1f800d2233f0beefefdacc52ae8e3df4543605cd.jpg"
 	],
 	"releaseDate": 20181213,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Sports",
+		"Fighting"
+	],
+	"intro": "Fly your spaceship by making holes in it! Oxyjet is a ridiculous and action packed couch co-op game, in which you \"sumo wrestle\" the opposing team for oxygen.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "735 MiB"
 }

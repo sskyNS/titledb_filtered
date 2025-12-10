@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4c159d7fd904cf14e6950da68bdcb92b0b640e80fd1049449751bf128519c7d.jpg"
 	],
 	"releaseDate": 20220817,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "For 1-4 players, locally or online!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.52 GiB"
 }

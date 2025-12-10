@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a1ec8b1f30ce50413d0f8673008aa5f866bd50fff577ff46f71d75083e5a727.jpg"
 	],
 	"releaseDate": 20210701,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Locals whisper of a roadside diner that\u2019s lost its color. You are sent to investigate.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/76b94dfc624ca0e363c08029cd3111ad42150d0338820e6235ffbd2ca6d42e61.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Party",
+		"Study",
+		"Education",
+		"Multiplayer"
+	],
+	"intro": "A great quiz to play alone, with your family or friends! Test your knowledge with this exceptional Multi Quiz game.\nOur quiz offers not only challenging facts but also funny and interesting knowledge.\n\nMULTIPLAYER\nChallenge your friends, your family or any other player and show that you're the best!\n\nHOW TO PLAY\nStart a new game with random questions or select your favorite category. \n\nPLAY WITH CATEGORIES\nDo you have a favorite topic? Do you want to increase your knowledge in a specific field?\nTry playing by categories and choose between:\n\nTechnology\nSports\nMath\nGeography\nTales\nMusic\nMovies\nGames\nAnimals\nFlags",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "148 MiB"
 }

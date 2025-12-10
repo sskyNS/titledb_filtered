@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5b1f909b3f7472530cf9f93670a9f0ed9afe2efa9d7a76d14d42a0cab30ffb3.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Simulation",
+		"Fighting",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Create the gaming paradise of your dreams!\nReach 5-stars and host tournaments!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

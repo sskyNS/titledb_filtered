@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/afcd5d5bbdbe1d67b50ea71c5ab4392196783774f2f1ddf1a69ed72a1270ef5a.jpg"
 	],
 	"releaseDate": 20251201,
+	"category": [
+		"Party",
+		"Fighting",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Los Pingheros: A multiplayer fighting game (8 players online/local). Battle in snowy, vibrant Mexico. Knock out opponents with snow to become the ultimate Pinghero",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "496 MiB"
 }

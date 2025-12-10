@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/90b1ec189b70955a48001b497a1823512a89fcfdd80a879849a7678a56885454.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The complete American Football experience! Aim for that touchdown!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "112 MiB"
 }

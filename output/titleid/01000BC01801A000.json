@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ad1f577a0d835afbdee24bba8f60ed47f18ebcbd4e8b00b5193dd6e2ecb3899.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Dead good",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.14 GiB"
 }

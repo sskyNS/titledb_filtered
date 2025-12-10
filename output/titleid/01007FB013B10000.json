@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba0b3ec7136a9deafa248e2e10971ab133940d26263e5266c5e608df2ce570c1.jpg"
 	],
 	"releaseDate": 20210609,
+	"category": [
+		"Adventure",
+		"Education"
+	],
+	"intro": "Small actions can make a big difference.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "642 MiB"
 }

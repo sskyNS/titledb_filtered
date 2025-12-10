@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4044faf3098009285d0740d6e1ab2fb98d7b3f48ee27d3e82f0b236cf381b04.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A Survival Horror Adventure: play as a cast of characters exploring an isolated village haunted by an ancient ritual.\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

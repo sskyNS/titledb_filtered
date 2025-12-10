@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/67f6e0d1158e668457a3f7ce2a171148d426a8a55faae6039a79ec12bb6915d2.jpg"
 	],
 	"releaseDate": 20230621,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Nova Lands is a factory building, exploration, and island management game. Explore, engage in combat, and automate your industry. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

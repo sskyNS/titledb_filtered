@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/274a1ca1b699e09b3bf36395e6c98fe3cb7d26140011eabef60152ff7e8efc47.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A side-scrolling shoot'em up game that cute Marimo Moss Balls fight against ferocious alien species!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "289 MiB"
 }

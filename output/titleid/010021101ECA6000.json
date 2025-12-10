@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/18bf5971bb065ff49fefa3b2b7558d4a6f93b3832667215a45486e1710beaf67.jpg"
 	],
 	"releaseDate": 20240412,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Explore the enchanting world! a captivating exploration game that invites you to embark on a tranquil journey through a lush, mysterious lands.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

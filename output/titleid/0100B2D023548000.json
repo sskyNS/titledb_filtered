@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a55dbd0c319790665f5c125d5d78ecbd607721cca82bfd5ede904cbd129a254c.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "This is not a peaceful fishing game.\nThe end of the world is approaching...",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "639 MiB"
 }

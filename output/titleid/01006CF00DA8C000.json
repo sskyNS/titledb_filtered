@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ca4bd8f59fe0a685c7c4cc021bb591ab9f35deb7ba769d71329f2e5253127be.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Action",
+		"Arcade",
+		"Racing",
+		"Shooter"
+	],
+	"intro": "Insane mix of cars, speed, explosions, blood, and zombies!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
 }

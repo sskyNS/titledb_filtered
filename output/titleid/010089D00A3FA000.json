@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc8281c7aeb827d626de4dfc26cbefb4f150d892c86de4613808ede0f11da1e3.jpg"
 	],
 	"releaseDate": 20190319,
+	"category": [
+		"Sports",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Are you the next America Ninja Warrior?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.38 GiB"
 }

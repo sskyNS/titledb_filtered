@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/28caef0926daa9ec7d8cfec70356cdfa0be465158d4e108ce670b9ddd7ff1b9e.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A fixed-screen action game offering a 2-player coop mode.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "63 MiB"
 }

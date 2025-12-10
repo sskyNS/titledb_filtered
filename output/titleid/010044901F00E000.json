@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c45de99db16d51b87918b22b3c72f133f1f814d5b4a715aa22b4d28f0127bda0.jpg"
 	],
 	"releaseDate": 20241106,
+	"category": [
+		"Adventure",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "Rec Room is the best place to build and play games together. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.67 GiB"
 }

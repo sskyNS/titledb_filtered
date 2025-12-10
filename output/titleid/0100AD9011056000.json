@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0b803d06f80273e927a07ad003ef46cba54400df5a0ae42dd1f8cc88e1ba130.jpg"
 	],
 	"releaseDate": 20200618,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Arcade",
+		"Other"
+	],
+	"intro": "One Way Heroics Plus, a forced side scroll RPG game where you must keep moving right in order to escape the darkness that continuously swallows the map!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "473 MiB"
 }

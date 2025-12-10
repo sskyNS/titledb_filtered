@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/face8efa07089a348a35e324ea16d1f31f587644af185bee6e4cbd347f8879cc.jpg"
 	],
 	"releaseDate": 20210615,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "WILL YOU ANSWER THE CALL TO ADVENTURE?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.41 GiB"
 }

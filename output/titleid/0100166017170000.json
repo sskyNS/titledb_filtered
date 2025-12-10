@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/1093e5ef7ce8c2a3086e4b8e587242046addc747750b31c090e0a0abe904419f.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore Elk - An island with true stories",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "619 MiB"
 }

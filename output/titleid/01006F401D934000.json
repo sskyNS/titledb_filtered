@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/401df7a24577d40c4c9c4b122db4fa7befd073d04dfca8133db7f63781d6575d.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Wield 5+ powerful Super Weapons all together! Face 300 enemies at the same time! Will you survive?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.08 GiB"
 }

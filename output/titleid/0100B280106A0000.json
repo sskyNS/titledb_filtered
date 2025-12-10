@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/71b4f66c85d0a49e19aee05bd15468ef15d7d2409e6539f57ebeac635b8969ec.jpg"
 	],
 	"releaseDate": 20200130,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The hottest bird lawyering game to come out of 1840s France!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "704 MiB"
 }

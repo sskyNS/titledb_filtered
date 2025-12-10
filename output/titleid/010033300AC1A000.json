@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b801b793cb1d62770b6903b5c2b807de0d9c5f671497c14a99a6a0a48b37b01e.jpg"
 	],
 	"releaseDate": 20180718,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "You are the Mooseman and you have the ability to see all that is hidden to the mortal eye. You are about to visit three layers of this universe - the first one is the Lower World where the spirits of the dead reside.\n\nWelcome to the mysterious world of ancient myth, based on finno-ugric culture of bygone pagan times.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "561 MiB"
 }

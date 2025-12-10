@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/09805f7d2e3bfa6f50c2e93e70d6739163120275d72ff8015eb1b7311316b11f.jpg"
 	],
 	"releaseDate": 20201016,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Race along this endless, post apocalyptic highway! Collect coins and bullets and race until you reach high scores! Avoid other deadly rally cars that might get in your way and be sure to collect bullets so you can shoot them down to get past! With over 30 death race cars to drive and collect, keep playing until you collect them all! Pick your favorite death race cars and roam free on the open highway, shooting down cars and getting high scores!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

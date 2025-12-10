@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2fbec8e0bc401a89861f874ac041dedcd512b9ef4caa2862a1f9c1ea943b19b.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An exciting puzzle adventure with hidden object elements.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "653 MiB"
 }

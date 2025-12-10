@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aeb65c6392506671e628e8e30473725a99389398c2fbed3c059b1c66ec39770a.jpg"
 	],
 	"releaseDate": 20230826,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Knock the others off!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

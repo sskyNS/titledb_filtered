@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/85bbfcfc780b17a978303891fdfa6404af8606473bfe89d37041c207864c8106.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Fighting",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Violent crime lords have taken over the city. Defeat them and bring their underlings to justice in an excellent beat 'em up action game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d064f606e991c431cc4ec1c9e149720b60abfaf5a1aa1b7a9f3227130107a611.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Practical",
+		"Other"
+	],
+	"intro": "Challenge your mind and creativity!\nSolve beautiful puzzles!\nExperience a journey of logic and design!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

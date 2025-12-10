@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8248122c788faa7e3827a8bd723e45ca9eddccc3e86dc4854214201c3913a6f4.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Stars are waiting for you!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "273 MiB"
 }

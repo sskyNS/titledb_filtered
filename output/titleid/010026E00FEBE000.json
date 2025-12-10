@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e500641417778f34b043dd456ffaef825ccc18a94f255083e4244bdfddf4efd.jpg"
 	],
 	"releaseDate": 20191226,
+	"category": [
+		"Party",
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Challenge your friends to intense swords & guns duels on diorama arenas! \n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.03 GiB"
 }

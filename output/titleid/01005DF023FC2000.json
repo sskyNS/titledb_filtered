@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a554b900be3c17e0f9c1a95e406f05de1226e6b4b0d9f2ce3958d2364aba73af.jpg"
 	],
 	"releaseDate": 20250627,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Can you color the entire world with a gun?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

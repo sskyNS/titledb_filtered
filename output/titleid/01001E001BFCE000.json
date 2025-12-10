@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ad5f29732be6e7476125e0756c80b1d062eee75a4a8a9acee6d4d854152e591c.jpg"
 	],
 	"releaseDate": 20231129,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Clear the road by swapping and rotating tiles of the landscape!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "336 MiB"
 }

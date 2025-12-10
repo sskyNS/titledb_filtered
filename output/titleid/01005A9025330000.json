@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcb29d3ed0dfc9d1bc45cc5d19e09a4101589990dd8427086a73ac2c1becbb8e.jpg"
 	],
 	"releaseDate": 20251128,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Hell isn\u2019t eternal - you are.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

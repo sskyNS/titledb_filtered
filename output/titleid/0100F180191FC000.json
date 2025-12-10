@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/54361208f380cdd68d5f7cf3a2d1eb01a596f145f3a21f17d634f1cda9241475.jpg"
 	],
 	"releaseDate": 20230503,
+	"category": [
+		"Shooter",
+		"Action",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Get ready to command your own war tank and dominate the battlefield!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "838 MiB"
 }

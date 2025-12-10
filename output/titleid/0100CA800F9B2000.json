@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ccf93d3b1470b97778074b3720bc127fb5f9d51f5f925e26b5101d3b1091c07.jpg"
 	],
 	"releaseDate": 20230411,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "A Lovecraft meets Sherlock Holmes crossover",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.04 GiB"
 }

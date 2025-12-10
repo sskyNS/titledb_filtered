@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5df6027446f5cc7f22662bfb6c20dc16f3e84e3714605a3032c19ceb94ccd205.jpg"
 	],
 	"releaseDate": 20181207,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor\u2019s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.44 GiB"
 }

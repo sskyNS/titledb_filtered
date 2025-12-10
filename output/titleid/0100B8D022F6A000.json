@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f68c2f3c8bccbf27305083ba4e5d7a536b518fdc2e87a0df7fc8bbdd87caba7.jpg"
 	],
 	"releaseDate": 20250429,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Bosorka is an exciting action roguelike where a young witch saves the world from insidious and cruel demons.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
 	"size": "286 MiB"
 }

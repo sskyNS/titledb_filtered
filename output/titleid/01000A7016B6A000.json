@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8de847eee1fadd91a2d579788ab9a4c42a95a524703214aaf1871d7bed023e0.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Puzzle",
+		"Music"
+	],
+	"intro": "A puzzle game to connect BGM by erasing blocks.\nFor those who want to be healed by the music of Room97.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "522 MiB"
 }

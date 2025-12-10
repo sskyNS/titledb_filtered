@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe2c85bfdf362636ff6930bc103a802cc88d2a8c582c4af85abb5f322c497285.jpg"
 	],
 	"releaseDate": 20200723,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "X-gerrrminate your friends!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "754 MiB"
 }

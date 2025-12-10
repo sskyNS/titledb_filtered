@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7d369fc00ad1097ff08c60a348a1b6ceee01e14bb361f2a7dfafcae59014de7.jpg"
 	],
 	"releaseDate": 20180517,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Lifestyle",
+		"RPG"
+	],
+	"intro": "Unwind and enjoy the slow life in Yonder: The Cloud Catcher Chronicles, a relaxing open-world adventure game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

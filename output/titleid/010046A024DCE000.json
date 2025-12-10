@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfb8aa90a00773ec661975f70b3ae99c033f4675f31b6abfc808222d49b4b1d0.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Adventure shines brightest when family sticks together.\nExplore wild lands and uncover secrets on your own or side by side.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

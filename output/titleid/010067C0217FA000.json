@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9f0b49483d33eabcb18c5085e8cfbf4eb8cf40c650b0e24d70b043c3a2f4236.jpg"
 	],
 	"releaseDate": 20250319,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Experience a first-person escape room adventure in the mysterious Mystwood mansion. Solve puzzles, crack codes, and uncover hidden secrets to escape!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.80 GiB"
 }

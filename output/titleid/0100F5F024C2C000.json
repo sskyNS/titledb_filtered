@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a6a19fcbfc4c109291991dfce1bc4197315e6c210dbc1e208de6e85b737a86d.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "The time for battle has come! Rise, true hero!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "99 MiB"
 }

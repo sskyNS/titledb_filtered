@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/17e4b1ee4cc8af8ec9927d5636f23165dbed49fe9535fff831ddfea2f9eb7118.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Compete with your friends in car drag racing, tuning shows, car driving skills.Feel the extreme car racing experience.Have the fun.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/15a97491c74d3fa9c48bd8e4db16ae66f63514a521d16511a140f16e7e527df9.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action"
+	],
+	"intro": "Race fast, jump high, and crash harder than ever.\nTurn chaos into fun with every wild stunt.\nMaster the ramps, rule the derby, and enjoy the ride!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "785 MiB"
 }

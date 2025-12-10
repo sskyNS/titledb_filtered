@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/e081669b2beabd1345e05a132075595da907b0e88ccb7591987150839f4ee3c5.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Party",
+		"Communication",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Become a party legend! Fight drawing battles in Tee K.O. 2, win chaotic type-offs in FixyText, answer time's mysteries in Timejinx, roleplay hidden identities in Hypnotorious, and play sil",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.18 GiB"
 }

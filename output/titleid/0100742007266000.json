@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd6130c750f3c96c037fdcf37e1a83364c91bd503cbd6c048a8e4911967a7ab8.jpg"
 	],
 	"releaseDate": 20180213,
+	"category": [
+		"Racing",
+		"Sports"
+	],
+	"intro": "Live the adrenaline of the 2017 Monster Energy Supercross Championship with the official videogame!\nRace on the official tracks with the official riders from 250SX and 450SX or create your custom rider and bike and conquer the top of the leaderboard.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.37 GiB"
 }

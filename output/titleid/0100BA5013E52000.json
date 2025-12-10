@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/53bf341959161c635dc2bf3b32f56ee3bf8f08dc8d9acd60f616c4773e6b1bd7.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Soar through the skies aboard a giant warbird in this BAFTA nominated air combat game.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

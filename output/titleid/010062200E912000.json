@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/006a3a927dfb01cdac66ba5463c88fa2674867d8362483bb0dbe3965d2d30484.jpg"
 	],
 	"releaseDate": 20210330,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Flashback to the 80s. The Creator, a genius of his time, creates a video game console called Narita One with its flagship title being a game called Narita Boy. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "925 MiB"
 }

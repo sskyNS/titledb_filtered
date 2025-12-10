@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/65278c0c5c9b655242d31dc64243e32bbfe7cdd51effc6fddff8042dff0602a1.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Challenge your match 3 skills while you join Griffri, the wizard, fight back a powerful sorcerer and his mighty dragon.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "294 MiB"
 }

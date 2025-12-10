@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d704a89b23658cd06956835af9c54b07c44a2246d6273a3f4022c3542de0be3.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A WILD action puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "109 MiB"
 }

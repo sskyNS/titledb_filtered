@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a188570befce253db0000caa84187fe2785eddbb6851ee35df5bbc78c500761.jpg"
 	],
 	"releaseDate": 20201210,
+	"category": [
+		"Puzzle",
+		"Other",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "What happens when everyone is stuck in the same time loop, without knowing?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "510 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cbdc81501428b79ec2b9fd2c55468a1b1034f13d40ad4896c97cd3df4b361bd.jpg"
 	],
 	"releaseDate": 20220713,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Redirect the course of a light beam across tricky isometric puzzle stages!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c7bcdfbf784e3c767870aa395141dab2f6ee30de89fbe173d4958c5669e6767.jpg"
 	],
 	"releaseDate": 20200131,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Cooperative First and Third-Person Shooter including Multiplayer (Split-screen/Online) with Wave based Tower Defense mechanics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.87 GiB"
 }

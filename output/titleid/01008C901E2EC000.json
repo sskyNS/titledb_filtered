@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/006506dfb43eec2d63d5ea3f5426db41967c3996708e4f3d22dceb553803c6c7.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Cute Magical Girls, Evil Fairies and Intense Action!\nExplosive combos, but Simple Controls!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.76 GiB"
 }

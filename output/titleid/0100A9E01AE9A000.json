@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/150ada2443d6fcbe7ed1676da8be7f0edb7eeba70ef6b8ed6ac8b59e2957f80a.jpg"
 	],
 	"releaseDate": 20240820,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Updates"
+	],
+	"intro": "JOIN THE PARTY",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.89 GiB"
 }

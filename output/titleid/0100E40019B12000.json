@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9009a28971769ee197ec2e1a18b50b35cba96fe5f7f1a4835658126b20d26cfe.jpg"
 	],
 	"releaseDate": 20231122,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Strategy"
+	],
+	"intro": "CHALLENGING 2-4 PLAYER COUCH/ONLINE COOP GAME ABOUT BREWING MAGIC POTIONS AS FAST AS POSSIBLE.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.07 GiB"
 }

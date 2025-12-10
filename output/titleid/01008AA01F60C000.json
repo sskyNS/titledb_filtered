@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/de9d147003bc4d58429887a7c265d90a8cec96d2c316ba15b90fbbf98069eda0.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Battle evil robots with your mech suit!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "44 MiB"
 }

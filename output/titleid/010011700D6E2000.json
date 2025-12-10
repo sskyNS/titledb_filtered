@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb15c98b3ed85c5541754160fb86ae160dd09f78ae18c841d0cda585d210d458.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A fantastic journey through the human body factory",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

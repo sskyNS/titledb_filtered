@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dee685755e178ce76164aecfed678a6f8bb6c4fcb84d05ef9f4a6211c36c0bf.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Simulation",
+		"Music",
+		"Other"
+	],
+	"intro": "Play in a song.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.29 GiB"
 }

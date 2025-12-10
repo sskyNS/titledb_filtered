@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/00867711cc2580973265095b37d51ba521bac900b3e91dcec91ace0d1c82ca06.jpg"
 	],
 	"releaseDate": 20201030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "I am Poppy - and this is my first Halloween.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "546 MiB"
 }

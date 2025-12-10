@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6152f57253d6dd7e9b47d8ec99d9be3c501756ca9c2fead74c3b6f7a7be9307a.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Other"
+	],
+	"intro": "The Original, Award-Winning RPG from the Masters at Obsidian Entertainment is Finally In the Palm of Your Hands!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "28.34 GiB"
 }

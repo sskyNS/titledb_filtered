@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab94d8631b340095b96246683d5fe5e02b93f38a67045fd230802f0bffe4069b.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u5b66\u7fd2",
+		"\u30d1\u30ba\u30eb",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+	],
+	"intro": "\u5f85\u671b\u306e\u5354\u529b\u578b SF \u30b7\u30e7\u30fc\u306b\u53c2\u52a0\u3057\u307e\u3057\u3087\u3046\u30024 \u4eba\u306e\u53cb\u9054\u3068\u30c1\u30fc\u30e0\u3092\u7d44\u3093\u3067\u3001\u3055\u3089\u306b\u6d17\u7df4\u3055\u308c\u305f\u30c8\u30e9\u30c3\u30d7\u3067\u6e80\u305f\u3055\u308c\u305f\u5371\u967a\u306a\u65b0\u3057\u3044\u90e8\u5c4b\u306e\u30bb\u30c3\u30c8\u304b\u3089\u629c\u3051\u51fa\u3059\u65b9\u6cd5\u3092\u898b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "692 MiB"
 }

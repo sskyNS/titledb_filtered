@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/62f4524beb52c4f28fdd5f7a42e6b9a1ff6766fb0e6e0707d37b4f9092100a8c.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "This puzzle game with comic elements is \nwhat you've been wanting for!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "114 MiB"
 }

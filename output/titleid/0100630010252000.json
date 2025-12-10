@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a8a180e4617e739217a0459c68b87507c12b4665cf6fb897c5e8bd7b577517f.jpg"
 	],
 	"releaseDate": 20191212,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Video games are dead",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "867 MiB"
 }

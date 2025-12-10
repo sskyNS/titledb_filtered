@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/b30dd7a68024d93f744c03e2602b670893f07cf0607ccb5886e15555d88245c7.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Release the panda in you!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

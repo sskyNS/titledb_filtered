@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/95b1bb08a48b3cf813735885a9fa81452d0d73010ac8858e676b5e8bc60646d4.jpg"
 	],
 	"releaseDate": 20240926,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Join the Magical Girls on a Heartwarming Adventure \u2013 where every puzzle brings new bonds and discoveries.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "556 MiB"
 }

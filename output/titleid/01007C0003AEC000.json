@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/234384ac5fef16528aa1005814c888d57dea929fa14704cc56f1659c617ed668.jpg"
 	],
 	"releaseDate": 20170803,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "The party game for funny people and their unfunny friends! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.64 GiB"
 }

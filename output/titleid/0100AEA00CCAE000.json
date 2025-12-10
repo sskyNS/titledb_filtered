@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/328e4b161269665683990641d278342edfc49099b548938c1bdd4d6edae68e12.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Party",
+		"Other"
+	],
+	"intro": "Meet Bleep and Bloop as they help each other overcome all the challenges that stand in their way. A light-hearted and playful puzzle game about working together.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "164 MiB"
 }

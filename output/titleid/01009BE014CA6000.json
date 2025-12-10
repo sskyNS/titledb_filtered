@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/14681b5e9cc4fc8e49d2904b82f55d150f266740695a4a01b6ff0afce044402d.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Lifestyle",
+		"Music"
+	],
+	"intro": "Welcome to Caterwaul Way, stranger! Heard you've inherited the old cat cafe. You\u2019ll need to rebuild if you mean to give the poor stray cats a proper home and us townsfolk a tavern!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "667 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b73c9de0bab360cbcdfe61346e3a7de746f226afc501cce0139a1028456b7d7f.jpg"
 	],
 	"releaseDate": 20190426,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "A Story-Rich RPG/Action-Adventure Game, made by one person over a span of three years.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

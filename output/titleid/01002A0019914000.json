@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c7f6bec6aa883a733f558b5642b593842771aba61473a58dfda8a9d17a4ccd2.jpg"
 	],
 	"releaseDate": 20221104,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Throw papers and smash stuff!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

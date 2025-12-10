@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a0ffe185503b22701b48ceedbeac78b2771391f17ac6793921c1ff0029785360.jpg"
 	],
 	"releaseDate": 20181116,
+	"category": [
+		"Simulation",
+		"Education",
+		"Utility",
+		"Training"
+	],
+	"intro": "Create the most impressive coloring book, alone or together with up to 4 artists!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "594 MiB"
 }

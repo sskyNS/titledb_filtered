@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dfe35a3bd3686380e41e7458cc39a3736fa8532911457942c450bc1f3a69f9a7.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Become a member of the coast guard! Take part in rescue operations on land and sea! Complete tasks, find missing items and people! Drive cars and a bike, pilot boats!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

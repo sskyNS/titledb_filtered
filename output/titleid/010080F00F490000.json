@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c89e9c199d7eb19173af8c467308c03ec3f4a2127d330c432da2d7d9ffffdcfd.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Puzzle",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "This is a game that combines match-3, GALGAME elements and beauties. If you want to learn more about those beauties, you need to best them first. How the story goes is choice-based so your choices will ultimately decide their fate.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

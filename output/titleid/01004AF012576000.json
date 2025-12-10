@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0682beb6a18a05fbf03548572641451b71e9ace2bd7d3647c114b2cfe257165b.jpg"
 	],
 	"releaseDate": 20200828,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Good old card puzzle - all you need to challenge your brain!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "217 MiB"
 }

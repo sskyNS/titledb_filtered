@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/55696ef5012c105b4b5c8c087c440234a8ca775df2349afb7ff8f4501a5be70b.jpg"
 	],
 	"releaseDate": 20231205,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Born of Bread is a wacky and joyful RPG, revisiting turn-based combat tropes.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.10 GiB"
 }

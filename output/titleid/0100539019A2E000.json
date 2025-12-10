@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1de0f166f676d14658976633c8167870f18118618a9be4ff1bb0b051236ad811.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Stop the time, and Go.\nNew style 2D scrolling action game.\nNinja who came from 2036 to save the world.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "287 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/34d7e3a8733d4190508e2f36f6dd8092b496e38abacebb81af40e6c8449e3f87.jpg"
 	],
 	"releaseDate": 20190614,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Join Sasha and Valya as they compete head to head in the race to the top of buildings in this action puzzle game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "99 MiB"
 }

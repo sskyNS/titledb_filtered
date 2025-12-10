@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d410666e793e6607b0dd7195f3e01f8d7a431dfc7e6b1ff31395c487319c549.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Fly, glide, dash, scare away ghosts, and enjoy a peaceful journey, facing the ghosts of greed in abstract and beautiful environments.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.24 GiB"
 }

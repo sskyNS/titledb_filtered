@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1053e27426cac4f8067363cff038a886b9815a9f5ef5d26b6a29a6b50a862725.jpg"
 	],
 	"releaseDate": 20250207,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Dash your hero across the mazes, stack the tiles higher and higher, and reach for the skies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "204 MiB"
 }

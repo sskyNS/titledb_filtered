@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b54dd39ce31ffa564b25cb6810965642d21ca0bd7a017f143a2cbb6befe46c8.jpg"
 	],
 	"releaseDate": 20191018,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Rawr-Off is a funny, fast-paced party game that will easily take over every social gathering! Play together with friends in handheld mode or swing & sway in TV mode!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "215 MiB"
 }

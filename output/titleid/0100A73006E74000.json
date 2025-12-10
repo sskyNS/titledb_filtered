@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8686978f16df1d821c9b992db97f59284924750d65749754fd345004682daf95.jpg"
 	],
 	"releaseDate": 20180608,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Epic Soccer",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.28 GiB"
 }

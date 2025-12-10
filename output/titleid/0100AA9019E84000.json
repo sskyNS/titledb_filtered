@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee8690eef070d47707cb48b35eb9982f27529bcabbb407c9d04b53ba0c960e7d.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Just imagine: your own world-famous airport! A game with sky-high levels of fun!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "134 MiB"
 }

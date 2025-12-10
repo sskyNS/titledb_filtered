@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9033b21feb0eb4522011371454fb21e4c555a53a84ee3ed271c7604c02101cb.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Push your limits, dodge destruction.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "945 MiB"
 }

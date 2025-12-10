@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/72a6af4d7836030c2b266b8cd60561193bc16e8448469a4bb35276ee428c9746.jpg"
 	],
 	"releaseDate": 20180712,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Punch, kick, and shoot to destroy the worst terrorist group in history.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

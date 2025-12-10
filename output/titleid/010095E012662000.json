@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c9691272c32f68eb8345a732d2c3e87381ce96fed128c9fbd48406dcf7d2c53.jpg"
 	],
 	"releaseDate": 20220105,
+	"category": [
+		"Action",
+		"Strategy"
+	],
+	"intro": "Farm, Build, Defend! As your adorable robot saves Planet M in the Galaxy's most unique Arcade-Tower-Defense",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

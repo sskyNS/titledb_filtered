@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aaf8a8c00159f31c0992ac7bc8458b380bf86c159cfe5bf952587ee438550f5c.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Education",
+		"Sports"
+	],
+	"intro": "Show off your drifting skills in this full of exciting challenges game.Compete to become a street legend!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

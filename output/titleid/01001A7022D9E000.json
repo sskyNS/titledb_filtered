@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b521210a260421993a9bc8ebb8b9c5d89647aeae0e9e9d39ec5ec22caee47636.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Spray them! Trap them! Collect coins and upgrade your gear! Protect the pumpkin patch from a relentless insect invasion and giant bosses.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "168 MiB"
 }

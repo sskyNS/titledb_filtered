@@ -9,5 +9,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0eee1f00f5a5a4f7bdc90af704590d4ef22013ddedb78b9cd39509561171eff7.jpg"
 	],
 	"releaseDate": 20210813,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "This game is for cat lovers!\nJump like a cat",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "33 MiB"
 }

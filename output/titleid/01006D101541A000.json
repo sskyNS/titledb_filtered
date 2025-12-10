@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1435408e6556f210e0422d374ae90aacb5b01f1056d7bb1e1c9bdcbfbb4cfdc0.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Other"
+	],
+	"intro": "SWARMRIDER OMEGA is an \"endless runner\"+\"twin stick shooter\" ARCADE mashup.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

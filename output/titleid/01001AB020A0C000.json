@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4b5a48acb89d7263e9a6636b95da5db504d89460674c3568692eff6550c9be5.jpg"
 	],
 	"releaseDate": 20241120,
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Grow your magic skills to survive relentless waves of enemies in twin-stick shooter style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

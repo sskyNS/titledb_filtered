@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c6f8794921a2e387b3b3ce905c834e096d298fb4e38e57ea28ae239f88bb9e9.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Change your fate, duel with formidable enemies, train a dragon - all within a reach of a card swipe!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

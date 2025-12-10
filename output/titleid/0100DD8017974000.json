@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4fcbaa44158a3f9ce93cdea55fe4916259f817a6c8751a4a69a2ad75045bd5a8.jpg"
 	],
 	"releaseDate": 20220224,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Tank game to participate in the famous battle of World War II! Win the battle and strengthen your own tank! Destroy enemies with friendly tanks!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

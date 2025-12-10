@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/872aab5453b27a757936b982c0c0058fabbb827ebf2092807e8ae30445e1c072.jpg"
 	],
 	"releaseDate": 20250312,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "In this visual novel you will meet Lila, a young explorer, and Max, her loyal monkey friend, who embark on a great adventure guided by a mysterious map.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "597 MiB"
 }

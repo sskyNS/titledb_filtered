@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0919678b44eb41a6d5a49a3c52edf22094761c6e77cd4afef163f62411d19440.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Ride Fast, Rule the Road!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "444 MiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/39249a0909f950c81c6c7bac84eae56cb358ce647061a16e01b8233ee4ac9c01.jpg"
 	],
 	"releaseDate": 20190905,
+	"category": [
+		"Simulation",
+		"Study",
+		"Communication",
+		"Other"
+	],
+	"intro": "A clothing shop management sim. Go from quaint corner shop to world-class brand!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

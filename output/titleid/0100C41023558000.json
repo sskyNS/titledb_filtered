@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/95341ebd9f0f8677b9707ea6e198a8f2eb0f7c69f41cf7fe869d09c9ee2e4d02.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Weapon-based hand-to-hand combat\nA battle filled with the emotions of weapon users begins!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "978 MiB"
 }

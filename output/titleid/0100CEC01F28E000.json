@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb86746e8466d2c4b094fc4e17220787d04faf52ac48e1958178c0ff44e29b55.jpg"
 	],
 	"releaseDate": 20240525,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "action platformer\nnice pixel art graphics\n",
+	"languages": [
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "196 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/791b9020cdbc5256dc71f5c7aea9f900bb557f6fe3931c7a2d94a47c41a8e682.jpg"
 	],
 	"releaseDate": 20200422,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "A strategy game with fast online battles\nCombine the heroes, plan your strategy and win!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.72 GiB"
 }

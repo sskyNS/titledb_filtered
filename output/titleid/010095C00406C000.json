@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8a60b6e44d47e94cc0f3d680d86fe32a665886e12690a044c1b165b96cecb79.jpg"
 	],
 	"releaseDate": 20170914,
+	"category": [
+		"Racing",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "The amazing off-road kart racing game. Race, collect, upgrade and win!",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "239 MiB"
 }

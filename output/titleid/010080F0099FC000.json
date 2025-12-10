@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3521f1e7a59e6dbca4bfd209f2508aca6f2d6fd61544afe4cbe689c43380ef6a.jpg"
 	],
 	"releaseDate": 20180724,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "What if you could deform and reshape the world itself?",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.92 GiB"
 }

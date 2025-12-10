@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/880a07677924dbd8fe8f8f58db8e8fb9ed1bc14175a5890b090b7af0e109eb7f.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Defeat the huge battleships \nand escape from the planet Darius! !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "108 MiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/271ea84cd85a23933a2b7fa1562c6d19d68d530ac75624af4fc813ceb64473a6.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Move blocks around in as few moves as possible to allow the red block to be slid off the board. Puzzle fun for the whole family!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "118 MiB"
 }

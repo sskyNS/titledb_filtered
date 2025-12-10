@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f3a61daed7aea19b33a743c6c20e7295f16e484df9cf6dadfeb179f89bf50d4.jpg"
 	],
 	"releaseDate": 20200402,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Make the world truly yours in Junk Jack! A relaxing 2D sandbox where you can explore, build and survive in randomly generated procedural worlds, full of monsters and hidden treasures!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/285a73637de3d7b0b30d443db4c4ff094adb2ec7d456951c4300a70d5de33f8f.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"Action",
+		"Party",
+		"Multiplayer",
+		"Racing"
+	],
+	"intro": "Fast paced, vehicle combat with classic cartoon weapons, zany characters and three play modes!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "893 MiB"
 }

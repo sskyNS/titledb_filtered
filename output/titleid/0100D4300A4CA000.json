@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/07abb7b7454563d5ebec61bed3f08924f6e0c70c4cee360fa5efafe58c5765ae.jpg"
 	],
 	"releaseDate": 20180405,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"First-Person Shooter",
+		"Platformer"
+	],
+	"intro": "Infernium, a non-linear first person survival horror that will shake you to the core!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

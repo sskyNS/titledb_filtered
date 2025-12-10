@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/90da6f5f68b7993c29526e6aef4736a62436d030f30531887aaaef2821de1cbe.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"Simulation",
+		"Practical",
+		"Utility",
+		"Other"
+	],
+	"intro": "Metro Simulator 2 is a unique game featuring recreated Moscow Metro and realistic train controls.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.73 GiB"
 }

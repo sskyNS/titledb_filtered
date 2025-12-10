@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0912b51f7db45fd475352b945a84c402c6fd9519ee4278c2bb6351c04cc02b5.jpg"
 	],
 	"releaseDate": 20210730,
+	"category": [
+		"Platformer",
+		"RPG",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Explore a wacky world of invertebrates in this game that imitates the Game Boy\u2122 Color!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "462 MiB"
 }

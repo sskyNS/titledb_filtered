@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e6cb98ef67dba597344e3a13dd863061aefd5a2a886b1390a4f2a517cdfb948.jpg"
 	],
 	"releaseDate": 20240730,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "A slice-of-life sim about the joy of gardening, designed to be picked up and played in short and sweet bites.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.62 GiB"
 }

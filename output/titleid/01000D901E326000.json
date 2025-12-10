@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0250f8e6aebbb3ca43aff1097f23fefada3145ff7e41fc125d19889908feb4b8.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Music",
+		"Party",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Conquer the fashion world on a global style and dance adventure, with your new BFFs the Bratz Pack!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.16 GiB"
 }

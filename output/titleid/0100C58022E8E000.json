@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbc7871c8bd7a87fcb1771efc4c104ffe5071bb7f7a87e5f9fa7de8d43f2cdbb.jpg"
 	],
 	"releaseDate": 20250410,
+	"category": [
+		"Study",
+		"Education",
+		"Training",
+		"Party"
+	],
+	"intro": "A cat cries for a \u3007\u3007!?\nLearn Unique Cat Proverbs from Around the World in a Fun Quiz!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

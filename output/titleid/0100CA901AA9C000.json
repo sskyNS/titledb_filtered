@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ccf3e614f1093e43beba983a69d50b6376df03749ef298ecb610aa7f56a91add.jpg"
 	],
 	"releaseDate": 20240221,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Ready. Set. YO!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.78 GiB"
 }

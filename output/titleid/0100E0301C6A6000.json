@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/004e587c6908959fa07af4290480e393b63ffd90709c9b9ed980a5a3be692cbe.jpg"
 	],
 	"releaseDate": 20240116,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A game of choice and chance, every room has two options, which do you pick to survive and descent deeper into the dungeon?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

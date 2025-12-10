@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/455ece26b80d2c123ead308cedb374bcb6b4679ab1b7deb6cff729a163b1884f.jpg"
 	],
 	"releaseDate": 20210506,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "THE ROAR OF THUNDER IS BACK!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "918 MiB"
 }

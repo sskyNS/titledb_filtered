@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/06ff92218d3a5508f5743d6cc02bc9cf97e5bd5c12e10344501ac8325a19cc0b.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"\u5192\u96aa",
+		"\u52d5\u4f5c",
+		"\u6a21\u64ec",
+		"\u7af6\u901f"
+	],
+	"intro": "\u5728\u8a6d\u8b4e\u591a\u8b8a\u7684\u5192\u96aa\u4e2d\u822a\u5411\u6df1\u6d77",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "813 MiB"
 }

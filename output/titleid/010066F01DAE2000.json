@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ceda149991ace92a8b5a6ff50056f8845c7cbb92c98d9f970e7df39e39ff16b.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "A 8-bit style platformer, in which you can swap characters at any time and use your digging skills to make your way through the terrain!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

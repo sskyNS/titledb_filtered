@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e4b1dbdb7dcbdaf556896045644730418faae32be746c8e2e044edc1e190efcb.jpg"
 	],
 	"releaseDate": 20250208,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Fight cosmic grime with your trusty robot disinfector!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

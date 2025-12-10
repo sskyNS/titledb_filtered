@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e432e53f178088ca0036df1144a03bdde730e27186fdb0cc8c078bb8526691a5.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Inconspicuous combination of a platformer bullet hell with cute, pixel graphics. Tanuki Justice will challenge your precision jumping and shuriken throwing skills!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

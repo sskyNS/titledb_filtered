@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0969c34ad630f102b4fe03b73c9c822004bf91f929a9644dcfbfa19b3e2ba39.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Become a cat in this cozy life sim RPG!",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "455 MiB"
 }

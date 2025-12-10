@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/d0c890cb3ed7dd8b7a70dbf21750e1623257965311dddf944d5d8bdae282a528.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Solve puzzles and unwrap the mystery that lies in the beautiful universe of Krystopia.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "799 MiB"
 }

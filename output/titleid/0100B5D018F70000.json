@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d807d6ac424a7154b8048d7cae2415156a17c4bab7c09c3734fe4dd9765784eb.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Become a friend with fashion!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "440 MiB"
 }

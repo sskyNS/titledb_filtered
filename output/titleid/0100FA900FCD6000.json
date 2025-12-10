@@ -4,5 +4,23 @@
 	"publisher": "Silver Lining",
 	"screenshots": null,
 	"releaseDate": null,
+	"category": [
+		"Action"
+	],
+	"intro": "This setup is for patch distribution and Gold Points calculation only. It's not visible in eShop since the title is available as retail version only.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

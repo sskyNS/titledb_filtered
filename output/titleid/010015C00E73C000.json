@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/62e6bc139dfa245494aded8cf131580b189e7f6c49b79b3fa1f08d2f4e9f34ee.jpg"
 	],
 	"releaseDate": 20190818,
+	"category": [
+		"RPG",
+		"Fighting",
+		"Adventure",
+		"Sports"
+	],
+	"intro": "The ducks are back, but this time they're angrier. Forget racing, now it's time to battle! NO FEATHER WILL BE LEFT UNRUFFLED! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "687 MiB"
 }

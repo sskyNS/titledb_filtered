@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/3da5c7869f0a5b667950d876e77e277d920f346f739ed615d7db47edb3a90581.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "VTuber \"Natsume Kamishiro\" stars in an ASMR visual novel game! Set out on a monster-slaying adventure with the innocent and carefree fox spirit Natsume!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "279 MiB"
 }

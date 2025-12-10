@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4eca96bb9e230782c3e1dde40134c2e6c3948b54219b84be595c5959fdfbed8.jpg"
 	],
 	"releaseDate": 20250715,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "The Fate of The Forgotten Realms is in Your Hands \nReturn to the city of Neverwinter in Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "21.43 GiB"
 }

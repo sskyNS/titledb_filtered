@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5dd1b01bdd4385c7c64dcb07348a5af833166e029134fe73bc7c53d9be83dc9d.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Action",
+		"Lifestyle",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Escape the unknown, survive the unseen.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "725 MiB"
 }

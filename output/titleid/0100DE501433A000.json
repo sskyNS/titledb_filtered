@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f5d9b52b6c1e9f85de3e2677dda931320bc959c96a4f8b8b25b9b3f6cc5a2635.jpg"
 	],
 	"releaseDate": 20211008,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Music",
+		"Arcade"
+	],
+	"intro": "Local or online multiplayer, anywhere, and anyway you play\u2014it\u2019s all Connected!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.05 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f9039ce890a0575e58c65c918ec3ef25069e46dff5814cd8798436aaab02cc5.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The Vulcan cannon spews fire and the homing missiles zoom through the air, \nmaking for a thrilling experience!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "36 MiB"
 }

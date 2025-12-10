@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a2b95bf49b62720a3327084b50e4df3faecdc1a459361218e2d5c5fb44c7952.jpg"
 	],
 	"releaseDate": 20250515,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Gentlemen, start your engines! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "667 MiB"
 }

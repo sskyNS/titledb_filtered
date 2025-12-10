@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/97ca00512dcb75c443517404e54bdc4a88c59e90a47e62a05d3cb0d68d0eefd3.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "Nikoli's original puzzle using only black and white circles for hints.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

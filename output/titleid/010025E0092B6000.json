@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/915dd9681d075d81978c04860d4ed07f19881bc24784d3fc54304608ff1a7ae9.jpg"
 	],
 	"releaseDate": 20180531,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Retro-style Arcade Action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

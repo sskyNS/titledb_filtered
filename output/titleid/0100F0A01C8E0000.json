@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/47d4395940781f97b293d0e5feea4f7d05980ac636f4e1ef0498f77ee48cb112.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "A simple pet care sim with puzzle-style battles! Take care of your jelly \u2013 feed it, play with it, clean it, customize it, and guide it through battles with other jellies!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

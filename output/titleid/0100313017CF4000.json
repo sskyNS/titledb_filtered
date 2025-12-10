@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2dfe7e673de5b391a75a34357f35d96a49a9fc294cca1aee4de605578a90169.jpg"
 	],
 	"releaseDate": 20220407,
+	"category": [
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Challenge your brain with a clever game. Try the most mind-blowing puzzle game available on your console!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

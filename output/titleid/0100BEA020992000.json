@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/504fe2eac9909e4ff451931d68bae204ea6a653651b98d1b2da11aad4ddf9829.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Party",
+		"Communication",
+		"Board Game"
+	],
+	"intro": "Which side will you choose?!\nEraser Army VS Ruler Army\nThe ultimate desktop showdown is about to begin!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "508 MiB"
 }

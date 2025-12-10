@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa6cbf5bb6cc73de8876845cf783999346ab137035597e01e98ed27e16a452da.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Kage, an Iga Ninja, rushes to the evil castle to rescue Princess Kiri.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "74 MiB"
 }

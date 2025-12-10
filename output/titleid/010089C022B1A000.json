@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/01b9875ee61b1b42388de97b46bc3378b9ebb8fa85cbe7176be2418608762e43.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "The Hunt is On: More Than Just Shooting! Uncover hidden puzzles, secrets, and interactive objects in the wildest chicken hunt of all time.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "105 MiB"
 }

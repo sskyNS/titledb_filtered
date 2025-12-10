@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1582bfa6b5ee99923b4fabc643f648d84c25649589d6b03758422854bea5afe.jpg"
 	],
 	"releaseDate": 20240530,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Deck-building Rogue-like shooting game. Imaginative featured bullets, 19 heroes, 41 weapons, 31 types of bullets, 76 cards. Both automatic aiming and manual aiming are allowed. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "319 MiB"
 }

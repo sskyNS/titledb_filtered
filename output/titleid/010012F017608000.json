@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/0b4c2fd88548c9c637e60fd77631cb624168d2491b2c36d6c294919a0fbeab58.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "The fifth installment in the fictional \"GAME BUDDY\" portable game series!\nWork together to defeat the evil organization! ",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "175 MiB"
 }

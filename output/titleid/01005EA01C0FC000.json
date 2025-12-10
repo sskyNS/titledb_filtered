@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbb29b9fb263a9f5603f3c18617097b4a99a3c870aeed5b0b64d52c493eb9290.jpg"
 	],
 	"releaseDate": 20241025,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Sonic and Shadow for a new generation",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "14.68 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f6445f6eaf91a1e68ae4832bb0774830d9a925e7e9bf6677bf1dca4d5f865ac3.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Turn the simplest shapes into something extraordinary.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

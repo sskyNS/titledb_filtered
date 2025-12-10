@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dad6ef791288ff9bc23c73a45e42392f52f0d2b3cbbb27c731f86dd9d7e31c1.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Adapt, fight, and outsmart rivals to earn respect behind bars.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

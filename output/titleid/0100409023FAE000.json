@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac83fd2deefce3ab386a439eb98f87cfd6a891e27c3aab3242d5fd086ae62d4f.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Action"
+	],
+	"intro": "Get ready for kick-off in Zumba \u2013 Soccer Marble League!\nMatch and blast marbles before they reach the goal!\nUnlock power plays and climb the league ladder!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "557 MiB"
 }

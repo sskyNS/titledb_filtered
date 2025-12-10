@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/10c053ed53a4f7400496859282d0af3d616e49382a3cc7d2926e617277a223d1.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Get ready for a logistic challenge",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.23 GiB"
 }

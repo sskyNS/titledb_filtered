@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f10ac5f2da9f4337b791e91b468f4867fb1f2e33b7616249944becd4f4cc3d2.jpg"
 	],
 	"releaseDate": 20210811,
+	"category": [
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Embark on a myriad of fantastical journeys full of intrigue and wonder at every turn in Curious Expedition 2",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

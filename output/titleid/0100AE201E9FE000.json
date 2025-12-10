@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d01a9d0c666f3e44ac200e49a7ad9909f9d74a9c27390166e03960debb29f7d.jpg"
 	],
 	"releaseDate": 20240323,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Music",
+		"Other"
+	],
+	"intro": "Seek serenity in hand-painted \"Spring Bunny Islands\". Uncover 200 playful bunnies hidden amongst the vibrant blooms of 9 unique islands.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

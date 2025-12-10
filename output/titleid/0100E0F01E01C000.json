@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/672224494170f327335bf57a6af363ae82b101372e20ca7df33beae409309617.jpg"
 	],
 	"releaseDate": 20240222,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A bitesized shooter about CHOP GOBLINS!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "925 MiB"
 }

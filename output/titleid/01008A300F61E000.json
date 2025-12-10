@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/00af5b1f8cf69bc1c8bdd9d0ab26d54ba90003ed5be978256fdc678a0ed5f48e.jpg"
 	],
 	"releaseDate": 20210114,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Man can fly",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.68 GiB"
 }

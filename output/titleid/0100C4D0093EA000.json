@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ac20884b2cdeb3fcaa10e0646be1434d8e4f4d15700c0b4ad4025121e7de04a.jpg"
 	],
 	"releaseDate": 20181220,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "10 levels, each of which include up to 5 stages.\nAmazingly detailed hand drawn pixel art.\nTwo modes of game play: Arcade and story mode",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

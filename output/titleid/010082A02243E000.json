@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6a661c84bed19e35db8f3dd96aad45f3deaec6c37f05917ce739d8a4a10510a8.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Adventure",
+		"Study",
+		"Communication",
+		"Education"
+	],
+	"intro": "In the magical kingdom of Lunalia, where the seasons are controlled by an ancestral legacy, two sisters inherit the duty of maintaining natural balance.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

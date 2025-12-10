@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f95d1db30c5b620d5b554c4ff8a10bf33284e2819a1b550a32fa59b9b1d2f58.jpg"
 	],
 	"releaseDate": 20180315,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "The Long Reach is an adventure game filled with colourful characters, puzzles, and a shock of discovery. Wait, weren't we supposed to say, \u201cjoy of discovery\u201d? That can\u2019t be right.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "505 MiB"
 }

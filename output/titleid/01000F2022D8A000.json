@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/941885e7463221cd879ba39b1f55c9107dbe56569efefe274d069b74bace81e5.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Get ready for an adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.58 GiB"
 }

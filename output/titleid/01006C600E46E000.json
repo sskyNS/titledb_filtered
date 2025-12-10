@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc3f33d4a943169f06c505e140b39c287d9a97251938433785d6b33493e4f835.jpg"
 	],
 	"releaseDate": 20200821,
+	"category": [
+		"Action",
+		"Fighting",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Become Samurai Jack, the greatest warrior across time. Journey through time to finally stop Aku\u2019s evil reign in this new adventure told by the creators of Samurai Jack.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.62 GiB"
 }

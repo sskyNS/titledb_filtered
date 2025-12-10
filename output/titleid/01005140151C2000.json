@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c125d90ffcf9923f37426ee2799341704c9c2aa1eee958892eb1de705892aa89.jpg"
 	],
 	"releaseDate": 20210917,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A photo adventure",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "523 MiB"
 }

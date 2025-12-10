@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8e65a1dc3144d825a50b2720e198e5d7a124f68a329b4ba525e0a4c883d28e4.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Asterix, Obelix and their friends are back in a tactical game.\n",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.29 GiB"
 }

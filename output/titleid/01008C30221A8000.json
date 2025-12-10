@@ -8,5 +8,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2fc0f8ce538617979d8401671a55d5c730dc4d847ff2eb0ecf29f4749e70be0.jpg"
 	],
 	"releaseDate": 20250529,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "In Ghost Frequency, you are a ghost hunter from PIT - Paranormal Investigation Team.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

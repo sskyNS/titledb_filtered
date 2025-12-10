@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/67f1e99cd025512ddcc954f128d3c89a17dcd6431d802bedcdc05e52390f9289.jpg"
 	],
 	"releaseDate": 20241025,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Two heroes. One thrilling adventure. A boundless sea of discovery.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.82 GiB"
 }

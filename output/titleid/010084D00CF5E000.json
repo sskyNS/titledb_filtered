@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc35a275d6fcef6340ac853728607d556290d0a4daf751ed8fc3c2e7ebe08cdd.jpg"
 	],
 	"releaseDate": 20200424,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "Experience the complete NARUTO STORM 4!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "13.19 GiB"
 }

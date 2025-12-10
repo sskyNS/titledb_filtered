@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f261dc2ae0697ab07f3090a176eab4d4a1b8e5858f8a212f82f2043c3594126.jpg"
 	],
 	"releaseDate": 20231031,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Music"
+	],
+	"intro": "Become the Master Headbanger ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.88 GiB"
 }

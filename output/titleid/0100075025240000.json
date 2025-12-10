@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd4eb2f863150c8214875e7f3858538916d45c22a3360465771a8f22e805afce.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Arcade",
+		"Action",
+		"Board Game"
+	],
+	"intro": "The second in the BEE series! New charm for the block-breaker genre!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "100 MiB"
 }

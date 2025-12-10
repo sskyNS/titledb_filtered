@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a4c2d89f3fa2eddfe96540e115bd182a155f8a50684528a55d539aa66757f3b.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "An epic reimagining of the cult ARPG, now with stunning 3D graphics and completely revamped gameplay.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.15 GiB"
 }

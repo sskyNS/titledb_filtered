@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/08d1b06ba06bb101cbd2a4ec959c7fa8db70110301cc1d733c090230c76e52f1.jpg"
 	],
 	"releaseDate": 20181025,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "Playing Chicken Range is simple, shoot as many chickens as you can before you get covered in eggs!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "180 MiB"
 }

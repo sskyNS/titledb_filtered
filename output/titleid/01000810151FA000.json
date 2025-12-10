@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b29bb5a8281536206d8016d2f3bba96695d48f83d1456e9bf157dcf6927427f.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Efina is a very special young girl. \nShe's curious. She's optimistic. She's also a dragon.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "613 MiB"
 }

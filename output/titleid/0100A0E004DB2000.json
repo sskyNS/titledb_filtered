@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/31268c3caf3ea18869bd563f3832c988f8587f1fac9d0afd1edb8bacc576040a.jpg"
 	],
 	"releaseDate": 20170727,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "The very first realistic soccer game released on NEOGEO! Win exciting matches, and aim to seize to the \nChampion Cup!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

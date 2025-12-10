@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd65dc461cf244fca631684b98f606a0c8a34d4bf000b32f8965df8652051653.jpg"
 	],
 	"releaseDate": 20250124,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Track your prey. Feel the suspense. Become a legendary hunter!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "636 MiB"
 }

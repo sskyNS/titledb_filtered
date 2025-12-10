@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e520f1b1e2700327504d1bf6eba0c71c4f8613295d79ccbac28ef8bed7cffb8d.jpg"
 	],
 	"releaseDate": 20231017,
+	"category": [
+		"Platformer",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Super Fast. Super Fun. Superstars!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.48 GiB"
 }

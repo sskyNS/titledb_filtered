@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c63fe646fe97c76580bef0c76d6f3594bdef5890ce34a280ad01c9360fb7af14.jpg"
 	],
 	"releaseDate": 20200908,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Challenging platformer, with new levels every time you play - Can you defeat the end boss?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

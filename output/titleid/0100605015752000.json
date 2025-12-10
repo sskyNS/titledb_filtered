@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/5af5fb0fd3c4f6ea6ef663ff8107a6217a5d1814f62ecf37c55b400053d4f323.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Party",
+		"Lifestyle"
+	],
+	"intro": "Remember the times when you were a kid? With tiny hands and tiny feet? Take your favorite toy, remember these moments of joy, pick some for your friends - and laugh until the game ends!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "321 MiB"
 }

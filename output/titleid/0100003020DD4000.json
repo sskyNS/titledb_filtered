@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/352b10cc42237238b66b957e8759aff5a87ce98f92ca0dce380fef629c6858ec.jpg"
 	],
 	"releaseDate": 20250307,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Play as a charming Mech unit to discover a world overrun by corrupted AI!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.71 GiB"
 }

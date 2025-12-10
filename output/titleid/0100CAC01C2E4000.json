@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/351f5c969bec7759d7cc1acd6369dd5ffbbd5c8ed2761724b4928a1f7d7fa944.jpg"
 	],
 	"releaseDate": 20241210,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Fighting"
+	],
+	"intro": "See the origin of the Mighty Morphin Power Rangers again \u2013 for the first time!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 6,
 	"size": "863 MiB"
 }

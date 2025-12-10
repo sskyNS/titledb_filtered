@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/174bceb135760fe4e38cfac995c876b133078a0b0b27c2b37e71a72b47d650e7.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "ASTROSMASH\u00ae was originally designed for the Intellivision\u00ae console in 1981. This reincarnation is much more exciting and more visually appealing.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "766 MiB"
 }

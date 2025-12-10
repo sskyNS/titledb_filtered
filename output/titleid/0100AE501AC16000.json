@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/59781fe61e9d8ca4a3bdafcbfa768668aa5afc3913702f292e954898dae7ec3b.jpg"
 	],
 	"releaseDate": 20231115,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Communication",
+		"Multiplayer"
+	],
+	"intro": "Find out who it is while making the dish of your dreams!",
+	"languages": [
+		"ja",
+		"en",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "221 MiB"
 }

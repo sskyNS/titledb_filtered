@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fac478714eb5d6cd02e47c06eaad64e161f70d595ca6aad303ed16b635860c64.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"\uc5b4\ub4dc\ubca4\ucc98",
+		"RPG",
+		"\uc2dc\ubbac\ub808\uc774\uc158"
+	],
+	"intro": "\u300a\ub9c8\uc774 \ud0c0\uc784 \uc573 \uc0cc\ub4dc\ub85d\u300b(My Time at Sandrock) \uc758 \uc0c8 \uc8fc\uc778\uc774 \ub418\uc5b4 \uc0cc\ub4dc\ub85d\uc744 \uad6c\ud558\uc2ed\uc2dc\uc624!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.97 GiB"
 }

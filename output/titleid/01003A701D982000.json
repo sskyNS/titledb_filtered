@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4100e294779806b7a92242e6f8307b7cec00bf8159afd38723f790ed39a79de5.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Platformer",
+		"Action",
+		"Music",
+		"Adventure"
+	],
+	"intro": "\"One of the finest music games ever made\" -IGN",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "699 MiB"
 }

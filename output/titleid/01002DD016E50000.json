@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a7a710b8190623748a21ee971cec5e953162638f49bb30bc64fb80014228f88.jpg"
 	],
 	"releaseDate": 20220624,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Puzzle"
+	],
+	"intro": "Ten of Capcom's most popular arcade games in one epic collection!\nAll titles support online play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.23 GiB"
 }

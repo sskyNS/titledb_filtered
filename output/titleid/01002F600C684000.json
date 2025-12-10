@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4d76564efc19e09f71e537173dd53e84dc99b5bed096821601baec2a0f954c0.jpg"
 	],
 	"releaseDate": 20190118,
+	"category": [
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Fight with the Divine Powers!",
+	"languages": [
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.51 GiB"
 }

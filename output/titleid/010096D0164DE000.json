@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dd7ffa13c438a3f5b1b57b533bf9d679402e38fb2237bfb0ad3f8b701ba31f4.jpg"
 	],
 	"releaseDate": 20231011,
+	"category": [
+		"Education",
+		"Adventure",
+		"RPG",
+		"Study"
+	],
+	"intro": "Discover a new language with Terra Alia \u2013 a unique language learning experience where you can embark on a thrilling RPG adventure in the world full of magic and mysteries!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.14 GiB"
 }

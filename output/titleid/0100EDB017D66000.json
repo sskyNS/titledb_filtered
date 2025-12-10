@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c5c30c10f91fd83cceb54ea52e9430f458561eccfb4be90e15eea800b7e1a99.jpg"
 	],
 	"releaseDate": 20220714,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Guide a burger loving llama in its quest to defeat the Hotdog Aliens",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.00 GiB"
 }

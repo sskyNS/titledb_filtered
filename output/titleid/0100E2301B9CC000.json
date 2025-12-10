@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a4150a73b04801dbb66d3e5386c17a46e1ac4201bb8268a2c9f6f0140d0a9d6.jpg"
 	],
 	"releaseDate": 20240209,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Get ready to serve in Manitas Kitchen! Here you play as Trexito, a T-rex with tiny hands and a big dream: to be the best pizza maker! But beware the secret underneath the restaurant...",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "381 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/967962561abd56c18ee7a91ae243edb55ecc38efddd7176d2a9fc710a262a2e8.jpg"
 	],
 	"releaseDate": 20241122,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Welcome to Project 13: Taxidermy Trails, a Walking Simulator set in a mesmerizing Taxidermy Museum. In this immersive experience, you assume the role of an kidnapped Probant forced to find a way to escape. Complete all 13 Walks to get out of this Nightmare.\n\nYour mission is clear: report any anomalies you encounter during your walks. But beware, a single misstep means starting over. Only by consistently reporting accurately will lead to the real Exit.\n\nFeatures:\n- Repeating Museum Corridor: Explore a hauntingly repetitive environment, where each step could lead to discovery or deception amidst the eerie displays of taxidermy.\n- Over 35 Anomalies: Uncover the secrets hidden within the museum as you encounter over 35 unique anomalies. Stay very vigilant, as every detail holds significance.\n- Confirmation After Each Walk: After each walk, confirm whether you experienced any anomalies. Your precision determines your progress.\n- Escape on the 13th Walk: Success lies in your ability to navigate the corridors and accurately report anomalies. Reach the 13th walk unscathed, and you may find the exit.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.77 GiB"
 }

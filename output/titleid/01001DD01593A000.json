@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f01c8aed61b166a341ce3944d7862e1f027deed660e979721f481c9437363fde.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Strategy"
+	],
+	"intro": "Live this adventure with the cute watermelon block. Solve puzzles, overcome obstacles, challenges and live adventures in this beautiful watermelon world",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "37 MiB"
 }

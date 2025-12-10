@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/27e2307b7e42eac634fe4f34d61a9866e845e05660b3e1a88106b34088b28baa.jpg"
 	],
 	"releaseDate": 20200804,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Spitlings is a cute but hardcore Arcade game that\u2019s made for playing its hundreds of levels locally/online with friends.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "613 MiB"
 }

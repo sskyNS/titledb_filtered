@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9020ef9fb30b6e251801e04af8e531421c818160dddb7e19bb59f145ed157394.jpg"
 	],
 	"releaseDate": 20190704,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Education",
+		"Board Game"
+	],
+	"intro": "\"Blows us away\", Apps & A's - \"I can only sing praise\", Indie Corner - \"a pure delight\", Player One - \"an easy recommendation\", TouchArcade",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "532 MiB"
 }

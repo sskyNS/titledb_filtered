@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/12c07b9f4699fcdd9be9dc8f6d0b7dbbf6e285848c57a66b74c4e347faca3e97.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "High-Speed Ball Action!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "58 MiB"
 }

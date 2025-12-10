@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3176a6cd457eb6759d4179df529add575620767eacea687e791ef4cfc8f84cbb.jpg"
 	],
 	"releaseDate": 20240207,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "HunterX: code name T is an action adventure with fast and stylish combat.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.79 GiB"
 }

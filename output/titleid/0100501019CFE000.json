@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2179ec52b5d1770646d2c799497407523d05785d0d5dce3e8964570e4f04b868.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Arcade",
+		"RPG",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Fight your way out of a planet prison in this 2D hand-drawn roguelite platformer!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

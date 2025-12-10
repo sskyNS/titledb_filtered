@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f1c039cdf84b32e1762a24bb5f5f2cb80e06c05cbf288bf522f7beb5bb2ad12.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Manage a ranch while training your racehorses to race for a Triple Crown.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

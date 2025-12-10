@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bedd350faed851a497076de11fed51074fa1e5aa5d8d4756b68c30135176cf1e.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Soar into an action RPG adventure to rescue Thunder\u2019s family, fight fearsome enemies, and save the underground kingdoms of dragons.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.36 GiB"
 }

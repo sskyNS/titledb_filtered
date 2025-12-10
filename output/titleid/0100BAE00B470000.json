@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8be2309245a7ac1f87d40e7e66dcc0ef6f915ed624797dad31d04e000a930da6.jpg"
 	],
 	"releaseDate": 20181008,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Evil chose the wrong day to double-dip.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "646 MiB"
 }

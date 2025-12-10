@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/afb05addda3d1188ef5bbfd5a17060f5fc47cb1dd5eefd4a9f844eb88878f5ce.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Shoot your way through the pages of an ever-changing comic book in this fast-paced roguelike. Play solo, in local or online co-op, and grow stronger with each run.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.28 GiB"
 }

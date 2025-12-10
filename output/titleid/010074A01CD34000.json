@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/efdeb972087efb1ea86a96a509fe2bd21aaf742dc984a626533984b83d213426.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Dive headfirst into the chaos of a ravaged world, where survival means mastering the art of combat and outsmarting your foes.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.90 GiB"
 }

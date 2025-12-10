@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd4bddd23981625caabc214a988bcad0560af7a2f4330224b12beb741b57e6d0.jpg"
 	],
 	"releaseDate": 20210514,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Descend into the depths of an alien underwater world filled with wonder and peril.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.00 GiB"
 }

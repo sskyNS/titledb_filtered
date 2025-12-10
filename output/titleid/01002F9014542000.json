@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f34c72b56652426abd67671fa42199ef447b648dbd34cd53f2103268ed50fda.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "The game inspired by oldschool street drifting in early japan with deep customization and ability to build a car from scratch! This game is the coolest you can play.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e143794dac8a898a7bb551b28fb2fbe0c8dee02fef65f64aaab797f3f3e6a0d.jpg"
 	],
 	"releaseDate": 20210330,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Sports",
+		"Other"
+	],
+	"intro": "RetroMania is a fast paced  pick up and play 2d arcade wrestling game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.17 GiB"
 }

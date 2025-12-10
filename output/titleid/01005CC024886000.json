@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/883264433e21ba4e7a0117cd45e03e01430ec185fca87a6c92e7ac7333e79a09.jpg"
 	],
 	"releaseDate": 20250823,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Rebuild what was forgotten. Reveal what was hidden. Can you solve it, Detective?",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.41 GiB"
 }

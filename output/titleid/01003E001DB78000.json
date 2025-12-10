@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/909d973ed1bfcb530cf522da653478ec00cffdc6b396693786b5c2c87171ca0f.jpg"
 	],
 	"releaseDate": 20240131,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action"
+	],
+	"intro": "More than 12,000 units battle on the battlefield!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "150 MiB"
 }

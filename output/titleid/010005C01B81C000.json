@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec06db0fd696a5e2cf9345587a11cc620e67a305d46a4b874088dfe9683246d4.jpg"
 	],
 	"releaseDate": 20230601,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Everything is destined to change.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

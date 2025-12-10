@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b1b528f1dc1d86e1d171462a906f44297586eea5a7bf480aa26afc87ea97fc3.jpg"
 	],
 	"releaseDate": 20210129,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Hunt. Die. Hunt again. Master the frantic score-attack arena shooter FPS set in a world of horror and gore!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "568 MiB"
 }

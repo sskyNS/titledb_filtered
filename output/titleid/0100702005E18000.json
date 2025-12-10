@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dad729d00ad389c47c9ee53093b89b20ca2abf0e65cf69c76c0eb117212b6f3.jpg"
 	],
 	"releaseDate": 20171221,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "It's gone! My game is lost! Take back to hunting for consoles hidden by Mom!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

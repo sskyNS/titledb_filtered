@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6446ea42e9e7ba3c22647697b25c5d931a508c4e3bc339a807bf1653cec7804.jpg"
 	],
 	"releaseDate": 20200116,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A story-driven experience about two doctors traversing backward through a dying man's memories to artificially fulfill his last wish.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "823 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/6312d6a46644cd09501182f7000e22369574cd3833f37da12ebed252d1ea8ca7.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Party",
+		"Arcade",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Get your territory! Move and color the tiles!",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "398 MiB"
 }

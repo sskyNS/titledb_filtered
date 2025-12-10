@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/254a1226eba8c42f7ebbaab7441f97d89e516ff3d7f241b02cd9dbdd57c4c846.jpg"
 	],
 	"releaseDate": 20240920,
+	"category": [
+		"Racing",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Ignite your imagination and jump into your vehicle to tackle missions and win races.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.49 GiB"
 }

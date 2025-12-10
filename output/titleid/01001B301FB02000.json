@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/93f95eeddf6aa0396ab6ab2008c7ae46fc2faf71d9f66d1b08b5ac4159c7f2cd.jpg"
 	],
 	"releaseDate": 20240826,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Jump! Yes, every time you jump there is an action and you activate the puzzles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

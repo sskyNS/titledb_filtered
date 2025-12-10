@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a54cd7d33d4cd0a7606352c6bf09abf22c1fb362e69bd567bbf4c2868ae9b310.jpg"
 	],
 	"releaseDate": 20210316,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "The hit RPG returns! From the minds of the bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston, comes Kingdoms of Amalur: Re-Reckoning.  Remastered with stunning visuals and refined gameplay Re-Reckoning delivers intense, customizable RPG combat inside a sprawling game world.\n\n----------\n\nUncover the secrets of Amalur, from the vibrant city of Rathir to the vast region of Dalentarth to the grim dungeons of the Brigand Hall Caverns. Rescue a world torn apart by a vicious war and control the keys to immortality as the first warrior ever to be resurrected from the grips of death.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "13.11 GiB"
 }

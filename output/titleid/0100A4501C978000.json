@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/6407518f61935c9d2bf8cada545723d7f61e549b72489c1fb24cf0c0b879fbd8.jpg"
 	],
 	"releaseDate": 20240208,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "European adventure continues, again!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "634 MiB"
 }

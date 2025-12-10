@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/77387140b1045aba40ce7f0992b8ab0951541ddf63f0378196e2fe3660ee8ee8.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Communication",
+		"Education"
+	],
+	"intro": "What Comes After is a side-scrolling adventure and a heartwarming story about learning how to love yourself. Help Vivi in her journey on the train to the afterlife and back.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "263 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/956faa36f55bd23835d7a11152b3f7039aa95afe58e7b131eae12c19daf52fcb.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Find a way to get home",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "756 MiB"
 }

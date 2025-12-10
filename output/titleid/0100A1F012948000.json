@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3604667d343c3536d932a8dac5d0df4bad5df14d03185c1353fc92fd1e70de68.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Play as Fox - the space cyborg, who has to win the grand robot-fighting tournament, to be granted a chance to go back home!",
+	"languages": [
+		"en",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.29 GiB"
 }

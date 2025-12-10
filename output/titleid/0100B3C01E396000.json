@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/14ce12eed806e111571a5346a6f76b964d9d5b9d891dbe75dc69d116cb319671.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Other"
+	],
+	"intro": "An intense, fast-paced, and super-sweet tank shooter game.\nDefend your home world from evil grey tanks.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "566 MiB"
 }

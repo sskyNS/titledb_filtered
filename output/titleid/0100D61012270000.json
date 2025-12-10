@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/694ed938f5f5ba1ebd1605757f6bedba3ef38b2b9c81dc7766126f08d300412e.jpg"
 	],
 	"releaseDate": 20200619,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Kick off! Super Soccer Blast is an arcade-style football game. Grind your way up, improving your soccer moves match after match, to crush your opponents and become the best.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "369 MiB"
 }

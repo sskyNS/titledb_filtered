@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa07d2c8f9abf1a73d0422ea2f3a4ca22a31e8f24ac48e2c7374f075bc5930f5.jpg"
 	],
 	"releaseDate": 20211202,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Board Game"
+	],
+	"intro": "A quiz game that will help you learn about geography, foods of the world, flags, literature, history, sports and many more categorise, in an easy and enjoyable way.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de57d3a8c0d45bc7df42efba6ebdb6807f9b653d22bd3f92b2c5061bfedc3754.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Action",
+		"Other"
+	],
+	"intro": "Caught in an infinite alley, look for Street 10 to find your way out.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

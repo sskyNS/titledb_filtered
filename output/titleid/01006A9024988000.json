@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/597b69867c0c3014fd709efc5c14e3581b2aa6dc67eefc6a5c502da86fb6cc02.jpg"
 	],
 	"releaseDate": 20250813,
+	"category": [
+		"Arcade",
+		"Party",
+		"Action"
+	],
+	"intro": "A group of ducklings finds a mysterious 100-in-1 cartridge and are now forced to play all the games to escape the insidious cartridge spirit!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 5,
 	"size": "633 MiB"
 }

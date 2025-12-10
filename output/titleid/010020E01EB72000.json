@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f31199865f106e0193d3196dd42dc93edda98ff5882e3c63e89a573c1a7598a1.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Village elder, help us! Assign your workers and build a thriving village! DotAGE is the merciless survival roguelite turn-based city builder. Will you fulfill the Prophecy?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "789 MiB"
 }

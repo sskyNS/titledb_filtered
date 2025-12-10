@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b313d727dd36641c0c55df1b579a16663e0f51dc3f6921437e2c4a0ce169df8.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Rebuild, redesign and make your dream homes!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

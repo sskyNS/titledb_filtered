@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ffd0991d96a91e63e9e3bbd68e560193bb83ecc40c92828d4637d6eb9e26461.jpg"
 	],
 	"releaseDate": 20240602,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Dare to Dream, conquer Mars and Secure Humanity's future.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

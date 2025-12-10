@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a92e5ad0195229507b68ecacfbf9d074c442fca06a80bf9cd5766a63aa9e096.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Drive Fast. Drift Hard. This is Fast & Furious: Arcade Edition",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.57 GiB"
 }

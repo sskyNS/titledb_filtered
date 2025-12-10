@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd32847399c8aa65d5a149893200facb128b0e55ed5242c7837d8c9c0a9afdd1.jpg"
 	],
 	"releaseDate": 20210302,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "More Trucks! New Worlds! \n\nPlay with your friends in brand new online and split-screen multiplayer modes!\n\nExplore 5 huge outdoor worlds and unlock their secrets!\n\nChoose from 38 official trucks and upgrade them over the course of your career! \n\nCompete in authentic stadium events and race in various modes to become the ultimate champion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "9.18 GiB"
 }

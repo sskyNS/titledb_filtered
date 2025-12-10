@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/06153612b1035265f0ba2cfe7b2f30f7222ac1c5164709312502d6dbe08ed7a9.jpg"
 	],
 	"releaseDate": 20210930,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Alma must traverse the vast city of Arcadia before the life force of her friends and herself withers away. Who will you save, and who will you leave to turn UNSIGHTED?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.50 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1542802f0e5ae9dc4e42cd44e5786348cbe7fe88073484b2be025a7149ffe933.jpg"
 	],
 	"releaseDate": 20250501,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Experience the further evolution of XEVIOUS!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

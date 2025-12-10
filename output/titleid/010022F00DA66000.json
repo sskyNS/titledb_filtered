@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe59186004fe39ebe546fc2b13dfb74cd140319a0c46a2f7ccebcd2e596e2fb2.jpg"
 	],
 	"releaseDate": 20191008,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Yooka & Laylee are back in a brand-new platform hybrid adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.84 GiB"
 }

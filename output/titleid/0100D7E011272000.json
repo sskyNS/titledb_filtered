@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/733fbe1aa0ec8626338cf21fd1293ebadeb205e8ff0e22a9207cec788e65924c.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Carnage is an epic car combat game with tons of cars, destructible environment, dozens of glorious maps, realistic physics and a unique, blocky art style.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "900 MiB"
 }

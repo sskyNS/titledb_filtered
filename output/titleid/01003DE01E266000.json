@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/98d12a78f36d1e09ad8a337b2440247e01e6259032a941f4834ed676b0e3ea1f.jpg"
 	],
 	"releaseDate": 20250630,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Defeat legendary abominations, build-craft unstoppable combinations of enchanted items, investigate an ancient evil, and ascend to freedom!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "360 MiB"
 }

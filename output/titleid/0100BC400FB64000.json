@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee3646b35a201a4438705bcad20a6b897d4a5fb0d61281c716a439fdaf6bc98e.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Balthazar's Dream is a platformer with puzzle elements",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.22 GiB"
 }

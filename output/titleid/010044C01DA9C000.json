@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/49de48574a1008f4332a46dee07e52c43ba9dcb95e653b8acd32421a756568fe.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "The Earth is sick and we are the disease. All hope rests on Gaia.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.66 GiB"
 }

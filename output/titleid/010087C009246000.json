@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6300afd88ed16387c1cbdbef24655dbcb74ebdc11c3a67626b5f277ececff5b1.jpg"
 	],
 	"releaseDate": 20180710,
+	"category": [
+		"Multiplayer",
+		"Racing",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Multiplayer Octopus Party Madness",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "393 MiB"
 }

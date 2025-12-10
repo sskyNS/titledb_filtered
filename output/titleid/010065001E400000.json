@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/43ef5c303141e285e84fc4d57ed1cdcef4dafa238037cf18a7885192ede0161a.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Shooter",
+		"First-Person Shooter",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Welcome To The Conway Estate!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.19 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b0668e0dc82d28795a5aa3ade262417a137da112be2a6d7f239257fb72e99f5.jpg"
 	],
 	"releaseDate": 20190221,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "\n\"Croc's World Run\" is the newest part of the Croc's World franchise!\n\nIt features:\n+ 50 incredible levels \n+ Nice HD-Graphics\n+ 4 different Worlds\n+ many challenging enemies\n+ easy one-button-control\n\nInstructions:\n1. Croc runs automatically!\n2. Try to avoid all enemies or jump on them (don\u00b4t try it with the hedgehog or the mean fish)! \n3. Just press B to jump!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "595 MiB"
 }

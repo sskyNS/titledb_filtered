@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5782362e9aca0c5af81a317aff4bedec6779a29e717cfdb248370763e64b5447.jpg"
 	],
 	"releaseDate": 20240909,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "The toughest prison sim in the yard is back to serve its 3rd consecutive sentence!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "460 MiB"
 }

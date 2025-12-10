@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d291054c5fcf042d6a48113f5ece50f815349bd10064819b34a07445bf42bf17.jpg"
 	],
 	"releaseDate": 20220331,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Defeat the Warudemon Villain that threaten\nyour peaceful world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "122 MiB"
 }

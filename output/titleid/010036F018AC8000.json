@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb28a583db04cfe0e1be645cb005d6600efb8f38789640c80aa19fb32bab2975.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Nuclear Blaze is a dynamic 2D Action game in which the player plays as a firefighter air-dropped in the middle of a mysterious burning facility.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

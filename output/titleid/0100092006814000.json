@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/708af0c2c20144db783d94194090c53e5cf524744e4f5e27322a61f1fff41670.jpg"
 	],
 	"releaseDate": 20181029,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "The new standard developed by veterans of tennis simulations: play as one of 30 professional tennis players, learn all the shots, master each type of surface and experience a realistic career mode. Define your style of play and tactics to become n\u00b01 in the world!",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.05 GiB"
 }

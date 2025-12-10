@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c67302a2905ee7d4f45dd1059b175fbccc665dda29551dabb164599260e5d05.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Embark on a monk's journey to enlightenment. Traverse a mystical forest, face evil spirits and solve challenging puzzles to become a Buddha.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

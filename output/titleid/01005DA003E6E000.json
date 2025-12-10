@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/bde8427501f882cc33b5fa006a5a3b196bf29ee015c4e074bcef2299692e73be.jpg"
 	],
 	"releaseDate": 20180820,
+	"category": [
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "A mass stealing, robot morphing shooter where size matters",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.72 GiB"
 }

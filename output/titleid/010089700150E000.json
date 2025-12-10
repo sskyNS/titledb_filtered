@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e40abcf02e0a84c79214f24c3d0e21989aba659b3d188e401f1c577fc2906b7b.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "They bear the mark of the Astral Dragon in this dark fantasy style action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "696 MiB"
 }

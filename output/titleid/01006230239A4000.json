@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ffdd9cba2a8ff3157f3ead6062aeb06fc7b21212fd836ed49efff1045efe9ec.jpg"
 	],
 	"releaseDate": 20250712,
+	"category": [
+		"Simulation",
+		"Education",
+		"Arcade",
+		"Training"
+	],
+	"intro": "Your Journey to the Perfect Catch Begins Here.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.72 GiB"
 }

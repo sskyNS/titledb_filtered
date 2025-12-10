@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9928ba61c653432d98fdc611421bdd88e309ddc4dd37810c440eb210655a901.jpg"
 	],
 	"releaseDate": 20221109,
+	"category": [
+		"Racing"
+	],
+	"intro": "Feel the excitement of the 90s in isometric racing style!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.81 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1bc34a2b3b35bea93842f4ceae2ba39027f3a65f4574b8e6a626464c300055b.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A classic pinball puzzle game in which you have to roll the ball to the end of the maze!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "76 MiB"
 }

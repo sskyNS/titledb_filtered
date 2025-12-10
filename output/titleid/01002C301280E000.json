@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5732fdf8cb36ae07adb1f2229161be928f4111b62addccbf5ab1aa66ac7b93a.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Official Vampire: The Masquerade game. A single player game with beautiful graphics and deep story.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.37 GiB"
 }

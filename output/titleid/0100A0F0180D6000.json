@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ada67bd8d65e1ccc6bb015120adb30391e310afceb191b6cc48bcc4ad963876.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "In the beginning, there was the King.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.20 GiB"
 }

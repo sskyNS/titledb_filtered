@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bedbf05fc7c146cd3dcdd5bc0838b138f8f62ddb3443c63e2f780444fb793d98.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "The Last Campfire is an adventure, a story of a lost ember trapped in a puzzling place, searching for meaning and a way home.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.58 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f841620ece1d44812a70ff44e1f2d5cdd3caf9821deaeb4220e604d5cbb40cda.jpg"
 	],
 	"releaseDate": 20210521,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education",
+		"Other"
+	],
+	"intro": "Hi, I\u2019m \u201cT\u201d. Was my Dad a spy during the Cold War? Help me investigate!",
+	"languages": [
+		"en",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.09 GiB"
 }

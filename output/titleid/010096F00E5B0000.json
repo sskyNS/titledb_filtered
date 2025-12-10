@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d76f6f69b511af526e09c2888defcf3b5b2b54da320fdc2c1815aff76275530c.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "The year is 1983. The world teeters on the verge of destruction as the Cold War tightens its icy grip. East or West - trust no one, question everything.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.59 GiB"
 }

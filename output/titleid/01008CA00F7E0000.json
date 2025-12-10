@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed6768f0e18adc1017bc33a155c78835c2db5b14e30b129710369c731b201ceb.jpg"
 	],
 	"releaseDate": 20191114,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Perils of Baking is a 2D platforming love letter to its retro inspirations.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "163 MiB"
 }

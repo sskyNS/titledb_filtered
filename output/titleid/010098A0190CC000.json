@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a6647ae3d40d72507994da39a85ada05db2e9bb535bba28a0b91f63eb1cda1e.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "Take part in drifting challenges! Tune and upgrade your car, install parts and boost performance! Legendary drifting circuits and maps!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

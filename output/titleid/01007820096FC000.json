@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9a94120ac355255c4349923f193f390c914930576f983b06e73ee6504e47ff5.jpg"
 	],
 	"releaseDate": 20180809,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "The Dungeon of Doom awaits...\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

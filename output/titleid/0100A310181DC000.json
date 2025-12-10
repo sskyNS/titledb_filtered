@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a86bf9b97b4c4a9b5565b025954c74a165bea94595212f8c4842aff6eb811b3.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Rail Trail is a game where you need to create rail systems that will guide to gold to its destination.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "96 MiB"
 }

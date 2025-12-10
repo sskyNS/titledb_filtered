@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9885639980eb9dec955683930310177d6e89fbb0543ea93cd5a355cac6efb8c6.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Nintendo Switch\u2122 exclusive! High-quality graphics show battlefield reality. Team-based tactical gameplay with comrades. FPS with excitement and precise gun control!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.38 GiB"
 }

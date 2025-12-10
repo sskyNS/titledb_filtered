@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b93e100ca630318679b4dce6ce1709d6ff3dcdd1a3b2d41d9d69a1cc89bee704.jpg"
 	],
 	"releaseDate": 20221214,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle",
+		"Platformer"
+	],
+	"intro": "Find inner peace in a small, open-world game. On these carefully handcrafted islands, you can take a nap on a giant monster, feed baby dragons, take care of the fauna and flora... ...but demons from your past might come back to remind you what you want to forget.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2dc32626c6cecdf727446ae5a5159061fb1d73932836817424710cd69988f5a9.jpg"
 	],
 	"releaseDate": 20240511,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Immerse yourself in the ethnic world of two heroes, solve puzzles and overcome obstacles together, explore the fairy forest and other locations, help each other.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "749 MiB"
 }

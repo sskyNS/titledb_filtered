@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3d8a03e512ba84633fcd815eae1a6835de6477a47b118fdb6577a0d34ba7422.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "A charming world of classic jigsaw puzzles, where cuteness and coziness meet exciting gameplay.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

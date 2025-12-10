@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f1e1f38d4b768401f09708d839a983809c0aaa655523b3c4ce71e639b3bafdd.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Put the pedal to the metal! This is our road. Power up and ride on through.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

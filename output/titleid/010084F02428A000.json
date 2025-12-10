@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fc9d68853642a85cf6f5aabe860aaac86cae32883bbe608c83c630f99634a53.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "All of You is a cute, family-friendly visual puzzle adventure with a unique mechanic that lets you play and pause time to find the right path.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

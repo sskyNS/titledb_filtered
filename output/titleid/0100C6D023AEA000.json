@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/17efd3edee11f43129f8701dba5c02e7e4da5fd576fe01b35e393faa21e81619.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A purrfect puzzle among the stars!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "458 MiB"
 }

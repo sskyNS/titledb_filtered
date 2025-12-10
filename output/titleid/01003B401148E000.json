@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9fba7ff37f13c3884f2af6fe5080240c9597447740cbf72bd35f7091247485f1.jpg"
 	],
 	"releaseDate": 20200401,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Music",
+		"Other"
+	],
+	"intro": "Experience a 10 minute dive into the unknown depths of the multiverse!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

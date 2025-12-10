@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4020b6b3eba92589f6eb67fd9e4b01a52598a79c27ff463038900f7e10c6cdef.jpg"
 	],
 	"releaseDate": 20220204,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Fighting",
+		"Other"
+	],
+	"intro": "An action JRPG straight from the depths of hell! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.99 GiB"
 }

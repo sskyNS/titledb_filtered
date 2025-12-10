@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ac8cf176deddf8d4bc4224db3f62c138621c9831a4ced555204af79f7046da3.jpg"
 	],
 	"releaseDate": 20170330,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take back the METAL SLUG and defeat the Rebel Army! Intense and breathtaking run-and-gun action shooting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "162 MiB"
 }

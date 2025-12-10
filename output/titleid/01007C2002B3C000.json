@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8114ba163efd62705d4b53930e5dd03b4a1499ff196abf6c5bf426c32cdea57e.jpg"
 	],
 	"releaseDate": 20170629,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Action",
+		"Adventure"
+	],
+	"intro": "GoNNER is a tough as hell procedurally-generated 2D platformer with roguelike elements, following the largely misunderstood and altruistic Ikk on a journey to cheer up his only friend in this world - a giant landbound whale named Sally - by searching for just the right trinket in the deep and dark places nearby.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "606 MiB"
 }

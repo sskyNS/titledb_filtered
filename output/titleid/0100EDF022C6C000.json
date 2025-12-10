@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6cb18fa7f6db3d733b8b47736beb5e36573a2ad5a344cbf7a6103475503a063f.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Train your mind, enjoy the process and discover new facets of pleasure in the world of Sudoku!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "186 MiB"
 }

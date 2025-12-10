@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2068fa563302024c0439d2c58b72a11eaca1ec75b90c7e4345e67fcc5cd733b4.jpg"
 	],
 	"releaseDate": 20220122,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Education",
+		"Study"
+	],
+	"intro": "100 levels from developers and many levels from other people\nFor children and adults\nCreate your own levels and share with the whole world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "297 MiB"
 }

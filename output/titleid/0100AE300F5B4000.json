@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e462876551d3bd78ed1151d298c17a305b8453c1635b20d33a8f0a79dff38ba.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Con your way through the zombie apocalypse!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "369 MiB"
 }

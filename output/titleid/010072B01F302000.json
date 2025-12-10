@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fddc5803e73f04cf0462eda44073c68294d18708a12525415cd1c0d9e50c5fd5.jpg"
 	],
 	"releaseDate": 20241127,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Do you like rescue games?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

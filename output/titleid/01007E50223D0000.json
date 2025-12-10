@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/12dba75ba2bed52da563c5b2a972f9d4fb6b98522f9766bef47a09a7629529db.jpg"
 	],
 	"releaseDate": 20250317,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Dive into an incredibly fast-paced and beautifully crafted retro runner! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "71 MiB"
 }

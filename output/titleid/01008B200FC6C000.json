@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c22b42bab3323b64a2c572ee2565c71817fc1dc4ce7ee5daadb65d2a4cf2e42.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A 2D adventure in which you play as Skinny, a teen-skeleton with an impertinent attitude, willing to do anything to save his best friend's soul from eternal damnation!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.06 GiB"
 }

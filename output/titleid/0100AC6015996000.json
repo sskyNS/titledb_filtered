@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c88b430de7f56cd762626661558099ef016ac4926e0806d2ea9cf9cd0a032cb.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Party",
+		"Fighting"
+	],
+	"intro": "Fight of Animals: Arena is a fighting party game with meme animals! \nThe game supports up to 4 players offline or multiplayer!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

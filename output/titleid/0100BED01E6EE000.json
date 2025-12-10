@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/379a7e6d52a0e9f83b4d734b2ec70c70444424540f5c634cd578fae8955bff25.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "SWORN is a 1-2 player co-op action rogue-like. Explore and reclaim a fallen Camelot from the reign of a corrupted Arthur and his Knights of the round table.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.80 GiB"
 }

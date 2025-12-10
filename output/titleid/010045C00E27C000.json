@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f02bd8bac0045a3e8f94bf4fc396779a2034dfd1cca1ed55828329f6ac20513e.jpg"
 	],
 	"releaseDate": 20190625,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Unique game with a singular art style set in the blood-soaked and paranoid world of the French Revolution, where often you could not tell a friend from an enemy.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

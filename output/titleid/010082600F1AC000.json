@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/46ae11ef1b656b518ae0492926b9f0c683224373b300b48f8153ce680cc8b70c.jpg"
 	],
 	"releaseDate": 20200318,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Beat criminal overlords and become the biggest fish in the city. Head out and race as fast as you can.\t\t\t\t",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "338 MiB"
 }

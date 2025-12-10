@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/653fc2c7904c27083c0792a552af623aa793df8a58178d740ef2286f4e933add.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "A family friendly Christmas platformer",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "160 MiB"
 }

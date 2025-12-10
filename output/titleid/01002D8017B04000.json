@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8769c4ae8a9ca282fca3d6c1c64a412b30f3531b08c32312824907e03d2b09be.jpg"
 	],
 	"releaseDate": 20220420,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Take on the role of the leader of a special task force whose task is to hunt Nazis down. Bring these criminals to justice by gathering evidence of war crimes against them.",
+	"languages": [
+		"en",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.10 GiB"
 }

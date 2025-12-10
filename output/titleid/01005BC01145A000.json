@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3eea0ab12a2741c20990a0fb69abe3c478e8a02938cbda7321d004edcbe287b4.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"RPG",
+		"Board Game"
+	],
+	"intro": "Deal yourself in with this card game double-pack from Digerati! This bundle contains:\n\nFrost \u2013 a deck-building, solo survival card game set on a harsh, frozen world ravaged by a lethal storm.\n\nMonster Slayers \u2013 a rogue-like deck-building RPG adventure with an innovative card-based battle system.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "925 MiB"
 }

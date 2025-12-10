@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/288390b75af14fdc6ae07baa774e984972746096777d21e619881f17404fb451.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "For those of you who are unable to see their loved ones ever again.\n",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "959 MiB"
 }

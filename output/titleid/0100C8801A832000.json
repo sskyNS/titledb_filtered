@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bfa3b6b3d5767af1c95d0910eb9455ddb0704fba3a6c4edc6485920dae15d20c.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "A delicious arcade down-scroller roguelike where you dig into a creepy hole with an oversized drill!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "311 MiB"
 }

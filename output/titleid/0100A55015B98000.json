@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a6109e5640cd88451296298783bf3c4c4ef96fdddeed71a68db9f2a5815e174.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Lotus Bloom is a relaxing minimalist puzzle game.\nConnect orbs, generate energy and make flowers bloom.\n\nFeatures:\n- Brain-teasing gameplay mechanics, keeping each new challenge fresh.\n- 48 hand-crafted puzzles.\n- Beautiful, minimalist and zen aesthetic.\n- A relaxing and original soundtrack.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "103 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea44acdc22060e0a60f0d3273eb1a4d5a5ad0c21b0f219458972b77074121b48.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Seek the lost world's truth in a hack and slash dungeon exploration RPG based in Osaka!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

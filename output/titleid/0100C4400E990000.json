@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/63fae994a71acd64cee78edc372d3c670a961ca23d25dd457b369c40b976415b.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "Connect the dots to create a single loop in the best original puzzle by Nikoli!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "234 MiB"
 }

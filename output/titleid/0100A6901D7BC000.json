@@ -9,5 +9,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e516d7414b97b4619a2f3adc70374252b00f3fc1f0ecd01bbc3088551e2390c.jpg"
 	],
 	"releaseDate": 20231221,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"RPG"
+	],
+	"intro": "The lives of the shrine maiden sisters Kaguya and Setsuna change drastically with the appearance of the demon clan, whose seal has been broken.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "742 MiB"
 }

@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/01b38fe87d00dc44280d8418d3a9d124bf95210044e86f0c7aa4e299ca50cb45.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Degrees of Separation is a 2D puzzle platformer in which duo Ember and Rime must use their contrasting powers to manipulate heat and cold to overcome obstacles. Through cooperation, they will learn about each other and the fate of their worlds.\n\nDeveloped with both solo and co-op play in mind, players will discover a touching narrative crafted by acclaimed industry veteran Chris Avellone. With Ember\u2019s mastery of heat and Rime\u2019s control of cold, scenic landscapes will come alive as the pair uses their unique abilities alone and in tandem to create powerful gusts of wind, frozen rivers, controlled explosives, and more to solve a variety of puzzles through several distinct worlds. With their unique talents, the two will learn to lean on each other through the many different stages of their adventure and relationship.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "789 MiB"
 }

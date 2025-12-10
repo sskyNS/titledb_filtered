@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/10d0f57bd2630422cf2dfbee0e424e27f3ae40def34f1bd8c9853e2e169d6837.jpg"
 	],
 	"releaseDate": 20230102,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "Play as one of six epic heroes, summon troops, sling spells, and destroy enemy towers to achieve victory in this exciting head-to-head castle defense game.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

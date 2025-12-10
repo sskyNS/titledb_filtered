@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/00a7e0380a4f3ddd9cb9d24b7566458fc20de9bc0eca73a430bc5caa17200058.jpg"
 	],
 	"releaseDate": 20210903,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Take Pippu on an epic platforming adventure to defeat the nefarious Obkins and retrieve the stolen Baubles!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "100 MiB"
 }

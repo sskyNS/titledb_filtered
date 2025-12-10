@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a05afdabb7dd823646315702fa03749cca26c6e34d275e16e478707f6c5004b8.jpg"
 	],
 	"releaseDate": 20180112,
+	"category": [
+		"Action",
+		"Party",
+		"Fighting",
+		"Other"
+	],
+	"intro": "Are you ready to face your darkest fears... with a bomb in your hand?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.29 GiB"
 }

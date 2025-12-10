@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3482d96865f11a9ab4233b9c2e1b0587180084f686f65f0ac1f1301f616ecde.jpg"
 	],
 	"releaseDate": 20190719,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Welcome to the fantastic world of model railroads and steam locomotives where you can become both a constructor and a conductor. Choo Choo!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.06 GiB"
 }

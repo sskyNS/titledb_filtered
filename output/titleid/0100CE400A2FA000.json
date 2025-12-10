@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e9f81dfebc3b40821bbde77c7a687c4ffcec1b36c91d3ef5436a95a26a5bf6c.jpg"
 	],
 	"releaseDate": 20180412,
+	"category": [
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "Spin left, spin right, spin, spin spin! Spin the square Magic Troupe! Gain victory by getting luck on your side!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "111 MiB"
 }

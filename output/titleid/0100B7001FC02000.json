@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e9f9b0fd469dfadc559bec1393ce7b4d42ee1c5fb63159297a253b8b66897ee.jpg"
 	],
 	"releaseDate": 20250612,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The battle to protect Earth's history begins now.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "92 MiB"
 }

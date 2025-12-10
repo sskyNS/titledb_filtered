@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ea63444bd300fc91c9391e4732084b932121ebf82d3aa8b41418e9e54d3f827.jpg"
 	],
 	"releaseDate": 20230404,
+	"category": [
+		"Adventure",
+		"Music",
+		"Action",
+		"Other"
+	],
+	"intro": "Adventure, Narrative, Story Rich, Music",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.59 GiB"
 }

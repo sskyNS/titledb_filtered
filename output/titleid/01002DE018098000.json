@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/21df3eacb3752a2ae2d3ed4e3ee08c77cbb4185d75977134d0ad321f552ced3f.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore a strange world, unearth dark secrets, and hug everyone you meet.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.00 GiB"
 }

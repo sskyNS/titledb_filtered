@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/6f95e4f162df2c6de0932dd4dca96938d9571fbf4745e58231f8458b7d93fef0.jpg"
 	],
 	"releaseDate": 20190226,
+	"category": [
+		"Racing",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry in the Trials franchise. With over 125 new tracks, Trials\u00ae Rising is easy to pick up and play, challenging to master, and offers the best multiplayer racing experience ever.\n\nExperience the most challenging tracks around the world \u2013 from the Great Wall of China to the Eiffel Tower.\n\nTest your friendships with the new Tandem mode that allows two players to control one bike. Hilarity is guaranteed!\n\nCreate and share unique levels in Track Central with over 8,000 items available. The fun and possibilities are endless!\n\nFrom your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "10.16 GiB"
 }

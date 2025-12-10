@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf2e20ceffdd5695fdaf9e6b6240f5c203eb1bea7aaf6c0420d94b0f71450401.jpg"
 	],
 	"releaseDate": 20190813,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Welcome Back To Camp Crystal Lake!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.32 GiB"
 }

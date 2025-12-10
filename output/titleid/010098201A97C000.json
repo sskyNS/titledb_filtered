@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/db7d2cc576af43cd96c0a388964b51ea40384763bb08789270115dc1568805ae.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Action",
+		"Shooter"
+	],
+	"intro": "Hunt the aliens in every way possible!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "482 MiB"
 }

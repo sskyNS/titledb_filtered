@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/2fe391d811b1ed32416616d53d9394226ebb5c15146e61d97486fc4ff178c99b.jpg"
 	],
 	"releaseDate": 20220305,
+	"category": [
+		"Adventure",
+		"Racing",
+		"Sports",
+		"Party"
+	],
+	"intro": "We know kitties love running around, but a cat racing game is the first of that sort you will see. Play as a cat racer, running through many different levels, on the streets and buildings of the city, with many obstacles along the way. Get the lead over other cats, win points and unlock new cats. Enjoy the funniest adventure you'll find today!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.07 GiB"
 }

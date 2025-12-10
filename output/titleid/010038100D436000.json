@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/41612dae27eb1067bb003365e595920f6d3f6e802aa4e5dbeb5e14f5fe1ad421.jpg"
 	],
 	"releaseDate": 20200326,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Follow the adventures of Eliza and her crew as they struggle to prevent an impending war!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.64 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7857f5177f77e7367f19917e56cc42691af92c8019f2083c8841bfcfd4bcca7.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "A retro racer updated for the modern age, Formula Retro Racing: World Tour fuses the pick-up-and-play simplicity of 90s-style arcade racing with realistic physics, split-screen multiplayer",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.39 GiB"
 }

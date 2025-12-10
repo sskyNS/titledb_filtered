@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/76624a9b72a8556d315d17425647a8a5bff6256a4d74885753f5648b91737862.jpg"
 	],
 	"releaseDate": 20230125,
+	"category": [
+		"Adventure",
+		"Education",
+		"Training"
+	],
+	"intro": "Play a simulation game while learning grammar!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "798 MiB"
 }

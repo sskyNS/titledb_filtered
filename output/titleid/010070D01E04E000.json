@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d521d652142c2e4bf158a07caa3c0c559a94aa9f809b8958fa153b72c8cbeb99.jpg"
 	],
 	"releaseDate": 20240316,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Education",
+		"Arcade"
+	],
+	"intro": "Race, Customize, Conquer \u2013 with your loyal furry friend by your side!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "968 MiB"
 }

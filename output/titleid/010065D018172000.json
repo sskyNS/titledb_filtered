@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/7359db94b3072ef62daae49f28acaf233860196715da01433c18a08d8ead5f9c.jpg"
 	],
 	"releaseDate": 20230815,
+	"category": [
+		"Strategy",
+		"Party",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Moving Out 2 is the wacky sequel to the world-famous physics-based moving simulator.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.70 GiB"
 }

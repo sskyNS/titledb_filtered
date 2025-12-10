@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5334298cdcd30e55703b2987b3a502e9b79f601b4b7c25c6512348caadfcabfd.jpg"
 	],
 	"releaseDate": 20220309,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Discover the dark secrets of the simulation and avoid all the dangers prepared by Squid, the evil AI that tries to defeat you by using the prediction of your movements! ",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "412 MiB"
 }

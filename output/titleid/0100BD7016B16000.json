@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bcdc4d25182ea27d31d59e9382b96534e92a7d2d9fb3ddb1d6a04fe5519e9b4e.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Calturin is a Bullet Hell Boss Rush game. You must pass through the Gauntlet of Portals into unknown lands and face deadly creatures to gain your freedom from the necromancer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

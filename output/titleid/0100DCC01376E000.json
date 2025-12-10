@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/2489d571c40ec3dfc1cf89ccf678a0e9c04cf894676b17ab9a62984ae4ccded7.jpg"
 	],
 	"releaseDate": 20211104,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Bounce and stomp through a magical world! Do INSANE stunts and get huge combos!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.12 GiB"
 }

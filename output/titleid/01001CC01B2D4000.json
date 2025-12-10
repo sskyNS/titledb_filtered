@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcabf7a3a0e1d21a3b66600ab0add9aacddc33c5953929decb9dba70daa57caf.jpg"
 	],
 	"releaseDate": 20240827,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Take life by the horns in Goat Simulator 3! A sandbox game with one main goal: cause as much chaos as possible as a goat.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.42 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a987875e83e0d59c0b1542a8999a772edf646d84062bf85372627372be622e4.jpg"
 	],
 	"releaseDate": 20170921,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "In Thimbleweed Park, a dead body is the least of your problems.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

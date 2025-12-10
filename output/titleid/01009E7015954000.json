@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbea7b8b246bc0fc4e3f03c81c703b19096cb9528f2c3ac87ed7a970d0faa0c8.jpg"
 	],
 	"releaseDate": 20210807,
+	"category": [
+		"Arcade",
+		"Action",
+		"First-Person Shooter",
+		"Shooter"
+	],
+	"intro": "Throw axes and smash targets!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "174 MiB"
 }

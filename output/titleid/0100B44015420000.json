@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f28e0987d9f19c9419cb2bfb1ce2ab0a0c13e11d84eb00bfad2f0aa9dda1cd44.jpg"
 	],
 	"releaseDate": 20210608,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Can you escape and solve tricky platformer puzzles ?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8432ed24c5a905ce6cec02839d87157949f74de2f8eece1d055f91f8dc4c0341.jpg"
 	],
 	"releaseDate": 20200309,
+	"category": [
+		"Board Game",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "The officially licensed multiplayer version of the classic fantasy adventure board game, Talisman. Includes three expansions!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 6,
 	"size": "1.91 GiB"
 }

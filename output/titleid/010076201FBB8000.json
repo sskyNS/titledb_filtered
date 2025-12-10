@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1f15e944e613eea8f84fe4905140f925568671bf02d302f01586da5c713f3299.jpg"
 	],
 	"releaseDate": 20241004,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Help zero save his beloved forest",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "117 MiB"
 }

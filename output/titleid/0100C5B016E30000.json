@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/00cd8c560bee80e33197746ea84f63597b40700bf082ea47af05c2b39594d686.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Play football like it's 1987!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "82 MiB"
 }

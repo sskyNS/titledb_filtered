@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebca520e0bb50e0e05b39ece9d0e95e0bd83cbeac0c44969f269d047a7b43fdf.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Utility",
+		"Other"
+	],
+	"intro": "Learn to count the numbers, basic skills and sequences for preschool children.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "152 MiB"
 }

@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ce2f38ef5744783d049119f04af6700bc2e2c3a3be3dde60ae7c297cd47d66d.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "The stars are calling!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

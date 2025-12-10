@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/658c9550eae32c3d5f43f3a5018bde80fa3d89d9131ab3d9bedfcb6918731180.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "You're a little crow trying to prove herself to the world. Make new animal friends, poop on unsuspecting hoomans, and steal all the shiny trinkets! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "970 MiB"
 }

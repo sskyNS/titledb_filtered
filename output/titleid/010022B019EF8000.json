@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/59ff4c1558ad3c5847289b7e0873d9c34a8945a7c04bf376723c09c5df6e7d3b.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "After 12 long years, we're back and bringing the school festival with us!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "135 MiB"
 }

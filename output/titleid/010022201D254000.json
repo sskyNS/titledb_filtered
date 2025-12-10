@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8af093e8c23ed4fb8032f8c5070fa0e5be9cf1c18a8c847bfc2d3952b686381.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Flooded is a reversed city-builder in which you need to optimize your production on an island that shrinks over time.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "623 MiB"
 }

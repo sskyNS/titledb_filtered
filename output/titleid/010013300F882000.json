@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a1bde7f32b23ec7f7ae18382751648e856d0a50dcf8838829dfef4e1989c994f.jpg"
 	],
 	"releaseDate": 20200716,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Train your baseball players\nand create a winning team!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

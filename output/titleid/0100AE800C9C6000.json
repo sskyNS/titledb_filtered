@@ -4,5 +4,16 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20190213,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Yoshi\u2019s Crafted World\u2122 Demo",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": null,
 	"size": "613 MiB"
 }

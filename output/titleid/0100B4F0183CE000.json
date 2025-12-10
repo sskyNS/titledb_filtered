@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b9426bde3c391bcec7fba67587b3494285ba9772d755f1e7576044d84014c396.jpg"
 	],
 	"releaseDate": 20221006,
+	"category": [
+		"Simulation",
+		"Education",
+		"RPG"
+	],
+	"intro": "Cute little pets need your help!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.31 GiB"
 }

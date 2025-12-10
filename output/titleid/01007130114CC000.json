@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c92016d068398160478972907a731300816106a246a6979756f81b020f5d157a.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Strategy",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Berlin, January 1933. \u201cAdolf Hitler is chancellor!\u201d - Too few are standing up against the monstrosity of the German Reich. Will you?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "773 MiB"
 }

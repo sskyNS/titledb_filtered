@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea08526a7c1070a70da888d23d6e8e9a7e949ad5e4e71fe7b637ba4e19d5777f.jpg"
 	],
 	"releaseDate": 20230222,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Start the biggest Hike on the mysterious Isle! Discover the massive island piece by piece.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "260 MiB"
 }

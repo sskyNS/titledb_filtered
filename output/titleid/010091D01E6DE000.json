@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f174d0d14c776e874d1ef26898c3c8ecd13a85d91b7865165be76362331aee6f.jpg"
 	],
 	"releaseDate": 20241022,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Come and play with Aurea in Fantasy Friends: Dream Worlds, an ultra-cute puzzle and platform game. Enter this wonderful place and make lots of fantastic friends!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

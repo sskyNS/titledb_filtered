@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/507bf1866f1d491bd1d6f8ec3e67875af335fde202b386e3969fef9cb1c12821.jpg"
 	],
 	"releaseDate": 20251204,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Spin the pieces and peek into the world of insects!\nA fascinating bug art puzzle you just can\u2019t look away from.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "190 MiB"
 }

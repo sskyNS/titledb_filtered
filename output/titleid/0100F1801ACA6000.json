@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cd273731f79771bac1fbb14d92d8f6e49e9050ff84066a3a06e0fb2b61fed57.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Party",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Get on-trend and take the road to fame!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.10 GiB"
 }

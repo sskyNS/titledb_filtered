@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/09cb992447ff19abc74c746465ee7c89d135aa12adf2fd77a4271ebbc7db789d.jpg"
 	],
 	"releaseDate": 20220923,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Jump, slash, and dig your way down an ever-changing chasm of mystery in Shovel Knight Dig, an all-new Shovel Knight adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "821 MiB"
 }

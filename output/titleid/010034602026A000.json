@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a063a296f4f21d5324d86317db5af61e453a7fa461df0da07ea81e4a1b401e99.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Communication"
+	],
+	"intro": "A challenging floating game that brings back memories of the days when you played with balloons!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

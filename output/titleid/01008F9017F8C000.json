@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f1e439125740e4db4140ee92d7e52e7a2a999f330ed218ef92b9290fb3d2596a.jpg"
 	],
 	"releaseDate": 20220519,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "Become a three-armed mutant who hunts the most dangerous bounties in the galaxy",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "716 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba3dbaa0889a5a3253d13379890fa8729d98bb577b94527347be7bc1288c9ba3.jpg"
 	],
 	"releaseDate": 20230106,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Perform amazing tricks driving at high speed high above the ground! Show your car driving skills and astonish the spectators!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

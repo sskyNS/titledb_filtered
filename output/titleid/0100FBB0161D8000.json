@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/4edab34a68b3479eb3aa563556e03a736544c905dec655bb9f27bf2ccf73a72c.jpg"
 	],
 	"releaseDate": 20220207,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Ziggurat is back, and now it's even better! Use powerful weapons and spells to break through hordes of enemies and explore laberynthine dungeons in this hectic roguelite FPS!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

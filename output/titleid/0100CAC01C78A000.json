@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd1cabcfb36b582612c2d66da08f40fac7a3d561bcce8adcfadc55e516a510b3.jpg"
 	],
 	"releaseDate": 20240216,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Discover a hidden world under the modern San Francisco as investigator of the paranormal, Adam Wolfe!",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

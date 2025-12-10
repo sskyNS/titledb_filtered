@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b1956a8f6ea0bfb69ee450d1b041b12c652bfb92f026b975cc8b3a2a05f170e.jpg"
 	],
 	"releaseDate": 20240803,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Blast Everything!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "59 MiB"
 }

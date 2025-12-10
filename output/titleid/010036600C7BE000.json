@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/cad1942473181e4716916165a7b126a86365e3a6ede49507051cd1200e6a2181.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Death and destruction came into beautiful Doodland. Accomplish the impossible to escape alive.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "513 MiB"
 }

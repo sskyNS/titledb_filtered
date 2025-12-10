@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa58d04e7511ed2e628e3082ad13f3072c86d84f3ea67d5e0e9fc20024b5ce7b.jpg"
 	],
 	"releaseDate": 20241018,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Other"
+	],
+	"intro": "This novel follows Rapunzel, who, after restoring peace to her kingdom, discovers that her legacy holds even more secrets",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "199 MiB"
 }

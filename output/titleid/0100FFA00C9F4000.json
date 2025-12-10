@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a56b7f1db0498215ecdb57202f23ea669f2e95cce500f85514270b4f21db9997.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Another tribute paid to yet another arcade classic from the Hero Concept team!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "407 MiB"
 }

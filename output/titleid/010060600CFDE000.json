@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/1542a1c12e195b793f200881af2cf1dc216aed37d1a39d0144a50f2f636c37cc.jpg"
 	],
 	"releaseDate": 20190214,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "Brick breaker action arcade plus local 2 player co-op mode!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "170 MiB"
 }

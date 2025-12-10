@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/705bcac22775f9fe34fd9d005ddabe6c6d55088b49bebead56e0225c9232baf4.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Unmatched: Digital Edition is a highly asymmetrical game of card-driven battles between epic heroes from story and myth.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "353 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6e0e6d0e1ebc70a473b064178093c0f61d3e09bf608b782715582438b749c67f.jpg"
 	],
 	"releaseDate": 20191003,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Galaxy Champions TV is a top-down closed arena shooter inspired by the classic arcade game Smash TV. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "483 MiB"
 }

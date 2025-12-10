@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a9521eb0c34f9dd417887f6d53d02c6d53efccf3347aae4b5c0374b7d30e72d.jpg"
 	],
 	"releaseDate": 20210527,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other",
+		"Lifestyle"
+	],
+	"intro": "A hand-drawn nerdventure made with lots of retro-love - and some fairy dust.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "281 MiB"
 }

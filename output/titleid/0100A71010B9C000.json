@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/950ab880c78311ae9d967d5da38666f74a2c30584504a22a8c856a0bd3472e25.jpg"
 	],
 	"releaseDate": 20200417,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Poor Lanna has gone to heaven following a tragic accident.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "362 MiB"
 }

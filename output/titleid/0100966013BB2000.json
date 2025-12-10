@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/be7b4ed1f1c75b59880ec46b7faeeb9f1c018d335df798604e5a58f4ba6c99c8.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"Action",
+		"Party",
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "LOCAL co-op party game where up to 4 players compete in looting treasures from a sinking island, while building a boat to survive the final wave.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "856 MiB"
 }

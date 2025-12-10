@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ae113116cbc8d824fc98a97921578376eeec58814b8b2f0a795ef2b8c093c98.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Music",
+		"Action",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Bring Your Skills. Build Your Crew. Find Your Style. ",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.06 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dbc70b4a2d6242fb8a080c109a58dd6d16acaabbb58ff6086b33c229b14d6f0.jpg"
 	],
 	"releaseDate": 20200728,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Beat all the trials to escape the Fort with the treasure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.55 GiB"
 }

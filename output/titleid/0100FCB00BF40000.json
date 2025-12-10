@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3764f60f89ed63173e180526b8bc45cf93d70ccee0bacc96e45d7008ae725608.jpg"
 	],
 	"releaseDate": 20190305,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Take the Field!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "6.90 GiB"
 }

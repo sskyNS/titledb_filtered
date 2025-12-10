@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfbdb203435afd8b6cedefefe1ca7f621878a3cde5bdb2295a50a038de6f784b.jpg"
 	],
 	"releaseDate": 20171219,
+	"category": [
+		"Multiplayer",
+		"Action",
+		"RPG",
+		"Party"
+	],
+	"intro": "The dungeon crawler where your friends control the monsters!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "254 MiB"
 }

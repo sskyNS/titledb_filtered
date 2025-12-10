@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b4a978daf07dcfeaca8cc9cbe996a63ebda2cb149cc524ed545975818dd4bc7f.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30d1\u30ba\u30eb"
+	],
+	"intro": "\u300cDAYMARE:1994 Sandcastle\u300d\u306f\u3001\u5927\u4eba\u6c17\u3092\u535a\u3057\u305f\u300cDAYMARE: 1998\u300d\u306e\u7d9a\u7de8\u3068\u306a\u308b\u30b9\u30c8\u30fc\u30ea\u30fc\u6027\u306e\u9ad8\u3044\u30b5\u30d0\u30a4\u30d0\u30eb\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.19 GiB"
 }

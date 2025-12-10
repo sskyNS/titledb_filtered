@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/55edc34371a5f9cd08628210f8fd269364d097aca3882ab5e7a23a9a8c7c0f79.jpg"
 	],
 	"releaseDate": 20240405,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Lift the curse. Get revenge on The Bad Man.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

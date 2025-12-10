@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8ca8d385a4f5a2218709134df51f62dc90d17e568f4a9923573532f69194053.jpg"
 	],
 	"releaseDate": 20240718,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Play as Donatsu, the chubby ninja, and fight the evil food clans in this action arcade.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "183 MiB"
 }

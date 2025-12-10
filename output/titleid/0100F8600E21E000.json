@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ae98d29e5f6f5fd0046cfee1b8d8401488fb134e55eab513cf3e6fe15ba1a8a.jpg"
 	],
 	"releaseDate": 20221004,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Multiplayer"
+	],
+	"intro": "OVERWATCH 2, A FUTURE WORTH FIGHTING FOR! \nOverwatch 2 is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "28.72 GiB"
 }

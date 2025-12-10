@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/82c32bd05493e7a8564468fea74b26a46369b813207fa1c30dd64903ae46873a.jpg"
 	],
 	"releaseDate": 20210106,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A challenging puzzle-platformer where each jump is a puzzle!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

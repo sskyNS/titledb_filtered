@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d23bfeaa233e1e0690ff4ff1baf38b78f59cf644f3ff3ca2901b5a78e05484a1.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u30d1\u30ba\u30eb",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "\u80f8\u3092\u6253\u3064\u611b\u3068\u55aa\u5931\u306e\u65c5\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u9ad8\u3044\u8a55\u4fa1\u3092\u5f97\u305f3D\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b2\u30fc\u30e0\u300eArise: A simple story\u300f\u306e\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u30ba\u30ab\u30c3\u30c8\u7248\u304cNintendo Switch\u2122\u5411\u3051\u306b\u767b\u5834\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.22 GiB"
 }

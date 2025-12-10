@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/82b4742cb1b6a2a5dfd69f7f81ec030e8a6f5090da1590c07053769ec06af752.jpg"
 	],
 	"releaseDate": 20250706,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Education"
+	],
+	"intro": "Solve 100 levels in this match 3 game with a beautiful princess in a magical ice world",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "128 MiB"
 }

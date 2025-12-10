@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/56f3f727c272da8c1c01a5c102c9a8d1803c6fa905af7d951890a22ebd824e7b.jpg"
 	],
 	"releaseDate": 20220715,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Jump into action in this quirky puzzle game. Travel the world along with an adorable cat named Mojito (or one of his friends).",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

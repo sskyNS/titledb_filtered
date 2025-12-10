@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/526b4d45289ca96f1222b52d54f2bb5afe7589bc9a47830d8ad1f438ba5a7a99.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Once again, the legends will be written in blood. To bring peace back to the world, you must defeat Count Dracula!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "69 MiB"
 }

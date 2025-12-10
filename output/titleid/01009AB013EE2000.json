@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f8cd24f578943812dc8be64226de69bf5a659fda74d946655a18a8322daaf0d.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Action",
+		"Platformer",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "A Remastered 2D Hack N' Slash Adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.26 GiB"
 }

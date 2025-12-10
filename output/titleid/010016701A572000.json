@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/2baac360830f788c21621f0ed504d32ad4c1eba700b4fd44b089711a0055f932.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Welcome to the convenience store where true love begins!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.58 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/059eebaaa3f00cde435b7a5aefedef3f7b69ade68fee88745e3cceac0041701f.jpg"
 	],
 	"releaseDate": 20260105,
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Design your dream boutique, sell trendy clothes, and build a fashion empire! It's your turn to shine in Clothing Store Simulator.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "256 MiB"
 }

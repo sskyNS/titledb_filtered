@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2db971c83ea425f041d34ea10dd78086108ace78d8acf516279708342cd2e58.jpg"
 	],
 	"releaseDate": 20220705,
+	"category": [
+		"Adventure",
+		"Shooter",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "Pardon or Kill? Let the Madness Begin.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.70 GiB"
 }

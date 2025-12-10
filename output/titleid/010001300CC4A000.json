@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/5eb9fcf2e7728ee0c6695d66e9ffa76cef528a2258e90f6a893f8315a813adf1.jpg"
 	],
 	"releaseDate": 20190123,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "Madcap Action, Martial Arts, Monkey King and More!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "4.51 GiB"
 }

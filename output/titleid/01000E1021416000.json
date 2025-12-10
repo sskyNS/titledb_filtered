@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/666e4146a188a0e09cf712afbe33f5aa38aecdbcc6c68a7a8d27d857dbe82b2f.jpg"
 	],
 	"releaseDate": 20250319,
+	"category": [
+		"Shooter",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Run \u2019n gun action meets apocalyptic mecha anime style with a cute heroine as the pilot!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7698f3f080b8a54776a55f5a07e1855b2e6de3d966c6736b449ba2ef69cc5c06.jpg"
 	],
 	"releaseDate": 20250212,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Paranormal Mystery Adventure Game",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "825 MiB"
 }

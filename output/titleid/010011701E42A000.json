@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e6ebb7ab4ae4cbac286b10ccdf1d8b9aeed62635bb7969162d4e27658cab7634.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Fighting",
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "This epic adventure is filled with a rich story, epic boss battles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.37 GiB"
 }

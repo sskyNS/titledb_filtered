@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b6e4e0ee39f9ebaa1545ce3dca29b9f3a464e44f32e844a6bff4784b1e73fa86.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Action",
+		"Arcade",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "Squid Commando is a classic arcade shooter that offers both solo and cooperative gameplay at the highest level. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.51 GiB"
 }

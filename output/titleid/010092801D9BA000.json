@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a7e17caaebfd6ba21512292d959634fcd23c152046779640f745ebcef1cfcf14.jpg"
 	],
 	"releaseDate": 20241121,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Yo Joe! \nCobra returns once again with its most fiendish plot yet and it's up to G.I. JOE to defeat them once more! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "541 MiB"
 }

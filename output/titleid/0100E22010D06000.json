@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/12e2317a9ed73ebc0d1fac2f8de059115528cab1bd0188040e30233fe19c6968.jpg"
 	],
 	"releaseDate": 20200214,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Communication",
+		"Other"
+	],
+	"intro": "Branching dialogue! Hard choices! A cemetery's worth of phantoms, wraiths, and poltergeists looking for love in all the blight places!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "272 MiB"
 }

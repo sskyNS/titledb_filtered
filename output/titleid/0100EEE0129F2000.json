@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/014e4d0bef8c77ba2598ff2d09ddd4d913692cfeebbb97cca2afa0069f89bd46.jpg"
 	],
 	"releaseDate": 20201009,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Live the thrill of street racing in this fast-paced car game. Dodge the traffic, escape from the police and get the highest score.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

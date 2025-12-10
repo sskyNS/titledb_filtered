@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/272668c5b89dbd058c46aa4c8fc828636449ca7975c87043fd8d1d09e3fbd747.jpg"
 	],
 	"releaseDate": 20181116,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "The next step in your Pok\u00e9mon\u2122 journey starts here",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.20 GiB"
 }

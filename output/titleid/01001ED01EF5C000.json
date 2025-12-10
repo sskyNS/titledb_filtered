@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/01ebbeaaac86f98a64ac23323bb366d0f6e5057afc6e9c271f4aa684351266a2.jpg"
 	],
 	"releaseDate": 20240520,
+	"category": [
+		"Adventure",
+		"Education",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A non-fictional auto-biographical visual novel about Zhenghua Yang (Z) and the near-fatal incident which led to the founding of Serenity Forge.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "712 MiB"
 }

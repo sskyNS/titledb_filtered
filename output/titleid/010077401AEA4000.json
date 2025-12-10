@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c66394694a214f74aa637fea233cb5fc1907ccf723a8f2b33c6f987d4a1d7358.jpg"
 	],
 	"releaseDate": 20230331,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Explore the streets of New York in ultra realistic detail! Cruise along Broadway, Wall Street and the famous Avenue of the Americas, including Times Square!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "563 MiB"
 }

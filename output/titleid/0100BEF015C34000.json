@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f7d3696d64ab2604a76e24edc2c6d921d029f26b36d075f0286f12a1d768b0f6.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"RPG",
+		"\uc804\ub7b5"
+	],
+	"intro": "\uc218\ucc9c \ub144\uc5d0 \uac78\uce5c \uc778\ub958\uc640 \uce60\uc601\uc6c5\uc758 \uc804\uc7c1.\n\uadf8\ub9ac\uace0 \uadf8\ub4e4\uc740 \ub2e4\uc2dc \uc774\uacf3\uc73c\ub85c \ub3cc\uc544\uc654\ub2e4.\n\ub85c\ub9e8\uc2f1 \uc0ac\uac00 2",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "576 MiB"
 }

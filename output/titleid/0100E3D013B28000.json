@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f61cd56474c5b541eb730ec8138627fba9becd1dc964c3241e26d9aaeb6fc927.jpg"
 	],
 	"releaseDate": 20210203,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Blast off for a sequel that pushes every facet of 2D shoot'em ups to escape velocity!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "236 MiB"
 }

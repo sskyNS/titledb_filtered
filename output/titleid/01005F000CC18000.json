@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/53f2e7a7dc5d08b226fbfeb627aff660b76d967a037e0af2b3ce472084ea1a25.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "OVERWHELM is an action horror-world platformer where enemies power-up and you don\u2019t.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "165 MiB"
 }

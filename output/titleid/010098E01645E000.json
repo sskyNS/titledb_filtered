@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/03aa45dd1cc96b2e0aba975d475d709be94ac3b09a0253adf922427386a96711.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Flaskoman is a puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanism and your abilities.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

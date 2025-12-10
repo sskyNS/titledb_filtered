@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d148f70ad5204c600f8e680d45799a23c97f539c4071a56e8805f1a0ebec968.jpg"
 	],
 	"releaseDate": 20220118,
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Explore a mysterious world and find out what happened to it and all its citizens",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.38 GiB"
 }

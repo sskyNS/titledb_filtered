@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/27378dd6c1d11826c1d5281ec186192bdaa84fb80e7cbbe2a7feac59f7059220.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Stop a series of terrible crimes!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "891 MiB"
 }

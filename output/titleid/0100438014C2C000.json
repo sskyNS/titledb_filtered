@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e7400762274235033af6c34b0f522f79a065272f2995d9004a463000e24c8a59.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "An epic action-adventure with tower defense combat! Dungeon crawl through a ruined kingdom, fending off hordes with turrets and traps! Punch them into pits! Pull them into spinblades!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

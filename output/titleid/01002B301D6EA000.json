@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a9cd550dd542dc5993caa8d8b6a93b78bd7abcc6fe9bdfccf8b720ada1afd6c.jpg"
 	],
 	"releaseDate": 20240403,
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Destroy, move and combine objects on the levels to get to divine crystals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "330 MiB"
 }

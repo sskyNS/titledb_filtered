@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef963840da495bab3ee6982e423d2d77b6e4be3f54fcac755530779ab44516fd.jpg"
 	],
 	"releaseDate": 20190530,
+	"category": [
+		"Action",
+		"Simulation",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Anarcute is the cutest riot game, with a catchy art direction and unique crowd-beat\u2019em all gameplay!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.52 GiB"
 }

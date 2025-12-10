@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea36e993ea4c75cfab68e342d575aad21dcd253345701a9620cd8512cd0c4011.jpg"
 	],
 	"releaseDate": 20250110,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Chase down the suspect behind a serial killing!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

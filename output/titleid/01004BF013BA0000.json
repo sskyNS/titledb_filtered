@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8bc1cb46d8e8977c4ee12c04b44113855f5bb35070a361918ebc26a5e4627140.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A game of questionable ethics",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "225 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/925cfc05ae35e246afaced4a575ca879e672bbb57e57784327fbc05f22e165ee.jpg"
 	],
 	"releaseDate": 20220915,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Find your daughter and survive the zombie city! The suspenseful stages in various places. Winner of indie game awards! It keeps Dead Raining.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "194 MiB"
 }

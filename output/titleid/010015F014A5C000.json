@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e94fa880578ab98741aa539556cf0a5c7505feed4388f9bc1e5f14040a2161d.jpg"
 	],
 	"releaseDate": 20210513,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Follow the story of Lua and unveil the mysteries surrounding her origins in the tactical RPG, reminiscence of the 16-bit era Japanese strategy games. ",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

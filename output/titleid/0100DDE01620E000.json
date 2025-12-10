@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3ae6265a26486293cb1af9181bf875fb6d4c7391036cc0a569fef9ffea7f36b.jpg"
 	],
 	"releaseDate": 20240112,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": " A heartfelt adventure in a fantasy world of frogs! Talk to weird and wonderful characters, fight vicious bugs, and explore a vibrant world in this charming action RPG. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.77 GiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9d681205d57d5e7fdf2d2b736fbb2103ee721045387bdf1e7834e1e5d1a7923.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Care Bears: To The Rescue is a brand-new action-platformer set in the world-renowned Care Bears universe,",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.06 GiB"
 }

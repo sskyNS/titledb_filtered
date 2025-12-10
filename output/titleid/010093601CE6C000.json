@@ -9,5 +9,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce3e8f609bacbee826a67002179e1d02e6fc623a75c9dfdf4cb8e1b2fa87ac61.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Challenge your mind, rotate pieces, and help the cats!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "376 MiB"
 }

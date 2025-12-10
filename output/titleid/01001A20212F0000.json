@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d97ddfa2a4c0642af60f8d414fa65bccb585ff895c4c3bc640ba7dabc4d89e12.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "Freddy Farmer is a retro arcade style game with 16-bit pixel art graphics in the style of the 80s/90s where you can test your skills as a player.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "509 MiB"
 }

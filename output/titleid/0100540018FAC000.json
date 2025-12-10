@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d9009f0cd2d7357999ab366db8fa6437104a0dffdaf9415767a9082ce993bb00.jpg"
 	],
 	"releaseDate": 20230915,
+	"category": [
+		"Music",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Get the Shark Family to the Fin-tastic Festival. Sing and swim to fin-omenal songs and get rewarded with musical cards to add to your album. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "875 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/1971ce4e80522fa4463dcca26ac344962fb16c2b6567e4db1133d33f93d6f9bb.jpg"
 	],
 	"releaseDate": 20181108,
+	"category": [
+		"Action",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Blast your friends at the speed of light in this futuristic brawler where only bounce shots are lethal!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "437 MiB"
 }

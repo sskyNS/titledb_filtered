@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/60fb3031dc30cf51a1731258a66672435655055b3e848401350d12db61b4df6d.jpg"
 	],
 	"releaseDate": 20191003,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "Follow Selphine, the bubbly Princess and her sharp-witted Royal Guardian, Ritona, on their journey of a lifetime back to their homeland of Rughzenhaide.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

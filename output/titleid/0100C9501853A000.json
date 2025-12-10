@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc9ae7a126e023e5bd5fa7f046aeaf68cb3dfce81123d8e15f9dc18eecdf8331.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Experience nostalgic gameplay with mind-blowing new mechanics in this throw back to the days of Xonix and Volfied. Beat your friends and enemies in crazy arenas. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "171 MiB"
 }

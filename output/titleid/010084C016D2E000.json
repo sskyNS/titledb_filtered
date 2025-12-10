@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a873412477e659028fe29afc7782984e22d4c4f4c6a7925b672f7e2b92a26f66.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "The most elf-tastic adventure ever!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

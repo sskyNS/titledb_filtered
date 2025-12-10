@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2e3c0960408fe78987d055edcd0023e4a82fd1a59045ef8fa77b53bcb7accf2.jpg"
 	],
 	"releaseDate": 20190321,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Party"
+	],
+	"intro": "Stop the New World Order in this challenging game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "163 MiB"
 }

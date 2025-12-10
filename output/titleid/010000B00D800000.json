@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/87953de084276df79a0aee34bad4513f803b5fbba9b044e7aaf7e7782f22acb3.jpg"
 	],
 	"releaseDate": 20190802,
+	"category": [
+		"Adventure",
+		"Action",
+		"Strategy"
+	],
+	"intro": "No one is forced to join a cult. It welcomes you. It understands you. It envelops you until the words become more than truth\u2014they make you whole.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.45 GiB"
 }

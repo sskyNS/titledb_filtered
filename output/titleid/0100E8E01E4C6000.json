@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/37935b9a44cdf8c6f41ee8f0bee178e42701260ece2950fa52b844f6ca58d742.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Classic physics based puzzle - color the balls and fill the glass with colored balls while avoiding obstacles!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "131 MiB"
 }

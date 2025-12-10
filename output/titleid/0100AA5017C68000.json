@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5a257a95c8ccc15424631fcfac56e268af69987d8702554afe6c986e971c6f9.jpg"
 	],
 	"releaseDate": 20220604,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Victoria has become a teacher at Mystic Academy of Magic and your creativity is needed to help her decorate the schoolhouse for Halloween.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

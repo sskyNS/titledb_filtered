@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/204d53d1cfaab0e04b4371715fe234f42aa81d5aac96676f8fc09eab156acbd1.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "CLOSER is a game with distinctive art and gameplay. It contains a lot of creative designs. Here you will feel the spiritual experience.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "322 MiB"
 }

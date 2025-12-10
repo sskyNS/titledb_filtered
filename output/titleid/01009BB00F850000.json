@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5345dad735026c0c3ba97ce7c1683ab08775fb58280b34341f5aa5e09f54227a.jpg"
 	],
 	"releaseDate": 20201017,
+	"category": [
+		"Multiplayer",
+		"Fighting",
+		"Party",
+		"Action"
+	],
+	"intro": "Use your belly to your advantage! Challenge players all over the world and climb the leaderboards. Fight into the arena: charge, hit, dodge and defeat the opponents!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "644 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8137da18ac458b77608465c58b1bd68a71fd88decc604e446b46d234fc54b5f.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A resource management game where you command a swarm of intelligent robots in a quest to save the world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "804 MiB"
 }

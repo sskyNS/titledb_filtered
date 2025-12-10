@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/da9aad6ceb8589feedb9e7acb8dab0b953ce14adbb96b9b598d5646f017d7287.jpg"
 	],
 	"releaseDate": 20170713,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "A puzzle game about cooperation, best enjoyed with friends. Updated with new levels, game modes, color-blind options and more!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "740 MiB"
 }

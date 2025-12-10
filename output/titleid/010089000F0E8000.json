@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbb3537eac207252743cea6e48ae14839c60996fedf1b3157b46e9d66bbef6de.jpg"
 	],
 	"releaseDate": 20191017,
+	"category": [
+		"Puzzle",
+		"Music",
+		"Strategy"
+	],
+	"intro": "A challenging 3D puzzle game about music, machines, and dreams.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "403 MiB"
 }

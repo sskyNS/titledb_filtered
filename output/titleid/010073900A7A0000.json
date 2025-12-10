@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2246681b9439dc15a737084001c205d07da498b21b4dfdb04f0738a4b5c551c3.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Party",
+		"Board Game",
+		"Lifestyle",
+		"Strategy"
+	],
+	"intro": "At the end of the 1800s the government declared a global ban on this legendary card game due to an increase in bar fights, divorces, and family feuds. It was political correctness gone mad.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "348 MiB"
 }

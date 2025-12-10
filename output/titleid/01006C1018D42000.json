@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/14d0b9423b0a0a471a398b4160be9ec3d6e73a0c2ab498febe088cca7ed73c7c.jpg"
 	],
 	"releaseDate": 20230705,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Venture forth in this puzzle-combat dungeon explorer where sound is your only guide!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5061bbd638cad25cbc84879e2fa7975c179b7267f8a1904e1f2b10d36f2ae74.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"Other",
+		"Action"
+	],
+	"intro": "Where the world of Dread begins!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.42 GiB"
 }

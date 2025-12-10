@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a82f8472c6e4c551fb5f8af61af99c459560c32214841b79928da05da7fc025.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "Will you survive and uncover the truth?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.41 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/66f3bfa2027d73af7870e3e7661ed215afff7c9980ee3cf066954dc1523cee22.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "Monorail Stories is a narrative experience focusing on extraordinary things happening to ordinary people. Board the local monorail and experience a special story about humanity.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "749 MiB"
 }

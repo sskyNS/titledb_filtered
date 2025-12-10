@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/65219c283427881b60be99df3d690d1ebc11d70aeec4d04e67b110a5a9235709.jpg"
 	],
 	"releaseDate": 20240521,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A puzzle adventure set in a foldable, paper world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

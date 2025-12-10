@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/0edfadece33ef57104ccbcd6be6ef436388ebc4a89346f42dffdcbaf4c61c7cf.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "This work is a remake of a bishoujo game released in 2015 for an international audience.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

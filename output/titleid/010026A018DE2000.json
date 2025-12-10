@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1675e92a0536ea297f9862a6b3c2cdc69201f93fc9c5f145cf076b224dec9fef.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Become the creatures that you kill in this dark 2D metroidvania.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.74 GiB"
 }

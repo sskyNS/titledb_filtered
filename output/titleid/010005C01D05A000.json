@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f80e47cb05463ff2dbd7b33e7b4cd9e0932f83dc85dc4312199b0528408b44a.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Xtreme downhill racing on dangerous tracks in powerful sports cars - set new records and take first place, racer!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "422 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef7a77a5b3f2bb756b2dd352a68e67943e67e16fc52c5b042d8a6ddaad328c28.jpg"
 	],
 	"releaseDate": 20231006,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Put your skill, wits and reflexes to the test!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "64 MiB"
 }

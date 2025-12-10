@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/113a33689c11194aa136b6184824399579ef8cc5451ad2f263b3d72486f6565e.jpg"
 	],
 	"releaseDate": 20190604,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A self-proclaimed Savior must travel through numerous ancestral locations guiding his worshipers to reach the promised land, and the salvation.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.12 GiB"
 }

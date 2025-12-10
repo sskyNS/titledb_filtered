@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1004862f45f38932c2fb5b5db152084076d940fa2042a1055351632c895d3977.jpg"
 	],
 	"releaseDate": 20240810,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Racing"
+	],
+	"intro": "Its bullet time!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c07443dc5cba7e57afe24f80992bf127c686dc17f67b84c4217e7c25410c970.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "The legends of energi once again in a new edition!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.01 GiB"
 }

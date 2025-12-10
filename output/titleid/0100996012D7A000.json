@@ -8,5 +8,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/be26a724173e49c6b5a6048e728e7bc253e4390fc46f37de1d6574c7b8213fee.jpg"
 	],
 	"releaseDate": 20210311,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "The Power of Destruction is in Your Hands!\nEmbrace Your Dark Side with Doodle Devil!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "354 MiB"
 }

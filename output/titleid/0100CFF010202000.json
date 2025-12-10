@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0317559a906854c105def6d5e217a3c8be75534d56329f4ab7451682c84fcae.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Create a park full of animals and flowers, with sports fields and playgrounds!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

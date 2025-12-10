@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/11663c631dd4b44f6d9095acdcee7cc95e9d3a6e2630d2f8cf0ffbdbb5938641.jpg"
 	],
 	"releaseDate": 20190226,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Level up your party of Warhammer heroes! Loot weapons, armour and mysterious artefacts. Crush Orcs, Goblins, Trolls!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "677 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/38a8efaf32661f744f07065a5e6fb2fa188845d4a49cdf5cd93239625c29d417.jpg"
 	],
 	"releaseDate": 20240125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "The King is dead! Long live the King!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "298 MiB"
 }

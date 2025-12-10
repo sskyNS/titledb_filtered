@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/257688c543bf306bdd1be079cf23146bafa3f088a19997cde082299d061f0127.jpg"
 	],
 	"releaseDate": 20230307,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Dive into this deep-sea Metroidvania where you face off against underwater mutants!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.66 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc0466637357ceb85bae2fc102e30f2fed6e8f213b0855e87af629f0496c47d8.jpg"
 	],
 	"releaseDate": 20181106,
+	"category": [
+		"Action",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Road Redemption is an action racing game where you lead your motorcycle gang on an epic journey of pursuit, blood, and speed.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.81 GiB"
 }

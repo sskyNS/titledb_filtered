@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce3db1bd809ce73a19372f9a1733dccba1963cb735393bdbab9c83fb71482ac1.jpg"
 	],
 	"releaseDate": 20250221,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Strategic card-based roguelike RPG, where you are tasked with liberating the forest kingdom from the tyranny of the Mad King.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

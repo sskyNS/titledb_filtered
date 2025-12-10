@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/129f884feba23dce2feb2f9835ed910a14491d90beead1f970b67f228da31a25.jpg"
 	],
 	"releaseDate": 20190809,
+	"category": [
+		"Action",
+		"Party",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Flick! Bump! Knock off!\nPlay the super fun Flick Erasers, alone or with all your friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.10 GiB"
 }

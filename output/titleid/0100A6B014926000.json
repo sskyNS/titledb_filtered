@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/92597e1f12addac907ab79f694ca8bf32f57720d93a53b6c8ba3d0c7775be088.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"Education",
+		"Adventure",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "This game lets children experience an exciting day on the farm.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "66 MiB"
 }

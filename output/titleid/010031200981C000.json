@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ce37bef89b59afc7449db7b13cd6820042602654f75a7df249ae13a67be93e8a.jpg"
 	],
 	"releaseDate": 20180302,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Training",
+		"Board Game"
+	],
+	"intro": "Put your brain to the test with Grid Mania, simple but challenging logical puzzle game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

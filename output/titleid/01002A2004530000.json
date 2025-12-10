@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/0443c6c48e3fa3dc90382e790f499565e6c16b393eb50d066cee34a5aafaf1d0.jpg"
 	],
 	"releaseDate": 20170907,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "M. C. Escher meets Isaac Newton",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "184 MiB"
 }

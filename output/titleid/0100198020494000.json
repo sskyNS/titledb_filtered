@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/67aad37ea205e0b0d713017fa17c4ea7708de07aac6b52e507d1cac226a3d388.jpg"
 	],
 	"releaseDate": 20250502,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Can you melt the ice in people's hearts?",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.16 GiB"
 }

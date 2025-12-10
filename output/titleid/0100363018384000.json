@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c819630d86c1da558040eaa4c6823616207c920a1930457dcf9f6f072cfad57d.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Katy, a French sniper, needs to protect her magnificent city!",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

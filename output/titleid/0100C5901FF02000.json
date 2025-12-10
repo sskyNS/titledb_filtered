@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b8081eddcec414fb3f7862a24e7422c13d900e35d220df1ea62236fa8c4721a1.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A roguelite-city builder hybrid. Build a gnome city above by looting mystical caves below. Complete fast runs, unlock upgrades, and venture deeper.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "437 MiB"
 }

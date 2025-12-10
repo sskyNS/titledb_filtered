@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/0e2a7f3b11a545a40073d7d876253a568cc7b580f22c5e46699a96c1c843ba3b.jpg"
 	],
 	"releaseDate": 20180503,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Paint the world on your Nintendo Switch. Change ground physics using five colors. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.82 GiB"
 }

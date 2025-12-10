@@ -4,5 +4,15 @@
 	"publisher": "SEGA",
 	"screenshots": null,
 	"releaseDate": 20190516,
+	"category": [
+		"\ubcf4\ub4dc",
+		"\uc5b4\ub4dc\ubca4\ucc98"
+	],
+	"intro": "\uc5b8\uc81c \uc5b4\ub514\uc11c\ub098 \ub4b9\uad74\ub4b9\uad74\ud558\uace0 \uc2f6\uc5b4.\n<\uc12c\ub780 \uce74\uad6c\ub77c>\uac00 \uc139\uc2dc \ud540\ubcfc\uc774 \ub418\uc5b4 Nintendo Switch\ub85c \ub4f1\uc7a5!",
+	"languages": [
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.53 GiB"
 }

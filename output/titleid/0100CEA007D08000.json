@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/84e2bb72a239a2eab9f96a3c0cf68f576abbaedd52facd4b84252462604303d0.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"RPG",
+		"Music",
+		"Action",
+		"Other"
+	],
+	"intro": "Crypt of the NecroDancer is an award winning hardcore rhythm-based dungeon crawling game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity?\n\nPlayers must move on the beat to navigate randomly generated dungeons while battling dancing skeletons, zombies, dragons, and more, while grooving to the game's award winning Danny Baranowsky soundtrack!  You can even team up with a friend in local co-op mode!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.83 GiB"
 }

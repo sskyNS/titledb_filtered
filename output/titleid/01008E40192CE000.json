@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/13ee6f19a8dc07965d87857ad9de60f852dcc3cbac2790cee5e6aa87bd137ef0.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Experience an incredible steampunk adventure!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.81 GiB"
 }

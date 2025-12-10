@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a64bba38890bd2baebfed90229836fab756a703527bfadd8df9504e05136371e.jpg"
 	],
 	"releaseDate": 20211029,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Party",
+		"Other"
+	],
+	"intro": "Enjoy the classic bubble game, where you can now discover the figures hidden in each of the snowballs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "612 MiB"
 }

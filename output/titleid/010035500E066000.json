@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/6be88a576bfb9afa8362bab8559512894416de71acd20f610752f375a80f4d78.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Just another Billiard Game - think again, PoolBlitz is much more. Traditional 8 Ball & 9 Ball meets No-Wait Blitz mode; \nPower-ups, pocket blockers, Steel balls, themed Seasons.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.18 GiB"
 }

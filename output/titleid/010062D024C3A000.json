@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc2151496335d16b8d15a1202182d1a7ec51c2f0cca463603a65bbb4d726b788.jpg"
 	],
 	"releaseDate": 20250925,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Create a cozy roadside cafe for travelers! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "476 MiB"
 }

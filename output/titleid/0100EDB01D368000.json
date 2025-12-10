@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/058c0a4737abcabb333f22fd748cc4dbfa620d1f56408f87475a5aa8c8fe2873.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "In this puzzle-based side-scroller, enter an animated graphic novel\u2013style adventure and help unsung heroes fight their way through World War I.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.00 GiB"
 }

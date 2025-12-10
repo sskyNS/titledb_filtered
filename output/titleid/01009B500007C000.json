@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/004f7eecdc3bf6a4078c7f55716e4ed8241f91f5fd3bb421fe3ed38bc9e617b1.jpg"
 	],
 	"releaseDate": 20170616,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Reach beyond the average fighter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.24 GiB"
 }

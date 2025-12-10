@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e937576cf250af4499f15163f4096cbf8d8396e7fa5637dcd98525c5587337cb.jpg"
 	],
 	"releaseDate": 20181211,
+	"category": [
+		"Racing",
+		"Action",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "You are a hungry, young hoverbike racer who needs to get off Earth before it E-X-P-L-O-D-E-S. Hunt bounties, throw races, and do whatever you can to get to Mars and win the Grand Prix.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "832 MiB"
 }

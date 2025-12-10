@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b0528d52399401a467ea1799a0372b11eea27c70a266b1230f36fe3eab0edd2.jpg"
 	],
 	"releaseDate": 20240509,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A peaceful catnap turns into a whimsical adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.24 GiB"
 }

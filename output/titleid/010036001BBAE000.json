@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6190541278a17ad5b9b4be8ce2e340bca5891d6eca86456f01c4e35cb48e0668.jpg"
 	],
 	"releaseDate": 20230809,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Breathtaking visuals, epic battles, and captivating music in a vertical scroll shooter called Vostok 2061, set in mesmerizing alien worlds!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.40 GiB"
 }

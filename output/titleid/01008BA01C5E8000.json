@@ -9,5 +9,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/09732a1a50c32d4b04e9f7d85cddad60eada4583681cd46659fcc5abe918d958.jpg"
 	],
 	"releaseDate": 20230810,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Arcade Snake Go! is an addictive arcade game in which you take on the role of a hungry snake.\n\nYour goal is to eat as many apples as possible without colliding with your tail or hitting the bombs that appear randomly across the playing field.\n\nAlso pick up a potion of speed and life to last much longer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "56 MiB"
 }

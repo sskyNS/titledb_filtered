@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/816a723bbc161d9fd5c7e530ff11a12e82d1ef29c5ae45d53fe685716c26d716.jpg"
 	],
 	"releaseDate": 20200109,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A space wars game that feels set in another dimension!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "125 MiB"
 }

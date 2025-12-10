@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/63b9a6d01f313c9299f1f490274acdf47346f31b33f12d19b84a98f696773260.jpg"
 	],
 	"releaseDate": 20191219,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "bayala - the game to the fantastic movie. Plunge into the magical world of elves!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

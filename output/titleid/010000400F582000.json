@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcb936d2ee4362071fb7e9a707563898c80808406a448f3d03c7d94871769a2a.jpg"
 	],
 	"releaseDate": 20200514,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Racing across an over 60 km long ultra-technical track at breakneck speed requiring realistic riding skills...",
+	"languages": [
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "11.34 GiB"
 }

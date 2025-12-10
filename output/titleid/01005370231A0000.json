@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8000e6bf399edc142bf1085192b20b1937f23e290f9178357aa57eaef6838167.jpg"
 	],
 	"releaseDate": 20250510,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Exciting fighting game in oriental style. Choose your character and go to fight!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

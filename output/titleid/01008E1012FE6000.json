@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/566cdb20a605932be937a6a35c66f263646205eb5d88f76f2a7c62fc5097e609.jpg"
 	],
 	"releaseDate": 20210730,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Take aim and start slashing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "179 MiB"
 }

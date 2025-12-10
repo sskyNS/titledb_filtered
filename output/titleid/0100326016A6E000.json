@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5124226c9d12be7f96b111d1544f409f7db9c6b1acde056f96854f35910b181f.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Immerse yourself in a new mystical story full of secrets and puzzles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "672 MiB"
 }

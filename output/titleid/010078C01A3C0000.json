@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c2750d38cdbdd0b1741e45603c0628425e2a1efb5e9f4f3e81ac578c76d4f85.jpg"
 	],
 	"releaseDate": 20240808,
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Experience a slice of the Jura Tempest Federation life with friends",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.91 GiB"
 }

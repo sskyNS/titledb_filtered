@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f7e2974163bdf9301ae7d2c7e1670dff73110c31abf2e3d1dcdf1397c5238b8.jpg"
 	],
 	"releaseDate": 20250623,
+	"category": [
+		"Adventure",
+		"Study",
+		"Music",
+		"Education"
+	],
+	"intro": "Travel to a world of dinosaurs where you'll sing, explore, and make Jurassic friends. An adventure filled with rhythm, excitement, and giant creatures.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

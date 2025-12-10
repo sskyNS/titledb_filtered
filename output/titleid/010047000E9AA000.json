@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f2ad0de7b106dd42c4cf61add826e237d6b927935895ed37b77255f83de20b8c.jpg"
 	],
 	"releaseDate": 20200211,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "AO Tennis 2 is the only tennis experience designed for and by its community. Create your own players, stadiums and legendary matches.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "8.15 GiB"
 }

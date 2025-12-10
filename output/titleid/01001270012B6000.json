@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/631f91a10b4d01e235e43d3565459f6d4ebcf62f7210343740e8f6f3be1f8da9.jpg"
 	],
 	"releaseDate": 20171107,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Join the Uprising",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.64 GiB"
 }

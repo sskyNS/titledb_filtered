@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f4deef134c11df85e0d8676f7a952e7104fdb3c8e68facbcd689a5947781312.jpg"
 	],
 	"releaseDate": 20220218,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Explore a vast world full of enchantment, challenge, and fun",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "62 MiB"
 }

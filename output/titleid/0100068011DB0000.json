@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d21ab8a633e74416b4a7a91c93883a86565471321de244c2a48c244e2e5d50d.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Bubble Shooter Game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "536 MiB"
 }

@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/18529076fe685a80e1a54921fae439be8f835c58956c42d29782a2b8ba662cc2.jpg"
 	],
 	"releaseDate": 20210929,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blast bugs and chase high scores in this glorious revival of an old-school classic, all while jamming to a heart-pounding original score by Megan McDuffee.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "378 MiB"
 }

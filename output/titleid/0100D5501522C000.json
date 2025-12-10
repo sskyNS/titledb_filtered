@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/b374b2c4a34cfdbbcdd68f4b3d5576602e5a6feb67b69bb4ec470cd3fe3c3451.jpg"
 	],
 	"releaseDate": 20230202,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "From the creators of ABZ\u00db, The Pathless is the mythic adventure of an archer and an eagle in a vast forest.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

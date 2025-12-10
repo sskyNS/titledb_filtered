@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c2972ca8fe8ab60680fe8c3825124a5fe350214600e2cf192b96e6291c799100.jpg"
 	],
 	"releaseDate": 20191121,
+	"category": [
+		"Adventure",
+		"Other",
+		"Communication",
+		"Action"
+	],
+	"intro": "The last episode arrives",
+	"languages": [
+		"en",
+		"es",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "331 MiB"
 }

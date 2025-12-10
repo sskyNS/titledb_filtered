@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd550f1fa5b4fc1d0153d35a95f2e5db99f86aab11a53c2d68bd3dfee3169125.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Fighting",
+		"Action",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Punch your hearts out!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.36 GiB"
 }

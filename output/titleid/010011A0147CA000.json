@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9dbb86e2208ed3c5dbac1f50eec543409dc351c8391cb79c742a90ea00ce7ae4.jpg"
 	],
 	"releaseDate": 20210519,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Warp your way through a wintry platforming adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "84 MiB"
 }

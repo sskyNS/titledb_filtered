@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/00a50d87f887b41b8a49179367fad7f64d5cf14bade44122f3498e73a70c6df5.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Party"
+	],
+	"intro": "DOG GONE GOLFING is a fun pick up and play arcade golf game where cute dogs slap hockey pucks around procedurallly generated worlds. Perfect for the whole family!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "55 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9726e4eccd2dcb21f4b44f6c9a74a27987e54fbdeee87f411187da7a8fd598b5.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "A casual game in which you clean and restore dirty items. Enjoy the satisfying audiovisuals featuring sensually designed sounds and graphics.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "973 MiB"
 }

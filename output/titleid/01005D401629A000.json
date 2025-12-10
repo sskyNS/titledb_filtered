@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/31b55bc919e2390fa849150b86ef1d957356b01d1a38334fad3ae92950125fa0.jpg"
 	],
 	"releaseDate": 20220811,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "!NOTICE: Game services will end by September 29, 2023! \nPlay real Jeopardy! episodes with friends, family, and the actual contestants!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "328 MiB"
 }

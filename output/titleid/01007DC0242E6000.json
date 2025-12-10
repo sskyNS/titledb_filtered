@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc153ebfc72562e21cd2761394f537a0cf77d3146e4118c1dcc6013702852ff9.jpg"
 	],
 	"releaseDate": 20251121,
+	"category": [
+		"Shooter",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Immerse yourself in the dystopian Europe of the year 2084, where the Lucis Lux Mega-Corporation owns everything and the people own nothing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

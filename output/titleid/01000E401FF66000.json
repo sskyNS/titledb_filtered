@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bf5679e72fca9a53c0bb080b1af31b6f2cad6b16c8c2b206d207790acef5a68.jpg"
 	],
 	"releaseDate": 20240905,
+	"category": [
+		"Board Game",
+		"Multiplayer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Find Mister X in Scotland Yard\u2019s trickiest case yet!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 6,
 	"size": "282 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/597b60938b173d7ec1b0deca356c84ee8acbe76ff378fa90a3e86c2d99c7de17.jpg"
 	],
 	"releaseDate": 20190228,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "An old school arcade and platform tribute",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "301 MiB"
 }

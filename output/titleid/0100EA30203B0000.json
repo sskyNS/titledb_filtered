@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/bdc571e374a4e7797a7830130d26710ee3b7d450aca300c24591373dcb89475e.jpg"
 	],
 	"releaseDate": 20240826,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Helix Fruit Jump is a casual arcade game where you control a ball that bounces through a platform made of fruit and cake slices.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "63 MiB"
 }

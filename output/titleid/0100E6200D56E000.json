@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8cb6157fb20333315d95ba3d90325a450a311d6c26a6dcce46c30ea708c7e10c.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Battle beasts and befriend magical beings to uncover a way back home.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.78 GiB"
 }

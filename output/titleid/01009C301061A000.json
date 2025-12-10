@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/91f498d559ee6ee756efa0e1a85612c340ec4ba771e27217a9c17512c971c6f9.jpg"
 	],
 	"releaseDate": 20200717,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "Engaging pixel adventure game with RPG elements, gameplay that\u2019ll get you hooked for hours. You wake up in an underground laboratory, free again after a horrific accident",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }

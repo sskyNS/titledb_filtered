@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e82f880a75eff33e4d392aeceb245a14a022dbaa662f58bd23d82ced92e2aa0.jpg"
 	],
 	"releaseDate": 20210217,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "GALAXY GUARDIANS \nSURRENDER IS NOT AN OPTION!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc2c6e780a0b57a1a0ea9af0c40d8b713d691d45a70f2819559e55b940293f1b.jpg"
 	],
 	"releaseDate": 20181116,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Sports",
+		"Lifestyle"
+	],
+	"intro": "Hunt Like a Pro",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.46 GiB"
 }

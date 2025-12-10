@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/afc9922a840864ab09089b7192b2398890a9ce50bfba4140c829d20d1be36c1c.jpg"
 	],
 	"releaseDate": 20200605,
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "CLASSIC SHOOT\u2019EM UP ACTION IS BACK!\nRigid Force Redux breathes new life into the classic side-scrolling shooter genre with its lovingly hand-crafted 3D models, stunning environments, detailed effects and an electrifying Synthwave soundtrack.\n\nDEVASTATING FIREPOWER!\nArm your fighter with numerous upgradeable weapon systems and supplemental Force Shards! Collect Energy Orbs to fill up your energy supply and eventually unleash an extremely powerful blast against your foes!\n\nCONFRONT AN OVERPOWERING ARMADA!\nBattle it out against huge swarms of enemies, heavy gunships, laser wielding mechs and giant alien creatures. Every enemy has its own unique and challenging strategy, from the tiniest creature up to the largest boss.\n\nLOTS OF EXTRAS!\nJust in case the extensive, action-packed Main Mission is not enough for you, try the challenging Arcade and Boss Rush Modes, defend your ranking in the global leaderboards and grab all 40 achievements. Everything is prepared for countless hours of shooting fun!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

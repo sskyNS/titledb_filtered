@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/65c4fab5bbde85870353a4b1ea360d4f81a47c59b303036e8b9656489537ba7a.jpg"
 	],
 	"releaseDate": 20230428,
+	"category": [
+		"Music",
+		"Arcade",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "Get ready to rock & roll with Astrid in a heartwarming music arcade rhythm game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "688 MiB"
 }

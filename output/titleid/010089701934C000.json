@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/04dee9a7b81918d6174fe8f089937b709e4af3499a720b7dcb674cc63aa8655b.jpg"
 	],
 	"releaseDate": 20230203,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Helvetii is a 2D brawler roguelite set in Gallic Celtic Mythology. Use the powers bestowed by primal deities to fight your way through hordes of creatures.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

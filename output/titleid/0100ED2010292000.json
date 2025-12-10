@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/63ca5053e81535040187b3d6ada41336edb238e0feab2867499403c663578396.jpg"
 	],
 	"releaseDate": 20200820,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "This is a story of light - of Gleam, in a world of glass stained in darkness.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.17 GiB"
 }

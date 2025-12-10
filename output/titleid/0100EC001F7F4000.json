@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ba3ffe4b04cf3ddaed3971d756dac79e2aef030da1a4a6921e9c187e686f2e73.jpg"
 	],
 	"releaseDate": 20240802,
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Build and manage fortifications to defend the Gate of Heaven against the Hordes of Hell in a surprising mash-up of Tower Defense and Bullet Hell!",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

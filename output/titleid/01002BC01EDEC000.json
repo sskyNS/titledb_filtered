@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f955cfe46837f5fa4810bab33d6532badb15e7689fda61e3b83fb100b063a2b2.jpg"
 	],
 	"releaseDate": 20240510,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Take a very hands-on approach to managing a bustling hotel and make sure your guests leave with a smile on their face.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.04 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a2913a91402bb88c11a21d02add4b6b1abb4db0d5a0478f3bf333083e1b61e5.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Run an ever-evolving, paint-fuelled factory and create magical, shape-based warriors! Send them into battle, then build an even better factory on your next run.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "754 MiB"
 }

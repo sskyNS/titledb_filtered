@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/255e3be3b59488e7b53c7d90013865631ca0848ee67b49b1b82614325566b6e9.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Celebrate Chinese New Year! Find 100 hidden cats in 5 festive drawings and collect all 12 zodiac animals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "213 MiB"
 }

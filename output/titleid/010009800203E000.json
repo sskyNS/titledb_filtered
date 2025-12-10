@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/81e9df0e347bd1a8bdc390789fd392e56f6b810a47f9cb77bc4b765e1bd43d65.jpg"
 	],
 	"releaseDate": 20171206,
+	"category": [
+		"Fighting",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Be Like No One.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "21.16 GiB"
 }

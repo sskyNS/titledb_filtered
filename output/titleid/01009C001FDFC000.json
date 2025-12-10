@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/df03efe647ce18f280bc7233c7a028759227205b54b0eaadbd13713d9c197f36.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Sports",
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Climb the wall&reach for the top! Join adorable characters on an adventure to reach the highest heights. Play1P or with up to 4P in innovative&fun climbing game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.13 GiB"
 }

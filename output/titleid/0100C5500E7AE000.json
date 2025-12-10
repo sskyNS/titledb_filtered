@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8f2f87e5cc1c46a228f624c8b0729ced903cff66ccf06c7426a705020d1332f.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "STURMWIND EX is a shmup (shoot em up)  in the tradition of old arcade games. If it moves - shoot it!!",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

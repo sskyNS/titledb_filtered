@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2410cd3ebd268bb74ddb35c369a09ffe01dea4225ea839254204ebf66cb680eb.jpg"
 	],
 	"releaseDate": 20220329,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "In a world where water has run out, engineer Josephine falls victim to a corporation's schemes. Homeless, jobless, and robbed of a heart, what will she do?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

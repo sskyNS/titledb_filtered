@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a14dfa27d175da085cac3da69c30eda27979dbbe299b0671f5d17d248ce81e92.jpg"
 	],
 	"releaseDate": 20220311,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Discover an 8-bit world full of mystery, monsters, and challenges",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

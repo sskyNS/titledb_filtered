@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcf78985e33244e43e21db8e1e4bbcd4f78562cc007530b61d7e1a2147f9b558.jpg"
 	],
 	"releaseDate": 20181018,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Beat the wicked Winter Queen and save the fairy-land from everlasting winter in this stunning match 3 game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "200 MiB"
 }

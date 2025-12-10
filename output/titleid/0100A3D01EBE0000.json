@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9cc78e73ef282aef52e769f8b6404a62b940fcabdd057f451e15a38ad0b0096.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "A classic puzzle game that will lift your spirits.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

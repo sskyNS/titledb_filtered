@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b616dab427b6ab02d6556ea37c8ef6bf665cf6761726940f76ce973616d66e3.jpg"
 	],
 	"releaseDate": 20240809,
+	"category": [
+		"Shooter",
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Conquer the Skies, Change History.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "529 MiB"
 }

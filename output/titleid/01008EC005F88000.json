@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dadf1d204e4025362bc1e9c1d1f09c7c2b2067afe87ff1c8785e7b5dcebbb0df.jpg"
 	],
 	"releaseDate": 20171019,
+	"category": [
+		"Arcade",
+		"Action",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Try your hand at throwing a ball across a room and into a cup!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "255 MiB"
 }

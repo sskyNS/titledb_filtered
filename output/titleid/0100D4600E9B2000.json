@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/df7df2108195133cb8aa6a4aaa8be9d751af3ec174780c655946c3bd9f0112fe.jpg"
 	],
 	"releaseDate": 20190906,
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Hyperdrive Massacre is an 80s inspired arcade fragfest in Spacewar sauce designed around local multiplayer, focused on kinesthetics, tactical and shooting skills at a frenzied pace.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "447 MiB"
 }

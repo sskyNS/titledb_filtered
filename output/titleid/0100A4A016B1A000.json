@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec319c46e187a7de54f59c2a04ea7b3aa5454a31f0d8cda2f30780cb4bf7ba48.jpg"
 	],
 	"releaseDate": 20220927,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG",
+		"Lifestyle"
+	],
+	"intro": "Your life in Willowdale starts here!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.16 GiB"
 }

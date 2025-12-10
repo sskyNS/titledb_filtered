@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/dcab362ffed9b284cd660824e0c1ac9e928d6fd73e0021a8688ede4e9545aab1.jpg"
 	],
 	"releaseDate": 20251009,
+	"category": [
+		"Simulation",
+		"Action"
+	],
+	"intro": "Escape the house. Escape Evil Tung Tung Sahur.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.71 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/233b8daf2fef02b0c250bbba95356ed36d22a801bd1e27dce7960b7ea741a37a.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Music",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Discover the power of music to unite us. Let yourself be carried away by the rhythm of the most beautiful melodies and discover moving stories. The path to encounter is in your hands.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "565 MiB"
 }

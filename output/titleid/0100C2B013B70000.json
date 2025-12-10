@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab1f1558bbcb7023ed0dac6fcabb93491917215f6311edf5a7da87bfe008ecc9.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Kosmokrats is the people's zero-gravity, comedy adventure game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

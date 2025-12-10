@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0badc65def65c1cdf1632c228357a812ec89e48c64647897269eab77671fd946.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Video",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Jack is Back",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.70 GiB"
 }

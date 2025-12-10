@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e8e27b33a7537c62b836528115d9fb6288f83883307648b02a528fb44822f13.jpg"
 	],
 	"releaseDate": 20200206,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Nerved is first person horror game, about a paranormal investigator couple and their latest adventure in the \u201cBitterwood Forest.\u201d ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.53 GiB"
 }

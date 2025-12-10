@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8f4329c9394b64525d7e356593cef02f961075abab855d583bab520226075189.jpg"
 	],
 	"releaseDate": 20190308,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Party",
+		"Action"
+	],
+	"intro": "Run with scissors in a gravity-defying party brawler.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "289 MiB"
 }

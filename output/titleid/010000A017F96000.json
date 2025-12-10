@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f24a848eba2895c300a74fe08eb9e5edb911ff131b9c5e04a65fea992b43e08d.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Cute or Die!\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.66 GiB"
 }

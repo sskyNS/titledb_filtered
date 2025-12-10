@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f76fd5c57e53c65160a86bc14f22a18c8ea4ce11c7e35e372b6c25f2f69305c.jpg"
 	],
 	"releaseDate": 20241010,
+	"category": [
+		"Adventure",
+		"Racing",
+		"Lifestyle"
+	],
+	"intro": "Saddle up for endless adventures in a magical world of horses, races, and surprises!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "510 MiB"
 }

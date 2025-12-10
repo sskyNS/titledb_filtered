@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f075e8c961bd0a7cfa7b0a9e72f6336baba379ebc198f6b07cc5c6cafae4c7ae.jpg"
 	],
 	"releaseDate": 20251011,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Fill the world with Evos!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "612 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/877f96995ea8cf79e392d9d110200d555847c7bbc8bb553fe710c9228495315a.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "In a dreamlike future, detectives Santos and Torres will have to solve a series of mysterious murders. Can you find the culprit?",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.68 GiB"
 }

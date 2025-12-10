@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b4bbbbf31e7f0e3702f8b353881e66f8922c1611bcca5c8e030eb94bfcd44d2.jpg"
 	],
 	"releaseDate": 20201224,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Myth of the mighty.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "153 MiB"
 }

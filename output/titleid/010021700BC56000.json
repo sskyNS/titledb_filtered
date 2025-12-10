@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/e897bac5599232e642e41fcf350bb822fd0bef8876cb7a07c2193140b8c2ca43.jpg"
 	],
 	"releaseDate": 20190201,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"RPG",
+		"Puzzle"
+	],
+	"intro": "Ancient Rush 2 is an Arkanoid, Brick Breaker game. Paired with RPG elements it delivers a new twist.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.33 GiB"
 }

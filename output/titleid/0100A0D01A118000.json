@@ -4,5 +4,14 @@
 	"publisher": "MLBAM",
 	"screenshots": null,
 	"releaseDate": 20230215,
+	"category": [
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Shock The Game. Own The Show.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "12.16 GiB"
 }

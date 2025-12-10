@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/974861497399e664682197eab08681c5d05a5b186ea9041b3b93230be6dc071a.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Education"
+	],
+	"intro": "This is a stupid game that might include Trolley Problem, Ship of Theseus, Brain in a Vat, Infinite Monkey, Sisyphus, Prisoner's Dilemma, Schrodinger's Cat, etc.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "787 MiB"
 }

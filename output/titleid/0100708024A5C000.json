@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/6943ff152632da1718b92d1f35fc450d2cd7fddb92890f13126b421bc85168e9.jpg"
 	],
 	"releaseDate": 20250924,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Board Game",
+		"Party"
+	],
+	"intro": "Join cute cats in festive scenes! Find feline friends and pop balloons as you explore a vibrant music festival and a lively university campus full of discovery and fun.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "271 MiB"
 }

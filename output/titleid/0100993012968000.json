@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/93408bfa58e193e21241a5bbdc7dbfe9f860df3c0e697c2f73bbe771a9e99d54.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "WELCOME TO NEW KOZA",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "312 MiB"
 }

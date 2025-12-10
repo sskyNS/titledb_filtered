@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0ce8ad6fe32c9534e452aba40a61d56357215f600206f35e2cc480a216c7e659.jpg"
 	],
 	"releaseDate": 20201110,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "EXPLOSIVE AND HIGH-SPEED ARCADE TRACK RACING FOR EVERYONE",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.49 GiB"
 }

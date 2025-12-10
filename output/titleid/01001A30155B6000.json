@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/17e6f9a949a30a769d5175725c4b03ea0a3db493c3eae6cb44d7b20fba5452ac.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Simulation"
+	],
+	"intro": "Three retro handheld puzzle games in one cool classic collection.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "729 MiB"
 }

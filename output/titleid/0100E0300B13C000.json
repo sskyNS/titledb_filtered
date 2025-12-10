@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/98f9c288a6981d515f7862f86d4106a5a088e9364e59702c8197ac003c90aa62.jpg"
 	],
 	"releaseDate": 20180614,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Mahjong as it's best with 640 challenging levels!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/1edc2d2a545351b4c1e7361472e8959c15408a14aa53e534071c124ccc206bca.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Stealth & swordsmanship & ninjutsu\nAn action adventure with an epic storyline.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "517 MiB"
 }

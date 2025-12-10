@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7d984f3ae8d3d4a6cacc8c5802a762b49569654494945d08bcb69eadfae2bd89.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Beat the clock, tame her wrath, save the day.",
+	"languages": [
+		"en",
+		"pl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

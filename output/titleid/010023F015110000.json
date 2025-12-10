@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f428a8b4890678c759c1d08ca553f3b6fdb2a1f313dce7e1a00e957089b4dbf3.jpg"
 	],
 	"releaseDate": 20240516,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Gather resources, build defenses, and upgrade your arsenal to defend the kingdom against waves of dangerous monsters!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "343 MiB"
 }

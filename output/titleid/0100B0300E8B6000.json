@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1ab4bd01bdf1d925aaf02f628c9f91935782fd08686a2a5226687968425350f.jpg"
 	],
 	"releaseDate": 20190801,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Play as Saizo Kirigakure,and use your amazing ninja abilities to defeat your enemies. Fight alongside comrades, and save Lord Yukimura Sanada!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "246 MiB"
 }

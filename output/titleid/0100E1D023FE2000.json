@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/707edc9e6fce3cf3de29fde93cbd3735c55391e17cd329ce46fc7f0e62fa1e45.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Party",
+		"Action",
+		"Communication",
+		"Racing"
+	],
+	"intro": "Hit! Whack! Bam! It's watermelon-smashing time!\nPlay solo or with friends! Watermelon fun for everyone!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "565 MiB"
 }

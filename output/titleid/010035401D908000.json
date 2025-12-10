@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d1dc418765e628e2269795d33917cb4eb392ce3ea4bdc180d0390d450b34f9e8.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Arcade",
+		"Party",
+		"Racing",
+		"Action"
+	],
+	"intro": "Spin your ship around planets, collect as many valuable prizes as possible, and play solo or with up to 4 players. It's super fun either way!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "336 MiB"
 }

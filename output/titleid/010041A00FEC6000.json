@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/98a4c50cd1cdacc38a511afbded8b1dfc8a64d88d04f56f71f523685e895cd6c.jpg"
 	],
 	"releaseDate": 20200121,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Ember is a homage to classic role-playing games that features a deep branching story, endless exploration across a huge open world, a robust skill system, and an intricate crafting system.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.97 GiB"
 }

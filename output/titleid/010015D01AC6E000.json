@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f3760c6fc55a66e57f79116c105021a0a6aff74a2f1b6cef93a2cf17934bbe3.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Grandfather's quest continues, now in an intriguing labyrinth of caves with unknown vegetation and minerals.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "583 MiB"
 }

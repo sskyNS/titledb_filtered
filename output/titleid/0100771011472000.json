@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e223f663fde68cc6f1e306a40b9078c4a9087e1aa8899e1f494fdbf02c43f8a.jpg"
 	],
 	"releaseDate": 20200327,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Repressed is an unusual adventure game in which players become a shadow. In this form, they explore the recesses of their minds to recover their lost memories. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "143 MiB"
 }

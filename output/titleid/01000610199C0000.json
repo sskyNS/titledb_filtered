@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/e47d1ff85247f1589c18baf14bc7bb105863cc2f4999c44b2941b3c0feb8a1c0.jpg"
 	],
 	"releaseDate": 20221226,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Multiplayer",
+		"Board Game"
+	],
+	"intro": "Super Puzzle Pack 2 brings together 800+ unique puzzles played across six different puzzle types. Play solo or with family and friends up to 4 players.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.20 GiB"
 }

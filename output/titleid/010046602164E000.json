@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/392f3580befbaff3771dbe48ee9a9e29a7df8b9d62f2d3a8c3f3c4a8097d1f5b.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Embark on a magical quest to collect Christmas gifts!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "486 MiB"
 }

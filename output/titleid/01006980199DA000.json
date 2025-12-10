@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cce02a184cb5598e1a386580be3225f4d131ec5a16d937f78e88f24825c9a2e5.jpg"
 	],
 	"releaseDate": 20221219,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Lifestyle"
+	],
+	"intro": "Arcade retro-style 2D vertical scrolling shooter.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "73 MiB"
 }

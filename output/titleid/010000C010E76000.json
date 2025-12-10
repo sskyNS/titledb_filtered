@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7274ae614ee8d927295e4552381c5742947db49e5012037a35e8155f01365af5.jpg"
 	],
 	"releaseDate": 20200320,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "It\u2019s time for some fun mini-golf! Sit back, relax, and score some holes. Fancy some multiplayer with friends? We've got you covered - up to 4 players on one console! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "382 MiB"
 }

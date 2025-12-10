@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7e71a8fde82a554db971ede43c5fc9d6157d01161f1b2ebae7511e80125a2340.jpg"
 	],
 	"releaseDate": 20250220,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "50 meow cute puzzle levels with co-op!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.65 GiB"
 }

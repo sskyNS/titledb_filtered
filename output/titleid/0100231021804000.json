@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/98dbad080b4baf88f2ac2962a4d9d9e50d001a1b9b402b480ebf0f4357f016f9.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Adventure",
+		"Party",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Chains Can't Hold You Back\u2014Fight to Survive Together!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "940 MiB"
 }

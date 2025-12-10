@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4247e0ae3e00657d1085c2743ede9118a07bb3a50587d9afa352d3e09c4ec4e0.jpg"
 	],
 	"releaseDate": 20210422,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"RPG"
+	],
+	"intro": "Play as an adorable, yet trouble-making turnip. Avoid paying taxes, solve plantastic puzzles, and take on massive beasts in a journey to tear down a corrupt vegetable government!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "421 MiB"
 }

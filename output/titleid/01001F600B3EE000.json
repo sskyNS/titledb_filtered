@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/69e92829a67a2527fa8650708eadde28d4f82991a6435e1d43b4b2b8a7bdb863.jpg"
 	],
 	"releaseDate": 20181019,
+	"category": [
+		"Strategy",
+		"RPG",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Fight for the forces of evil, in this ultimate battle of tower offense!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "682 MiB"
 }

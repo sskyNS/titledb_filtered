@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f60d8aabd7f5e33125d6bebc1bc28e3789577b5f43d8a75060e87b979987bf6f.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Lost between shelves and shadows.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "193 MiB"
 }

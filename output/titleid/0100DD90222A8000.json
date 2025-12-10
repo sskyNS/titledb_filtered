@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/99d262b6edeb78464c7bd4afaaf70a221587b185e5af90bb50604c0deb8dc242.jpg"
 	],
 	"releaseDate": 20250814,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "Pop bubbles, play mini-games & build a cozy cat village in a Japanese carnival adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "257 MiB"
 }

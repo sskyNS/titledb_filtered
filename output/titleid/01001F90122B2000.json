@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f91150240ab707dcba36939429bba03d783102716293244e75e378f42ebf39a.jpg"
 	],
 	"releaseDate": 20200917,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Classic Beat 'em Up action from the creator of Gunman Clive and Mechstermination Force",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "151 MiB"
 }

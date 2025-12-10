@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe3de2e6373ace3b369cd8ea4f6c3a62cc5c6b9f8c3cc5f55060d2231cb186e8.jpg"
 	],
 	"releaseDate": 20200521,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "A brutal sci-fi survival horror experience",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.40 GiB"
 }

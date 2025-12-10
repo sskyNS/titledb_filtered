@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/67212d3d3192a44f3ccc1414f48a786595a1a572879a291d2f54861a4f800444.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Boldly going where no potato\nhas gone before!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.65 GiB"
 }

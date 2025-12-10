@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8e275bcb5ccef30cd38cb7ea8520eb4e7d4fc110edf505fcd95e1b1439ee2f09.jpg"
 	],
 	"releaseDate": 20210801,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Theofil is an action arcade game in which you'll guide a hooded hero wearing an ancient robe.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b010369253a4d5f97116ad04f284f706dfd944d1fc2c274a0bb930d95ca3d0d.jpg"
 	],
 	"releaseDate": 20231218,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "As a kid, have you ever imagined being an air traffic controller, managing the flights of hundreds of toy planes and passengers?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.72 GiB"
 }

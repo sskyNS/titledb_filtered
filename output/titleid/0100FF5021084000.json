@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/24a5035a874bea02ad54b873c17083e25f642985006967aa710af4dc052f004e.jpg"
 	],
 	"releaseDate": 20241108,
+	"category": [
+		"Music",
+		"Lifestyle",
+		"Practical",
+		"Utility"
+	],
+	"intro": "Make music to the beat of your own drum with Drum Pad!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "334 MiB"
 }

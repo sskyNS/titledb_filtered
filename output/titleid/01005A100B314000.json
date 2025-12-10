@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/a41e28a3b19ae0437ca7dc222847d025fe0e824a556a62db45e69a2b674a4e67.jpg"
 	],
 	"releaseDate": 20211223,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Racing",
+		"Lifestyle"
+	],
+	"intro": "Discover the fascinating story of Mika, a girl known as a horse whisperer, as she tries to befriend the black stallion called Windstorm.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.40 GiB"
 }

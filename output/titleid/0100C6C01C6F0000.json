@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/43e287719caef6923ffabae57d99bf3a2b45aeba7eed870d186032b2102fb450.jpg"
 	],
 	"releaseDate": 20230818,
+	"category": [
+		"Adventure",
+		"Education",
+		"Platformer",
+		"Study"
+	],
+	"intro": "Embrace the wonders of the night sky alongside an adorable kitten named Fellie.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.15 GiB"
 }

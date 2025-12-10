@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c64c7062bd8c66122ccfe3484180a68943dd708ea8ecd7fadc758b2bad63c61.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Action",
+		"Multiplayer",
+		"Sports",
+		"Party"
+	],
+	"intro": "Fight in completely unregulated alien boxing bouts and punch out players online in BARE BUTT BOXING, a chaotic multiplayer brawler with physics-based characters.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1018 MiB"
 }

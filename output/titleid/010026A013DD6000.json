@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/dda1163ee05f4fccca97e771ad8dfa7ec51f25ff92de32511cc2b89070f4f73f.jpg"
 	],
 	"releaseDate": 20210319,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Explore a vibrant jungle full of puzzles to solve and mysteries to uncover!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "365 MiB"
 }

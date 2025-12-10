@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa6a728db9acf3cc1710e454f02ae9e71ee908c6e3db224135122b4eadd9b1c0.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "Startup Company Console Edition is a business simulation sandbox game. You\u2019re the CEO of a small startup and are eager to grow your company.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "866 MiB"
 }

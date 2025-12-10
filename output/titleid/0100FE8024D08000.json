@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a028bea025c82c4721fe331e794c2978bec5901976f9455cab7bdfdddb4b1950.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Your epic story awaits here. Experience an epic journey and rescue a village from evil deeds. A retro RPG full of secrets and adventures.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "251 MiB"
 }

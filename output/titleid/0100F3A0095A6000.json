@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/612a05c6efb2190d1958aa5b18f5b4e8ec1ed2d9e411f9333fbc78fcc29cb682.jpg"
 	],
 	"releaseDate": 20200624,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Friend. Confidant. Counselor. Voyeur.",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.73 GiB"
 }

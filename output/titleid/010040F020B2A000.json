@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/693975249b0fe72d9e347eb4b936de1451cc5d820f65aabbe800e981ab88329a.jpg"
 	],
 	"releaseDate": 20241025,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Lifestyle",
+		"Music"
+	],
+	"intro": "Cats Hidden in Spooky Places takes you on a spooky adventure! Explore 11 eerie scenes filled with witches, ghosts, and more. Find all 440 hidden cats and complete your collection!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "93 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/271b723895b094c275fc2d3bcfaee20a2f78ac8e9390c571f5b48d4fbf905604.jpg"
 	],
 	"releaseDate": 20221219,
+	"category": [
+		"Arcade",
+		"Party",
+		"Multiplayer",
+		"Puzzle"
+	],
+	"intro": "Get collecting in this frantic Christmas puzzle matching game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.11 GiB"
 }

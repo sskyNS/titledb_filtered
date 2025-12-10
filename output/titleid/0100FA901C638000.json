@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a43e70213a9efc56bfb1e3488d509bb70a8dc4f8f4de40be5b8f756bbed4a446.jpg"
 	],
 	"releaseDate": 20231019,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Set out on a war between the king and the world's mightiest warriors.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "64 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/31bd2bce67f57a8a74606eac70d414c2b5357890561d9029fceebcf7b16e5ef1.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Escape the murderous beings lurking in the darkness. Enter the temple now!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.55 GiB"
 }

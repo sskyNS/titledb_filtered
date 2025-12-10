@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cf166340ecab61177c69fee4537ca90ec58a07b480bda3cdd70372a922a4fb16.jpg"
 	],
 	"releaseDate": 20200904,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Play \"Deuces Wild\" and test your skills on your favorite Video Poker game.\nIt's like having a small slice of Las Vegas on your console.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "104 MiB"
 }

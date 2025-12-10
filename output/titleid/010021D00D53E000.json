@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4a23a0dca20391a0c6eeddf44b58c01034b1044dd24155108856d2cab38a1a6a.jpg"
 	],
 	"releaseDate": 20190412,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "awake. head throbbing. vision blurry. come light the fire.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "211 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e086e5a8c9b889ed729e5a06f4bbccd5fd565537e9f5e74024bcdec41469431.jpg"
 	],
 	"releaseDate": 20230531,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Play cards with a group of adorable animal friends who robbed the largest bank on the Eastern Seaboard 12 years ago.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "705 MiB"
 }

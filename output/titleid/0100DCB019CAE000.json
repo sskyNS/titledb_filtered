@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5a08fa236b39ac927260cb620cad67dd2b770f7495c12a6876d488ae6470d79.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "New Arcade Machine for 1 or 2 players!\nWhack-a-gopher or two before they get you!\nBUT DON'T HIT CUTE WOMBATS!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "161 MiB"
 }

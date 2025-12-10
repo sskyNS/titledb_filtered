@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/09547e6c62704db50dfb346e7555303c0a2ce6e4df5810c21c01b796e78f6228.jpg"
 	],
 	"releaseDate": 20191108,
+	"category": [
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Saving the world will be a bit of a stretch",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.86 GiB"
 }

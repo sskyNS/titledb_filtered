@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2de8e0f1ee33439bebc2d3936cb0d053f9cb5b753d7ebc338faf9e7520c5f44.jpg"
 	],
 	"releaseDate": 20230829,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Hercule Poirot is back in a brand-new adventure, set in the heart of London. \n",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.25 GiB"
 }

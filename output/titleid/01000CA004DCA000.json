@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/34237f5fcb3381cd61e3bbaee9a00c68be6f61913670765524f0ab15b04874f0.jpg"
 	],
 	"releaseDate": 20171207,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Includes 22 great levels. Over 35 million units sold across all formats!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.10 GiB"
 }

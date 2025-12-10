@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a794a6f4046c79298cd14b2fbec4f85afd0b5351d9eece1edefb7b930108572.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Strategy",
+		"Platformer"
+	],
+	"intro": "Chef Chen is a multiplayer co-op hunting and cooking game for 1-4 players.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "672 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/c0dc306739f8e10a93ff0953db5c2c2809b1acab6d220cf6883b1d31dfe612fb.jpg"
 	],
 	"releaseDate": 20231109,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Take down the evildoers and avenge your kung-fu master!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "57 MiB"
 }

@@ -10,5 +10,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2f406e680d530c73a77d2a06a30f04b601f693ada17bf575ef8255dcae932c00.jpg"
 	],
 	"releaseDate": 20190118,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "glorious mix between roguelite and tower defense",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "843 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7c140866066d53cd7ac6be97f2d4b5c9ecf55560a2c96a962f31364e474987e.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Thwart Capital B on the go, with your favourite buddy duo - Now on Nintendo Switch\u2122!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "8.13 GiB"
 }

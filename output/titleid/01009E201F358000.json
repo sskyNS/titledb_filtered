@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f06bd7f4cbff6afe17ce4aa51774e0943783a6251e4a49de7ecb1ec6618694e7.jpg"
 	],
 	"releaseDate": 20240614,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Catch up to 220 real-life bugs and display them in your bug zoo",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

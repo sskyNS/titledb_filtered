@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0996d419ec209f33ccac8c0d378e7ed61d962d99e973efb4c1d28f165cf187f4.jpg"
 	],
 	"releaseDate": 20190326,
+	"category": [
+		"Shooter",
+		"Puzzle",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "OMG! Alert! Alert! The City of Redfield has been hit by an outbreak of exploding zombies!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "316 MiB"
 }

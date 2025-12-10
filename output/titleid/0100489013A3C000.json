@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b616c013d107a00daa34c633f92ff9ec38ac66ae583e6789e4ceab55cba355d.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "As the leader of the Global Health Organization (GHO) your task is to contain the spread of a virus and save humanity before it is too late.",
+	"languages": [
+		"en",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.03 GiB"
 }

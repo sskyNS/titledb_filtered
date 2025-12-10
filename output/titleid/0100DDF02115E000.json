@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/40b8a17ff01dfda7f1d11e33af7dbfc3e155d7edc991d22e33b6a8abf34bb69d.jpg"
 	],
 	"releaseDate": 20241220,
+	"category": [
+		"Simulation",
+		"Action",
+		"First-Person Shooter",
+		"Training"
+	],
+	"intro": "Be the Hero Who Protects: Your City Needs You!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

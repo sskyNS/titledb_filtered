@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/f889bbb2d52d4891838ab77fb162c2cc656514ec739cfd6b28c0e588e202ed5b.jpg"
 	],
 	"releaseDate": 20220505,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Family friendly puzzle game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "265 MiB"
 }

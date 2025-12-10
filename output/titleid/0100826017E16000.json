@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/00ff22c7bae61efb4105648cf177e3af78328259a114814bdb3e235a5523686f.jpg"
 	],
 	"releaseDate": 20220708,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Formula Bit Racing DX is a fun arcade racing game, where each curve and lap recreate classic gameplay and offers you unbound speed limits of fun. Full throttle and enjoy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

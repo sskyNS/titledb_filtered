@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab903cd6cb72e604afac53de688c4b94a1bacea787c4e63360373cb50b95049d.jpg"
 	],
 	"releaseDate": 20230515,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Will the power of three defy destiny?\nEmbark on an action-packed journey to alter divine fate in this fantastical adventure inspired by classic JRPGs.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.95 GiB"
 }

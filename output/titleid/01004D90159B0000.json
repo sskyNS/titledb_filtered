@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6074f299399f381ffd72330b0d26d4a77746a38b2ced17de131d67162d311957.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"First-Person Shooter",
+		"Adventure",
+		"RPG",
+		"Action"
+	],
+	"intro": "\u201cShadows of Kurgansk\u201d is an adventure game, where you need to survive in an area full of danger and mystery.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "408 MiB"
 }

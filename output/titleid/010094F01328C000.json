@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/76ff678e6afc391b144e8c29028979424935a12aea70e3769940cf6bf30f6efe.jpg"
 	],
 	"releaseDate": 20201015,
+	"category": [
+		"RPG",
+		"Action",
+		"Arcade",
+		"Board Game"
+	],
+	"intro": "Explore the mysterious castle full of monsters and secrets in a quest to collect all the treasures and crush the main boss!",
+	"languages": [
+		"en",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "74 MiB"
 }

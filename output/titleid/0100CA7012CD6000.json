@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0baa067eabee28c0b9265befcdd313f7b5d0ad8823e0a2156435bf248ce0e7d.jpg"
 	],
 	"releaseDate": 20201001,
+	"category": [
+		"Music",
+		"Action",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Dance to the rhythm of the music hiding from your incoming parent!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "154 MiB"
 }

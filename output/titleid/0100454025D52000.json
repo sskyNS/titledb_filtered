@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4821b013213f3178c90a77d4d2b910ae69143ba2d49f78fe1b084e1cd89d3eae.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "TetroMosaic is a challenge that combines tetromino pieces to form, step by step, a vibrant mosaic full of textures and colors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "472 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/3bea5eadb6cbb29c7eb676540cfbb24529b4c12466f740c47d113a0816effd11.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Immerse yourself in an epic fantasy adventure full of magic, courage and unforgettable heroes!\n\nIn a magical kingdom, noble unicorns guard the powers of light - until dark trolls led by the sinister Gruclock plunge everything into chaos.\n\nTheir goal is the legendary Crystal of Dawn, the source of all magic. Only the brave unicorn brothers Troy and Sly can avert disaster. With Troy's magical attacks and Sly's flying skills, you will face dangerous opponents. Together they embark on a journey to save their kingdom and free their friends, who have been captured by the villainous Gruclock and his troll henchmen.\n\nThe game allows both solo play with the ability to switch between the two characters, as well as cooperative play where two players work together in real time.\n\n\u2022 Four exciting worlds\n\u2022 40 exciting levels\n\u2022 Dramatic boss battles in the last level of each world\n\u2022 Local multiplayer mode (up to 2 players)\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "265 MiB"
 }

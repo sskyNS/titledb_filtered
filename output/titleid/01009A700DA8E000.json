@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/33c45f2cb6db858016d66a1fa463dabefb16bc83e9fae40c665e2342fb086169.jpg"
 	],
 	"releaseDate": 20190808,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Study",
+		"Board Game"
+	],
+	"intro": "Plunge into the past for a rousing romp through Edo period Japan!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "253 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0e22679406249dc8b6742bb35d4b2fe0ce6a4a387075c38983696f50fa068a6.jpg"
 	],
 	"releaseDate": 20250522,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Dive Into a World of Pirates, Magic, and Epic Battles \u2013 Let\u2019s Go!",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.22 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e526a4752cf88fe918101ba26cb03f274096a3af58e6b253a1cf31a6bba88943.jpg"
 	],
 	"releaseDate": 20251105,
+	"category": [
+		"Puzzle",
+		"Fighting",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Shark, storm, survival\u2014choose your fate.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.50 GiB"
 }

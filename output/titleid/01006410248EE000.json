@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec594c4f19fcb1738817aa1d7202037538d7c883addd4eddcccde97eef3952bd.jpg"
 	],
 	"releaseDate": 20250919,
+	"category": [
+		"Action",
+		"Simulation",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Run the docks. Master the cargo. Rule the port.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/b355ae9408b448fa430f6574326663c1be32864111725749bd3ae3a5694c4c33.jpg"
 	],
 	"releaseDate": 20220614,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Sports",
+		"Action"
+	],
+	"intro": "Become a crazy bike stunt driver! How far can you jump?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "475 MiB"
 }

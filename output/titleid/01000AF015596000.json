@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef7e1023294eb4ae8190f5db30b90323d50757925b2019873ac62286e63b4085.jpg"
 	],
 	"releaseDate": 20220624,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "The Adventures of Pocky and Rocky Continue!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.02 GiB"
 }

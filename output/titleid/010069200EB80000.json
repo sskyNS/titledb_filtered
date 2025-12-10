@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f00fd1d8b2b84672fb9178e399671ee3fd981b3c724323ad2b923d15e7498bf.jpg"
 	],
 	"releaseDate": 20200430,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "A country divided by The Wall. To cross it and reach your family, you must compete on - and win - a reality TV show broadcast by the Regime.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.01 GiB"
 }

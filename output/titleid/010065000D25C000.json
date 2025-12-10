@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/643196aed03e2bcecbda986035c2fbe74d8edd42086f80c942ac13764ad0f080.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Fight alone or with your friends, master the art of battle and bring peace back to the land in this arcade inspired epic brawler!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "185 MiB"
 }

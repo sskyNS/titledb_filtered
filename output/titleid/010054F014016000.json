@@ -8,5 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/23a8a48179086428af206609586ff57b892d00d63376a31b61665806bebfc49a.jpg"
 	],
 	"releaseDate": 20210206,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Find the original fighting experience with this hardcore beat'em up game.\nDefeats your opponents with amazing stunts and blows.\nFull 3D, Action-packed with realistic physics, single player or local multiplayer, this game will bring you hours of fun.\n\nMain Features:\n-AAA Physic Engine\n-AAA Graphic Engine\n-Advanced AI engine, selectable difficulty\n-6 characters\n-5 sceneries\n-180 animations\n-Optional musics\n-Realistics Sound Effects\n-Solo Against Device or 2 Player Mode\n-Multiple Combos\n-Intuitive Controls",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "532 MiB"
 }

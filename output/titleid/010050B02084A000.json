@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/90011cd1fd22c2ccf55dc95dbef2cd8c7aa852954bab9d349c30ee56dfc2ffc3.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "Toss coins and explore the mysteries of Ancient Egypt!\nThe pharaoh's golden riches await you!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "456 MiB"
 }

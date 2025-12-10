@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bdd60ddce1c49a87c56284f95b281c181ab8ef88498bc181fa5ad7fdd8cd002.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Play as fierce feline heroes and battle villainous gangs to reclaim Feral City in this chaotic arcade adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "986 MiB"
 }

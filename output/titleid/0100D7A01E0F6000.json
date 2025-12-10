@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/503cdac28589f1b96d93615060e9d3547027e9e47fea4b80d3943f681d747617.jpg"
 	],
 	"releaseDate": 20240712,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Explore the Tower, meet strange characters, use inventions, and expect surprises at every turn!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.67 GiB"
 }

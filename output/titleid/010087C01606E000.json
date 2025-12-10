@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/be90066e548997e3e910186a25b9de292ff88c4f04985fdb035551f7c41a29fe.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Action",
+		"Shooter",
+		"Racing",
+		"Multiplayer"
+	],
+	"intro": "Online action game! Show and prove your skills in PvP shootouts, PvE missions, online drift and street races among other players-rebels and earn respect among them!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "642 MiB"
 }

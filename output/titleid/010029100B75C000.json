@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b7e96a2dfa8bc5389d70977274afb809ed505b28523deeda64f99cf7d24d48c.jpg"
 	],
 	"releaseDate": 20190718,
+	"category": [
+		"Lifestyle",
+		"Party",
+		"Education",
+		"Other"
+	],
+	"intro": "Use our tarot reading cards adviser to learn about your future and fate (2K@60FPS)!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 5,
 	"size": "699 MiB"
 }

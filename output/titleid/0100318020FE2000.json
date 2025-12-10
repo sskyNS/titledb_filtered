@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/9256c94292cb2b1c1d09ddfe5943d36e49e5bb831a9435cf39fad4c54ac2ba1e.jpg"
 	],
 	"releaseDate": 20250303,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Lifestyle",
+		"Communication"
+	],
+	"intro": "Step into the drama and stardom of Destino Indomable!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

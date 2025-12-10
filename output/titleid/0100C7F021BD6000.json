@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/34885bf17fe744a78f76b69a431ead9c5d31422a81a5ebb72eff2bead94bd387.jpg"
 	],
 	"releaseDate": 20250116,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Communication",
+		"Other"
+	],
+	"intro": "Guessing Contest Held!",
+	"languages": [
+		"ja"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

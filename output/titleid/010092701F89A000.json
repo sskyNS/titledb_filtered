@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae40e48af8be6557e4e5bf858e46a1ce56419bc4d2c9bc3ecc75e2b110323b24.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Racing",
+		"Action",
+		"Sports",
+		"Adventure"
+	],
+	"intro": "Choose your superbike, twist the throttle and LET'S GO, let the race begin!!!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.45 GiB"
 }

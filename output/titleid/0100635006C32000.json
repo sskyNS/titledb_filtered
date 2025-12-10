@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed9db09b2fb9dba92c7cd8119bc6b55e3f4d9bfd49adfd1dff373443129fb5c5.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "\"Fight for the safety of your land, dear Dreamkeeper\"",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ee9c8a10203c8b2a6034a0b95257dcf3619b402a809f59c2612fd735705bf635.jpg"
 	],
 	"releaseDate": 20180807,
+	"category": [
+		"Action",
+		"Fighting",
+		"Party",
+		"Sports"
+	],
+	"intro": "Dunk your friends to amaze a giant blue man.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "828 MiB"
 }

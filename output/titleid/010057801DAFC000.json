@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ec6b2aec5a6e8a46a2f69e88ae1f14ab9d2a856db588c7fcea57f43d770a561.jpg"
 	],
 	"releaseDate": 20231229,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Lifestyle",
+		"Updates"
+	],
+	"intro": "Master the forge in Blacksmith Shop Simulator. Craft swords, daggers, and more with metal or wood. Unlock recipes using earned coins. Every setback is a chance for a new beginning.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "218 MiB"
 }

@@ -10,5 +10,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/125f1fdc473c48d1e3a48221c93af66af17fdfb32b2fab4be2bfc972345e8ac5.jpg"
 	],
 	"releaseDate": 20210428,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Party"
+	],
+	"intro": "Taiwan Monster Fruit, this game features parkour motion-sensing gameplay, body movement, competitions, and adventures, create a world of monsters.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.30 GiB"
 }

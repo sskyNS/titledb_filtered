@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/cdaf16f99af3b8bb8ad3152e44bf324bc113bd5ba1fd9e61cd15505264397147.jpg"
 	],
 	"releaseDate": 20180606,
+	"category": [
+		"Adventure",
+		"Other",
+		"Simulation",
+		"Music"
+	],
+	"intro": "The world that grows around you",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

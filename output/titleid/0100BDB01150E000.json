@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/98450dda1a0959e00768ee227454ccb69692b90de331279151d7319c30e1c456.jpg"
 	],
 	"releaseDate": 20200611,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "An unmissable treat for all fans of classic first person shooter games.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.67 GiB"
 }

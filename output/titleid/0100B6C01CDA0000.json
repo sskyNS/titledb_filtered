@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/024c5584eef872a16c35f92a1d0859dbe8ace7d2ed8860be69535651aa3347c3.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Experience a fun, cozy witch's life! Your life just took a whimsical turn, and you're now on a quest to create a magical food forest and make it a home for all kinds of cute creatures!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "993 MiB"
 }

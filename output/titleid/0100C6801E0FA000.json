@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/ff34d9bb4c534ef4d9eb2db9b40bba50e82e11b1e4c6fd0d27d8889f7bc4d927.jpg"
 	],
 	"releaseDate": 20240314,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Brave beach girls battle crab-like monsters! Choose your anime girl, arm up, and defend the shores by shooting down crabs in epic battles against the deep sea!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

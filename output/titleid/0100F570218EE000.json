@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/260ca7928ba150e44329118d89d4e022ae60c08b414dc34c0dc906ef834a214f.jpg"
 	],
 	"releaseDate": 20250619,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "W\u00e9ko the Mask Gatherer is a 3D action-adventure game where you step into the shoes of W\u00e9ko, a mysterious adventurer on a quest to collect the seven powerful Primordial Masks.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"fr",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.48 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e60479725d6d2e22d651fd8985ec00efbefac7db299a5a8a8940a0955c0c20df.jpg"
 	],
 	"releaseDate": 20251114,
+	"category": [
+		"RPG",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Every legend begins with a lost soul.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "807 MiB"
 }

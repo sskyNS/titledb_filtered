@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ada5e0e59ce290d9515624373812d95e96e49473c6d62d5f692b612c5300a879.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Adventure",
+		"Action",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "If something strange happens, go back to the opposite path!The latest installment in the \"Nibansen\" series, \"Sanbansen Plus,\" is now easier to play! ",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "593 MiB"
 }

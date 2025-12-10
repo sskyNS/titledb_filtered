@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e8c75c5799e0a518d311aeaf715f7b2f3061a38d03a0d0376902e1ceea6e7f6.jpg"
 	],
 	"releaseDate": 20230420,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Cozmo Corps Aligned !\nDefeat the big boss \"DON COSMO\" !",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "56 MiB"
 }

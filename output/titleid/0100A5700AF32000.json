@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/469a57e12e516352d83d7fd867e6871d2d389a984a289d91a34671863a618933.jpg"
 	],
 	"releaseDate": 20180830,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Destroy enemies in the air and on the ground as you head to destroy the flying fortress Mega Argus!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

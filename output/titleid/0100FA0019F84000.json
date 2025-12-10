@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/770a8eb0146e7687d26b89d54f080d9314c248d97fa873c312e58e5ce2dd7e5f.jpg"
 	],
 	"releaseDate": 20221219,
+	"category": [
+		"Party",
+		"Action",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "It's time to get this party started!\nEndless fun in a bash everyone can join!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "721 MiB"
 }

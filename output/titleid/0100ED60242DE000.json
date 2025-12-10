@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/319560fd4d9fb41f1bc1582e913a6933371023407b0821d180706fc747ef6f84.jpg"
 	],
 	"releaseDate": 20251113,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Face the witch. Unravel the mystery. Survive the nightmare.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "533 MiB"
 }

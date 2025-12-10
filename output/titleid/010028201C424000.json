@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f43ceac94f7bfce278d2086659d45a07f999b8a1841c0961743d7a8d861b134.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Save a dystopian futuristic city overrun by mad robots",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "52 MiB"
 }

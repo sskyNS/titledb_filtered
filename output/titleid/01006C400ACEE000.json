@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac5cfa96ce4ad46be3a6969345569bac18ff3d2977ba091cb0e4479f7205bf11.jpg"
 	],
 	"releaseDate": 20180530,
+	"category": [
+		"Board Game",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "You, your friends and a ticking bomb. Work together and see how many people you can save!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "446 MiB"
 }

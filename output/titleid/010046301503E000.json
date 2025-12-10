@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f322859ac72f21e8972d02aa9e9a5c167444c5df3fce492a56e76b2789996fcc.jpg"
 	],
 	"releaseDate": 20230803,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A plot adventure game with the butterfly effect at the core. After death, you will go on a strange rebirth adventure on Babel.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "428 MiB"
 }

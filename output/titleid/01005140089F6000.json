@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e55a69a5fad4ddd7290ed95957263a17ea9e5831c19b8ec6b8e55f8509cf669.jpg"
 	],
 	"releaseDate": 20180119,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Training",
+		"Action"
+	],
+	"intro": "An addictive unique puzzle game you won't be able to put down.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "148 MiB"
 }

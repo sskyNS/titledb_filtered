@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4eae4e5b420033d247249f69a9707d0ff69d1b71732b2b676d9a9dcde70b84e9.jpg"
 	],
 	"releaseDate": 20240503,
+	"category": [
+		"Adventure",
+		"Lifestyle",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Get ready to make unforgettable memories and experience the beauty of the countryside like never before!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "886 MiB"
 }

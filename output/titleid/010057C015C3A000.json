@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4b5c493b25660a555aa2f3bec732b1aac04ef3ee57bde7e61e6c63013e3f70db.jpg"
 	],
 	"releaseDate": 20211225,
+	"category": [
+		"Education",
+		"Multiplayer",
+		"Party",
+		"Puzzle"
+	],
+	"intro": "How well do you know our amazing world? Find out and challenge yourself or your friends in Planet Quiz.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.12 GiB"
 }

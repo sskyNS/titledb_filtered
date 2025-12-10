@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/464e1c87af6bf4aff26a4cd505582180ad482c3ac495819966eddceee75c35df.jpg"
 	],
 	"releaseDate": 20240411,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "Relax and listen to the hypnotizing world of Oxytone, slow paced puzzle game where you rotate hexagonal tiles with tangled paths.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "178 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/6b77bf6c4c8cc5d0a2372138d13ce8c84aee17540a35fd883636e69fe961635a.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "A first-person action adventure, inspired by Arabian Nights, from senior BioShock developers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.85 GiB"
 }

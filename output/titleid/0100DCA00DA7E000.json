@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/86b950fe8bdb86c89ebcec6712b52f7f7d5e162642debe94caa3df8e7288dc58.jpg"
 	],
 	"releaseDate": 20190611,
+	"category": [
+		"Action",
+		"Platformer",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "The Contra Anniversary Collection brings this classic Run and Gun franchise back to modern platforms and a new generation of players. \n\nGrab power ups and blast your way through waves of menacing enemies and bosses that will put your reaction skills to the test. Also included is a digital Bonus Book with tons of concept documents and sketches, the official chronology of the franchise, an exclusive interview with the veteran producer of the series, and more! \n\n\nAlone or with a friend, Contra provides hours of nail biting action. In a pinch; make sure you know the code!\n\nContra (Arcade)\nSuper Contra\nContra (NA)\nContra (JP)\nSuper C\nContra III: The Alien Wars\nOperation C\nContra Hard Corps\nSuper Probotector Alien Rebels\nProbotector",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.03 GiB"
 }

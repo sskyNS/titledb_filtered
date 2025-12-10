@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6dc292ed8c1bab0e3e194adad391b736427b08d6fabccd9a10dc36f8821f33e2.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action",
+		"Other"
+	],
+	"intro": "Enter the surrealistic horror world of Teocida+Estigma!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "808 MiB"
 }

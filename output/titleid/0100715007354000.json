@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/63573ae8faaac31e72d98205cd1a5e3ce5e2e8166265277e651ba32c440d702a.jpg"
 	],
 	"releaseDate": 20180426,
+	"category": [
+		"Fighting",
+		"Action"
+	],
+	"intro": "NARUTO: Ultimate Ninja STORM allows players to battle in full 3D across massive environments. Players will unleash powerful jutsu attacks, perform acrobatic evasive maneuvers and even run up walls and over water as they pursue their opponent for ninja supremacy. Players will be able to customize their character's fighting style and recruit up to two support characters to put their own stamp on the action.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.36 GiB"
 }

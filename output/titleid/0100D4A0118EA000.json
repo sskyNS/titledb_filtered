@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f9a011b3250a00ae16e30b15fddc967ae71a112eb18e36003aca3f1233f84dc4.jpg"
 	],
 	"releaseDate": 20210223,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Seek riches and divine powers in a temple filled with deadly traps and monsters.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.16 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e870c9a1fe0481217d701752469283d2d93ecede0599309e34b9bbccca58725f.jpg"
 	],
 	"releaseDate": 20190704,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A hard-hitting ninja story direct from Japan! When the story reaches its darkest hour, what path will the Ninja Spirit lead you down?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "73 MiB"
 }

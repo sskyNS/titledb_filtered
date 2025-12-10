@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe0a2bb77be88c3e9d4f70e16f7aef89cd8b777566a7b145775ba054b9990efa.jpg"
 	],
 	"releaseDate": 20230929,
+	"category": [
+		"Action",
+		"Fighting",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Annihilate or get annihilated. Face the virus and don\u2019t let it take control over the world.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/288dc4bd3ebe6e79052af5c8cd1084cbd24be478951c71ac8472a862a632b611.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Strategy",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Zombo Buster Advance is a tower defense game taking place inside buildings with interchangeable elevators. \nDeploy, swap and shoot like a boss!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

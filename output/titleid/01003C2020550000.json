@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c5da509443d7aae40d5a4739edacd0e8f29ced492ec19a9f92914f2685471ec.jpg"
 	],
 	"releaseDate": 20240831,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "Merge the funny fruits and get the giant cherry!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "83 MiB"
 }

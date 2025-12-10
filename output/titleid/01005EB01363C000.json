@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcdfbe747c69c7695aa8465dccb8a8a06ef9fac1732812462063aaa2bba27d12.jpg"
 	],
 	"releaseDate": 20201113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A classic arcade game, from young and old - for old and young.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

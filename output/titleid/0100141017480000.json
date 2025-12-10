@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/23b35d922314ebffebe4bb15f10a0fc45676e083e65c4f0a37e78471dd57958b.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Perform crazy and spectacular stunts! Jump into a plane in a car!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

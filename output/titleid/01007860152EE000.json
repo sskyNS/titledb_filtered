@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/48f83a7e0126850171bbb30b58c1a3488bccb3847619e13f40e2e7e9a82351ec.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Action",
+		"Shooter",
+		"RPG",
+		"First-Person Shooter"
+	],
+	"intro": "Dead Effect 2 is a sci-fi horror first-person shooter set aboard a derelict colonization spaceship. Stand up to the challenge as an elite soldier and try to seize the control of the ship.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.91 GiB"
 }

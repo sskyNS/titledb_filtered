@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/119e1df7462b7fd094c7d6e9865f308c92eed6d74b7e379233d5f18b030fe601.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The Labyrinth holds mysteries unfit for mortal eyes. Mysteries of eternal life. Of sudden death. Of sorcery and betrayal. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

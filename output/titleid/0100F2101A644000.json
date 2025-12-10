@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e111addca9fc891325aece70b117c6f31568bc8681e7c5729c357ca630dff466.jpg"
 	],
 	"releaseDate": 20230421,
+	"category": [
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Geisha and her animals against the evil shogun!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "43 MiB"
 }

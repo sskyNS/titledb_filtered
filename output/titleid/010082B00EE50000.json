@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1ef2c003803e4b5e38012dbc7f880bf3980b45620a94a3143e55cf63199bd0a3.jpg"
 	],
 	"releaseDate": 20190927,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Music"
+	],
+	"intro": "Shoot 'em Up, Punch 'em Up, F&#$ 'em Up! Freedom Finger is a music driven, side-scrolling shooter featuring music by Aesop Rock, Red Fang, Com Truise, and more!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.92 GiB"
 }

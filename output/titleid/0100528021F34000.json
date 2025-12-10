@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a6e87f251dc3a1eac3f0fc0c28ef8bd14184c0a13314e04509f2bbc601356e5f.jpg"
 	],
 	"releaseDate": 20250701,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Three fantasy horizontal shoot \u2018em ups from IREM\u2019s arcade vault \u2013 Mr. Heli, Mystic Riders, and Dragon Breed, all in one explosive collection!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "228 MiB"
 }

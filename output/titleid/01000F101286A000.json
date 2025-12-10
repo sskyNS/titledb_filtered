@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dedaf75aa36733fde12e668a8fb4d2c462bd7f4dd6f29dcd0f63b9a129513f71.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "WE ARE DOOMED is a twin-stick shooter where you zap polygon baddies with an absurdly overpowered laserbeam.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "83 MiB"
 }

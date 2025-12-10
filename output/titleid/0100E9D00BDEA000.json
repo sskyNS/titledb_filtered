@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/acf1a0d99f193bb95609dc4ff4e28038fa30ce98edaa8bd1cc86c354c70bda27.jpg"
 	],
 	"releaseDate": 20181004,
+	"category": [
+		"\u30ed\u30fc\u30eb\u30d7\u30ec\u30a4\u30f3\u30b0",
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
+		"\u305d\u306e\u4ed6"
+	],
+	"intro": "\u300eBattle Chasers: Nightwar\u300f\u306f\u300190\u5e74\u4ee3\u306b\u30d9\u30b9\u30c8\u30bb\u30e9\u30fc\u306b\u306a\u3063\u305f\u5927\u4eba\u6c17\u30b3\u30df\u30c3\u30af\u30d6\u30c3\u30af\u306b\u30aa\u30de\u30fc\u30b8\u30e5\u3092\u6367\u3052\u305f\u6b63\u7d71\u6d3eRPG\u3067\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

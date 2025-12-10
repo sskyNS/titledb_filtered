@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/65289a274c16362927a170a07b4332f378eb0348c418479ac6938eaf6965c859.jpg"
 	],
 	"releaseDate": 20231124,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "All Aboard the Chaos & Strategy Express!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.08 GiB"
 }

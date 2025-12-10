@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/400d328e0b00749ded3bb147ad02f41883ef9611ba65795467af875732103e1f.jpg"
 	],
 	"releaseDate": 20180322,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Divine power lies within the fists! Find yourself in an extreme battle world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "99 MiB"
 }

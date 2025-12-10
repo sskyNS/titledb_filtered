@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/686f676c3e336567f82a02de54c2066cb6c93d14904b557b05a0b15533ad6cd8.jpg"
 	],
 	"releaseDate": 20251129,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "This game rolls roguelite and run and gunner into a tight experience with 1-4 couch co-op.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "146 MiB"
 }

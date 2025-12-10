@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/51b8a6fa4f941854a967f2ecfce841b1031a98191c8b3eba41faa8b1f8fb2962.jpg"
 	],
 	"releaseDate": 20220830,
+	"category": [
+		"Strategy",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Fall in, soldier! Commandos 3 \u2013 HD Remaster sends you to the relentless and unforgiving battlefields of Europe. Fight your way through the deadly trenches of Stalingrad, defeat the German enemy in the fanatical heart of the Third Reich in Berlin, and use your tactical know-how to survive the storming of Normandy on D-Day.\n\nIn this revamped third instalment of the acclaimed real-time tactics series, lead a notorious special forces unit deep behind enemy lines during World War II. Help the Allies to victory in high definition, with improved controls and user interface.\n\n\u2022\tRemastered in high definition: includes reworked 3D models and textures built from the ground up, improved controls, refined UI and beginner-friendly tutorials and hints\n\n\u2022\tLead 6 daredevil commandos: the special units under your command, from the Green Beret, Sapper, Sniper, Diver, Spy and Thief, are experts in their field and crucial to the success of your mission\n\n\u2022\tRelive iconic WWII campaigns: from training camp to 12 daring missions, experience history across 3 major frontlines including Stalingrad, Central Europe and Normandy\n\n\u2022\tStory and action-driven missions: follow a crack team of commandos in a time of great peril, Commandos 3 \u2013 HD Remaster includes even more detail and action than its predecessors\n\n\u2022\tRally your troops for multiplayer: compete in \u2018Deathmatch\u2019 or \u2018Collect the Flag\u2019 modes for 2-8 players, all with distinct victory conditions\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.43 GiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1be2072ff7c5567a9bab448ca9dc8c15c21df8fad12355ef25c86844e13abf1.jpg"
 	],
 	"releaseDate": 20200422,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Test your limits in ITTA, a bullet-hell, boss-rush style adventure where you play as a young girl armed with her father\u2019s revolver and guided by a strange ghostly cat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "326 MiB"
 }

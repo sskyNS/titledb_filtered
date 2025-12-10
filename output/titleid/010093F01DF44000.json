@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b648211a8bfb27dde09bbe73ee5e44fa48ccd56cb6d4cd3ed6b48471cde31e29.jpg"
 	],
 	"releaseDate": 20240315,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Get ready for a 2D pixel art world full of action and challenges.\nFight your way through numerous beautiful levels and put all your skills to the test.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "414 MiB"
 }

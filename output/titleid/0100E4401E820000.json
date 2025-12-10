@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7263c72523fbe17baeb529e085c1deb6c3453fedd87275c2499448560b4201ad.jpg"
 	],
 	"releaseDate": 20240229,
+	"category": [
+		"Adventure",
+		"Music",
+		"Education",
+		"Study"
+	],
+	"intro": "Ariel returns in a new story, embarking on a heroic mission to safeguard Triton's kingdom, facing unprecedented challenges in a plot full of intrigue and courage.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "452 MiB"
 }

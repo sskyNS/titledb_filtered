@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a09e4be6046417ecb856fc9bf61a5340044c85d93c87818cc9ffdbe870404d07.jpg"
 	],
 	"releaseDate": 20220218,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Make your way through retro synthwave worlds, filled with challenging gravity anomalies to escape an ever growing black hole.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "781 MiB"
 }

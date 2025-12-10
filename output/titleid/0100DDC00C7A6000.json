@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/87ccffbb2357ebbf33dd1f9533b4a912d74b303de84a9d91fb43f594036eae97.jpg"
 	],
 	"releaseDate": 20181221,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Avoid enemies while going up and down the cranes, take the keys, and rescue Donkey Kong!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "98 MiB"
 }

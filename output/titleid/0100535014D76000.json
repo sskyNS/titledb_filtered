@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/052907298eb8e0b38b2d9d5377a852d8841c1f1007ea6973b9376221fd4cbfaa.jpg"
 	],
 	"releaseDate": 20220628,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Join the genius alchemist Noah and her cat companion Zipper as they explore ancient ruins to uncover the secrets hidden within! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

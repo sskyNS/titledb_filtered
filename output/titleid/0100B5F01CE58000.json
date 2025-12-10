@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d8bfe54a683230f7683ccd5f05b4b86db2a08f96c753ab8aed4871bdf2a32ea.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Shooter"
+	],
+	"intro": "A dark fantasy story adventure to face the long-forgotten \u300cmemories\u300d!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.04 GiB"
 }

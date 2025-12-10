@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/038fbcc8401cb2fd1c38fb91ecd13e23511d5a37bb4cc5cca47809e4710f7a42.jpg"
 	],
 	"releaseDate": 20200929,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "A modern retro adventure game filled with magic, secrets and exploration!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

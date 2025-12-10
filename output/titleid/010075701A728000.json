@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/da12c47ff98e8759b3d1df07dc0660ce536ea13a729761a15be3d193e2216bec.jpg"
 	],
 	"releaseDate": 20230210,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Search for interesting items in relaxing and beautiful places, play your favorite mini games, find cute Pets.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "783 MiB"
 }

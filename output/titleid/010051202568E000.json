@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6c9f541485c7e19288acdc0bcd28a2f5fee88c37d958fe00d368ed23683573d5.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Build Rainbows, Find Gold",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "63 MiB"
 }

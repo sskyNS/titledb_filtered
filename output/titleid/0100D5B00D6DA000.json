@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/638e6b37b0a3aff37e11e69d3d5b2545ee78f237c3670ffcf36e98e0c2a8fc20.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A Typographical odyssey",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "673 MiB"
 }

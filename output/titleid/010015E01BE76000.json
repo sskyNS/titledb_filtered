@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3201b5ae364b9e65a6ef4c1fc5871ff4effe98fd73a9c7cce2178bfe0ce2ae17.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Match 3 is a popular puzzle game in which you have to be careful and connect all donuts three in a row with a line!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "107 MiB"
 }

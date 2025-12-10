@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/685d2e28a5e22c91e69e8e78a941f215e98c452947d3bf48d745cb4c8c9b39d5.jpg"
 	],
 	"releaseDate": 20240223,
+	"category": [
+		"Simulation",
+		"Racing",
+		"RPG",
+		"Action"
+	],
+	"intro": "Unleash the Jurassic speed, conquer challenges, and race to triumph in this epic, adrenaline-fueled adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

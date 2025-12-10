@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd498ed95e5093127c5b1a872ad99b36b31f289d4d6b09d05b674ede1f225e01.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "All of us are not dead. Our school has been infested with zombies, and we are still alive. Hopes  of escaping this school becomes less likely, but we are still alive.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.72 GiB"
 }

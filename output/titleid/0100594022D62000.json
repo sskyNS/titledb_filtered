@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b770af2e8bbe32391174f389514a9f2e0ae3944c045b0b4d3cd8092afbb5d64.jpg"
 	],
 	"releaseDate": 20250317,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A fast-paced precision platformer where every jump counts!\nRestore color to a world drained of life by conquering 56 challenging levels!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "545 MiB"
 }

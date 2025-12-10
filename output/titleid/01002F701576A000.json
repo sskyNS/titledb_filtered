@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/010ecf4a989dde55069b4db66d01b17b86a380b7c2670a96aff1e2928bafc181.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Arcade",
+		"Party",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Try to survive the attack of the sharks and win the game in the most entertaining Pinball! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "688 MiB"
 }

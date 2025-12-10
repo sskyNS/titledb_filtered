@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/38d2b0672c0ecc4eb9bdb000816cb28a2173bf6d1732b0986c4289d58fb05759.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Chess is a popular board game for the mind!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "59 MiB"
 }

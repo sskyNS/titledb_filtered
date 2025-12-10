@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6d31821f95db3ad8a7f5166ea43c1252bcb6a7e8a0a70f66477d00f86ff66711.jpg"
 	],
 	"releaseDate": 20220913,
+	"category": [
+		"RPG"
+	],
+	"intro": "As a settler of a new continent, explore every last corner of the land.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

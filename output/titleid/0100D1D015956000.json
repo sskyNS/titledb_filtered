@@ -8,5 +8,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f6f2cf5de12e623f72a6db8b9641794becd5fbb898cb174073ec918efa5c8f2.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "Rescue the world and get a well-earned nap!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "302 MiB"
 }

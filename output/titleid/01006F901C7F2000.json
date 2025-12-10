@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/79f96d3dddbff517af585e9afc9dfac848b7297f6d8d436f0a3af67328a9ab84.jpg"
 	],
 	"releaseDate": 20240118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Navigate an open-world island in an old train, upgrade it over time, and use it to fight an evil spider train named Charles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

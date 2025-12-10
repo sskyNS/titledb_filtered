@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dad9ec1db47c3fc5ee84bcb5b74bf88c0b2669808ef8cc8e9ab158369bb670d0.jpg"
 	],
 	"releaseDate": 20221115,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "The RWBY saga comes to life in an all-new chapter of the hit animated series!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.01 GiB"
 }

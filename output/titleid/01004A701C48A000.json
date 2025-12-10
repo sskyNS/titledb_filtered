@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/871fee2fe7cef44dc516c0cc0fc6b73a5e9a44a8c730958c498e77f212322dae.jpg"
 	],
 	"releaseDate": 20240620,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "The old enemies have returned to steal the miracle cure.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

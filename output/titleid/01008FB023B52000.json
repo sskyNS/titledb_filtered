@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c698ef60e6b77c82113e0593bb1cb50f32447b7c342899f728ce34c65650aa4c.jpg"
 	],
 	"releaseDate": 20250912,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A cozy horror, self-coop romp with delightfully spooky Tim Burton-esque looks",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

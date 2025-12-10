@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/697714d894e547907b5e63d4e9e3fcb5cbece0c4cc2ce7a3865eeb6061e694fb.jpg"
 	],
 	"releaseDate": 20240704,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Mystical events haunt locals.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.79 GiB"
 }

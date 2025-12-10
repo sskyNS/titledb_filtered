@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3146e0d315d79cbe9731238d7d203d244e45b9d259bf88b65dbc9f10d419b360.jpg"
 	],
 	"releaseDate": 20251024,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Stop Swiper, fix the Duplicator and rescue the Rainforest with Dora and friends.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.11 GiB"
 }

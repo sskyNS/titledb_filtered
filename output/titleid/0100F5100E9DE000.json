@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/0be3ff02108e09cdb5e7d5845ecba6099ee6339b33d0d7236a36789e6a1594f7.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Racing"
+	],
+	"intro": "Super Pixel Racers is a fast-paced arcade racer with top-down 2D pixel graphics and a nostalgic 16-bit soundtrack.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "644 MiB"
 }

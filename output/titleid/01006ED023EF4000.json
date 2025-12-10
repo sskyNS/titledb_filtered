@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa5fae68c6a91b1b06c7aa0252eaac50e93dcb940496dff239cc772927ed916f.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Pack the Treasure and Master the Challenge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "141 MiB"
 }

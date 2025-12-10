@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f4378b6f62095dcebcc6f3f002329187e5ad0650c008b918035a862854995147.jpg"
 	],
 	"releaseDate": 20241031,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "The beginning of a pixelated episodic horror adventure about a bunny who seeks to find the horrifying truth behind her existence.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "553 MiB"
 }

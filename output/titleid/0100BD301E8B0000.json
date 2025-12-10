@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/64d1ac35ebe620939e05ca30254755f0b6b94015c8d5ddabf6eb84d2049ba09e.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "It's time to come out of the underworld and conquer the world!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 5,
 	"size": "1.30 GiB"
 }

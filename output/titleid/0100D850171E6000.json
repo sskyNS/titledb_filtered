@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7083b42a2bd8f36e6272bf34730503c7a7d7ca4531578e10eeff76d6e4f3de5.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Rid a mansion of dust bunnies to reveal dirty little secrets in a giant puzzle ball adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "180 MiB"
 }

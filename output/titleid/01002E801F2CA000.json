@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/4e88dbb58545402b4cc05b03bc52bf70dcf346d0005fc7cd4368daec404ae1e6.jpg"
 	],
 	"releaseDate": 20250306,
+	"category": [
+		"Strategy",
+		"Action",
+		"Fighting"
+	],
+	"intro": "The adventure-filled worlds of Eldrador are in danger! Lead battle-ready creatures in turn-based strategic combat to defeat a mysterious shadowy menace. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.49 GiB"
 }

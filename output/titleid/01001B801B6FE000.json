@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/116ebb913449c7725b5ac6dfe614c51f2c53b55b2c97ce1645f28652fb13b00a.jpg"
 	],
 	"releaseDate": 20230520,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Knock it all down!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6001780e8cb87a0950e7209c0ac3563ab5346ed6e586dbc05925b56332a908a1.jpg"
 	],
 	"releaseDate": 20250408,
+	"category": [
+		"Simulation",
+		"Action",
+		"Education",
+		"Arcade"
+	],
+	"intro": "Outsmart Rivals, Crush Sales, and Build a Tech Empire!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "766 MiB"
 }

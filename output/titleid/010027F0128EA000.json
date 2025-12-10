@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/8159d21cb68f1e41b2384dbb3d7f4f49aba80b481ccd6ac37b27e8b60a22896c.jpg"
 	],
 	"releaseDate": 20201117,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Put your general knowledge to the test in \u00ab Who wants to be a millionaire? \u00bb, the official game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 10,
 	"size": "2.99 GiB"
 }

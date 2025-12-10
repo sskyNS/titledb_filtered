@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/7225158642993a17449a85be291044639a4232447a81331fc36044487bf7735c.jpg"
 	],
 	"releaseDate": 20220120,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Relive The Flea or experience it for the first time. Your mission is to find the exit jumping between the different platforms. Don't let the enemies eat you!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "54 MiB"
 }

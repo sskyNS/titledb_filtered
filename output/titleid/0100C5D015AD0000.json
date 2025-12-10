@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/140bbe91e9c83c35d24f945a10af3dd48556eb6626225be1ca8774db706edd6a.jpg"
 	],
 	"releaseDate": 20211021,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "An intense game of tag as you search for stolen goods\nin a mansion!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "66 MiB"
 }

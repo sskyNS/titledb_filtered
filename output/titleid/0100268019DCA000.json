@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/521d942dc7e69718044b510b135a890ef4d359d2902a460606a2489e4687c44b.jpg"
 	],
 	"releaseDate": 20221110,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Very valuable diamond necklace was stolen. Police were unable to find the thief. It's your turn to show your detective skills!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "609 MiB"
 }

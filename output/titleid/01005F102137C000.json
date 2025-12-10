@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9b3b033955cfd6e428a5817787a63b1a9e992fbfb38c4e8b1b98cf591144afae.jpg"
 	],
 	"releaseDate": 20241128,
+	"category": [
+		"Adventure",
+		"Education",
+		"Communication",
+		"Music"
+	],
+	"intro": "In a world where young people with special abilities are trained to become heroes, Kai is a boy who discovers a mysterious power after an unexpected incident.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ef680115fc0bacab72c9d49f380088f0ea11533a35620d51a7e9492856f24b6f.jpg"
 	],
 	"releaseDate": 20231005,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Gothic fantasy and action, the journey of a witch beyond imagination.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

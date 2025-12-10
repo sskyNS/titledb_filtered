@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/b60d6e0dac9ef2736b85f06ca7b6e5bb3398019230cc0c24823fb074a1ba64b8.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "An unforgettable vacation in Canada.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "526 MiB"
 }

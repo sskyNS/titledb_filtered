@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e1da8cc0cd50777b0a31cd55efeb20ad402f2ac9087e2092ff161016d7129b15.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Harness the power of a mystical boomerang to fling yourself through the air. Slice, fly, and blast through arenas swarming with evil creatures. Stay agile or meet your doom.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.05 GiB"
 }

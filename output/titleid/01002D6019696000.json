@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc45b33ac5b305ea0911c7559ddcf64342e00a1a5bd662263f7a9614290f4956.jpg"
 	],
 	"releaseDate": 20221027,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "The technology is finally here! We utilised the next generation of AI science to simulate the experience of hanging out with your best buddy. He learns and adapts to your personality!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.19 GiB"
 }

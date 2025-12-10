@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/27ec31ec0cc26f04be3195e872fb0a54e55cca8e7f2bc282d0cec264a6f2d84e.jpg"
 	],
 	"releaseDate": 20231111,
+	"category": [
+		"Party",
+		"Board Game",
+		"Education",
+		"Strategy"
+	],
+	"intro": "Scheming decides who wins!? Management board game. \nAim for great riches!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "126 MiB"
 }

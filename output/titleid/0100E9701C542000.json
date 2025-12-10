@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d361a2967481f00d8451b2556de8aa5c8cd132ceb58a26abb69e8d5287f1322.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "The king of card games",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "163 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/780c3a5386b06babc56eaf3a70e21d1d833c05673fab3937cbe579b292bee102.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Multiplayer",
+		"Shooter"
+	],
+	"intro": "Welcome to PixARK, a vast, wild world filled with vicious dinosaurs, magical creatures and endless adventure! To survive in this mysterious land, you must tame creatures both ferocious and cuddly, craft high tech and magical tools, and build your own base out of cubes.\n\nWith a robust character creator, an infinite number of voxel based maps and procedurally generated quests, your PixARK adventure will be completely unique. Team up with friends to form a tribe, or play on your own. Spend your time building a towering fortress or go on a quest in a sprawling cavern. Fly on the back of a dragon and smite your enemies with a magic wand, or ride a mighty T-Rex and blast your foes with a rocket launcher. In the world of PixARK, how you play is up to you \u2013 as long as you survive!\n\nFEATURES\nOver 100 creatures to tame, train and ride\nVoxel block building system \nProcedurally generated maps\nProcedurally generated quests\nCreative Mode, where you can build anything you can imagine\nExtensive character creation tools, and character progression systems with skill trees and customizable stats",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.88 GiB"
 }

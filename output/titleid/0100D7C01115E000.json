@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ce4c71e739c215eeda0d9075b43b8d25dd5a36db0d9b044a8d3ff5b9679a573.jpg"
 	],
 	"releaseDate": 20200702,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Keen is a sliding puzzle game with turn-by-turn tactical combat and a hint of adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

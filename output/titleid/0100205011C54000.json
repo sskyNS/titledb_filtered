@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/b65bb3a46a0c192fd0bab2481b07d8c6705e77c3ce64a214714f7be04d07820f.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Eat, dash, break. Clear all the rooms and conquer the dungeons. Snake is back for a new adventure to become \u201cThe Snake King\u201d.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "120 MiB"
 }

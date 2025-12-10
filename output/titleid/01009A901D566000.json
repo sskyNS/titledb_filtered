@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/720283723f480460f34cd68340b4bdce140ab101c34d88b7f18a82f65de58574.jpg"
 	],
 	"releaseDate": 20240308,
+	"category": [
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Single player or multiplayer top-down shooting action",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "526 MiB"
 }

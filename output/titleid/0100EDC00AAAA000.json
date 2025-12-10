@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f0bbda01f27d3fd50195f8f7b64bdb86dd85ea2704a8588693555930c3a05ac6.jpg"
 	],
 	"releaseDate": 20180417,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "\"It's Spring Again\" - an educational game for children ages two and up. It uses game mechanics to teach children about the seasons.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "216 MiB"
 }

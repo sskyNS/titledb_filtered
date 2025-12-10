@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/33a167131110538c2e6fd473b3bf6465a8d56ceaa8f8d856f3876da141458c44.jpg"
 	],
 	"releaseDate": 20200124,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A long-forgotten species, a hostile planet and a journey of discovery \u2013 welcome to the world of Lumini...",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "962 MiB"
 }

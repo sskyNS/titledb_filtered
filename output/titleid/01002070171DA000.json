@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/001d7671ece062c75c3dcb0714cbc37c69272b3a3480533a3a549a19700fa54d.jpg"
 	],
 	"releaseDate": 20231123,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "Drive forward the industrial revolution in this train tycoon micro-management game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.05 GiB"
 }

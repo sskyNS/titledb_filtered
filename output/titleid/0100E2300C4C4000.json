@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/f07c583287bd023fd2454b9609f94cdd1059546f1eb0a6779e6f0fe0e66a20f4.jpg"
 	],
 	"releaseDate": 20181122,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "A cryptic, brain-racking, button-pushing non-linear puzzle game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "401 MiB"
 }

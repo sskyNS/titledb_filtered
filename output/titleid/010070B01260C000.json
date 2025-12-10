@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/100dc4510c58eb82f82cc535808e53c07343730afe294ac3155a6c7a7c402b9a.jpg"
 	],
 	"releaseDate": 20200813,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Board Game",
+		"Training"
+	],
+	"intro": "The classic eight-ball pool for your Nintendo Switch\u2122! Play against the best in a quick match or tournaments. Play, win and unlock new equipment. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "146 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fb395d40e87123dfe94c87f0c245cc4f4acb505b090aaefada6f5a5eaa081397.jpg"
 	],
 	"releaseDate": 20241107,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Bioframe Outpost is a 2d sci-fi action-adventure game, dedicated to exploration, experimentation, emergent gameplay, and narrative.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "722 MiB"
 }

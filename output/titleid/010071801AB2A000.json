@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/c91b2f96f6d13e5ad5a5e9cd2a33b7af3ef2cb57f223f42b1d4c3ca87586a643.jpg"
 	],
 	"releaseDate": 20230323,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "First-person puzzle game with the unique mechanics of creating copies of yourself and manipulating time.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.16 GiB"
 }

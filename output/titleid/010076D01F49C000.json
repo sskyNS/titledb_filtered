@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/afa0fe7c8f96229dc2aae40d750857255ea27c78b1b59e32fb7df686fe849dc2.jpg"
 	],
 	"releaseDate": 20240716,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Stories from the Outbreak is a turn-based roguelike zombie RPG. Lead a group of survivors from the doomed city of Riga towards a ferry sailing across the North Sea. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "223 MiB"
 }

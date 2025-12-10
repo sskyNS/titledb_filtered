@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/4526ad2dabb2cc73b59dc5daba351b3da0c5940ba01cc362bf5755a91079f30b.jpg"
 	],
 	"releaseDate": 20210929,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Lead Abby the string puppet through a grim fairy tale world, while you solve riddles, evade traps, and shake off pursuers.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

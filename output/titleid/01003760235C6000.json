@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ceb68f0888567be6dd8a52939816496eb2ec3301f779d03d01f56cf7875837e4.jpg"
 	],
 	"releaseDate": 20250620,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Buy, renovate, sell \u2014 rule the real estate market.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

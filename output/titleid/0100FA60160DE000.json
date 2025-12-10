@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ee17464eda0038f63a71ef4e28e5870bade59d43a4e6e7f5b3c00b734e7c248.jpg"
 	],
 	"releaseDate": 20211111,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Simulation"
+	],
+	"intro": "Arrange the farm islands and see your archipelago expand. Just swap the blocks of a 3D jigsaw puzzle.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "975 MiB"
 }

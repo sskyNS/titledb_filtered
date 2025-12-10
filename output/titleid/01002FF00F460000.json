@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/87a0d55db6bee502479d65e09246597893528405207e4ee6fbb0da0213bebac4.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Lead your group of brave warriors across the dungeons of the Warhammer world! Swing swords, fire arrows and cast spells as you fight the denizens of Chaos. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.87 GiB"
 }

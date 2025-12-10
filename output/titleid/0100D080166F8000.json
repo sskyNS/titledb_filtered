@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/faf0f69910a90b25d44c8f114a8e453aa9898519211288f9d962ed12da2e10ae.jpg"
 	],
 	"releaseDate": 20211208,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Lovecraft meets sci-fi. Solve puzzles. Hack systems. Explore other dimensions.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.95 GiB"
 }

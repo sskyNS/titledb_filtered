@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c770169c179c497441af4aa2ce26018a45ee6c82ddfc9d36f6c13af11e9f7150.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Puzzle",
+		"Party",
+		"Education"
+	],
+	"intro": "Easy for anyone! Connect them together for simple combos!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "158 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e554d674153d153449ea2c48a3b9b8d79b27b46ce29fa08a0845466957312f2.jpg"
 	],
 	"releaseDate": 20231012,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Atmospheric Retro Horror FPS Returns. Be Afraid.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "689 MiB"
 }

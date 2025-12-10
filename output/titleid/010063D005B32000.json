@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/38011ba3eaa1725ec900d9c574ede633c29ac6fabc00a57705e00296d461a8fb.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Mysterious \"PUZZLE\" X Exhilarating \"ACTION\"\nLet's go to the mysterious adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "816 MiB"
 }

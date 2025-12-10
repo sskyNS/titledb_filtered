@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/0a9c7e67ca65e959d21f97ca7d3b9971bbc2261a41850c9e72cec175c3283c32.jpg"
 	],
 	"releaseDate": 20180308,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "EARTHLOCK is an adventure RPG inspired by the classic 3D RPGs of the late 90's, with a fresh take on turn based combat and character progression.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.13 GiB"
 }

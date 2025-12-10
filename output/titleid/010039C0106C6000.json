@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a0f0f5ed06ddfe13cf344dc3e505818907a13d625fc2171ff89bd338d6d7ecd.jpg"
 	],
 	"releaseDate": 20200304,
+	"category": [
+		"Action",
+		"Party",
+		"Fighting",
+		"Multiplayer"
+	],
+	"intro": "Epic aerial battles featuring animal pilots in this bonkers local multiplayer dogfighting game! Up to 8 players duke it out, armed with flamethrowers, freeze rays and more!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 8,
 	"size": "469 MiB"
 }

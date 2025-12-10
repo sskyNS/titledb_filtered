@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/69ec1a9f5abc981e636167eaf4ed82f42b2bc3170609f90c54e8477ef54fed5e.jpg"
 	],
 	"releaseDate": 20210330,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Party",
+		"Platformer"
+	],
+	"intro": "Six arcade game, four player, sit down couch championships!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "433 MiB"
 }

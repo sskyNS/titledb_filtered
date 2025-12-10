@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/952072ea855e4ec14058093d15fc812633991e1776441d7ec78e1147ca3eef6a.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Sports"
+	],
+	"intro": "Battle with in-game games!\nA new kind of game battle!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "165 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c7dae0fbbfb2c0a5121b8c3d3fce2f6628b79b73f8d74d7456f72ea817f07dd.jpg"
 	],
 	"releaseDate": 20211102,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Unpack someone's belongings at different stages of their life to learn their story in this zen puzzle game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.04 GiB"
 }

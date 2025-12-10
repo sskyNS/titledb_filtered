@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a5aad47108f956cb710dce6fe25d897aa7dac9d8ee92123b3232acb3c7a1ba69.jpg"
 	],
 	"releaseDate": 20220408,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Astrodogs is an on-rails arcade action game featuring a cast of space dogs that have to save the galaxy of WOOFER, a company that controls everything. Also run by dogs.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/fc948e4440eca9dd89336f78e485e9d981d8f094f295338417a87c9fc32d1f43.jpg"
 	],
 	"releaseDate": 20220228,
+	"category": [
+		"Education",
+		"Arcade",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Zoom across the page in a blaze of color and paint the most memorable and exciting planes of WWI in Red Wings: Coloring Planes!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "479 MiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb0fa5532fb0203c8f72fa47b9b61a541f42cd96720d63832a04860181b8acdc.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Board Game",
+		"RPG"
+	],
+	"intro": "The mystic anime maidens are waiting for you.\nDon't let them wait for too long.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

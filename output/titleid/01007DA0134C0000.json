@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/80cdc62e35ab8fad7d7e137b730bb0819107f41b7a000d34d0bbf6c19cadc860.jpg"
 	],
 	"releaseDate": 20221109,
+	"category": [
+		"Action",
+		"Platformer",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Rogue Legacy 2 is a genealogical rogue-LITE. That has all the trappings of a typical rogue-like, but with persistent upgrades, and persistent dead heirs. In this game, your legacy defines you.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.23 GiB"
 }

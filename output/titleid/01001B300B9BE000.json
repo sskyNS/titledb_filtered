@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/bee5fbcb625278d1e8adb25adefba0a94f64321d2002039362b7a525b99271a5.jpg"
 	],
 	"releaseDate": 20181102,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Party"
+	],
+	"intro": "Raise Some Hell",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "16.66 GiB"
 }

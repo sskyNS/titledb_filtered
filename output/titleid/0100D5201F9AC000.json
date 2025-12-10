@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/f220ed630fc663011224f7c1e6b1751dc460d16e03720f1a898b5be3c8ba041e.jpg"
 	],
 	"releaseDate": 20241213,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Team up and compete in Guns And Draguns, a roguelite shooting adventure through a dangerous dungeon. Work together to survive, but remember, only one can be the best.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.57 GiB"
 }

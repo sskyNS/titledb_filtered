@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3244e3594d4aefafd3046be75e5d85118b279c1dd299690e422ab3e191119f06.jpg"
 	],
 	"releaseDate": 20231207,
+	"category": [
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Who will take the four checkered flags?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "58 MiB"
 }

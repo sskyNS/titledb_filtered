@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/c07198fff2a03f89137fb2e203a9cbd21ec21b0b848edf09573fd35cceba45a1.jpg"
 	],
 	"releaseDate": 20210820,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Help Kittey find his parents! They may be lost in a dream ... but dreaming is just what young Kittey does best.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.96 GiB"
 }

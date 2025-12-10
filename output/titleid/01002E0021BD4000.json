@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/43c8dbb7d44b0c7c2d2d9be1f056b19fa3282a6c8e34b522da3b61b0be1162fc.jpg"
 	],
 	"releaseDate": 20250213,
+	"category": [
+		"Action",
+		"Party"
+	],
+	"intro": "As a lost one, you tirelessly jump toward the top!\nTo return to your owner!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "212 MiB"
 }

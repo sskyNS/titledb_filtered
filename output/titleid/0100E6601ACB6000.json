@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/03b40e5175aaa84ec7da274c631ff120243d37a539a63b8b5d7f6cb182f11b12.jpg"
 	],
 	"releaseDate": 20240815,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Three tales forged in bloodshed, laced with magic, and united by revenge.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "734 MiB"
 }

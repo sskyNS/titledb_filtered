@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/557eee3f2dc71ae5722de0eda975ba31b8aeb51847fa417be882f2d0eec8d3b6.jpg"
 	],
 	"releaseDate": 20200831,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Keep your Ballz in, get your opponent's out! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "898 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ec28b1d4878eb4eec973b197d15de8656db985f2f360a884d47a410e3b9b8ba.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Use slime to get to the goal!\nA puzzle action game that will stick with you!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "108 MiB"
 }

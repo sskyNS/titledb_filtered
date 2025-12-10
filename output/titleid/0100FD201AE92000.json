@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/40eb86a40921ac2dd089827ba83435f842b2d4b2c75c8447361b16c18b8bd935.jpg"
 	],
 	"releaseDate": 20230927,
+	"category": [
+		"Platformer",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Explore dark dungeons as a valiant knight and survive using your wits and limited resources!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "49 MiB"
 }

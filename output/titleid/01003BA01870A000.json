@@ -8,5 +8,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/af5d4c3e666e17aef5e82c83a3e8df4894c9b620b3e99ab0873ae0ddb104216b.jpg"
 	],
 	"releaseDate": 20230309,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Become the greatest detective of all time in The Testament of Sherlock Holmes.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.14 GiB"
 }

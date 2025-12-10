@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/625c9d17a207e9e9816dddb6826a8822418577c9173e3099c708fa34f5b2bd2c.jpg"
 	],
 	"releaseDate": 20190628,
+	"category": [
+		"Racing",
+		"Sports",
+		"Multiplayer",
+		"Simulation"
+	],
+	"intro": "It's time to leave your skid marks on the asphalt! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.11 GiB"
 }

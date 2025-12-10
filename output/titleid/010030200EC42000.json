@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/2709f2c9955027efea3498ede89d9864fb191fbf8d441177b18b866b4090af8f.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Simulation",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "A brand new business sim!\nBuild caf\u00e9s, movie theaters, aquariums, \nand more!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "239 MiB"
 }

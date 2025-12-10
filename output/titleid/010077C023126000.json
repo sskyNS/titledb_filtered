@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f10b4cad4f08e0d6e81c3388e628d851a7f334d6508b5e6d9389a181a0ec990.jpg"
 	],
 	"releaseDate": 20250415,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "\"DUNGEON SLIDE\" is a puzzle game where you move the protagonist in four directions to collect gems and escape the dungeon.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

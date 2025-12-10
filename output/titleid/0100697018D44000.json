@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a29768a38606bf5ffce8bd1ec936decfb3bc2e82a95e1fce2163e6b2af2e36f.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "\"Kunoichi\" invades the enemy's castle. Let's capture all 100 stages quickly without being found by the enemy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "176 MiB"
 }

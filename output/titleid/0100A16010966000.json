@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fd6d6f3c1676f183dad2de05f3c91fb667eced34e786226c9205346c66f1ecd2.jpg"
 	],
 	"releaseDate": 20200522,
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Get ready to rescue cute animals in addictive retro-styled arcade!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "132 MiB"
 }

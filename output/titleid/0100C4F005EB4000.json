@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c49a1bdb026d499cedcb29461b1154a958b6ab49ff0eff569227bbec2f2b6c76.jpg"
 	],
 	"releaseDate": 20171214,
+	"category": [
+		"Platformer",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "An all-new adventure in the world of Mecho Wars! Run and shoot through chaotic platforming levels filled with spikes, bottomless pits and an army of deadly robots.  Go it alone or team up with your friends in 4-player local multiplayer. Directed by Luc Bernard.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "148 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a63e4288e6434cec612db175d8479518c68eec3738840e535d235d17b55e942.jpg"
 	],
 	"releaseDate": 20171223,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Team Up! Bash Brains! Anywhere, with Anyone!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.92 GiB"
 }

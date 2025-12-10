@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8ac010aff83b5c04e22652d4460c1e349ca919492380827cff96627418c68526.jpg"
 	],
 	"releaseDate": 20251003,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Rescue the last Slavic priestess before the curse turns you into dust",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.46 GiB"
 }

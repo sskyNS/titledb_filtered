@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1af022b3cd91d007bf84a103a0a69ff6ab42bef1ad2a7be6e1a7763b8ffb3054.jpg"
 	],
 	"releaseDate": 20191223,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Sports"
+	],
+	"intro": "Take on the most authentic and realistic rally simulation at home or on the go!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "829 MiB"
 }

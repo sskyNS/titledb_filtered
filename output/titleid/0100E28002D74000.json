@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6ee7b7fb355b1de246ac52795cc96210ca5ae7b14df0f512ea0a8840d00771a6.jpg"
 	],
 	"releaseDate": 20180125,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Space Dave!, the spiritual successor to the hit game Woah Dave!, is a modern take on the fixed shooters of yesteryear. Defend your ground against the alien onslaught! Protect your terrain from their endless arsenal of weapons!\n\nTaking a page from classic arcade games, Space Dave! offers a seemingly infinite variety of weird and challenging alien types with varying attack patterns. If you manage to stay alive, you just might be able to build up your arsenal and collect enough power-ups to turn the tides against your would-be alien captors. That is, until the bosses show up\u2026\n\nAnd don't let its retro appearance fool you: Space Dave! is a modern game for the modern weirdo, with features such as...\n\n\u2022 Local two-player coop!\n\u2022 Leaderboards to prove once and for all who among your friends is the superior Dave!\n\u2022 A multitude of power-ups! Put an end to the alien invasion in style!\n\u2022 Much-needed answers to the many questions surrounding the mysterious Dave.\n\u2022 Eight playable characters, a few of which you may recognize...",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "71 MiB"
 }

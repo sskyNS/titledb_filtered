@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/9aecba55eba627a78996d987e91df0867c01225c912f37d02e29332b53b298d8.jpg"
 	],
 	"releaseDate": 20190711,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Join Nelly Cootalot in this indie adventure game, and rescue birds hypnotised by the villainous Baron Widebeard.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.21 GiB"
 }

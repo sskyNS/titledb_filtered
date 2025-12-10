@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e97ffe0936192d9d09fb06ca20102f0e2a286cb06e0df4ddc15041bec8078308.jpg"
 	],
 	"releaseDate": 20210111,
+	"category": [
+		"Action",
+		"Racing",
+		"Sports",
+		"Puzzle"
+	],
+	"intro": "Wacky Run is a cool and fun arcade game where you need to race against other people and acquire floorboards to use them for shortcuts. It\u2019s a nifty and fun game you can play, one that\u2019s incredibly fun and full of exciting gameplay ideas. \nEvery level is randomly generated, so you really need to use your wits and your tactics in order to win. The game is designed from the ground up to be very intense, full of exciting ideas and extremely rewarding. \nDo you have what it takes to beat your enemies and find the best shortcuts? Try out Wacky Run today and immerse yourself into the ultimate racing battle as you try to win!\nFeatures:\nIntense racing game\nGet planks and use them for shortcuts\nRandomly generated worlds\nBeautiful 3D worlds",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "219 MiB"
 }

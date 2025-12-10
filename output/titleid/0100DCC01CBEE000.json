@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e15e2cb9a2abcf7f30c1323d9d793d913299628bb33e4023854636fb883ebbe7.jpg"
 	],
 	"releaseDate": 20230907,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Party"
+	],
+	"intro": "Connect the complex pipes by rotating them!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

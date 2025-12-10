@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/894a311e71ce5b6e7d86ee0fa55c0aef3397cb0fb988cb8be05a79d19f1825fa.jpg"
 	],
 	"releaseDate": 20200403,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Slither your way in this super space snake game! \n\nControl the Space Snake up, down, left and right in this endless snake game!\n\nSlither through space and grow your snake by devouring the space pellets in your path. As you grow from Baby Snake, Tiny Snake all the way to Super Space Snake, the space grid grows to create an unlimited universe for you to navigate. \n\nSlither fast to reach your meal before they suddenly turn into deadly space mines. And watch out for the laser borders, slither into them and it\u2019s snake game over!\n\nEnjoy exciting endless snake game set in space that is arcade fun for all ages!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "111 MiB"
 }

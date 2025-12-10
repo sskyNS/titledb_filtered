@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4da0fc3a6e937bdfdba5ebe0c90c717674a2e5a461b551ee6d6af29fb761c5d5.jpg"
 	],
 	"releaseDate": 20180517,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "The dark will reveal all!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

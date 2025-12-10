@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/23b835f0bd770df5105b09ee559f751bdbc3e5710a890ce1497937ad29dbb021.jpg"
 	],
 	"releaseDate": 20231225,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Awesome helicopter shooting action!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "121 MiB"
 }

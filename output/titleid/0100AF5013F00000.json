@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/91fbb5116702d13c4535957e5909b4a1cc1265d8b5c076ced133d393f7c3fe50.jpg"
 	],
 	"releaseDate": 20210218,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The very foundations of space will shake...",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "43 MiB"
 }

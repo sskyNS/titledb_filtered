@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/dd2d2df829610d86b24fd7ad59f1c612f680989e255d178d9264fca676fb5228.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "\u201cPUZZLE BOBBLE 2\u201d just arrived with new features! Aim for even greater chains taking advantages of the new special bubbles!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "93 MiB"
 }

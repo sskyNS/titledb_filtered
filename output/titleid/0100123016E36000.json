@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/baae641fb9ad2e85f98300d71eb0e5e17efa3588b9135d711572ade066790477.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "What better way to explore a beautiful coastal city than from behind the wheel of a luxury sports car?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "420 MiB"
 }

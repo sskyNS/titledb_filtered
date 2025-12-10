@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b838ba3d2632a6bfb4b97209eb58935b04b2210e413aeb1ddb9beaa5bda0752.jpg"
 	],
 	"releaseDate": 20250916,
+	"category": [
+		"Action",
+		"Strategy",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "Make your mark in history - stand in the frontline of the second World War.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "15.89 GiB"
 }

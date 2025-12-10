@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/6291eed0a4eb6ab2cce165f8819d626ac1bd48f76279a30302e93f19285d54c8.jpg"
 	],
 	"releaseDate": 20190920,
+	"category": [
+		"Communication",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "IF YOU\u2019RE NOT MAKING ANY SENSE, YOU\u2019RE HALFWAY THERE!",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "403 MiB"
 }

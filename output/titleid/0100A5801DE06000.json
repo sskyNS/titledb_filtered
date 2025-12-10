@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/46e166ac15559fb40f202b305bf47b1bb31ebc22c4fbe0f88022d75349ea729b.jpg"
 	],
 	"releaseDate": 20240404,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Use orbs to annihilate your enemies! !\nCapture a lot of castles and rescue Princess Electra!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "67 MiB"
 }

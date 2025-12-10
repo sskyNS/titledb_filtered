@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/381d8cce0f38b7e747682fb157f2d220daf95a221ef244635e2e83434c9a95ef.jpg"
 	],
 	"releaseDate": 20231020,
+	"category": [
+		"Board Game",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "You are a druid preparing the forest for winter. Traverse the paths at your own pace, meet the animals, enjoy the music, all wrapped in a peaceful roguelike experience.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "176 MiB"
 }

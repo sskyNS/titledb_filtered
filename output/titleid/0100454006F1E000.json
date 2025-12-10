@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/98cd1207a3e3a870bcfa319355e1da70e325a293ea6c30990c7aea90ded767aa.jpg"
 	],
 	"releaseDate": 20220428,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Catch mysterious living snacks and feed them to your friends in this unusual island adventure!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.58 GiB"
 }

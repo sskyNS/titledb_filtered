@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/1c2d234cf7c4e170fd3b54a94d6e122f0b5a7ffdcf8e2b480edef9580419f2fb.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Set sail and join yer crew in search of treasure and glory!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "129 MiB"
 }

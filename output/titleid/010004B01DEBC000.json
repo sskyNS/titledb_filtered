@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6bc989acd70ff07bd44b604f52787b9ceca12b75abe04d991801c078614bc82f.jpg"
 	],
 	"releaseDate": 20240418,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Everybody knows it, everybody loves it!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "358 MiB"
 }

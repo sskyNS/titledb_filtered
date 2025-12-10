@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a44f3aa429a3dbd1bfb8765788de397b5a63b00510789114bcfe5b07265baa63.jpg"
 	],
 	"releaseDate": 20230316,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Air Battle is a game in which the player takes control of one of the historical types of aircraft from World War II.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

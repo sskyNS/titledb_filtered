@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c81c6174edd7ad3a6f135adaf3f3b603ab0943d078b757a038fa00e26256bd9.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "\u2014A Sealed Realm of \u201cCurses\u201d\u2014 Can You Escape the Grudged Domain?\nTeam Up to Escape\u2014A 4-Player Survival Horror Challenge",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.11 GiB"
 }

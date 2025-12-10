@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7bedae543bb5085399f148f37cdb1027f58f103ea8b596c5faf70ca8b5972842.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Training",
+		"Board Game"
+	],
+	"intro": "Pick your cue and enjoy a classic billiard modern game with a touch of arcade style!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "265 MiB"
 }

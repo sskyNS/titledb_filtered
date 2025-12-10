@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/674ea4eab8ee2d0674ef3f16178d8d46ad85491a7a2f4e544364bc715f343d62.jpg"
 	],
 	"releaseDate": 20230310,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Embark on a journey through a procedurally generated fantasy world in this roguelike adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

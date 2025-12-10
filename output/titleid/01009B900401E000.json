@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab1cb3bfcc5e582ed53ee99537a942d5f0a74b3af013e0540f470db0f4ac00c4.jpg"
 	],
 	"releaseDate": 20170727,
+	"category": [
+		"Strategy",
+		"Party",
+		"Communication",
+		"Simulation"
+	],
+	"intro": "Overcooked is a chaotic couch co-op cooking game for one to four players.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "990 MiB"
 }

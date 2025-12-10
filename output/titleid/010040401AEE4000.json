@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de6d8c5640a09f7d3087b99657fd49878be81852c3378c66fc7d0c37ec49266e.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Skillful driving in the city is a very important skill for a taxi driver.\nComplete orders using the most extreme driving called drift, surprising your customers in the time allotted to you, earn drift points by buying new cars to perform more beautiful drifts.\nFeatures:\nVariety of cars\nRealistic driving\nBeautiful graphics and city\nRealistic and live traffic\nNice cars and garage\nVarious tasks around the city\nFeel like a drift taxi driver in a beautiful and lively city by earning drift points and buying cars according to your drifting skills",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "397 MiB"
 }

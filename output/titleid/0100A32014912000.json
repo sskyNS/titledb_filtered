@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cee90ef5fcd1231ec89eb827fcc5833b70c724c70bf4d3a4c65abd48f90e63d0.jpg"
 	],
 	"releaseDate": 20210709,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy",
+		"Education"
+	],
+	"intro": "Simple but very addictive puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "136 MiB"
 }

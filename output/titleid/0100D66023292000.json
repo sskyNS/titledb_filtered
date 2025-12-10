@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8284429e23087790ea33b83f4966ece9d98e7cbb7c587f21e0f01ac9afb6ffb.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Bases Loaded brings the NES\u2122 + Super NES\u2122 classic baseball action back!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "342 MiB"
 }

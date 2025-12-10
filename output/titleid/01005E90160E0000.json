@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/25048eca8f2b3f469a4a8325c2fd310044a4864d3ebb5684752dc656d556155b.jpg"
 	],
 	"releaseDate": 20220127,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Party",
+		"Other"
+	],
+	"intro": "It's winter and cats are still outside. Cold and alone. Find them and bring them home.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

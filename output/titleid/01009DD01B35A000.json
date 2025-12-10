@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8934d317bb027364c02b6e4e9defca05f9ca4f1392315ec5ba36efbe398c1286.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Become a professional runner by passing all the barriers and obstacles. Explore new cities and take all coins!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

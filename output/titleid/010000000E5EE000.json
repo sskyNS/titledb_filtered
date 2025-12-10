@@ -4,5 +4,13 @@
 	"publisher": "Spike Chunsoft US",
 	"screenshots": null,
 	"releaseDate": 20191001,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Enjoy a retro-style 2D YU-NO platformer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "88 MiB"
 }

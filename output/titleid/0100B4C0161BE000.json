@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4764204a5258c6e2d5875e2d44e8eda330f5fcb13142280a3e077bbcb41434a.jpg"
 	],
 	"releaseDate": 20211007,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Experience the creepy tension of a Brothers Grimm fairy tale in this puzzle adventure game. Follow the young and brave Lars as he embarks on a dangerous journey to save his sister!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "680 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b7a7ed6ee99d3f904c4743f34d294b8439c32d9adab51484338eb3b5ac1495a9.jpg"
 	],
 	"releaseDate": 20240104,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "The spy who shot me\u2122 is a comedy retro FPS inspired by classic shooters of the 90s.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "507 MiB"
 }

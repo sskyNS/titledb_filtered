@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc9f1287abb059d35fbd5380c326c7b2f0097654513fba29e30c357024c84a8a.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Pull out weeds, plant new apple trees and gather the literal fruits of your labor. With time, you'll discover ways to make your life easier and explore this charming 2D world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "414 MiB"
 }

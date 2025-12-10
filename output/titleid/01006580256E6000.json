@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/ac641cdd62084899bac7ac180e5c0b888b418f000db245aaada40b8261cf6e72.jpg"
 	],
 	"releaseDate": 20251012,
+	"category": [
+		"Platformer",
+		"Study",
+		"Training",
+		"Board Game"
+	],
+	"intro": "LogIQ Boost \u2013 A fun brain-training game for everyone, with mini-games that test logic, memory, math, reflexes, and creativity.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "286 MiB"
 }

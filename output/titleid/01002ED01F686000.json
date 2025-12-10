@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/02bdfc9c2e20533efc004dc77a1abbaa9b9b8c9412aee98386768a9a80d33d51.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Multiplayer",
+		"First-Person Shooter"
+	],
+	"intro": "Survival horror with roguelike elements. Explore randomized levels and survive new hazards, foes and dangers. Brave the dangers alone or with friends online!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "758 MiB"
 }

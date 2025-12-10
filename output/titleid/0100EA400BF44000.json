@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dce648cfaa0e48c57985220458901e4d566dbb6a346eeb9fb6efacb02171f703.jpg"
 	],
 	"releaseDate": 20181029,
+	"category": [
+		"Arcade",
+		"Fighting",
+		"Action"
+	],
+	"intro": "Frantic Vertical Arcade Combat",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "945 MiB"
 }

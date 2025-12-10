@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/87d54443912ed4cb3fa37fa354c1bcef833ca1925aaaa5ed6241701aaffc1877.jpg"
 	],
 	"releaseDate": 20251001,
+	"category": [
+		"Simulation",
+		"Multiplayer",
+		"Puzzle",
+		"Party"
+	],
+	"intro": "Explore various designs, craft elaborate building elements and CREATE!",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.10 GiB"
 }

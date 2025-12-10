@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/88f10e7e2fe0a792fea7a34eb4cdc53f5661784630097c868dcbf33cbaf87d4a.jpg"
 	],
 	"releaseDate": 20171121,
+	"category": [
+		"Racing",
+		"Sports"
+	],
+	"intro": "More than just a race, an authentic cars universe!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.83 GiB"
 }

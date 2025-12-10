@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/a997bf9f266f463b8aa05451ece54bde57b5116b5957f6996700d27aa03c791c.jpg"
 	],
 	"releaseDate": 20230524,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Rogue-lite!\nCard based exploration!\nTurn based combat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

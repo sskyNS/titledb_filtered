@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2b9091818d73b25c8dc7668bdbed2c46f93f779de8cf2e681daad03c6fcb368.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Trapped on the dark, never-ending and nightmarish islands. Nothing but ocean in every direction, and monsters eyeing you down everywhere you go!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "155 MiB"
 }

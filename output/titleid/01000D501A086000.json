@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5755dbdd4c1eea964338e8ca210d51a9b27f2bbc2c505918dbef567daff67672.jpg"
 	],
 	"releaseDate": 20230921,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Everything exists for obstruction!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.24 GiB"
 }

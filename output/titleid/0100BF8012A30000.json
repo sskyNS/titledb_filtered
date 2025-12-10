@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/f99f392f41ff56a7bf269ab60fe5935d73463e9c8ba09e72918ca6679419e25f.jpg"
 	],
 	"releaseDate": 20200924,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"First-Person Shooter",
+		"Action"
+	],
+	"intro": "The Independent Battle Machine Corp is trying to occupy the city! Board on the hoverheli and stop them with the Assault Chainguns!",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "113 MiB"
 }

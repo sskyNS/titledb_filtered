@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/c013e8e8c61f789c4aa01e1a2f60be86228dc6c175d49faeea5edb6593101884.jpg"
 	],
 	"releaseDate": 20250206,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Perfect journey for those who look for inspiration and adventure. ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "456 MiB"
 }

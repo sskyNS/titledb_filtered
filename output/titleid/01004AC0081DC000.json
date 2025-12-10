@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/62f6b711d0ef9566d6c0f1d24361eb17e9eded2dc8777e991f8d634265dbd4fc.jpg"
 	],
 	"releaseDate": 20180726,
+	"category": [
+		"Arcade",
+		"Strategy",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Build that pillow fort, grab that dart gun, and try to survive one more night!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.58 GiB"
 }

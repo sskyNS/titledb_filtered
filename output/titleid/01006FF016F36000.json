@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7c901c07cce6705f8d9b4fed81cba8bd51ef92a1874d58548cecabe496caf82.jpg"
 	],
 	"releaseDate": 20211227,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "An intergalactic party where only the chosen blobs will fit. Will there be space for you?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "845 MiB"
 }

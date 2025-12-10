@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/305f42d02bbedfb7c12841ca243f20454e62f3e138a6b29d614550bbc99de631.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Feast your eyes on crystal clear visuals of reky. Interact with your environment and find a way to reach the finishing...square.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "551 MiB"
 }

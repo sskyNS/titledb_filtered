@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4d42e4c9561f5b9b6d3f9ba97beae6953007d1f92a7cebc028cbe8b5e8006db.jpg"
 	],
 	"releaseDate": 20190725,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "Experience the story of Overlord through Picross!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "287 MiB"
 }

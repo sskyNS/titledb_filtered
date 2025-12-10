@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/971d0148261cb969335bdbe247ac69bec2fc9208e4c129e888c0648408ec46e1.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Fighting"
+	],
+	"intro": "An Epic Sausage Battle till the last drop of ketchup for up to 4 Players and 20 Bots!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "517 MiB"
 }

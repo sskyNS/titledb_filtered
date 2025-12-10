@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/00bdd3e4f7cd1acfbeea0fa9d2e559649e27d734dec85ff9a6776f3b0a4f6459.jpg"
 	],
 	"releaseDate": 20221231,
+	"category": [
+		"Action",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "Defend your toybox in this exciting action strategy mash up, as waves of authentic World War I units are brought to life!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.64 GiB"
 }

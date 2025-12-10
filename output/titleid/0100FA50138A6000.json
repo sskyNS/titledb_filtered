@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/bef58f16a5a159e7c33c183e464843a51644582387a6bdc4cdecc8736895e7de.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Godstrike is a 3D boss rush Bullet Hell based on time. This means that you have to face every Boss and defeat them before your time runs out!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "747 MiB"
 }

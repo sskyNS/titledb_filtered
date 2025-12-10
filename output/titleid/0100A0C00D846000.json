@@ -8,5 +8,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f45ba2ed60b60825cf64a33719c703482bf25d2563e9feeef8799b921a98f32.jpg"
 	],
 	"releaseDate": 20190814,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Fell Seal: Arbiter's Mark is a story-driven, turn-based tactical RPG set in a fantasy world with a touch of steampunk. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.78 GiB"
 }

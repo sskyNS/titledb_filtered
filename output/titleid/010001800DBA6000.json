@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3a7b012eb82ce538d81a4265286de624b9a033231df1cdca0dadb488027a066.jpg"
 	],
 	"releaseDate": 20191024,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Six winter disciplines for 1 to 4 players!\nSki jumping, slalom, downhill, bobsleigh, tobogganing and curling!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "603 MiB"
 }

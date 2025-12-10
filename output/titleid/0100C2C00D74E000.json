@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed2651a640836a62f9f1a2b6fef32323f0ff7294ff28c751c3d9d63c384d1d4e.jpg"
 	],
 	"releaseDate": 20200826,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Welcome to Purgatory! Dodge for cover and outgun your enemies. The Wild West has never been this dark.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "979 MiB"
 }

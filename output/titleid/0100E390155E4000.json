@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1aff71de3ad8f75f2d0aaddd7196285a03389e92e71bc668cd7040b0fc3ab871.jpg"
 	],
 	"releaseDate": 20210805,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "a tiny exploration game",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "570 MiB"
 }

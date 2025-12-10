@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f153626a03969fdbc15aa607de518483a5de563f3495e3adacce9c76fa50686c.jpg"
 	],
 	"releaseDate": 20210707,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Stolen Girl, Hidden Truth \nPlay a high-speed, hack and slash, action game on the Nintendo Switch",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "868 MiB"
 }

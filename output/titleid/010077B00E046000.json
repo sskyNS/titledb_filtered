@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/312f860b37e8c450dcff8b490ed2e70892fe1a54e3cc4906092dff2a66dbda49.jpg"
 	],
 	"releaseDate": 20190903,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Spyro is back, and he's on-the-go!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 1,
 	"size": "15.08 GiB"
 }

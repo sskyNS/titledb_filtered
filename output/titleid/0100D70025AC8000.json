@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/061d8c83f8d3827e6fb42cdcd6b59601f01c2491cd8d24e2974dd5f6280202be.jpg"
 	],
 	"releaseDate": 20251101,
+	"category": [
+		"Puzzle",
+		"Lifestyle",
+		"Training",
+		"Education"
+	],
+	"intro": "Save the fish, solve the puzzle\nThink fast, pull smart\nOne move, one rescue",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/38d5aa7bf866a95c07152ab2113b3ccc907381d6301ee1d1f58902a52b6bc7c6.jpg"
 	],
 	"releaseDate": 20220825,
+	"category": [
+		"Platformer",
+		"Action",
+		"Shooter",
+		"First-Person Shooter"
+	],
+	"intro": "Chickens are on the loose! Hiding, running, fishing, and flying \u2013 chickens are everywhere! It\u2019s up to you and your dead-eye aim to save the farm.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "176 MiB"
 }

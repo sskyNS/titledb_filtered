@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/054992dcd7a7d847159946890826dd5a812479a721f5be544a6e30230d1b8bf9.jpg"
 	],
 	"releaseDate": 20171024,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Embark on a classic 3D platforming adventure as you set sail on an airship to collect Explorer Medallions and unravel the mysteries of the Milky Way Globe. Explore uncharted lands, and meet wild new characters, while on a journey to collect all the medallions and become a true Master Explorer!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.03 GiB"
 }

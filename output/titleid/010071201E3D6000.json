@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3ff6df3f00ad7b869d79af144ae4405ab8034703df8f6648a9eb248e192afdbd.jpg"
 	],
 	"releaseDate": 20240724,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "A narrative driven, pixel-art, 2D platformer with Soulslike inspirations.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "627 MiB"
 }

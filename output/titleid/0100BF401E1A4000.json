@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/aec6e1782d32f86e5fe8a6d06fc7f4af7346dd7104d2381f2911e0f0ffc2da51.jpg"
 	],
 	"releaseDate": 20240215,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "New heroes have arrived! Single play is a tense story about escaping from the zombie city! Do a battle and play with each other for up to maximum 4 people!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.47 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a91051eac5d63cbf78ae3531cb995e2c4507123ddf103a7d91744130880b6a7.jpg"
 	],
 	"releaseDate": 20250417,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Jeff Minter is back with another unique take on a 1980s Atari arcade game.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "245 MiB"
 }

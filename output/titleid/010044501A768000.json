@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5ee51f2c3cef83e324b8b23f636c73fa7af129427708b42734ded2eeea6a8bf5.jpg"
 	],
 	"releaseDate": 20230525,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Help our moon boy on his journey to recover shooting stars",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "122 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9cf0626de0a2382aedf10316380cab1acfd92c57255b9d2210ab480e49b3b354.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Board Game",
+		"Lifestyle"
+	],
+	"intro": "Ralph needs your help to find all his toys especially his lovely little blue ball. Embark on a very charming hidden object game based on a true story.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "140 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/152b8fbfaa6539198f3e9ed4da8f78d96e68155dfb768a72e568346f9f3fd5e9.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Avoid numerous dangers using the power of Mystical Gauntlets and make your way to the summit, braving increasingly harder challenges.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "269 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a4d3e01742c08eeadd42a507db284511f093295388186929a207dc54f81d9f2.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Sticky, curious\u2026 and DETERMINED TO GET BIGGER! Pudding Monsters is a delicious puzzle adventure with wacky characters and innovative stick-'em-together game-play.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

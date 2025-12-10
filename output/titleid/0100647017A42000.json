@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/56e02d37c9611a3caf4d3f5ee8002979e93935c4016c58d86ec39d16c0744406.jpg"
 	],
 	"releaseDate": 20220701,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Music",
+		"Action"
+	],
+	"intro": "Half twin stick shooter, half rhythm game, half dungeon crawler. 150% groovy!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "279 MiB"
 }

@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ece776d4c59bbc9583398c622bc56b6c7322e64b564d336be899e536ac403003.jpg"
 	],
 	"releaseDate": 20241225,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Captain - The fate of the universe is in your hands! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.50 GiB"
 }

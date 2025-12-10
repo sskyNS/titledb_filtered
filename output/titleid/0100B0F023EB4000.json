@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2da221aca8e065c3ad21e1e91b3141bb698e39c1a466fce1a1305c893ff7f8a.jpg"
 	],
 	"releaseDate": 20250703,
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Code the game. Survive the night.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "700 MiB"
 }

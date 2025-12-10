@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/201811d19d414c51f2081d0f28d65f2dcd2bcff267d0cb9d50951f7a5e89473a.jpg"
 	],
 	"releaseDate": 20190919,
+	"category": [
+		"Strategy"
+	],
+	"intro": "Not everyone is going to make it.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

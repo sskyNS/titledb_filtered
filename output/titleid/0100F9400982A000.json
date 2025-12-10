@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d98c5d0cbc915ba7bd621ee0571f5f3f21eabf461fcbc117b7549f4b70a102e.jpg"
 	],
 	"releaseDate": 20200507,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Rise up against the Raging Giant Machine Babylon. Our hero, MAGMAX!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "108 MiB"
 }

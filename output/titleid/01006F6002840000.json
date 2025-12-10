@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a2de9b7c871174b8de5b086de8729c4afced7297e01e76165bce1a1b5b5e9ac.jpg"
 	],
 	"releaseDate": 20170518,
+	"category": [
+		"Action",
+		"Music",
+		"Arcade"
+	],
+	"intro": "Rhythm Violence",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.13 GiB"
 }

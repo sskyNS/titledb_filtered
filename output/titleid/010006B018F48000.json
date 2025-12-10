@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/604b7dbc582e6484a5f42235c5925931423ebf75e2678a2ca13784749c72cc95.jpg"
 	],
 	"releaseDate": 20230912,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Step into a Saturday Morning Cartoon! Adventure through crypts and castles with your friends in this First-person Melee Roguelike.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.92 GiB"
 }

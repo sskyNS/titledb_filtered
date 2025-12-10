@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/1a44fb2780163d002d3b2c50d6e4a95e08dbc18bd70246dddcd86e3ede650d28.jpg"
 	],
 	"releaseDate": 20231120,
+	"category": [
+		"RPG"
+	],
+	"intro": "Find hope where there is none left and escape a time loop in this turn-based RPG",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "304 MiB"
 }

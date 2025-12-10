@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/40c0062e69b7e8cc0a900e7e08537c09612a0b6904882724c5da787a9d93076b.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Are you ready for a survival adventure of your lifetime?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "112 MiB"
 }

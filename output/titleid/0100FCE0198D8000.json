@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/19e824a555f582e921754e427140811a890f39ac9df9f6f6c0a7226b35cdf6e2.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "3 Game Modes.\nPerfect for quick games at all times.\nMore than 140 stages.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "206 MiB"
 }

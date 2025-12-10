@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/13f8aa305b980d409389a5f1c41a63dc42b66c84ee86e033df280827102a2652.jpg"
 	],
 	"releaseDate": 20220818,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Slay away your worries with Twin-Stick action mixed with Tower Defence as you visit the end-of-world scenarios of your dreams! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.16 GiB"
 }

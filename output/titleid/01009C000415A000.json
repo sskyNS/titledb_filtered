@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f50b8a2058e5b5a4974565a3243e2a47718b03a34e92bbe95149964fc2aef6fb.jpg"
 	],
 	"releaseDate": 20170728,
+	"category": [
+		"Action",
+		"Party",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "THE HYPERBALL PARTY IS JUST GETTING STARTED!\nUltimate Hardcore Single and Multiplayer Game of Infinite Fun!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "182 MiB"
 }

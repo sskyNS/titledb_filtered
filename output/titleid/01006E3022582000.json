@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/500630900b55c4928bf5de153acc50a13d87c7bdb9550a69bca818aa6ebba27b.jpg"
 	],
 	"releaseDate": 20250320,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Cook, expand, conquer \u2013 the ultimate fast-food challenge!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

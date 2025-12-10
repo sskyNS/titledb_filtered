@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b4d96a2dda71b29625a4d096e3ebe17b7528743d7b25dd8bae72c0d381d8cae.jpg"
 	],
 	"releaseDate": 20230706,
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy",
+		"RPG"
+	],
+	"intro": "A necromancer simulator",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "214 MiB"
 }

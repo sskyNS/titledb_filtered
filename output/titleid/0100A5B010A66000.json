@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/62b2823fcc41ec7fcb64e3ae79e3ea414e0686bc0799b67451138c97e57c5aee.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Drifting: the Art Of Sliding Sideways.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

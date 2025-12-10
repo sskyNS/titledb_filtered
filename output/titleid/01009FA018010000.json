@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/45e90ef074f2f065ef335f5c8ec37b1e75570b8dd8553bdebdddf39375a23b13.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "An all-new strategic digging roguelike experience!\nTactics, crafting, and support are the key to tackling the underground!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "387 MiB"
 }

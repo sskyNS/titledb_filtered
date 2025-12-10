@@ -7,5 +7,13 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa11d06fc99f8bc9b31c6f05a1e9e7ea47632a58bbff914af44ce5fe6c5354f7.jpg"
 	],
 	"releaseDate": 20220408,
+	"category": [
+		"Puzzle"
+	],
+	"intro": "3D Box Sokoban is a logic game that will exercise your brain, helping developing its capabilities.\n\n- The goal of the puzzle is to push all of the boxes onto the goals.\n- Only one box can be pushed at a time.\n- The puzzle is solved when all boxes are on the goals.\n\nGet brainstorming!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

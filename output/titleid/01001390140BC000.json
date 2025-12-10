@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aeb9551d40e31373fb83568919d62b8b215e9898c8fd34ec227d2efc0afedfad.jpg"
 	],
 	"releaseDate": 20220208,
+	"category": [
+		"Multiplayer",
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play along with a friend as either Aysu or Solveig and help reunite the sister goddesses. Use caution and safely navigate the shadows to solve the increasingly complex puzzles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.43 GiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/344216bdedc881e42635f16e85e0645239f179b068ca7d70015a0e4def6dbefc.jpg"
 	],
 	"releaseDate": 20210303,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Embark on a new roguelike adventure starring Oratio the Dwarf!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "153 MiB"
 }

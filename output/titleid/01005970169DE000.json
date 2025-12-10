@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9ee6c13383412ff1c56b6c69f6d4e44109ecd0abf29097e7eb3538813b0e821.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Please fasten your seatbelts and play Sky Races - up to 4 players in multiplayer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "630 MiB"
 }

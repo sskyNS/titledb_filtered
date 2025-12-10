@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d6a619801199761e9da1ee0b457e0c2c34a327640ed5085388ea695401ce6c6b.jpg"
 	],
 	"releaseDate": 20230120,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Become a motorcycle mechanic and build your empire. Buy, repair, renovate and build your own dream bikes.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.13 GiB"
 }

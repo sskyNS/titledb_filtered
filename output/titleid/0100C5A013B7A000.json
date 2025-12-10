@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c890d7f3f05bd13dca1a2a1fed770330881efd7dc9fe40b966aefe59940477d0.jpg"
 	],
 	"releaseDate": 20210728,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Summon portals to overcome vicious beasts, devious puzzles and fiendish platforming challenges. Master the powers of each portal to stop the collapse of reality.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.73 GiB"
 }

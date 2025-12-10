@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ad81eaf36b78eef5545a93b9ffd2c0377fadcdbd5dffe9d7e1f1d53b6e5b2be.jpg"
 	],
 	"releaseDate": 20210107,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Discover your Rage in an adventure game inspired by the legendary tabletop RPG Werewolf: The Apocalypse.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "757 MiB"
 }

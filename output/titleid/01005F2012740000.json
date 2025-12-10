@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/35def7b9b318ac3f3a3e0e621b730676a23488a5f246b8ead836b5572bf42b14.jpg"
 	],
 	"releaseDate": 20200731,
+	"category": [
+		"Sports",
+		"Multiplayer",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "Table football in your living room!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "373 MiB"
 }

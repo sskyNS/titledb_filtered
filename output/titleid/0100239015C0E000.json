@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b5c7251a2e11f51c4c5056a72e6f01bdc49ef87c3224e3bbc859087e1be61eb8.jpg"
 	],
 	"releaseDate": 20230216,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Only the strong will conquer this gruesome action platformer with RPG elements.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.04 GiB"
 }

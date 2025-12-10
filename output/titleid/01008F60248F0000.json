@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/57bd985a0af6e0014d6bfdcc59df41ae739164291ce56a36955a5006d601a9ea.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Experience the thrill of the pocket!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "65 MiB"
 }

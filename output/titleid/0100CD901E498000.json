@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/fcf15b45b78c155b09274aeafec9eeefceba73fdf8bfe6b19a3bdb975286bb94.jpg"
 	],
 	"releaseDate": 20250710,
+	"category": [
+		"Action",
+		"First-Person Shooter",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "How can you challenge a perfect, immortal machine?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.48 GiB"
 }

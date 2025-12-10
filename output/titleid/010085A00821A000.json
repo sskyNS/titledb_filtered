@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/8c01910932cd872417bad7488906a9c9f211b4ae79843308ad942103bfe754a3.jpg"
 	],
 	"releaseDate": 20180329,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "ClusterPuck 99 is a sporty competitive sports game about sports based on athletics! \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 8,
 	"size": "267 MiB"
 }

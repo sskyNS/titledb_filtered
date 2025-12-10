@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/04a6a03eb674bc4130c569f383d7bdc84f7f1d0ca7622f08c280ac2d8e35d138.jpg"
 	],
 	"releaseDate": 20250429,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore the wonderful world with baby Ogu!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.26 GiB"
 }

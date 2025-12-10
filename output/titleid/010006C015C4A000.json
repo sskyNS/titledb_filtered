@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6917628dab2b667643293dfd2c6bc65ec9f9ba0dc339bb126af96e8be6b8f863.jpg"
 	],
 	"releaseDate": 20211112,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Join the X-Force Squad and stop a hybrid race from taking over your planet",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "899 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/a64bc8a402d56818ec64a20d88345c8956e85477a2134f7658ef1f3ebc628a89.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Training",
+		"Study"
+	],
+	"intro": "Divide the grid into rectangles \nin this remarkably satisfying puzzle.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "230 MiB"
 }

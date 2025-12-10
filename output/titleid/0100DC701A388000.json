@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3751eaf5d5c7a8a355aef9411b8aa28b34d7a7c539d01b1dd11f7f5dd23cc59.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Fighting"
+	],
+	"intro": "Relive the pinnacle of 2D sprite-based fighting! Enhanced for online play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.99 GiB"
 }

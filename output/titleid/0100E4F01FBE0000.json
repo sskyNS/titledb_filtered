@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5996ddb31ee6a70e806488d501c5dd6bd6bb977826ecd501840ff617061ea9bf.jpg"
 	],
 	"releaseDate": 20241015,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "Collect all treasure and get the highest score in this pirate platorfming epic though the seven seas!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "72 MiB"
 }

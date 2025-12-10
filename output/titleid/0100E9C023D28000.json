@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/34e21cbcbfd588b661a545400dda6c73fad5a84efd6144c5ebd20f00fe6db814.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Arcade",
+		"Action",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "Silver Bullet is a gothic arcade shooter: blast your way through creepy environments and macabre mini-games as Van Helsing.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

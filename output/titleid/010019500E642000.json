@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/03dfc85d94ff8da0b704bf8941cc0a7298b9563c4172c647ce9a3a48d31a2eb9.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Strategy",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Invent your animals and create an army!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "229 MiB"
 }

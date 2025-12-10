@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/9c5223daf5c20b255280e633c1f2b4bd17916421c455c18bfb5d7702c23456a4.jpg"
 	],
 	"releaseDate": 20240606,
+	"category": [
+		"Action",
+		"Fighting",
+		"RPG",
+		"Lifestyle"
+	],
+	"intro": "Seiji Maruyama is a middle-aged yakuza recently released from prison. Known as \"Gozuki\" (one of the demon generals from Buddhist mythology) he is the power that his oyabun counts on. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "975 MiB"
 }

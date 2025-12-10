@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8467a06360c0c5fd7bf42a323e0659aaeda32fbb4878a22fa54d9bbf054344df.jpg"
 	],
 	"releaseDate": 20220729,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Creative and complex platform action with a unique supernatural touch",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "80 MiB"
 }

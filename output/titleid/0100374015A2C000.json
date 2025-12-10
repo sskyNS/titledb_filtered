@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe232b037b7be1adc011d8685a72fd534290900b27e66df0d10fae9948d9340d.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Luna's Fishing Garden is a short, cozy fishing and building game. Catch fish, trade it in and create the garden of your dreams!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "270 MiB"
 }

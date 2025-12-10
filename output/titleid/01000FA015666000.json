@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2b6b9e7c76f482e19c756e283931d1bf7f90f8bea0a5227327b46e78f0f8759f.jpg"
 	],
 	"releaseDate": 20210624,
+	"category": [
+		"\u30b9\u30dd\u30fc\u30c4",
+		"\u30a2\u30fc\u30b1\u30fc\u30c9",
+		"\u30a2\u30af\u30b7\u30e7\u30f3"
+	],
+	"intro": "SUPER SOCCER BLAST\u304c\u30d1\u30ef\u30fc\u30a2\u30c3\u30d7\uff01\n\u65b0\u30e2\u30fc\u30c9\u3067\u3082\u30a8\u30f3\u30b8\u30e7\u30a4\uff01\u30b5\u30c3\u30ab\u30fc\uff01\uff01\n\u4e16\u754c\u6700\u9ad8\u306e\u30b5\u30c3\u30ab\u30fc\u9078\u624b\u3092\u76ee\u6307\u305d\u3046\uff01",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "293 MiB"
 }

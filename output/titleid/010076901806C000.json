@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/eee314ddc56806a071a0446de0f975e32a06a9dc427b13a80958957cb0d9dfb6.jpg"
 	],
 	"releaseDate": 20221122,
+	"category": [
+		"Action",
+		"Adventure",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Ship of Fools is a seafaring roguelite co-op game where you play the Fools, the only creatures fool enough to brave the sea. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.17 GiB"
 }

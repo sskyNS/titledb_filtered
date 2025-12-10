@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/99b95fa9458b5c38d707122c68f73ca0c11e0adbb182d7c518a5513e41c16e82.jpg"
 	],
 	"releaseDate": 20231102,
+	"category": [
+		"Action",
+		"Racing",
+		"Party",
+		"Communication"
+	],
+	"intro": "Though modes may differ, there is but one objective!\nFight through to the end and triumph over all!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "328 MiB"
 }

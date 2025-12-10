@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/8b1152ecc0492e7903284ad6715e1eb83adfd745aa65572de32e7deb28daa214.jpg"
 	],
 	"releaseDate": 20200211,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Push and stomp your way to victory in this exciting brawler for friends and family!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "267 MiB"
 }

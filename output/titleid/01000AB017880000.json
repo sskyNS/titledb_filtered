@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/83a440cde2fa774ca4d1b42a4c79649220fb85db079192cfe32beda4e740cdb4.jpg"
 	],
 	"releaseDate": 20220211,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Strategy"
+	],
+	"intro": "Can you be the Boomerang King?!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "133 MiB"
 }

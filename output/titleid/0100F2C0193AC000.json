@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/90f9c61d7c744407dd1f9c26994403767012fd8b537426dda1658e7b1a8fb606.jpg"
 	],
 	"releaseDate": 20230718,
+	"category": [
+		"Shooter",
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Dynamic top down arena shooter will drag you into the universe of eternal battle for the title of Grand Arena Champion!",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "597 MiB"
 }

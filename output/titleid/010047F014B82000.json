@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/252d9bd8b1f17da7e63071a53f1b3bdd58cb27c621d4975e9eaea7473e809df0.jpg"
 	],
 	"releaseDate": 20210819,
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Where\u2019s Samantha? That\u2019s exactly what George, an unassuming swatch of fabric, is asking.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "413 MiB"
 }

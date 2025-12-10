@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/6723462194f5743fe6c1b3a630d8e04df235f5cc6a631b1493f8ba480e42f989.jpg"
 	],
 	"releaseDate": 20220416,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Racing",
+		"Platformer"
+	],
+	"intro": "Don't be fooled - Rolling Car is all about precision driving, good timing and the hardest challenges! Overcome all hurdles, solve puzzles and rush to the finish line! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

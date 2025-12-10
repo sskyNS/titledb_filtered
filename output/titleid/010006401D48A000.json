@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/7aac631b8cc53acde3cf1571c3a45748eb7179bc6d0b0deae12a4a96f37c0a41.jpg"
 	],
 	"releaseDate": 20231201,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Mow down enormous mobs of zombies and save humanity",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "552 MiB"
 }

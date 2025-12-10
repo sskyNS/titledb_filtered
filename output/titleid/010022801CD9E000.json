@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/08270ad1e399e55398dfd81a7e091e7d8db7d6dfa1c5664619cefce203f8b4db.jpg"
 	],
 	"releaseDate": 20231214,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Immerse yourself and let your mind wander as you create your own little, beautiful world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "368 MiB"
 }

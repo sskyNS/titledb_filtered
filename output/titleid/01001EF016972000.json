@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/184473a6b0464ae7aef3d007a675a93cccea9b8441962c72e39e846ad568079c.jpg"
 	],
 	"releaseDate": 20220406,
+	"category": [
+		"Adventure",
+		"Action",
+		"First-Person Shooter",
+		"RPG"
+	],
+	"intro": "A chilling love letter to classic 90s survival horror.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.93 GiB"
 }

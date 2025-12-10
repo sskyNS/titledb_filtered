@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/facf6610a6affa301bdb1c505ff33d99adff7435e84149ac83b59ab0982fe0fa.jpg"
 	],
 	"releaseDate": 20180201,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Minigolf for 1 to 4 Players!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.23 GiB"
 }

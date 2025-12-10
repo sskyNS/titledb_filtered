@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/2a59b5765dcee854a01338032504b5ae4f7342175e08207917430c8fdbb8fe5e.jpg"
 	],
 	"releaseDate": 20180705,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Reveal the road ahead of you with your blade! Does the way of Bushido or carnage lie ahead?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "156 MiB"
 }

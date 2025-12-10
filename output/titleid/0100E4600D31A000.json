@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/33daa7ddf070a7c8cd79b8f8a95a14744ef0f24c05282d30a36336fb224a31a1.jpg"
 	],
 	"releaseDate": 20190404,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Join the Mechstermination Force and save the world from the gigantic MegaMechs!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "635 MiB"
 }

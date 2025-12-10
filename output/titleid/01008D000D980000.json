@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/d7a16cd8f1e1d57634f2c418637447683ccb01ba786f6b6264b9460fbc1cd42b.jpg"
 	],
 	"releaseDate": 20190426,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Welcome mortal to the Hotel Dracula!\nNow geat ready! Uniform in hand and to work! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "298 MiB"
 }

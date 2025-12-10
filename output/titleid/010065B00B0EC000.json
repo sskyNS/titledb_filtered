@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4954d1a81bad923f7d3f82090fe42f73f8e01a34e472b16037959974c2daa409.jpg"
 	],
 	"releaseDate": 20180927,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Shoot Fast, Think Faster\nRise & Shine is a high lethality puzzle game with a bullet-hell twist. Pop your enemies' heads with next-level strategy and cunning. Pull off the perfect boss fight with careful planning and execution. And guide your advanced projectiles to open new areas. \nGet Ready to Respawn\nSaving Gamearth won't be easy -- prepare to dash through flurries of missiles and avoid unseen traps as you fight to prevent its destruction. It's going to take all you've got to stay alive in the face of deadly robot armadas, bosses, giant death wheels, and even zombies. You're going to die. A lot. Probably.\nAs Difficult As YOU Want \nPlay Rise & Shine like you\u2019ve never played before with new game modes that ensure each playthrough feels just right. \n\u2022\tNormal Mode -- Take it easier with a slightly less intense experience\n\u2022\tHard Mode -- If you\u2019re daring, see how long you\u2019ll survive in this new, more intense experience \n\u2022\tTurbo Mode \u2013 Complete the game once to unlock a faster, authentic bullet-hell experience that you can combine with either Normal or Hard Mode\nSwitch up your play throughs to ensure that the respawns NEVER end!\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.32 GiB"
 }

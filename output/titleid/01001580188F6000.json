@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/faf6d681339e5684bb549a05437000badfdfa0c6c00f42c14fa372713c72ab66.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Adventure",
+		"Other"
+	],
+	"intro": "A chill narative adventure starring Maya and her Granpa. Defy the difficulties of the scarce environment to discover Maya's origins as they approach their destination.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.75 GiB"
 }

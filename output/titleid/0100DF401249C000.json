@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/69945973cbf40638b9da6c718db23dc00e468515a4b9e0705b2663cec6c14e30.jpg"
 	],
 	"releaseDate": 20201008,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Retro style, exciting and authentic bullet hell, space shooting game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "168 MiB"
 }

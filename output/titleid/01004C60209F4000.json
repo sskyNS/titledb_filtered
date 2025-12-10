@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c989b9b07a2e1c48fee5d7668649101dbc0c711ce347e25cec4cbfc6f05d5d6a.jpg"
 	],
 	"releaseDate": 20250409,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Play and get the feeling of being a true Victorian detective.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.89 GiB"
 }

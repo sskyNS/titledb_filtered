@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a82cdbecc651c008b2e98262886e9aa87a97e10f2597ba61b35fabaebbec2d22.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Action",
+		"Strategy",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "The Fluffy Horde is coming!  Save your crops from the enemy and try to withstand the rabbit TSUNAMI. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.08 GiB"
 }

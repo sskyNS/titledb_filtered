@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e82ac39684b5aa0fc22d9e770ec127249a6cf922c1a2d68bcf0e18eb620f059b.jpg"
 	],
 	"releaseDate": 20201009,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Try out this 3 games in 1 Pack \n\nSwitchy Road - A simple, yet challenging puzzler to keep you on your toes at home or on the go.\n\nRally Road - Cross and drift the road in this RALLY racing game to avoid other cars. RACE on the road while trying to earn coins and reach high scores.Pick your favorite race car and free roam the open highway, getting the highest score possible. \n\nTwister Road - Random twisting roads every time you play so you\u2019ll never play the same game twice!   Endless twisting roads for endless fun!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "309 MiB"
 }

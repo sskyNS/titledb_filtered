@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/79145cfca71afcd74321df03e2a0035231ef0a8d7ad55eccfb104e12e38dbd0d.jpg"
 	],
 	"releaseDate": 20190726,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer",
+		"Multiplayer"
+	],
+	"intro": "Seeders Puzzle Reboot is a 2D puzzle-platformer with funky physics, tight and responsive controls, and really challenging puzzles.\n\nThe game engine allows you to experiment with the world and try different approaches until you find one that works. Some of the puzzles can be solved in multiple different ways. Checkpoints are abundant and it's always easy to go for one more try. There are subtle clues in the environment like billboards or signs on walls that should give you hints.\n\nFeatures:\n\n* single player adventure with an original sci-fi story\n* co-op with additional puzzles designed for two players\n* over 100 unique puzzles including switches, sensors, doors, elevators, movable blocks, lasers, mirrors, driving vehicles, flying a spaceship, manipulating gravity and tricking the enemies into helping you\n\nPlayers who want extra challenge can try to collect all 15 hats, which requires solving some optional difficult puzzles or solving the existing puzzles in a different way.\n\nThe game supports horizontal Joy-Con\u2122 layout, so two players can play with one pair.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "306 MiB"
 }

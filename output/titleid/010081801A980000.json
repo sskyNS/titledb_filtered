@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/498fe265b2d30326945d92950fc4a3608cf1a24d372898d3f9ed500068f1d3b0.jpg"
 	],
 	"releaseDate": 20230928,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "CO-OP SHMUP / STG (Shoot em' up), 4 player local and 8 player online. Customize your ship with over 500 attachments while you blast through 32 levels.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.37 GiB"
 }

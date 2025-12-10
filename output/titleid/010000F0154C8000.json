@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9693e7b666055f399c8f93778728be42ac90315769e4b9e4b1e76d2dad3dbdf.jpg"
 	],
 	"releaseDate": 20231010,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Football for Everyone!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 2,
 	"size": "5.43 GiB"
 }

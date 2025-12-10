@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/99cab6c7f2effcdc5dd0d2c73066ddb88c536bb751c3f0393c903edd864d6024.jpg"
 	],
 	"releaseDate": 20220324,
+	"category": [
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "A difficult but addictive soccer game!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "55 MiB"
 }

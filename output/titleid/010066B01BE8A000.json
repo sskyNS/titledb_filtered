@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/375703c85aecca079025b5a73831d95576c0a28ca0219bf330eacf2be28b1bb7.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Be the Forest Fire and burn everything in sight! A Rogue-lite destruction-fest where every pixel is physically simulated.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "249 MiB"
 }

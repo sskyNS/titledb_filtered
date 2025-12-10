@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/00e0f8deaddd7e506f6e6d3258977383a74c4cd3826facd3d0e30ca124e6bc8a.jpg"
 	],
 	"releaseDate": 20190531,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": "When a Warlock threatens the safety of the entire world, salvation must come by mail!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "99 MiB"
 }

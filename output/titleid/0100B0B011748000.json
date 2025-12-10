@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3dee2b1698e37bd9c04f0774d8f5362189f58d5038b3b9dc02fcc3ca251a58af.jpg"
 	],
 	"releaseDate": 20200416,
+	"category": [
+		"Strategy",
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "A real gem for strategy fans! Insane battlefields in a sandbox RTS! Prove your tactical skill! Plan, fight and win! From Vikings and Romans to WWII and cyberpunk! ",
+	"languages": [
+		"en",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "266 MiB"
 }

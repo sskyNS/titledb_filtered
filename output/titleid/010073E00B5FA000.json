@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b185793c738ea4494812d3319fe450b120b5200e11a48929dc53d4873a23e1a.jpg"
 	],
 	"releaseDate": 20180704,
+	"category": [
+		"Party",
+		"Action",
+		"Shooter",
+		"Racing"
+	],
+	"intro": "Participate in wacky battles against your friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "625 MiB"
 }

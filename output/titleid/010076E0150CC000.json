@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3a4d37fa9c32add6116886350309438da3d2ebe6bb4d8cc12fb59ebcfd4a0b1.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Tears Of Avia is a turn-based strategy and tactics game set in the beautiful world of Estera.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.09 GiB"
 }

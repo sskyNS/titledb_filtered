@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/a98e72bba0e1081ee24eb1d5d4d93dea54870406f5a6027a5332321b3e2dd828.jpg"
 	],
 	"releaseDate": 20230531,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Blast off on a critical mission to free the galaxy from artificial governance in this side-scrolling 2D shoot\u2019em up!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.77 GiB"
 }

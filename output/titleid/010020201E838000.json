@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c2259d79df09aa57af0803b47def64fcfd57baadedf2393cc02bbed8a099b8a.jpg"
 	],
 	"releaseDate": 20240816,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Space-themed puzzles with real-time-strategy elements",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "442 MiB"
 }

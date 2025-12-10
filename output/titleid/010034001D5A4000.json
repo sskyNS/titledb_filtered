@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0acdb4371d876e939c7617ec636880009ecb028ac2e6d5a491ae2b9adaa54b37.jpg"
 	],
 	"releaseDate": 20231116,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Help Pop the hen rescue her chicks. Take one move at a time, and be careful where you're going.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "149 MiB"
 }

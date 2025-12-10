@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/0428c369c820db99025cfa6014557dcc429c7cea38af65bd72e68c5140879a23.jpg"
 	],
 	"releaseDate": 20220319,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Practical"
+	],
+	"intro": "Rattyvity Lab is Physics Based Platform,Puzzle Game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "159 MiB"
 }

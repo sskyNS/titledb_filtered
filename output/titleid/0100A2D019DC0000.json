@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3e4d9f1fa81d54a249baab168802bd20ecbd5fbbc1e7ae99ff76162b92a7d4f0.jpg"
 	],
 	"releaseDate": 20240322,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Fighting",
+		"Adventure"
+	],
+	"intro": "Protect your world from demons as one of legendary Crypt Stalkers.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "210 MiB"
 }

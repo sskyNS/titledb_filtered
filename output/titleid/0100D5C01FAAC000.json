@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/9e0b110570cbaad7ba19f62e13ca5dbed4c41d9d3ba6e5f5f7db47f5bf5c2117.jpg"
 	],
 	"releaseDate": 20241115,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Solve the mystery of the artifact that can bring back the dead and find the right tactics to defeat your enemies!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

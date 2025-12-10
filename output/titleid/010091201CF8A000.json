@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e110d040811bba690798ee0fe985e4f61f6827c90c877fedba0645ab96a92b4a.jpg"
 	],
 	"releaseDate": 20231130,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Scramble into the skies of Tokio!\nMaster the formation change!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "59 MiB"
 }

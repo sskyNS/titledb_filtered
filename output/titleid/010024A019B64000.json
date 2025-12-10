@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8554aac9cea78e269172ad8a6ad65508a94418acddc9afa519642377cf27173.jpg"
 	],
 	"releaseDate": 20221111,
+	"category": [
+		"Action",
+		"Adventure",
+		"Party",
+		"Other"
+	],
+	"intro": "A stealth adventure game with an absurd-driven story and third-person perspective for a single-player or co-op. ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "3.89 GiB"
 }

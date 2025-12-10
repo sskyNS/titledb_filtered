@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e48639c0079740f18df6a84d9ee7d1e0dcdd303c0d626f1051fabef3df6c6e45.jpg"
 	],
 	"releaseDate": 20190827,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Jump and Whip your way through this epic adventure to help Whipseey solve the mystery of the Lost Atlas in this retro inspired action platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "564 MiB"
 }

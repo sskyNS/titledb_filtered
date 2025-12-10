@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/80c881636562caefd47b8085a073c4017ada2a2bb23b7d2e7285ea978b51e2c5.jpg"
 	],
 	"releaseDate": 20250101,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Liberate a town from gangs of cybernetic bandits as a steampunk gunslinger!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "106 MiB"
 }

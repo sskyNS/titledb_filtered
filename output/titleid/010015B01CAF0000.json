@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9b9f0e9a5dbacb08895d5f2bdb5561942d5807e34dafa6c3ec062ed8603b403.jpg"
 	],
 	"releaseDate": 20231201,
+	"category": [
+		"Arcade",
+		"Sports",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Swing into action and tee off on the craziest golf course ever with Uzzuzzu pack! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.51 GiB"
 }

@@ -10,5 +10,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5f25094aecd59da90625e6919bf01984f5d17d6880300e8b72a897ba0c49e15.jpg"
 	],
 	"releaseDate": 20221130,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Try new features in a masterpiece 2D action game. Infiltrate a terrorist occupied tower, airport, and mall to get secret data. Also has 2 player mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "519 MiB"
 }

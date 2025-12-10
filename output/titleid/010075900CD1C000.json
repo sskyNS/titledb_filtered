@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/5c5526a56d501686b462b0223b8f2ea3e9315616a2d121c44562acc5c1264b61.jpg"
 	],
 	"releaseDate": 20190201,
+	"category": [
+		"Strategy",
+		"Board Game",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "You are their last and only true hope! ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.64 GiB"
 }

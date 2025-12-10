@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/45deccba3adb05267eacc160e40c5b488036c4df40544ae948892b7e792b9eb8.jpg"
 	],
 	"releaseDate": 20200513,
+	"category": [
+		"Sports",
+		"Simulation",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Run up the score in a relaxed slugfest or push the limits of your reflexes in this refined baseball simulator. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.57 GiB"
 }

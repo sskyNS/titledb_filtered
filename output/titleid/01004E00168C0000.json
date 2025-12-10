@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e23ce633bfc76ce3ce3c67a64d59d01d8210d5fe40e34ad231f2aeafbd99ba1b.jpg"
 	],
 	"releaseDate": 20220512,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Dungeons of Dreadrock is a puzzle adventure game in which you set out to save your little brother.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "733 MiB"
 }

@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f18ad2611da8d23685b9619a0f141d0f6a56814ec522176d0bb023578f812181.jpg"
 	],
 	"releaseDate": 20200910,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Free new update! Brings an explosive new mode, Grand Prix and four new tracks to this best in class racer!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.31 GiB"
 }

@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/20d3425a444a6dca618ea37c428e067ad42bbc7219b485dc6b5784ca71ff435b.jpg"
 	],
 	"releaseDate": 20210401,
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Assemble your party and use your cards to survive, fight and build your way through a dark maze of monsters orchestrated by an evil mastermind. ",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.41 GiB"
 }

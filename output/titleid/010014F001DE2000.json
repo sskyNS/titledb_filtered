@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/295d00598ab68d5cb6baeacc3025f8955e474d77d295f6b77bd52ec8120b309e.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Equip armor with a wide variety of attacks and utilize formation changes to eradicate the enemy!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "81 MiB"
 }

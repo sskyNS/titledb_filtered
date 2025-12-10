@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4221a0463f8fcf7340f8e2fe307875157487e4d358805cd260b5f80071ffd9a.jpg"
 	],
 	"releaseDate": 20230414,
+	"category": [
+		"Racing",
+		"Simulation",
+		"Party",
+		"Multiplayer"
+	],
+	"intro": "This drone simulator is an exciting turn-based experience for up to 5 players, perfect for fans of racing and competition.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "732 MiB"
 }

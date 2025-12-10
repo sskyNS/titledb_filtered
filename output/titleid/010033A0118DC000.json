@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/28d441db4698e4df04da733adb79b468385a684f3935aa9f55df91d647165b90.jpg"
 	],
 	"releaseDate": 20200428,
+	"category": [
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "An online action battle game featuring ninja and gum!\nAssume the role of a modern-day ninja \nand take part in the Ninjala tournament!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.55 GiB"
 }

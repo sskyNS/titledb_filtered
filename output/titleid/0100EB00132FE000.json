@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/2e14a864aa1df48d7da58bd879fa71815602fe822ebdca4ad642d3c4d1dc6355.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Puzzle",
+		"Multiplayer",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Think fast to solve 100 colorful labyrinth puzzles and color your world!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "816 MiB"
 }

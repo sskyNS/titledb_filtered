@@ -10,5 +10,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ffb3fa95f81f6cd5c174595434c923797521b1a200b3996f4e7d3ab8eb838188.jpg"
 	],
 	"releaseDate": 20241205,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Lifestyle",
+		"Sports"
+	],
+	"intro": "Build your shelter and prepare for the unexpected!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "549 MiB"
 }

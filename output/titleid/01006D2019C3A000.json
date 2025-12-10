@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c4e902d2df33656f6f2afe270a8fbe4e6588f8244694bb02285add85f1096da.jpg"
 	],
 	"releaseDate": 20230119,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Void Prison is a fast-paced, endless arcade twin-stick shooter that puts you inside an ever-shrinking ring.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "150 MiB"
 }

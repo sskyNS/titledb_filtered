@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ca84ecc71eda1b84072e6962279695c70d8539bcdff82c5d7d43a6582be864a0.jpg"
 	],
 	"releaseDate": 20241112,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Celebrate 40 years of Tetris\u00ae with 15+ games, a new game, and documentary videos",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "5.41 GiB"
 }

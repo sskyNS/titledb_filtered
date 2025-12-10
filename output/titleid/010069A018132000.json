@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a0124a23a3b6c5a937391d3ad4a4ee48b151d3a3a081fb5a043a2645381d417.jpg"
 	],
 	"releaseDate": 20230330,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Welcome to Doodle World! Play as Doodle and travel across the world to defeat King Eraser and his minions.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "356 MiB"
 }

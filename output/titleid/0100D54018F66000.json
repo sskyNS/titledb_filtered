@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5468b67ac7f51dc6b4ab4d2e7628595380702d20e1c27898a8141ec00316e52d.jpg"
 	],
 	"releaseDate": 20220801,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Racing",
+		"Puzzle"
+	],
+	"intro": "Endless running game, very fun and addictive.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "241 MiB"
 }

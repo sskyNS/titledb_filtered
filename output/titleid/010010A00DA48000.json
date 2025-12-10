@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d1057fc10d5a41b49b7aa7bec7749642677974abc25b83f0f4760a53e9f0ff0.jpg"
 	],
 	"releaseDate": 20191015,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Gather your party: the RPG saga returns!",
+	"languages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "6.21 GiB"
 }

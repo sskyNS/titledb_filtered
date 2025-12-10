@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/20061f586827aee39b5bab1f258e04224ebd6348a2f1e6b3f28d8ec986563f6f.jpg"
 	],
 	"releaseDate": 20230201,
+	"category": [
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Enjoy new features in Puzzle Bobble 2X and Puzzle Bobble 3, games where you shoot bubbles that pop when 3 or more of the same color stick together.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "557 MiB"
 }

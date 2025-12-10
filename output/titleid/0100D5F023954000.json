@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/89eac1a1de45f9582f50198b13761f4f15ae32da1fcf758af6bafe45e043a862.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Party"
+	],
+	"intro": "Spot the Difference!\nA quick and easy brain game where just one thing is out of place.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "244 MiB"
 }

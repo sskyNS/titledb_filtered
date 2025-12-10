@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d48f3faa34de3201a79219933784ef7993f24e2a445771b4181dac7482aee207.jpg"
 	],
 	"releaseDate": 20250428,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Party"
+	],
+	"intro": "A playful hidden object game with capybaras, oranges, cats and magical day and night levels.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "358 MiB"
 }

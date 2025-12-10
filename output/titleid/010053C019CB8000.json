@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5e74f9682aa58e62a3a9c8b115ceb2d2349f184d4d392b8b5813a7ee7156936a.jpg"
 	],
 	"releaseDate": 20221104,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Visit a luxury club, where owners of the most exclusive, slickest and fastest cars come to unwind!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "433 MiB"
 }

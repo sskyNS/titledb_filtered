@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/887cd9455f74aae1e457a1401de04af98b8bdde9726dac49ddc92038c0585264.jpg"
 	],
 	"releaseDate": 20221001,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "This game is a tribute to the Run \"N Gun games (Commando, Ikari Warrior, Heavy Barrel, Guerilla Wars, Mercs...) from the mid 1980's that you could find in arcades or on 16 bit consoles.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "708 MiB"
 }

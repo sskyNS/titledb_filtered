@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/48c147fe4f39d49ec15cf071d9287b468b971d4ff3e60699515c156bf42ee1ea.jpg"
 	],
 	"releaseDate": 20221014,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "A black hole threatens a new species existence, it's up to Dal and Gwyn to save their crew and the entire planetary system.",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
+	"numberOfPlayers": 2,
 	"size": "4.01 GiB"
 }

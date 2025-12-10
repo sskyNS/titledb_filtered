@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/57f7d5d761e204e8b38077a3a97296e6f9b92f2a7bf94700896ec9e6373c755e.jpg"
 	],
 	"releaseDate": 20220908,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Fly with Hoodie Girl to shoot wacky advertisements and get a new high score! Parkour!!!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "328 MiB"
 }

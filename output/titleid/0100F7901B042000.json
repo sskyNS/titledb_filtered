@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/836596196929946be3112891cb4acef8dfca86131205bab0bd2341fc11c009d8.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Hunt during the day, be hunted during the night",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

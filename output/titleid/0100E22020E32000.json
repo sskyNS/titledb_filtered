@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/439cc5ca8e84e339420d93fc08eef03e2e407f92d922c19be3e6a869699a5056.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Lifestyle",
+		"Adventure"
+	],
+	"intro": "Unpack, Arrange, Create - Shape your world",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "492 MiB"
 }

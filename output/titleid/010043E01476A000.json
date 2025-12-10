@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb05983ed4abd2dcc9c51a1e7dcc75fddf959f56acf74fdb624f9c3a06a3d5e3.jpg"
 	],
 	"releaseDate": 20210702,
+	"category": [
+		"Arcade",
+		"Racing",
+		"Sports",
+		"Party"
+	],
+	"intro": "Foodtruck Arena an unconventional mix of car combat and football game, combines two things that make the world go round: food and sports.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.72 GiB"
 }

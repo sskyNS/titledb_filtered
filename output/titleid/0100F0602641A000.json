@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9371bca845e65b9f640731c5ba42ec736a41dbbaeff9d6cdf6caf94c3eb09c40.jpg"
 	],
 	"releaseDate": 20251127,
+	"category": [
+		"Adventure",
+		"Education",
+		"Study",
+		"Music"
+	],
+	"intro": "Fly with Luna the Little Witch on a fun Halloween night and catch all the magical objects falling from the sky!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "175 MiB"
 }

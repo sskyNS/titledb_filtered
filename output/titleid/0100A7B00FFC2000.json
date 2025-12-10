@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bbfd8474de4883bc6c13c24342446eba3c9bd3210212cacba732cd942ca4019c.jpg"
 	],
 	"releaseDate": 20200312,
+	"category": [
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Explore a post-cyberpunk decaying city searching for new abilities and bizarre companions to free all its turfs from a group of vicious super powered gangs.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "754 MiB"
 }

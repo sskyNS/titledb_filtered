@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/384fe69ee5757f9020ec3e816bbbb92c9403132873212138186017beeb0412f4.jpg"
 	],
 	"releaseDate": 20250403,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "GunBro is an action-packed side-scrolling run \u2018n\u2019 gun game",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "67 MiB"
 }

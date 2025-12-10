@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/b40e12137461ef1bfe860b55968fcff413c6fbbb01e6ff8feab052d29b3eeb42.jpg"
 	],
 	"releaseDate": 20250815,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "With Guns and Blade face the hordes of demons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "310 MiB"
 }

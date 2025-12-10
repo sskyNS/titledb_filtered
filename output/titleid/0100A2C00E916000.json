@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/35b3c6cbcf53a17b825572b1202fd7286891b1ae6d5676d699aa02d1b8bfa345.jpg"
 	],
 	"releaseDate": 20230720,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Roguelite twin-stick shooter where magic and post-apocalyptic future technologies collide.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "379 MiB"
 }

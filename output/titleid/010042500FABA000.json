@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fa25cf5cd67e4d516dada9b1f09c7d805501db2163193d5bdbfd4ef0086abc3f.jpg"
 	],
 	"releaseDate": 20191107,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "A violent, horde mode, top-down fast-paced action game set in an alternate Wild West, an absurd, acid-fueled vision of hellish frontier. ",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.63 GiB"
 }

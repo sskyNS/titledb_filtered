@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9f27ffdb6f80bcb974e44ffde25261728aec3a710437ac095b2628ac9e84ea9c.jpg"
 	],
 	"releaseDate": 20231006,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Party",
+		"Lifestyle"
+	],
+	"intro": "Race to Glory, Race to Win \u2013 it's time to conquer the track!\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "889 MiB"
 }

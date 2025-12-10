@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/043049b74cab5f2eb7485bd77fee09746dc3fea89ecfa8ddeb401a080019f081.jpg"
 	],
 	"releaseDate": 20220616,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A sci-fi wild west adventure in outer space!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.37 GiB"
 }

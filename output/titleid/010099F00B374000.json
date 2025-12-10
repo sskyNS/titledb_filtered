@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/75e443a665805b8e507ff5995e381ed77f3e889f1546844aea66b4cd54d457cd.jpg"
 	],
 	"releaseDate": 20181115,
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Challenging and handcrafted: a declaration of love to shmups",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "253 MiB"
 }

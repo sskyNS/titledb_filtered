@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/35ffb33bc5506deb406208377674a95366c8f620731f6d68138c4a37dbe7a402.jpg"
 	],
 	"releaseDate": 20250130,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Simulation",
+		"Board Game"
+	],
+	"intro": "Connect the path for electric flow,\nA simple and smart puzzle to know.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "116 MiB"
 }

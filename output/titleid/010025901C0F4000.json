@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/17f4447bc4fdb816cb8d7459db381ea6baf38e920b7e78f2a480d4dc2de3fb93.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Arcade",
+		"Platformer",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "A Platformer Without Platforms",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

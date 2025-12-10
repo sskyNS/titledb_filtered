@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/6345053e675ca938c3c31a86ec76b96544f0b2668cdeb3608a261217cd71d20f.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"RPG",
+		"Board Game",
+		"Adventure"
+	],
+	"intro": "Rediscover the iconic gamebooks The Warlock of Firetop Mountain, City of Thieves and Citadel of Chaos in a whole new way!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "504 MiB"
 }

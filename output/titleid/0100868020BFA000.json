@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/59a115270fa21179fbe2bcd8d4f10925bda33ef788ce3d1ab0931a6751e3019d.jpg"
 	],
 	"releaseDate": 20240927,
+	"category": [
+		"Adventure",
+		"Study",
+		"Education",
+		"Music"
+	],
+	"intro": "Lin, a young and clumsy red panda with big dreams of being a guardian, embarks on a dangerous mission to save his valley.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "278 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0440a148977d56bebe10bf1ace42d0417bbc2d44f82bb51ba0bc299de6da9ca7.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"RPG",
+		"Action",
+		"Multiplayer",
+		"Platformer"
+	],
+	"intro": "Play as a new reaper, completing quests, collecting spells, and gathering equipment to fight through hordes of enemies in this grim but whimsical 2D adventure!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "790 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bd3fcc44724dda92445d430aa6d1fab85ba35c300893e19ad17cb1de4020cc1.jpg"
 	],
 	"releaseDate": 20190927,
+	"category": [
+		"Simulation",
+		"Practical",
+		"Lifestyle",
+		"Utility"
+	],
+	"intro": "Build your own workshop empire from scratch and learn the ins and outs of a car mechanic",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.33 GiB"
 }

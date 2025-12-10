@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2afdabaab89eeef40284bcb45bb17152974d66f4329f643c43a0e9d08da010d7.jpg"
 	],
 	"releaseDate": 20221222,
+	"category": [
+		"Shooter",
+		"RPG",
+		"Action"
+	],
+	"intro": "An action third person shooter with RPG elements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.63 GiB"
 }

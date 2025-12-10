@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/adbe342a60ef6384fa8b92ad590b1ed34a103d516ecfdf41031b569136fbd787.jpg"
 	],
 	"releaseDate": 20230721,
+	"category": [
+		"RPG",
+		"Fighting",
+		"Action",
+		"Adventure"
+	],
+	"intro": " Live, fight, die, upgrade, repeat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "778 MiB"
 }

@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/507118fc74b13bfcbe1b35e43caaef078ccd4487aa488fc61534fa82fb91236b.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Road Defense: Outsiders is a game that combines roguelike and tower defense. Upgrade the towers and your own skills to be able to annihilate all the life around you! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "282 MiB"
 }

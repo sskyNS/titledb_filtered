@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/450198face8dda840d5520904234e0a7ad0414143302537490233043ac11d733.jpg"
 	],
 	"releaseDate": 20240725,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Meow-ma mia! The great city of Rome is full of cats!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "360 MiB"
 }

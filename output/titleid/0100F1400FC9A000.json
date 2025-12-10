@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/2981e8f9182e25d96cfa449b5b5f80b7432cb1362311f6bdbd199c152976a7b2.jpg"
 	],
 	"releaseDate": 20210121,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Bezier: The mindless blaster with a big heart.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "380 MiB"
 }

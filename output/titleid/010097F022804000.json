@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5b6d30f2abe64aa9bbe55e1c27f28c1af5e2b6473b5532fc596245f50eebdb58.jpg"
 	],
 	"releaseDate": 20250516,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Retro vertical shooter. Fight the Empire\u2014breach waves, destroy bosses, upgrade with salvage. Strategic, skill-driven combat.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1002 MiB"
 }

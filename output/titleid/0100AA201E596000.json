@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/03b51a1b0008cbb5c0248371eec837254dea88c197cd4d7655fe943673aa9ae2.jpg"
 	],
 	"releaseDate": 20240306,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Get ready to rage with your friends in this co-op precise platforming adventure! You're stuck in Hell. You can only jump upwards and all you have to do is escape.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "731 MiB"
 }

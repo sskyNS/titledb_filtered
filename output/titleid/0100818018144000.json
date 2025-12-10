@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3aab388e2ea09d4a4fa272ffe1b7a1a6a7121709b37e170671306eb2a2b6000b.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Help Ruggnar explore gloomy places with his bag and a few candles as his sole equipment.",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "595 MiB"
 }

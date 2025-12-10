@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3a5941f49630352b2b2fce6269657dceb63fa96763733615d429fbd35180aa97.jpg"
 	],
 	"releaseDate": 20250227,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"RPG"
+	],
+	"intro": "An action-packed roguelite shooter where you battle famous works of art and each level you beat becomes a painting!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "686 MiB"
 }

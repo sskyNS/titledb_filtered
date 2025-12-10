@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8e2b38a05d1ec83a2e084d9374e4dcdebc8be6c8b050c04b8f351d4b1a27bcc.jpg"
 	],
 	"releaseDate": 20230113,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Will You Escape?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

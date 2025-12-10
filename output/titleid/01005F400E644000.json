@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1945cd88de83cbd9abe5412f9dc679b6e58f58d139359c173906c76e3270a530.jpg"
 	],
 	"releaseDate": 20190822,
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "The ultimate stealth battle adventure where everyone\u2019s invisible.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "677 MiB"
 }

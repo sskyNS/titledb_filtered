@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a968658a634500a77be0a48f150311cb1933e692c30bb2841fe96d0e6c54839f.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A strong brotherhood is forged only in difficult trials.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.99 GiB"
 }

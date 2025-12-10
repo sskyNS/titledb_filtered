@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cb8b3037f097ce7abe7d83b6920cf1bebe0b60a977bd5d5fe225287453cf1d6.jpg"
 	],
 	"releaseDate": 20241221,
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "From traffic stops to high-speed chases \u2013 think you\u2019ve got what it takes to keep the streets safe?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "246 MiB"
 }

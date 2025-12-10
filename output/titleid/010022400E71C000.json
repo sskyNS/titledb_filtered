@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d2d1ee19d12fa4d6d2c692ac07cee1694a508d9a98cd1c932557ee35a24ebe2b.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Go solo or take along a few friends in this fast-paced farming frenzy! Harvest, fish, milk, and more as you fulfill orders to complete each level, but watch out for molten lava, raging boars, and other obstacles! Can you and your friends try to clear all the levels to restore the broken lighthouse?\n \n\u2022       Fast-paced action means quick decisions are key!\n\u2022       Use Harvest Sprite Powers to unlock special support skills!\n\u2022       Easy-to-learn game mechanics means everyone can play!\n\u2022       Take on farm, beach, Underworld, and Skyworld levels!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "474 MiB"
 }

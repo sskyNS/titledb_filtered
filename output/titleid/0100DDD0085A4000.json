@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/95add8cf37bc563706fd80d29b3b81d823c54d52eb357db53ba0384dd94e052d.jpg"
 	],
 	"releaseDate": 20180608,
+	"category": [
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Learn the Way of Sushido",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.76 GiB"
 }

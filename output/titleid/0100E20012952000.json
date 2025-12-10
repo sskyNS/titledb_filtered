@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/13767b9446062642b8428feb4ee7d77ea226332e8b8c1af5564d42a42b2c1272.jpg"
 	],
 	"releaseDate": 20220602,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Enter a world where you\u2019ll need to play your opponents better than you play your cards.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.20 GiB"
 }

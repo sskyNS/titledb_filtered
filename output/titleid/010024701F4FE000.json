@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/fbc3ca8d4dddbdc42d523cb2268e88f3d643a010c312cbba9f3b9189b83f8abe.jpg"
 	],
 	"releaseDate": 20240829,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Platformer",
+		"Racing"
+	],
+	"intro": "Action, puzzles, racing and platforming all rolled into one!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.20 GiB"
 }

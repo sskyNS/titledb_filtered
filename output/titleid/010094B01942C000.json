@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a793bd3cdadda998a5c9ee10a74892c375254fd849678c4019df8ecae1e4d785.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Are you ready for the ultimate challenge? Take aim and test your skills in The Ultimate Shot \u2013 the action-packed game that will put your precision and strategy to the test.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "142 MiB"
 }

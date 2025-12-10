@@ -8,5 +8,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/50affc55fd163c8f15aae01694faf8b351576512fb0ed4c35e456bbaf4e7ff78.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"RPG",
+		"Action"
+	],
+	"intro": "Forge through hell in this survival action RPG!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.86 GiB"
 }

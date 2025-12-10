@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/45e06dba26c549c90c66e1d4ee6575be837868129a5c7d615a23f1f7d932963e.jpg"
 	],
 	"releaseDate": 20201129,
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Get ready to break some eggs in this frantic multiplayer party-game! Ponpu mixes classic gameplay with new crazy mechanics, all packaged in one of the coolest art-styles ever seen! ",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.72 GiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/002fe1d346a42cb119bbc276812e68806d38b159178bd57f05c9c92ca9eff633.jpg"
 	],
 	"releaseDate": 20200806,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Defend your fortified barricade by night, collect weapons, and conduct repairs by day. Survive long enough to make your way through America and towards rescue.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.94 GiB"
 }

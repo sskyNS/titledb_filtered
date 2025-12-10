@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc1d9541b7f365dfc8e7b4b0759e109a2fd91a66f36ac490bb2af56bcdb15089.jpg"
 	],
 	"releaseDate": 20221229,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "A buddy bonanza of bubble-bursting action!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "68 MiB"
 }

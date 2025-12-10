@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/749ce5946293989c5d58c3c4d53635a0fbfba3415744d0a72e95d167d824e1b4.jpg"
 	],
 	"releaseDate": 20251117,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "There's Only One Rule: SURVIVE!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "125 MiB"
 }

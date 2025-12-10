@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab894a5713783bea8190943be8a084870f58e705ebaaf934832f378d69c6cf77.jpg"
 	],
 	"releaseDate": 20250313,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Your help is essential in this time travel machine game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "648 MiB"
 }

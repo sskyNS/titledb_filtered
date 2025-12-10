@@ -8,5 +8,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1f56c649367f07567535da015db531a502c3c45ae63db785aa94a6d04ba2911.jpg"
 	],
 	"releaseDate": 20220210,
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Roguelike Deckbuilder\nCard Battler\nCard Game",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.39 GiB"
 }

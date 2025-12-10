@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9283088223a3e8f60a3b816f96e32f0d751a00afde82cf4a942576587f8ba59.jpg"
 	],
 	"releaseDate": 20230105,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Face down the ultimate alien invaders!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "83 MiB"
 }

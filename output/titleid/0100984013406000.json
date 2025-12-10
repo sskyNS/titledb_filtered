@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/331ea4ba5bbb5efed9aa36fae0650d593e6a1d178198486ba573057417234b57.jpg"
 	],
 	"releaseDate": 20240403,
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Fighting"
+	],
+	"intro": "A fabulous Action Adventure game based on the wonderful graphic novel series, Girl Genius\u2122, by authors Phil & Kaja Foglio.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.96 GiB"
 }

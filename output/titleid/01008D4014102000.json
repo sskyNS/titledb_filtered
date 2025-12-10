@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb90b7bf65de380712931aa7b71012018879f8992aed350a78e1216f2c47f5e0.jpg"
 	],
 	"releaseDate": 20210423,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "A classic point-and-click adventure game full of puzzles and humor!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
+	"numberOfPlayers": 1,
 	"size": "614 MiB"
 }

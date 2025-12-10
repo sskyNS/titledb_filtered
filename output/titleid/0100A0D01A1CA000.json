@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d6110f99c26d771cbf6cde6284737bf77128b47d01861446bd25e0b0457206a.jpg"
 	],
 	"releaseDate": 20230828,
+	"category": [
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Chill in the peaceful world of Garden In! Grow unique plants, discover new seeds, and design your dream garden. Dive into the cozy world of Garden In.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "630 MiB"
 }

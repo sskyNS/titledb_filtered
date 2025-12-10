@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d170db84b31bf93de9295981cadde23dd17ec7fcc09dcc8255762206691916e9.jpg"
 	],
 	"releaseDate": 20230407,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "Lift of for a vibrant action adventure full of variety and challenge",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "138 MiB"
 }

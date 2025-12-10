@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1388b46a5266f685b8d7475c275f7cfe47548677eae07bf2d03ff26f415ad200.jpg"
 	],
 	"releaseDate": 20210915,
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Third-person shooter in a cyberpunk world",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.63 GiB"
 }

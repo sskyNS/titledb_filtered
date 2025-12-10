@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/64198ed09a176269ef1c1e319bf0f9ca6688cd02b500fa1fc97ba8d300b0d7ab.jpg"
 	],
 	"releaseDate": 20221212,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Surf the waters of a submerged city! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.59 GiB"
 }

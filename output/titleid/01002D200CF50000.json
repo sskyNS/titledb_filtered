@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/42ad0dc8370e6cbfd822135e44a5b851c29d30db63568797a9f45db4bfa23eeb.jpg"
 	],
 	"releaseDate": 20190131,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The end of the world is warm and sad.\nLet's escape from the door by exploring the world like a picture book.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "181 MiB"
 }

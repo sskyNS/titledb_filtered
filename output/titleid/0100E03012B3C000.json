@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/b1fd8647d0b6e7ba7b21a045256530fc7543c19beec5d4fd81a79a5a078ebf9a.jpg"
 	],
 	"releaseDate": 20210318,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Places to go, people to meet",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "899 MiB"
 }

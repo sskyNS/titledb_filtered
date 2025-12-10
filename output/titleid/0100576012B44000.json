@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/4210ef192d997227ef2a4af161e2df9b0578470b4a0d0c729b5a3944adea9dc6.jpg"
 	],
 	"releaseDate": 20210415,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Join Detective McQueen as he puzzles his way through 6 chilling cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.91 GiB"
 }

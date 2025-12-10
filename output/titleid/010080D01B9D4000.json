@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a8371830043362914a1828cceaeec12bc06cce175acc70a1d8c1eb40df9a07bf.jpg"
 	],
 	"releaseDate": 20230901,
+	"category": [
+		"Action",
+		"Party",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Conquer territory solo or beat your friends in multiplayer mode with up to 8 players! ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 8,
 	"size": "172 MiB"
 }

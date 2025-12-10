@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2cbf8a579f16e1f12e952e97a68b65540ba7aff7e8e4f213dd20daae4d812ec0.jpg"
 	],
 	"releaseDate": 20191029,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "No Hope Left",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "17.62 GiB"
 }

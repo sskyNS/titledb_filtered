@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/c3fb910faacdaf8e5db47c2e0595cb3b8532d863a8ef4d9f4fc00f4243889dd9.jpg"
 	],
 	"releaseDate": 20240912,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Can you get a date before the end of the world?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.92 GiB"
 }

@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e26b9be069d8c863e276a075830a1ddd361d850273ed32bd28b3bf32b81c3a97.jpg"
 	],
 	"releaseDate": 20210408,
+	"category": [
+		"Shooter",
+		"Fighting",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Maiden & Spell is a one-on-one magical girl aerial projectile battler, featuring a colorful cast of ladies fighting with fantastic spells.\n\nBattling with magic is simple! Fire your spells, hit your opponent, and don't get hit yourself! Each maiden is color-coded and has a set of abilities unique to them, activated at a press of a button. There aren't any complicated combos or intricate inputs or grabs or melee attacks or block buttons! Just a 3-pixels-wide hitbox, a lot of shiny bullets, and your own dodging skills.\n\nYou can fight against a friend in Versus Mode, or test your skill against a series of opponents and bullet hell boss attacks in Story Mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "383 MiB"
 }

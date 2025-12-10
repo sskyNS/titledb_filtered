@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cb73e8e5e4f4a624a0305f6f429ae59f27e58e770f92bfc3be4d50daf46bd658.jpg"
 	],
 	"releaseDate": 20250828,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Grab your shovels and dig together in this delightful cooperative digging adventure. Team up with friends to uncover treasures that lie beneath the surface. The deeper you go as a team, the more exciting your journey becomes.\n\nCoordinate with your friends to dig through layers of earth more efficiently. Find valuable ores that you can sell for shared upgrades. Make your shovels stronger and your backpacks bigger as you continue your busy digging lives together. Along the way, uncover rare dragons and ancient coins hiding in the dirt.\n\nEach dragon you rescue as a team finds a home in your shared sanctuary, creating a lively community above ground. Divide tasks between miners and collectors to maximize efficiency. And for those who dig deep enough together, rumors of mysterious cave dwellers might lead to undiscovered worlds.\n\nFeatures:\n- Cooperative Gameplay \u2013 Team up with friends to dig faster and discover more treasures together.\n\n- Colorful Underground \u2013 Explore a vibrant world beneath your feet with surprises at every depth.\n\n- Dragon Collection \u2013 Build a unique dragon sanctuary together, with each new discovery adding to your shared world.\n\n- Hidden Mysteries \u2013 Some secrets are buried deeper than others, waiting for the most determined digging teams.\n\n- Relaxing Experience \u2013 Get busy digging at your own pace in this charming cooperative underground adventure.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "822 MiB"
 }

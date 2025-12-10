@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc47ec26ae9b5d60fdb09dce851d58602e804bbc3e4e49d5705bff96d9e319ca.jpg"
 	],
 	"releaseDate": 20220721,
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Lifestyle",
+		"Board Game"
+	],
+	"intro": "A collection of casual puzzles where everyone finds his favorite puzzle game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "60 MiB"
 }

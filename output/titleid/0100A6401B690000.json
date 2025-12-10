@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f764561638b95e2a9030af3f83c5d7d7164ba79de2f1c320a7fde24e5b66b8d1.jpg"
 	],
 	"releaseDate": 20240502,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "One night, the attic door, the one that was always closed, slid open, sending a girl falling into a strange world. Will she ever be able to get back home?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.27 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/457f45826ba5b32691082b54ef9d190986626c5733d7e4a001516105166799f8.jpg"
 	],
 	"releaseDate": 20241008,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Take up your sword and reclaim your lost kingdom",
+	"languages": [
+		"en",
+		"fr"
+	],
+	"numberOfPlayers": 1,
 	"size": "68 MiB"
 }

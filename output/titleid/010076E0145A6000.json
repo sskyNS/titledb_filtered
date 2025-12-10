@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/df234da9e2bb552fc817b98075e59abcf9e2632674d8ba13d05f75eeb77339e9.jpg"
 	],
 	"releaseDate": 20210812,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Faraday Protocol is a first-person puzzle game that will test your wits and intelligence, challenging your critical thinking. You are Raug Zeekon: interstellar archeologist from planet Cunor. You have been sent by your company to investigate the source of a mysterious signal coming from an unexplored star. \n\nThe Bia Tool, an ancient relic of an alien civilization, is the first mystery you uncover when arriving in OPIS. Unsure of its true purpose you start wielding it to solve the challenges on your path. With its ability to absorb energy and the option to redistribute it to different machinery, you start digging deeper and deeper into the temples, encountering even harder puzzles that will test your savvy and abilities in problem solving. Are you smart enough to solve every challenge thrown at you?\n\nYou encounter a mysterious robotic voice. Her name is IRIS, an A.I. created to guard the ancient structures of OPIS. The complex seems to have been abandoned for aeons, but what was its purpose? Rooms filled with puzzles, getting more and more sophisticated and challenging as you progress through them. Who built them? Why would someone build a training facility like this on an otherwise abandoned planet?\n\nFeatures:\nPuzzle your way through the mysterious space station OPIS\n\nUse the Bia-Tool to absorb and redistribute energy\n\nUnravel the many mysteries of the station and its governing A.I. IRIS\n\nFind hidden collectibles that reward especially attentive players\n\nExperience a unique blend of retrofuturism\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.54 GiB"
 }

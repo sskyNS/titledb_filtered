@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/03ce5d15e5cc3048d25aea86b04f7d7a90f0cc2d731c8a539052f35dc749b7d6.jpg"
 	],
 	"releaseDate": 20211118,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer",
+		"Fighting"
+	],
+	"intro": "Rayne returns in her second adventure, enhanced and improved for modern consoles",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "13.46 GiB"
 }

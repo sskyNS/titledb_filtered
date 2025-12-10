@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/1369ab380b6e2d91aac5263e0f16a1488b71f0279e22fae51dd6e7b11b65b313.jpg"
 	],
 	"releaseDate": 20251016,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "Your job is simple: inspect the cabins and decide on whether they\u2019re haunted or not. If you do find any anomalies, get out\u2026immediately.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.13 GiB"
 }

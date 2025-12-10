@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/f77190d26f928995eac35466ca38ad9e7827086a7606e1f66cdbb4fdd865df5d.jpg"
 	],
 	"releaseDate": 20220414,
+	"category": [
+		"Action",
+		"Shooter",
+		"First-Person Shooter",
+		"Adventure"
+	],
+	"intro": "Be the first to survive this action-packed horror game and find out the secret of murderous scary clown!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "513 MiB"
 }

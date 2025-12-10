@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/f391ba68d376e373eb3df0224e1c8e46e405cb8de8605378e459c1b444de0135.jpg"
 	],
 	"releaseDate": 20210723,
+	"category": [
+		"Adventure",
+		"Action",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Scrumptious sequel 3D action gameplay like you\u2019ve never eaten before!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "319 MiB"
 }

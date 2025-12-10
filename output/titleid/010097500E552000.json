@@ -10,5 +10,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/801e01c442f4e9a29a7cec69afa86f110e905cd1ec5a3415dd724c6f3b292710.jpg"
 	],
 	"releaseDate": 20191205,
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Run a music talent agency and\nmake platinum-selling records!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "268 MiB"
 }

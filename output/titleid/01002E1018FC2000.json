@@ -9,5 +9,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/efc0287bf1fc7c2394888dc4826d923f2787a3e2a0ffb722cccde7b432eec3d1.jpg"
 	],
 	"releaseDate": 20220929,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Where the special forces can not cope \u2014 one soldier and a rifle will achieve the goal.",
+	"languages": [
+		"en",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "923 MiB"
 }

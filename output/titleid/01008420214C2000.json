@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3924b4e1e26674c34d3a65859288556a52c350c55b4063ba5ed0a1810e7273e5.jpg"
 	],
 	"releaseDate": 20250211,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Piece together haunting tales from around the world.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "364 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/58d626d0520cedbda4ba184bb6d7ca36c9027dbd65af20521bcd0aff00b36f0f.jpg"
 	],
 	"releaseDate": 20190606,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "With 64 explosive levels - and 8 gloriously animated worlds. This arcade smash is a real feast for the senses, with superb artwork and thunderous explosions - oh so many explosions!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

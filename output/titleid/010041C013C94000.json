@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f622045241fad77d27338d52bbd4e45e428783b5dcb79e628103662069850571.jpg"
 	],
 	"releaseDate": 20210616,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Discover a new world, but do not do it alone - take a friend, play together! Travel together through increasingly demanding levels of difficulty in many interesting biomes. Color the world!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 2,
 	"size": "320 MiB"
 }

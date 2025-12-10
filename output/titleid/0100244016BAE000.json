@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d427438837a3a70bac9563358250bcf77ecb0df086475045438ca19d65663a21.jpg"
 	],
 	"releaseDate": 20211125,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Shiro is an adventure platformer in which you have to find your missing sister.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "118 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/5d88b080493e8271834f27ac5bdb85923a9bb82ade3f868cea989e2318d7b193.jpg"
 	],
 	"releaseDate": 20250215,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "An innovative blend of Bullet Hell and Survival elements, high dynamics, variable builds, arena competition with players from around the world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"de",
+		"pt",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.39 GiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e787b5ccf07780abf05476087d71c4a26e883ef92fb2c7056cb4b5c3b9cc794a.jpg"
 	],
 	"releaseDate": 20201106,
+	"category": [
+		"Board Game",
+		"Puzzle",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Online multiplayer, global leaderboards, play with friend or AI - all you need from a chess game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "185 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/3cecb4ca8ec747f1a2b1c620ddc0185e926c19508b4a7fdcc34cfd71aa96d3d3.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Take control of the Orblr-1 Space Probe and blast chaotically through the cosmos on your mission to collect precious minerals.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "36 MiB"
 }

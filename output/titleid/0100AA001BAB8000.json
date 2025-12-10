@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/9416d93843313764c23e25f76cc8d1908c65c8ac09997e7a858ddae409258fcb.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Adventure"
+	],
+	"intro": "Welcome to a world that needs your help!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.93 GiB"
 }

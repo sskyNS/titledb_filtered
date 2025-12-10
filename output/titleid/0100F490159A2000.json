@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe2b35b9b230cbac290bc2c2dacf7ac3046f6929c63b2a79d298e4b34fe6ec86.jpg"
 	],
 	"releaseDate": 20210823,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Magnus Failure is an isometric exploration and adventure game with logical elements.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "222 MiB"
 }

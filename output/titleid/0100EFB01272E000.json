@@ -9,5 +9,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/37692af098b98e98b9915fd7df0fd95cb12213caf25759b9421db001bf5d19cc.jpg"
 	],
 	"releaseDate": 20201127,
+	"category": [
+		"Action",
+		"Arcade",
+		"Puzzle",
+		"Multiplayer"
+	],
+	"intro": "BFF or Die is a cozy and crazy cooperative puzzle game that you can play with up to four players! You're a time traveling alien sent to Earth on a risky rescue mission. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "455 MiB"
 }

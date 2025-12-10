@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bc1b0bcb1b2dc0be38f57b20dd7afc532bcadd33484281cdfc49b3a34e9b2a0.jpg"
 	],
 	"releaseDate": 20220623,
+	"category": [
+		"Racing",
+		"Sports",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Fly with your bike. Race others. Explore.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "295 MiB"
 }

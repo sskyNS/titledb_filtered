@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/f046a6b54a578768ba1188dc1e05e01bdaeb10f1e3766f8a803f17e0c847633a.jpg"
 	],
 	"releaseDate": 20250123,
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Fight the Zombies, Clear the Chaos, Become the Hero!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.75 GiB"
 }

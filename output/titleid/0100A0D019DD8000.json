@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/0613e7974ea1225221a0e46f73e2656f8d8a00b47eabb0eabe2361de9215ed17.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Set out on an epic adventure through the Solar System. A journey of a lifetime alongside Dr Smart, and his reliable Cosmic Encyclopedia.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "860 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec5b5fbdb438544a9402046451df534ad638cb1fb282d66cd35565ded35f3500.jpg"
 	],
 	"releaseDate": 20250916,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Simulation",
+		"Action"
+	],
+	"intro": "One photo could change your fate forever.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "741 MiB"
 }

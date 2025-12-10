@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5aab5f3c22d9fc17d10244906d535b56d02b5bcf0716bbbbaba903d331412b29.jpg"
 	],
 	"releaseDate": 20250807,
+	"category": [
+		"Action",
+		"RPG",
+		"Shooter"
+	],
+	"intro": "Step into the definitive re-release of two dark spell-casting shooters that shaped the genre.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.33 GiB"
 }

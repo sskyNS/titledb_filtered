@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/090a114c5a0c69a44a79915fb614ceec0d36cc91b015686c60b2dfb840c8a064.jpg"
 	],
 	"releaseDate": 20251022,
+	"category": [
+		"Puzzle",
+		"RPG"
+	],
+	"intro": "An RPG that combines merge puzzles and battles, where you protect the kingdom from monsters!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "117 MiB"
 }

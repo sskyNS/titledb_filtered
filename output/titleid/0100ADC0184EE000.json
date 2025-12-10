@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/817a84a585f4b8c002939fa065b92e55022b758b9ebd609fd1d3a6f5cc9d60ad.jpg"
 	],
 	"releaseDate": 20220530,
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": "12 charming girls will help you relax and have fun. Girl soldiers, doctors, sailors, pilots and special agents are waiting for you! The game has more than 50 simple puzzles that can be played with one hand.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "481 MiB"
 }

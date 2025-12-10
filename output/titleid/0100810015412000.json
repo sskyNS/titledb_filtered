@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec1b63506ee11cdf5e1436468a96187c55885024b5319e60f667cabf04ac52c0.jpg"
 	],
 	"releaseDate": 20210709,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "As springtime blossoms, a new friendship blooms.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.90 GiB"
 }

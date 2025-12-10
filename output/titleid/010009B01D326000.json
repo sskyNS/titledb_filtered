@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0f0b41ae64957d5fff434dff49468effce9373568c9fa2014e02277afa19db4.jpg"
 	],
 	"releaseDate": 20231118,
+	"category": [
+		"Party",
+		"Puzzle",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Solve a dozen of puzzles with your friends in Snap Together!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.32 GiB"
 }

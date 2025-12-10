@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1bbe4eca893888de542a6c51a9351502f2e8e1d559141b536d14a5eed16195a4.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Combine advanced pieces and hunt stronger enemies!",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "342 MiB"
 }

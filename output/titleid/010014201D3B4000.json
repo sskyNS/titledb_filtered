@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fe7d67a2f6d60d43f74bdbe450260025031bb4b4bb09326b7ed9260b52a93b4.jpg"
 	],
 	"releaseDate": 20240523,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Rescue your allies and shoot the crystal!\nYou are the one who can defeat the Dark Empire!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "64 MiB"
 }

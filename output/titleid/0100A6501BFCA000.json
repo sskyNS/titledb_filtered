@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d137ac6ddefd3bb17652aa2933d88ccb9da90d392d98b5a1e49bf7f04f66db71.jpg"
 	],
 	"releaseDate": 20230914,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer"
+	],
+	"intro": "It's time to ENRAGE!",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "312 MiB"
 }

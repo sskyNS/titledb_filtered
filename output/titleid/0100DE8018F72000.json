@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/2037a0c035f61a963014b1d754a074919adce4a66acbc1d29e537b506f60db08.jpg"
 	],
 	"releaseDate": 20220901,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Education",
+		"Action"
+	],
+	"intro": "A game full of Fashion and Princess!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "373 MiB"
 }

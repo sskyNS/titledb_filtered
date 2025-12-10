@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2d614bb28753e727f1287ceec1fc273efe534b1237242796f67bee4c0b1ace28.jpg"
 	],
 	"releaseDate": 20230628,
+	"category": [
+		"Strategy",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Become king of pirates while sailing through seaports, battles, krakens & navy.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.84 GiB"
 }

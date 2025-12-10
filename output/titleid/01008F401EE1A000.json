@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d32914be2301484ecc81e005d02b0c3a1430d9634792b1bac0c3cab3aa199a5b.jpg"
 	],
 	"releaseDate": 20240423,
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "He's a dad AND a radish. Dadish's kids are missing and he needs your help to find them!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "395 MiB"
 }

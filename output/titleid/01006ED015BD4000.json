@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/3d7d1cc9465662bce903834c071aba6b45633ba452be1c40aca1dbcb7a2bd2c6.jpg"
 	],
 	"releaseDate": 20220128,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Re:Turn 2 is a 2D psychological horror adventure game. ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "815 MiB"
 }

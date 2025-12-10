@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/de55e6f5f94010d40ace4b1cf59a1b0e38f1d2883186d147d6de8b75246d987d.jpg"
 	],
 	"releaseDate": 20230403,
+	"category": [
+		"Puzzle",
+		"Education",
+		"Lifestyle",
+		"Other"
+	],
+	"intro": "Embark on a colorful adventure, mix and connect colors to reach the target base while overcoming challenging obstacles in the exciting console game, Path of Colors.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "169 MiB"
 }

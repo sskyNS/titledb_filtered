@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/572eacf19341cb6de3141f9d990cba4cdc22518203ef0e169b9572a96c473b71.jpg"
 	],
 	"releaseDate": 20241212,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Heroes will surely return.\nCarrying the hope of the entire galaxy.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "271 MiB"
 }

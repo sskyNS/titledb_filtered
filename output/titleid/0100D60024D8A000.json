@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/327b5e684be6c41c9e04402b2840e088663bfa56f83645612cb6963d04cb87d2.jpg"
 	],
 	"releaseDate": 20251022,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Top-down adrenaline-fueled shooter where time moves only when you do.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "324 MiB"
 }

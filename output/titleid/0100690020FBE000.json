@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/e78bfce82b3f96c615d03bbdcf8ff4c81050235f5e729b99ab10e2ab4109122a.jpg"
 	],
 	"releaseDate": 20250918,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "From the golden age to today, race through time in Formula Legends. Master legendary cars, reimagined circuits, and the pursuit of glory in this love letter to Formula racing.",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.32 GiB"
 }

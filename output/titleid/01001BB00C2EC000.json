@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/dbbf3e44cdd61b754ce7b9dd3970674a5597c8de68973b49fd34349a92bb2eee.jpg"
 	],
 	"releaseDate": 20190205,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A game where words destroy.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "622 MiB"
 }

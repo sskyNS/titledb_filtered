@@ -10,5 +10,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/8de09dbd49457dfacdf414f231d1f474d6e6d4fe91b1c2a5b86e28272d24bf84.jpg"
 	],
 	"releaseDate": 20250911,
+	"category": [
+		"Action",
+		"Party",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": "Get ready for a delicious pancake-making challenge!\nMake tons of pancakes and watch your food cart prosper!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "312 MiB"
 }

@@ -4,5 +4,20 @@
 	"publisher": "Nintendo",
 	"screenshots": null,
 	"releaseDate": 20200326,
+	"category": [
+		"RPG"
+	],
+	"intro": "A free demo of Bravely Default\u2122 II is now available!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/1dadb6ee799a556819983ba917f870726267ec2506ea4d60aedc95463cd66165.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Lifestyle"
+	],
+	"intro": "Coloring by numbers game for relaxation",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "182 MiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/dc91a29af8d11e228510c6e154e8832fca72250b226f94dbee83fe33e12f5127.jpg"
 	],
 	"releaseDate": 20180801,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Prepare for bullet hell action and crazy driving! Your town is on fire, anarchy reigns the streets, aliens rampage in the sky! Grab your gun and join the fun!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "434 MiB"
 }

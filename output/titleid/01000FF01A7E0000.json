@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5328b386f9b9d65b60fe083dba35bf16b62b592822c5cbd67250acc62d35ba1.jpg"
 	],
 	"releaseDate": 20230623,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Set out into the vast sky! A new adventure in the magical world of Skyways awaits. Get your crew in order, choose a mission chip, and start your own Sky Caravan!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.56 GiB"
 }

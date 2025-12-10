@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/b3cc2a514303a9e5a466450b375121c427fb3d55128d7f211fccc2ff2b0c0b16.jpg"
 	],
 	"releaseDate": 20210225,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Action"
+	],
+	"intro": "The Ultimate Halloween Challenge:\nSpooky Chase is without a doubt a challenging experience. The ",
+	"languages": [
+		"en",
+		"es",
+		"pt"
+	],
+	"numberOfPlayers": 4,
 	"size": "198 MiB"
 }

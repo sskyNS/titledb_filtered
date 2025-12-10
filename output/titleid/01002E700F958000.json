@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/04c95cc47686d31f25ce4e6f0efbcdb1fa224c1e84cf37ab6fc79ac106978d93.jpg"
 	],
 	"releaseDate": 20201014,
+	"category": [
+		"Simulation",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Brunswick Pro Billiards is the most realistic and immersive billiards game available for any platform. This is an officially licensed Brunswick product featuring real pool tables, pool cues, and billiard ball sets. Compete against friends or other players online for Brunswick Bucks!  Use those winnings to upgrade equipment and tables.  Players can also hone their skills against A.I. opponents, battle friends in local multiplayer matches, and play single player Challenge Modes offering a variety of gameplay options.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "331 MiB"
 }

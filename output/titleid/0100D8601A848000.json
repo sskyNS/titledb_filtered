@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/33c6aa63a891f5e386dc8b2fd5cffe4a809dc8afc61400a0833fc642381f3c31.jpg"
 	],
 	"releaseDate": 20230217,
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Tama is a curious creature in a strange world full of floating cannons.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "55 MiB"
 }

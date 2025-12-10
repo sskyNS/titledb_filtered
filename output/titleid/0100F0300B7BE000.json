@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/315ba4f0a81f7bdb457b98df259ba2354cc596b9974fc0e61090294613619396.jpg"
 	],
 	"releaseDate": 20180831,
+	"category": [
+		"Board Game",
+		"Party",
+		"Strategy",
+		"Multiplayer"
+	],
+	"intro": "The king of all board games! Spend some wonderful time with your loved ones.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 4,
 	"size": "136 MiB"
 }

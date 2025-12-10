@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/094d62c4e025b23a067ebede388c1d28718fa594cee105c81b7e004b09ec38f6.jpg"
 	],
 	"releaseDate": 20240226,
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Embark on a leisurely journey through enchanting places of peace and discovery. Immerse yourself in the beauty of nature.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "769 MiB"
 }

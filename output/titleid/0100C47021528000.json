@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/1b91e07bdb6cbb26ee0227fc1fdce77a6374db3ae5d473cb01611d0995ac72b9.jpg"
 	],
 	"releaseDate": 20241226,
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "A simulation game where you directly operate a drone based on actual drone flight footage! ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.47 GiB"
 }

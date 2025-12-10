@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/24a79b9bd3ec82b5e9a6b4b3792e022f70ccc3fb6af21c3890c72d80c0f5e8ee.jpg"
 	],
 	"releaseDate": 20210204,
+	"category": [
+		"Adventure",
+		"Action",
+		"Platformer",
+		"Puzzle"
+	],
+	"intro": "A stealth based single player adventure that throws you right into the middle of the Martian invasion.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "8.25 GiB"
 }

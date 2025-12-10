@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bce59dc9e5265cd3c4076b90bcdc4b9737c3e70279cf1227f42f1b779da095a5.jpg"
 	],
 	"releaseDate": 20241101,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Simulation"
+	],
+	"intro": "A mystery where past and present intertwine. What fate awaits at the end of the truth?",
+	"languages": [
+		"ja",
+		"en",
+		"de",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "549 MiB"
 }

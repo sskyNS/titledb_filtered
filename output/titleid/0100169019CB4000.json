@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/eb5b90e07ec7295bc89cfe73ee9b45acc8033d4ee6252f76241212544fda2ef7.jpg"
 	],
 	"releaseDate": 20231228,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "GOGOON!\nStruggle for No. 1 quarreler in the Violence Fight!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "60 MiB"
 }

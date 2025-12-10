@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/4bfb51290990187442559ab5b075402bfa9edf6d27fed2d24892ab44176878d4.jpg"
 	],
 	"releaseDate": 20230714,
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "A bloody, humorous mess of holy apocalyptic mayhem",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "139 MiB"
 }

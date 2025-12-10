@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/9d352c2d121c7c1ac6ff235e1898a1a1873272777de5f499d4059d9d617f7242.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Puzzle",
+		"Training",
+		"Study",
+		"Other"
+	],
+	"intro": "Decorate the streets with cuteness! You're a future artist!\nTake on this logic puzzle with simple rules!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "79 MiB"
 }

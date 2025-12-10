@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/c59a2f75e5a0154dafe0d84c15f0c644de97fcbe09340bb69722716d90ae651f.jpg"
 	],
 	"releaseDate": 20250605,
+	"category": [
+		"Fighting",
+		"Action",
+		"Arcade",
+		"Sports"
+	],
+	"intro": "A hand-drawn animated boxing game where you fight a bunch of leftovers. After a long day at work, you come home to find that your uneaten food has come to life-it's here to beat you up",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "504 MiB"
 }

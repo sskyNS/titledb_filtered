@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8e7668c76b3077ea0d7f6808325e496993cc05697790779d0c54988f2ff356b.jpg"
 	],
 	"releaseDate": 20201107,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Replica is an interactive novel game played through a cellphone and social media.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "156 MiB"
 }

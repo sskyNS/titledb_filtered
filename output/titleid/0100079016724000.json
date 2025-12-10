@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ed033c97121363a8bd74317b2e82221e1772ad742972327ed70a6997b1024cc2.jpg"
 	],
 	"releaseDate": 20211126,
+	"category": [
+		"Party",
+		"Racing",
+		"Sports",
+		"Simulation"
+	],
+	"intro": "Jump into this pure arcade gameplay and shake up the Monster Truck world by dominating your rivals in an extreme face-to-face confrontation!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "459 MiB"
 }

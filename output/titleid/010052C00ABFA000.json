@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/49faf1728db41e20ff8bebb308032d5786b4e47b7c765bbfeef4954ea61f5ee8.jpg"
 	],
 	"releaseDate": 20200529,
+	"category": [
+		"Board Game",
+		"Party"
+	],
+	"intro": "Snakes & Ladders is a worldwide classic fun and easy to play board game\nfor family and friends of all ages.\n\nThe rules of the game are simple, navigate one's game piece from the start\nsquare 1 to the finish square 100 by rolling the dice turn by turn.\n\nOne hundred squares full of traps and tricks, roll the dice and try your luck,\nland on a ladder and go up but if you land on a snake you're going down and\nfirst player to reach square 100 wins the game.\n\nSnakes and ladders can be played between one to six players and any\nplayer can also be played by the smart (Ai) artificial Intelligent player.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 6,
 	"size": "631 MiB"
 }

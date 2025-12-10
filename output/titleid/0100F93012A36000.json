@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5bd393faad174ce12ad0393f7850c9d8afe50d1449c5388d6de5ac5f16d2e4b.jpg"
 	],
 	"releaseDate": 20210325,
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Tinker Racers is not about reaching the finishing line at all. In this Survival Racing Party Game, the challenge is to stay in sight on chaotic miniature tracks.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.04 GiB"
 }

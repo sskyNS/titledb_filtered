@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/c07183dfac0b3871c3ee176f552278809488fdb4c73e960bc4db231c4aa2d745.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Change Your Blade, Change Your Destiny",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.89 GiB"
 }

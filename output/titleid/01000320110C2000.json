@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/40fb88b42531b22cb61ca29d39fa010d18b95b09dc481922a717c3a004a89c6a.jpg"
 	],
 	"releaseDate": 20200513,
+	"category": [
+		"Adventure",
+		"Video",
+		"Other"
+	],
+	"intro": "Make choices that affect the narrative and experience several different endings in this blood-red interactive movie!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "5.60 GiB"
 }

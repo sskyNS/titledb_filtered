@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab8aee353883b30cfe2c13b6dcb130f6c8a33685728f96f11be89f42efa204e2.jpg"
 	],
 	"releaseDate": 20230817,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Arcade",
+		"Racing"
+	],
+	"intro": "The Ultimate Marble Platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

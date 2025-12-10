@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbcad261bef048cc81a9bc1dc26761e9c41551862bb279a790d78887c7244802.jpg"
 	],
 	"releaseDate": 20240201,
+	"category": [
+		"\u30a2\u30af\u30b7\u30e7\u30f3",
+		"\u30d1\u30ba\u30eb"
+	],
+	"intro": "Time Rift\u306f\u30c6\u30f3\u30dd\u306e\u901f\u3044\u30d1\u30ba\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b2\u30fc\u30e0\u3067\u3059\u3002",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "971 MiB"
 }

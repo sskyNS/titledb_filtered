@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/27d41b7001833e969d08904c37c3c9a288a99c6fc86c4e714cd064d5eafabf22.jpg"
 	],
 	"releaseDate": 20250904,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Explore ancient ruins and defeat the dragon in a dungeon crawler RPG!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "157 MiB"
 }

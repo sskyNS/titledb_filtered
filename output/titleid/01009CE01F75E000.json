@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/719c5d56ebe8531b59dc339fc717368e143e5865b9c9f421ec4803e97ea252f7.jpg"
 	],
 	"releaseDate": 20240613,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Welcome to the enchanting world of Forest Fantasy! Embark on a whimsical journey through a magical forest.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "355 MiB"
 }

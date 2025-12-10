@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f172e043d9f696c0d521b6a2c9f3f30a5c3790a2e9ef4e4997f45e7e3e494ea.jpg"
 	],
 	"releaseDate": 20240801,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter"
+	],
+	"intro": "Bring In Your Bounty, Dead or Alive",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "9.66 GiB"
 }

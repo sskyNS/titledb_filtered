@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/ceb9e01deaebf3f09a63acd33cf937af8e7aaf9c2cded33b13e408ad3ba23464.jpg"
 	],
 	"releaseDate": 20230413,
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Build your own kingdom and customize it to your liking.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.37 GiB"
 }

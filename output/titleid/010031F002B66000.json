@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/f43344a07443b2922266bfa4fa19035d3073da1b5a536d8beb260e0bc4afac2e.jpg"
 	],
 	"releaseDate": 20170413,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Shift through bullets, and master lightning-fast takedowns.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.51 GiB"
 }

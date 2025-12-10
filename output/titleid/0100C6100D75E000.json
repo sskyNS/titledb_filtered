@@ -10,5 +10,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/9a397daec6922c8688df2d17d95c742311a6bb16321d5d025b54263d3c7ca51b.jpg"
 	],
 	"releaseDate": 20191002,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "Ruby the ghost hunter has a tough gig this Halloween. Explore the haunted mansion, take down some ghosts, battle spooky bosses, and rescue the lost cats!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "61 MiB"
 }

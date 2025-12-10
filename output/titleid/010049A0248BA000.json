@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/9af19ed00a92162f1b26e97ba4786e08e741ce971ce43375d42657f7abe84940.jpg"
 	],
 	"releaseDate": 20251120,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Experience the life of a shop manager\nKeep shelves full and customers happy\nBuild your dream supermarket!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "406 MiB"
 }

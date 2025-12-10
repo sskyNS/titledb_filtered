@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/0fb14e09e587da60db89dd33a600c508342baa0224c68a4a4204d05639dd8d6b.jpg"
 	],
 	"releaseDate": 20251010,
+	"category": [
+		"Fighting",
+		"Action",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "The worlds of Ys and Trails collide in this action-packed crossover showdown!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.27 GiB"
 }

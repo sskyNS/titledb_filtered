@@ -7,5 +7,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/7356f7519dae31d30645e1540240dc83511fa584765cd9915df9b969f797aa95.jpg"
 	],
 	"releaseDate": 20190512,
+	"category": [
+		"Strategy",
+		"Lifestyle",
+		"Simulation",
+		"Training"
+	],
+	"intro": "In Car Trader you buy cars at car auctions in different states, renew them and sell them to earn profit. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "70 MiB"
 }

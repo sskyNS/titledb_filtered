@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/4576e1df47d77068ea5467df4dc2f37cb8f948cd3adb2ad15d5365d955b2067b.jpg"
 	],
 	"releaseDate": 20211028,
+	"category": [
+		"RPG",
+		"Simulation",
+		"Strategy",
+		"Communication"
+	],
+	"intro": "Open your mind and let the story unfold.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.46 GiB"
 }

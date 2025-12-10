@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/32f756de6e25c84879e366aecb86a939c71a32c3d7a61253c06a4902ce8ef6a3.jpg"
 	],
 	"releaseDate": 20181222,
+	"category": [
+		"Puzzle",
+		"Platformer",
+		"Multiplayer",
+		"Arcade"
+	],
+	"intro": "Between dreams and nightmares, Koloro tells the tale of a young pink hair girl named Kora who embarks on a quest to find her missing sister through a stunning Puzzle",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.10 GiB"
 }

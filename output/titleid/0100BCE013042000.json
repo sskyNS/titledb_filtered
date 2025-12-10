@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/d827e25cf0644d8a0c3a5602afd066b641cbccb4a94410edc4021aed9cea2921.jpg"
 	],
 	"releaseDate": 20210928,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Witness the birth of the Silver Hawk in HD glory!\n",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.04 GiB"
 }

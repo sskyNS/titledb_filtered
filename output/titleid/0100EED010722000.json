@@ -11,5 +11,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/9ada47b377a8ad0a49637737a90ad062dfa4ceb6a5a5ca10c983ad493e34b960.jpg"
 	],
 	"releaseDate": 20221201,
+	"category": [
+		"Racing",
+		"Party",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "High-Speed Teleportation Racing!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "2.45 GiB"
 }

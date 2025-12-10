@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4e52c4d2a28a43be2b6ece513801cfdb28afb8599eec4ad43f2d9aae6b4e6fa.jpg"
 	],
 	"releaseDate": 20230419,
+	"category": [
+		"RPG"
+	],
+	"intro": "The original FINAL FANTASY II comes to life with completely new graphics and audio as a 2D pixel remaster!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "710 MiB"
 }

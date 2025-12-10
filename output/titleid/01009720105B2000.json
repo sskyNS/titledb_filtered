@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/1037c734d030db3ac1e1ae579bd9207a3913b037c04d441f850c2a519481851c.jpg"
 	],
 	"releaseDate": 20200903,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Run to get your candy back in Talking Tom\u2019s fun new game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "119 MiB"
 }

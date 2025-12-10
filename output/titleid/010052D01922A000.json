@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/ab8fc87b4cceb8c36b12699f2657e189edfe8df27135209767e1fd0336e93b0c.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "An escape room inspired adventure. Play as a scientist transported back in time to memories of college, trying to escape the nightmare reality.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.23 GiB"
 }

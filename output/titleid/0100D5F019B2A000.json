@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/8a391089bd9e8516b3f9f282dd06945c867f1da2cc600a0c99b6f13bcd5cfd67.jpg"
 	],
 	"releaseDate": 20221020,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "In 1920, a pact was made between humans and pumpkins. People were supposed to take care of the pumpkins throughout the year. Pumpkins were to protect people from evil once a year. In one day, the pumpkins must stop the monsters of the whole world from passing into tomorrow. If they fail to do so, the world will be overrun by evil for 364 days. This day was called Halloween.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "136 MiB"
 }

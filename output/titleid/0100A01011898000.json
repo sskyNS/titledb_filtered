@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bc3559f881be684b818cff4fffe71ffa749f9aca47cbddafa9c8bd9194029f6d.jpg"
 	],
 	"releaseDate": 20210722,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "An open-world game that combines platforms, puzzles and a lot of action in a large city that can be freely explored and is full of characters, stories and adventures.",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.67 GiB"
 }

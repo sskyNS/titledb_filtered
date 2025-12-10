@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/10172346500f81635acd8d14378004736c3778fdf813ef5efa04298d2b38bcca.jpg"
 	],
 	"releaseDate": 20220513,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Arcade",
+		"Other"
+	],
+	"intro": "A fun and relaxing puzzle game about combining colorful dots together into groups.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

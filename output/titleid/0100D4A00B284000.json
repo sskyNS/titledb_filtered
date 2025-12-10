@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2750c1872c619c587250fc362fa0a10d55461594d71d8c573410bf370ee30902.jpg"
 	],
 	"releaseDate": 20181130,
+	"category": [
+		"Adventure",
+		"First-Person Shooter",
+		"Multiplayer",
+		"RPG"
+	],
+	"intro": "Now updated to the latest version of Unreal Engine 4 with improved visuals, increased performance and tons of new content!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.46 GiB"
 }

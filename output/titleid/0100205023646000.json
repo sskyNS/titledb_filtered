@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4f5e8a68b8b38063fd593463cb9f195ee9e99b3fffefd23d238921dc9e62e213.jpg"
 	],
 	"releaseDate": 20250607,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Party",
+		"Shooter"
+	],
+	"intro": "The jungle hides more than predators.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "831 MiB"
 }

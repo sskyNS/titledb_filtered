@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/563fe39aef5e716175bb653963af45363ff39956ce754da1c01c3c7e78214e30.jpg"
 	],
 	"releaseDate": 20240307,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Live a grand adventure as an agent of Eldia to seal the ancient ruins!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "208 MiB"
 }

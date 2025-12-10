@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/772813f130ab0f0c6058c8a433f97b3388044dfecfb0771d94eb627425eeea55.jpg"
 	],
 	"releaseDate": 20210414,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Gomez is a 2D creature living in a 2D world. Or is he? ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.27 GiB"
 }

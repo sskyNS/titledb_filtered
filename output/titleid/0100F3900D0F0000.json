@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a00c91c7958c68b8fedb352c997784eb35e1b1fcdc3abe6b88831148847117b5.jpg"
 	],
 	"releaseDate": 20190208,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Jump into your food truck and business will bump up!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "275 MiB"
 }

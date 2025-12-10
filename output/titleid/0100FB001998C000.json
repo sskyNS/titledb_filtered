@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/23722e40ac8641361d0a15ac5cfd85134cab4415d1c5ee4e171812dd6e4c9688.jpg"
 	],
 	"releaseDate": 20220930,
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A logic puzzle game - classic minesweeper with a modern twist.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "65 MiB"
 }

@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/7a254e483fd0f91a6fd754e08f5969fa76827640c0f48e6b2dc070b88b3684b6.jpg"
 	],
 	"releaseDate": 20220812,
+	"category": [
+		"Adventure",
+		"Multiplayer"
+	],
+	"intro": "To find their way home, two survivors journey to unravel the mysteries of the past.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "672 MiB"
 }

@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/d8d8dbe7dde115b192690b2dcbb0e81d16bda23e2c82023416eaad2bcb65d731.jpg"
 	],
 	"releaseDate": 20170928,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade"
+	],
+	"intro": "A controller-smashingly tough BAFTA nominated platformer.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "686 MiB"
 }

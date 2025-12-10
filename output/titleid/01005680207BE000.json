@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/3fdb60c5d49aa855ab77ff430a44c5fdd1096c629326f2183e26707e82051138.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Action",
+		"First-Person Shooter"
+	],
+	"intro": "In a world without escape, your mind is your only hope.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.09 GiB"
 }

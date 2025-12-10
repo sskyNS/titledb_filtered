@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3498a92c8aaa3f96aca5f0df381f29f2bf969b7eb5c7199c105326a67a74817.jpg"
 	],
 	"releaseDate": 20230324,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Make clones. Save the world.",
+	"languages": [
+		"en",
+		"fr",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "367 MiB"
 }

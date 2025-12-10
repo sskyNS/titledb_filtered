@@ -10,5 +10,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/b2d483889684710258554174b8e6ef72ae083546bad724b83b154fe4be2f8699.jpg"
 	],
 	"releaseDate": 20210428,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "\"Escape First Supernatural\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.43 GiB"
 }

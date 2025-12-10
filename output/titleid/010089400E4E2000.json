@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/5692361043348571ab305dc62626bbcf60ee43b70c388c44b28f2f6c63b4423b.jpg"
 	],
 	"releaseDate": 20191010,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "A stained glass-styled adventure inspired by Sleeping Beauty.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "338 MiB"
 }

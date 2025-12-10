@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/80b8c26f20efc46d130748ea402e3f2c7831f42ad9b5462d2cbcfc8a736cec84.jpg"
 	],
 	"releaseDate": 20230504,
+	"category": [
+		"Adventure",
+		"Action",
+		"Lifestyle",
+		"Simulation"
+	],
+	"intro": "No Place Like Home is a cute and relaxing sim.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.77 GiB"
 }

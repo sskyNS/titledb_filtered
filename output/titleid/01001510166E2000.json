@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/832f1119073ced49a8529e79fc897454efe2af0c4c12367e084f774d0a244871.jpg"
 	],
 	"releaseDate": 20221031,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Start an adventure where gravity is your worst enemy & save the world one egg at a time in this 3D egg-rolling puzzle platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.27 GiB"
 }

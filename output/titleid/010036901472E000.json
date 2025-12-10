@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/473d95e76541b129bbbdb29ea13f8bff3d139383647e04678d78f3755277b063.jpg"
 	],
 	"releaseDate": 20220125,
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "A teenage guitar prodigy sets out on a psychedelic journey to inspire his stage persona. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

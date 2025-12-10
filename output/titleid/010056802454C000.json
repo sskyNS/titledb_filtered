@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cfcadaa47d5b5d3e6bb2995ea2e880f0338c9eb5fa59bca22f629f5b1ec09782.jpg"
 	],
 	"releaseDate": 20250724,
+	"category": [
+		"First-Person Shooter",
+		"Action",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "Nintendo Switch\u2122 Exclusive! The world after Operation Midnight Hammer! The frozen wasteland has entered a cooling period due to nuclear facility collapse!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.52 GiB"
 }

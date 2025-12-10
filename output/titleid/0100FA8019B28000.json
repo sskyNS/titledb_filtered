@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/e2f782aa6c0cd1f3cf425451b589ee4de0f0fe310967a6c5074dcd1e890ef25b.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "A 1-bit roguelite RPG adventure inspired by Japanese horror and H.P. Lovecraft. Amid turn-based combat and unforgiving choices, experience the quiet cosmic horror of Shiokawa.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "431 MiB"
 }

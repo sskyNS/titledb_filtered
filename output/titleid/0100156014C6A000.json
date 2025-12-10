@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/481cfc2479eed34d9f85cf0b790a83ed83b90cad40bc4ccb7f739d77c4cdf5ea.jpg"
 	],
 	"releaseDate": 20210406,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "You are the last hope to eliminate the ancient curse!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.74 GiB"
 }

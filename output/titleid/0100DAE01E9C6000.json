@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f94319094f55e82737beda263bdb59db4d46b15dcb44c07ee6910a1bb47a058d.jpg"
 	],
 	"releaseDate": 20241024,
+	"category": [
+		"Action",
+		"Platformer"
+	],
+	"intro": "A 2D action-platformer set in a world of cosmic horrors",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.84 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/64b69444e7cb60c71dbd42b2eccfe18572d0a0ebb32cc8380ef2ec7adc669da1.jpg"
 	],
 	"releaseDate": 20230126,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "Spine-chilling horror in an abandoned mental hospital - collect notes and keys, solve puzzles and find your way to the exit!",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "290 MiB"
 }

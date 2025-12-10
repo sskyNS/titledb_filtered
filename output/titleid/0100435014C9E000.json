@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/56b26678c5e9aafdf84f4bbb77718c236d6409e2da0a033ba2ccca58ff4d3913.jpg"
 	],
 	"releaseDate": 20210419,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore Alligator New York City, play dozens of minigames, solve a big mystery, and save a little alligator named Pat!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "992 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c6f447ca54cd774cd434afa4bacc1bb4c08ca306fddbce0a8a056b5fb212977e.jpg"
 	],
 	"releaseDate": 20240830,
+	"category": [
+		"RPG",
+		"Arcade",
+		"Action",
+		"Fighting"
+	],
+	"intro": "Unleash Your Inner Hero, evolve or perish, upgrade your arsenal to face relentless waves of monsters!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "228 MiB"
 }

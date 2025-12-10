@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c84c19cf95020874156eed718ab63327656a3092599adb7d017f0f66528dd764.jpg"
 	],
 	"releaseDate": 20240811,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Education",
+		"Strategy"
+	],
+	"intro": "Unravel Mysteries, Overcome Complex Obstacles, and Solve the Puzzle! Rid the Library of a Terrible Threat.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "222 MiB"
 }

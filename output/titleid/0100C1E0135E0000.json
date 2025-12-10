@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/b0bbd90f6a5131604e2c314d838319ee083daec9647ed9adb7f04e438ca19384.jpg"
 	],
 	"releaseDate": 20210310,
+	"category": [
+		"Fighting",
+		"Multiplayer",
+		"Party",
+		"Arcade"
+	],
+	"intro": "A brand-new competitive arena fighting game for up to 4 players!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "6.22 GiB"
 }

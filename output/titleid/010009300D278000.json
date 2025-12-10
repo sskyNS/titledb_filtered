@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc8d66fcaf23042392f2022cac045265590e95816ef391ffe1fc1185a515a54e.jpg"
 	],
 	"releaseDate": 20190503,
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Control an overpowered attack helicopter with the objective to drive the enemy out of your land and make your way to the enemy base and eliminate the threat.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "380 MiB"
 }

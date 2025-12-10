@@ -10,5 +10,27 @@
 		"https://img-eshop.cdn.nintendo.net/i/cbc8a18ac8b5891e7041edc67759ec489289f757e91d9fbeaec311080e54ad68.jpg"
 	],
 	"releaseDate": 20210128,
+	"category": [
+		"Strategy",
+		"Puzzle",
+		"Adventure",
+		"Education"
+	],
+	"intro": "Lands of orcs have expanded in the last few decades and defined new borders. New borders which are dangerously close to us. ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "325 MiB"
 }

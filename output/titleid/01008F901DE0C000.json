@@ -11,5 +11,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/c8fd572d7ed25af33fde2f769ceb8c99931db8fbbf7cacace180e33f3f0c7a3b.jpg"
 	],
 	"releaseDate": 20240328,
+	"category": [
+		"Arcade"
+	],
+	"intro": "Cut through the field!\nCapture the enemy's energy!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "99 MiB"
 }

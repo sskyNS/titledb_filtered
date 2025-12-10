@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/170cad2ac881192e278b335b63370da58cb264af2dc6eba80e72831ff0c505ca.jpg"
 	],
 	"releaseDate": 20190419,
+	"category": [
+		"Racing",
+		"Sports",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Ultimate motorbike racing experience for all ages!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "4.78 GiB"
 }

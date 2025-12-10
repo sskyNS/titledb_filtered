@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f34aa20ccb91f9639f821828c5d644bbda8ab64759a912aa78d52baa2d5c26b9.jpg"
 	],
 	"releaseDate": 20251106,
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Meet the new kind of UFO!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "300 MiB"
 }

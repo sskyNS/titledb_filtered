@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f683e8c3933bc3d0bc51c264dbda4568d7514a3a17af745e9ef96ed64f10ac9f.jpg"
 	],
 	"releaseDate": 20220121,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Sports",
+		"Platformer"
+	],
+	"intro": "Shooter, soccer, puzzle - Football Killer!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

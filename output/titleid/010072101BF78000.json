@@ -10,5 +10,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/af18688ed7c0a3544abeb85ed50d16bfdd8649a1ec2a6ac4b9ff106627bfd3b4.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Action",
+		"Racing",
+		"Sports",
+		"Party"
+	],
+	"intro": "Asymmetrical Action for 2~4 Players!\nAttack & Defense: Become the Greatest Ninja!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "104 MiB"
 }

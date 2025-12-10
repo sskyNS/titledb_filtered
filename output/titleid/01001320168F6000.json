@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/c95f01bc7752cc22a465b45fb4fa382422c1d218c77c7c48962a659a8634549f.jpg"
 	],
 	"releaseDate": 20211115,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "In the context of the last decades, are you sure that there is no slightest threat from humanity challenges that were overcome long ago?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.60 GiB"
 }

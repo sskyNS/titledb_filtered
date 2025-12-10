@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/2066e1f7699a539b3ea044b83c0c84c45932986be6c938d6b18cf7864afc5058.jpg"
 	],
 	"releaseDate": 20180607,
+	"category": [
+		"Action",
+		"Strategy",
+		"Fighting"
+	],
+	"intro": "Samurai Warfare has broken out!!! Defend your castle and protect your land!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "754 MiB"
 }

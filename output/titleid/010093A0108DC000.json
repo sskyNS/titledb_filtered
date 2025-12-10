@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/bffedade2b54f652f895d0155d30ca6a56d84281d95ca6580188349281c2809b.jpg"
 	],
 	"releaseDate": 20210331,
+	"category": [
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Racing"
+	],
+	"intro": "Take the battle to the streets in this car combat game with a delivery twist! Outdrive, outsmart and out deliver your rivals.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/a49b34026a607d59df051b652e44b1dceb3a4ea19d5acdb4dbc8b6d1de742868.jpg"
 	],
 	"releaseDate": 20250321,
+	"category": [
+		"Action",
+		"RPG",
+		"Adventure"
+	],
+	"intro": "You are The Last Hero, fight against the forces of evil!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
+	"numberOfPlayers": 1,
 	"size": "90 MiB"
 }

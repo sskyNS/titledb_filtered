@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/8fe6b8a29c9732a027e60db1c505246bfa1ea241f48563b0d578939e777ec8eb.jpg"
 	],
 	"releaseDate": 20230511,
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Find your way out of the hell and escape alive in this first-person puzzle platformer.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.36 GiB"
 }

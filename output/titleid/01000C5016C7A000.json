@@ -9,5 +9,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/ebaefc030890fde6475d4a92d0066260ba9e9354940acfe90dd9333bd842fde9.jpg"
 	],
 	"releaseDate": 20220630,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Communication",
+		"Multiplayer"
+	],
+	"intro": "This murder mystery takes place in a whole new reality! MYSPERYENCE is a five-player online multiplayer experience.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "641 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/d3e71e0ea218135d0571b364cd1728ad2174acd2442718fa3560ca6d73a48c29.jpg"
 	],
 	"releaseDate": 20240711,
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Dive into a heartwarming pixel art adventure.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "588 MiB"
 }

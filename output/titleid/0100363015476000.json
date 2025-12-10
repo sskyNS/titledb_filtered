@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/cc92a7430f453d5389393b2486c3123a6e588ea9e7d66a87bece740a873fac3c.jpg"
 	],
 	"releaseDate": 20210708,
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Woodcutter is a classic platformer, tells the story of Woodcutter whose child was kidnapped.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "97 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1fd6259375a27e595512ed903fe2c5e73132f5fdf1866879c4c8616cfaa745aa.jpg"
 	],
 	"releaseDate": 20220810,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "3 retro metroidvania platformers in one collection!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "185 MiB"
 }

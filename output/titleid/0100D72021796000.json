@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/32301461de846bf436a251270cdfcf79ed4023e36fba0e5b9bc8fc64ab33382a.jpg"
 	],
 	"releaseDate": 20251031,
+	"category": [
+		"Racing",
+		"Sports",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": "Race with the Rescue Wheels crew! Choose your Pup, unleash epic stunts, and drift to victory solo or with friends. Speed to victory! ",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.57 GiB"
 }

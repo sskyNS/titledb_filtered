@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/a9c6fbeedf1157f7f00c07475cb3b7437085329ae89582c95842135e280598bf.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Multiplayer"
+	],
+	"intro": "Venture into a massive 2.5D open world. \nExplore 45 new dungeons in single-player or online/local co-op.\nCraft weapons, raise pets, play a deck-building card game!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.60 GiB"
 }

@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/e290e8eb3d0bd8fe517a9bfbf3a841013585a679f86d58f78f1a7f83211c183a.jpg"
 	],
 	"releaseDate": 20230427,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Win the decisive battle in a massive galactic war!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "52 MiB"
 }

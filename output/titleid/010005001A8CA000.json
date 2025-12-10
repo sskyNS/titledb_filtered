@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/f44d688a09f670c3a5164f5b51ca9acf93ba4df82c273a2e05486f26c0d78669.jpg"
 	],
 	"releaseDate": 20231013,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Battle and explore as Bumblebee in an adventure to stop his nemesis, Mandroid, from becoming the ultimate evil cyborg!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.02 GiB"
 }

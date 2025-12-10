@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/840c55f881722fe58e4843d9203b60f313558f9db1e75c8920ffbebe4c4f36ac.jpg"
 	],
 	"releaseDate": 20250424,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Are you ready to lead the swarm and let your mind bloom?",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "203 MiB"
 }

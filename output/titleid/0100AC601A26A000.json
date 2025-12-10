@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/d75ffe0a67cabe97730c91e6f984df3c6493756f4aa2c235ac7c289624c64ea2.jpg"
 	],
 	"releaseDate": 20230310,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Multiplayer",
+		"Sports"
+	],
+	"intro": "The time has finally come:\nthe first official emoji\u2122 video game!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.30 GiB"
 }

@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/3080cf67590fdf46cff37f2ce771a29caffa15ddca76fd1885be9fec63a83705.jpg"
 	],
 	"releaseDate": 20180626,
+	"category": [
+		"Platformer"
+	],
+	"intro": "de Blob is a 3D platformer where players maneuver their hero, de Blob. Equal parts amorphous blob of paint, struggling artist, revolutionary and juvenile delinquent, de Blob's goal is to replace the drab, lifeless gray coloring that the I.N.K.T. Corporation has imposed on Chroma City and its inhabitants, the Raydians, with a range of vibrant life-giving colors, all the while avoiding and battling the gray-clad forces of the Inkies.\n\nKey Features:\nFlip, bounce and smash your way past the all-powerful I.N.K.T. Corporation\n\nJoin the Color Revolutionaries in the resistance against Comrade Black and his diabolical array of hot plates, electric shocks, and ink turrets\n\nFree your friends from a black and white world by painting the city back to life\n\nMultiplayer: Compete to control Chroma City in 4-player split screen in eight different multiplayer modes\n\nPaint Chroma City in your own style using custom colors, patterns and soundtracks ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "3.19 GiB"
 }

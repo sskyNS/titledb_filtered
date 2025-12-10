@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/abb748cee630fc93dc42aace3c6686402cb1787c6d015a3ecf7ddb9bcc0191ad.jpg"
 	],
 	"releaseDate": 20220728,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Other"
+	],
+	"intro": "Romeow has a big mission \u2013 go to Mars. Progress through messy paths and help him get there. ",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "137 MiB"
 }

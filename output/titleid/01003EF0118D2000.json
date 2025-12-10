@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a6eb0e0127ec4188f18cdb6a835d651460cfe7d0ba407d42ad04aab258633e1.jpg"
 	],
 	"releaseDate": 20200508,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer"
+	],
+	"intro": "Undo the end of the virtual world!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "36 MiB"
 }

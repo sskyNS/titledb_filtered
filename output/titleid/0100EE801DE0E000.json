@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/72d8dad36eaade2a5978e96b2cba00a60226fe81a7b0f764a8c5b306a5fe4721.jpg"
 	],
 	"releaseDate": 20240321,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Recover the moon base taken over\nby an international terrorist group!!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "63 MiB"
 }

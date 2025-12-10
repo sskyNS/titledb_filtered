@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a4e5b5fe187d2b48a8ae717f4464a00763c11c3123328e55dcb0e2a61923927e.jpg"
 	],
 	"releaseDate": 20180111,
+	"category": [
+		"Arcade",
+		"Music",
+		"Other",
+		"Puzzle"
+	],
+	"intro": "Energy Invasion - an arcade game inspired by the classic Breakout. Unlike the original game, your ball does not break blocks on its own, but can launch missiles in a chosen direction.\n\nFeatures:\nA lot of bonuses (both useful and harmful)\nBright graphic effects\nLevels with dangerous enemies\nSoundtrack from Nick R 61\n25 levels in \"Invasion\" mode, 25 levels in \"Linear\" mode, \u221e levels in \"Endless\" mode",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "374 MiB"
 }

@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/90e55a21ffff73482cde6fb67a79f6fded96af454d5c537040e592f241593239.jpg"
 	],
 	"releaseDate": 20251017,
+	"category": [
+		"Action",
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "A nostalgic first-person shooter full of action",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "45 MiB"
 }

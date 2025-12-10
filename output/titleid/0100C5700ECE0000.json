@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/bae9eaebe6d594219899bbae8ba29e91e1057492d38fb15b9266a2f7c09f0292.jpg"
 	],
 	"releaseDate": 20200114,
+	"category": [
+		"Puzzle",
+		"Action",
+		"Multiplayer",
+		"Strategy"
+	],
+	"intro": "A new, easy-to-play Puzzle & Dragons battle game for Nintendo Switch\u2122!\nTeam up with appealing monsters and aim for the top!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.62 GiB"
 }

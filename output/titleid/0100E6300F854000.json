@@ -9,5 +9,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/77e6cd70a1f8fdcd1bbab1bd8a8bdd1176d42c4d5ca9851e8fb04c1691b5b435.jpg"
 	],
 	"releaseDate": 20191115,
+	"category": [
+		"Arcade",
+		"Action",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "WARNING! The fish are escaping!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 1,
 	"size": "449 MiB"
 }

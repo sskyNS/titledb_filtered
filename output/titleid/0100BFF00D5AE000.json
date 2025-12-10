@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5af2dfbde7ae7dae089fa08c618f8f79c43d7340335b6ba8b4a94f7bfd42c787.jpg"
 	],
 	"releaseDate": 20190227,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure",
+		"Board Game"
+	],
+	"intro": "Turn Based Dungeon Crawler!\nPlay together with your friends!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 3,
 	"size": "1.56 GiB"
 }

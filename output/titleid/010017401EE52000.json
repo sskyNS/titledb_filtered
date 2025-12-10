@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/7f27fe5b934a83b14cf03217644771117551283e7eee5e46498248be2acb53c7.jpg"
 	],
 	"releaseDate": 20240526,
+	"category": [
+		"Education",
+		"Puzzle",
+		"Other",
+		"Board Game"
+	],
+	"intro": "Puzzle Game for Little Gourmets",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "46 MiB"
 }

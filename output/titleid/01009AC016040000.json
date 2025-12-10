@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/5294334593a46159b81356a45620ca5239f367ae7c203a86000173b9e9ac37c3.jpg"
 	],
 	"releaseDate": 20220106,
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Shooter"
+	],
+	"intro": "Blink, and you\u2019re hit. Warshmallows is a hilariously fast-paced multiplayer shooting game, where you battle over the championship as sweet but dangerous marshmallows at war!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
 	"size": "764 MiB"
 }

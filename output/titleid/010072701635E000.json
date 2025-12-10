@@ -10,5 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d5c74ce99e8e4ff852ce5ecff32d412e179bf9049c70883ac8c1b0d60dd9fb2c.jpg"
 	],
 	"releaseDate": 20211014,
+	"category": [
+		"Platformer",
+		"Action",
+		"Sports"
+	],
+	"intro": "A new take on football!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "255 MiB"
 }

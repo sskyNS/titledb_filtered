@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/c4d743cfcd261d26121f4cf296abf3acba61b0bd9f435794f5fb0618bc156cf7.jpg"
 	],
 	"releaseDate": 20200827,
+	"category": [
+		"Action",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Fall through a hazardous pit and defeat a massive monster lurking in the deep!",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"es",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "57 MiB"
 }

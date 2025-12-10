@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/128f6467afe668e6d82b846b31256668c8df13cf34b34f63dbd103ebb9b4ef4b.jpg"
 	],
 	"releaseDate": 20210901,
+	"category": [
+		"Action",
+		"Strategy",
+		"RPG",
+		"Other"
+	],
+	"intro": "Galaxy squad is a turn-based tactical roguelike in which you are leading a squad of mercenaries through a randomly generated galaxy filled with different events.",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.30 GiB"
 }

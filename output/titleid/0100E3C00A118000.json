@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d5d0d6eb6adfd4d9fb4c47c1de6c392d0fed9f48726ab5c1641ec0f2f852da3.jpg"
 	],
 	"releaseDate": 20180719,
+	"category": [
+		"Action",
+		"RPG",
+		"Arcade"
+	],
+	"intro": "Fight your way as Mean Mcallister, the baddest chicken in \ntown, through multiple hordes of enemies to save your \ngirlfriend in this hilarious, strategic button-mashing, action-\nRPG.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "663 MiB"
 }

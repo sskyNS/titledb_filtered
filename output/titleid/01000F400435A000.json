@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/2564b22abededd1f05fb16efca2a3ae6126aab978afc84a1ed11a691ae29302f.jpg"
 	],
 	"releaseDate": 20180510,
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Blast a swarm of mummies using more than 50 weapons and explore Giza's pyramids in this frantic shooter",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.10 GiB"
 }

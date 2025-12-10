@@ -10,5 +10,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/63fe8008ede6465bc8011639ca7a306d2647ef96bda7af1499b75090176e60e3.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Action",
+		"Party",
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Forge, run, and fight as a team, crafting epic weapons and managing chaos together!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "1.96 GiB"
 }

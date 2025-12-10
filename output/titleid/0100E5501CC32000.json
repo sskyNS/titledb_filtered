@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/a609dfed8ca40a7723fa986e12741f61c28048346a35ab840fd8f36e2f1b0219.jpg"
 	],
 	"releaseDate": 20241114,
+	"category": [
+		"Shooter",
+		"Action",
+		"Arcade",
+		"Fighting"
+	],
+	"intro": "Top-down bullet hell shooter where you stop the clone army from taking over the world by one way: kill. them. all.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

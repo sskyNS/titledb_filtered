@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/8819d7fea9c7022edb60ee867e61947df1ec3919207ffdd320b8c6ab035a94b8.jpg"
 	],
 	"releaseDate": 20210520,
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "How will you survive in a world that wants you to Just Die Already?",
+	"languages": [
+		"ja",
+		"pt",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.53 GiB"
 }

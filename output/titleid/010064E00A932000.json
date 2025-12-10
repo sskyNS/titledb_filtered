@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d17bee6192d571fec975c9b7411c6d4105c14b63e2892d3d57e08437dab260ed.jpg"
 	],
 	"releaseDate": 20190218,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Fantasy Action Platforming with Physics-Based Puzzles and Fairytale Adventures",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 3,
 	"size": "2.65 GiB"
 }

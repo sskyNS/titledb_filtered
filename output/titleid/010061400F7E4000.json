@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/795a5c1aff2fb9f6a4539de43b388bb947782e2f470ce106405c176e2a531dab.jpg"
 	],
 	"releaseDate": 20191227,
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Float with your balloon and tackle!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "36 MiB"
 }

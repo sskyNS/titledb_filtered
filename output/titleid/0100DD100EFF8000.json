@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/3eded8a0bdbc22f1a49adce25f2e8cc490c61387f262ef60f37f7686d5a6ff23.jpg"
 	],
 	"releaseDate": 20191031,
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "There\u2019s something spooky in the woods... And it needs your help!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.10 GiB"
 }

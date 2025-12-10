@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/35760e456efcf6e4fd62eea466e5762b48715c9506614b85336b90c74cce5fa4.jpg"
 	],
 	"releaseDate": 20230831,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "On the heels of last year\u2019s first Taito Milestones comes a new collection with more of Taito\u2019s arcade classics.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "1.16 GiB"
 }

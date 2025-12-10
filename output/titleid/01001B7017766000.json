@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/6abde9a209403572690e3d4950301eb79d454060ba651666817392d650d9aac3.jpg"
 	],
 	"releaseDate": 20220422,
+	"category": [
+		"Action",
+		"Puzzle",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Darkness came over the magical kingdom. The most powerful wizards stood against evil forces. But the enemy was too strong. The battle was lost.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "466 MiB"
 }

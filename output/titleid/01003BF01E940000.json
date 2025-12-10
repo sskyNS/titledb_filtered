@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/987195fad23137b5a02b8afd15055e8b0db7ba57c74a38682a2724c2cb5b54b7.jpg"
 	],
 	"releaseDate": 20240417,
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "You are trapped in an endless underground passageway. Observe your surroundings carefully to reach \"The Exit 8\".",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.66 GiB"
 }

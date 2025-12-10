@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/f53de1abedc3ba996a17e62325f07b028a2aa4db98afe33a9cab991296f293be.jpg"
 	],
 	"releaseDate": 20170601,
+	"category": [
+		"Shooter",
+		"Arcade"
+	],
+	"intro": "Power up! Go forth, units! \nTake down the incoming enemies!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "89 MiB"
 }

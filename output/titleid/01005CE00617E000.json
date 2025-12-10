@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/4312ac95f6acced8d47f230bc8776784d3f7de00b8ec593406c18ae47815d265.jpg"
 	],
 	"releaseDate": 20190207,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Marble Rolling Fun!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "619 MiB"
 }

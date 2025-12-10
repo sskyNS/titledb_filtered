@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f16ea5e94260b102e72eaf88739db34a67c4186af61f70e487bd5bfae6d0edc.jpg"
 	],
 	"releaseDate": 20250208,
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": "Shieldwall is a funny third-person tactical battle simulator with strategy elements.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.02 GiB"
 }

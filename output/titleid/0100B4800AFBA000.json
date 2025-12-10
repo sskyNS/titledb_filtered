@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/912ef0054e981cb48d871db7f69ce00276748c2b6c35a70f2d3b363e777ac399.jpg"
 	],
 	"releaseDate": 20180913,
+	"category": [
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "A resounding battle march! These fights are unrestricted! Let out all your aggression!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
 	"size": "102 MiB"
 }

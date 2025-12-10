@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/5a80f1935ddd188954678ec715351260a200288be36cfe53ddb4c3fa9d615326.jpg"
 	],
 	"releaseDate": 20190425,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Multiplayer",
+		"Education"
+	],
+	"intro": "The eagerly anticipated Color Picross from the Picross S Series is finally here!\nComplete color illustrations using colorful hint numbers!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "303 MiB"
 }

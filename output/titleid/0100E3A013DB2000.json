@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/bb49ebdf28949f7f9d3c309e0cd0291b8c88555d3872b4103b847953497dddad.jpg"
 	],
 	"releaseDate": 20210729,
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Explore mysterious caverns and solve the puzzles of the ancient machines that fill them.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.25 GiB"
 }

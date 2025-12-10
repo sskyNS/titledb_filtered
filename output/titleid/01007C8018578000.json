@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/d67786484db4f9a2c6fb0ef9b518d33eb40d59d1c9b491179144448471023704.jpg"
 	],
 	"releaseDate": 20230112,
+	"category": [
+		"Fighting",
+		"Arcade",
+		"Action",
+		"Party"
+	],
+	"intro": "Breakers Collection features both of the original games (Breakers and Breakers Revenge) and a brand new content for the cult-classic among the fans of Fighting Game.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "960 MiB"
 }

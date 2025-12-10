@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/10a7bab983b56e03a4685d35d5b724e11e176d40c096943e8225b5da2287cb91.jpg"
 	],
 	"releaseDate": 20221209,
+	"category": [
+		"Action",
+		"Simulation",
+		"Racing",
+		"Arcade"
+	],
+	"intro": "Control a miniature vehicle and drive your way around household obstacles",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "320 MiB"
 }

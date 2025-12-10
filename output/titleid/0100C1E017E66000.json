@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/e9fc79a24fcbd15870783574d60b819e082c49f2d4e4e9c8f9ab305a38e7abc9.jpg"
 	],
 	"releaseDate": 20220430,
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Unlock new cats as your score gets higher\nHyper Casual",
+	"languages": [
+		"ja",
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "34 MiB"
 }

@@ -11,5 +11,14 @@
 		"https://img-eshop.cdn.nintendo.net/i/4cabb793dff6c2f85941debfcaecf4c5e466f074fe122d83083bba86ad52bf47.jpg"
 	],
 	"releaseDate": 20220225,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Shape your own legend as a lady pirate on the high seas!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "48 MiB"
 }

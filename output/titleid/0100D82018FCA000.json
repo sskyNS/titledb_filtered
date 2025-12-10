@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/89d00d8cbfc3e4e4587ee062dbe86136a8ed7414204bdf59a0310a4d6814411f.jpg"
 	],
 	"releaseDate": 20220729,
+	"category": [
+		"Simulation",
+		"Racing",
+		"Action",
+		"Sports"
+	],
+	"intro": "Big vehicles. Big wheels. Big problems.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "544 MiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/31b19395731cdaa56b4b2208012df7b9295e360995c1a11d6fac317b5bd67c1f.jpg"
 	],
 	"releaseDate": 20210909,
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "The surface is just the beginning",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"es",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "409 MiB"
 }

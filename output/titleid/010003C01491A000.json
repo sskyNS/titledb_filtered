@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/1896e7af022355fc346195fa94f7efc86a9b239c51ba8b31dccb9a94b83bc7c5.jpg"
 	],
 	"releaseDate": 20210923,
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Very addictive physics based bicycle driving game!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "293 MiB"
 }

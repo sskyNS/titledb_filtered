@@ -10,5 +10,18 @@
 		"https://img-eshop.cdn.nintendo.net/i/bd347c72c18d2569797bdbfeb4eadb49fd5729cbc9d7362d9ea669f09266c026.jpg"
 	],
 	"releaseDate": 20190117,
+	"category": [
+		"Action",
+		"Fighting"
+	],
+	"intro": "Crazy battles where anything can happen!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "757 MiB"
 }

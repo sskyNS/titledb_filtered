@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae098ebcb29ec76d21ca908e5a6c09086e3b50192c5fb2106ce7b3040485ae68.jpg"
 	],
 	"releaseDate": 20250618,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Action",
+		"Party"
+	],
+	"intro": "Stack the Love of Captain Marine!",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.65 GiB"
 }

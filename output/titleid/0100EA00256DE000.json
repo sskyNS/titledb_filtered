@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/ae438e0354dfe5f6c0bb7ffb7cb42177a6f41d6aba2ea63aa09c43e33f1ab65a.jpg"
 	],
 	"releaseDate": 20260109,
+	"category": [
+		"Racing",
+		"Arcade",
+		"Adventure"
+	],
+	"intro": "An open world kart racer! Use items, driftslide and boost your way to championship glory.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.14 GiB"
 }

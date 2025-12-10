@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/b67c207ce2ba9d848af458d2f0c166ec36b9d77f0d30172eb9f37b4215c08d90.jpg"
 	],
 	"releaseDate": 20190904,
+	"category": [
+		"Adventure"
+	],
+	"intro": "One destination. Endless adventures. Where will this journey take you?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.82 GiB"
 }

@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/3b42f017c530247ddfdf47ba878c9626a7b87d052285f57481a0ca2fb0d0ea25.jpg"
 	],
 	"releaseDate": 20250411,
+	"category": [
+		"Music",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "A unique musical rhythm action game that combines the elements of Rogue games.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "769 MiB"
 }

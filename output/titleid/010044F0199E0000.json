@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/2ff11a93c6aac690c66b50c18bf56531913fbf97540bdf307c38b9baf9fc0a30.jpg"
 	],
 	"releaseDate": 20231026,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Build railways to solve challenges and help the Hamsters' village.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "999 MiB"
 }

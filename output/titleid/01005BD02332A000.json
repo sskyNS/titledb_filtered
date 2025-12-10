@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2c6c340a00746b0d41fe7336e2221ea7fc39e0248e03906b93c64fd0abf122d.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Puzzle",
+		"Strategy"
+	],
+	"intro": "Defeat the Sandman and help Laura to wake up in the real world.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ko"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.43 GiB"
 }

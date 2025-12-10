@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/b17b6f68d14ee376631b5fdaef42c1ed1e67d9e1e5472d0315c2b958126224d9.jpg"
 	],
 	"releaseDate": 20241017,
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Dodge enemies' attacks, activate lethal traps and customize your hero in StormEdge. Brace yourself for the dangerous Elemental Storms that will put your skills to the test!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "2.12 GiB"
 }

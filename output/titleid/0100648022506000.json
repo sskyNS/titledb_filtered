@@ -11,5 +11,20 @@
 		"https://img-eshop.cdn.nintendo.net/i/41627ca36fdd32a376d1344e8371d3ab650ded6de91b6ec9d058b4b974e2a500.jpg"
 	],
 	"releaseDate": 20250327,
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "2d pixel art action platformer",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 1,
 	"size": "343 MiB"
 }

@@ -11,5 +11,26 @@
 		"https://img-eshop.cdn.nintendo.net/i/624009a0ee743fdeee9d2f9ea7adb28bd21c273166dda199c1eea0b8bf46a77b.jpg"
 	],
 	"releaseDate": 20190324,
+	"category": [
+		"Adventure",
+		"Strategy",
+		"Puzzle",
+		"Action"
+	],
+	"intro": "You assist a hero from Ancient Greece, Hercules.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "195 MiB"
 }

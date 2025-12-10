@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/e3253b0f91c51b2a57c45a92e7b7d63ef8cca31cbb59cd7bd1c4683c244a0da6.jpg"
 	],
 	"releaseDate": 20250214,
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Her legacy lives on!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "12.58 GiB"
 }

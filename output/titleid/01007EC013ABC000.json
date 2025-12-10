@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe4cbafc9986108234d66f8c246fabf20ad2d07910cdad22ff7961668ff74705.jpg"
 	],
 	"releaseDate": 20210826,
+	"category": [
+		"Platformer",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Spelunky returns in this greatly-expanded sequel to the original roguelike platformer!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
 	"size": "708 MiB"
 }

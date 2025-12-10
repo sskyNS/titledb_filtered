@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/4dd9a94a6c7b2b3836053e8d6e33a86fdde73cd2403563c3b26b660aebcac565.jpg"
 	],
 	"releaseDate": 20201228,
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Arcade"
+	],
+	"intro": "Solve the puzzle in 50 extra levels.\nThe goal of the game is easy.\nGo through all the areas without leaving any and without going through it twice.\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "429 MiB"
 }

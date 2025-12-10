@@ -11,5 +11,22 @@
 		"https://img-eshop.cdn.nintendo.net/i/e5a9a72128ad49fcf159d034fb3864b9deeabbef70ab1509dca38f114153b486.jpg"
 	],
 	"releaseDate": 20201203,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Put on your mask and fight the system in an adventure shooter inside a paperback comic. Now enhanced with full voice-overs and 2 new story chapters.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.52 GiB"
 }

@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ea8c9a1dc28b0effb5b7f05fa3ff666f81d5888c309912006a72ad9263d022da.jpg"
 	],
 	"releaseDate": 20250821,
+	"category": [
+		"Adventure",
+		"RPG",
+		"Board Game",
+		"Puzzle"
+	],
+	"intro": "A unique adventure, where every choice shapes your fate.\nA classic gamebook brought to life, with countless paths to discover.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "910 MiB"
 }

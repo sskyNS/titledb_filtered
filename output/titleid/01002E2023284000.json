@@ -11,5 +11,21 @@
 		"https://img-eshop.cdn.nintendo.net/i/aa33a2835acf5eec28fbaeedee3ce8571b5487eeccf6a7fa72962476a8c78b7f.jpg"
 	],
 	"releaseDate": 20251030,
+	"category": [
+		"Adventure"
+	],
+	"intro": "A thrilling adventure in the whimsical and wonderful wold of Asfalia.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "3.00 GiB"
 }

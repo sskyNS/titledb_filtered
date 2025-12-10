@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/99967feb832eef44036b9b244c8db25e1fbb6b843b364eabeada229a817a2a99.jpg"
 	],
 	"releaseDate": 20211027,
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"RPG"
+	],
+	"intro": "A dynamic pixelart action platformer. Prove your worth to the King and find love",
+	"languages": [
+		"en",
+		"ru"
+	],
+	"numberOfPlayers": 1,
 	"size": "113 MiB"
 }

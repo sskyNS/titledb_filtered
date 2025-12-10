@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/d06f726491dba1a1eb772e04a85515d01d049deb84814a30d710c33e4697441b.jpg"
 	],
 	"releaseDate": 20220304,
+	"category": [
+		"RPG",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Challenge your convictions to save the realm of Norzelia in Square Enix\u2019s newest HD-2D adventure",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "7.05 GiB"
 }

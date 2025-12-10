@@ -11,5 +11,23 @@
 		"https://img-eshop.cdn.nintendo.net/i/495bbb121a0329671f84d84b3e1149fd9f5fa680440e5e53203e33ba912bac06.jpg"
 	],
 	"releaseDate": 20240823,
+	"category": [
+		"Action",
+		"Strategy",
+		"Fighting",
+		"Shooter"
+	],
+	"intro": "A fastpaced, military tug-of-war game with minimal micromanagement!  ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "2.35 GiB"
 }

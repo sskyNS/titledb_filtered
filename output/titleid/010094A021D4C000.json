@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/038fa19f520294605ca7d9b8fe0f514dc53bf02458f4a19a98d6264c0cbba7e8.jpg"
 	],
 	"releaseDate": 20251211,
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Training"
+	],
+	"intro": "New puppy rescue mission from the evil bees!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "211 MiB"
 }

@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/c7f244aade1c3ab92b129295063d6963831ec7393fe4075f0cf7a16d8d75e922.jpg"
 	],
 	"releaseDate": 20190723,
+	"category": [
+		"Action",
+		"Adventure",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Blast your way across 3 layers of platforming, collecting gold and obtaining upgrades helping you go from puny to powerhouse!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
 	"size": "84 MiB"
 }

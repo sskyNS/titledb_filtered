@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/902655a9ad629fe8449f30f1c66783cd554c9fdeb33d43d83ab76abecf95a17f.jpg"
 	],
 	"releaseDate": 20251107,
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": "Build your fleet, face your rivals, survive the battle.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.15 GiB"
 }

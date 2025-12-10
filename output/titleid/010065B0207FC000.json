@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/96f3c01599703b1b3e477ddb9d111c748e40ba9f00b1dc471272dfc04d36d5d5.jpg"
 	],
 	"releaseDate": 20240919,
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Party"
+	],
+	"intro": "The story of the evolution of the ancient fish \"Sacabambaspis\".",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "556 MiB"
 }

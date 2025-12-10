@@ -9,5 +9,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/da2b2993ffe7f69feed5a374fdacb2daa8de381be955684a7dec53e11677d83f.jpg"
 	],
 	"releaseDate": 20220722,
+	"category": [
+		"Adventure",
+		"Arcade",
+		"Party",
+		"Other"
+	],
+	"intro": "TAKE CONTROL OF A COW IN THE FAST-PACED WATER ADVENTURE!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "136 MiB"
 }

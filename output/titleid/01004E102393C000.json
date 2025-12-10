@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/f13444d872bd4b0c7c766a9a71aa94a3391deadd3a989d85713588bb0c02ebd7.jpg"
 	],
 	"releaseDate": 20250625,
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Party",
+		"Adventure"
+	],
+	"intro": "Every second a choice. Every choice a consequence.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "757 MiB"
 }

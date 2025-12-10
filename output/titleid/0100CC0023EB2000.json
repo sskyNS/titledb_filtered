@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/6855f58bbba207cdcd9d80fcd93e4a07a5fd2613cbb1b1cfd6c2bd0ebf0341bb.jpg"
 	],
 	"releaseDate": 20250822,
+	"category": [
+		"Simulation"
+	],
+	"intro": "Recycling Center Simulator is a business simulator game with a first person view. Make money from garbage, collect raw materials for your recycling center from different locations, recycle them, make money by producing new products and improve your factory.\n\nDeal with customers to get raw materials:\nUse the computer to bargain with people in the city who sell their waste to buy products cheap.\n\nCollect Waste From The Places You Buy:\nCollect the wastes, to gather raw matterials.\n\nSort Raw Materials for Recycling:\nBring the harvested wastes to your factory and sort them by type in the sorting machine\n\nProduction:\nPut Raw Material Back into Production to Make More Valuable Products\n\nExpand Factory:\nSell New and More Valuable Products and Expand Your Factory",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.96 GiB"
 }

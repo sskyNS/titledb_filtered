@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/a2fd6b4de8c743b0a798cadd7ea2335b864c1868483c9e8438a5c10eab310180.jpg"
 	],
 	"releaseDate": 20220421,
+	"category": [
+		"Action",
+		"Arcade",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Samurai-themed roguelite action\nwhere you cut down hordes of samurai and demons\nin the quest to defeat Yamata-no-Orochi.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "369 MiB"
 }

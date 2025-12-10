@@ -11,5 +11,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/ec85ae49d3a9010eca98f99b65494be8d034841190b9fa124575e3b3aaa29644.jpg"
 	],
 	"releaseDate": 20221223,
+	"category": [
+		"Adventure",
+		"Fighting",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Skate, jump, shoot and destroy!\nWelcome to Clean City, a futuristic city that lives under the threat of Sergeant Rocco.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.38 GiB"
 }

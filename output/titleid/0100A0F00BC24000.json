@@ -11,5 +11,17 @@
 		"https://img-eshop.cdn.nintendo.net/i/72ca3957e15181aece36a14db338b9faa8ad849ea3f55a44cac33c56696f5662.jpg"
 	],
 	"releaseDate": 20190328,
+	"category": [
+		"Party",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Two-player and Four-player games of all genres in one!",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
+	"numberOfPlayers": 4,
 	"size": "218 MiB"
 }

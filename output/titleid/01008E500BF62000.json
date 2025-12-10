@@ -11,5 +11,19 @@
 		"https://img-eshop.cdn.nintendo.net/i/bf973522688e113fbdbc8106eac136b5a59045f3e94b80e15c2b2e04b0f16146.jpg"
 	],
 	"releaseDate": 20180920,
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Retro side-scrolling platformer featuring a cute magical cat adventuring 63 levels, each with their own unique boss battle spread across 7 worlds.",
+	"languages": [
+		"ja",
+		"en",
+		"ru",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "136 MiB"
 }

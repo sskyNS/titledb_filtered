@@ -11,5 +11,24 @@
 		"https://img-eshop.cdn.nintendo.net/i/87caab45a4eec0fcb5e5510f2e19340a172362d4ddf951f51c82fc4c4402c3c8.jpg"
 	],
 	"releaseDate": 20220113,
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Experience an imaginary world and take back your creativity",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "507 MiB"
 }

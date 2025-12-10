@@ -11,5 +11,25 @@
 		"https://img-eshop.cdn.nintendo.net/i/2c9bf6f65579322963e78f38591e9efcda5a7c45456c897ff3511a101a1cd658.jpg"
 	],
 	"releaseDate": 20250509,
+	"category": [
+		"Action",
+		"Fighting",
+		"Platformer"
+	],
+	"intro": "A PLATFORM FIGHTER ROGUELIKE\nSpiritfall combines tight Platform Fighter combat, smooth movement, and Roguelite mechanics into one! Trek across dangerous lands, string together deadly combos to fend off swarms of enemies, and harness an ever-changing set of powers through a randomly generated map.\n\nDIVINE SYNERGIES AWAIT\nThe divine spirits offer powerful blessings that enhance your abilities in combat. Discover your favorite abilities, and experiment with different builds. With over 150+ blessings to choose from, these gifts allow for a range of tactical approaches that encourage you to find synergies that fit your playstyle.\n\nGROW STRONGER FROM DEFEAT\nDeath is but a temporary setback. Reawaken stronger than before at the Sanctum and continue your adventure. Use the resources you gathered to upgrade your skills, unlock unique powers, and awaken mighty weapons with unique movesets.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.95 GiB"
 }

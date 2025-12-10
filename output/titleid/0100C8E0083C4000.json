@@ -11,5 +11,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e59136eeec0b43d85976fb9afd0b7c33d623d9c9f8c45b59ce725eed42e07098.jpg"
 	],
 	"releaseDate": 20180503,
+	"category": [
+		"Board Game"
+	],
+	"intro": "Easy play Mah-jongg!\n2 players available with single device!",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
+	"numberOfPlayers": 2,
 	"size": "418 MiB"
 }

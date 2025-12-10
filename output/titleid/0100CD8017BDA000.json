@@ -10,5 +10,16 @@
 		"https://img-eshop.cdn.nintendo.net/i/fe9a039bbc80938f119ec049259978c4cf960968137f8979ad19ee4e58f12e01.jpg"
 	],
 	"releaseDate": 20220317,
+	"category": [
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "A hard action adventure game about the fragility, bravery, and sometimes friendship of raw eggs.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 1,
 	"size": "1.70 GiB"
 }
