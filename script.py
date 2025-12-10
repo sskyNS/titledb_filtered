@@ -140,10 +140,11 @@ for x in range(len(files)):
         # 提取游戏类型(category)
         entry_output["category"] = DUMP[keys[i]].get("category", [])
         
-        # 提取游戏介绍(intro/description)
+        # 提取游戏介绍(intro)
         entry_output["intro"] = DUMP[keys[i]].get("intro", "")
-        if not entry_output["intro"] and "description" in DUMP[keys[i]]:
-            entry_output["intro"] = DUMP[keys[i]]["description"]
+        
+        # 提取游戏详细描述(description) - 新增
+        entry_output["description"] = DUMP[keys[i]].get("description", "")
         
         # 提取游戏语言(languages)
         entry_output["languages"] = DUMP[keys[i]].get("languages", [])
@@ -190,7 +191,8 @@ for i in range(len(missing_games)):
     
     # 提取新增的字段
     entry_output["category"] = DUMP.get("category", [])
-    entry_output["intro"] = DUMP.get("intro", DUMP.get("description", ""))
+    entry_output["intro"] = DUMP.get("intro", "")
+    entry_output["description"] = DUMP.get("description", "")
     entry_output["languages"] = DUMP.get("languages", [])
     entry_output["numberOfPlayers"] = DUMP.get("numberOfPlayers", 1)
     
