@@ -17,6 +17,7 @@
 		"Action"
 	],
 	"intro": "Fast Striker EX is a 2D CGI arcade shooting game with emphasis on scoring. \nYou can choose between 4 game modes with different scoring s",
+	"description": "Short facts:\n\n- 6 Stages\n- 4 Game modes: Novice/Original/Maniac/Omake\n- Elaborate scoring systems\n- 40+ Fully animated CGI enemies\n- 7+ Huge fully animated boss enemies\n- 3D scrolling CGI backgrounds\n- Constant 60 fps\n- Difficulty rank system\n\nEX Version specific changes:\n\n- First port based on the arcade original with all graphics and animations intact.\n- Added stage and boss select for training\n- Added full autofire\n- Normalized diagonal player movement\n- Improved button priority between shot modes (FRONT,LASER,BACK,AUTO)\n- Increased player fast strike shield endurance\n- Improved background contrasts\n- Added additional background layer graphics\n- 32 bit like graphic updates\n- hundreds of small fixes",
 	"languages": [
 		"en",
 		"es",

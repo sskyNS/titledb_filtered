@@ -13,7 +13,8 @@
 		"Arcade",
 		"Action"
 	],
-	"intro": "Arcade Snake Go! is an addictive arcade game in which you take on the role of a hungry snake.\n\nYour goal is to eat as many apples as possible without colliding with your tail or hitting the bombs that appear randomly across the playing field.\n\nAlso pick up a potion of speed and life to last much longer!",
+	"intro": null,
+	"description": "Arcade Snake Go! is an addictive arcade game in which you take on the role of a hungry snake.\n\nYour goal is to eat as many apples as possible without colliding with your tail or hitting the bombs that appear randomly across the playing field.\n\nAlso pick up a potion of speed and life to last much longer!",
 	"languages": [
 		"en"
 	],

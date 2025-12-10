@@ -18,6 +18,7 @@
 		"Platformer"
 	],
 	"intro": "Get the crystal!\nOver 120 stages!\nPlay with 4 players in local split screen!",
+	"description": "The goal is to get the crystals on the 3D stage by making full use of jumps and dashes.\n\nGame features\n\u30fbWhen you get the crystal, the stage is cleared!\n\u30fbThere are two modes: normal and hard mode.\n\u30fbLocal multiplayer with split screen for up to 4 people!\n\u30fbYou can use items to increase your speed and change your jump height.\n\nhard mode\n\u30fbCollect coins to make crystals appear!\n\u30fbIf the gimmick changes or the starting position changes, it becomes difficult to clear the stage.\n\nmultiplayer\n\u30fbThe first player to get the crystal wins!\n\u30fbYou can lift your opponent, throw them to disturb them, and cooperate with them!\n\n\n[Controls]\n\u25a0 Title screen\nLeft stick\u2026Cursor movement\nLeft stick \u2026 Change the difficulty of the stage or the number of players or options\nB\u2026Decision\nY\u2026Skip by 10 units (hold down)\n\n\u25a0 Game screen\nLeft stick\u2026move\nRight stick\u2026Rotate camera\nB\u2026Jump\nY\u2026Dash (while moving)\nX...Pick up (Pick up other players by throwing)\nPlus... open menu\nMinux\u2026Tips\nR... Reset camera\nL\u2026Camera zoom\nY+B+A \u2026 self-destruct and return to the halfway position\nY+B+A+X \u2026 self-destruct and return to starting position\n\n\u25a0 Menu screen\nLeft stick\u2026Cursor movement\nB\u2026Decision",
 	"languages": [
 		"en"
 	],

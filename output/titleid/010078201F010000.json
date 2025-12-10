@@ -15,6 +15,7 @@
 		"Simulation"
 	],
 	"intro": "You are trying to find the exit but you are stuck in a loop. To find the exit, observe your surroundings and get familiar with it. ",
+	"description": "The timer will start once you are ready to play. The correct decision will move you up a floor and the incorrect decision will reset you back to the beginning. Observation is key.\n\nIf you don't find anomalies, choose the elevator that states no anomalies otherwise choose the elevator that states confirm anomalies.",
 	"languages": [
 		"ja",
 		"en",

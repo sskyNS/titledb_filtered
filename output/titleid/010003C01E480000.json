@@ -15,7 +15,8 @@
 		"Platformer",
 		"Arcade"
 	],
-	"intro": "Hopping Bunny,\nThis rabbit needs to jump and overcome the obstacles that are dangerous for him,\nDo you want to help him?\nBut you need to collect the Keys to pass the level.\n\nWhen you jump, you can stop time!\nThis feature will come in handy because sometimes\nYou will need to maneuver in the air!\n\nCan you pass 20 specially designed levels?",
+	"intro": null,
+	"description": "Hopping Bunny,\nThis rabbit needs to jump and overcome the obstacles that are dangerous for him,\nDo you want to help him?\nBut you need to collect the Keys to pass the level.\n\nWhen you jump, you can stop time!\nThis feature will come in handy because sometimes\nYou will need to maneuver in the air!\n\nCan you pass 20 specially designed levels?",
 	"languages": [
 		"en"
 	],

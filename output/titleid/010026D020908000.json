@@ -18,6 +18,7 @@
 		"Training"
 	],
 	"intro": "A luxurious puzzle game where you separate scattered gems into different rooms. However, the rooms must be point-symmetric with the gems at the center.",
+	"description": "This is a puzzle game where you create rooms by dividing grid spaces with colors to form point-symmetric shapes centered around the gems.\nYou clear the stage once all the gems are separated into different rooms.\n\nThere are 1,000 stages in total. \nIt\u2019s a challenging puzzle game that tests your powers of insight.",
 	"languages": [
 		"ja",
 		"en",

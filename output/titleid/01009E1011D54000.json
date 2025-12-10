@@ -12,7 +12,8 @@
 	"category": [
 		"Puzzle"
 	],
-	"intro": "Mischievous cats are messing with your 2048 board\nWell, how could you blame them if they are so cute!!\nCome and join them to play with 2048 game!\n\nHow to play:\nUse the Stick to move all tiles.\nWhen two tiles with the same number touch, they merge into one.",
+	"intro": null,
+	"description": "Mischievous cats are messing with your 2048 board\nWell, how could you blame them if they are so cute!!\nCome and join them to play with 2048 game!\n\nHow to play:\nUse the Stick to move all tiles.\nWhen two tiles with the same number touch, they merge into one.",
 	"languages": [
 		"ja",
 		"en",

@@ -18,6 +18,7 @@
 		"Multiplayer"
 	],
 	"intro": "Tri, tri, tri again.\nTriangulate is a tactical tile game where two opponents place triangle-shaped tiles to out score one another.",
+	"description": "Tri, tri, tri again.\nTriangulate is a tactical tile game where two opponents place triangle-shaped tiles to out score one another.\n\nEvery turn each player scores points by placing a triangular tile anywhere on the grid to match one of three colours and shapes.\n\nPlayers balance optimal scoring and tactical tile placement - what might seem a good scoring tile now could be bad later if it allows your opponent better scoring potential.\n\nThe game ends when the board is full and a winner is usually declared (a draw is possible if both players are evenly matched).\n\nTriangulate features full controller support as well as on-demand colour changes with colour-blind palettes already present (plus some regular garish colour palettes).",
 	"languages": [
 		"en"
 	],

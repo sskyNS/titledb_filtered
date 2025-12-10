@@ -16,7 +16,8 @@
 		"Action",
 		"Shooter"
 	],
-	"intro": "Battle your way through 3 realms of 'Sector 781', a pixel art platformer. Upgrade your character and weapons; collect shards to increase your energy supply. Use teleports to navigate around the realms. Shoot things that move and some that don't move. Activate checkpoints to save your position.",
+	"intro": null,
+	"description": "Battle your way through 3 realms of 'Sector 781', a pixel art platformer. Upgrade your character and weapons; collect shards to increase your energy supply. Use teleports to navigate around the realms. Shoot things that move and some that don't move. Activate checkpoints to save your position.",
 	"languages": [
 		"en",
 		"es",

@@ -15,6 +15,7 @@
 		"Updates"
 	],
 	"intro": "Guide hungry ducklings through 30 levels full of challenges.",
+	"description": "Snack and Quack is a 2D pixel art puzzle game designed for casual players.\nThe goal is to guide all the ducklings to eat the scattered bread in each level. The game focuses on logical challenges and progressive difficulty across two distinct maps to keep players engaged.\n\nGame mechanics\nThe player controls the mother duck, who can move on a grid-based system and push the ducklings through the environment. Once pushed, the ducklings slide in a straight line until they hit an object or a special tile.\n\nMaps\nThe game features 30 levels divided across two different biomes: The Pond and The Swamp.\n\nPond: Introduces core mechanics and teaches the player how to change the ducklings' direction.\n\nSwamp: Introduces path-stopping tiles and increasingly complex puzzles with a growing number of ducklings.",
 	"languages": [
 		"en",
 		"pt"

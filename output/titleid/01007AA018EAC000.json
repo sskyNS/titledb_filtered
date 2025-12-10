@@ -14,7 +14,8 @@
 		"Shooter",
 		"Other"
 	],
-	"intro": "Destroy enemy spaceships and achieve the highest record!",
+	"intro": null,
+	"description": "Destroy enemy spaceships and achieve the highest record!",
 	"languages": [
 		"en"
 	],

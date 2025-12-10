@@ -16,6 +16,7 @@
 		"Other"
 	],
 	"intro": "Please debug this game.",
+	"description": "Note: This game only supports Japanese. English is not supported, so please be aware of this before playing.\n\n**About the Game**\nThis title lets you experience the task of \"debugging\" by finding bugs hidden within a game under development.\nPlayers will take on 8 challenges, each based on a scene from a fictional game.\n\nEach challenge contains intentionally placed bugs, and your objective is to find them and meet the specified conditions to clear the stage.\n\nHowever, simply playing normally won't be enough to uncover the bugs.\nTry out various actions and operations to track them down.\n\nOnce you've cleared all the challenges, your \"Debugger Rank\" will be displayed based on your overall performance.\nAim for the highest rank and take on the challenge!\n\nNote: All games featured in this title are fictional and have no relation to real existing games.",
 	"languages": [
 		"ja"
 	],

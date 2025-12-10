@@ -18,6 +18,7 @@
 		"Other"
 	],
 	"intro": "Operation Deep Sea Creature Capture.\nA puzzle game you keep catching the same character next to each other.",
+	"description": "This is a puzzle game you keep catching two or more characters next to each other. When the number of characters on the screen runs low, they are replenished from the right side of the screen, and the puzzle can be continued forever.\n\nIn the Special mode, various elements are added, such as obstructing blocks and helpful items.\n\nAn Arrange mode changing the character into simple image is also included.",
 	"languages": [
 		"ja",
 		"en",

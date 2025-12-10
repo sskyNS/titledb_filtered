@@ -14,7 +14,8 @@
 		"Study",
 		"Board Game"
 	],
-	"intro": "Wordbreaker is a code-breaking game using letters. Each word\u2019ll tell you which letters are used, and which are in the correct place.\n\nYour reward for solving each puzzle is a terrible joke!",
+	"intro": null,
+	"description": "Wordbreaker is a code-breaking game using letters. Each word\u2019ll tell you which letters are used, and which are in the correct place.\n\nYour reward for solving each puzzle is a terrible joke!",
 	"languages": [
 		"en"
 	],

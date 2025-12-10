@@ -16,7 +16,8 @@
 		"RPG",
 		"Adventure"
 	],
-	"intro": "Gloomhaven is a grim challenging Tactical RPG with 17 unique mercenaries and over 1000 abilities.",
+	"intro": null,
+	"description": "Gloomhaven is a grim challenging Tactical RPG with 17 unique mercenaries and over 1000 abilities.",
 	"languages": [
 		"en",
 		"es",

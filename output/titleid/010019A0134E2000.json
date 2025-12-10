@@ -11,7 +11,8 @@
 		"Arcade",
 		"Action"
 	],
-	"intro": "This game is very simple. Try to dodge all grey balls with your red ball as long as you can. The more balls come, the more difficult the game becomes.",
+	"intro": null,
+	"description": "This game is very simple. Try to dodge all grey balls with your red ball as long as you can. The more balls come, the more difficult the game becomes.",
 	"languages": [
 		"en"
 	],

@@ -17,7 +17,8 @@
 		"Other",
 		"Puzzle"
 	],
-	"intro": "Energy Invasion - an arcade game inspired by the classic Breakout. Unlike the original game, your ball does not break blocks on its own, but can launch missiles in a chosen direction.\n\nFeatures:\nA lot of bonuses (both useful and harmful)\nBright graphic effects\nLevels with dangerous enemies\nSoundtrack from Nick R 61\n25 levels in \"Invasion\" mode, 25 levels in \"Linear\" mode, \u221e levels in \"Endless\" mode",
+	"intro": null,
+	"description": "Energy Invasion - an arcade game inspired by the classic Breakout. Unlike the original game, your ball does not break blocks on its own, but can launch missiles in a chosen direction.\n\nFeatures:\nA lot of bonuses (both useful and harmful)\nBright graphic effects\nLevels with dangerous enemies\nSoundtrack from Nick R 61\n25 levels in \"Invasion\" mode, 25 levels in \"Linear\" mode, \u221e levels in \"Endless\" mode",
 	"languages": [
 		"en"
 	],

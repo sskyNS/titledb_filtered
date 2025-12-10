@@ -15,7 +15,8 @@
 		"Platformer",
 		"Adventure"
 	],
-	"intro": "  a a a a a a a a a a\na                            a\na                            a\na                            a\na                            a         a a\na                            a\n  a a a a a a a a a a     a a\n\nis a 2D-Platformer.\n\nFeatures:\n- Fast paced platforming gameplay\n- Top-down Overworld",
+	"intro": null,
+	"description": "  a a a a a a a a a a\na                            a\na                            a\na                            a\na                            a         a a\na                            a\n  a a a a a a a a a a     a a\n\nis a 2D-Platformer.\n\nFeatures:\n- Fast paced platforming gameplay\n- Top-down Overworld",
 	"languages": [
 		"en"
 	],

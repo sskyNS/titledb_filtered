@@ -15,7 +15,8 @@
 		"Education",
 		"Study"
 	],
-	"intro": "Make new words by changing one letter at a time. The goal is to turn one word into another using only a limited number of steps.\n\nYour reward? A free dad joke with each puzzle solved!\n",
+	"intro": null,
+	"description": "Make new words by changing one letter at a time. The goal is to turn one word into another using only a limited number of steps.\n\nYour reward? A free dad joke with each puzzle solved!\n",
 	"languages": [
 		"en"
 	],

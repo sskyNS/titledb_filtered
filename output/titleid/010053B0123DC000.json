@@ -14,7 +14,8 @@
 		"Strategy",
 		"Board Game"
 	],
-	"intro": "This new word puzzle is a mix of crosswords and sudoku, challenging both your vocabulary and your deduction skills.\n\nThere are 26 blank squares. Each letter of the alphabet must be placed exactly once in order to fill the grid with valid English words.\n\nReveal a terrible joke each time you solve a puzzle!\n",
+	"intro": null,
+	"description": "This new word puzzle is a mix of crosswords and sudoku, challenging both your vocabulary and your deduction skills.\n\nThere are 26 blank squares. Each letter of the alphabet must be placed exactly once in order to fill the grid with valid English words.\n\nReveal a terrible joke each time you solve a puzzle!\n",
 	"languages": [
 		"en"
 	],

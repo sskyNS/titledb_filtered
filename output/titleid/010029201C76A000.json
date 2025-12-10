@@ -14,7 +14,8 @@
 		"Action",
 		"Platformer"
 	],
-	"intro": "Stack Ball Run! is a 3D arcade game where you smash, push and jump over rotating spiral platforms to get to the end.",
+	"intro": null,
+	"description": "Stack Ball Run! is a 3D arcade game where you smash, push and jump over rotating spiral platforms to get to the end.",
 	"languages": [
 		"en"
 	],

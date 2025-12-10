@@ -13,7 +13,8 @@
 		"Education",
 		"Utility"
 	],
-	"intro": "A scientific calculator with a clear easy-to-read multi-line display, which should help with those not-so-easy-to-do maths problems. \n\nCalculator has an appealing modern and practical design, sure to be popular with all students and engineers.",
+	"intro": null,
+	"description": "A scientific calculator with a clear easy-to-read multi-line display, which should help with those not-so-easy-to-do maths problems. \n\nCalculator has an appealing modern and practical design, sure to be popular with all students and engineers.",
 	"languages": [
 		"en"
 	],

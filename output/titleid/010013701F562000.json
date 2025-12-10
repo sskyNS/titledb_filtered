@@ -15,6 +15,7 @@
 		"Simulation"
 	],
 	"intro": "This is an anomaly game. When you start you will be on level 0.  You will be presented with an area to study the layout of objects observe your surroundings and get familiar with it.",
+	"description": "The timer will start once you are ready to play. The correct decision will move you up a level and the incorrect decision will reset you back to the beginning. Observation is key.\n\nIf you don't find anomalies, choose the elevator that states no anomalies otherwise choose the elevator that states confirm anomalies.\n\nThis is a short game however, this does depend on the player for how high they want their highest score to be.",
 	"languages": [
 		"ja",
 		"en",

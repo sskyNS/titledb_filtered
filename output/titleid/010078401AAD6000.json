@@ -16,7 +16,8 @@
 		"Adventure",
 		"Puzzle"
 	],
-	"intro": "Join Hoppy in this classic action platformer as you collect candies, dodge enemies and jump. After all, you are a rabbit! ",
+	"intro": null,
+	"description": "Join Hoppy in this classic action platformer as you collect candies, dodge enemies and jump. After all, you are a rabbit! ",
 	"languages": [
 		"en",
 		"es",

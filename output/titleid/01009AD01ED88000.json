@@ -17,7 +17,8 @@
 		"Education",
 		"Study"
 	],
-	"intro": "Guess the 5-letter word in the 5 tries. If you don\u2019t, then you don\u2019t. You can try again.",
+	"intro": null,
+	"description": "Guess the 5-letter word in the 5 tries. If you don\u2019t, then you don\u2019t. You can try again.",
 	"languages": [
 		"en"
 	],

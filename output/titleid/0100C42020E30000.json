@@ -15,6 +15,7 @@
 		"Puzzle"
 	],
 	"intro": "A minimalist puzzler - color the grid with squares and rectangles",
+	"description": "Square Logic is a logic puzzle game where the goal is to fill the entire grid by drawing squares and rectangles. Each piece you place must contain exactly one number, which indicates how many tiles the piece must cover. The rules are simple, but finding all the solutions will challenge your mind.\n\nDevelop strategies to figure out how to solve more and more puzzles! Try and solve all 200!\n\nContents Include:\n* 200 levels to complete\n* Four grid sizes, ranging from 5x5 to 15x15\n* Easy levels for newcomers, as well as challenging levels for puzzle lovers\n* A minimalist design, with no score or timer to create pressure\n* Choose your aesthetic with 3 different color palettes as well as dark mode",
 	"languages": [
 		"ja",
 		"en",

@@ -15,6 +15,7 @@
 		"Strategy"
 	],
 	"intro": "Guess which army will win, and watch them fight for your amusement.",
+	"description": "Behold Battle is a simple auto battler, where you see heroes and monsters fight to the death in randomly generated battles.\n\nFeatures:\n\n\u25a0 A normal game mode that has 20 rounds with increasing army complexity. Guess correctly to continue, or game over if you are wrong too many times.\n\u25a0 A simulator where you create both armies and watch them battle.\n\u25a0 72 different units, some with unique attacks such as spawning undead minions.\n\u25a0 From small to gigantic battles, and many difficulties to test your prediction powers.\n\u25a0 Gold betting mode, and a spell mode where each side gets a random spell.\n\u25a0 Complete challenges to earn more spectators.",
 	"languages": [
 		"en",
 		"zh"

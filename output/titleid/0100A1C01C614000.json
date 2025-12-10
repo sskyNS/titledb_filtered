@@ -14,6 +14,7 @@
 		"Arcade"
 	],
 	"intro": "Best drop number tiles puzzle game!",
+	"description": "You place a tile that falls from the top of the grid. Each tile has a number 1\u20137, or a blank. \nWhenever the number of any tile matches the number of contiguous tiles in a row or column, that tile disappears and also hits any blank tiles it touches. The game ends when the uncleared tiles reach the top of the playing field. \n\nYou earn points by matching the number on a tile to the number of tiles in its row or column. \nNow let's up the difficulty a bit by introducing those white tiles that you see. These are solid tiles that crack when a tile explodes next to them. When you break the solid tile, it will reveal the hidden number inside!\n\n\nMusic, backgrounds, sounds, special effects\u2014everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: The longer the Chain Combo, the higher your points is!",
 	"languages": [
 		"en"
 	],

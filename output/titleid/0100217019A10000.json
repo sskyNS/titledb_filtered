@@ -14,6 +14,7 @@
 		"Puzzle"
 	],
 	"intro": "minimalistic Sokoban-based puzzle game",
+	"description": "CubicBan is a minimalistic Sokoban-based puzzle game where you need to move the cubes to their respective places.\nUse the triangle block to push the square blocks to the place with square sign in it. When you meet a round block you should push it to the place with round sign in it.\n\nYou can cancel all your moves.\n\nFeatures:\n-\t75 levels\n-\tbeautiful and relaxing atmosphere",
 	"languages": [
 		"en"
 	],

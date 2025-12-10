@@ -16,7 +16,8 @@
 		"Board Game",
 		"Other"
 	],
-	"intro": "Paint by Cubes is a colorful puzzle solving game. Take control of a painting cube and move in 4 possible directions, where each direction is locked to a particular color. Enter a field from a direction with a matching color to paint it and initiate special mechanics connected to it.\n\nStart with simple levels consisting of 3 or 5 fields and watch as the difficulty increases as you progress through the more and more complex mechanics. Unlock new painting mechanics and carefully think about each step, as any misdirection may lead to a series of incorrectly matched paint colors.",
+	"intro": null,
+	"description": "Paint by Cubes is a colorful puzzle solving game. Take control of a painting cube and move in 4 possible directions, where each direction is locked to a particular color. Enter a field from a direction with a matching color to paint it and initiate special mechanics connected to it.\n\nStart with simple levels consisting of 3 or 5 fields and watch as the difficulty increases as you progress through the more and more complex mechanics. Unlock new painting mechanics and carefully think about each step, as any misdirection may lead to a series of incorrectly matched paint colors.",
 	"languages": [
 		"es",
 		"fr",

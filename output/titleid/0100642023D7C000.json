@@ -17,7 +17,8 @@
 		"Platformer",
 		"Adventure"
 	],
-	"intro": "An attractive puzzle platformer where you use magnetism to escape a factory. Meet a cast of magnet characters and work together to solve logical conundrums.\n\nCreated by Mark Brown, owner of the popular YouTube channel Game Maker\u2019s Toolkit (GMTK), Mind Over Magnet is a blast for players of all ages and skill levels!\n\nEscape a dangerous factory using the power of magnetism. You must team up with three different magnet friends and use their unique abilities to solve more than 50 tricky single-screen puzzles.",
+	"intro": null,
+	"description": "An attractive puzzle platformer where you use magnetism to escape a factory. Meet a cast of magnet characters and work together to solve logical conundrums.\n\nCreated by Mark Brown, owner of the popular YouTube channel Game Maker\u2019s Toolkit (GMTK), Mind Over Magnet is a blast for players of all ages and skill levels!\n\nEscape a dangerous factory using the power of magnetism. You must team up with three different magnet friends and use their unique abilities to solve more than 50 tricky single-screen puzzles.",
 	"languages": [
 		"en",
 		"pt"

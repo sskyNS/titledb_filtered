@@ -14,6 +14,7 @@
 		"Simulation"
 	],
 	"intro": "You are trying to find room 96 but you are stuck in a loop. To find room 96, observe your surroundings and get familiar with it. ",
+	"description": "On floor 0 you will be presented with an area to study the layout of objects. The timer will start once you are ready to play. The correct decision will move you up a floor and the incorrect decision will reset you back to the beginning. Observation is key.\n\nIf you don't find anomalies, choose the elevator that states no anomalies otherwise choose the elevator that states confirm anomalies.",
 	"languages": [
 		"ja",
 		"en"

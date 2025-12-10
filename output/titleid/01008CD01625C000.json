@@ -15,6 +15,7 @@
 		"Action"
 	],
 	"intro": "Here is \u201cSedo\u201d, the world between living and dead.\nI'll get you back alive,\nonly if you can catch all the dolls.",
+	"description": "SEDOMAIRI is a first-person action horror game in which you wander through a randomly generated world that feels like an old Japanese house. Using a radio that can detect the distance and direction of enemies, escape from enemies, capture all straw figures, and escape from the \"Sedo\".\n\n- Gameplay\nYou have a radio. With this radio, you can detect the distance and direction from enemies and dolls.\nTry to catch all the straw dolls and survive from the \"Sedo\" while hiding from the children of the angel of death.\n\n- Gameplay built for fear.\nThe distance of the player's light, the distance of footsteps, the distance of the enemy's vision, and the distance at which the radio can detect the enemy are all calculated and set to create fear. This will cause you to experience the fear that they might be there.\n\n- Randomly generated maps\nMaps are randomly generated. This makes it possible to enjoy fresh play even after you played the game once.\n\n- Battery management for items\nThe player has a light and a radio. Both items are essential for exploring the map, but they have batteries that need to be recharged within a certain period of time. This system will invoke you a sense of urgency.\n\n- Support for gyro aiming\nIt supports viewpoint movement using the gyro sensor.\n",
 	"languages": [
 		"ja",
 		"en",

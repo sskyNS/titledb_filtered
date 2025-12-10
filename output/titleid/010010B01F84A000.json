@@ -16,6 +16,7 @@
 		"Study"
 	],
 	"intro": "Move the blocks with the same number to fuse them together.\nAs time goes by, the blocks will be added to the game, so ",
+	"description": "Grab the blocks with the same number and move them. The number of the fused blocks will be +1, and multiple blocks will be fused into one.\nBeware of the increasing number of blocks as time goes by and keep fusing them. The goal is 100!\n \nThere are 2 game modes.\nThere are two game modes: the mode with props and the mode without props.",
 	"languages": [
 		"ja",
 		"en",

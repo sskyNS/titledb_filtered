@@ -18,6 +18,7 @@
 		"Other"
 	],
 	"intro": "Combination of puzzle and turn-based roguelike mechanics. Destroy monsters, open chests! Smart moves are the key to survival!",
+	"description": "Different worlds with levels of increasing difficulty, sneaky monsters, unexpected obstacles and great treasures await you!\n\nThe hero can attack monsters when hero and monster are standing on neighboring square. Avoid being the first at a distance of impact! The hero can't skip turns, but can use level objects - or other monsters - to \u201cskip\u201d the turn.\n\nEvery game level is a puzzle with its own logical solution. Our experiments with game mechanics require a good understanding from the player how objects interact with each other in the game world.\n\nThe game has original game art style. You get a new playing experience where game mechanics are of maximum importance.",
 	"languages": [
 		"en",
 		"ru"

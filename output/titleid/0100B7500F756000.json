@@ -14,7 +14,8 @@
 		"Strategy",
 		"Puzzle"
 	],
-	"intro": "Minefield is a pretty simple game.\nOpen all the boxes without detonating bombs to finish the game.If u believe there is a bomb in the box,put a flag there.",
+	"intro": null,
+	"description": "Minefield is a pretty simple game.\nOpen all the boxes without detonating bombs to finish the game.If u believe there is a bomb in the box,put a flag there.",
 	"languages": [
 		"ja",
 		"en"

@@ -17,7 +17,8 @@
 		"Party",
 		"Music"
 	],
-	"intro": "Energy Cycle \u2013 new puzzle game from the developers of Energy Balance. When you click each cell on the game field - it changes color, and the colors of adjacent cells horizontally and vertically. Your task to bring all the cells to the same color. Sounds pretty easy, but try to do it!\n \nEnergy Cycle feature three modes for every taste:\nPuzzle\n(Without timer. Pre-designed puzzles.)\nTime Attack\n(With timer and scoring. Random puzzles.)\nInfinite Play\n(Without timer. Like \u2018Time Attack\u2019, but you can play it forever.)",
+	"intro": null,
+	"description": "Energy Cycle \u2013 new puzzle game from the developers of Energy Balance. When you click each cell on the game field - it changes color, and the colors of adjacent cells horizontally and vertically. Your task to bring all the cells to the same color. Sounds pretty easy, but try to do it!\n \nEnergy Cycle feature three modes for every taste:\nPuzzle\n(Without timer. Pre-designed puzzles.)\nTime Attack\n(With timer and scoring. Random puzzles.)\nInfinite Play\n(Without timer. Like \u2018Time Attack\u2019, but you can play it forever.)",
 	"languages": [
 		"en"
 	],

@@ -7,7 +7,8 @@
 	"category": [
 		"Action"
 	],
-	"intro": "This setup is for patch distribution and Gold Points calculation only. It's not visible in eShop since the title is available as retail version only.",
+	"intro": null,
+	"description": "This setup is for patch distribution and Gold Points calculation only. It's not visible in eShop since the title is available as retail version only.",
 	"languages": [
 		"ja",
 		"en",
