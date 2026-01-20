@@ -1,6 +1,6 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fea7480a7bba3d6e0025fc247c49da6be25bbe9e7cdbacbe8b6b77dd9f5404aa.jpg",
-	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/dfb3ccce924e494a8e39316f667b1ee2c0eaae0606e417234b5c51cc5854749a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6dc468fda96efc828e43bf118cb8528abb89d6ce5a583933bd0f3575be6654d9.jpg",
 	"publisher": "SuperPowerUpGames",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/e46c6d342947a101f8c7c49896a6338081ac466130c44c4e2ed234060ec008bd.jpg",
@@ -13,9 +13,9 @@
 	"releaseDate": 20251225,
 	"category": [
 		"Racing",
+		"Sports",
 		"Simulation",
-		"Arcade",
-		"Sports"
+		"Arcade"
 	],
 	"intro": "Get ready to feel the speed!",
 	"description": "In Hypercar Racing you'll enjoy the dirtiest, fastest, and most spectacular races at speeds over 200 Mp/h, avoiding multiple collisions against 8 adversaries. The game has different modes, such as Championship, Arcade, and 4-player multiplayer.\n\nOnline ranking chart where you can compare your best times with friends and players from all over the world.\n\nFeatures:\n\n-Arcade driving\n-4-Player Multiplayer\n-Online Ranking\n-Achievements",
@@ -25,5 +25,5 @@
 		"es"
 	],
 	"numberOfPlayers": 4,
-	"size": "715 MiB"
+	"size": "862 MiB"
 }

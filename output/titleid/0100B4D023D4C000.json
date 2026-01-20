@@ -1,20 +1,26 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0aa113ecc2956ac1baf7c9491027f2d63d5ce70a2f1c47c8b61f8d388d90a6.jpg",
-	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/380344f633738569f344eece517cf8eb5575ec11547bef84f37d930bd54caa7d.jpg",
-	"publisher": "DAEWON MEDIA Co.,Ltd.",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa8e3b7eeae4f7f5231ae33ea00fda71ada7ecc283111575656be703c8c5f75e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b83bbd8f1e3a92f2438ba51317217af06a975c3a8ec0ee72f7b0e17f97ac33ab.jpg",
+	"publisher": "DAEWON MEDIA",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/3d8054248262af1115cb7804dbd414857d592570ba04966475f4b13eaf769e5a.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/759d21ae46aa6109c9bd39d4dd2e752272a176056c850d64df195a48d1d7631c.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/995a10008fb6118b1dc685b7a163c3556e4dc8dc00c0182cd524bf7f637026af.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/1d5b51c5fc5a710719ef1e1ad227e2506d45b07959508299a9af5792aa6ebb5d.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/503032b1f750d8055831edb4e20bae584ce4ebe567c040bbe68c810fca001c7a.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/cbf8f46e5a7002b6ef80b4cdfa8d3ffb7c80cdff8b833fbe3728390751e6da39.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9f91ad9c6a20d45dd5a49b5f9b2a31ffd8306a1371903564d0cd0032fc77dfa7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d241b7b951072d0576c840e9d8ff4de5419266d99ee97937bed0201535b55c1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7077789df252f386b84f6d6bc1e9b8af60da6eca01ea24a8ce51a9be7d238e87.jpg"
 	],
-	"releaseDate": 20251016,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20251211,
+	"category": [
+		"RPG",
+		"\uc2dc\ubbac\ub808\uc774\uc158",
+		"\uc561\uc158",
+		"\uc804\ub7b5"
+	],
+	"intro": "\uc8fd\uc74c\uc758 \uc218\ub9cc\ud07c, \uac15\ud574\uc838\ub77c\n\uc5ec\ub7ec \u300c\ubcd1\ud589\uc138\uacc4\u300d\uac00 \uc874\uc7ac\ud558\ub294 \uc774\uc57c\uae30.",
+	"description": "\u300c\ub2c8\ub178\ubbf8\uc57c \uc2dc\uc774\ub098\u300d\uc640 \u300c\ubbf8\uc988\ub098\uc2dc \uc544\ub77c\ud0c0\u300d\uc758 \ud65c\uc57d\uc73c\ub85c\n\ubc84\uadf8\ud22c\uc131\uc774 \uc138\uacc4\uc5d0\uc11c \ud0c8\ucd9c\ud574\n\uc120\uc758\ub97c \ub418\ucc3e\uc740 \u300c\uc544\uc774\ub9ac\uc2a4\u300d\ub294,\n\ub3c5\uc790\uc801\uc778 \uc138\uacc4\ub97c \ub9cc\ub4e4\uc5b4\ub0b8\ub2e4.\n\n\uc5ec\uae30\ub294, \uc801\ub300\ud558\ub358\u00a0\uc790\ub4e4\uc774 \uc2f8\uc6c0\uc744 \uba48\ucd94\uace0 \uc628\uac16 \ud1b1\ub2c8\ubc14\ud034\uac00 \ub9de\ubb3c\ub9b0 \uc774\uc0c1\uc801\uc778 \uc138\uacc4.\n\n\ud558\uc9c0\ub9cc, \uc774 \uc138\uacc4\uc5d0\ub3c4 \uc0c8\ub85c\uc6b4 \uc704\ud611\uc774 \ub2e4\uac00\uc624\uace0 \uc788\uc5c8\ub2e4\u2015",
+	"languages": [
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"size": "Unknown"
+	"size": "4.84 GiB"
 }
