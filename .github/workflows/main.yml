@@ -1,49 +1,37 @@
 name: Run Python Script and Push Output
 
-# Controls when the action will run.
 on:
   schedule:
-    # Runs at the top of every hour (e.g., 1:00, 2:00, 3:00)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Grant GITHUB_TOKEN permissions to write to the repository
     permissions:
       contents: write
 
     steps:
-      # 1. Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 2. Set up the newest Python 3 version
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
-      # 3. Install the newest Git client
       - name: Install newest Git
         run: |
           sudo apt-get update
           sudo apt-get install git -y
 
-      # 4. Clone the titledb repository
-      # This will always clone the latest version of the 'master' branch
       - name: Clone TitleDB
         run: |
           git clone --depth 1 https://github.com/blawar/titledb.git
 
-      # 5. Run your Python script
       - name: Run Python script
         run: python script.py
 
-      # 6. Commit and push the files from the "output" folder
       - name: Push new files to repository
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -51,5 +39,5 @@ jobs:
           git add --ignore-removal output/
           git add --ignore-removal output2/
           timestamp=$(date -u)
-          git commit -m "Last update: $(timestamp)" || exit 0
+          git commit -m "Last update: ${timestamp}" || exit 0
           git push
