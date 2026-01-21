@@ -1,7 +1,7 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6337ecda8548d2dd1380e88b523fa8bbc10e057c21a5d46a3f060d0f11dd8e9f.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8be85d0aadbd5f9a7daa27a3ff7b01aaf27e369aaf6ff930b628c8ecf944a61d.jpg",
-	"publisher": "\u30e9\u30bf\u30e9\u30a4\u30ab\u30b2\u30fc\u30e0\u30b9",
+	"publisher": "Ratalaika Games",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/65694a099b7aeaa9ef293bfda796b1620f75fec0d564c26496823a0c7a7169a9.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/212fe7738c1668ac39366ca89af410269f9f7761efb4bc67ed5a6f009d486631.jpg",
@@ -12,10 +12,12 @@
 	],
 	"releaseDate": 20260109,
 	"category": [
-		"\u30d1\u30ba\u30eb"
+		"Puzzle",
+		"Multiplayer",
+		"Platformer"
 	],
-	"intro": "\u53ef\u611b\u3044\u6599\u7406\u306e\u52c7\u8005\u305f\u3061\u3068\u7f8e\u5473\u3057\u305d\u3046\u306a\u4e16\u754c\u3092\u5192\u967a",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002\n\n\u300eJelly & Toast\u300f\u306f\u98df\u3079\u7269\u3092\u30e2\u30c1\u30fc\u30d5\u306b\u3057\u305f\u52c7\u8005\u306e\u30b3\u30f3\u30d3\u3002\u304a\u6c17\u306b\u5165\u308a\u306e\u6599\u7406\u306b\u5fc5\u8981\u306a\u5927\u4e8b\u306a\u6750\u6599\u304c\u76d7\u307e\u308c\u3066\u3057\u307e\u3044\u3001\u305d\u308c\u3092\u53d6\u308a\u623b\u3059\u70ba\u306b\u304a\u8179\u3092\u7a7a\u304b\u305b\u306a\u304c\u3089\u5192\u967a\u3078\u3068\u304f\u308a\u51fa\u3057\u307e\u3059\u3002\n\n\u30d7\u30ec\u30a4\u30e4\u30fc\u306f\u3001\u30ed\u30fc\u30ab\u30eb\u5354\u529b\u30d7\u30ec\u30a4\u30681\u4eba\u30d7\u30ec\u30a4\u3092\u9078\u629e\u3057\u3001\u4ef2\u9593\u3068\u529b\u3092\u5408\u308f\u305b\u3066\u30d1\u30ba\u30eb\u3068\u98df\u3079\u7269\u306b\u6ea2\u308c\u305f\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3002\u8d70\u3063\u305f\u308a\u3001\u30b8\u30e3\u30f3\u30d7\u3057\u305f\u308a\u3001\u9053\u5177\u3092\u6295\u3052\u305f\u308a\uff08\u3042\u308b\u3044\u306f\u4ef2\u9593\u3092\u6295\u3052\u305f\u308a\uff1f\uff01\uff09\u3057\u306a\u304c\u3089\u5404\u30ec\u30d9\u30eb\u3092\u653b\u7565\u3057\u3088\u3046\u3002\n\n\u6575\u306e\u30b7\u30a7\u30d5\u306b\u7acb\u5411\u3044\u3001\u71b1\u304b\u3063\u305f\u308a\u3001\u92ed\u304b\u3063\u305f\u308a\u3059\u308b\u5371\u967a\u306a\u8abf\u7406\u30c8\u30e9\u30c3\u30d7\u3092\u56de\u907f\u3057\u3001\u30af\u30ec\u30a4\u30b8\u30fc\u306a\u6599\u7406\u30c1\u30e3\u30ec\u30f3\u30b8\u304c\u8a70\u307e\u3063\u305f3\u3064\u306e\u30ad\u30c3\u30c1\u30f3\u738b\u56fd\u3092\u5192\u967a\uff01\n\n\u7279\u5fb4:\n* 50\u30ec\u30d9\u30eb\n* \u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a2\u30af\u30b7\u30e7\u30f3\u30b2\u30fc\u30e0\n* \u30b7\u30f3\u30b0\u30eb\u30d7\u30ec\u30a4\u307e\u305f\u306f\u5354\u529b\u30de\u30eb\u30c1\u30d7\u30ec\u30a4\n* \u30ab\u30e9\u30d5\u30eb\u306a\u30d4\u30af\u30bb\u30eb\u30a2\u30fc\u30c8",
+	"intro": "Team up with cute culinary crusaders for tasty platform adventure",
+	"description": "Jelly & Toast are a team of food-based heroes who are hungry to recover the stolen magical ingredients used to cook their favorite entrees.\n\nChoose between local co-op multiplayer or solo mode, join forces, and embark on a challenging platform adventure full of puzzles and food. Run, jump, and throw projectiles (or even each other) to complete each level.\n\nOvercome enemy chefs, hot and sharp cooking hazards, and explore 3 kitchen kingdoms full of crazy culinary challenges!\n\n\nFeatures:\n* 50 different levels\n* Platform action gameplay\n* Single player or co-op multiplayer\n* Vibrant, colorful pixel art",
 	"languages": [
 		"en",
 		"pt",

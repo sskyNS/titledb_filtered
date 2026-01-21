@@ -3,21 +3,22 @@
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/34656ba20ceae4f923147fabe60dd9828ec602e47cac329584b1eaa67f8d7a08.jpg",
 	"publisher": "Eclipse Interactive",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/02b707d68554a12b00685e235c40fbe862a6bca879e0582093663040ae1c23bb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c686b4ddd536f9e170ce4143e7a26f01e6ba0b3d2d082626baf6babf4b52416b.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/3a5b53607119d4c372039700ddb8731f9b0512945bf4d08c668c2521f1511644.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/ee8dcf5f9f73abf0a38543c67454499b62a496a87bd1ad1327774020599462d1.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/cdf69ed84a513af036cfbdcc9ad4c73fb5338d516a2c5b5cbecc518252e67a0a.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/fecd57a6272feb56c078393892e76961daa216281641664c442d64be44eb1d32.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/c686b4ddd536f9e170ce4143e7a26f01e6ba0b3d2d082626baf6babf4b52416b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/02b707d68554a12b00685e235c40fbe862a6bca879e0582093663040ae1c23bb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee8dcf5f9f73abf0a38543c67454499b62a496a87bd1ad1327774020599462d1.jpg"
 	],
-	"releaseDate": 20251225,
+	"releaseDate": 20260108,
 	"category": [
-		"\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0",
-		"\u30a2\u30af\u30b7\u30e7\u30f3",
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+		"Shooter",
+		"Action",
+		"Simulation",
+		"Arcade"
 	],
-	"intro": "\u30e9\u30a4\u30f3\u3092\u5b88\u308c\u3002\u591c\u3092\u751f\u304d\u5ef6\u3073\u308d\u3002\u5ce1\u8c37\u3092\u9632\u885b\u305b\u3088\u3002",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002Zombie Gorge: Survival Defense \u306f\u3001\u72ed\u3044\u5c71\u5cb3\u5ce1\u8c37\u3092\u8feb\u308a\u304f\u308b\u30be\u30f3\u30d3\u306e\u5927\u7fa4\u304b\u3089\u5b88\u308a\u629c\u304f\u3001\u30a6\u30a7\u30fc\u30d6\u5236\u306e\u672c\u683c\u30a2\u30af\u30b7\u30e7\u30f3\u30c7\u30a3\u30d5\u30a7\u30f3\u30b9\u30b2\u30fc\u30e0\u3067\u3059\u3002\u9632\u885b\u65bd\u8a2d\u3092\u5efa\u8a2d\u3057\u3001\u6b66\u5668\u3092\u5f37\u5316\u3057\u3001\u5f37\u529b\u306a\u30b9\u30ad\u30eb\u3092\u89e3\u653e\u3057\u306a\u304c\u3089\u3001\u6b21\u3005\u3068\u8972\u3044\u304b\u304b\u308b\u30be\u30f3\u30d3\u3084\u30df\u30e5\u30fc\u30bf\u30f3\u30c8\u30dc\u30b9\u306b\u7acb\u3061\u5411\u304b\u304a\u3046\u3002\u591c\u3054\u3068\u306b\u96e3\u6613\u5ea6\u306f\u4e0a\u6607\u3057\u3001\u3059\u3079\u3066\u306e\u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\u304c\u751f\u5b58\u306e\u9375\u3068\u306a\u308b\u3002\n\u3042\u306a\u305f\u306f\u5ce1\u8c37\u3092\u5b88\u308a\u304d\u308c\u308b\u304b\u2026\u305d\u308c\u3068\u3082\u6b7b\u8005\u305f\u3061\u306b\u7a81\u7834\u3055\u308c\u308b\u306e\u304b\uff1f",
+	"intro": "Hold the line. Survive the night. Defend the Gorge",
+	"description": "Zombie Gorge: Survival Defense is an intense wave-based action shooter where you must protect a narrow mountain gorge from endless undead hordes. Build defenses, upgrade your weapons, unleash powerful abilities, and fight through escalating waves of zombies and mutated bosses. Every wave grows harder. Every upgrade matters.\nCan you hold the Gorge\u2026 or will the dead break through?",
 	"languages": [
 		"en"
 	],
