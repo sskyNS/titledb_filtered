@@ -2,42 +2,85 @@ name: Run Python Script and Push Output
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' 
   workflow_dispatch:
 
 jobs:
-  build:
+  update-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    outputs:
+      data_changed: ${{ steps.check_changes.outputs.data_changed }}
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Check Upstream Commit
+        id: check_upstream
+        run: |
+          LATEST_SHA=$(git ls-remote https://github.com/blawar/titledb.git HEAD | awk '{ print $1 }')
+          echo "Latest SHA: $LATEST_SHA"
+          
+          if [ -f "last_processed_sha.txt" ]; then
+            LAST_SHA=$(cat last_processed_sha.txt)
+          else
+            LAST_SHA=""
+          fi
+          
+          echo "Stored SHA: $LAST_SHA"
+          
+          if [ "$LATEST_SHA" == "$LAST_SHA" ]; then
+            echo "No updates found."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          else
+            echo "Updates found! Proceeding..."
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "current_sha=$LATEST_SHA" >> $GITHUB_OUTPUT
+          fi
+
       - name: Set up Python 3
+        if: steps.check_upstream.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
-      - name: Install newest Git
-        run: |
-          sudo apt-get update
-          sudo apt-get install git -y
-
       - name: Clone TitleDB
+        if: steps.check_upstream.outputs.should_run == 'true'
         run: |
           git clone --depth 1 https://github.com/blawar/titledb.git
 
       - name: Run Python script
+        if: steps.check_upstream.outputs.should_run == 'true'
         run: python script.py
 
       - name: Push new files to repository
+        id: push_changes
+        if: steps.check_upstream.outputs.should_run == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add --ignore-removal output/
-          git add --ignore-removal output2/
-          timestamp=$(date -u)
-          git commit -m "Last update: ${timestamp}" || exit 0
-          git push
+          
+          echo "${{ steps.check_upstream.outputs.current_sha }}" > last_processed_sha.txt
+          
+          git add output/ output2/ last_processed_sha.txt
+          
+          if git diff --staged --quiet; then
+            echo "Data processed but results are identical."
+            echo "data_changed=false" >> $GITHUB_OUTPUT
+          else
+            timestamp=$(date -u)
+            git commit -m "Update from blawar/titledb: ${timestamp}"
+            git push
+            echo "data_changed=true" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Set Job Output
+        id: check_changes
+        run: |
+          if [ "${{ steps.push_changes.outputs.data_changed }}" == "true" ]; then
+             echo "data_changed=true" >> $GITHUB_OUTPUT
+          else
+             echo "data_changed=false" >> $GITHUB_OUTPUT
+          fi
