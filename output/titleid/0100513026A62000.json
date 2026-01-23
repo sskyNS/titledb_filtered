@@ -10,15 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/5f47e4cc04b75f994b8e20cbb77249631d7a046af10d96f13285a3848768edfd.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/4a74158a6b645e92103c64815b3280eb01c002220bbcbb3a4f927d9c7f3fbbd5.jpg"
 	],
-	"releaseDate": 20260129,
+	"releaseDate": 20260127,
 	"category": [
-		"\u30d1\u30fc\u30c6\u30a3\u30fc",
-		"\u30a2\u30af\u30b7\u30e7\u30f3",
-		"\u683c\u95d8",
-		"\u30a2\u30fc\u30b1\u30fc\u30c9"
+		"Multiplayer",
+		"Party",
+		"Action",
+		"Fighting"
 	],
-	"intro": "\u6483\u3063\u305f\u76f8\u624b\u3092\u30cf\u30cd\u98db\u3070\u305b\uff01",
-	"description": "\u203b\u672c\u30bf\u30a4\u30c8\u30eb\u306f1\u4eba\u30d7\u30ec\u30a4\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002\n\n\u300eAstro Party EX\u300f\u306f\u3001\u30ed\u30fc\u30ab\u30eb\u30de\u30eb\u30c1\u30d7\u30ec\u30a4\u578b\u306e\u30c9\u30bf\u30d0\u30bf\u5b87\u5b99\u30d0\u30c8\u30eb\u30b2\u30fc\u30e0\uff01 \u6575\u306e\u8239\u3092\u6483\u3061\u843d\u3068\u3057\u3001\u30d1\u30a4\u30ed\u30c3\u30c8\u3092\u30cf\u30cd\u98db\u3070\u305b\u3070\u3001\u3082\u3046\u7b11\u3044\u306f\u6b62\u307e\u3089\u306a\u3044\u3002\u305f\u3060\u3057\u8981\u6ce8\u610f\uff01\u8239\u306f\u53f3\u306b\u3057\u304b\u66f2\u304c\u308c\u307e\u305b\u3093\uff08\u3048\u3047\uff5e\uff5e\uff5e\uff5e\uff01\uff1f\uff09\n\n\u2022 \u6700\u5927\uff14\u4eba\u30d7\u30ec\u30a4\n\u2022 \u30b7\u30f3\u30d7\u30eb\u306a\uff12\u30dc\u30bf\u30f3\u64cd\u4f5c\n\u2022 \u4f55\u3082\u304b\u3082\u58ca\u305b\u308b\u30a2\u30ea\u30fc\u30ca\n\u2022 \u30b9\u30bf\u30a4\u30ea\u30c3\u30b7\u30e5\u306a\u30c9\u30c3\u30c8\u7d75\u3068BGM",
+	"intro": "Shoot first, then run 'em over",
+	"description": "Astro Party EX is a chaotic local multiplayer space brawler. Blast enemy ships, run over pilots, and laugh while you do it. The twist? Ships can only turn right. (whaaaaa?)\n\n\u2022 Up to 4 players\n\u2022 Two-button controls\n\u2022 Fully destructible arenas\n\u2022 Stylish pixel art & music",
 	"languages": [
 		"ja",
 		"en",
@@ -33,5 +33,5 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
-	"size": "87 MiB"
+	"size": "132 MiB"
 }
