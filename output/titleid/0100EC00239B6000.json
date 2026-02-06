@@ -17,7 +17,11 @@
 	"intro": null,
 	"description": "From the creators of Teacup, Bubblegum Galaxy is a cozy narrative building game about rebuilding the galaxy by designing planets. Relax as you create colorful planets or spend hours trying to get a perfect score!\n\nBECOME A PLANET ARCHITECT\nYour small but trusty computer will allow you to design planets by placing tiles. To create efficient planets, the software will suggest missions such as connecting similarly colored tiles or a specific number of trees. Each planet has its own quirks and special rules you will have to master to do your best work yet!\n\nBEFRIEND YOUR CO-WORKERS\nIn-between planet designing sessions, you'll be free to roam the office, inspect your surroundings and chat with your co-workers. Encounter hundreds of unique story events as you get to know this quirky cast of characters.\n\nDISCOVER WHO DELETED THE GALAXY\nThe day you started your internship the inter-dimensional universe server crashed for \"unknown reasons\", deleting the entirety of the Bubblegum galaxy. If you prove your skill as a planet architect you just might find out the truth behind why the galaxy was deleted...",
 	"languages": [
-		"en"
+		"ja",
+		"en",
+		"es",
+		"zh",
+		"zh"
 	],
 	"numberOfPlayers": 1,
 	"size": "1.47 GiB"
