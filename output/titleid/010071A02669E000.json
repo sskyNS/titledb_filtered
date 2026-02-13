@@ -1,0 +1,25 @@
+{
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b50dbef6757235242624b7d980d8e689dc98fb7470d6c916d35cdd9673c8177c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f8a5d033056deafc7ce1cd7ec3da293839db26fdae7acb543be555b05cf2223c.jpg",
+	"publisher": "Afil Games",
+	"screenshots": [
+		"https://img-eshop.cdn.nintendo.net/i/660ee7179ab812b9c04aa305d60ccac1b2b9c0080ab7ea0bd70810cef861dcd9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/170959501c6396fe9cf37f68d98aa6aa8ec4aa88878e22a53c4ee9b83be1009d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6af183a80493937590b72edc4e707820d6fd9964aa9c3e28fc95521b3a2c4bf5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ecda0c9aa4794e26cf56f84c7c5619f49c9e37814f22b04627525de63af6487c.jpg"
+	],
+	"releaseDate": 20260219,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Trials of the Temari Dojo",
+	"description": "Temari Trials: Dojo\u2019s Test is a logic-focused puzzle game with charming pixel art where you guide a clever fox pushing temaris toward locked chests. Every hit removes a lock, and when a chest is fully unlocked, the level is cleared. Temaris can also push each other, allowing creative setups and surprising solutions for players who enjoy Japanese aesthetics and clever problem-solving.\n\nThe game features 30 handcrafted single-player stages with challenges that evolve based on how many hits each chest requires and how temaris can be positioned to reach them. You control a fox exploring levels filled with temaris and chests that range from 1 to 3 locks. Your goal is to plan the order and direction of every push while considering obstacles and placement.\n\nYou begin each stage by observing your options. Then you act, watch the result and use undo or restart if needed. When all locks are broken by hitting the chests with the correct temaris, the fox clears the mission and advances to the next challenge.",
+	"languages": [
+		"en",
+		"pt"
+	],
+	"numberOfPlayers": 1,
+	"size": "77 MiB"
+}
