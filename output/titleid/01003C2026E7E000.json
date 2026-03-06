@@ -1,7 +1,7 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4c7272134c86a6c90f1395aeb487244272d11d07d13620cc4361c82d44ed652e.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7fbea51cfb8fee3204c8e68a73adaa257c63659a9ef42fdc4a3becc2967fee84.jpg",
-	"publisher": "\u30e9\u30bf\u30e9\u30a4\u30ab\u30b2\u30fc\u30e0\u30b9",
+	"publisher": "Ratalaika Games",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/0ecfb07e41ed10d80af446c1bc07d3fb66ade19136a5e06d5f0c552565ad2c60.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/391a660ba303eae77a54efde0c5981512be8bf082283153ebd8e3f4d1ba1cf7e.jpg",
@@ -12,10 +12,11 @@
 	],
 	"releaseDate": 20260313,
 	"category": [
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+		"Adventure",
+		"Platformer"
 	],
-	"intro": "\u63a2\u7a76\u5fc3\u65fa\u76db\u306a\u30b9\u30e9\u30a4\u30e0\u304c\u4f1d\u8aac\u306e\u30d2\u30fc\u30ed\u30fc\u306b\u306a\u308b\uff1f\uff01\n",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002\n\n\u5e83\u5927\u306a\u9b54\u6cd5\u306e\u738b\u56fd\u3092\u5c0f\u3055\u306a\u30b9\u30e9\u30a4\u30e0\u304c\u81ea\u8eab\u3067\u9053\u3092\u5207\u308a\u958b\u304d\u306a\u304c\u3089\u9032\u3093\u3067\u3044\u304f\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b2\u30fc\u30e0\u3067\u3059\u3002\n\n\u90aa\u60aa\u306a\u300cLord Old Skull\u300d\u304c\u89e3\u304d\u653e\u305f\u308c\u3066\u3057\u307e\u3063\u305f\u3002\u305d\u3057\u3066\u4eca\u3001\u500b\u6027\u8c4a\u304b\u306a\u30b9\u30e9\u30a4\u30e0\u305f\u3061\u304c\u305d\u306e\u8105\u5a01\u306b\u7acb\u5411\u3046\u3002\u81ea\u8eab\u306e\u597d\u307f\u306b\u30ab\u30b9\u30bf\u30de\u30a4\u30ba\u3057\u305f\u30b9\u30e9\u30a4\u30e0\u304c\u7e70\u308a\u5e83\u3052\u308b\u5927\u5192\u967a\u3002\u591a\u5f69\u306a\u30d0\u30a4\u30aa\u30fc\u30e0\u3068\u624b\u306b\u6c57\u63e1\u308b\u30dc\u30b9\u30d0\u30c8\u30eb\u3001\u305d\u3057\u3066\u5206\u5c90\u30eb\u30fc\u30c8\u306e\u9078\u629e\u304c\u3001\u30b9\u30e9\u30a4\u30e0\u30b5\u30a4\u30ba\u306e\u4e16\u754c\u3092\u653b\u7565\u3059\u308b\u9375\u3068\u306a\u308b\u3002\n\n\u81ea\u5206\u306b\u3042\u3063\u305f\u30ec\u30d9\u30eb\u306b\u30c1\u30e3\u30ec\u30f3\u30b8\u3002\u30a2\u30a4\u30c6\u30e0\u3092\u7372\u5f97\u3057\u3001\u7d4c\u9a13\u3092\u7a4d\u307f\u3001\u30ec\u30c8\u30ed\u611f\u6e80\u8f09\u306e\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u3068\u30b5\u30a6\u30f3\u30c9\u3092\u582a\u80fd\u3057\u3088\u3046\u3002\n\n\n\u7279\u5fb4\n* \u591a\u5f69\u306a\u5206\u5c90\u30eb\u30fc\u30c8\u3092\u5099\u3048\u305f\u30a2\u30af\u30b7\u30e7\u30f3\u30b2\u30fc\u30e0\n* \u30b9\u30e9\u30a4\u30e0\u3092\u30ab\u30b9\u30bf\u30de\u30a4\u30ba\n* 4\u3064\u306e\u30d0\u30a4\u30aa\u30fc\u30e0\u3092\u5192\u967a\n* 4\u3064\u306e\u30dc\u30b9\u30d0\u30c8\u30eb\n* \u30a2\u30a4\u30c6\u30e0\u3084\u7d4c\u9a13\u5024\u3092\u7372\u5f97\n* \u30ec\u30c8\u30ed\u30b2\u30fc\u30e0\u98a8\u306a\u30d3\u30b8\u30e5\u30a2\u30eb\u3068\u30b5\u30a6\u30f3\u30c9",
+	"intro": "This adventurous slime is ready to become a legendary hero",
+	"description": "Slime your way though this platforming adventure about a brave little slime in a vast magical kingdom.\n\nThe evil menace known as Lord Old Skull has been freed, and now our colorful family of slimes must heed the call of heroism. Customize your slime, journey through diverse biomes, battle powerful bosses, and discover alternative branching paths in this slime-sized action quest.\n\nChoose your level of challenge while gaining items, building experience, and enjoying immersive retro graphics and sounds.\n\n\nFeatures\n* Platform action gameplay with alternate paths\n* Customize your slime\n* Explore 4 diverse biomes \n* Battle 4 epic bosses\n* Gain items and experience\n* Retro game visual and sound aesthetics",
 	"languages": [
 		"en",
 		"pt"
