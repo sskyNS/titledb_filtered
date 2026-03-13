@@ -1,24 +1,27 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ee989a848e30b8a5105f697fe02adf132d154f742e3a7c4bb4a5fabc62bcc8d.jpg",
-	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f2b1681949751f9d2e21cd64a3eabfe40b167b909d2b592b0c9c623077a20e5.jpg",
-	"publisher": "\u30e9\u30d7\u30e9\u30b7\u30a2\u30f3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d284d24520e280dc6cf1d8fd4a33f061f449d566e4feaa5cd388043799f7660.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/39801e80fb1277ee228bbfe7f4a1bcc02dc16a123be8fe6626d6ff3de0a54962.jpg",
+	"publisher": "Laplacian",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/40c5445f1d10351e7ac37716f1ab9a847893fcb7612953a9ad68902d0a05e5a4.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/5d394528877528e1303797fe854a7ed6102490c2b5a41cf47d7502f8669a0090.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/ac8ef2cd601467460d0b4fb72ad8f875ff1d0f4e57c9256a57ec37e503fa2c2b.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3c5355450c6772f591d347fcea39a9ed1430e05509fc5521644773a166195d29.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/ead027f483ccd7288e19d54c8aa14189a2c8f05ed6aee91b6d82dc58b7298f6c.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3a417f9d873f6f5e6936e925d6f06a6a84987785d96644720870838825acfcf2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/033e710d446bd3b94779753e42d68587545dce9520430fb6c06f734c72f485c7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/367619c57aa808ae0fb51c606d2de0c95c9e715c2c12cc2fb3f3484a96b2937f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2884d9f9e970005e52416fe953a131004bd1b2080fd3487191205369a35e377f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8387470aff50fe2e1586a71ff420d7b23d3207fc859b96ec379d34f83fec32fa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/80759ccaa4408ebee2d4e443c53a34c5f95930e79186982ef522780191be631d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/81ff78a459611f9388cca1fa0840565b12f2894908948b90995f341a53eb8be6.jpg"
 	],
-	"releaseDate": 20221117,
+	"releaseDate": 20260312,
 	"category": [
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+		"Adventure"
 	],
-	"intro": "\u4e16\u754c\u3068\u547c\u3070\u308c\u305f\u5c11\u5973\u306e\u7269\u8a9e\u2015\u2015",
-	"description": "\u3053\u306e\u7269\u8a9e\u306f\u3001\u4e16\u754c\u306b\u5168\u3066\u3092\u6367\u3052\u305f\u5c11\u5973\u3068\u4e00\u4eba\u306e\u9752\u5e74\u306e\u7d14\u611b\u7269\u8a9e\u3067\u3059\u3002\n\u30e9\u30f3\u30c0\u30e0\u306b\u958b\u59cb\u3055\u308c\u308b\u4e09\u3064\u306e\u30b9\u30c8\u30fc\u30ea\u30fc\u306f\u3001\u6700\u5f8c\u306b\u4e00\u3064\u306e\u7269\u8a9e\u306b\u53ce\u675f\u3055\u308c\u307e\u3059\u3002\n\u6700\u5f8c\u306e\u4e00\u6587\u3092\u8aad\u307f\u7d42\u308f\u3063\u305f\u3068\u304d\u306b\u3001\u7c21\u5358\u306b\u306f\u8a00\u8a9e\u5316\u3067\u304d\u306a\u3044\u611f\u60c5\u304c\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u4e2d\u306b\u6b8b\u308b\u3088\u3046\u3001\u30d3\u30b8\u30e5\u30a2\u30eb\u30ce\u30d9\u30eb\u3068\u3044\u3046\u8868\u73fe\u5a92\u4f53\u306e\u7279\u6027\u3092\u6d3b\u304b\u3057\u3001\u72c2\u304a\u3057\u3044\u7a0b\u306e\u7d14\u611b\u7269\u8a9e\u3092\u8ffd\u4f53\u9a13\u3067\u304d\u308b\u3088\u3046\u306b\u4f5c\u308a\u307e\u3057\u305f\u3002",
+	"intro": "The Girl Who Dreamed the World",
+	"description": "This is a pure love story between a young man and a girl who gave everything to the world.\nThree separate stories begin at random, ultimately converging into a single narrative.\nWe embraced the strengths of the visual novel format to create a maddeningly intense tale of pure love that lingers long after the final line.",
 	"languages": [
-		"ja"
+		"ja",
+		"en",
+		"zh",
+		"zh"
 	],
 	"numberOfPlayers": 1,
-	"size": "5.08 GiB"
+	"size": "6.03 GiB"
 }
