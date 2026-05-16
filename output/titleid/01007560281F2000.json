@@ -3,21 +3,21 @@
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ef0e30e478f472d7e674cfe6e00d0956ebb765a4f9e6fdd6d9ac463a57af6264.jpg",
 	"publisher": "TERNOX",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/3fee78e82fd8a3241361ababb85b22af2b4a4b4f9ef9a3c2ad920bf446cbe94e.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/c9abdb7db2cfdec6f6e8a44e2aa769873d4edecda50554130503d4e54c3a9093.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/fb4f30d23ef4dc50d17c098f73b74103ad065031dea7df76f343f89803603208.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3380bb1d0f2137ada0a29dee752aa85145cb03fa66a567412ab3172fee9dc7bc.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/0846296699b60bd4b7a3d58279eece980eac2501f56554435beaf49f0c28935b.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/7f3b1adaa09fc3b31ee20ef347738329081b643f22ae76827d723cdcaea5e4fd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a008509888ff40587217f2215c0525acde690949567efc493112e9d56786d9e4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/37e730deb41655fda4334ec3c890de97834a9864f5cc0957927d05f269df8c7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8a857b01a24e7a6183b16777fcad4f8ad35be3ed9a55962c697892b485d7919f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a28466c581890c6e9abe1e73ad8af3de923c5eb80cba3100d80d72685a51fa13.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b3173f21ca350e177b8180cd57219ab0cc29ce30569408529842d9dfd45bdfe0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/76b5e6422d9702f448b8d9b826ca7ef95ff76495060e5ef6315a0c5c13e05c3b.jpg"
 	],
-	"releaseDate": 20260514,
+	"releaseDate": 20260505,
 	"category": [
-		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
-		"\u30a2\u30fc\u30b1\u30fc\u30c9",
-		"\u30d1\u30ba\u30eb"
+		"Strategy",
+		"Puzzle",
+		"Arcade"
 	],
-	"intro": "\u30bf\u30fc\u30f3\u5236\u30b0\u30ea\u30c3\u30c9\u30ed\u30fc\u30b0\u30e9\u30a4\u30c8\u3002",
-	"description": "Dungeonloop\u306f\u3001\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3073\u306b\u5c55\u958b\u304c\u7570\u306a\u308b\u30bf\u30fc\u30f3\u5236\u30ed\u30fc\u30b0\u30e9\u30a4\u30c8\u30b2\u30fc\u30e0\u3067\u3059\u3002\u30b0\u30ea\u30c3\u30c9\u4e0a\u3092\u79fb\u52d5\u3057\u3001\u4e88\u6e2c\u4e0d\u80fd\u306a\u6575\u3068\u6226\u3044\u3001\u5f37\u529b\u306a\u30a2\u30fc\u30c6\u30a3\u30d5\u30a1\u30af\u30c8\u3092\u96c6\u3081\u3001\u30e9\u30f3\u30c0\u30e0\u30a8\u30f3\u30ab\u30a6\u30f3\u30c8\u306b\u3088\u3063\u3066\u5909\u5316\u3059\u308b\u6226\u7565\u3092\u99c6\u4f7f\u3057\u3066\u9032\u3093\u3067\u3044\u304d\u307e\u3057\u3087\u3046\u3002\u305d\u308c\u305e\u308c\u72ec\u81ea\u306e\u96f0\u56f2\u6c17\u3068\u30dc\u30b9\u3092\u6301\u30643\u3064\u306e\u500b\u6027\u7684\u306a\u30ed\u30b1\u30fc\u30b7\u30e7\u30f3\u3092\u63a2\u7d22\u3057\u3001\u30eb\u30fc\u30d7\u306e\u5965\u6df1\u304f\u3078\u3068\u9032\u3080\u306b\u3064\u308c\u3066\u3001\u72ec\u81ea\u306e\u88c5\u5099\u3092\u69cb\u7bc9\u3057\u3066\u3044\u304d\u307e\u3059\u3002",
+	"intro": "Turn-based grid roguelite.",
+	"description": "Dungeonloop is a turn-based roguelite where every run plays out differently. Move and act on a grid, battle unpredictable enemies, collect powerful artifacts, and adapt your strategy as random encounters shape your path. Explore three distinct locations - each with its own atmosphere and boss - and build unique loadouts as you fight deeper into the loop.",
 	"languages": [
 		"ja",
 		"en",

@@ -10,14 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/d4c76498bd702308e88636702eaf0368d0e146465f30b1ae9f877650cf0cbfff.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/f15d515d27124b64e14027ccfde3267e09d47e8f9a49423e77689357c3d57dbd.jpg"
 	],
-	"releaseDate": 20260507,
+	"releaseDate": 20260424,
 	"category": [
-		"\u30a2\u30fc\u30b1\u30fc\u30c9",
-		"\u30a2\u30af\u30b7\u30e7\u30f3",
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc"
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Arcade"
 	],
-	"intro": "\u30b8\u30e3\u30f3\u30d7\u3002\u53ce\u96c6\u3002\u751f\u5b58\u3002",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\nRobo Hop \u306f\u3001\u6eb6\u5ca9\u306e\u7a74\u3001\u6d6e\u5cf6\u3001\u30c8\u30ea\u30c3\u30ad\u30fc\u306a\u969c\u5bb3\u7269\u306b\u6e80\u3061\u305f\u9bae\u3084\u304b\u306a\u4e16\u754c\u3092\u63a2\u7d22\u3059\u308b\u3001\u52c7\u6562\u306a\u5c0f\u578b\u30ed\u30dc\u30c3\u30c8\u3092\u64cd\u4f5c\u3059\u308b\u30da\u30fc\u30b9\u306e\u901f\u30443D\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30de\u30fc\u3067\u3059\u3002\u30b8\u30e3\u30f3\u30d7\u3057\u3066\u56de\u907f\u3057\u3001\u5149\u308b\u30ae\u30a2\u3092\u96c6\u3081\u306a\u304c\u3089\u3001\u6d6e\u904a\u3059\u308b\u6575\u3068\u6226\u3044\u3001\u7cbe\u5bc6\u306a\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u8ab2\u984c\u3092\u30de\u30b9\u30bf\u30fc\u3057\u307e\u3057\u3087\u3046\u3002",
+	"intro": "Jump. Collect. Survive.",
+	"description": "Robo Hop is a fast-paced 3D platformer where you control a brave little robot exploring vibrant worlds filled with lava pits, floating islands, and tricky obstacles. Jump, dodge, and collect glowing gears while battling hovering enemies and mastering precise platforming challenges. Every level tests your timing, reflexes, and curiosity as you hop your way to victory.",
 	"languages": [
 		"en"
 	],

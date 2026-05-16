@@ -8,14 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/7eee8bb8157a0b9f1fdbc268d09408ea29813fe2470d54e0702d5e3fb94fb6a1.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/9b3c4b8ac28be961ce12c5a7cf1d0a3dececcde29ede6b17519ed92789b14f92.jpg"
 	],
-	"releaseDate": 20260402,
+	"releaseDate": 20260404,
 	"category": [
-		"\u30d1\u30ba\u30eb",
-		"\u5b66\u7fd2",
-		"\u305d\u306e\u4ed6"
+		"Puzzle",
+		"Education",
+		"Study",
+		"Other"
 	],
-	"intro": "\u8a08\u7b97\u3057\u3066\u3001\u89e3\u3053\u3046\uff01",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002\n\nMathify\u306f\u3001\u6570\u5b66\u3092\u697d\u3057\u304f\u6e80\u8db3\u611f\u306e\u3042\u308b\u30d1\u30ba\u30eb\u30c1\u30e3\u30ec\u30f3\u30b8\u306b\u5909\u3048\u308b\u30b2\u30fc\u30e0\u3067\u3059\uff01\u6570\u5b57\u3068\u6f14\u7b97\u5b50\u3092\u6b63\u3057\u3044\u9806\u756a\u3067\u3064\u306a\u3052\u3066\u76ee\u6a19\u306e\u6570\u5024\u3092\u4f5c\u308a\u3001\u5404\u30ec\u30d9\u30eb\u3092\u30af\u30ea\u30a2\u3057\u307e\u3057\u3087\u3046\u3002\n\n\u30b7\u30f3\u30d7\u30eb\u3067\u899a\u3048\u3084\u3059\u304f\u3001\u6975\u3081\u308b\u307b\u3069\u3084\u308a\u304c\u3044\u304c\u3042\u308a\u307e\u3059\u3002\u8ad6\u7406\u529b\u3001\u7d20\u65e9\u3044\u601d\u8003\u3001\u305d\u3057\u3066\u5275\u9020\u7684\u306a\u554f\u984c\u89e3\u6c7a\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u30b2\u30fc\u30e0\u3067\u3059\u3002\u3059\u3063\u304d\u308a\u3057\u305f\u30d3\u30b8\u30e5\u30a2\u30eb\u3068\u30b9\u30e0\u30fc\u30ba\u306a\u30b2\u30fc\u30e0\u30d7\u30ec\u30a4\u3001\u5f90\u3005\u306b\u96e3\u3057\u304f\u306a\u308b\u30d1\u30ba\u30eb\u306b\u3088\u308a\u3001\u77ed\u3044\u30d7\u30ec\u30a4\u306b\u3082\u982d\u306e\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u306b\u3082\u6700\u9069\u3067\u3059\u3002",
+	"intro": "Math it - Solve it!",
+	"description": "Mathify turns math into a fun and satisfying puzzle challenge! Connect numbers and operations in the right order to build the target value and solve each level.\n\nEasy to learn and rewarding to master, the game mixes logic, quick thinking, and creative problem-solving. With clean visuals, smooth gameplay, and gradually more challenging puzzles, Mathify is perfect for both short sessions and brain-training fun.\n",
 	"languages": [
 		"en"
 	],

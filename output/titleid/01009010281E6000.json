@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/566e1d9bb99dda55040244d7a376fe902d5d95920e5328bb2e48f58e4854e550.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/26084343b058c34ea7703d21e6c12ee800f4ef8aefe890c47b83f73475a843fd.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bd511a55643404f3252616d5e35bcc47e5257e4e8229b6f4e9085b549b0cbb2.jpg",
 	"publisher": "HERO GAME",
 	"screenshots": [
@@ -7,15 +7,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/1d06bf95d6677b022e907391061ba20630a2cc2bee224586578eaecff31f3e49.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/206b1cde5bbc6bc13bf973285502f96afca7dfb2932ad39a7d31f5658b264d7c.jpg"
 	],
-	"releaseDate": 20260514,
+	"releaseDate": 20260507,
 	"category": [
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-		"\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3",
-		"\u30d1\u30fc\u30c6\u30a3\u30fc"
+		"Adventure",
+		"Simulation",
+		"Communication",
+		"Party"
 	],
-	"intro": "\u52c7\u6c17\u306e\u63a8\u7406\u6d77\u82d4\u304b\u3089\u4e09\u5e74\u5f8c\u306e\u4e16\u754c",
-	"description": "\u4e3b\u4eba\u516c\u304c\u7f8e\u54b2\u306b\u5909\u308f\u308a\u307e\u3057\u305f\u3002\n\u7121\u6cd5\u5730\u5e2f\u3068\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u6e21\u6d77\u8857\u3002\n\u3053\u3053\u304b\u3089\u65b0\u305f\u306a\u7269\u8a9e\u304c\u63cf\u304b\u308c\u307e\u3059\u3002",
+	"intro": "A World Three Years After Courage's Deductive Nori",
+	"description": "Misaki struggles in Togai Street, which has become a lawless zone.",
 	"languages": [
 		"ja"
 	],

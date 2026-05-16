@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/72f8833bafc983b331c7f27fc1ba2e73bc1f22e7d816c3602c1d5e1140563187.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3087c32eeb0ae7c8c97c20955ac873614b4f25bb2a249b42de6f9e7af22e1a73.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/98c8aff688bcb261b0a76c6e4b4a3a36e25d24d3739215449c6a9a0e077f0a0c.jpg",
 	"publisher": "Take IT Studio!",
 	"screenshots": [
@@ -12,13 +12,13 @@
 	],
 	"releaseDate": 20260430,
 	"category": [
-		"\u30a2\u30fc\u30b1\u30fc\u30c9",
-		"\u30a2\u30af\u30b7\u30e7\u30f3",
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-		"\u30c6\u30fc\u30d6\u30eb"
+		"Adventure",
+		"Platformer",
+		"Puzzle",
+		"Action"
 	],
-	"intro": "\u3042\u306a\u305f\u306e\u4efb\u52d9\u306f\u5358\u7d14\u3060\uff1a\u5404\u968e\u3067\u5947\u5999\u306a\u73fe\u8c61\u3092\u8abf\u67fb\u305b\u3088\u3002",
-	"description": "\u672a\u77e5\u306e\u5efa\u7bc9\u5bb6\u304c\u8a2d\u8a08\u3057\u305f\u8b0e\u306e\u30d3\u30eb\u3067\u8b66\u5099\u54e1\u3068\u3057\u3066\u52e4\u52d9\u3059\u308b\u521d\u65e5\u3002\u5e83\u5927\u306a\u968e\u6bb5\u5ba4\u306e\u4e2d\u3067\u3001\u5831\u544a\u3055\u308c\u305f\u5947\u5999\u306a\u73fe\u8c61\u3092\u5404\u968e\u3067\u8abf\u67fb\u3059\u308b\u4efb\u52d9\u304c\u8ab2\u305b\u3089\u308c\u3066\u3044\u308b\u3002\u30d3\u30eb\u5185\u3092\u9032\u307f\u3001\u767a\u898b\u3057\u305f\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u614e\u91cd\u306b\u9032\u884c\u65b9\u5411\u3092\u9078\u629e\u305b\u3088\u3002\n\n\u904a\u3073\u65b9\uff1a\n\u5168\u3066\u304c\u6b63\u5e38\u306a\u3089\u3001\u4e0a\u968e\u3078\u9032\u3080\u3002\n\u7570\u5e38\u3092\u767a\u898b\u3057\u305f\u3089\u3001\u3059\u3050\u306b\u4e0b\u3078\u964d\u308a\u308b\u3002\n\u7570\u5e38\u3092\u898b\u9003\u3057\u3059\u304e\u306a\u3044\u3088\u3046\u306b\u3002\n\n\u672c\u4f5c\u306f\u300c\u7570\u5e38\u30eb\u30fc\u30d7\u578b\u30b2\u30fc\u30e0\u300d\u306b\u7740\u60f3\u3092\u5f97\u305f\u5fc3\u7406\u30db\u30e9\u30fc\u3067\u3001\u5de8\u5927\u306a\u5782\u76f4\u7a7a\u9593\u3068\u3044\u3046\u65b0\u305f\u306a\u6b21\u5143\u3092\u63d0\u4f9b\u3059\u308b\u3002\u5168\u96e3\u6613\u5ea6\u306750\u4ee5\u4e0a\u306e\u7570\u5e38\u3092\u767a\u898b\u53ef\u80fd\u3002\u30b2\u30fc\u30e0\u30af\u30ea\u30a2\u5f8c\u306b\u306f\u672a\u767a\u898b\u306e\u7570\u5e38\u6570\u304c\u8868\u793a\u3055\u308c\u308b\u3002\u672a\u767a\u898b\u306e\u7570\u5e38\u306f\u901a\u5e38\u3001\u512a\u5148\u7684\u306b\u51fa\u73fe\u3059\u308b\u3002\n\n\u30d7\u30ec\u30a4\u96e3\u5ea6\u306f\u81ea\u7531\u306b\u30ab\u30b9\u30bf\u30de\u30a4\u30ba\u53ef\u80fd\u3002\u60aa\u5922\u30e2\u30fc\u30c9\u3067\u306f\u6ce8\u610f\uff1a\u7167\u660e\u306f\u6d88\u3048\u3066\u3044\u308b\u3002\u308d\u3046\u305d\u304f\u306e\u660e\u304b\u308a\u3060\u3051\u3067\u3001\u5b8c\u5168\u306a\u6697\u95c7\u306e\u4e2d\u304b\u3089\u7570\u5e38\u3092\u767a\u898b\u3067\u304d\u308b\u304b\uff1f",
+	"intro": null,
+	"description": "It's your first day as a security officer in a mysterious building designed by an unknown architect. Within its vast stairwell, you are tasked with inspecting the floors for reported strange phenomena. Make your way through the building and carefully choose which way to go based on your findings.\n\nHow to Play?\nIf everything is normal, proceed upstairs.\nIf you notice an anomaly, go downstairs, quickly.\nDo not miss too many anomalies.\n\nThe Stairwell is a psychological horror game inspired by anomaly loop games such as The Exit 8, with a new vertical dimension of massive scale. There are over 50 anomalies to uncover between all difficulties. You can see how many are left to find after you win a game. Anomalies that you haven't seen will usually appear first.\n\nChoose Your Difficulty\n\nCustomize the difficulty of your playthrough. In nightmare mode, beware: the lights are out. Can you find anomalies in total darkness with your candle?",
 	"languages": [
 		"ja",
 		"en",
