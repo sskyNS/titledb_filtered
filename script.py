@@ -6,67 +6,15 @@ import glob
 from pathlib import Path
 
 files = [
-    "US.en",
-    "GB.en",
-    "JP.ja",
-    "FR.fr",
-    "DE.de",
-    "ES.es",
-    "IT.it",
-    "NL.nl",
-    "CA.fr",
-    "PT.pt",
-    "RU.ru",
-    "KR.ko",
-    "HK.zh",
-    "BR.pt",
-    
-    "PL.en",
-    "AR.en",
-    "AR.es",
-    "AT.de",
-    "AU.en",
-    "BE.fr",
-    "BE.nl",
-    "BG.en",
-    "BR.en",
-    "CA.en",
-    "CH.de",
-    "CH.fr",
-    "CH.it",
-    "CL.en",
-    "CL.es",
-    "CN.en",
-    "CN.zh",
-    "CO.en",
-    "CO.es",
-    "CY.en",
-    "CZ.en",
-    "DK.en",
-    "EE.en",
-    "FI.en",
-    "GR.en",
-    "HR.en",
-    "HU.en",
-    "IE.en",
-    "IL.en",
-    "JP.en",
-    "LT.en",
-    "LU.de",
-    "LU.fr",
-    "LV.en",
-    "MT.en",
-    "MX.en",
-    "NO.en",
-    "NZ.en",
-    "PE.en",
-    "PE.es",
-    "RO.en",
-    "SE.en",
-    "SI.en",
-    "SK.en",
-    "US.es",
-    "ZA.en"
+    "US.en", "GB.en", "JP.ja", "FR.fr", "DE.de", "ES.es", "IT.it", 
+    "NL.nl", "CA.fr", "PT.pt", "RU.ru", "KR.ko", "HK.zh", "BR.pt",
+    "PL.en", "AR.en", "AR.es", "AT.de", "AU.en", "BE.fr", "BE.nl", 
+    "BG.en", "BR.en", "CA.en", "CH.de", "CH.fr", "CH.it", "CL.en", 
+    "CL.es", "CN.en", "CN.zh", "CO.en", "CO.es", "CY.en", "CZ.en", 
+    "DK.en", "EE.en", "FI.en", "GR.en", "HR.en", "HU.en", "IE.en", 
+    "IL.en", "JP.en", "LT.en", "LU.de", "LU.fr", "LV.en", "MT.en", 
+    "MX.en", "NO.en", "NZ.en", "PE.en", "PE.es", "RO.en", "SE.en", 
+    "SI.en", "SK.en", "US.es", "ZA.en"
 ]
 
 shutil.rmtree("output/titleid", ignore_errors=True)
@@ -129,7 +77,6 @@ for x in range(len(files)):
             LIST_REGIONS[entry_id] = [files[x][0:2]]
             added.append(entry_id)
         
-        # 提取新增的字段
         entry_output = {}
         entry_output["bannerUrl"] = DUMP[keys[i]]["bannerUrl"]
         entry_output["iconUrl"] = DUMP[keys[i]]["iconUrl"]
@@ -137,22 +84,16 @@ for x in range(len(files)):
         entry_output["screenshots"] = DUMP[keys[i]]["screenshots"]
         entry_output["releaseDate"] = DUMP[keys[i]]["releaseDate"]
         
-        # 提取游戏类型(category)
         entry_output["category"] = DUMP[keys[i]].get("category", [])
-        
-        # 提取游戏介绍(intro)
         entry_output["intro"] = DUMP[keys[i]].get("intro", "")
-        
-        # 提取游戏详细描述(description) - 新增
         entry_output["description"] = DUMP[keys[i]].get("description", "")
-        
-        # 提取游戏语言(languages)
         entry_output["languages"] = DUMP[keys[i]].get("languages", [])
-        
-        # 提取最大游玩人数(numberOfPlayers)
         entry_output["numberOfPlayers"] = DUMP[keys[i]].get("numberOfPlayers", 1)
         
-        # 保持原有的size处理逻辑
+        entry_output["rating"] = DUMP[keys[i]].get("rating", "Unknown")
+        entry_output["ratingContent"] = DUMP[keys[i]].get("ratingContent", [])
+        entry_output["dlcs"] = DUMP[keys[i]].get("dlcs", DUMP[keys[i]].get("dlc", []))
+        
         if (DUMP[keys[i]]["size"] == 0):
             entry_output["size"] = "Unknown"
         elif (DUMP[keys[i]]["size"] < 1024*1024*1024):
@@ -181,7 +122,6 @@ for i in range(len(missing_games)):
     else:
         LIST[titleid] = [DUMP["name"]]
     
-    # 处理缺失游戏的数据提取
     entry_output = {}
     entry_output["bannerUrl"] = DUMP.get("bannerUrl", "")
     entry_output["iconUrl"] = DUMP.get("iconUrl", "")
@@ -189,17 +129,18 @@ for i in range(len(missing_games)):
     entry_output["screenshots"] = DUMP.get("screenshots", [])
     entry_output["releaseDate"] = DUMP.get("releaseDate", "")
     
-    # 提取新增的字段
     entry_output["category"] = DUMP.get("category", [])
     entry_output["intro"] = DUMP.get("intro", "")
     entry_output["description"] = DUMP.get("description", "")
     entry_output["languages"] = DUMP.get("languages", [])
     entry_output["numberOfPlayers"] = DUMP.get("numberOfPlayers", 1)
-    
+    entry_output["rating"] = DUMP.get("rating", "Unknown")
+    entry_output["ratingContent"] = DUMP.get("ratingContent", [])
+    entry_output["dlcs"] = DUMP.get("dlcs", DUMP.get("dlc", []))
+
     if (("size" not in DUMP.keys()) or (DUMP["size"] == 0) or (DUMP["size"] == None)):
         entry_output["size"] = "Unknown"
     else: 
-        # 如果size是数字，转换为合适的格式
         if isinstance(DUMP["size"], (int, float)):
             if DUMP["size"] < 1024*1024*1024:
                 entry_output["size"] = "%.0f MiB" % (DUMP["size"] / (1024*1024))
@@ -219,16 +160,19 @@ json.dump(LIST, new_file, ensure_ascii=False)
 new_file.close()
 with lzma.open("output/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST, ensure_ascii=False).encode("UTF-8"))
+
 new_file = open("output2/main.json", "w", encoding="UTF-8")
 json.dump(LIST2, new_file, ensure_ascii=False)
 new_file.close()
 with lzma.open("output2/main.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST2, ensure_ascii=False).encode("UTF-8"))
+
 new_file = open("output/main_regions.json", "w", encoding="UTF-8")
 json.dump(LIST_REGIONS, new_file, ensure_ascii=False)
 new_file.close()
 with lzma.open("output/main_regions.json.xz", "w", format=lzma.FORMAT_XZ) as f:
     f.write(json.dumps(LIST_REGIONS, ensure_ascii=False).encode("UTF-8"))
+
 new_file = open("output2/main_regions.json", "w", encoding="UTF-8")
 json.dump(LIST2_REGIONS, new_file, ensure_ascii=False)
 new_file.close()
