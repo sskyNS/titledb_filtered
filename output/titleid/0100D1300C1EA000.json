@@ -33,5 +33,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Language",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "2.13 GiB"
 }

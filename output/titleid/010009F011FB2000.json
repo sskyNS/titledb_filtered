@@ -26,5 +26,13 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Language",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "537 MiB"
 }

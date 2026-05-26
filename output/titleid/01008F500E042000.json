@@ -28,5 +28,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 6,
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Violent References",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "721 MiB"
 }

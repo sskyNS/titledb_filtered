@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Drug Reference",
+		"Simulated Gambling",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "2.36 GiB"
 }

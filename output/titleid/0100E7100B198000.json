@@ -27,5 +27,12 @@
 		"pt"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Comic Mischief",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.92 GiB"
 }

@@ -25,5 +25,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Mild Violence"
+	],
+	"dlcs": [],
 	"size": "360 MiB"
 }

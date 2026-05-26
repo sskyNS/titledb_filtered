@@ -32,5 +32,17 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Partial Nudity",
+		"Sexual Content",
+		"Strong Language",
+		"Violence",
+		"Users Interact",
+		"Digital Purchases"
+	],
+	"dlcs": [],
 	"size": "541 MiB"
 }

@@ -28,5 +28,15 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Language",
+		"Mild Suggestive Themes",
+		"Use of Alcohol",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "6.08 GiB"
 }

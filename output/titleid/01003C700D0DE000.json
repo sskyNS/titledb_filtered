@@ -29,5 +29,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Mild Fantasy Violence",
+		"Use of Alcohol and Tobacco"
+	],
+	"dlcs": [],
 	"size": "1.21 GiB"
 }

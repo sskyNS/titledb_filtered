@@ -25,5 +25,12 @@
 		"nl"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "6.66 GiB"
 }

@@ -23,5 +23,13 @@
 		"de"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Suggestive Themes",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "2.34 GiB"
 }

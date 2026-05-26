@@ -1,7 +1,7 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b0d0ee3994615ed8258830e456025c4f9fbe8fb25cb962e072d84e8b217e1da.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3661ba6051ac21649a4bb858a9adf2d5ddf2a118e5c2a9ad3576bd7626155a7.jpg",
-	"publisher": "GazeGames Interactive",
+	"publisher": "Redtower Games",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/37d6acf17f76e33db04aa1ec0014990a15e2c5639605e141a81e95658dd76219.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/0940ffa1ed155403467c832f6b7ab255e9a373a6aa8d0d71e4bac9be66e9dc54.jpg",
@@ -34,5 +34,10 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "906 MiB"
 }

@@ -25,5 +25,15 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Online Interactions Not Rated by the ESRB",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "21.16 GiB"
 }

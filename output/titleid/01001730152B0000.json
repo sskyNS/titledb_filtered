@@ -23,5 +23,12 @@
 		"en"
 	],
 	"numberOfPlayers": 8,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "368 MiB"
 }

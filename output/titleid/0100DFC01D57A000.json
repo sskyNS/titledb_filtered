@@ -29,5 +29,15 @@
 		"ru"
 	],
 	"numberOfPlayers": 6,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "2.72 GiB"
 }

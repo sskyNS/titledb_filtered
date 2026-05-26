@@ -28,5 +28,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Language",
+		"Mild Suggestive Themes",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "Unknown"
 }

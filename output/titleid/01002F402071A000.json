@@ -25,5 +25,12 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 12,
+	"ratingContent": [
+		"Bad Language",
+		"Violence",
+		"In-game purchases"
+	],
+	"dlcs": [],
 	"size": "14.28 GiB"
 }

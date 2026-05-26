@@ -27,5 +27,13 @@
 		"it"
 	],
 	"numberOfPlayers": 3,
+	"rating": 10,
+	"ratingContent": [
+		"Animated Blood",
+		"Fantasy Violence",
+		"Mild Language",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "2.28 GiB"
 }

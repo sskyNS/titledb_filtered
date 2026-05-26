@@ -28,5 +28,11 @@
 		"ru"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Crude Humor"
+	],
+	"dlcs": [],
 	"size": "4.76 GiB"
 }

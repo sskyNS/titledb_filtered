@@ -30,5 +30,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Fantasy Violence",
+		"Use of Alcohol and Tobacco"
+	],
+	"dlcs": [],
 	"size": "283 MiB"
 }

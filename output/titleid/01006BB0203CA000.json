@@ -31,5 +31,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Language",
+		"Tobacco Reference"
+	],
+	"dlcs": [],
 	"size": "3.39 GiB"
 }

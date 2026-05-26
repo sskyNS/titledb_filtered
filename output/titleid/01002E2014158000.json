@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "837 MiB"
 }

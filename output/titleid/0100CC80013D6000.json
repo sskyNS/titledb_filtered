@@ -22,5 +22,14 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Mild Language",
+		"Sexual Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.56 GiB"
 }

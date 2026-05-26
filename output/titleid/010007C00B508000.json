@@ -26,5 +26,12 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 12,
+	"ratingContent": [
+		"Bad Language",
+		"Sex",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "14.99 GiB"
 }

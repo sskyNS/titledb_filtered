@@ -33,5 +33,11 @@
 		"pl"
 	],
 	"numberOfPlayers": 6,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "2.54 GiB"
 }

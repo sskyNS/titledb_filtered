@@ -29,5 +29,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Use of Tobacco",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.93 GiB"
 }

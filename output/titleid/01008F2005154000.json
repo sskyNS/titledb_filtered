@@ -29,5 +29,16 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Mature Humor",
+		"Nudity",
+		"Sexual Content",
+		"Strong Language",
+		"Use of Drugs",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "20.09 GiB"
 }

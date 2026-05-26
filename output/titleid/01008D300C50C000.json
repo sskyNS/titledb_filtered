@@ -28,5 +28,15 @@
 		"ko"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Language",
+		"Suggestive Themes",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "278 MiB"
 }

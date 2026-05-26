@@ -32,5 +32,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "5.65 GiB"
 }

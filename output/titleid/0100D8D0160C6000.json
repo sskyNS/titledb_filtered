@@ -24,5 +24,14 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Language",
+		"Simulated Gambling",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "989 MiB"
 }

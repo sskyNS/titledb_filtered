@@ -27,5 +27,12 @@
 		"ru"
 	],
 	"numberOfPlayers": 2,
+	"rating": 12,
+	"ratingContent": [
+		"Bad Language",
+		"Violence",
+		"In-game purchases"
+	],
+	"dlcs": [],
 	"size": "15.73 GiB"
 }

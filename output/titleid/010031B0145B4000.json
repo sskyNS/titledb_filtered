@@ -32,5 +32,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Language",
+		"Mild Blood",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "3.07 GiB"
 }

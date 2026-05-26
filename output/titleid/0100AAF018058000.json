@@ -24,5 +24,11 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Lyrics",
+		"Mild Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "2.16 GiB"
 }

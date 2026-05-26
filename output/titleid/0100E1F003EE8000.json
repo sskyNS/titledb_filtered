@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Drug Reference",
+		"Mild Language",
+		"Sexual Themes",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.22 GiB"
 }

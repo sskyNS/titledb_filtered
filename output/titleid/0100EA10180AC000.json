@@ -24,5 +24,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Blood"
+	],
+	"dlcs": [],
 	"size": "1.93 GiB"
 }

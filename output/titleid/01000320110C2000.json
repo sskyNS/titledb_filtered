@@ -32,5 +32,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Drug Reference",
+		"Intense Violence",
+		"Partial Nudity",
+		"Strong Language",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "5.60 GiB"
 }

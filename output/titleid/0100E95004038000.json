@@ -25,5 +25,13 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "13.20 GiB"
 }

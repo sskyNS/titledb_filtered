@@ -32,5 +32,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Mild Fantasy Violence",
+		"Gambling Themes"
+	],
+	"dlcs": [],
 	"size": "301 MiB"
 }

@@ -26,5 +26,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Language",
+		"Mild Blood",
+		"Mild Violence"
+	],
+	"dlcs": [],
 	"size": "1.26 GiB"
 }

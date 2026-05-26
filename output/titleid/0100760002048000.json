@@ -27,5 +27,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Lyrics",
+		"Online Interactions Not Rated by the ESRB"
+	],
+	"dlcs": [],
 	"size": "23.54 GiB"
 }

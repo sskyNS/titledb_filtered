@@ -25,5 +25,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Animated Blood",
+		"Comic Mischief",
+		"Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "1.00 GiB"
 }

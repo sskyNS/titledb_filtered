@@ -22,5 +22,13 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Crude Humor",
+		"Fantasy Violence",
+		"Language"
+	],
+	"dlcs": [],
 	"size": "607 MiB"
 }

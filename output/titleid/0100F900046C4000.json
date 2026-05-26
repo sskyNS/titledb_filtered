@@ -25,5 +25,15 @@
 		"fr"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Comic Mischief",
+		"Mild Suggestive Themes",
+		"Use of Tobacco",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "290 MiB"
 }

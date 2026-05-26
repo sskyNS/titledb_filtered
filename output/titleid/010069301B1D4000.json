@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Language",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "10.56 GiB"
 }

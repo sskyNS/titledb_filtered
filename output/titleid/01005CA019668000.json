@@ -23,5 +23,11 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Use of Tobacco",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "260 MiB"
 }

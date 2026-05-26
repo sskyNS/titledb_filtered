@@ -29,5 +29,15 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Drug Reference",
+		"Intense Violence",
+		"Online Interactions Not Rated by the ESRB",
+		"Sexual Themes",
+		"Strong Language"
+	],
+	"dlcs": [],
 	"size": "9.85 GiB"
 }

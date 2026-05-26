@@ -26,5 +26,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Fantasy Violence",
+		"Suggestive Themes",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "101 MiB"
 }

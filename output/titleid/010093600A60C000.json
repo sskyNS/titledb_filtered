@@ -27,5 +27,15 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Mild Language",
+		"Sexual Themes",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "293 MiB"
 }

@@ -26,5 +26,12 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.00 GiB"
 }

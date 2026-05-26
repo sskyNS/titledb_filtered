@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 3,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Language",
+		"Mild Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "3.00 GiB"
 }

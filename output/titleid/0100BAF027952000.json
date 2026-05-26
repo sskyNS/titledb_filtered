@@ -1,7 +1,7 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3eff7f02623b9c0d5b2c0218e8c686c627a2cd31d393ee5239b7f650456956f.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f58a21d063044002129e59d30a13ac3fe11035e4944fcc29bb926a504f47208a.jpg",
-	"publisher": "GazeGames Interactive",
+	"publisher": "Redtower Games",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/7f3c1f193a123bde52456453684400c6f6e8270311e80f5399dd95912b17e583.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/841f89774aa84c75ff7c1b34e602c185312aa7b9760d99fb1a60b39a40ae6474.jpg",
@@ -34,5 +34,10 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "13.46 GiB"
 }

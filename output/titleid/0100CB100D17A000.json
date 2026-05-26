@@ -25,5 +25,12 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "350 MiB"
 }

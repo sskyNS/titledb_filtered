@@ -27,5 +27,14 @@
 		"it"
 	],
 	"numberOfPlayers": 6,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Language",
+		"Mild Blood",
+		"Mild Suggestive Themes",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "1.39 GiB"
 }

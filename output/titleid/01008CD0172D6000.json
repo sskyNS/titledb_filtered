@@ -33,5 +33,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Animated Blood",
+		"Fantasy Violence",
+		"Mild Language",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "1.32 GiB"
 }

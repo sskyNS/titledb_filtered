@@ -23,5 +23,13 @@
 		"ru"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Cartoon Violence",
+		"Comic Mischief",
+		"Language"
+	],
+	"dlcs": [],
 	"size": "10.29 GiB"
 }

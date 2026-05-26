@@ -25,5 +25,12 @@
 		"ru"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "203 MiB"
 }

@@ -32,5 +32,16 @@
 		"zh"
 	],
 	"numberOfPlayers": 10,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Partial Nudity",
+		"Use of Alcohol",
+		"Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "19.04 GiB"
 }

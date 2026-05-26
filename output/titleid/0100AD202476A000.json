@@ -22,5 +22,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Fantasy Violence",
+		"Mild Blood"
+	],
+	"dlcs": [],
 	"size": "910 MiB"
 }

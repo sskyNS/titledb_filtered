@@ -25,5 +25,15 @@
 		"fr"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Online Interactions Not Rated by the ESRB"
+	],
+	"dlcs": [],
 	"size": "815 MiB"
 }

@@ -22,5 +22,14 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Simulated Gambling",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "704 MiB"
 }

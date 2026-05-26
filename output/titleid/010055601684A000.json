@@ -30,5 +30,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "315 MiB"
 }

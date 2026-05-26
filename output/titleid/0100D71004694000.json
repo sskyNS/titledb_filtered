@@ -34,5 +34,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Music Downloads Not Rated by the ESRB.",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.52 GiB"
 }

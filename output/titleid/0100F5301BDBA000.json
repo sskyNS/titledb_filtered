@@ -26,5 +26,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "139 MiB"
 }

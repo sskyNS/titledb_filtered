@@ -29,5 +29,14 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Intense Violence",
+		"Sexual Themes",
+		"Strong Language",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "1.03 GiB"
 }

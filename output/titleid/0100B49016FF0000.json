@@ -27,5 +27,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "831 MiB"
 }

@@ -28,5 +28,11 @@
 		"pt"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Drug Reference"
+	],
+	"dlcs": [],
 	"size": "1.21 GiB"
 }

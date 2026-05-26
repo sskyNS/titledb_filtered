@@ -26,5 +26,14 @@
 		"fr"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Language",
+		"Sexual Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "113 MiB"
 }

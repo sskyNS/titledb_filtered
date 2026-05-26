@@ -25,5 +25,14 @@
 		"ru"
 	],
 	"numberOfPlayers": 5,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Suggestive Themes",
+		"Violence",
+		"Digital Purchases"
+	],
+	"dlcs": [],
 	"size": "293 MiB"
 }

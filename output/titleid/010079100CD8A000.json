@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Blood",
+		"Simulated Gambling",
+		"Use of Alcohol and Tobacco"
+	],
+	"dlcs": [],
 	"size": "238 MiB"
 }

@@ -27,5 +27,14 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Mild Language",
+		"Suggestive Themes",
+		"Violence",
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "5.57 GiB"
 }

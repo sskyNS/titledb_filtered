@@ -33,5 +33,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood and Gore",
+		"Mild Language",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.48 GiB"
 }

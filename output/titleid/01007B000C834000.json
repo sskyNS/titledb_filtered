@@ -32,5 +32,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "3.27 GiB"
 }

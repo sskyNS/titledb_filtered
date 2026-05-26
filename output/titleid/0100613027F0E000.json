@@ -1,7 +1,7 @@
 {
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4edbfdca2633966cc77804208f47f079314d281968bb637b90f1d19474566df9.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/092a358e8e5d7918f9ce4673cc7d0d76928187140e08f384f27e974163d1a98a.jpg",
-	"publisher": "GazeGames Interactive",
+	"publisher": "Redtower Games",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/f0c26172465455b18d68025b49e9ff41f25968c37e2f64f3dc7f5a10d5e11e20.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/dc457bfb41e0928ee4443652fdb0a9f76a6f21c9d33f4f194e64ea92478e116c.jpg",
@@ -34,5 +34,8 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
+	"rating": 6,
+	"ratingContent": [],
+	"dlcs": [],
 	"size": "1.22 GiB"
 }

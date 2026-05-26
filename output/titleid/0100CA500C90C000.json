@@ -25,5 +25,14 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Language",
+		"Suggestive Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.82 GiB"
 }

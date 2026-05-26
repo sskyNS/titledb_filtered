@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 3,
+	"rating": 10,
+	"ratingContent": [
+		"Animated Blood",
+		"Fantasy Violence",
+		"Mild Language",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "1.73 GiB"
 }

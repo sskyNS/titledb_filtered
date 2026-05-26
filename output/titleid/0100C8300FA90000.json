@@ -24,5 +24,14 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Language",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "689 MiB"
 }

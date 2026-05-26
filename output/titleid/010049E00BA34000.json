@@ -28,5 +28,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Language",
+		"Mild Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "720 MiB"
 }

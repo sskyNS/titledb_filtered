@@ -33,5 +33,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "309 MiB"
 }

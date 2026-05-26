@@ -27,5 +27,15 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Crude Humor",
+		"Drug Reference",
+		"Strong Language",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "648 MiB"
 }

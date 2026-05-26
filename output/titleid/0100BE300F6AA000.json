@@ -28,5 +28,14 @@
 		"ru"
 	],
 	"numberOfPlayers": 6,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Suggestive Themes",
+		"Violent References",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "1.91 GiB"
 }

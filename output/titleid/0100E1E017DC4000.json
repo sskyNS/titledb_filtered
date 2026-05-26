@@ -23,5 +23,12 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "484 MiB"
 }

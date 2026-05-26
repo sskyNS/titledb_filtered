@@ -26,5 +26,13 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Suggestive Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "60 MiB"
 }

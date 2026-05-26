@@ -26,5 +26,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Suggestive Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "123 MiB"
 }

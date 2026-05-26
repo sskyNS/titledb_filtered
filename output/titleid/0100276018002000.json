@@ -31,5 +31,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Crude Humor",
+		"Language",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.14 GiB"
 }

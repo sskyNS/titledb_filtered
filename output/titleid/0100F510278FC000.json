@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63613639e2c948e21dd23fc73c8acc9ed05028d1ce65e9de51a02cf53bbaa1ea.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e54ffb3c7d966a70b718c877e93c35bdcdf138b2511512d98a7f617a607cfe2.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf62ca2eb70c9a07f769bfd99c2014f0b2f1bbbb55232645735986c3a3c601d4.jpg",
 	"publisher": "QUByte Interactive",
 	"screenshots": [
@@ -10,7 +10,7 @@
 		"https://img-eshop.cdn.nintendo.net/i/0f8953e08b43e7f9636be15e5ed2e45716b9440ac6505f7962024a3c2bb457d7.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/816a43c5bd2e05f92f7ad45f12fef9d24232887fa35388aae1b5ab481a8d10fb.jpg"
 	],
-	"releaseDate": 20260624,
+	"releaseDate": 20260618,
 	"category": [
 		"Arcade",
 		"Action",
@@ -18,20 +18,19 @@
 		"Sports"
 	],
 	"intro": "A classic platformer where your soccer ball is your weapon! ",
-	"description": "The World Cup has been stolen by aliens and it's up to you to get it back! \n\nSoccer Kid is an innovative 2D platformer that challenges you to navigate the world using only your soccer skills. Instead of just running and jumping, you'll need to dribble, header, and kick your way through enemies and obstacles across the globe.\n\nThis QUByte Classics edition brings the ultimate nostalgic package to your Nintendo Switch\u2122.\n",
+	"description": "The World Cup has been stolen by aliens and it's up to you to get it back! \n\nSoccer Kid is an innovative 2D platformer that challenges you to navigate the world using only your soccer skills. Instead of just running and jumping, you'll need to dribble, header, and kick your way through enemies and obstacles across the globe.\n\nThis QUByte Classics edition brings the ultimate nostalgic package to your Nintendo Switch\u2122.",
 	"languages": [
-		"ja",
 		"en",
 		"es",
-		"pt",
 		"fr",
 		"de",
-		"it",
-		"ru",
-		"ko",
-		"zh",
-		"zh"
+		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "2.07 GiB"
 }

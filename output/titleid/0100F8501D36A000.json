@@ -21,5 +21,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Mild Blood",
+		"Mild Language",
+		"Mild Violence"
+	],
+	"dlcs": [],
 	"size": "792 MiB"
 }

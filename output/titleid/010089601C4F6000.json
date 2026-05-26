@@ -26,5 +26,15 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Strong Language",
+		"Suggestive Themes",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "889 MiB"
 }

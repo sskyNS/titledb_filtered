@@ -30,5 +30,12 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Crude Humor",
+		"Mild Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "404 MiB"
 }

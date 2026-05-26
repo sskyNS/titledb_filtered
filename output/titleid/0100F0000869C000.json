@@ -21,5 +21,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Drug Reference",
+		"Fantasy Violence",
+		"Mild Blood"
+	],
+	"dlcs": [],
 	"size": "896 MiB"
 }

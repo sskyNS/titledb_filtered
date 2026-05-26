@@ -21,5 +21,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Suggestive Themes",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "1.28 GiB"
 }

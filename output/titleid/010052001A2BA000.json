@@ -22,5 +22,14 @@
 		"de"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Language",
+		"Mild Blood",
+		"Mild Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "7.09 GiB"
 }

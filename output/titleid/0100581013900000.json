@@ -26,5 +26,13 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Language",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "5.16 GiB"
 }

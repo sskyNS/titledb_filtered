@@ -33,5 +33,12 @@
 		"th"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Use of Drugs",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "689 MiB"
 }

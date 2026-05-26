@@ -20,5 +20,15 @@
 		"de"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Crude Humor",
+		"Partial Nudity",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "9.20 GiB"
 }

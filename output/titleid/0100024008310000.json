@@ -28,5 +28,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Mild Blood",
+		"Online Interactions Not Rated by the ESRB",
+		"Suggestive Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "5.04 GiB"
 }

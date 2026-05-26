@@ -29,5 +29,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Tobacco Reference"
+	],
+	"dlcs": [],
 	"size": "410 MiB"
 }

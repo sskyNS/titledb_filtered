@@ -29,5 +29,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Language",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "9.83 GiB"
 }

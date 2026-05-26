@@ -29,5 +29,13 @@
 		"pt"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Crude Humor",
+		"Mild Language",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "4.54 GiB"
 }

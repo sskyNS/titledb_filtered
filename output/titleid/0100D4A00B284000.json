@@ -33,5 +33,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Use of Alcohol",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "7.46 GiB"
 }

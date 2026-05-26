@@ -27,5 +27,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Suggestive Themes",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "8.58 GiB"
 }

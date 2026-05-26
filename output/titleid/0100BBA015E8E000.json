@@ -26,5 +26,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 7,
+	"ratingContent": [
+		"Fear",
+		"Violence",
+		"In-game purchases"
+	],
+	"dlcs": [],
 	"size": "7.17 GiB"
 }

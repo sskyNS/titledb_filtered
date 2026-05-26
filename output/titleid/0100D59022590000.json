@@ -31,5 +31,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Language",
+		"Mild Suggestive Themes",
+		"Simulated Gambling",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "1.33 GiB"
 }

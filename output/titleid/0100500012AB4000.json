@@ -27,5 +27,16 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Strong Language",
+		"Suggestive Themes",
+		"Use of Alcohol",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "20.29 GiB"
 }

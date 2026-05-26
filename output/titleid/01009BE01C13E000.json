@@ -26,5 +26,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Violence",
+		"Gambling Themes"
+	],
+	"dlcs": [],
 	"size": "525 MiB"
 }

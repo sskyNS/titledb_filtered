@@ -31,5 +31,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Drug Reference",
+		"Mild Lyrics",
+		"Mild Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "1.45 GiB"
 }

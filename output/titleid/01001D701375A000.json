@@ -29,5 +29,13 @@
 		"ko"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Fantasy Violence",
+		"Suggestive Themes",
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "1.16 GiB"
 }

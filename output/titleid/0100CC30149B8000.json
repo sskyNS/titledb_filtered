@@ -25,5 +25,12 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Suggestive Themes",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "2.54 GiB"
 }

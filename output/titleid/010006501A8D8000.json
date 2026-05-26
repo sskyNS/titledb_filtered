@@ -28,5 +28,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "59.15 GiB"
 }

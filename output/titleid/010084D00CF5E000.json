@@ -26,5 +26,15 @@
 		"fr"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Suggestive Themes",
+		"Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "13.19 GiB"
 }

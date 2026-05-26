@@ -25,5 +25,12 @@
 		"fr"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Use of Alcohol",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "834 MiB"
 }

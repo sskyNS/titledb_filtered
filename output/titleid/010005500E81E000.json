@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Fantasy Violence",
+		"Sexual Themes"
+	],
+	"dlcs": [],
 	"size": "1.11 GiB"
 }

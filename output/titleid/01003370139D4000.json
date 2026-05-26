@@ -26,5 +26,15 @@
 		"de"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Crude Humor",
+		"Language",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "710 MiB"
 }

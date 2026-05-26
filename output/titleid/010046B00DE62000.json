@@ -25,5 +25,16 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Mild Language",
+		"Partial Nudity",
+		"Suggestive Themes",
+		"Use of Tobacco",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "3.70 GiB"
 }

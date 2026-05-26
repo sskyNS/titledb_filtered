@@ -31,5 +31,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 6,
+	"rating": 13,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "9.86 GiB"
 }

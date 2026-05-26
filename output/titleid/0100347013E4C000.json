@@ -32,5 +32,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Fantasy Violence",
+		"Mild Language",
+		"Use of Tobacco",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "5.03 GiB"
 }

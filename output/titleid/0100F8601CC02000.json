@@ -22,5 +22,11 @@
 		"en"
 	],
 	"numberOfPlayers": 8,
+	"rating": 6,
+	"ratingContent": [
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "382 MiB"
 }

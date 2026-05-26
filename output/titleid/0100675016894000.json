@@ -31,5 +31,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Blood",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "609 MiB"
 }

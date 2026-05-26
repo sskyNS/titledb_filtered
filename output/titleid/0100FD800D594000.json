@@ -23,5 +23,12 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Mild Violence",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "1.03 GiB"
 }

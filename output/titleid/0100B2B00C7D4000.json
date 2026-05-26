@@ -26,5 +26,15 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Language",
+		"Use of Tobacco",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.55 GiB"
 }

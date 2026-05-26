@@ -28,5 +28,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Mild Blood",
+		"Suggestive Themes",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "14.36 GiB"
 }

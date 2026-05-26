@@ -27,5 +27,11 @@
 		"ru"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Online Interactions Not Rated by the ESRB"
+	],
+	"dlcs": [],
 	"size": "1.49 GiB"
 }

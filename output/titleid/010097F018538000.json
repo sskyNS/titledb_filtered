@@ -33,5 +33,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Blood",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Mild Violence",
+		"Simulated Gambling",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "3.00 GiB"
 }

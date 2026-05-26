@@ -25,5 +25,14 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Suggestive Themes",
+		"Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "13.73 GiB"
 }

@@ -30,5 +30,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 12,
+	"ratingContent": [
+		"Bad Language",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "2.75 GiB"
 }

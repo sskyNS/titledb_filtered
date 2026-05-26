@@ -29,5 +29,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.06 GiB"
 }

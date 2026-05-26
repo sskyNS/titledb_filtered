@@ -27,5 +27,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 10,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Suggestive Themes",
+		"Violence",
+		"Shares Location",
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "2.94 GiB"
 }

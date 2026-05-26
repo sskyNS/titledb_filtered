@@ -28,5 +28,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Blood",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "2.22 GiB"
 }

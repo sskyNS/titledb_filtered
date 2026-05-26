@@ -27,5 +27,12 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "1.86 GiB"
 }

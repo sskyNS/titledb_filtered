@@ -23,5 +23,15 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Nudity",
+		"Sexual Themes",
+		"Strong Language",
+		"Use of Drugs",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "2.17 GiB"
 }

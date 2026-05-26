@@ -23,5 +23,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Fantasy Violence",
+		"Mild Language",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "797 MiB"
 }

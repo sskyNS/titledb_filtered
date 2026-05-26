@@ -31,5 +31,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "548 MiB"
 }

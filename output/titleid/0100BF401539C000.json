@@ -28,5 +28,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Comic Mischief",
+		"Mild Blood",
+		"Mild Violence"
+	],
+	"dlcs": [],
 	"size": "865 MiB"
 }

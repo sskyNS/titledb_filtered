@@ -28,5 +28,16 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Language",
+		"Suggestive Themes",
+		"Use of Tobacco",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "3.30 GiB"
 }

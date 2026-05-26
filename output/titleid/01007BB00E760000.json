@@ -22,5 +22,12 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Violent References",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.04 GiB"
 }

@@ -22,5 +22,15 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Fantasy Violence",
+		"Language",
+		"Simulated Gambling",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "10.58 GiB"
 }

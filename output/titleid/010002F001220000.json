@@ -28,5 +28,12 @@
 		"it"
 	],
 	"numberOfPlayers": 3,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Suggestive Themes",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.35 GiB"
 }

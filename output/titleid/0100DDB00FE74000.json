@@ -22,5 +22,14 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Language",
+		"Simulated Gambling",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "650 MiB"
 }

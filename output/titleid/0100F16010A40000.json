@@ -26,5 +26,13 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Simulated Gambling",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "10.13 GiB"
 }

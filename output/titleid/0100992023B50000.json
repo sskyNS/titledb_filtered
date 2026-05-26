@@ -22,5 +22,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "172 MiB"
 }

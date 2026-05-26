@@ -22,5 +22,15 @@
 		"en"
 	],
 	"numberOfPlayers": 4,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Drug Reference",
+		"Mature Humor",
+		"Strong Language",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "3.63 GiB"
 }

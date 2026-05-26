@@ -33,5 +33,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "230 MiB"
 }

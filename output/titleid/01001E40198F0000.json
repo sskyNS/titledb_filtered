@@ -30,5 +30,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference",
+		"Mild Blood"
+	],
+	"dlcs": [],
 	"size": "533 MiB"
 }

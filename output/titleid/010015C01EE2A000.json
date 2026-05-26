@@ -23,5 +23,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Crude Humor",
+		"Language",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "747 MiB"
 }

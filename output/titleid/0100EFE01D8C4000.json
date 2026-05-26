@@ -23,5 +23,11 @@
 		"es"
 	],
 	"numberOfPlayers": 5,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "1.68 GiB"
 }

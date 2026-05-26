@@ -29,5 +29,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Drug and Alcohol Reference",
+		"Fantasy Violence",
+		"Mild Language",
+		"Simulated Gambling"
+	],
+	"dlcs": [],
 	"size": "468 MiB"
 }

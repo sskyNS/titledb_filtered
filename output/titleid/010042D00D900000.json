@@ -30,5 +30,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Comic Mischief",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "15.83 GiB"
 }

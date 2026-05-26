@@ -24,5 +24,15 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Crude Humor",
+		"Drug Reference",
+		"Strong Language",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "5.03 GiB"
 }

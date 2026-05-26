@@ -28,5 +28,12 @@
 		"it"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Language",
+		"Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "813 MiB"
 }

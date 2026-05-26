@@ -27,5 +27,12 @@
 		"nl"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Comic Mischief",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "5.92 GiB"
 }

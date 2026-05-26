@@ -28,5 +28,11 @@
 		"pt"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "1.09 GiB"
 }

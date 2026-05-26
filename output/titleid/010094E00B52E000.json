@@ -28,5 +28,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Mild Language",
+		"Partial Nudity",
+		"Use of Alcohol and Tobacco",
+		"Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "820 MiB"
 }

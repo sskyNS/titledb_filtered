@@ -28,5 +28,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Comic Mischief",
+		"Mild Cartoon Violence",
+		"Mild Language",
+		"Mild Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "3.92 GiB"
 }

@@ -34,5 +34,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Language",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "1.02 GiB"
 }

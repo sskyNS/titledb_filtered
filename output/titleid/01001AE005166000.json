@@ -27,5 +27,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 6,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Crude Humor",
+		"Language",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "5.04 GiB"
 }

@@ -28,5 +28,14 @@
 		"it"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Mild Lyrics",
+		"Mild Suggestive Themes",
+		"Music Downloads Not Rated by the ESRB.",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "5.08 GiB"
 }

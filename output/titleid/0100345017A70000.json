@@ -29,5 +29,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "170 MiB"
 }

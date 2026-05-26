@@ -24,5 +24,15 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Language",
+		"Mild Blood",
+		"Use of Alcohol and Tobacco",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "3.97 GiB"
 }

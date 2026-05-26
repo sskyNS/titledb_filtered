@@ -30,5 +30,11 @@
 		"ko"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Online Interactions Not Rated by the ESRB"
+	],
+	"dlcs": [],
 	"size": "3.24 GiB"
 }

@@ -23,5 +23,16 @@
 		"en"
 	],
 	"numberOfPlayers": 6,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Language",
+		"Mild Blood",
+		"Mild Violence",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "2.95 GiB"
 }

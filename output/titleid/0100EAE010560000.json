@@ -24,5 +24,14 @@
 		"fr"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Blood",
+		"Mild Language",
+		"Mild Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "14.90 GiB"
 }

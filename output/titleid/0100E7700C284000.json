@@ -32,5 +32,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Use of Alcohol and Tobacco"
+	],
+	"dlcs": [],
 	"size": "2.50 GiB"
 }

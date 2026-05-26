@@ -31,5 +31,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Use of Tobacco",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "4.07 GiB"
 }

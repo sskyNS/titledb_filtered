@@ -23,5 +23,12 @@
 		"en"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Suggestive Themes",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "1.11 GiB"
 }

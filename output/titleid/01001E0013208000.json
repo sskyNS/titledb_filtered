@@ -33,5 +33,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Mild Language",
+		"Partial Nudity",
+		"Violence",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "1.40 GiB"
 }

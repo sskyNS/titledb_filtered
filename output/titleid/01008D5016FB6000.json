@@ -29,5 +29,15 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Language",
+		"Mild Blood",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "16.09 GiB"
 }

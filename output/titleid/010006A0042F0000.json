@@ -29,5 +29,13 @@
 		"pt"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Language",
+		"Use of Alcohol and Tobacco"
+	],
+	"dlcs": [],
 	"size": "411 MiB"
 }

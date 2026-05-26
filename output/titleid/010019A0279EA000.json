@@ -21,5 +21,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "47 MiB"
 }

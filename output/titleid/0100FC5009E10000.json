@@ -25,5 +25,13 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Crude Humor",
+		"Mild Language",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "933 MiB"
 }

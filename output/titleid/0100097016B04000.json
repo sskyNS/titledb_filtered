@@ -22,5 +22,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Suggestive Themes",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "10.04 GiB"
 }

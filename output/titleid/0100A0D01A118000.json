@@ -14,5 +14,12 @@
 		"en"
 	],
 	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors",
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
+	"dlcs": [],
 	"size": "12.16 GiB"
 }

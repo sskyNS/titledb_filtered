@@ -22,5 +22,12 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 12,
+	"ratingContent": [
+		"Mild Swearing",
+		"Moderate Violence",
+		"Sexual Innuendo"
+	],
+	"dlcs": [],
 	"size": "8.81 GiB"
 }

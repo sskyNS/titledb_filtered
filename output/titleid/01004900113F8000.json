@@ -26,5 +26,12 @@
 		"nl"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Violence",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "2.79 GiB"
 }

@@ -23,5 +23,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "487 MiB"
 }

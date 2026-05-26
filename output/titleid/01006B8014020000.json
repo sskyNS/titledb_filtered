@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Mild Language",
+		"Suggestive Themes",
+		"Use of Tobacco",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "434 MiB"
 }

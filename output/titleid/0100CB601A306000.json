@@ -20,5 +20,12 @@
 		"es"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Suggestive Themes",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "371 MiB"
 }

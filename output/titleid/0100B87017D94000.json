@@ -34,5 +34,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 8,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Mild Blood",
+		"Mild Language",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "5.12 GiB"
 }

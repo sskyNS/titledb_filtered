@@ -30,5 +30,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Comic Mischief",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "10.20 GiB"
 }

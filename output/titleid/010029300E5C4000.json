@@ -27,5 +27,14 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Mild Blood",
+		"Mild Language",
+		"Mild Suggestive Themes",
+		"Mild Violence"
+	],
+	"dlcs": [],
 	"size": "2.16 GiB"
 }

@@ -31,5 +31,16 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Crude Humor",
+		"Intense Violence",
+		"Sexual Content",
+		"Strong Language",
+		"Use of Drugs and Alcohol",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "10.94 GiB"
 }

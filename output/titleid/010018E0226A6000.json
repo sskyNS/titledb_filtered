@@ -32,5 +32,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "542 MiB"
 }

@@ -28,5 +28,12 @@
 		"ko"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Simulated Gambling"
+	],
+	"dlcs": [],
 	"size": "479 MiB"
 }

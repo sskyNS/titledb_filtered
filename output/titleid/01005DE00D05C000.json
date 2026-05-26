@@ -24,5 +24,12 @@
 		"ko"
 	],
 	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "12.58 GiB"
 }

@@ -32,5 +32,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Lyrics",
+		"Use of Tobacco",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "3.08 GiB"
 }

@@ -22,5 +22,15 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
+	"rating": 17,
+	"ratingContent": [
+		"Blood",
+		"Drug Reference",
+		"Strong Language",
+		"Suggestive Themes",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "4.15 GiB"
 }

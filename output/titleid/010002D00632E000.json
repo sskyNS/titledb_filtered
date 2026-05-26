@@ -31,5 +31,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Animated Blood",
+		"Crude Humor",
+		"Fantasy Violence"
+	],
+	"dlcs": [],
 	"size": "1.42 GiB"
 }

@@ -31,5 +31,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Fantasy Violence",
+		"Suggestive Themes",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "2.34 GiB"
 }

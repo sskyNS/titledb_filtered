@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Blood",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "295 MiB"
 }

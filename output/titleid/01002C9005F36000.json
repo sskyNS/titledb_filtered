@@ -31,5 +31,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Mild Suggestive Themes"
+	],
+	"dlcs": [],
 	"size": "3.52 GiB"
 }

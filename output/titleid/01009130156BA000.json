@@ -24,5 +24,14 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Language",
+		"Suggestive Themes",
+		"Use of Tobacco"
+	],
+	"dlcs": [],
 	"size": "1.05 GiB"
 }

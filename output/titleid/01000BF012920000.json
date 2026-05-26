@@ -22,5 +22,13 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Crude Humor",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "235 MiB"
 }

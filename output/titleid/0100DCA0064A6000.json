@@ -30,5 +30,13 @@
 		"zh"
 	],
 	"numberOfPlayers": 8,
+	"rating": 6,
+	"ratingContent": [
+		"Comic Mischief",
+		"Mild Cartoon Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
+	"dlcs": [],
 	"size": "7.38 GiB"
 }

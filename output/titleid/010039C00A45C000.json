@@ -23,5 +23,14 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood and Gore",
+		"Language",
+		"Tobacco Reference",
+		"Use of Alcohol",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "339 MiB"
 }

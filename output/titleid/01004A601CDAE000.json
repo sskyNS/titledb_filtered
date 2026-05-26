@@ -24,5 +24,13 @@
 		"pt"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language"
+	],
+	"dlcs": [],
 	"size": "4.34 GiB"
 }

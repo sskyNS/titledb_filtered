@@ -21,5 +21,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Language",
+		"Use of Alcohol and Tobacco",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "794 MiB"
 }

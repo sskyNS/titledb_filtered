@@ -22,5 +22,15 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Blood",
+		"Language",
+		"Mild Suggestive Themes",
+		"Use of Tobacco",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "1.12 GiB"
 }

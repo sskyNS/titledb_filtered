@@ -24,5 +24,12 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
+	"dlcs": [],
 	"size": "652 MiB"
 }

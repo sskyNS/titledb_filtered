@@ -19,5 +19,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Drug Reference",
+		"Mild Blood",
+		"Mild Language",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "337 MiB"
 }

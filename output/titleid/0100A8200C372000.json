@@ -31,5 +31,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Cartoon Violence",
+		"Comic Mischief"
+	],
+	"dlcs": [],
 	"size": "2.25 GiB"
 }

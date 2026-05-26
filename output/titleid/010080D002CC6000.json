@@ -23,5 +23,11 @@
 		"en"
 	],
 	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
+	"dlcs": [],
 	"size": "68 MiB"
 }

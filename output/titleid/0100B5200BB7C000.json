@@ -27,5 +27,12 @@
 		"it"
 	],
 	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Cartoon Violence",
+		"Users Interact"
+	],
+	"dlcs": [],
 	"size": "2.95 GiB"
 }

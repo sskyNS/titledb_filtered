@@ -25,5 +25,12 @@
 		"de"
 	],
 	"numberOfPlayers": 1,
+	"rating": 10,
+	"ratingContent": [
+		"Mild Language",
+		"Tobacco Reference",
+		"Violent References"
+	],
+	"dlcs": [],
 	"size": "263 MiB"
 }
