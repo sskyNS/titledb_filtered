@@ -10,7 +10,7 @@
 		"https://img-eshop.cdn.nintendo.net/i/7ebc1ca9ceed671a959a0e9d3f5210551beeafe126bf599073364be6975964c9.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/a26b63f0043e49ef3bf9a17803b34d6d9ed90125e109ff412253e13855a93101.jpg"
 	],
-	"releaseDate": 20260528,
+	"releaseDate": 20260604,
 	"category": [
 		"Simulation",
 		"Sports",
@@ -33,8 +33,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 6,
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Simulated Gambling"
+	],
 	"dlcs": [],
 	"size": "6.12 GiB"
 }

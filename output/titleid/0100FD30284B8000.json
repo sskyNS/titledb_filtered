@@ -24,8 +24,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 6,
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "468 MiB"
 }
