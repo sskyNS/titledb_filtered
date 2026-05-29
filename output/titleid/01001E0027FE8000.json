@@ -1,7 +1,7 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f84a40dfd0d9114375e98fb2aff8e1c8bbbf42505f62c6b470183728269a90e.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0370606adfe12a1ffcbf18aa4b59a6385232f1e892ec353eab53bca12c8720.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2b9986e4f1520f45845ad02151398c17e4be549a14309c1bc97937ef25c9c14.jpg",
-	"publisher": "\u30ec\u30b8\u30b9\u30bf",
+	"publisher": "Regista",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/518f35b0f250e71fc53851e12a6c3815dd443e40c5246a242569481fd7c79e66.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/14c2b839454a9593ef394577b8b01a5dc0aab999d2c815a4c65a870fe6fa7e07.jpg",
@@ -12,11 +12,11 @@
 	],
 	"releaseDate": 20260604,
 	"category": [
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3"
+		"Adventure",
+		"Simulation"
 	],
-	"intro": "\u5909\u308f\u3089\u306a\u3044\u666f\u8272\u3001\u5909\u308f\u3089\u306a\u3044\u696d\u52d9\u3002\n\u3067\u3082\u4eca\u65e5\u306f\u300c\u4f55\u304b\u300d\u304c\u9055\u3063\u305f\u2026\u2026\u3002",
-	"description": "\u672c\u30bf\u30a4\u30c8\u30eb\u306f\u65e5\u672c\u306e\u30ed\u30fc\u30ab\u30eb\u7dda\u3067\u904b\u8ee2\u58eb\u3068\u3057\u3066\u50cd\u304f\u7cbe\u795e\u7684\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u3067\u3059\u3002\n\n\u25cf\u30b9\u30c8\u30fc\u30ea\u30fc\n\u3044\u3064\u3082\u3069\u304a\u308a\u3001\u5c71\u5965\u3067\u306e\u30ed\u30fc\u30ab\u30eb\u7dda\u306e\u904b\u8ee2\u3092\u59cb\u3081\u305f\u4e3b\u4eba\u516c\u3002\n\u3057\u304b\u3057\u3001\u696d\u52d9\u3092\u3053\u306a\u3057\u3066\u3044\u304f\u4e2d\u3067\u3001\u6b21\u7b2c\u306b\u4e0d\u53ef\u89e3\u306a\u7570\u5909\u304c\u8d77\u3053\u308a\u59cb\u3081\u308b\u2015\u2015\u3002\n\n\u25cf\u30b2\u30fc\u30e0\u306e\u7279\u5fb4\n\u30fb\u65e5\u672c\u3092\u821e\u53f0\u306b\u3057\u305f\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\n\u30fb\u5217\u8eca\u306e\u904b\u8ee2\u58eb\u3068\u3057\u3066\u696d\u52d9\u3092\u3053\u306a\u3059\u4f53\u9a13\n\u30fb\u4e00\u4eba\u79f0\u8996\u70b9\u306e3D\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\n\u30fb5\u3064\u306e\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u3092\u642d\u8f09\n\n\u25cf\u8ffd\u52a0\u8981\u7d20\n\u65b0\u898f\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u304c\u8ffd\u52a0\u3055\u308c\u307e\u3057\u305f\u3002",
+	"intro": "The same scenery, the same routine.\nBut today, \u201csomething\u201d was different\u2026",
+	"description": "This title is a psychological horror game in which you play as a train conductor on a local line in Japan.\n\n\u25cfStory\nAs usual, the protagonist begins his shift driving a local train deep in the mountains.\nHowever, as he goes about his duties, mysterious and inexplicable events gradually begin to unfold...\n\n\u25cfGame Features\n- A horror game set in Japan\n- Train driver duties experience\n- A first-person 3D horror game\n- Features five different endings\n\n\u25cfAdditional elements\nA new ending has been added.",
 	"languages": [
 		"ja",
 		"en",
@@ -26,9 +26,9 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 12,
+	"rating": 6,
 	"ratingContent": [
-		"\u6050\u6016"
+		"Mild Fantasy Violence"
 	],
 	"dlcs": [],
 	"size": "821 MiB"

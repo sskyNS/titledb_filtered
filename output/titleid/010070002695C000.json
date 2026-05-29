@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02a94d541f02512b9f68e4c212bddf3c512396f14a947ee55f97094ec805b817.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/839fcae6eadc443f34edcd890b24d1a558743748bb5e9c3f78216bd7e2fcd3c0.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/467bc166e5a2bb4614df395983fd2977fee8f5b50c8c34df70f78ae3dd568742.jpg",
 	"publisher": "HuneX",
 	"screenshots": [
@@ -23,10 +23,11 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 12,
+	"rating": 13,
 	"ratingContent": [
-		"Horror",
-		"Sexual Innuendo"
+		"Blood",
+		"Sexual Themes",
+		"Violence"
 	],
 	"dlcs": [],
 	"size": "3.88 GiB"

@@ -10,15 +10,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/e0445ff30a41f0e37b813cb0b1cc4d1813eaafa729b2cd01371ba15f77e60df2.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/ec999be09bd73ecaa9a2076fb7cd8ea64b379fa3ce81c80820b4d2e884712a90.jpg"
 	],
-	"releaseDate": 20260611,
+	"releaseDate": 20260612,
 	"category": [
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-		"\u30b7\u30df\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
-		"\u30a2\u30fc\u30b1\u30fc\u30c9",
-		"\u30a2\u30af\u30b7\u30e7\u30f3"
+		"Adventure",
+		"Simulation",
+		"Arcade",
+		"Lifestyle"
 	],
-	"intro": "\u5c0f\u3055\u306a\u8db3\u3002\u5c45\u5fc3\u5730\u306e\u826f\u3044\u30aa\u30d5\u30a3\u30b9\u3067\u306e\u5192\u967a\u3002",
-	"description": "\u203b\u672c\u4f5c\u306f\u65e5\u672c\u8a9e\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u307e\u305b\u3093\u3002\n\n\u597d\u5947\u5fc3\u65fa\u76db\u306a\u5b50\u732b\u306e\u8996\u70b9\u304b\u3089\u3001\u9759\u304b\u3067\u5c45\u5fc3\u5730\u306e\u826f\u3044\u30aa\u30d5\u30a3\u30b9\u3092\u63a2\u691c\u3059\u308b\u300cLittle Kitty Meow\u300d\u306f\u3001\u96f0\u56f2\u6c17\u3001\u63a2\u7d22\u3001\u305d\u3057\u3066\u7a4f\u3084\u304b\u306a\u6563\u7b56\u306b\u7126\u70b9\u3092\u5f53\u3066\u305f\u3001\u5fc3\u5b89\u3089\u3050\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30b2\u30fc\u30e0\u3067\u3059\u3002\n\n\u30aa\u30d5\u30a3\u30b9\u30eb\u30fc\u30e0\u3001\u4f1a\u8b70\u5ba4\u3001\u5eca\u4e0b\u3001\u30ef\u30fc\u30af\u30b9\u30da\u30fc\u30b9\u3092\u6b69\u304d\u56de\u308a\u306a\u304c\u3089\u3001\u96a0\u308c\u305f\u5834\u6240\u3084\u5c45\u5fc3\u5730\u306e\u826f\u3044\u30b9\u30dd\u30c3\u30c8\u3001\u305d\u3057\u3066\u8077\u5834\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u7d30\u304b\u306a\u74b0\u5883\u63cf\u5199\u3092\u767a\u898b\u3057\u307e\u3057\u3087\u3046\u3002\u7a4f\u3084\u304b\u306a\u63a2\u7d22\u3001\u67d4\u3089\u304b\u306a\u30d3\u30b8\u30e5\u30a2\u30eb\u3001\u305d\u3057\u3066\u5fc3\u5730\u3088\u3044\u96f0\u56f2\u6c17\u306e\u4e2d\u3067\u3001\u81ea\u5206\u306e\u30da\u30fc\u30b9\u3067\u30aa\u30d5\u30a3\u30b9\u3092\u81ea\u7531\u306b\u63a2\u7d22\u3067\u304d\u307e\u3059\u3002\n\n\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u30b2\u30fc\u30e0\u30d7\u30ec\u30a4\u3068\u9b45\u529b\u7684\u306a\u74b0\u5883\u3092\u5099\u3048\u305f\u300cLittle Kitty Meow\u300d\u306f\u3001\u5fc3\u6e29\u307e\u308b\u63a2\u7d22\u30b2\u30fc\u30e0\u304c\u597d\u304d\u306a\u30d7\u30ec\u30a4\u30e4\u30fc\u306b\u3074\u3063\u305f\u308a\u306e\u3001\u30b7\u30f3\u30d7\u30eb\u3067\u5065\u5168\u306a\u4f53\u9a13\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002",
+	"intro": "Tiny Paws. Cozy Office Adventures.",
+	"description": "Explore a quiet and cozy office from the perspective of a curious little cat in Little Kitty Meow, a relaxing adventure focused on atmosphere, exploration, and peaceful wandering.\n\nWalk through office rooms, meeting areas, corridors, and workspaces while discovering hidden corners, cozy spots, and small environmental details that bring the workplace to life. Enjoy calm exploration, soft visuals, and a comforting atmosphere as you freely roam through the office at your own pace.\n\nWith relaxing gameplay and charming environments, Little Kitty Meow offers a simple and wholesome experience perfect for players who enjoy cozy exploration games.",
 	"languages": [
 		"en",
 		"es",
@@ -27,7 +27,7 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "303 MiB"
