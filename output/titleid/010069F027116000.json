@@ -21,8 +21,10 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
-	"rating": 6,
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "75 MiB"
 }
