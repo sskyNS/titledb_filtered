@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/403523fab95c8f52699cbb28d9695d6ea0b6ff837b22f6f46e463d073ff2f11f.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22186f17af0a461235a156a664777f50f7eb56bcb0a6ca5cfb6f5f5d4304e4e6.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9900a962406a977a722fa82cd4f7b7998be0bc29c7fd0464956a26fbdeb7075.jpg",
 	"publisher": "QUByte Interactive",
 	"screenshots": [
@@ -10,11 +10,11 @@
 		"https://img-eshop.cdn.nintendo.net/i/cd083e8b6d144e167266e7ff65b31e95652f546e199b035014d19d6ff1b33878.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/f21d8305953a8c3dd2207f73004e59129bd7c101479a09f5359d2ab135f7df4c.jpg"
 	],
-	"releaseDate": 20260625,
+	"releaseDate": 20260716,
 	"category": [
 		"Platformer",
-		"Action",
 		"Arcade",
+		"Action",
 		"Shooter"
 	],
 	"intro": "Classic run-and-gun action in an explosive arcade adventure!",
@@ -22,8 +22,8 @@
 	"languages": [
 		"ja",
 		"en",
-		"es",
 		"pt",
+		"es",
 		"fr",
 		"de",
 		"it",
@@ -33,8 +33,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "595 MiB"
 }
