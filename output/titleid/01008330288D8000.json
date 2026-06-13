@@ -3,21 +3,20 @@
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/344ae120d64a12191eeb28e143e55bc63a65f5e4bd9a614d027219e74cf48c28.jpg",
 	"publisher": "Frozax Games",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/0ae9b46449004ae529f98a1f06fe28e1937cb7e0d58178e06686edd335f2d5a4.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/8cdf7468d567b0bfca9071d29bd952a58975b2ca29623f50c3fcf4466136d00f.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/fca4030ea906311fd0d72cfa3ba0401986be2cf6cab971575c9ad06ad2c5103c.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/fe06f866e4e18d62cbc1892e78d9ee0ca16e42458e9b11dd4a9bcee1b27dbb64.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/f0a4d49338c66e4f83538e254ee3b6d9796e221d1736dcab7f1df175ecd9cd5a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/05abac1245fb0e15ba8734ad9e07de1e01e8d8fbc81fdfd48c70516f6a2d30d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/09ab7c7308711e1116a0a5f8f5314007e193088526d07b220eec411c0536b527.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8e76705aa3ea8454d364be6d164166d0c70883a0fd45c6296c628cd3d067c26.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b8ad78dbd5f07c25023ada0bad6fa473734f0ef2f1dd7de115d696d309547e6b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e3ff7a8c081feeb9794e0e047cbd23965fa685ba73b112c3153f5eb11fc8099d.jpg"
 	],
-	"releaseDate": 20260702,
+	"releaseDate": 20260701,
 	"category": [
-		"\u30d1\u30ba\u30eb",
-		"\u30c6\u30fc\u30d6\u30eb",
-		"\u30b9\u30c8\u30e9\u30c6\u30b8\u30fc",
-		"\u5b66\u7fd2"
+		"Puzzle",
+		"Board Game",
+		"Strategy"
 	],
-	"intro": "\u7d19\u3068\u925b\u7b46\u3092\u4f7f\u3063\u305f\u904a\u3073\u306b\u767a\u60f3\u3092\u5f97\u305f\u30b2\u30fc\u30e0\u3092\u30d7\u30ec\u30a4\uff01",
-	"description": "\u6e29\u5ea6\u8a08\u30d1\u30ba\u30eb\u306f\u3001\u7d19\u3068\u925b\u7b46\u3092\u4f7f\u3063\u305f\u30ed\u30b8\u30c3\u30af\u30b2\u30fc\u30e0\u306e\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u305f\u697d\u3057\u3055\u3092\u6307\u5148\u3067\u697d\u3057\u3081\u308b\u3088\u3046\u306b\u3057\u307e\u3057\u305f\u3002\u305d\u308c\u305e\u308c\u306e\u30ec\u30d9\u30eb\u3067\u3042\u306a\u305f\u306f\u30b0\u30ea\u30c3\u30c9\u3067\u533a\u753b\u306b\u5206\u3051\u3089\u308c\u305f\u6e29\u5ea6\u8a08\u3092\u6c34\u9280\u3067\u6e80\u305f\u3057\u307e\u3057\u3087\u3046\u3002\u30b0\u30ea\u30c3\u30c9\u306e\u5916\u5074\u306b\u8868\u793a\u3055\u308c\u305f\u6570\u5b57\u306f\u305d\u308c\u305e\u308c\u306e\u884c\u3084\u5217\u3067\u6e80\u305f\u3059\u3079\u304d\u533a\u753b\u306e\u6570\u3092\u793a\u3057\u3066\u3044\u307e\u3059\u3002",
+	"intro": "Try this game inspired by a pen-and-paper classic!",
+	"description": "Grids of Thermometers delivers the relaxed fun of a pen-and-paper logic game right to your fingertips. In each level, you fill a grid of thermometers with mercury. Numbers on the grid edges tell you how many cells must be filled in each row and column.",
 	"languages": [
 		"ja",
 		"en",
@@ -34,7 +33,7 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "51 MiB"
