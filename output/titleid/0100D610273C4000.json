@@ -17,10 +17,15 @@
 	"intro": "Park like you mean it.",
 	"description": "Real Car Parking Simulator delivers a clean, confident challenge: no races, no rivals\u2014just you, the machine you\u2019re driving, and the space you think you can fit into. Every scenario dares you to prove you\u2019re better than your mirrors say you are.\n\nSlide into the driver's seat of compact commuters, bulky vans, luxury cruisers, and hulking trailers that turn parking into a full-body prayer. Study each angle, feel the physics, and inch your way into spots that look more like rumors than actual spaces.\n\nNo timers. No honking traffic. Only quiet tension, creeping shadows, and the soft hum of an engine waiting for your next move. The world may stand still, but your pulse won\u2019t.\n\nLine it up. Ease it in. Commit.\nBecause in this place, the only mystery is whether you can make perfection look effortless.",
 	"languages": [
-		"en"
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "675 MiB"
