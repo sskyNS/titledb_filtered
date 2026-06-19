@@ -20,10 +20,11 @@
 	"languages": [
 		"ja",
 		"en",
-		"es",
 		"fr",
+		"es",
 		"de",
 		"it",
+		"nl",
 		"pt",
 		"ru",
 		"ko",
@@ -32,9 +33,9 @@
 		"pl"
 	],
 	"numberOfPlayers": 2,
-	"rating": 7,
+	"rating": 10,
 	"ratingContent": [
-		"Mild Violence"
+		"Fantasy Violence"
 	],
 	"dlcs": [],
 	"size": "1.22 GiB"
