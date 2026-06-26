@@ -2,8 +2,10 @@
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/78b3315b25c34389e793dd262d172d5302f938952c2b57ca886ce10381014f5b.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b42fa91ddfe89ff31bd74b904cb62d45aa8636ac9243fd7a9018710f56739206.jpg",
 	"publisher": "Samustai",
-	"screenshots": null,
-	"releaseDate": 20260624,
+	"screenshots": [
+		"https://img-eshop.cdn.nintendo.net/i/d0b9e4b4db900b8adf81a70909da90462df93b978c8d7b63ba6b1f86b556ddea.jpg"
+	],
+	"releaseDate": 20260625,
 	"category": [
 		"Adventure",
 		"Simulation"
@@ -15,9 +17,9 @@
 		"ru"
 	],
 	"numberOfPlayers": 1,
-	"rating": 12,
+	"rating": 13,
 	"ratingContent": [
-		"Sexual Innuendo"
+		"Suggestive Themes"
 	],
 	"dlcs": [],
 	"size": "2.69 GiB"

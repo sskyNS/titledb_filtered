@@ -10,7 +10,7 @@
 		"https://img-eshop.cdn.nintendo.net/i/745e980a91daf171fb9c82a5a73ff52545fb69883273d9db841ed5def9910998.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/59c59d236b4b4dc6569bc99309c0370f850ab9f1ffacbb4ce1a4ce1affbbe426.jpg"
 	],
-	"releaseDate": 20260722,
+	"releaseDate": 20260723,
 	"category": [
 		"Platformer",
 		"Adventure",
@@ -33,8 +33,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.23 GiB"
 }

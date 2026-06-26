@@ -10,7 +10,7 @@
 		"https://img-eshop.cdn.nintendo.net/i/7b03740e0d6cda30d651bb523e1d8d22373b351b7f3589926fc224a02f1e5b5f.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/19c71c436c1ee3e593f47224d3a5eaa436dc9cc92da1816f8eba756ede99a678.jpg"
 	],
-	"releaseDate": 20260722,
+	"releaseDate": 20260723,
 	"category": [
 		"Action",
 		"Adventure",
@@ -23,8 +23,10 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Language"
+	],
 	"dlcs": [],
 	"size": "956 MiB"
 }

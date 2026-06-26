@@ -9,7 +9,7 @@
 		"https://img-eshop.cdn.nintendo.net/i/28b4d7b6d6ed87f1f41c5757cdfd45bcd6396ada69ab40510861ad3288485477.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/6fbbbbedb79222a89ce4273f50964e177cb3a41459ad903bb944bdd55445e97c.jpg"
 	],
-	"releaseDate": 20260624,
+	"releaseDate": 20260625,
 	"category": [
 		"Action",
 		"Arcade",
@@ -29,9 +29,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 7,
+	"rating": 10,
 	"ratingContent": [
-		"Mild Violence"
+		"Fantasy Violence",
+		"Mild Blood"
 	],
 	"dlcs": [],
 	"size": "524 MiB"

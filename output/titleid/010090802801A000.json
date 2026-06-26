@@ -3,14 +3,14 @@
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/017b580dba976d52a07089574f0abaec0ede590644c5b4084c151bee3e797120.jpg",
 	"publisher": "Voltage",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/a83bbab4f7d4a92bb3ea4890f9cf3803ad1122d1a15b9c19f6bd35516128eb46.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/348dc28858d4246a0e9aaac1d07ee3d449b5a98e87059fd4e80a0f32aeeb698b.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/04d991a044fe7be64456da3bade6376ba03f39e8bc0012e01e5c24cd2b91b929.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/a6900e9df20b367ab89b2c54c12fc9f37c090e06f6349d84788fabc6fdf157ca.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/abe539b410c120a1e8da5e0ea087a2ece5561df47959c8a6a447b7f070289528.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/48e477064efb66099ec3fcf294f056f1c7bf93792f924431adf9ed55e02cc7e4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/05f54542cc9a733b528311ca23e01d215d3ea18d31a7114ae257e981cbfa338d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e7fd7467b2e225466c73c028dd0df4c2e372ecf467ebc192c5d3e26b7c409aff.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/21047c30f62bc38c36a73fc1cb9c662e50cf28f56ca17ad116f43f8e4f7e5031.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/887ef9c3e9a4eae35e0cf93822a0cad27a2454cd882836d99069e635f3f08c42.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b61905d6da3aaba8dab23271fff4996cffd3bd2dab2a67e753d444c74102fb84.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55dc7ccd90a618094aff76a3e44fb6eb0c3bd43af30148f2667c42bf4f3049bd.jpg"
 	],
-	"releaseDate": 20260715,
+	"releaseDate": 20260716,
 	"category": [
 		"Adventure",
 		"Simulation"
@@ -22,9 +22,13 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
-	"rating": 16,
+	"rating": 13,
 	"ratingContent": [
-		"Strong Violence"
+		"Blood",
+		"Language",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco",
+		"Violence"
 	],
 	"dlcs": [],
 	"size": "6.25 GiB"
