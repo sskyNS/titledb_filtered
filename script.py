@@ -153,6 +153,102 @@ for i in range(len(missing_games)):
     json.dump(entry_output, new_file, indent="\t", ensure_ascii=True)
     new_file.close()
 
+# 合并 eshopScrapper 的 titleid 数据
+eshop_games = glob.glob("eshopScrapper/output/titleid/*.json")
+for i in range(len(eshop_games)):
+    titleid = Path(eshop_games[i]).stem
+    isOunce = titleid.startswith("0400")
+
+    if isOunce:
+        if titleid in LIST2:
+            continue
+    else:
+        if titleid in LIST:
+            continue
+    file = open(eshop_games[i], "r", encoding="UTF-8")
+    DUMP = json.load(file)
+    file.close()
+    if isinstance(DUMP["name"], list):
+        if isOunce:
+            LIST2[titleid] = DUMP["name"]
+        else:
+            LIST[titleid] = DUMP["name"]
+    else:
+        if isOunce:
+            LIST2[titleid] = [DUMP["name"]]
+        else:
+            LIST[titleid] = [DUMP["name"]]
+    entry_output = {}
+    entry_output["bannerUrl"] = DUMP.get("bannerUrl", "")
+    entry_output["iconUrl"] = DUMP.get("iconUrl", "")
+    entry_output["publisher"] = DUMP.get("publisher", "")
+    entry_output["screenshots"] = DUMP.get("screenshots", [])
+    entry_output["releaseDate"] = DUMP.get("releaseDate", "")
+    entry_output["category"] = DUMP.get("category", [])
+    entry_output["intro"] = DUMP.get("intro", "")
+    entry_output["description"] = DUMP.get("description", "")
+    entry_output["languages"] = DUMP.get("languages", [])
+    entry_output["numberOfPlayers"] = DUMP.get("numberOfPlayers", 1)
+    entry_output["rating"] = DUMP.get("rating", "Unknown")
+    entry_output["ratingContent"] = DUMP.get("ratingContent", [])
+    entry_output["dlcs"] = DUMP.get("dlcs", DUMP.get("dlc", []))
+    if ("size" not in DUMP.keys()) or (DUMP["size"] == 0) or (DUMP["size"] is None):
+        entry_output["size"] = "Unknown"
+    elif isinstance(DUMP["size"], (int, float)):
+        if DUMP["size"] < 1024 * 1024 * 1024:
+            entry_output["size"] = "%.0f MiB" % (DUMP["size"] / (1024 * 1024))
+        else:
+            entry_output["size"] = "%.2f GiB" % (DUMP["size"] / (1024 * 1024 * 1024))
+    else:
+        entry_output["size"] = DUMP["size"]
+    if isOunce:
+        new_file = open("output2/titleid/%s.json" % titleid, "w", encoding="UTF-8")
+    else:
+        new_file = open("output/titleid/%s.json" % titleid, "w", encoding="UTF-8")
+    json.dump(entry_output, new_file, indent="\t", ensure_ascii=True)
+    new_file.close()
+
+# 合并 eshopScrapper 的区域数据
+if os.path.isfile("eshopScrapper/output/main_regions_alt.json"):
+    file = open("eshopScrapper/output/main_regions_alt.json", "r", encoding="UTF-8")
+    DUMP = json.load(file)
+    file.close()
+    keys = list(DUMP.keys())
+    for i in range(len(keys)):
+        if keys[i].startswith("0100"):
+            if keys[i] not in LIST_REGIONS:
+                LIST_REGIONS[keys[i]] = DUMP[keys[i]]
+            else:
+                for r in DUMP[keys[i]]:
+                    if r not in LIST_REGIONS[keys[i]]:
+                        LIST_REGIONS[keys[i]].append(r)
+        elif keys[i].startswith("0400"):
+            if keys[i] not in LIST2_REGIONS:
+                LIST2_REGIONS[keys[i]] = DUMP[keys[i]]
+            else:
+                for r in DUMP[keys[i]]:
+                    if r not in LIST2_REGIONS[keys[i]]:
+                        LIST2_REGIONS[keys[i]].append(r)
+
+if os.path.isfile("eshopScrapper/output/main_regions_alt2.json"):
+    file = open("eshopScrapper/output/main_regions_alt2.json", "r", encoding="UTF-8")
+    DUMP = json.load(file)
+    file.close()
+    keys = list(DUMP.keys())
+    for i in range(len(keys)):
+        if keys[i].startswith("0100"):
+            for r in DUMP[keys[i]].get("True", []):
+                if keys[i] not in LIST_REGIONS:
+                    LIST_REGIONS[keys[i]] = [r]
+                elif r not in LIST_REGIONS[keys[i]]:
+                    LIST_REGIONS[keys[i]].append(r)
+        elif keys[i].startswith("0400"):
+            for r in DUMP[keys[i]].get("True", []):
+                if keys[i] not in LIST2_REGIONS:
+                    LIST2_REGIONS[keys[i]] = [r]
+                elif r not in LIST2_REGIONS[keys[i]]:
+                    LIST2_REGIONS[keys[i]].append(r)
+
 print("                        ")
 print("Dumping...")
 new_file = open("output/main.json", "w", encoding="UTF-8")
