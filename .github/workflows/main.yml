@@ -57,14 +57,19 @@ jobs:
           echo "ZIP size:"
           ls -lh titleid.zip
 
+      - name: Prepare Release Body
+        run: |
+          echo 'RELEASE_BODY<<EOF' >> $GITHUB_ENV
+          echo "自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC" >> $GITHUB_ENV
+          echo "风灵月影专用，每 2 小时定期更新，包含游戏截图、大小、厂商等内容。" >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
+
       - name: Upload to Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: "latest-package"
           name: "Switch游戏信息库"
-          body: |
-            自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC
-            风灵月影专用，每 2 小时定期更新，包含游戏截图、大小、厂商等内容。
+          body: ${{ env.RELEASE_BODY }}
           files: titleid.zip
           draft: false
           prerelease: false
