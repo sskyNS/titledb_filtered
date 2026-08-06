@@ -7,6 +7,12 @@ import sys
 from pathlib import Path
 import requests
 
+
+class RateLimitError(Exception):
+    """Nintendo API 限流，跳过剩余检查"""
+    pass
+
+
 files = [
     "US.en", "GB.en", "JP.ja", "FR.fr", "DE.de", "ES.es", "IT.it",
     "NL.nl", "CA.fr", "PT.pt", "RU.ru", "KR.ko", "HK.zh", "BR.pt",
@@ -33,7 +39,7 @@ def checkTitleid(titleid: str, region: str) -> bool:
                 return True
             elif status_code == 403:
                 print("  Rate limited by Nintendo API, skipping further checks.")
-                sys.exit(1)
+                raise RateLimitError()
             else:
                 print(f"  -- {region} {titleid}: {status_code}")
                 return False
@@ -156,56 +162,62 @@ if os.path.isfile("output2/main_regions_alt.json"):
         LIST2_REGIONS_ALT = json.load(f)
 
 print("\nVerifying regions via Nintendo API (output/)...")
-titleids = list(LIST_REGIONS.keys())
-for titleid in titleids:
-    if titleid in LIST_REGIONS_ALT:
-        cache = LIST_REGIONS_ALT[titleid]
-        for region in REGIONS:
-            if region in cache.get("True", []):
-                if region not in LIST_REGIONS[titleid]:
-                    LIST_REGIONS[titleid].append(region)
-            elif region in cache.get("False", []):
-                continue
-            else:
+try:
+    titleids = list(LIST_REGIONS.keys())
+    for titleid in titleids:
+        if titleid in LIST_REGIONS_ALT:
+            cache = LIST_REGIONS_ALT[titleid]
+            for region in REGIONS:
+                if region in cache.get("True", []):
+                    if region not in LIST_REGIONS[titleid]:
+                        LIST_REGIONS[titleid].append(region)
+                elif region in cache.get("False", []):
+                    continue
+                else:
+                    if checkTitleid(titleid, region):
+                        LIST_REGIONS[titleid].append(region)
+                        cache.setdefault("True", []).append(region)
+                    else:
+                        cache.setdefault("False", []).append(region)
+        else:
+            LIST_REGIONS_ALT[titleid] = {"True": [], "False": []}
+            for region in REGIONS:
                 if checkTitleid(titleid, region):
                     LIST_REGIONS[titleid].append(region)
-                    cache.setdefault("True", []).append(region)
+                    LIST_REGIONS_ALT[titleid]["True"].append(region)
                 else:
-                    cache.setdefault("False", []).append(region)
-    else:
-        LIST_REGIONS_ALT[titleid] = {"True": [], "False": []}
-        for region in REGIONS:
-            if checkTitleid(titleid, region):
-                LIST_REGIONS[titleid].append(region)
-                LIST_REGIONS_ALT[titleid]["True"].append(region)
-            else:
-                LIST_REGIONS_ALT[titleid]["False"].append(region)
+                    LIST_REGIONS_ALT[titleid]["False"].append(region)
+except RateLimitError:
+    print("Nintendo API rate limited. Skipping remaining region checks (cached results preserved).")
 
 print("\nVerifying regions via Nintendo API (output2/)...")
-titleids = list(LIST2_REGIONS.keys())
-for titleid in titleids:
-    if titleid in LIST2_REGIONS_ALT:
-        cache = LIST2_REGIONS_ALT[titleid]
-        for region in REGIONS:
-            if region in cache.get("True", []):
-                if region not in LIST2_REGIONS[titleid]:
-                    LIST2_REGIONS[titleid].append(region)
-            elif region in cache.get("False", []):
-                continue
-            else:
+try:
+    titleids = list(LIST2_REGIONS.keys())
+    for titleid in titleids:
+        if titleid in LIST2_REGIONS_ALT:
+            cache = LIST2_REGIONS_ALT[titleid]
+            for region in REGIONS:
+                if region in cache.get("True", []):
+                    if region not in LIST2_REGIONS[titleid]:
+                        LIST2_REGIONS[titleid].append(region)
+                elif region in cache.get("False", []):
+                    continue
+                else:
+                    if checkTitleid(titleid, region):
+                        LIST2_REGIONS[titleid].append(region)
+                        cache.setdefault("True", []).append(region)
+                    else:
+                        cache.setdefault("False", []).append(region)
+        else:
+            LIST2_REGIONS_ALT[titleid] = {"True": [], "False": []}
+            for region in REGIONS:
                 if checkTitleid(titleid, region):
                     LIST2_REGIONS[titleid].append(region)
-                    cache.setdefault("True", []).append(region)
+                    LIST2_REGIONS_ALT[titleid]["True"].append(region)
                 else:
-                    cache.setdefault("False", []).append(region)
-    else:
-        LIST2_REGIONS_ALT[titleid] = {"True": [], "False": []}
-        for region in REGIONS:
-            if checkTitleid(titleid, region):
-                LIST2_REGIONS[titleid].append(region)
-                LIST2_REGIONS_ALT[titleid]["True"].append(region)
-            else:
-                LIST2_REGIONS_ALT[titleid]["False"].append(region)
+                    LIST2_REGIONS_ALT[titleid]["False"].append(region)
+except RateLimitError:
+    print("Nintendo API rate limited. Skipping remaining region checks (cached results preserved).")
 
 # 保存区域验证缓存
 with open("output/main_regions_alt.json", "w", encoding="UTF-8") as f:
