@@ -57,12 +57,38 @@ jobs:
           echo "ZIP size:"
           ls -lh titleid.zip
 
-      - name: Prepare Release Body
+      - name: Calculate Cumulative Downloads
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo 'RELEASE_BODY<<EOF' >> $GITHUB_ENV
-          echo "自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC" >> $GITHUB_ENV
-          echo "风灵月影专用，每 2 小时定期更新，包含游戏截图、大小、厂商等内容。" >> $GITHUB_ENV
-          echo 'EOF' >> $GITHUB_ENV
+          set -euo pipefail
+
+          RELEASE_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/releases/tags/latest-package" || echo "{}")
+
+          # 当前 asset 下载量
+          CURRENT_COUNT=$(echo "$RELEASE_INFO" | jq -r \
+            '.assets[] | select(.name=="titleid.zip") | .download_count // 0')
+          CURRENT_COUNT=${CURRENT_COUNT:-0}
+
+          # 历史累计基数（从 body 的 HTML 注释中提取）
+          OLD_BODY=$(echo "$RELEASE_INFO" | jq -r '.body // ""')
+          HISTORY_BASE=$(echo "$OLD_BODY" | grep -oP '(?<=<!-- history_downloads:)\d+(?= -->)' || echo "0")
+          HISTORY_BASE=${HISTORY_BASE:-0}
+
+          NEW_TOTAL=$((HISTORY_BASE + CURRENT_COUNT))
+
+          echo "History base: $HISTORY_BASE"
+          echo "Current asset downloads: $CURRENT_COUNT"
+          echo "New cumulative total: $NEW_TOTAL"
+
+          {
+            echo 'RELEASE_BODY<<EOF'
+            echo "自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+            echo "风灵月影专用，每 2 小时定期更新，包含游戏截图、大小、厂商等内容。"
+            echo "<!-- history_downloads:${NEW_TOTAL} -->"
+            echo 'EOF'
+          } >> $GITHUB_ENV
 
       - name: Upload to Release
         uses: softprops/action-gh-release@v1
