@@ -1,21 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131881/fd09879c6d38c7820d0a196754e2ea5f19e0d76a2bd8df2a515cfd140ffd882f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131881/eb4c05ce63d27351d10522593308e7368b60d232ab7d7e348e6d5381709a6d2c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd09879c6d38c7820d0a196754e2ea5f19e0d76a2bd8df2a515cfd140ffd882f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f669175c3bccab859e47265843f46011d25378fb6a29dc7286dd0e678836791.jpg",
 	"publisher": "Nami Tentou",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131881/fe736739c0d7397743a1c9b839257f697f1710f289cf1bcb11c4237d7b44830c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131881/e1ceb56512869a7afc47d9202653a7618355d5e6319f92b00dcb9f75e47cdea1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131881/094e5b8ba338c3037fbcf15622dda935f92881bad58ec44d00f0d9ab57a4ff53.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131881/be11d3d06d336986a056146ae512e2d67e664e37250e3072636958027a47d5a9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fe736739c0d7397743a1c9b839257f697f1710f289cf1bcb11c4237d7b44830c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e1ceb56512869a7afc47d9202653a7618355d5e6319f92b00dcb9f75e47cdea1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/094e5b8ba338c3037fbcf15622dda935f92881bad58ec44d00f0d9ab57a4ff53.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be11d3d06d336986a056146ae512e2d67e664e37250e3072636958027a47d5a9.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Simulation"
+	],
+	"intro": "Drive, drift, hustle, and survive a city that reacts to every bad decision.",
+	"description": "Project City is a top-down open-city action game inspired by the chaotic feel of classic arcade crime sandboxes. Hit the streets in a drivable city full of traffic, pedestrians, shops, police, gangs, odd jobs, and escalating trouble.\n\nEarn cash by running taxi fares, package drops, food deliveries, and risky crew work, or push your luck with ATM hacks and weapon shop visits. Slide into drift challenges, dodge police heat, avoid spike strips and roadblocks, and keep moving when the city turns against you. Every run is about choosing how far to hustle, how much chaos to cause, and whether you can survive long enough to cash out.\nWith fast driving, on-foot exploration, wanted levels, city events, weapons, interiors, leaderboards, and a sharp street-comedy tone, Project City is a compact urban mayhem sandbox built around simple controls and constant trouble.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Use of Alcohol",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "69 MiB"
 }

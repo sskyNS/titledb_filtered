@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000111275/f240acb2ea4230d034a9c639f9c6c8d4ab139a72ef87079190d9159b37bf9750.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000111275/3fb278cfb21725476abe0ba4d54191e721a66439ad9ff0c77e8dd7e23913079c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f240acb2ea4230d034a9c639f9c6c8d4ab139a72ef87079190d9159b37bf9750.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3900d029c0d77fec54b2858c3cbbe0be9ba78c7a4c7de9e142b9170296c57da.jpg",
 	"publisher": "AMATA",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/f806390933eb3e698b1c729c1d45dacac13b070c059e1373d21e29ff3553f2ae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/1a6fa52bfd39aa992868e01c8b54e1e70599a5146a6856157f841a84d589e893.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/d1f90b445ae276aad2d08efc94ed36bcc508c973d3c62dbe9baee76947463554.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/72509e768c3a24497da490658ac75d90a164ff7ea83823ff996d13b5381919c7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/8013b6159c8f3e587c970205914b2865fa7c3478ff1b55086f5062c217986c2c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111275/c3a79c80552ee2fc339711e48cd244abf3cb40246b7d7f6cc79b3dbc8aab5bc2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f806390933eb3e698b1c729c1d45dacac13b070c059e1373d21e29ff3553f2ae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1a6fa52bfd39aa992868e01c8b54e1e70599a5146a6856157f841a84d589e893.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d1f90b445ae276aad2d08efc94ed36bcc508c973d3c62dbe9baee76947463554.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/72509e768c3a24497da490658ac75d90a164ff7ea83823ff996d13b5381919c7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8013b6159c8f3e587c970205914b2865fa7c3478ff1b55086f5062c217986c2c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c3a79c80552ee2fc339711e48cd244abf3cb40246b7d7f6cc79b3dbc8aab5bc2.jpg"
 	],
 	"releaseDate": 20260805,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter"
+	],
+	"intro": "\"Changeable Guardian ESTIQUE\" is the ultimate, completely new 8-bit shmup created in the 21st century.",
+	"description": "The ultimate brand-new 8-bit shmup \"Changeable Guardian ESTIQUE,\" born in the 21st century, has arrived!\n\nWhat is \"Changeable Guardian ESTIQUE\"?\nA faithful port of \"Changeable Guardian ESTIQUE,\" meticulously crafted to capture a truly nostalgic 8-bit feel.\n\nIt features both the Japanese and North American versions, each offering a distinct storyline. You can also explore and enjoy printed materials and various visual artworks in the Gallery Mode.\n\nSimple yet deep game system\nThis title is a side-scrolling shmup consisting of 6 stages based on cities around the world.\nThe super-variable mech \"ESTIQUE\" can transform at any time between \"Fighter Form\", which has a smaller vertical hitbox, and \"Robot Form\", which nullifies terrain damage and excels in health recovery. The key to clearing the game lies in how you switch between these two forms and two types of equipment depending on the situation. Furthermore, the scoring system driven by the special attack \"Super Weapon\", activated by mashing the shot button, adds depth to the gameplay.\nWith a game design focused on playability\u2014such as a time-based regenerating life system and the removal of power-ups\u2014a strategic shooting experience awaits everyone, from beginners to experts.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Suggestive Themes",
+		"Use of Tobacco"
+	],
 	"dlcs": [],
 	"size": "482 MiB"
 }

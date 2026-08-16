@@ -1,19 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129489/1f9ca69891e1cba61af43e59ade87cc25b6441aee555d753fbe3cfa80c7c7122.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/02353a21130d4109b18f0b909ee820e5_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f9ca69891e1cba61af43e59ade87cc25b6441aee555d753fbe3cfa80c7c7122.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9992a1d2a833b3110c9353920d7ecea6c8ef0808532f60ee66933cd72aa7f120.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129489/c61de88efb7ce112b8810b95d407ad75066980255ed6f6d906e100266b984711.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129489/afae2d213774cfdf3529fe8ef24af3ebb04ec0c0146fb80d03b1735c76bfc2be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129489/cb772e5f7e009e549062b616346fc6257764049269f8d619d9a8a98663524795.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c61de88efb7ce112b8810b95d407ad75066980255ed6f6d906e100266b984711.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/afae2d213774cfdf3529fe8ef24af3ebb04ec0c0146fb80d03b1735c76bfc2be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cb772e5f7e009e549062b616346fc6257764049269f8d619d9a8a98663524795.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Training",
+		"Adventure"
+	],
+	"intro": "Solve each case with just one choice!\nTrain your observation and deduction skills\nQuick mystery puzzles for sharp minds",
+	"description": "Read each case carefully and choose the option that leads closer to the truth.\n\nThe rules are simple: each question gives you two choices. Think like a detective, compare the details, and pick the answer that helps solve the case.\n\nHow to play:\n\u30fbRead the case details\n\u30fbCompare the two choices\n\u30fbUse observation, logic, and intuition to find the right answer\n\nSome cases may look easy at first, but assumptions can lead you in the wrong direction. Pay attention to small details and hidden clues.\n\nEnjoy it at your own pace, one case at a time. It is great for quick breaks, solo play, or discussing the answer with family and friends.\n\nRecommended for players who:\n\u30fbLike mystery quizzes and detective stories\n\u30fbWant a quick brain-training game\n\u30fbEnjoy observation and deduction challenges\n\u30fbPrefer simple controls and short puzzle sessions\n\u30fbWant a casual game that can be enjoyed alone or with others\n\nMake the right choice and uncover the truth behind each case!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "304 MiB"

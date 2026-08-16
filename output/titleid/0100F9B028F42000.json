@@ -1,20 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130129/48aa2d3a00c1e8b951cf738a9ceb58bcabcd3b8c0109a97fe498390e6a9df99f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ce3d3d1a34e842e2834b72f69e7cc3d9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48aa2d3a00c1e8b951cf738a9ceb58bcabcd3b8c0109a97fe498390e6a9df99f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/fddcb4690179af4a18a50c85cece1b8e496046ad7fbc71b5138fd5a4532ad6e8.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130129/8092be1e903fbc73b984c0559322095be00b8c9bbf641f7b2d00c7c979058fd6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130129/f565f12055ed8a9a491538eea4358f3ed23c92a42ac2de81c2db374f45b275a5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130129/74abd606b863cfc8115364b6c5829af3f6d2d579a428b545c430442257e9ee31.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8092be1e903fbc73b984c0559322095be00b8c9bbf641f7b2d00c7c979058fd6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f565f12055ed8a9a491538eea4358f3ed23c92a42ac2de81c2db374f45b275a5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/74abd606b863cfc8115364b6c5829af3f6d2d579a428b545c430442257e9ee31.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade"
+	],
+	"intro": "Guide a team of ninjas through endless chambers packed with traps, power-ups, and surprises. How long can your clan survive?",
+	"description": "Jump into a fast-paced, endlessly replayable action platformer where precision movement and quick thinking are the keys to survival. In Numerous Ninjas, you guide a growing team of agile ninjas through an ever-changing series of hazard-filled chambers designed to test your reflexes and adaptability at every turn.\n\nRun, leap, and scale walls as your ninja squad navigates dangerous environments packed with traps, shifting obstacles, and unpredictable layouts. Each run pushes you further into increasingly difficult challenges where timing and positioning matter just as much as speed. One mistake can end your attempt\u2014but every new run offers a fresh chance to improve.\n\nMaster fluid movement mechanics as you bounce between surfaces, avoid deadly hazards, and chain together precise maneuvers to stay alive longer. The action escalates quickly, demanding focus and rewarding players who learn to read the environment and react with confidence under pressure.\n\nAlong the way, discover helpful power-ups that can turn the tide of a run, offering temporary advantages or new survival options. Strategic use of these boosts can mean the difference between an early exit and a record-breaking run.\n\nWith its focus on replayability, Numerous Ninjas encourages players to refine their skills over time, chasing higher scores and longer survival streaks. Whether you\u2019re playing in short bursts or committing to mastering its systems, every attempt feels dynamic and unpredictable.\n\nSimple to pick up but challenging to master, Numerous Ninjas delivers an intense arcade-style experience built around momentum, precision, and survival. How far can your ninja team go before the chambers finally defeat them?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "63 MiB"
 }

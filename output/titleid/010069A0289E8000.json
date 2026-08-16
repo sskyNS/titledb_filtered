@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127799/24403f85944ac0242d3174921c533144acf260b2ff551d44b6ed769eed1e0438.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/73844c74458745e7b8de9cb0293f7671_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/24403f85944ac0242d3174921c533144acf260b2ff551d44b6ed769eed1e0438.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0a8c80643168b7e396fe1d10cbb6f81471adde38842498f2956a9338e5f20f5d.jpg",
 	"publisher": "G-MODE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/e60072177d70c32257d8a4528a0cd422ea22bbc7454e7b1b5c710b164ac3507c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/a7158310e15e7c40b5aec08e15edd1f010f5a6261831e77d1e28a309696b89f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/d08bf6d51c7ce3627b49f1095ed17a692b76d9e3e6dc24b61ba8add4dbe5b60d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/b4b9b7e76b4c52abdde26b96ccafb1ea8c6961170f8c256706c210cbe22b65de.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/ad42c01c0eb3f9855a3be9bc561722f98ab341231c25992f808944ece21408ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127799/c985e0d157778a05dbf16e2928e92a1cbab38a9d85473dd09e3b05d9214f93a5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e60072177d70c32257d8a4528a0cd422ea22bbc7454e7b1b5c710b164ac3507c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a7158310e15e7c40b5aec08e15edd1f010f5a6261831e77d1e28a309696b89f1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d08bf6d51c7ce3627b49f1095ed17a692b76d9e3e6dc24b61ba8add4dbe5b60d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b4b9b7e76b4c52abdde26b96ccafb1ea8c6961170f8c256706c210cbe22b65de.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ad42c01c0eb3f9855a3be9bc561722f98ab341231c25992f808944ece21408ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c985e0d157778a05dbf16e2928e92a1cbab38a9d85473dd09e3b05d9214f93a5.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "Can you survive until dawn?\nMonitor real Japanese properties and report every anomaly.",
+	"description": "Japan Stigmatized Property2\nTo All Personnel:\nWe appreciate your dedicated efforts in the previous surveillance operation.\nPlease be advised that the risk level for the current assignment has significantly increased.\nYou are required to exercise extreme caution while performing your duties.\n\nYou are an observer for the \"Japan Stigmatized Property Association\" (JSP).\nYour duty is to monitor surveillance cameras installed in designated properties and check for any anomalies.\nUpon discovering an anomaly, you must report it immediately.\nRepeated failure to report or excessive false reports will result in \"Mission Failure.\" Conversely, maintaining successful surveillance from 00:00 to 05:00 constitutes \"Mission Success.\"\n\n\u3010Operational Features\u3011\nReal-World Locations: You will be assigned to properties that actually exist in Japan.\nRandomized Anomalies: Irregularities occur randomly.\nCamera Modes: Be vigilant for phenomena visible only through specific equipment (Night Vision or Standard Camera).\n\n\u3010Examples of Anomalies\u3011\nMovement of furniture; disappearance or appearance of objects.\nIntrusion by human figures or spiritual entities.\nLighting malfunctions; floating orbs.\nBloodstains on walls; video feed noise/interference.\n\"Something\" beyond imagination.\n\n\u3010Shift Details\u3011\nAssignment: 4 total properties.\nHours: 00:00 \u2013 05:00 (Midnight shift).\nDifficulty: Selectable between \"Normal\" and \"Special Pay\" (Hard).\n\n\u3010Others\u3011\nStreaming and broadcasting while conducting duties is permitted.\nWe place no restrictions on monetization or Super Chats.\nSubmission of permission requests is not required for either individuals or corporate entities.\n\nPlease commence your duties.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh",
+		"th"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Mild Violence",
+		"Sexual Themes"
+	],
 	"dlcs": [],
 	"size": "566 MiB"
 }

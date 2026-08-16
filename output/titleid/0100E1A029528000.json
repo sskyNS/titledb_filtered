@@ -1,20 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132227/bb663d849dad05ab482fc07a149dc1fc5de582af9e89e5883689c3dd004df350.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fc8fb7d12d60475f9c66f48b3ae0604f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb663d849dad05ab482fc07a149dc1fc5de582af9e89e5883689c3dd004df350.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/995d5f55b85d04d2a3ad3f4a8dfa53934cac94e4aa1adb4cc9670fd391be0113.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132227/56fa235e1805bfa7bac23623d7cd70b6e92b8c199aa131dd38443466bab5ca1b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132227/246a86912d25b9ead5a755e01e75a1df1fd3f0bb49b10b5f9ebb6c62ff25f897.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132227/1d73096a21e5f6c3c1505ec5babe4e9b96ef6e056d09c06c19435e59d345360a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132227/9e1dc7ff721ee1a40386db89b0b5391f475f60bef23e6f83d00d5786ae9dedc1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/56fa235e1805bfa7bac23623d7cd70b6e92b8c199aa131dd38443466bab5ca1b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/246a86912d25b9ead5a755e01e75a1df1fd3f0bb49b10b5f9ebb6c62ff25f897.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1d73096a21e5f6c3c1505ec5babe4e9b96ef6e056d09c06c19435e59d345360a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9e1dc7ff721ee1a40386db89b0b5391f475f60bef23e6f83d00d5786ae9dedc1.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Study"
+	],
+	"intro": "Know that flag?",
+	"description": "Learn world flags and country names in a fun, game-like way.\nNo complicated controls needed. Read the prompt, look closely at the four flag images, and pick the flag that matches.\n\nHow to play is simple!\n\u30fbCheck the text shown on the screen\n\u30fbThink about the country name and its flag\n\u30fbChoose the correct flag from the four images\n\nFrom flags you may have seen before to flags with similar shapes and colors, each round is a quick chance to test what you know.\nPlay again and again to gradually get more familiar with flags and country names.\n\nIt is easy to enjoy in short sessions, whether you are checking your own knowledge or talking through answers with family.\n\nRecommended for players who:\n\u30fbAre curious about flags from around the world\n\u30fbWant a fun way to review countries and geography\n\u30fbAre looking for a learning game to enjoy with kids\n\u30fbPrefer simple controls\n\u30fbWant to learn a little at a time during spare moments\n\nHow many flags can you recognize?\nPicture countries around the world and aim for a perfect score!\n\nPlayable with buttons or touch controls.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "266 MiB"

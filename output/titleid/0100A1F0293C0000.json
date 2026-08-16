@@ -1,19 +1,23 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131764/4436525319fbe5baab383a7b16823b87f5e6db1d5a3be608db3cfa0318c97ec9.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c61e3255e0ad4120a9ba01316a236f94_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4436525319fbe5baab383a7b16823b87f5e6db1d5a3be608db3cfa0318c97ec9.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/837264b7f9e4efcdb67ee550112fffbd6755d85eff9ab8ec51cb89df981037d5.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131764/42f7c5cc7db744188f0aa3b4f10e45629d082e728c7c923d5cc94e1a785ea0a5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131764/95191d88adaf5b917617a2b3f3983408165907df80c37eb47a0a8addb0f0d778.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131764/f3c479b4fa12dfd2321592355d81d930625a5f285a596a46969a37fe2598f518.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/42f7c5cc7db744188f0aa3b4f10e45629d082e728c7c923d5cc94e1a785ea0a5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/95191d88adaf5b917617a2b3f3983408165907df80c37eb47a0a8addb0f0d778.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f3c479b4fa12dfd2321592355d81d930625a5f285a596a46969a37fe2598f518.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Relaxing exploration game where you wander through a mysterious forest, uncover hidden paths, and interact with the world at your own pace. ",
+	"description": "Peaceful, atmospheric exploration experience set in a dense, mysterious forest. Players are invited to wander through a quiet natural world filled with subtle details, hidden routes, and environmental storytelling. Rather than focusing on action or pressure-driven objectives, the experience emphasizes curiosity, discovery, and immersion in a calm, handcrafted setting.\n\nAs you move deeper into the woods, you gradually uncover the secrets woven into the landscape. Every path can lead to something new\u2014whether it\u2019s a hidden clearing, an unusual landmark, or a quiet moment that adds to the sense of mystery. The game encourages slow exploration and observation, rewarding players who take their time to look closely at the world around them.\n\nDesigned with a minimalist and relaxing approach, Green Thicket aims to create a soothing experience suitable for short sessions or longer, more meditative play. Its focus on atmosphere and exploration makes it ideal for players who enjoy discovery-driven games and tranquil environments.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "61 MiB"

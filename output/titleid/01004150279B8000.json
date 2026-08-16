@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121565/247176f757ff8a9d55b4b4ac7e0f934a8f55fda688fe3dab113968bc99bbe659.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f38aa9b4e70e46b2a6a5170c7a9daf17_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/247176f757ff8a9d55b4b4ac7e0f934a8f55fda688fe3dab113968bc99bbe659.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6bfb598f0f92e6a1c0899c191c8092319895f5f8ecae7594176af1f69a108996.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/670624cba28b3a3b28827970192a3f282bf327dfdd04d5c827b4677e2a3b9410.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/1f3af97584cf57cdc0a9a63c7bdf7bc4abc81cfb6f4509bffa31acd5ba30e974.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/3e5ec7b9bf641f178906e1fe2940bbb31446ddde3198ac4da1b854577bff0da7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/af81887ef6f0880321d806dd5b0551a5b7ea87bbdf0979c137f08662b7ff1c53.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/9ea903158130f65a4ca67003a682cb009e53ad9791f2117fa3a7736793a1295a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121565/621d8f14c458ed867749303b92429252b01370a4086cb6fb71b7300ca8c1de08.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/670624cba28b3a3b28827970192a3f282bf327dfdd04d5c827b4677e2a3b9410.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1f3af97584cf57cdc0a9a63c7bdf7bc4abc81cfb6f4509bffa31acd5ba30e974.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3e5ec7b9bf641f178906e1fe2940bbb31446ddde3198ac4da1b854577bff0da7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/af81887ef6f0880321d806dd5b0551a5b7ea87bbdf0979c137f08662b7ff1c53.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9ea903158130f65a4ca67003a682cb009e53ad9791f2117fa3a7736793a1295a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/621d8f14c458ed867749303b92429252b01370a4086cb6fb71b7300ca8c1de08.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Puzzle",
+		"Practical"
+	],
+	"intro": "They're wild, and they know it. \nAnswer their questions, survive their challenges, and unlock something worth the wait.",
+	"description": "Half girl, half wild animal, and completely out of your league. The Therian girls are untamed, unpredictable, and they've got their eyes on you. Keep up with their pace or get left behind.\n\nAnswer their questions in fast Q&A rounds while defending against reflex attacks in minigame battles. \n\nEvery right answer, every level cleared, brings you closer to unlocking exclusive images in their private gallery.\n\nEach girl has her own personality, her own instincts, and her own way of testing you before she lets you in.\n\nDo you have what it takes to earn the trust of a wild heart?\n\n\nFeatures:\n\n\u25cf MECHANICS THAT PUT YOU TO THE TEST: Q&A and reflex-based minigames trade off without warning. Answer smart, react fast, and keep moving.\n\n\u25cf UNLOCK EXCLUSIVE IMAGES: Clear levels to unlock new images in each girl's personal gallery. The more you progress, the more they reveal.\n\n\u25cf WILD PERSONALITIES: Each Therian girl reacts to your performance in her own way, cheering you on, teasing you, or putting you to the test mid-game.\n\n\u25cf MULTIPLE ENDINGS: Your choices shape the outcome. Some girls open up. Others stay wild. What you unlock depends on how far you get.\n\n\u25cf HIDDEN SPECIAL MOMENT: Reach question 150 and discover a moment you won't see coming. Worth every run.\n\n\nThese girls don't fall for just anyone. Play smart, hold your ground, and maybe one of them will let you close enough to find out what's really underneath. \n\nThey're waiting. The question is whether you're ready.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "305 MiB"
 }

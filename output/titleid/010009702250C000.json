@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000093292/3986e7bca36fa3f664431f36d7acc9cb9b4c2c21b034f6683d8e9fe3afe5099e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7a000924d5a145159fb9c5bce183ead7_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3986e7bca36fa3f664431f36d7acc9cb9b4c2c21b034f6683d8e9fe3afe5099e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b6e6242d19c0a11f3ea905725c80f4d230172b76ad3b3f4a81b2ea004a4caed.jpg",
 	"publisher": "Outright Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000093292/58873a29df2955a41814d04c4d2448a93e08937bf78148bccf19ec2ef6a10473.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000093292/631ff93259c922565b5a2867723edfab8af29af11ade18cc3c8b0178da6bfee4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000093292/e0643232d43ad858c5325fe0e7aef4de456b7cd45650fd492c66876b7e8fd1da.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000093292/e8162e9ee56992cbd31821c19080e140d5ba9c865b093cc6a2696f2bf6959104.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000093292/d7818e9f55646d1b4cb56596d524cc5766ded1931109a6526cdb0b3ba4a7059f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/58873a29df2955a41814d04c4d2448a93e08937bf78148bccf19ec2ef6a10473.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/631ff93259c922565b5a2867723edfab8af29af11ade18cc3c8b0178da6bfee4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e0643232d43ad858c5325fe0e7aef4de456b7cd45650fd492c66876b7e8fd1da.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8162e9ee56992cbd31821c19080e140d5ba9c865b093cc6a2696f2bf6959104.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d7818e9f55646d1b4cb56596d524cc5766ded1931109a6526cdb0b3ba4a7059f.jpg"
 	],
 	"releaseDate": 20260918,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Play as the Grinch, collect ornaments, master gadgets, and tackle festive challenges to decorate the ultimate Christmas tree for the Whos. ",
+	"description": "Every Who down in Who-ville is jingling, singing and celebrating. And guess who can\u2019t wait to join them\u2026 the Grinch! Now, with a heart three sizes bigger, and a wish to show the Whos he\u2019s changed, could the Grinch\u2019s prize-winning tree be the perfect way to prove it?  \n\nPlay as the Grinch and Jumbo-Jump through snowy 3D worlds, collecting ornaments to make your tree sparkle brighter with every step. Overcome platforming challenges, explore every nook and cranny, and use the clever gadgets you find to get through each level. Unleash the Snowball Maker to freeze mischievous adversaries, launch into action with the Rocket Skates, and reach new heights with the Jetpack.  \n\nEach level is filled with festive adventures. Hop through the Grinch\u2019s Cave, dodging falling stalactites and zipping down watery chutes. Conquer Mt. Crumpit\u2019s slippery ice and giant rolling snowballs. Find your way through Who-wood\u2019s towering trees and springy mushrooms. Then explore Who-ville, leaping across hovering platforms and sneaking into the Whos\u2019 cozy homes. Use your candy canes to break objects and release dazzling ornaments to decorate the Grinch\u2019s Christmas tree and Who-ville Square. \n\nAdventure solo or team up in local co-op mode. Together with Max, you\u2019ll have fun outsmarting pesky mice, wild forest bats and other curious creatures. Uncover hidden paths and collect every sparkly decoration you can find to make your tree shine.   \n\nMake it a merry day in Who-ville, spread Christmas cheer, and create the most spectacular tree the Whos have ever seen! \n\nBRING CHEER TO THE\u00a0WHOS:\u00a0\nEmbark on a festive journey to craft the most spectacular Christmas tree and decorate\u00a0Who-ville\u00a0Square.\u00a0\n\nEXPLORE VIBRANT WORLDS: \nSwing, smash and Jumbo-Jump your way through the Grinch\u2019s Cave, Mt. Crumpit, Who-wood and merry Who-ville. \n\nUNLEASH\u00a0GRINCHY GADGETS:\u00a0\nTake on every challenge\u00a0with the help of the\u00a0Rocket Skates,\u00a0the\u00a0Jetpack,\u00a0the\u00a0Snowball Maker, and more\u2026\u00a0\n\nCO-OP TO SAVE CHRISTMAS: \nPlay solo as the Grinch, or team up with a friend as Max to help you. \n\nAN ADVENTURE\u00a0FOR EVERYONE:\u00a0\nEmbark on a\u00a0whimsical\u00a0journey\u00a0inspired by the original books, offering intuitive mechanics and challenges accessible to all.\u00a0\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.82 GiB"
 }

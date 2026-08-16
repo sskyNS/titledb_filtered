@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129822/84c0da98a4dcafe42c35669106d01b20c7c353e2fc9e6a33897fe3b1eea3ccb6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129822/4dc96429349551d1758b43816196cbff5920c166eb68624b135e182e1410133f",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84c0da98a4dcafe42c35669106d01b20c7c353e2fc9e6a33897fe3b1eea3ccb6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad7e09945fab992c5eafb8776c0a3470d9698a4fa7b2756be97b96e2ea0f969c.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/c052f53df63509eaa5dfb1c4f3d6fd1b836ec0f39d22adfc402a7346d79b7743.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/375d37e778983965926801042782d075b58782160cb75d43253764f7dfc884db.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/1e84b936ba7ec5f658e58ccfdce3de1a382ab748c6133bda2ae1d79d9efb9e93.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/f9556d6fc6aac7905bfc7d8ba518528882aa08e1646832b3a2f988576faa9b68.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/68607f2ad3ce7b6c28452303adef42b94c187f3aa150f586919fe9786fed24b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129822/4988fd27af9ff1832c03780dad70245c8f9472c5b055e1cd24000d06915d3dc0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c052f53df63509eaa5dfb1c4f3d6fd1b836ec0f39d22adfc402a7346d79b7743.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/375d37e778983965926801042782d075b58782160cb75d43253764f7dfc884db.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1e84b936ba7ec5f658e58ccfdce3de1a382ab748c6133bda2ae1d79d9efb9e93.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f9556d6fc6aac7905bfc7d8ba518528882aa08e1646832b3a2f988576faa9b68.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/68607f2ad3ce7b6c28452303adef42b94c187f3aa150f586919fe9786fed24b1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4988fd27af9ff1832c03780dad70245c8f9472c5b055e1cd24000d06915d3dc0.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Adventure"
+	],
+	"intro": "An educational and thrilling rainforest adventure for the whole family!",
+	"description": "Join Romy, Max, and Pico the toucan on an exciting expedition deep into the rainforest! Cross roaring rivers, brave wild storms, and uncover the incredible secrets, camouflage, and unique abilities of local wildlife in a story that is as educational as it is thrilling.\n\nFeatures:\n\u2660 Complete Interactive Story: 10 engaging chapters (approx. 10,000 words) packed with mystery.\n\u2665 Full English Voice Acting: Fully voiced in English, which is perfect for solo play or language learning.\n\u2666 Immersive Audio: Features a complete background music score and realistic nature sound effects.\n\u2663 Play Your Way: Great for family storytime or independent exploration. Short, bite-sized sessions make it easy to pause and pick up anytime.\n\u2660 Heartwarming Themes: A beautiful tale centered on courage, friendship, and self-acceptance.\n\u2665 100% Kid-Safe (Ages 4 to 8): No ads and no in-app purchases. Pure peace of mind for parents.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "288 MiB"

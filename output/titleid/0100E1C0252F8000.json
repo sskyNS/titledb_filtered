@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110142/630f57042083c8b533a1c8b7564b447a06075a7b7a26b5b8ef83e7fb038d8956.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/01d4d78689ca468ab45cb4622aeee723_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/630f57042083c8b533a1c8b7564b447a06075a7b7a26b5b8ef83e7fb038d8956.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/026f41eb12514e22f2a02bd0409a9c492534c14abb46fe193ffb7255c9f9eca3.jpg",
 	"publisher": "Double Jack",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/7ce4d5dbb1792ddee1c137c29be46fbe8290b7928b688600136de41082f228a4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/3da11a72aa9f3c8e66283ef54559147f99cde1e0ce20c499fad372aa61be9253.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/27298c6af21d76d5e8095c9eb1c3cc196fcfe7abb9d5e14fceb3548cb02091ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/30210051aff9559dc0cba4a270f33897e91bfeb7e65ee1d3f0a7f9b18c82155f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/9fdbea79d7e896e2d6c74699c2d22e43b793d1f71ef90419e9adb3922345062f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110142/fd3de34c9cec483708903cd98f450175949c8334e4e31ebd610f76069d7e2a9a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7ce4d5dbb1792ddee1c137c29be46fbe8290b7928b688600136de41082f228a4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3da11a72aa9f3c8e66283ef54559147f99cde1e0ce20c499fad372aa61be9253.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/27298c6af21d76d5e8095c9eb1c3cc196fcfe7abb9d5e14fceb3548cb02091ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/30210051aff9559dc0cba4a270f33897e91bfeb7e65ee1d3f0a7f9b18c82155f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9fdbea79d7e896e2d6c74699c2d22e43b793d1f71ef90419e9adb3922345062f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd3de34c9cec483708903cd98f450175949c8334e4e31ebd610f76069d7e2a9a.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Music",
+		"Arcade",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Grab your Joy-con\u2122 and throw real Maestro moves\n",
+	"description": "Maestro is an easy-to-learn hard-to-master rhythm game that turns you into an orchestra conductor. With precise Joy-Con\u2122 motion controls, every gesture matters. You don\u2019t just play the music: you conduct it.\n\nExplore a curated repertoire spanning movies and gaming soundtracks, classical and jazz music bringing together the most iconic works in music History. Conduct scores from Star Wars, Game of Thrones, The Lord of the Rings, Harry Potter, and Attack on Titan and the timeless masterpieces of Beethoven, Mozart, Wagner, Vivaldi, and Duke Ellington.\n\nStep into the Parisian artistic society and discover music, culture and gastronomy where real orchestra conducting meets griping rhythm gameplay. Set the tempo, cue the instruments, guide the crescendos, and lead every performance in real time.\n\nAre you ready to become a true Maestro?\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Language",
+		"Tobacco Reference",
+		"In-Game Purchases"
+	],
 	"dlcs": [],
 	"size": "2.67 GiB"
 }

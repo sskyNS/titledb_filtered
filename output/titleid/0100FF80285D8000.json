@@ -1,21 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126029/592aa78fdf5964f572cefe5bb6a0131876236020bdfd13be28b3982e995641af.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126029/b3a80c2afbb2f1970fe02bb4ebbf92d8ec7b023fd7b041b8c33d31a60139325e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/592aa78fdf5964f572cefe5bb6a0131876236020bdfd13be28b3982e995641af.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b566c0351e49dcfd48b1c900c9d8a6d50c502c534a9c696d570b30831ae130d4.jpg",
 	"publisher": "ASI GAMES TECHNOLOGIES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126029/e4515bb6164e893bb3cab658d66572c24630a45fdb43556972fde325d33b9ef4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126029/045651f97e8881f62a9480efd6e446c2e19d439194049270360f30fc7e3f4654.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126029/4f1da1a910e2eef09310b94769a428a87c7fdc8939c2d676f51a02d3a1b5a954.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126029/c673348988af510d8af4ab599e6ff9167cd2fd101bb035f6b5f9c83e5d276f03.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e4515bb6164e893bb3cab658d66572c24630a45fdb43556972fde325d33b9ef4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/045651f97e8881f62a9480efd6e446c2e19d439194049270360f30fc7e3f4654.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4f1da1a910e2eef09310b94769a428a87c7fdc8939c2d676f51a02d3a1b5a954.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c673348988af510d8af4ab599e6ff9167cd2fd101bb035f6b5f9c83e5d276f03.jpg"
 	],
 	"releaseDate": 20260715,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Master the art of stealth and become the ultimate ninja assassin!",
+	"description": "Dive into an exciting adventure where every stage brings new challenges, unique environments, and thrilling encounters. Travel through a colorful world, face dangerous enemies, solve environmental challenges, and uncover hidden secrets on your way to victory.\n\nUnlock new abilities, improve your skills, and master increasingly difficult obstacles as you progress. Carefully designed levels, engaging gameplay, and rewarding exploration create an experience that keeps you coming back for more.\n\nScale walls, throw your blade, and instantly teleport to your target for precise one-hit eliminations. Stay hidden, outsmart your enemies, and complete dangerous missions before anyone realizes you're there.\n\nTake on increasingly challenging levels that test your timing, strategy, and skill. Every mission requires careful planning and flawless execution.\n\nChoose Your Perfect Arsenal\n\nEquip a variety of classic ninja weapons to match your playstyle. Fight with throwing knives, swords, boomerangs, clubs, and other deadly tools, selecting the right equipment for every mission.\n\nGame Features\nFast-paced stealth action with teleportation mechanics\nChallenging missions that reward precision and strategy\nA wide selection of traditional ninja weapons\nIncreasingly difficult levels and unique enemy encounters\nStylish gameplay focused on quick thinking and perfect execution\n\nCan you complete every mission and earn the title of the ultimate ninja master?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood"
+	],
 	"dlcs": [],
 	"size": "89 MiB"
 }

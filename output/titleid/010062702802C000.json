@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124181/404cc25fb144b93e2c3339986c9856ada71edc4fbcba4b4ae5614af6ef96a751.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124181/b37eaedef3ca4ee12fb0ed8937c21ce2665fa90286cce23bb6d1ea6b2aac9576",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/404cc25fb144b93e2c3339986c9856ada71edc4fbcba4b4ae5614af6ef96a751.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/63e93602f717ab740d07c6615a92b01ff2fcb2f8c8b09960a9ea9c52932bd38e.jpg",
 	"publisher": "Night Shift Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/c18bce479f904900044af5eab8bb36b421b11d5c2c0a6d9da84ed93482f6c4e1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/547fd3c6dc769cc7f3f0cbaad37c167886d50fdfa46735f3fb04bf808f73a584.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/348d6d3f9b3be276409b9783c24e5477b02c30705a52b99fb68a74d10fe04b2a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/a6ac34858d34028abf8ecf5bce7929f70fb6254a42d13a0927197589aa6d50e4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/423600c4e1139500c825fbd4ffe558b16ea89284600e04f283162e0dba281c12.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124181/ae230b211e4977cb00eb5c3f375804b768a40e9a73ee3489ab5566c309aa41c5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c18bce479f904900044af5eab8bb36b421b11d5c2c0a6d9da84ed93482f6c4e1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/547fd3c6dc769cc7f3f0cbaad37c167886d50fdfa46735f3fb04bf808f73a584.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/348d6d3f9b3be276409b9783c24e5477b02c30705a52b99fb68a74d10fe04b2a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a6ac34858d34028abf8ecf5bce7929f70fb6254a42d13a0927197589aa6d50e4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/423600c4e1139500c825fbd4ffe558b16ea89284600e04f283162e0dba281c12.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ae230b211e4977cb00eb5c3f375804b768a40e9a73ee3489ab5566c309aa41c5.jpg"
 	],
 	"releaseDate": 20260710,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Racing",
+		"Training"
+	],
+	"intro": "Are you ready to master every step of the farming process? \n",
+	"description": "Step into the world of modern agriculture and build your farming legacy from the ground up. Experience the rewarding life of a farmer as you manage every stage of production, from preparing the soil to harvesting valuable crops. Start with a small piece of land and gradually transform it into a thriving agricultural enterprise through hard work, smart investments, and efficient farm management.\n\nDrive a variety of realistic farming vehicles, including powerful tractors, trailers, and combine harvesters. Cultivate your fields, plant different crops, monitor their growth, and protect them throughout the season. Sell your harvest, earn profits, and invest in new equipment to increase productivity and expand your operations.\n\nGrow your farm, unlock better machinery, and take on larger agricultural challenges as you build a successful farming business. Every harvest brings new opportunities to develop your land and become a true master of modern farming.\n\nFeatures:\n\u2022 Drive realistic tractors, harvesters, and farming vehicles.\n\u2022 Cultivate fields, plant crops, and manage their growth.\n\u2022 Harvest and sell produce to earn profits.\n\u2022 Upgrade equipment and unlock new machinery.\n\u2022 Expand your farmland and grow your agricultural business.\n\nTurn a small farm into a thriving agricultural empire and enjoy the complete farming experience.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "771 MiB"

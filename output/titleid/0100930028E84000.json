@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129842/03f553e12b8e5b1f3cd3ce5b9675da91b5912deb8b81c9dfed1222bf558d1067.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129842/0e141a3fda08de56655aa95540f3167e4ba27f12b7c193c1a7f4dfe1aed158af",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/03f553e12b8e5b1f3cd3ce5b9675da91b5912deb8b81c9dfed1222bf558d1067.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a211b1751f8d68ddbb76541c80897fa26a3eb71b8a22a01372047b1c08363b9f.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/f3ac25e92fade7f50563063c0ad126e48202b2c151ccf009421387cac94a2976.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/3db76f4d555ac12cba18428bc3ba332d69551feb92916685f9023a0bc25a0a9a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/b699708c354031ad3c3773d9d5489b0ce065e574aa3c0fefbf70d15bd0cb7b78.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/896c362028dfcc41f4bc5501d1726ea9b9458fc638286a10dc81ec2e496fc082.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/5f2036be29ad681ab8f271c9519e59107123015231c698dad6c1f6bbde19f059.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129842/814736f57acef30de9db8489fbd99680b6a31e599e50aa5a8904177a0c84b5d8.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f3ac25e92fade7f50563063c0ad126e48202b2c151ccf009421387cac94a2976.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3db76f4d555ac12cba18428bc3ba332d69551feb92916685f9023a0bc25a0a9a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b699708c354031ad3c3773d9d5489b0ce065e574aa3c0fefbf70d15bd0cb7b78.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/896c362028dfcc41f4bc5501d1726ea9b9458fc638286a10dc81ec2e496fc082.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5f2036be29ad681ab8f271c9519e59107123015231c698dad6c1f6bbde19f059.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/814736f57acef30de9db8489fbd99680b6a31e599e50aa5a8904177a0c84b5d8.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Simulation"
+	],
+	"intro": "The sky is no longer the limit \u2014 it's the battlefield.\n",
+	"description": "Buckle up and get ready for the most realistic and breathtaking flight experience of your life!\nUniversal Flight Simulator 3 PvP lets you take the controls of legendary vintage aircraft, cutting-edge jets, and powerful modern helicopters \u2014 each with its own unique feel and challenge.\n\nExplore 12 stunning locations across the world, from sun-drenched coastlines to stormy mountain ranges, each meticulously crafted to push your piloting skills to the limit. Master 5 incredible fixed-wing aircraft and 2 agile helicopters, each faithfully recreated with authentic aerodynamics and handling.\n\nBut this time, you're not flying alone. Challenge a friend in local 2-player PvP multiplayer \u2014 race head-to-head on circuits, dominate free-flight challenges, and settle once and for all who the ultimate pilot really is. Set the best lap times, unlock new missions, and leave your rival in your wake.\n\nKey Features\n-Optimized aerodynamic and hydrodynamic simulation\n-Physics-based engine simulation with realistic propeller and transmission systems\n-Custom wheels and suspension for ground handling\n-Fully interactive 2D/3D gauges and control panels\n-Immersive virtual cockpit system\n-12 unique locations to discover and master\n-5 planes and 2 helicopters, each with distinct flight characteristics\n-Free flight and circuit racing modes\n-Local 2-player PvP \u2014 face off against a friend on the same screen\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "520 MiB"

@@ -1,20 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132994/6068ee916191188dc0b645138e1cb5d38f1ceecaab47f28b872a0143a3fd438f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132994/5ac501cea4dedf907a9e08bab9c338b2413b959ae1000375f3257ddc665ad515",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6068ee916191188dc0b645138e1cb5d38f1ceecaab47f28b872a0143a3fd438f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a6c3c0d75a80613db59981105dd40ed6067c1a1c533c999a4cbf268f68818261.jpg",
 	"publisher": "REDDEER.GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132994/cad1f4cbc0d272f2dd2de69608d0045421a5603baa4bb9c09a4d701dcf04132e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132994/36aebfb5460da0690fc6ba91fb0c1400644426e427f89a51f157082db2db04b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132994/09285ab14689c651b4d292d68d97c4bedb5615a428687dc3018d9795458d00d7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132994/d2037ba0291600ae7643b0cbd06ff4259795605cac14a5798c5b95ed59aa6dc4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cad1f4cbc0d272f2dd2de69608d0045421a5603baa4bb9c09a4d701dcf04132e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/36aebfb5460da0690fc6ba91fb0c1400644426e427f89a51f157082db2db04b1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/09285ab14689c651b4d292d68d97c4bedb5615a428687dc3018d9795458d00d7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d2037ba0291600ae7643b0cbd06ff4259795605cac14a5798c5b95ed59aa6dc4.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Strategy",
+		"Lifestyle"
+	],
+	"intro": "Pack it. Ship it. Make their day.\n",
+	"description": "Every customer who walks through your door has their own personality - the punk who wants his beats loud, the tennis star who needs the perfect gift for a teammate, the vampy goth girl, the sweet grandma who just wants something cozy. In Mystery Box, you read the room and pack the perfect box for every single one of them.\n\nDrag, stack, and arrange items by hand until the box is filled just right - every piece carries patterns that build value in specific ways, and perks that ripple out to boost everything else inside. Get it right, and watch your customer light up. Then hit the shop between rounds to unlock new items, papers, and packaging styles to build even better combos next time.\n\nAs your reputation grows, so do customer expectations - and so do the stakes. How long can you keep everyone happy?\n\nFeatures:\n- A colorful cast of customers, each with their own tastes and quirks\n- Hands-on 3D box-packing - arrange every item yourself\n- Item patterns and perks combine for deep, replayable strategy\n- Unlock new items and packaging styles between rounds\n- Endless mode with rising difficulty and demands\n",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "987 MiB"

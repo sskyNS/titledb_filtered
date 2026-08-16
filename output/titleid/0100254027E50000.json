@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123450/bb2209ec474b9bbd59ff67775c7dfc936db2cd725773909e0d5d6f93b9226463.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/90c98c5658fb4bbbaf795d5fbc6ba7e3_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb2209ec474b9bbd59ff67775c7dfc936db2cd725773909e0d5d6f93b9226463.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2af2f296c6c4c1108f924b982d1f2501dcab3701a0baa426e023bf38114d9d88.jpg",
 	"publisher": "NIS America",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/acefde42bf24d0a786e7ababe74fb5c8cae963a4d1f0ec24cf18f2f154cdd9c0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/f554fdcc80db9a4e9983650d25ee5990ec9665b1dea0660c9c21681bb075aa08.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/5180de6a112a26d075878824a25c8bb2b12be49c50cf5a5d5cae8b3be4402389.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/c8dda44ec27bd0261b311e37d35795be7bc1b00c3e7d5b9555331a919076d0e3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/040dbd43102bc0c56f9e0eb9439c0d7e039f0340407705adaab12b17da8b77ca.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123450/8e7028cbf45e2387b240762ce1b2ac0a134590d0f4f5d28d99084ea32340e4ca.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/acefde42bf24d0a786e7ababe74fb5c8cae963a4d1f0ec24cf18f2f154cdd9c0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f554fdcc80db9a4e9983650d25ee5990ec9665b1dea0660c9c21681bb075aa08.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5180de6a112a26d075878824a25c8bb2b12be49c50cf5a5d5cae8b3be4402389.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c8dda44ec27bd0261b311e37d35795be7bc1b00c3e7d5b9555331a919076d0e3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/040dbd43102bc0c56f9e0eb9439c0d7e039f0340407705adaab12b17da8b77ca.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8e7028cbf45e2387b240762ce1b2ac0a134590d0f4f5d28d99084ea32340e4ca.jpg"
 	],
 	"releaseDate": 20261027,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation"
+	],
+	"intro": "Quiet countryside living\u2026as long as you follow the rules.",
+	"description": "Welcome to Kagatsu, a Japanese mountain village with plenty of secrets. In this  brand-new, hand-painted farming sim, you'll plant crops, customize your homestead, and meet a cast of intriguing characters\u2014all with something to hide.\n\nEnjoy quiet countryside living...as long as you follow the rules.",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Use of Alcohol and Tobacco",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "3.12 GiB"
 }

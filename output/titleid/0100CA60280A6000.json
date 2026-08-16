@@ -1,22 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124347/1e4c227ae1388637a58f699af730f0221b1a14f900fba7026bf49609d8cae6c9.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/df8ffe0217274ff294b8a57653747bd2_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e4c227ae1388637a58f699af730f0221b1a14f900fba7026bf49609d8cae6c9.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/63a14917ad1d964c7afc1811141e7d2bde73f77c92f7363a19f53c8f1cc5b531.jpg",
 	"publisher": "AlignmentSharp",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/ce6eab41b378f18013dd361793c66052d873d151af724ce00d30be7bebdfba02.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/d547ac2750c665347f1292d23f77f9534b81bf6cdd50b73dd5ab6ec226c6296f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/b27a073db9e9f0c50f0ef7c64f3d4bf644ff1ad3ec65a330d89f788cae65584f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/59db849831ace8d7a3063a3e972bb5048f59fed5ae9a9c2dc09a89864d2373ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/c7e4466f6d521894804dc494389a07033b5de6d4a14b96d88bd1cd4f350a1f03.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124347/c5c075a5116ae1a1f9d30ae28e8094c6f99c19d4e9fc42316a1491a0517c110f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ce6eab41b378f18013dd361793c66052d873d151af724ce00d30be7bebdfba02.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d547ac2750c665347f1292d23f77f9534b81bf6cdd50b73dd5ab6ec226c6296f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b27a073db9e9f0c50f0ef7c64f3d4bf644ff1ad3ec65a330d89f788cae65584f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/59db849831ace8d7a3063a3e972bb5048f59fed5ae9a9c2dc09a89864d2373ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c7e4466f6d521894804dc494389a07033b5de6d4a14b96d88bd1cd4f350a1f03.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c5c075a5116ae1a1f9d30ae28e8094c6f99c19d4e9fc42316a1491a0517c110f.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Explore 3D space and escape",
+	"description": "Move through 3D space to find hints, solve mysteries and escape from the room.\nAnyone can play to the end because you can see hints and answers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.18 GiB"

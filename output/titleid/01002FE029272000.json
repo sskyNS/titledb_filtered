@@ -1,22 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131662/c7969d90d5c2cd40b004be4cb3379a771f776bfa8f07155a83dbf2915a3df61f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131662/c6a70c88b74c6082d11769bb83ce622756bffea020182f62ebe980556c64795e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7969d90d5c2cd40b004be4cb3379a771f776bfa8f07155a83dbf2915a3df61f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6691ab140ee5757ccdd96a9cc6df73692904da4ea3e605c83fd8fd2ee7abdee4.jpg",
 	"publisher": "Amplified Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/aafeee0d5762cc6eb15b6cdf2d3093d286ed574b129d3dbd0bb048f37637283b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/9192b3b9b43517e9e13e8a9323000c2725e0fac8f3ba4f2104c73f7dc0be386c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/982550dfe918795dc2b9958a1ea0a7db8517de50559447019151a56a81f22768.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/fd8ef9ee6b3fe6bc4fb7e44159fe6bbdf559ac901e25d06f3d11090e0876e8a0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/205c763556cc76f5b8e433636180d7d119e7d9d9417d95b1b02608e795170311.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131662/d3d2cc3091d8da0a17b6ebc01c145836652ecb705d1848f36cee4e313b817417.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/aafeee0d5762cc6eb15b6cdf2d3093d286ed574b129d3dbd0bb048f37637283b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9192b3b9b43517e9e13e8a9323000c2725e0fac8f3ba4f2104c73f7dc0be386c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/982550dfe918795dc2b9958a1ea0a7db8517de50559447019151a56a81f22768.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd8ef9ee6b3fe6bc4fb7e44159fe6bbdf559ac901e25d06f3d11090e0876e8a0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/205c763556cc76f5b8e433636180d7d119e7d9d9417d95b1b02608e795170311.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d3d2cc3091d8da0a17b6ebc01c145836652ecb705d1848f36cee4e313b817417.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Solve minor inconveniences, everyday misunderstandings, and of course, little problems. This game is not about saving the world; it's about enriching it, one case at a time.",
+	"description": "You've overslept, missing the first lecture of the day! Your class assignment is due, but what time were you supposed to meet your study group again? These are everyday little problems that require some problem-solving, minor sleuthing, and resolution!\n\nLittle Problems is a refreshing departure from the typical narrative of grandiose conflicts and complex villainy. It invites players to delve into a world where detective work is about connecting with friends, understanding the small yet significant issues of daily life, and finding joy in the simplicity of resolution. This game isn't about saving the world; it's about enriching it, one little problem at a time.\n\nThis charming title, challenges players to solve mysteries around minor inconveniences, everyday misunderstandings, and of course, little problems.\n\nKey Features: \n\u2022 Cute, hand-drawn art by an Indonesian illustrator, Melinda.\n\u2022 Solve Life\u2019s Little Problems: Help Mary through life\u2019s little challenges, small in scale, big in charm.\n\u2022 Handcrafted Puzzles: Each level is a unique scenario, lovingly designed to be clever, approachable and satisfying.\n\u2022 10 Distinct Cases: Each case presents a different scenario with its own set of puzzles and surprises.\n\u2022 Helpful Hints When You Need Them: If you get stuck, you can see where mistakes are, keeping the challenge fun, not frustrating.\n\u2022 Easy to Pick Up, Hard to Put Down: Simple mechanics that grow into playful twists and surprising solutions.",
+	"languages": [
+		"en",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "438 MiB"

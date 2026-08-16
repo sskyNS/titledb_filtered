@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128483/9faf46807037285b1df72252a4fd86b3bd32149619ef7ce2946b24ac1bff882d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/8189f4d822bb4621ae6fc92057c75976_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9faf46807037285b1df72252a4fd86b3bd32149619ef7ce2946b24ac1bff882d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/826044b9e6cd418d02325304301cb32f55c7898f9923aa0580fb23f4d971c596.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128483/55ab6a54ffbcc07983e47e93412724fc25164cc8dff3b2584bbf4d214e8058d3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128483/b5f71be162154c95b26245de3aebca9ae8ff790da94a4af3f67bd9c669038d07.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128483/4cd75a4e21db1f574092e1b96279a844757c439c2f44517ed6eb4e63132afef5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128483/d963f448a2aacb6af635a64fcff6ae9fe0fa53c0650755b59cc68110256a4a2b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/55ab6a54ffbcc07983e47e93412724fc25164cc8dff3b2584bbf4d214e8058d3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b5f71be162154c95b26245de3aebca9ae8ff790da94a4af3f67bd9c669038d07.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4cd75a4e21db1f574092e1b96279a844757c439c2f44517ed6eb4e63132afef5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d963f448a2aacb6af635a64fcff6ae9fe0fa53c0650755b59cc68110256a4a2b.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Study",
+		"Education",
+		"Training",
+		"Party"
+	],
+	"intro": "Are Your Bones Really Harder Than Steel?!\nBecome a Body Expert Through Fun Quizzes",
+	"description": "Discover surprising facts about the human body through fun and engaging quiz challenges!\n\n\u30fbHow many times do we blink in an hour?\n\u30fbHow many more bones does a baby have than an adult?\n\u30fbIf the Earth were flat, how far could the human eye see?\n\nLearn fascinating trivia about the human body that you'll be excited to share with friends.\n\nThe game also includes a helpful Hint feature, making it enjoyable for players of all knowledge levels.\n\nLooking for a fun and easy way to learn about the human body in your spare time? This game is a great place to start.\n\nRecommended for people who:\n\u30fbLove trivia and fun facts\n\u30fbWant to expand their knowledge\n\u30fbEnjoy testing themselves\n\u30fbLike brain-training games while passing the time\n\u30fbDream of working in a medical or healthcare field\n\n\u203bThis game is designed to be played on the Nintendo Switch\u2122 in vertical orientation.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "310 MiB"

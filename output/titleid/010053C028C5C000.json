@@ -1,22 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128937/0dae1d1d2420a0d32b7a9eed47571e152bf94ab0226b8b11aeddeb99e3e5a2d5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7469676faa794b0e9e003206fd997d70_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0dae1d1d2420a0d32b7a9eed47571e152bf94ab0226b8b11aeddeb99e3e5a2d5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4169fbe772640e8016cd4df29b85e3b14120a27b6eed071f6187e207deecd157.jpg",
 	"publisher": "SAT-BOX",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/56067a621ee95fe1a99b3e0d557c20069d46c91f2c740268b5534601d15c2ace.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/005cffa7dc9b790aa8e0181e534ac5dc209d5ffce9b60442401a986830388d7c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/019678e44f6d55618f7fd14f80b542b720e9dde315c082f60bc1db22bebeced0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/14fd03252f3af91ae1f09efe8405e028c31662542b21d84aa4d181fe21b9872b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/804046888413f16548937f0ebd20bffa0f645b0761570568a338e7be3c487444.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128937/effb52a9f6575cc91b468b0d29bcd387eda3ce0f782a8384d712edf1d9daa30f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/56067a621ee95fe1a99b3e0d557c20069d46c91f2c740268b5534601d15c2ace.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/005cffa7dc9b790aa8e0181e534ac5dc209d5ffce9b60442401a986830388d7c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/019678e44f6d55618f7fd14f80b542b720e9dde315c082f60bc1db22bebeced0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/14fd03252f3af91ae1f09efe8405e028c31662542b21d84aa4d181fe21b9872b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/804046888413f16548937f0ebd20bffa0f645b0761570568a338e7be3c487444.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/effb52a9f6575cc91b468b0d29bcd387eda3ce0f782a8384d712edf1d9daa30f.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Communication"
+	],
+	"intro": "Pick up your bug net and set off on a grand summer adventure.\nYour bug-collecting summer vacation is about to begin!",
+	"description": "Enjoy the slow life in a peaceful countryside village.\nHunt for bugs in forests, bamboo groves, rivers, and more.\nMeet the villagers, make new friends, and create unforgettable summer memories.\n\nInsects from across the globe gather in the mysterious woods.\nLegendary insects are even said to dwell deep within.\nFill out your Bug Records and become a master bug collector!\n\n[Simple Bug Catching]\nBug catching controls are simple!\nApproach without startling the bug, then swing your net at the right time!\nCatch the bugs before they escape!\n\n[70+ Species to Catch!]\nCatch bugs native to Japan as well as from around the world!\nComplete your Bug Records by collecting data on every bug you catch.\nFind every species and hunt for record-breaking sizes!\n\n[Collect Bug Nets and Items]\nSave up your allowance to buy new bug nets and items for bug catching.\nUse items to increase your chances of finding rare and large bugs!\n\n[Bug Battles]\nPut the bugs you've caught to the test in exciting battles!\nKnock your opponent's bug out of the battle zone!\nFind the strongest bug you can and become the champion!\n\n[Interact with the Villagers]\nSpend time with your friends and the local villagers.\nHelp them out, play minigames, and enjoy summer vacation to its fullest!\n\n[Decorate Your Secret Base!]\nFreely decorate your secret base with the furniture you collect.\nPick your favorite items to display and make the space your own!\n\n[Online Rankings]\nCompete to capture as many bugs as you can within the time limit in Score Attack!\nClimb the leaderboards with your best Score Attack score and total bugs caught.\nTest your skills against players from around the world!",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "383 MiB"

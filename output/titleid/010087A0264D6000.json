@@ -1,23 +1,45 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116844/08e596349e4a3252b107416ddf3c55379fc858e5e2b8cf53cd39653ae3b4faee.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/24830ddbedb14a1883a9fb25cb24dedc_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08e596349e4a3252b107416ddf3c55379fc858e5e2b8cf53cd39653ae3b4faee.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/06202f2846f429cefd5c647d3ff5b264bee644b2754b96feea08691dbf4ad281.jpg",
 	"publisher": "YONKO ELECTRIC CONSTRUCTION",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/ebf4de2d218cce22757fa470b2155fde4bc2e39ace3fa7cadbc2c7018eae5d2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/ed0f126400203f3fc59598327fe929b9f823c698abec09256575babd1fb4d78f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/0f4e2824a8f23b26f03b2bc3a0252b3dc9349d4c4fcf5efa4f30f77af2074977.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/34898537b2b9f80fe052de4a9abf63eb0c6f0f07213c09e38cc72b6257e610e5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/c1173b31d789999910fdb0c342de1e75564633f10a6dfeab7f70237a4aef085d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116844/34eb5ee4fd5ce34e7342049e781818a83833b97d1994f0a370a197f3e16ef7e6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ebf4de2d218cce22757fa470b2155fde4bc2e39ace3fa7cadbc2c7018eae5d2d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ed0f126400203f3fc59598327fe929b9f823c698abec09256575babd1fb4d78f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0f4e2824a8f23b26f03b2bc3a0252b3dc9349d4c4fcf5efa4f30f77af2074977.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/34898537b2b9f80fe052de4a9abf63eb0c6f0f07213c09e38cc72b6257e610e5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1173b31d789999910fdb0c342de1e75564633f10a6dfeab7f70237a4aef085d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/34eb5ee4fd5ce34e7342049e781818a83833b97d1994f0a370a197f3e16ef7e6.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Simulation",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "Command Tanks in a World War II RTS",
+	"description": "Engage in legendary tank battles and dominate the global war zone! In this intense real-time strategy game, build your base, fortify defenses, and unleash a strategic warfare frenzy. Lead your army of powerful tanks, to conquer enemy forces. Prepare for adrenaline-pumping clashes, execute lightning-fast rushes, and strategically position turrets for an unyielding defense. It's time to prove your tactical prowess and become the ultimate legend in the Armageddon of tank battles!\n\nFeatures:\n- Three campaigns with 28 missions.  (One free campaign)\n- Unlimited multiplayer PvP and PvE. Choose between 9 playable countries: USA, UK, France, Russia, Japan, Germany, Hungary, Romania, and Czechoslovakia.\n- 20 unit types per nation upgradeable for all infantry and vehicles (200 usable upgrades) Tanks, Trucks, Commander Vehicles, stationary guns, and much more.\n- Special extra units: Maus, IS2, Churchill, T29, Katyusha, Gepard, Sturmtiger.\n- Defensive tactics include minefield planting, stationary turrets, and anti-tank assault. \n- Action camera, powerups, boosters, and airstrike capabilities for offensive special attacks.\n- Learning AI that adjusts to the player's skill level.\n- Elevated terrains allowing for multiple strategic tactics.\n\nAudio Engine: FMOD Studio by Firelight Technologies Pty Ltd.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Users Interact",
+		"In-Game Purchases"
+	],
 	"dlcs": [],
-	"size": "1.82 GiB"
+	"size": "1.87 GiB"
 }

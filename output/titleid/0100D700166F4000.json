@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116774/13b36273c272f6f9d1156aea86bd9ee9f6e2ff62b8b4d2d1db73e92e5208b303.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116774/ab7d9683e9834f239a500ac2eb6d4029c1e959717980cdb70ec55d0342f7d16d",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13b36273c272f6f9d1156aea86bd9ee9f6e2ff62b8b4d2d1db73e92e5208b303.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c4842ad7efd78970fff7ccd9f14b65fddac0da9a519beebf98e12f5924001c47.jpg",
 	"publisher": "Hiro Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/c73f636a1fe3a8852af60a08a5573e92eba127f2126db98aa9de244d97b62365.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/2769fa420344f45bbb4f9011929cbdd91a1b94b501240c06bd86cc083b803f87.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/188170ec678986a90ed890e9edbef59079e5f679b29e6c45bcc91649d10f0a56.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/54c9d5beff6d4a9a89cb3736b5440c06566b09639a9da33ed5fbe0d8028bcf30.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/fbee97f4de68bedaac8e9af72a68325862bcd72a99f157afcb72a9b0a290875e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116774/7aaee3de745a889be86b5df399bf7bc42702e0821eecd0c122b61f50ffbf5713.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c73f636a1fe3a8852af60a08a5573e92eba127f2126db98aa9de244d97b62365.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2769fa420344f45bbb4f9011929cbdd91a1b94b501240c06bd86cc083b803f87.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/188170ec678986a90ed890e9edbef59079e5f679b29e6c45bcc91649d10f0a56.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/54c9d5beff6d4a9a89cb3736b5440c06566b09639a9da33ed5fbe0d8028bcf30.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fbee97f4de68bedaac8e9af72a68325862bcd72a99f157afcb72a9b0a290875e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7aaee3de745a889be86b5df399bf7bc42702e0821eecd0c122b61f50ffbf5713.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Sports",
+		"Action",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Punch the net and rocket-jump! Arm Tank volleyball\nPhysics chaos makes every match totally unpredictable\n2-4 player local play wrecks friendships",
+	"description": "That legendary \"Arm Tank Volley\" is coming to Nintendo Switch\u2122!\n\nThe rules are simple: just spike the ball into your opponent's court!\n...but in practice, physics-driven chaos turns every match into total pandemonium.\n\n\u25a0 Arm Tanks play volleyball\nTake control of an Arm Tank and dive into volleyball-style battles.\nThe controls are simple - jump, move left/right, and swing your arm to hit the ball - but nothing ever goes as planned, and that's what makes it hilarious.\nSmash too hard and fly out of bounds, punch the net and go flying, invade the opponent's court... you've never seen volleyball like this.\n\n\u25a0 Five game modes to master\nVersus, Time Attack, Endless, Rally, and Custom - five modes in one package.\nChoose from 3 CPU difficulty levels and dive in whether you've got five minutes or five hours to spare.\n\n\u25a0 Team battles for up to 4 players\n2-on-2 team matches are supported too. Grab your controllers and get up to 4 players hyped.\nCommentary, streaming, and clips are all welcome!\n\nNow, swing that arm! Spike that ball!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "206 MiB"
+	"size": "334 MiB"
 }

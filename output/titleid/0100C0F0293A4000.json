@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131704/bc5095f55261f6f2b1d7dc77b53220466ae2a29859fcd7cca0a287bc834754b5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131704/a306a47c0b23f2c40b4518ca32468a21a0c8df474f5a3c40a21873e20bc4daf2",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc5095f55261f6f2b1d7dc77b53220466ae2a29859fcd7cca0a287bc834754b5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5c66e9228d42487da8eb2c454054b63bd3b55b1e3059a323d6b98c05aa3f14ec.jpg",
 	"publisher": "Cascadia Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/77a60ca8098f4f17b6a156c71a69627601c1ebc175a8d6faec31f464c64d5e68.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/db4fe53992cf0fdad198ae8f83c7c88641d02b659d5a86415cea87fa9dd36c9b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/ed95c506c8358b51c084d5188e21affba5aae709b7671efb0d703559ebffb425.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/e9402bc526593dc33a83c956d6c7320cf6b234feac676c19e2101837b1a7ea1b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/b39093918237e3e04d00d23ae273bcff2aa5869b855e49444ec26697377f9980.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131704/005d2bb1da2e5b3f398b2cd4cfa20b86b42ce38465ddfcc2a4bf14eeb1bbc869.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/77a60ca8098f4f17b6a156c71a69627601c1ebc175a8d6faec31f464c64d5e68.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/db4fe53992cf0fdad198ae8f83c7c88641d02b659d5a86415cea87fa9dd36c9b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ed95c506c8358b51c084d5188e21affba5aae709b7671efb0d703559ebffb425.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e9402bc526593dc33a83c956d6c7320cf6b234feac676c19e2101837b1a7ea1b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b39093918237e3e04d00d23ae273bcff2aa5869b855e49444ec26697377f9980.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/005d2bb1da2e5b3f398b2cd4cfa20b86b42ce38465ddfcc2a4bf14eeb1bbc869.jpg"
 	],
 	"releaseDate": 20260724,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Chill co-op cowboy adventure. Up to 2 players!",
+	"description": "The cave ranger returns with his lady by his side in this treasure-hunting adventure! \n\nJourney underground is search of long lost loot. Face down giant bug, snakes, and rival looters. Crack your whip, fire your pistol, and toss some TNT in this lighthearted, laid-back western, full of platformer fun.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood"
+	],
 	"dlcs": [],
 	"size": "191 MiB"
 }

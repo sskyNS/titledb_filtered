@@ -1,23 +1,47 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117523/6b95dd0140bf7839564c4ab1403cb4960a28af04dd37f0e2a46e53ad083ccc45.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/14b6a3490b474ad8ac357eedb2c0d28c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b95dd0140bf7839564c4ab1403cb4960a28af04dd37f0e2a46e53ad083ccc45.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b087d9f8a9c665079deae18f6b53a0a0b77620a972922d9171d7813dc906ebd1.jpg",
 	"publisher": "Laser Guided Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/465e0589b294a601ea6abdf92885423fd5b851d7c8300d740b12152b3daf4fb9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/69e04cd776cc50b654f11641b0041debfa49fcbe494f096fb670d89bcc2a4b7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/7564fe51ac4cb7829866da2f939091f27c1ba0cd04135cea7be388e4c9c63f98.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/a259a3d49822d2be97074fff9c98d5722399f9f16f2cb91900392a8288a91fa2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/47dae669221a86c0e745a5e5026088f2618592940163ec6673c277f50ebc38c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117523/cccea7aa24fb28f7a9070076fb05cb277e7782b53515ba75a7389b7529ff6088.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/465e0589b294a601ea6abdf92885423fd5b851d7c8300d740b12152b3daf4fb9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/69e04cd776cc50b654f11641b0041debfa49fcbe494f096fb670d89bcc2a4b7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7564fe51ac4cb7829866da2f939091f27c1ba0cd04135cea7be388e4c9c63f98.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a259a3d49822d2be97074fff9c98d5722399f9f16f2cb91900392a8288a91fa2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/47dae669221a86c0e745a5e5026088f2618592940163ec6673c277f50ebc38c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cccea7aa24fb28f7a9070076fb05cb277e7782b53515ba75a7389b7529ff6088.jpg"
 	],
 	"releaseDate": 20260826,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"RPG",
+		"Multiplayer",
+		"Adventure"
+	],
+	"intro": null,
+	"description": "Fractured Worlds is a Dark Fantasy Action RPG set in a reality that has been broken into pieces by the ambition of its inhabitants. Now, guided by a mysterious voice, you must explore these broken realms, piece together the past, and confront those responsible for this cataclysmic event.\n\nDeliberate, Precision-Based Combat\nEach weapon has its own weight, speed and moveset. From two handed maces with slow staggering attacks, to nimble spears perfect for crowd controlling enemies and magic wands controlling the flow of Aether - everything plays and feels different. The classless progression system allows for multiple respecs so it\u2019s easy to try a little bit of everything or adjust your character to a particularly powerful Legendary item you find.\n\nEncounter Other Players\nReality's distortion means that the worlds of other players might briefly overlap with yours. You can choose to interact with them, or simply continue on your own path. You can invade and assist, support and deceive, share a profitable loot pile or lure other players into a particularly deadly mob of enemies and collect the spoils once they are dealt with.\n\nExplore Diverse, Broken Realms \nJourney through unique procedural environments that are fragments of former worlds. Navigate medieval Dungeons, the mystical enchanted Forests, volcanic landscapes, and future industrial Cities. Find memory fragments that reveal the stories of those affected by the cataclysm, helping you understand what happened and mend the broken world.\n\nShare a Piece of Your World\nMap Shards are powerful artifacts that allow players to share a piece of their world with others. Map Shards create a co-operative instance with random modifiers that unpredictably alters the monsters that inhabit the area and boost the loot they are guarding. When sharing the area with others, players can comment on it letting everyone know about what to expect in the area: vast riches or especially challenging encounters.\n\nFace Challenging Bosses \nConfront powerful bosses that stand in your way. Battle the Treasure Golem, the mind-altering Rorsch, the imposing Ghostly Knight, and many more. Each boss encounter is a tough and deadly challenge where a single mistake can cost you a significant chunk of your health if played poorly. But every action in these fights is thoughtfully designed and well-telegraphed, so with practice, you can conquer even the greatest foe.\n\nFractured Worlds offers a journey through a broken reality, focusing on direct action and the task of restoring what was lost.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Sexual Themes",
+		"Use of Alcohol",
+		"Violence",
+		"Users Interact"
+	],
 	"dlcs": [],
 	"size": "12.29 GiB"
 }

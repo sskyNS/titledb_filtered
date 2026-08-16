@@ -1,22 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128041/1d98de2ac1cc829228d3974e027ae17d08a4e8617ea6f93b78426ab79abc53f4.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128041/e6a8a0318ce01823e7f68c8de3a336a6de21113e616cde4e115e9dcd6965c80e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d98de2ac1cc829228d3974e027ae17d08a4e8617ea6f93b78426ab79abc53f4.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5a8a1d6aef0f194c56f654334b1d74c3ba2544cf54ba56db3a10d13c27f0f66d.jpg",
 	"publisher": "TOEI ANIMATION",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/c9df185ed93fd80b774a213dd0117a20239a491b0748a761b21b308717645002.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/711fb5fa7f7cad6ee26eda9fc5cbb1ce68b578f4773ae96b09ebc5a3f444c37a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/57674f21698e0128ef5db8423813c51bff4bf4db4558d55daf5228f0371fb2fc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/972e1414e7a656324305f75dde29d4f310b7bbb6d587124a649fb11465fd31a1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/ac9d3272efd7064fd5aa6464035cf0d68f6dcee83a567755213ace32a495c10b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128041/d14657bd7606e0d7eb20533ab4c81054f94024a2ba162a98d7eb9b47679c1aa1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/adeeeb5d0e71dd1d3871b6523cc3df9e91769e8ad3f989ce6a8b4443605f16d4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6634155145feca93b1373d551d9548587b40b855fdf1f2396a1145b95fb7a7c9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d3003402c901c70fc47a33561f21d044248be5bb671b4f3241e6be9e73104213.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/455ee6596bae46cdbdaf53ff07f627943005ec733d673e58c537649515372613.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c6ca22b7caf5aa393501c22bf96df69b66c13110c0baee3e0770d9cad09f7e54.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28f2c043bfce6fd644fe20d86ea83f5b748cdc31ac23484b84582874f663259f.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action"
+	],
+	"intro": "Carry Momoka home to her sofa!",
+	"description": "Introducing a quirky minigame based on the anime Girls Band Cry!\n\nAlongside console support, the latest version of this game includes a new playable character\u2014Iseri Muneo\u2014and a new Truck Mode, where you need to reach the goal without falling off a moving truck!\n\n\u25a0Game Overview\nMomoka (wo) Wasshoi was developed by staff of the anime Girls Band Cry. Wacky, weird, and wonderfully goofy, it's been streamed by the anime's cast to the delight of the series' fans.\n\nThis straightforward 2D platformer has you take control of Nina Iseri and Subaru Awa as they run, jump, and carry a groggy Momoka Kawaragi past loads of obstacles, all to fling their bleary-eyed guitarist onto her couch so she can catch a few much-needed Zs. It features several unique levels, including a challenging auto-scrolling level where you'll need to balance atop a speeding truck to reach your goal!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 3,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "201 MiB"

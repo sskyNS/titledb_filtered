@@ -1,21 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125325/ca34cfa88b79cd7def17d9a07b4d4c8ee992fd136b8426a387ee46b64df5c3da.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125325/7828c8e75a4ed8778e744ab99976b3fe83ba0b54ae161e9262703b6613e28e45",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ca34cfa88b79cd7def17d9a07b4d4c8ee992fd136b8426a387ee46b64df5c3da.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/50b690c44f5b111450af3afa6f868f7d1717f5608216c28a6adea475c1943d68.jpg",
 	"publisher": "ASI GAMES TECHNOLOGIES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125325/130fc08d40aadf6719ee94c5b4b19dd88428b9859f7c7047916406706a210e79.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125325/1b7a6543d9188616ff186c6e4a020205a716ed592df58948a16f47ea6ed4f207.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125325/b8ce733bfed7269ab12a4b1f75260be3b7876ff8dc9741e0e66469d9bba02646.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125325/3845a58e9c39b02b0ec35a107302370457212f38ef7777f266ebb0d32ae3ef2a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/130fc08d40aadf6719ee94c5b4b19dd88428b9859f7c7047916406706a210e79.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1b7a6543d9188616ff186c6e4a020205a716ed592df58948a16f47ea6ed4f207.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b8ce733bfed7269ab12a4b1f75260be3b7876ff8dc9741e0e66469d9bba02646.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3845a58e9c39b02b0ec35a107302370457212f38ef7777f266ebb0d32ae3ef2a.jpg"
 	],
 	"releaseDate": 20260715,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Destroy, collect pets, and evolve your creatures!",
+	"description": "Brainrots Evolution is an adventure game where you smash objects, collect adorable pets, and unlock new characters.\n\nAs you progress, you gain access to new animals, abilities, and exciting upgrades that push your evolution forward. Break everything in your path, gather rewards, and expand your collection.\n\nEach stage brings fresh challenges and new creatures to discover, making your journey more powerful and diverse. Evolve, explore, and build your ultimate lineup of unique characters!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "114 MiB"
 }

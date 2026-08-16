@@ -1,21 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127532/19c165e9ecdbfa0a2448e001747b74e1215d210548203fcdc5d13159ddd185ed.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127532/ac2626a9acae0877dc0993d37c4833802e37cbbe37b661c4c2f57cc4204b32c3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/19c165e9ecdbfa0a2448e001747b74e1215d210548203fcdc5d13159ddd185ed.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4942999e8cd1ca8a0b31cbd6ac3396813077bff509d15b7ca7dcd1993fff5ee6.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127532/dae7c0873456e1595781dc04c7d180d2ea8f5a8f76361e0efe6d5ef1739d2ced.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127532/086c571440d7b55d1758c3ef39cf36ec5894f2146b247e27723a6b4fa67e5af0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127532/1c98b4049913c99c59d3b45b8618a4120ff63ad85c54e0d56b0fc0e76d9a87cf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127532/f48ba96e9812c4358c78ab9dc67e2b790bd2650234270af950db32bfdd1d9121.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/dae7c0873456e1595781dc04c7d180d2ea8f5a8f76361e0efe6d5ef1739d2ced.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/086c571440d7b55d1758c3ef39cf36ec5894f2146b247e27723a6b4fa67e5af0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1c98b4049913c99c59d3b45b8618a4120ff63ad85c54e0d56b0fc0e76d9a87cf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f48ba96e9812c4358c78ab9dc67e2b790bd2650234270af950db32bfdd1d9121.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Training",
+		"Study"
+	],
+	"intro": "Something about the neighbor is... off today.\nCan you spot the unease hidden in plain sight?",
+	"description": "One morning, the neighbor next door doesn't quite seem normal \u2014\n\nA curtain left slightly open. A flowerpot on the balcony. The mailbox by the front door.\nWithin these mundane, everyday scenes, something is definitely... wrong.\n\nThis is a mystery-and-horror visual puzzle quiz, where you peek into the seemingly ordinary life of your neighbor and tap to uncover the unsettling details hidden inside each picture.\n\nEach scene quietly hides four clues, blended naturally into a perfectly normal image.\nAt first glance, nothing seems off \u2014 but as you read each question, a chill creeps up your spine: \"Wait... that's not right.\"\n\nHow to play is simple.\n\u30fbObserve the picture carefully\n\u30fbRead the question and tap the suspicious detail\n\u30fbFind all four, and inch closer to the neighbor's \"truth\"\n\nWhen you get stuck, gentle hints will nudge you toward the type of clue you should be looking for.\nA quiet, creeping mystery \u2014 just one wall away from your everyday life.\nUse your eye for detail to uncover what the neighbor is really hiding.\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Blood",
+		"Mild Language",
+		"Mild Violence",
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "346 MiB"
 }

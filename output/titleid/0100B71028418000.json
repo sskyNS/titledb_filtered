@@ -1,23 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125463/ac480eb7f17a17de77f3905f97c7c7c3a95efde7e17308ca3cb398a3b36a71f0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125463/ce9ea702a5e861f28c95c7ef167fb5c216cc7e6a67aeae06d88977914abea8fc",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac480eb7f17a17de77f3905f97c7c7c3a95efde7e17308ca3cb398a3b36a71f0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/70ebff0672929d787c6b4dcf4ba382c8ef163e18dc547e9575868e186e152f2f.jpg",
 	"publisher": "Penguin Pop Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/76b85112d69ddc1f81fe4a4f56d9de0d977170fd60409b21bd8b83ae002e621c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/f61f67b3982f47146b9c66572ba1a9e4409f0a25ba25598a58aefd429180a30a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/c0e66c6c274bd71491161df8a0c8d10af8400c08fef90caf74befc4a7b604fb6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/a8f5b373afce2d84b86f655859c64995e5533c4f7928df0a0cb09eb69f2d9188.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/6539892e40861a739486bf8bdd7ee48eee966e16ca2f0a0b264df5448b699154.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125463/e4858aa7192c1ff1df307924112d8ad1612c2b8dad985e4cb1259d590f811033.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/76b85112d69ddc1f81fe4a4f56d9de0d977170fd60409b21bd8b83ae002e621c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f61f67b3982f47146b9c66572ba1a9e4409f0a25ba25598a58aefd429180a30a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0e66c6c274bd71491161df8a0c8d10af8400c08fef90caf74befc4a7b604fb6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a8f5b373afce2d84b86f655859c64995e5533c4f7928df0a0cb09eb69f2d9188.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6539892e40861a739486bf8bdd7ee48eee966e16ca2f0a0b264df5448b699154.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e4858aa7192c1ff1df307924112d8ad1612c2b8dad985e4cb1259d590f811033.jpg"
 	],
 	"releaseDate": 20260805,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action"
+	],
+	"intro": "Explore a procedurally generated world and fulfill time-sensitive quests in this frantic underwater adventure!\n",
+	"description": "In a watery world similar to our own, the clock is ticking\u2013 literally! An impending doom will end the world in 24 hours, but the denizens don\u2019t seem to mind. In-fact, they seem far more concerned with hoping their precious items are delivered in a timely fashion. After all, even those at the end of the world need their packages delivered!\n \nDeep Sea Delivery and Co. is an open world procedurally generated adventure game with an arcade look and feel. Play as a humble Bubble Delivery Worker and carry special items to complete quests as quickly as possible! Be careful though, as these items double as your only means of offense as well! Will you complete all your quests in time?\n\nTaken on a multitude of different quests, each challenging a different skill and changing how you navigate. Likewise, at shops scattered throughout the world, upgrade your Bubble's offensive and defensive abilities-- including special power ups and healing items. You'll need these upgrades if you have any hope of surviving against sudden boss battles and uncovering hidden themed biomes. You can also customize the music that plays in the background at any time, and create a playlist of your favorite jams. The world is your oyster, so make the next 24 hours count! \n \nFeatures:\n* A Massive Procedurally Generated World\n* Over A Dozen Unique Biomes, Enemies, Treasure, and more!\n* RPG-Lite Abilities and Upgrades\n* Customizable In-Game Radio\n* Timed Quests Scattered Throughout the World\n* ...and even more waiting below the surface of this watery world!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "549 MiB"
 }

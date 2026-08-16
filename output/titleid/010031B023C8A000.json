@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000098950/3fef877161bf089adfb9dd83b3fa00ad784afea31cb424df80836d681b38fed3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/785ae6eb443042ef807961e5abb54ca0_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3fef877161bf089adfb9dd83b3fa00ad784afea31cb424df80836d681b38fed3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b88a2cae92d7c502b542daffb4b3d5ed403d29ed6970c964039c0b3377c82676.jpg",
 	"publisher": "ARTE Experience",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/7971f6fc9f8f96a7142c5325e9b685ad39549077326bf4dac17a6357913fa8fb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/022c197c68bedf3e0ce1798080be53b464902d088d3742f37b0097c78549e822.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/a14e5b565065f4b643ac8d87557b04b4def7e05171cdc46ba1e61d873c092d2c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/7ebd8fd5d20ccf3e905f666d489e3731500fca93fa2a642821e950869f8beb6f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/2085ef0b8ef1475eb225be4c3618477aec26bf00a035f3323829092c3f5d7c74.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098950/8620aea9993a7eb9d226296945f9097854f3219c4c612c51edfe8f1d4016da42.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7971f6fc9f8f96a7142c5325e9b685ad39549077326bf4dac17a6357913fa8fb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/022c197c68bedf3e0ce1798080be53b464902d088d3742f37b0097c78549e822.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a14e5b565065f4b643ac8d87557b04b4def7e05171cdc46ba1e61d873c092d2c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7ebd8fd5d20ccf3e905f666d489e3731500fca93fa2a642821e950869f8beb6f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2085ef0b8ef1475eb225be4c3618477aec26bf00a035f3323829092c3f5d7c74.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8620aea9993a7eb9d226296945f9097854f3219c4c612c51edfe8f1d4016da42.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Search for your missing roommate in your apartment.",
+	"description": "A surreal, closed-door maze\n\nIt all starts with a strange voice message left by Fael, your roommate. Little by little, the apartment you thought you knew multiplies into a multifaceted maze filled with mysterious puzzles.\n\nIn search of a sign of life from your roommate, you'll have to learn to find your bearings in this enclosed space with its strange and lonely atmosphere. Advance room by room, decipher the clues left behind, and embark on the adventure that has transformed your apartment into a surreal maze.\n\nBut be careful: as you progress through this maze, you will be led to question the very nature of reality. Will you be able to connect the clues and piece together the puzzle left behind by Fael?\n\n\nAn immersive and nostalgic escape game\n\nTo find Fael, your wits will be your only ally. Each apartment is a puzzle in its own right, with its own logic behind a multitude of puzzles. But don't expect to find a comfort zone: the messages left by your roommate have been designed to confuse you...\n\nHowever, this maze has a common thread that connects each apartment to the others: your actions in one place can have repercussions elsewhere, sometimes with unexpected consequences. All kinds of machines, created by Fael's genius, will be at your disposal to help you progress, such as the Game Leaf, a strange game console that is essential to your progress.\n\nActivate mysterious mechanisms and impact your environment to solve puzzles and continue your exploration. From a simple living room to a room overgrown with vegetation, a cinema, a laboratory, and many other rooms, everything is connected, everything is one.\n\n\nGAME FEATURES:\nA kaleidoscope of apartments and atmospheres. \nExplore a variety of environments from the imagination of comic book author Beno\u00eet \u201cBeloup\u201d Leloup. From one apartment to another, discover a world full of cultural references and colors, reflecting Fael's dreamy personality.\n\nThe Game Leaf: a tribute to the 90s. \nUse your Game Leaf, a mysterious console straight out of the 90s. Solve puzzles in the form of nostalgic mini-games and unlock new areas to explore. Each apartment is a piece of the puzzle that will lead you to the truth about Fael's disappearance.\n\nA cabinet of curiosities. \nThe apartments are filled with oddities that will challenge your imagination and logic. Manipulate strange machines, let your natural curiosity run wild, experiment with solutions, and observe the fruits of your efforts.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "530 MiB"
+	"size": "532 MiB"
 }

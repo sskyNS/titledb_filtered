@@ -1,20 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127485/d9904adb75aec34fa7cdc8bcafb4f5bcc96bf2d30d58d74e8cf160dca3c85434.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c609666bacca498d82c5943d03e02249_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9904adb75aec34fa7cdc8bcafb4f5bcc96bf2d30d58d74e8cf160dca3c85434.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8cf5f6c45b0797069603bf04386a09e063d2c0d85608ce8bc1ac9060a9acab1f.jpg",
 	"publisher": "Afil Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127485/a5d7c3999101a28b94cd45e98985f7b025e3ae9a011a158638bc34a4992f8c76.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127485/3bdf39e43c4c37467ab0f7f1e3fd582ef7a9c92aec7752d617969e325884ee28.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127485/ef7681139003a74f41021aa02f87cbada08ee11378b54dee4b8bb22143d6b8e3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127485/e40057116a98299a3c61633aadc44729a49b98f5994d970cac72cb1493fd4722.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a5d7c3999101a28b94cd45e98985f7b025e3ae9a011a158638bc34a4992f8c76.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3bdf39e43c4c37467ab0f7f1e3fd582ef7a9c92aec7752d617969e325884ee28.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ef7681139003a74f41021aa02f87cbada08ee11378b54dee4b8bb22143d6b8e3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e40057116a98299a3c61633aadc44729a49b98f5994d970cac72cb1493fd4722.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Traps, Dinosaurs, and Strategic Chaos",
+	"description": "Prepare for a prehistoric battle where intelligence matters more than brute force. In Dino Hex Trap, every trap can completely change the course of the invasion, and every decision transforms the battlefield into a massive strategic puzzle filled with action and creativity.\n\nForget fixed towers and predictable strategies. Here, you control traps placed across a dynamic hexagonal field where direction, spacing, and positioning make all the difference. Rotate, reposition, and combine traps to turn seemingly safe routes into true corridors of Jurassic destruction.\n\nWaves of dinosaur-inspired creatures keep advancing, and it is up to you to stop them before they reach your base. But resources are limited, so every choice matters: expand your defense with new traps or reorganize the ones you already have? Improvisation is part of survival.\n\nAs the campaign progresses, new trap types unlock increasingly creative possibilities. Some levels already begin with fixed structures spread throughout the map, completely changing the way you think about strategy and forcing you to constantly adapt.\n\nWith 30 levels spread across morning, afternoon, and night biomes, Dino Hex Trap combines planning, resource management, and spatial awareness in fast, smart, and deeply satisfying challenges.\n\nWith stylish visuals, engaging battles, and that perfect feeling of \u201cnow my strategy is brilliant,\u201d Dino Hex Trap is an irresistible experience for players who love strategic defense, meaningful decisions, and defeating hordes in the most creative ways possible.\n\nWatch the paths, prepare your traps, and prove that even dinosaurs can fall into the perfect plan.Traps, Dinosaurs, and Strategic Chaos",
+	"languages": [
+		"en",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "189 MiB"

@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124053/ace1c055688047e19df82190c4b404bb5880943ce82dec004f12ab9c15090a59.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124053/47981fd219176cd79576c61ac8320c3cb4250238296e6db0829436a681373f9c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ace1c055688047e19df82190c4b404bb5880943ce82dec004f12ab9c15090a59.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7c1ad07fdc2af0bdba2d00d89de018a0b18638c1146efc83b26f499ccf6882c.jpg",
 	"publisher": "eastasiasoft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/f84526e43758b9be788958012e12f34639b2778433f12b020af90e3934276019.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/75fb494571b16f06fbb597265d643401ea13f6993ac4069ce06fb890aa5060a6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/7f89990c88533aea24c3184789a9665933e09a118dae8e0308cfae0909537cf8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/8eedbc885cdd075b50d957b0a34ffabea2554679858026a633a16113f643b4c4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/5276a018e1aacc012f23a6cd0969a415fd2e4552471af7631bc17d5f378f8daf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124053/5522a2f399304aa04be76b67079e4e84e1f602f5e80a38e9264a03004ed98108.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f84526e43758b9be788958012e12f34639b2778433f12b020af90e3934276019.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/75fb494571b16f06fbb597265d643401ea13f6993ac4069ce06fb890aa5060a6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f89990c88533aea24c3184789a9665933e09a118dae8e0308cfae0909537cf8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8eedbc885cdd075b50d957b0a34ffabea2554679858026a633a16113f643b4c4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5276a018e1aacc012f23a6cd0969a415fd2e4552471af7631bc17d5f378f8daf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5522a2f399304aa04be76b67079e4e84e1f602f5e80a38e9264a03004ed98108.jpg"
 	],
 	"releaseDate": 20260805,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Solve puzzles by becoming the pieces you defeat in a strategic and brainteasing twist on classic chess!",
+	"description": "Strategize and conquer in a brainteasing twist on a tabletop gaming classic! Mate\u2019Morphosis is a chess-inspired puzzle game built around the concept of becoming the pieces that you capture. Outsmart each board, adapt to evolving mechanics and hunt down the rival king across every stage! Instead of commanding multiple pieces, you\u2019ll need to navigate the board with a single player piece that transforms into the type of piece you\u2019ve just defeated.\n\nStep up from pawn to knight, bishop or rook in order to take out the queen and finally gain the freedom of movement necessary to checkmate the king. Your route evolves with every move. Learn as you go, even if you\u2019re not a master at classic chess! Enjoy retro 2D pixel art presentation and tight hand-crafted challenges with quick restarts, fast strategic pacing and a gradual climb in difficulty across dozens of unique stages!\n\n\u2022 Push your strategic thinking to the limit!\n\u2022 Master 60 hand-crafted puzzles inspired by chess.\n\u2022 Command a single piece and morph into the ones you defeat!\n\u2022 Determine your route to victory over the queen and put the king in checkmate.\n\u2022 Enjoy beginner-friendly rules and gradual increase in challenge!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "140 MiB"
+	"size": "210 MiB"
 }

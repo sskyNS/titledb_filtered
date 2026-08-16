@@ -1,22 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129672/812de11b55595fc17f2364c5b18e93b98637c7a034dee6e125e16789d0950ee4.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129672/e9dfe4f9196b8f1e3c29fe8c6cd66c7749ed78a9b883ca6c52df77e9adb21c28",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/812de11b55595fc17f2364c5b18e93b98637c7a034dee6e125e16789d0950ee4.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f5b06dccf1e0f9782a78396ed7ddf23298ade4b9c1d59bcf1f788a33cf2b1753.jpg",
 	"publisher": "Iurie",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/ca7e789f4b101f887101d9f73b15fe3eeb66f47278c01663325ab57cdbe3f6d5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/a27f7cd792e6c654de9f83befa458a1270cee07f4e192996b7db6d327a21deed.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/c272418f3e23b9b9441ed9c4dcbe7c0463161f3391d30764398699d40874516c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/7223925fb94433c24345b91efdf17fdbab8419ac9e8da0d5c2c20fb2376ac7d2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/ef69d38febff2f6177f9f37d5bce9d65309d7ec2161d10eaeb9699759ae4e9ef.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129672/400c7bd09f4cb3db0d032c2c4a0033395c449e2d3555d974ea31479796e6db76.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ca7e789f4b101f887101d9f73b15fe3eeb66f47278c01663325ab57cdbe3f6d5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a27f7cd792e6c654de9f83befa458a1270cee07f4e192996b7db6d327a21deed.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c272418f3e23b9b9441ed9c4dcbe7c0463161f3391d30764398699d40874516c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7223925fb94433c24345b91efdf17fdbab8419ac9e8da0d5c2c20fb2376ac7d2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ef69d38febff2f6177f9f37d5bce9d65309d7ec2161d10eaeb9699759ae4e9ef.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/400c7bd09f4cb3db0d032c2c4a0033395c449e2d3555d974ea31479796e6db76.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade",
+		"Lifestyle"
+	],
+	"intro": "Farm, fish, explore, and build the coziest kitty island paradise!",
+	"description": "Welcome to Kitty Farm Island!\n\nStart your journey as a cute little kitty and transform a tiny island into a thriving farming paradise.\n\nPlant crops, harvest fresh produce, earn coins, and unlock exciting new areas as your farm grows bigger and bigger. Explore three unique island regions, from peaceful green fields to sandy deserts and snowy winter landscapes.\n\nHire adorable kitty farmers to help with the work and upgrade them to become even more productive. Expand your storage, improve your animals, and build the ultimate farming empire.\n\nTake a break from farming with relaxing mini-games:\n\u2022 Catch fish in peaceful waters\n\u2022 Shake fruit trees and gather fresh harvests\n\u2022 Milk cows for valuable products\n\u2022 Collect eggs from chickens\n\u2022 Shear fluffy sheep for wool\n\u2022 Upgrade animals to increase production\n\nEvery harvest brings new opportunities. Earn more money, unlock new territories, discover new resources, and watch your island community grow.\n\nWhether you enjoy farming, collecting, upgrading, or simply relaxing with cute cats, Kitty Farm Island offers a cozy and rewarding adventure for players of all ages.\n\nFeatures:\n\u2022 Cute kitty-themed farming adventure\n\u2022 Three unique island environments\n\u2022 Crop planting and harvesting\n\u2022 Hire and upgrade kitty workers\n\u2022 Animal care and production systems\n\u2022 Multiple relaxing mini-games\n\u2022 Progressive island expansion\n\u2022 Simple controls and casual gameplay\n\u2022 Family-friendly experience\n\nBuild, harvest, explore, and create the ultimate kitty farming paradise!\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "279 MiB"

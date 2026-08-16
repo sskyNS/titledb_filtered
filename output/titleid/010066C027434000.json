@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119034/e27ee3e0b85968fb66a9e8bf37a443b4f60d6973518053cfc248c3a065430918.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119034/13b12e35d2e6b9d3a03b6e5aeac2151e68b988ccd9c89a7838c67f75ef38b457",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e27ee3e0b85968fb66a9e8bf37a443b4f60d6973518053cfc248c3a065430918.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/df76bc1628568bc447c0b96d33a366bad2ed963a5b4802cf53adb03c5f25bd3e.jpg",
 	"publisher": "eastasiasoft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/b30f3aad813177d274541de6b52673b41cef46372caa2fbb253978d41f7e2ced.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/c9ebdaaa679869f5d008c97e86944fc1ce9a086836d1f6bfb4fd900151cdb7d8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/1b0c5fe4e538153f09732ffaebd71052a8b53b99e046fa12eb52806f14624973.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/89f306df6c638091208bc877de215e93a0b55077c1a7845a88ddb89922c58513.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/c5f7b0fac54c40f44e3745aa347eecaf2ef1ab87cadc1f084a54dce5fde9d4f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119034/7f2aa2ebe17828c71db9fae9fa4ea620d70f8b0dea9d830be69149dd0bfaf26a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b30f3aad813177d274541de6b52673b41cef46372caa2fbb253978d41f7e2ced.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c9ebdaaa679869f5d008c97e86944fc1ce9a086836d1f6bfb4fd900151cdb7d8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1b0c5fe4e538153f09732ffaebd71052a8b53b99e046fa12eb52806f14624973.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89f306df6c638091208bc877de215e93a0b55077c1a7845a88ddb89922c58513.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c5f7b0fac54c40f44e3745aa347eecaf2ef1ab87cadc1f084a54dce5fde9d4f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f2aa2ebe17828c71db9fae9fa4ea620d70f8b0dea9d830be69149dd0bfaf26a.jpg"
 	],
 	"releaseDate": 20260902,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Racing"
+	],
+	"intro": "Race for the top in a rally-focused arcade spin-off to the popular Super Woden series!",
+	"description": "Start your engines and get ready to climb your way to the top of the motorsports world! Super Woden Rally Edge is a spin-off of the critically acclaimed Super Woden saga of racing games, blending classic arcade essence with technical depth and a genuine love of car culture. Inspired by genre classics but sporting a personality all its own, Super Woden Rally Edge takes you back to an era where fun goes beyond strict realism.\n\nNavigate using an intuitive overworld map interface and collect a vast variety of vehicles, from the smallest and humblest to unstoppable hill-climb machines. Buy, sell, upgrade and customize cars in your garage, show off your photography skills in photo mode, record your times and try to beat other players\u2019 records. Enjoy a multitude of environments with different terrain and weather conditions to negotiate, all set to an original soundtrack and presented with unique stylized visuals!\n\n\u2022 Climb the ranks of the motorsports world in arcade-style rally events!\n\u2022 Race the clock to claim podium positions.\n\u2022 Use your winnings to buy new cars, customize and upgrade!\n\u2022 Explore using an old-school world map interface.\n\u2022 Check stats, take photos of your cars, listen to music and more between races!\n\nThis game and the content contained therein is not authorized by car manufacturers or motor racing competitions and there is no association thereof.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors"
+	],
 	"dlcs": [],
 	"size": "1.36 GiB"
 }

@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122150/bc8c73b502b8e213473a2dc13aa8423236fd790357a34b4ef81df275ac467e8e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122150/889f9e2fd50099ad5a619ff8fa2f2c1d131d0c7b03c8f36d48a805ebaa806009",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc8c73b502b8e213473a2dc13aa8423236fd790357a34b4ef81df275ac467e8e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e10e835f10fde512a862a4085705ed6ad2c8999a77d24d619dbb145af1f27d7.jpg",
 	"publisher": "Global Games Publisher",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/1a5cdbdfa73142df0823db59ab3d6e4dfd9fc7eda661594cf6908c0efe252047.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/65102a8f194451ec1a0650e6e2beb1484edbd0fc7139ffb9912cc751facddd68.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/d8399a641370db411f77554d8100448e8aab527753f95bdb748670d206b9b61e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/130838f89819e3c6aee9875d02cd21ce661fbcded71b10f76b84bfef86465ff1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/082dde7cd8436378f17f99e8cf3195e5d5764feb54adc561130038d5122425cf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122150/2a4a51eecde3d388290c2725e939c6e37df0b37d2e90ef0b6f6950b7c8530b36.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1a5cdbdfa73142df0823db59ab3d6e4dfd9fc7eda661594cf6908c0efe252047.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/65102a8f194451ec1a0650e6e2beb1484edbd0fc7139ffb9912cc751facddd68.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d8399a641370db411f77554d8100448e8aab527753f95bdb748670d206b9b61e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/130838f89819e3c6aee9875d02cd21ce661fbcded71b10f76b84bfef86465ff1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/082dde7cd8436378f17f99e8cf3195e5d5764feb54adc561130038d5122425cf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2a4a51eecde3d388290c2725e939c6e37df0b37d2e90ef0b6f6950b7c8530b36.jpg"
 	],
 	"releaseDate": 20260714,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Can you outsmart hungry sharks and conquer the dangers of the sea?\n",
+	"description": "Stranded in the middle of the endless ocean, you have nothing but a fragile raft, a rusty hook, and the determination to survive. With no land in sight and no help on the horizon, every day becomes a challenge. Gather whatever resources the sea provides, manage your supplies carefully, and find ways to stay alive in an environment where even the smallest mistake can have serious consequences.\n\nThe ocean is vast, unpredictable, and filled with both opportunities and dangers. Collect floating debris, expand your raft piece by piece, and transform it into a sturdy shelter capable of withstanding storms and defending against threats lurking beneath the waves. As you grow stronger, venture farther from your starting point to discover tropical islands, gather rare materials, and uncover secrets hidden across the endless sea.\n\nFeatures:\n\u2022 Build, repair, and expand your raft into a floating survival base\n\u2022 Craft weapons, tools, and equipment to improve your chances of survival\n\u2022 Explore tropical islands and search for valuable resources and hidden treasures\n\u2022 Dive beneath the waves and discover the mysteries of the deep ocean\n\u2022 Defend your raft against sharks and other dangerous sea creatures\n\u2022 Gather resources, unlock upgrades, and grow stronger with every journey\n\nWill you turn a few scattered planks into an unstoppable ocean fortress, or will the sea become your final challenge?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "384 MiB"
 }

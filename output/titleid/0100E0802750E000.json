@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119444/bf6e079a9a8b0830048b730ef9e5eea2c98d5fb152b462bc03856f75df508735.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119444/0e72d9a180119eb28f738bf0c06050d44296534830a1951182f0602990a944a8",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf6e079a9a8b0830048b730ef9e5eea2c98d5fb152b462bc03856f75df508735.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a5d8f8787b308c7f91bc8b841efe1d0c66ea9c5c8d152b475eae10207b2f07fe.jpg",
 	"publisher": "ChubbyPixel",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/ab0f064bc3594878efdef52d74097b273f3a48d098115efa354b4dc6a3f14db2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/62a14277381c197659b97dddead73e5f485b0c642f000310ded40ff62111f554.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/0b88c081217e10080a0a3ed0ae9cec7c551058131763dd222a03a2c049017171.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/76cc245f88eea40b826cc70ec8a05e8b0227cfedff1eea90c5b1b1f7ab870b41.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/3a5ce5376d9c45fa6896427ef85c26afb644c95bb5f51ce60e111ac7f629e102.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119444/bdc9e96aacb186ba31bd6b601d8fbd711901611f62309d237ccbbecc4c49a8e6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ab0f064bc3594878efdef52d74097b273f3a48d098115efa354b4dc6a3f14db2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/62a14277381c197659b97dddead73e5f485b0c642f000310ded40ff62111f554.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b88c081217e10080a0a3ed0ae9cec7c551058131763dd222a03a2c049017171.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/76cc245f88eea40b826cc70ec8a05e8b0227cfedff1eea90c5b1b1f7ab870b41.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3a5ce5376d9c45fa6896427ef85c26afb644c95bb5f51ce60e111ac7f629e102.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bdc9e96aacb186ba31bd6b601d8fbd711901611f62309d237ccbbecc4c49a8e6.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Adventure",
+		"Action"
+	],
+	"intro": "A mysterious floating factory has appeared in the skies!",
+	"description": "The sudden appearance of a floating factory marks the beginning of a new chapter in the story of Mai: Child of Ages.\n\nExplore brand-new dungeons set inside this colossal airborne structure, filled with ancient machinery, moving platforms, and forgotten experiments.\n\n\nAs Mai ventures deeper into its depths, she will uncover secrets tied to the factory\u2019s origin and the mysterious machines that built it.\n\n\nFace new enemies, overcome environmental hazards, and solve brand-new puzzles as you explore interconnected areas designed to challenge both your combat and platforming skills.\n\n\nMain Features\n\n\u00b7 A new story chapter\n\u00b7 New dungeons set inside a massive floating factory and long-forgotten caverns\n\u00b7 Unique level design with vertical exploration\n\u00b7 New enemies, traps, and puzzles\n\u00b7 Lore that expands the game world\n\u00b7 New craftable items\n\nThe skies are no longer safe. What lies within the floating factory could change the course of time.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.16 GiB"
 }

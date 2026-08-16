@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126997/83f7bb5498d6c4ffbeaf0b1651141d94848433c25ea001a8ab53cf931d27e723.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d3c6fdc555f84627aa56182f7ce701df_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83f7bb5498d6c4ffbeaf0b1651141d94848433c25ea001a8ab53cf931d27e723.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3439c7cd8134f925e79c0a73b5f9952bed776acc2e826c2790b449fc59f40ad2.jpg",
 	"publisher": "Ratalaika Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/ee54c8cf86f2f6b88f9d102486edfe90b326890549108c95d8986951b005fa20.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/1c8b6728d4475460736fe8dda9f012d47dcbd2ccab085fe6f441561579274159.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/d1497fad4efa951df43fdc1283f7f3721655f9fda71f983aed0c18980798c0bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/1ca9dd7d8d7b26fc39b3730fbe94b4b69aa5e2841fac1962f2c0e92ee8347da4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/5488649a6533fe80e83024ee4ae516cadc66fd078110f1718d4d076a4e6c8bc5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126997/ecbf5ec94d81f8d5757cb32c44dd80756866e2fcdb3b341e1faee27d8d2f7047.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ee54c8cf86f2f6b88f9d102486edfe90b326890549108c95d8986951b005fa20.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1c8b6728d4475460736fe8dda9f012d47dcbd2ccab085fe6f441561579274159.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d1497fad4efa951df43fdc1283f7f3721655f9fda71f983aed0c18980798c0bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1ca9dd7d8d7b26fc39b3730fbe94b4b69aa5e2841fac1962f2c0e92ee8347da4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5488649a6533fe80e83024ee4ae516cadc66fd078110f1718d4d076a4e6c8bc5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ecbf5ec94d81f8d5757cb32c44dd80756866e2fcdb3b341e1faee27d8d2f7047.jpg"
 	],
 	"releaseDate": 20260828,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "A thrilling 2D spy adventure set in the 1960s.",
+	"description": "You play as Secret Agent Mike Rogers, assigned to track down and capture the fugitive terrorists known only as the Velvet Twins. Set in 1960s you\u2019ll fight through unforgettable stages from neon-lit Las Vegas, gritty Chinatown, and abandoned factories, all the way to a shootout in a Wild West village!\n\nHe can take down enemies with his bare hands, but when things get serious, he'll grab whatever weapons are available. He can use pistols, swords, baseball bats and even a submachine gun.\n\n1964: Operation Velvet Twins delivers pure retro fun with no filler just tight gameplay, explosive action, and an unmistakable 8-bit flavor.\n\n\nFeatures\n* Play as Mike Rogers, secret agent !\n* Punch your way through waves of enemies!\n* Pick up firearms when the mission gets intense!\n* Use a variety of mele weapons: swords, bats, crates, and more!\n* Defeat 8 eccentric bosses!\n* Fight across 7 unique locations!\n* Retro visuals and music in authentic 8-bit style!\n* Collect dollars to spend them on power-ups or save them to raise your score!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood"
+	],
 	"dlcs": [],
 	"size": "87 MiB"
 }

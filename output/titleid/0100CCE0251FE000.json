@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000105141/6a636498d3cce8812d86bac452de18132b9a7e9c4aba7f58938d3ccd2e167ac5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e85f6151c7ee468c99525b9279f9082f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a636498d3cce8812d86bac452de18132b9a7e9c4aba7f58938d3ccd2e167ac5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/45b90a1730964d0e7326e20bce836e220d54a6febfce5ae295cada1521f482e9.jpg",
 	"publisher": "Silesia Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/cb99ba50998fe222cd5edf89a88744939ae56feb9e4296b40088b32f278230f2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/9efccfbf14404f7a0f2348fada0ba4728c66f5b479b1e3aaa442c89771338a79.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/9b35174326d5fe5777e3f889d2ef06ce20b36fb83937f53f35e6343358724b23.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/588c97ba7b051483d734302669e194e1ffc1deda05d455feabfb32f820e8e71f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/eceb3b3b2c4337be185511013177d4c1efdf9f1950804088bc8b634751fa00d9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000105141/376662b658a55768725d6920e1fe69c05f0d79c4223570aa3eafd431f9b847a9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cb99ba50998fe222cd5edf89a88744939ae56feb9e4296b40088b32f278230f2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9efccfbf14404f7a0f2348fada0ba4728c66f5b479b1e3aaa442c89771338a79.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9b35174326d5fe5777e3f889d2ef06ce20b36fb83937f53f35e6343358724b23.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/588c97ba7b051483d734302669e194e1ffc1deda05d455feabfb32f820e8e71f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eceb3b3b2c4337be185511013177d4c1efdf9f1950804088bc8b634751fa00d9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/376662b658a55768725d6920e1fe69c05f0d79c4223570aa3eafd431f9b847a9.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Action",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": "A poetic puzzle-adventure exploring loss, memories and self-discovery.",
+	"description": "Traverse through the surreal world suspended somewhere between dream and emotion on a touching journey through grief, guilt, and healing, as you search for your lost sister, Lulu.\n\nSolve puzzles, recover lost memories, face your deepest fears and regrets...\n\nAnd don't be afraid to take the leap forward.\n\nFeatures:\n- Spatial puzzles with stealth mechanics\n- A poetic, introspective story with a thought-provoking narrative\n- A soft, yet abstract artstyle\n- A beautiful original soundtrack",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"it",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "836 MiB"
 }

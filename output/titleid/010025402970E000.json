@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132991/a887336833e19ac943dd911074bba22b29909f3bf37d4365527c5cd0b061bc4c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132991/cb1894c66589cf59586fb4236bc2c87a23c2d56ae89ffeb5ba4f6f8382bf827d",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a887336833e19ac943dd911074bba22b29909f3bf37d4365527c5cd0b061bc4c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2815a680ae303614229375c9dadc969eddf5adbe02ff6b62882b8126ce449bd.jpg",
 	"publisher": "SuperPowerUpGames",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/3cfa4f241b6f6d542939aa65fc6e659f2892a017d735f50286a30e66a6a09a31.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/e46c6d342947a101f8c7c49896a6338081ac466130c44c4e2ed234060ec008bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/69fb83278959be83553a69a1579417e092e0d66015ca5f6159be1a7372658847.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/f3665dee095fb81ce43f5e2f9f571bfef0659ca406a05f0d039a15feea54dd49.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/f3f0a796398c3e90725c7f432c45ed8878a58de7da543e7f46d04d7a6cb4b854.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132991/a93a61ce629bfe3d5680de3cf6b2fae273cbacc28c5388375c85e2be87bdbabb.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3cfa4f241b6f6d542939aa65fc6e659f2892a017d735f50286a30e66a6a09a31.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e46c6d342947a101f8c7c49896a6338081ac466130c44c4e2ed234060ec008bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/69fb83278959be83553a69a1579417e092e0d66015ca5f6159be1a7372658847.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f3665dee095fb81ce43f5e2f9f571bfef0659ca406a05f0d039a15feea54dd49.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f3f0a796398c3e90725c7f432c45ed8878a58de7da543e7f46d04d7a6cb4b854.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a93a61ce629bfe3d5680de3cf6b2fae273cbacc28c5388375c85e2be87bdbabb.jpg"
 	],
 	"releaseDate": 20261002,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Enjoy 2 games in 1 with this irresistible speed games pack!",
+	"description": "This pack includes the games: Rally Rock \u00b4N Racing and Hypercar Racing.\n\nRally Rock \u00b4N Racing\n\nIn Rally Rock 'N Racing, you\u2019ll enjoy a wide variety of natural environments, such as deserts, snow-covered mountains, forests... where you can show your skill at the wheel, competing against everyone to become the fastest. The game has several modes, such as Championship, Time Trial, Arcade, and 4-player multiplayer.\n\nHypercar Racing\n\nIn Hypercar Racing you'll enjoy the dirtiest, fastest, and most spectacular races at speeds over 200 Mp/h, avoiding multiple collisions against 8 adversaries. The game has different modes, such as Championship, Arcade, and 4-player multiplayer.\n\nOnline leader board where you can compare your best times with those of your friends and players from around the world.\n\nFeatures:\n\n- Wide variety of tracks.\n- Multi-player with 4 players.\n- Realistic driving physics.\n- Lots of Rock 'N Roll music.\n -Online ranking",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "785 MiB"

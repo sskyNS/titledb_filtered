@@ -1,22 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130009/8013dfd9c79223cfc3597a7f889f0fc887d61cf7165a768be13c8660752b1ac7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130009/0ba16b7f76a11d372b5e8a0724b4dd89d6fd62e351462a2409777177f486f17a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8013dfd9c79223cfc3597a7f889f0fc887d61cf7165a768be13c8660752b1ac7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c8f09c92317d6d71313a6d7b9824943605b434d5e4376e120fc4e7685a9081c0.jpg",
 	"publisher": "1DER Entertainment",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/738f405d148f933e3606e121b5bc233407fe22f122daa8dac7f6926ca9a2a7ea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/037e2bd8729978c8bcd3b838e4590071685db88f052d50d14366b353fbc14b4a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/8be67b23ed12f92dffa8a40c87ab7d1722e10548912d8e72199d8a755be84556.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/2620085bf9b96dc7b61cfeba77af7bc2d568f36d1671c790f4b64d7419178cdd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/5761510eb5d65a2768931a0440aca8808b60cb1bd4202d784eecca4b3009a20b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130009/6df12279e38d62b4fe8a70217ef4c2d3b6cb27f6d3c9cce8539b4c152b3b1260.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/738f405d148f933e3606e121b5bc233407fe22f122daa8dac7f6926ca9a2a7ea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/037e2bd8729978c8bcd3b838e4590071685db88f052d50d14366b353fbc14b4a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8be67b23ed12f92dffa8a40c87ab7d1722e10548912d8e72199d8a755be84556.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2620085bf9b96dc7b61cfeba77af7bc2d568f36d1671c790f4b64d7419178cdd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5761510eb5d65a2768931a0440aca8808b60cb1bd4202d784eecca4b3009a20b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6df12279e38d62b4fe8a70217ef4c2d3b6cb27f6d3c9cce8539b4c152b3b1260.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Fight to bring color back to a dying world.",
+	"description": "A noir story of a tiny bird fighting to bring color back to a dying world.\n\nCaught in the endless war between Humans and Aliens, you are a small bird struggling to survive in the ruined, radioactive lands of Grayland. What was once a peaceful home has become a scorched, lifeless battlefield.\n\nFly through breathtaking hand-painted environments, dodge enemy drones, cleanse toxic hotspots, and confront colossal bosses on your journey to save your loved ones. Discover the haunting mystery behind the fall of this world\u2014and fight to restore hope where none remains.\n\nKey Features\n\u2022 16 handcrafted, challenging levels\n\u2022 Atmospheric noir visuals and a deeply emotional story\n\u2022 Varied and intense boss encounters\n\u2022 A beautiful, immersive soundtrack\n\u2022 Rebalanced difficulty for smoother, more rewarding progression\n\nEven the smallest being can change the fate of a world.\nBe the one who brings life back to Grayland.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "209 MiB"

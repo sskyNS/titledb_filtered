@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117093/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117093/aa9e3c398a075cc7f17856074cf4fc2e5fcda84af16ed1c60219596eee85e0a1",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f32f745bc141f4b1f238254f9710c4269b26e315307b3263e558b20ef2c331ac.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d51a6a93a2f757286097e73b72fa03fd5a02b8543a220b2a5b223ab0f93216e.jpg",
 	"publisher": "SQUARE ENIX",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/f42e86cfbf74795771bcc2e6d01442c78fee20a5b1c80b744c04f41896fade7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/b868bf4cd392924ef975528f98cee0590978de69f6231e6f4510e33383793163.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/54730255ef4d9bb681ea17a60a899ed9759169ecb78c9df6618d95e0576ef2ae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/3364440224b88d21f31cf64328eb19d0aac1ee7b8bd866b489cb9692b8e1caa6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/5bf633df5f516463ad48e06007009b84e2bbfdce313d11bca3306b45623a41ec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117093/aa32f6122c1b6f4766a5f0d606ab6a63e6bbe95b8b08d40139efabdad62e5a38.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f42e86cfbf74795771bcc2e6d01442c78fee20a5b1c80b744c04f41896fade7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b868bf4cd392924ef975528f98cee0590978de69f6231e6f4510e33383793163.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/54730255ef4d9bb681ea17a60a899ed9759169ecb78c9df6618d95e0576ef2ae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/830072c804ce3dd2badf44c1e9f412f6252132492fa5b3aa123b6f0cb6900fb4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c4e3f494f5e960995bc786dd3cc4d6d52aee8488a4e9a0b8478ad95eaf241aac.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aa32f6122c1b6f4766a5f0d606ab6a63e6bbe95b8b08d40139efabdad62e5a38.jpg"
 	],
 	"releaseDate": 20261022,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Hope resonates within the crystals",
+	"description": "Return to the pixel\u2011art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. \n\n\u25c6 Cinematic pixel art\nWhat if FINAL FANTASY had continued to push the limits of pixel art? The first FINAL FANTASY to join the HD\u20112D lineup, FINAL FANTASY RESONANCE delivers a visually striking experience that feels both nostalgic and new, enhanced by dynamic camera angles and pixelized 3D models that make every moment more dramatic and immersive.\n\n\u25c6 A return to the familiar\nA classic RPG adventure unfolds in a world filled with beloved FINAL FANTASY elements\u2014airships, crystals, espers and moogles woven into the fabric of the story, and so much more.\n\n\u25c6 Strategic turn-based battles\nExploit enemy weaknesses to stagger them\u2014breaking their defenses to seize extra turns and gain the upper hand with powerful Resonance attacks in cinematic battles shaped by smart choices.\n\n\u25c6 FINAL FANTASY legends\nBolster your team with Visions, echoes of beloved FINAL FANTASY characters, who fight alongside you with unique skills and abilities for deep party customization.\n\n\u25c6 Hours of side content to discover\nThe world is full of secrets, including the wandering swordmaster Gilgamesh, a Colosseum with deadly monsters and rewards to match, the Chamber of Arms with formidable foes sealed within legendary weapons, and a showdown with Ultima Weapon.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence",
+		"Language",
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "8.45 GiB"
 }

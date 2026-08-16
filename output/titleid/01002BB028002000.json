@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124115/af23d83ec97e0a7b36e10174346ce7e5ae4ab0b9046983fc7c72bf75f65ae1dc.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ea00648bfc1d4459ac9fb7388ff4692e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af23d83ec97e0a7b36e10174346ce7e5ae4ab0b9046983fc7c72bf75f65ae1dc.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/88669ba65a8534993f261caaf1a7431f8a7dec7f9ed7fc3d2c5baba36b5e0657.jpg",
 	"publisher": "Nerd Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/a39888791f00a2516ac7e16b3a8b97e4e3efd49c1b8975ed929bd5ba2f6e3edb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/45407b7716a4b407ce1cc15ceaa80a7ad51cd9dde06a5318caf6a0d5e45c6695.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/a0f71b5cb3cc51181d0cc4c735688808749fd873c231dfdb112850499fe9b350.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/c7a963dd0a7d37f75aade98637fa8b539267c567cf73f0e194d79125ff42f915.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/ba60a8b88eb17edf5a6d365a55d70192ab8d08dc233ea5e430d9cac1477fd85e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124115/edfb73038f59354eac64e80edfd7794b82d1b8c0c96215e706adb57f33e8e585.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a39888791f00a2516ac7e16b3a8b97e4e3efd49c1b8975ed929bd5ba2f6e3edb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/45407b7716a4b407ce1cc15ceaa80a7ad51cd9dde06a5318caf6a0d5e45c6695.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a0f71b5cb3cc51181d0cc4c735688808749fd873c231dfdb112850499fe9b350.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c7a963dd0a7d37f75aade98637fa8b539267c567cf73f0e194d79125ff42f915.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ba60a8b88eb17edf5a6d365a55d70192ab8d08dc233ea5e430d9cac1477fd85e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/edfb73038f59354eac64e80edfd7794b82d1b8c0c96215e706adb57f33e8e585.jpg"
 	],
 	"releaseDate": 20260725,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Survive day and night on a small island in the middle of the ocean.",
+	"description": "Gather resources to improve your chances of survival, search for supplies, build tools and a shelter to stay alive. In this harsh environment, your greatest enemy is hunger, so you'll need to hunt wild boars, gather fruit that has fallen to the ground, and catch fish from the sea to keep yourself fed and avoid starving.\n\nEmbrace the solitude as you fight to survive in Castaway.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "176 MiB"

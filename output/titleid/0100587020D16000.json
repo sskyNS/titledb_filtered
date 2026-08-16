@@ -1,22 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126024/da172fa782ab2040fcfd9cf40034a1313909a083679476d38aa560095648f9ee.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3801af77fd7f45b3944defbf03dfaf4e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da172fa782ab2040fcfd9cf40034a1313909a083679476d38aa560095648f9ee.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3d048269417ecd3804cea959d92679a8d088bdce0edcff0ef1e1e1f09b404cdc.jpg",
 	"publisher": "Arkelium Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/baaf7ea52fec4f4ea4ee0de7f565f63ac2f394f9bddfbbfe053868afebe66354.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/cc01d0bad8bb9b1dca9bc3dd99cbd3e7ad32fda2ea0c59af7bf19d01a75d2242.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/896d0911be2e5f1652b7b42b51f9bcb56f4aab5f9bed2e42f7a332e3b5ab91df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/c1b567909e9583c75155fab55dd3385f0ea03bd025cd1eed42a42c77fbf22618.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/6d0e1d59a801d713055ce83e93edc8cd2c59314caea0b1a007a7de420c2a5ae8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126024/87ff69e5b64d8e9ba34a99c251f44fcded9d5453493f96c3c4eb82610f73394f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/baaf7ea52fec4f4ea4ee0de7f565f63ac2f394f9bddfbbfe053868afebe66354.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cc01d0bad8bb9b1dca9bc3dd99cbd3e7ad32fda2ea0c59af7bf19d01a75d2242.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/896d0911be2e5f1652b7b42b51f9bcb56f4aab5f9bed2e42f7a332e3b5ab91df.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1b567909e9583c75155fab55dd3385f0ea03bd025cd1eed42a42c77fbf22618.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d0e1d59a801d713055ce83e93edc8cd2c59314caea0b1a007a7de420c2a5ae8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/87ff69e5b64d8e9ba34a99c251f44fcded9d5453493f96c3c4eb82610f73394f.jpg"
 	],
 	"releaseDate": 20260702,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"\ud37c\uc990"
+	],
+	"intro": "Souvenirs\ub294 \uc11c\uc0ac\uc801 \uc0ac\ubb3c \uc735\ud569 \uac8c\uc784\uc785\ub2c8\ub2e4.",
+	"description": "Souvenirs\ub294 \uc2a4\ud1a0\ub9ac\uac00 \uc788\ub294 \uc624\ube0c\uc81d\ud2b8 \ubcd1\ud569 \uac8c\uc784\uc785\ub2c8\ub2e4.\n\uc810\uc810 \ub354 \uae30\ubb18\ud574\uc9c0\ub294 \ub808\ubca8\uc5d0\uc11c \uc624\ube0c\uc81d\ud2b8\ub97c \ubcd1\ud569\ud558\uace0 \ud654\uac00 \ub808\uc624\ub098\ub974\uc640 \uadf8\uc758 \uac00\uc871 \uc774\uc57c\uae30\ub97c \ud480\uc5b4\ubcf4\uc138\uc694.\n\n\uac8c\uc784 \ub0b4 \ud654\ud3d0\ub294 \ub808\ubca8\uc744 \ud074\ub9ac\uc5b4\ud558\uc5ec \ud68d\ub4dd\ud560 \uc218 \uc788\uc73c\uba70, \uc774\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc81c\ud55c\ub41c \ubcf4\ub108\uc2a4\ub97c \uc774\uc6a9\ud558\uac70\ub098 \ub808\ubca8\uc744 \ub2e4\uc2dc \uc2dc\uc791\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+	"languages": [
+		"en",
+		"fr"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 0,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "260 MiB"

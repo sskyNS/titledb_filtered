@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000109113/ff06cff56dbe86d811097b363499f55fbfaf9b9e4584a6789679a66d03692bd0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9b6b2c5208a24aefbf8c4b9dbf732fa9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff06cff56dbe86d811097b363499f55fbfaf9b9e4584a6789679a66d03692bd0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/307462e87ba14792ddb386b202776e13af5fc38ae67d346b0d672db0d3953022.jpg",
 	"publisher": "Atari",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/d347dc103229dd7c3ad3ecd84fda1c8a4df41ea0a5df74d64f309f14b165d843.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/8028ed0e90387b1d2b622639b4567e3fd4962dfdbf663aa0bae6d5aac9d831b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/5b7b02c922a6c685a670f8ee2d2bf082dce066aae0edb1fdb0c4f827de9328ec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/84dabc9e819f7a7eae1d12c9b531ae142d2aa51cc2698b83dd8fad109d26a78a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/a937198035c1cf484f9ce21ae4889deb9c84dc2b0abf684f04f1fba28f647dcf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000109113/ec1d63b269694119d742c37d80fbc462373d1a5412af940e11ba2d5c01e36800.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d347dc103229dd7c3ad3ecd84fda1c8a4df41ea0a5df74d64f309f14b165d843.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8028ed0e90387b1d2b622639b4567e3fd4962dfdbf663aa0bae6d5aac9d831b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5b7b02c922a6c685a670f8ee2d2bf082dce066aae0edb1fdb0c4f827de9328ec.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/84dabc9e819f7a7eae1d12c9b531ae142d2aa51cc2698b83dd8fad109d26a78a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a937198035c1cf484f9ce21ae4889deb9c84dc2b0abf684f04f1fba28f647dcf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ec1d63b269694119d742c37d80fbc462373d1a5412af940e11ba2d5c01e36800.jpg"
 	],
 	"releaseDate": 20261015,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Play as Woody, Buzz, and Jessie in the Complete Edition of the 3D adventure.",
+	"description": "Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jessie in Toy Story 3 Complete Edition, a 3D adventure based on the hit 2010 animated film, Toy Story 3. The updated game features improved graphics and a few new surprises in store. Play through authentic moments from the movie in Story Mode, or drop into the wild west sandbox of Woody\u2019s Roundup in Toy Box Mode. \n\nIn Story Mode, swap between Woody, Buzz, and Jessie as you play through iconic scenes from the film, including the train rescue, Operation Playtime, surviving the junkyard, and more. Harness each character's unique abilities, whether you need to swing on Woody\u2019s pull string or use Buzz\u2019s strength to throw the other toys long distances. You can even play in two-player co-op. \n\nStep out of Story Mode and into the sandbox in Toy Box Mode. This fan-favorite, customizable mode drops you into the wild west of Woody\u2019s Roundup. Like Story Mode, you play as Woody, Buzz, or Jessie, but in Toy Box Mode you can play however you want! Characters around town give you quests to complete, so you can earn gold and spend it on personalizing the town your way. Build, decorate and customize the buildings, dress up the townsfolk, and more.\n\nToy Story 3 Complete Edition also includes content that was previously restricted to certain versions of the game. Players can now play as the Evil Emperor Zurg in Toy Box Mode, and can access four additional Theme Packs to decorate their Toy Box. Toy Story 3 Complete Edition also features upgraded graphics, resolution, and framerate.\n\nFEATURES\n\n- Toy Story 3 Complete Edition brings back a fan-favorite game. \n\n- Relive key moments from the movie in Story Mode from Andy's room to Sunnyside Daycare.\n\n- Swap between Woody, Buzz Lightyear, and Jessie, each of with different abilities you\u2019ll need to complete each level. \n\n- Dive into the sandbox in Toy Box Mode. Take on missions for your fellow toys, dress up the townsfolk, decorate buildings, and much more. \n\n- Play with a friend in local, two player co-op. Available in Story Mode or Toy Box Mode. \n\n- All versions now include previously exclusive content, such as the ability to play as Emperor Zurg in Toy Box Mode.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "7.41 GiB"
 }

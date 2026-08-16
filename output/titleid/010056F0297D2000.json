@@ -1,21 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133794/f897aa9c63a4a8e12b8dabe620859bf83dadc5ae10e53f0cb99a3a208b2f0e08.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133794/9e36d189207f182cbde38cd667834af7369b400237d38085309e0745dcea4547",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f897aa9c63a4a8e12b8dabe620859bf83dadc5ae10e53f0cb99a3a208b2f0e08.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/34882e32e4368a47b9fd266836e0c003ed313e80316c59140a1c1a083983eb65.jpg",
 	"publisher": "Ocean Media",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133794/12334a89a222405e64084016c12c21470614caf0d990fd8c97727a623f682604.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133794/24a6f4df3d6c17d3e4b079dc769a22cf0237dc7a3f1cdb6c9a7b4bca4530cee9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133794/4391e327432c1e4e847a2e1116c6680c0ae8e3de812909c5f15270e199907f7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133794/c528fb85e423eecf7d1fe33c462ef2078dec5c58065f7fdab435fcd858b9fc28.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133794/cdb881441fe90f0ed1314ce8ba7317276f6e3f06bf7ba1e4d472da94d3affc7f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/12334a89a222405e64084016c12c21470614caf0d990fd8c97727a623f682604.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/24a6f4df3d6c17d3e4b079dc769a22cf0237dc7a3f1cdb6c9a7b4bca4530cee9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4391e327432c1e4e847a2e1116c6680c0ae8e3de812909c5f15270e199907f7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c528fb85e423eecf7d1fe33c462ef2078dec5c58065f7fdab435fcd858b9fc28.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cdb881441fe90f0ed1314ce8ba7317276f6e3f06bf7ba1e4d472da94d3affc7f.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Help Northman Elof lead his people to the land promised by the god Feyr!",
+	"description": "Beware - this land is under dispute by the Jotun Idyl, an archrival of the ancient gods. Play through 130+ challenging solitaire levels and chase the Jotun Idyl away!\n\nNordic Storm Solitaire is a charming and challenging card adventure set in a frozen mythic world. Face the ancient rival Jotun Idyl as you journey through a land of winter storms, magical legends and tactical solitaire puzzles.\n\nPlay through 130+ handcrafted levels of solitaire with a progression system designed to keep every stage fresh and rewarding. Earn boosts, unlock helpful tools and use smart strategies to clear difficult layouts faster and more efficiently. Whether you enjoy relaxing card games or more demanding puzzle challenges, Nordic Storm Solitaire offers a satisfying balance of accessibility and depth.\n\nWith beautiful Nordic scenery, story-driven progression and polished solo gameplay, this is a perfect pick for players who love casual strategy games, atmospheric adventures and classic solitaire with a modern twist.\n\nFEATURES\n- A mythic solitaire adventure in a frozen Nordic world\n- Guide Elof through 130+ handcrafted levels of challenging solitaire\n- Story-driven progression across a land of winter storms and legends\n- Earn boosts and unlock helpful tools to master tricky layouts\n- Relaxing card gameplay meets a Nordic fantasy journey",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "119 MiB"

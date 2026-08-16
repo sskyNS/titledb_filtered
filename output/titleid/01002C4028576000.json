@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125864/7b57785303afc04b36d90f8b438b40eeb7c28d14c60d0769b27ef9694b648d29.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125864/ff24fc01d073e7079a6d8c52292899d95752c76bfa1ef71a6e95c257c282abcb",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b57785303afc04b36d90f8b438b40eeb7c28d14c60d0769b27ef9694b648d29.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8fb8816c8dd590a5caa4fc922490682992404d8809df41f76f6aafa69b229c9e.jpg",
 	"publisher": "St Pow Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/8a9194d45c13d8aa9f1810be060dac7084b9e24ed75507c6c597e30a89fc9fc5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/b12707e19858d24ede5e1c691f90df2fec9e802038975fbcb16ed6d3f946e755.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/926ca6728efa71425a52edb5b31c3d9f179d9423eec4baa74fb68991962c824e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/332d79648d3e0307cf7d47a321c7a00565240823abfa9a21521a3b328d7c2738.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/af054443bf9520d5b10a47f97636689da961ccbd55689d6c525f4816ec1a0f82.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125864/a215e69d2a4e3885cc660e1d87a4048b63906b9126307dad24f73dd0bfaa2e69.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8a9194d45c13d8aa9f1810be060dac7084b9e24ed75507c6c597e30a89fc9fc5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b12707e19858d24ede5e1c691f90df2fec9e802038975fbcb16ed6d3f946e755.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/926ca6728efa71425a52edb5b31c3d9f179d9423eec4baa74fb68991962c824e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/332d79648d3e0307cf7d47a321c7a00565240823abfa9a21521a3b328d7c2738.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/af054443bf9520d5b10a47f97636689da961ccbd55689d6c525f4816ec1a0f82.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a215e69d2a4e3885cc660e1d87a4048b63906b9126307dad24f73dd0bfaa2e69.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Fighting"
+	],
+	"intro": "Move fast. Strike faster.\n",
+	"description": "Enter a high-speed combat arena where every second matters and every move decides your survival.\n\nSet in a futuristic cyberpunk world, you fight as an elite operator inside advanced simulation arenas controlled by powerful corporations. Move constantly and use speed and positioning to stay in control during intense combat encounters.\n\nDash, jump, and react instantly while collecting resources and adapting to fast-changing combat situations. Each arena offers vertical gameplay, interactive elements, and multiple ways to approach every fight.\n\nKey Features:\n\t\u2022\tArena Shooter Gameplay: Fast-paced combat in dynamic arenas\n\t\u2022\tCyberpunk Setting: Neon environments and futuristic locations\n\t\u2022\tDynamic Movement: Dash, double jump, and vertical gameplay\n\t\u2022\tInteractive Arenas: Power-ups, destructible elements, and multi-level design\n\t\u2022\tChallenging Encounters: Test your reflexes and reaction speed\nFight, adapt, and stay one step ahead in a world built for combat.\n\nStar Troopers \u2013 Combat Force delivers an intense, fast-paced shooter experience where reflexes, movement, and precision define every battle.\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.71 GiB"
 }

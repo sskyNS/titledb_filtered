@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000087201/5b6edfef6836353f8a16ef7436042219a2bc31a3f65c8c83ae8c5d4c22de1040.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000087201/18cdeffaf9e4575b7ee5f9865281f065ec97e1e9490f911205a8684e52097c7a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b6edfef6836353f8a16ef7436042219a2bc31a3f65c8c83ae8c5d4c22de1040.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d252b455568a1527331f44cb0f9e6e8b49a44d747286146b876cc47eb30bed6b.jpg",
 	"publisher": "PQube",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/c619b8135d6923e8593c7f72127728edc0698c2a6d8772787325db4173413e28.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/89673a559fd42f7b0fc05e4fbe48ae47f5d6d4b52a1da7687e85e2f003bd6c88.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/354b9d321d0544a06d2f7cbccea12bfbc054f9846a0d28ad919f0e06a722c1f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/1cf7193775d446a557cb7f95a6a397d816ba816f9ef3e925039cc49f8f4757ce.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/a422e5dc631121fcf6f64e2133bc14147f47532a6d10977a348e93399de67d5f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000087201/def3c9e3afb157dbf96d4081e64d9a50c8f9619c1188eb31ab6da47cfe0e1547.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d3b7db7f212a7ea41e7858a7bf7bc8f3d73ec8747fe28fe04786c9b6b01447fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4a4a05cf6337ef2367517dc6857b9acc684033cd45781dd5fee7a71265cd9438.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee97acd1a65da75098fa3fea71546f0edccc0658a597f9327796edeaa51cc0a1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf25fd9874470c2b1c946a268a37aa3ff8ab65700b35a202a6324aa746b783bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/39514f726bfe79ada4d953716f35bf1e123459b54c174cc1ee8dd141c2db239a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aa88aa7375eb637f3c351bcdc0c54c353c503d40becbafbe12cc9e03651c4881.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Two forms. Two realms. One epic adventure awaits.",
+	"description": "Aggelos 2 is an explosive action-platformer where lightning-fast combat, precision platforming, and two opposing worlds collide. As an Aggelos, the highest order of angels, you are chosen by Balro to venture through the Kingdom of Lumen, domain of the supreme God of Light. But with Lumen under siege and the Gods facing imminent defeat at the hands of the Army of Darkness, you are forced to embrace a shadowy new form to survive the chaos of both light and dark realms.\n\nWhile your angelic side favors a slower, disciplined approach, your demon form is highly agile, aggressive, and bristling with dark powers. Mastering the shift between both forms is key to survival, and only by balancing order and chaos can you hope to overcome formidable enemies, deadly obstacles, and challenging puzzles along your path.\n\n- Parallel realms: Explore two massive, overlapping maps, each with their own unique characteristics, enemies to fight, secrets to discover, and challenges to overcome.\n- Dual Combat System: Switch between Angel and Demon forms to change the world and your playstyle, from precise defenses to fast assaults, mastering timing, strategy, and reflexes.\n- Emerge victorious: Take on hordes of enemies and conquer 13 massive bosses across both realms. Steel yourself for memorable encounters that build on the original game\u2019s signature battles.\n- Puzzles of Discovery: Solve challenges by mastering skills, memorising routes, manipulating mechanisms, avoiding traps, and interacting with the world to reveal secrets and new paths.\n- Grow your power: Collect orbs to unlock devastating special attacks, boost your strength and increase your survivability, adding a tactical layer to your progression.\n- Evolve to survive: Unlock new skills as you progress, from flight and wall grabs to dashes and powerful special attacks, offering up new ways to explore and reach previously inaccessible areas.\n- Stunning 16-bit Artwork: Striking pixel art and detailed sprites designed to complement smooth, fast-paced 2D gameplay.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "125 MiB"
+	"size": "237 MiB"
 }

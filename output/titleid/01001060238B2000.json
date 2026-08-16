@@ -1,21 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000098048/c77bcbccbb24e8b72fdbef8aab9fe8288fb828970b47fb27fcb04d1ad07ec756.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000098048/8ef1c92173e9d26aaa66c171971dbf41b922ca125cf0c39d9592b392812c84ae",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c77bcbccbb24e8b72fdbef8aab9fe8288fb828970b47fb27fcb04d1ad07ec756.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed08bc718454562a6d04f2e0a24f3ebacc0f78c80f60436e1dd47255dde127cd.jpg",
 	"publisher": "Monster Couch",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098048/fe3ae7a8fad1a789c8bb8377baed1331e16b00708319daaa4c028554adbc641e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098048/17baf010c5e1d79bca0c7041790ae5205e500e173675dc1cc79eb26c69001847.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098048/4d20d5163aa2f9b220295262ed5bf6aa3acf5e349feda29f5a35428f8cbcd4c1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098048/3ca48fd8c24b4a13e6abe2daa9f13a55fd5ae983073b704e49f34859638e6e33.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098048/a0ad05e4d4f72eccce1e01b45abf5a98a2b6f460d532fb00ab6ca0e857bdcf2f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fe3ae7a8fad1a789c8bb8377baed1331e16b00708319daaa4c028554adbc641e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/17baf010c5e1d79bca0c7041790ae5205e500e173675dc1cc79eb26c69001847.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d20d5163aa2f9b220295262ed5bf6aa3acf5e349feda29f5a35428f8cbcd4c1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3ca48fd8c24b4a13e6abe2daa9f13a55fd5ae983073b704e49f34859638e6e33.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a0ad05e4d4f72eccce1e01b45abf5a98a2b6f460d532fb00ab6ca0e857bdcf2f.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Board Game",
+		"Strategy",
+		"Multiplayer",
+		"Other"
+	],
+	"intro": "Flamecraft is a 1-5 player cozy strategy game filled with magic.",
+	"description": "Flamecraft is a cozy, turn-based strategy board game for 1 to 5 players. Become a Flamekeeper and help artisan dragons and shopkeepers delight the townspeople with their craft. Gather and manage resources, enhance the shops by casting enchantments, and become the Master of Flamecraft.\n\nEnter a cozy, vibrant world inhabited by dragons\n\nFlamecraft is set in a fantasy world, in which dragons and magic are part of the ordinary. Here, you\u2019ll meet the adorable artisan dragons, who will use their extraordinary flamecraft to help the town\u2019s shopkeepers with their seemingly mundane tasks. \nThe sweets are just waiting to be baked in Guilty Treasures, and Scale Mail Post is ready to send enchanted letters all across the town!\n\nMaster the art of resource management and create powerful combos to increase your reputation\n\nYou\u2019ll have to strategize and outsmart other Flamekeepers if you want to come out on top. There are countless ways to victory, and it\u2019s up to you to make the most of your skills. Your main task is to thoughtfully place dragon artisans in the town\u2019s bustling shopping district. They will help you gather various resources from the shops, which you can later use to cast enchantments, triggering powerful ability combos. You\u2019ll also befriend the extraordinary Fancy Dragons, with abilities allowing you to boost your reputation.\nThis, along with the Companion cards, which offer powerful additional scoring opportunities, will let you get the reputation points needed to win the game.\n\nPlay in a variety of gameplay modes, both single and multiplayer \n\nWhether you prefer playing solo, with friends, or people from around the world, Flamecraft has something in store for you. Test your skills against AI of varying difficulty or set up a relaxing custom game for your family to enjoy together.\n\nMeet over 70 beautiful animated dragons and visit 30 unique shops while listening to a whimsical score\n\nIn Flamecraft, we\u2019ve brought the enchanting world created by Sandara Tang to life. The beautifully illustrated dragons come to life as they use their craft in the vibrant, hand-painted town, full of animated 3D shops, booths, and laboratories. \nPawe\u0142 G\u00f3rniak, the composer behind Wingspan and Quilts and Cats of Calico, is also back, with another spellbinding score.\n\nWill you be able to claim the Master of Flamecraft title with the help of your creative little crafter friends?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 5,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.06 GiB"

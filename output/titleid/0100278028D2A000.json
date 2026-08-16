@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132696/e1689afad308c33f8289a131a1ca265dc0e0e755b1fb537069768c59f1511ad0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132696/70b384a7d587c20177c46cafe28c97f6a6605545c9c52d3a1c09efda43f51963",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1689afad308c33f8289a131a1ca265dc0e0e755b1fb537069768c59f1511ad0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6c7d695b9249dd8e5c26bc1100a54696d2efb0515ebe5d8c9b06ca20fbb0fb72.jpg",
 	"publisher": "Ocean Media",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/907bc7cb77877287f03a390b786ed36273a6b727b48c5fcacfd53cd6251c4870.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/3c2fe0aeb274e1472339b29e3acd6ce612dcf44b7c760f9048708fae05fbc73b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/aa024073764d4ca5bdf3151a53e47fe41ae15cd8846f1207c1600365f1f45084.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/157dc1de96fbb0b31b8bf94a5bf945a96e732938a47eab38460b4dfbc4987282.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/682502a7059721ee32185df1a2b62d6431d217d39d653f838e511592c634ab92.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132696/7865d3a81d605cfb66ad980c482c6b63a1455f0c35d9d703af604ddeeceeaec9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/907bc7cb77877287f03a390b786ed36273a6b727b48c5fcacfd53cd6251c4870.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3c2fe0aeb274e1472339b29e3acd6ce612dcf44b7c760f9048708fae05fbc73b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aa024073764d4ca5bdf3151a53e47fe41ae15cd8846f1207c1600365f1f45084.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/157dc1de96fbb0b31b8bf94a5bf945a96e732938a47eab38460b4dfbc4987282.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/682502a7059721ee32185df1a2b62d6431d217d39d653f838e511592c634ab92.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7865d3a81d605cfb66ad980c482c6b63a1455f0c35d9d703af604ddeeceeaec9.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "The island really exists, and the witch has regained her power. Can you defeat her?",
+	"description": "Use your knowledge and wits to break her hold on the island. \nYour path lays through dazzling island locations, a mystery forest, mountain, cave and lake. \nOn your adventure, free bewitched islanders. \nYou are going to discover the mystery of an ancient prophecy and figure out what made Peter betray you last time.\n\n- Thrilling story\n- Beautiful hidden object scenes\n- Replayable logic mini games\n- Unconventional use of hog-scenes and items",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference"
+	],
 	"dlcs": [],
 	"size": "974 MiB"
 }

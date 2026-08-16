@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130860/9e5e4b4c9e793e489ea307fd1f816f95088a115cb542cc161409b417edea9fb3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130860/85b9d64b6c11a7c75d71b90f6042839e9d35ebbae57341250c32d1634dab5cf4",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e5e4b4c9e793e489ea307fd1f816f95088a115cb542cc161409b417edea9fb3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff9015c06f3600aa4e1201dfb80ec5c819c81bab5a7bf431a62aad316f622f23.jpg",
 	"publisher": "Stamina Zero",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/6f504c5d7acf988490c8312c48940da291a4a41a993393fc619107b449b54dbb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/7f6340fa54c255bb1f716263525225152f223e325e7ee56576a66702d88c9433.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/0672da8d5d4a908cecc5e3d8885de1a4950c2af60af1b29354910b5a2b9750f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/691330629c281a2ebc33f11ec1aad1143e5ded84c46a18a72f1e76069dd98507.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/c04e3be9befc6a18980c7cee689b38412db70b2565ad94b7229f436a966f0962.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130860/56951710fd7215f5441c17a157f04947d8f9d4d2d1ce5ac8515d094d7b7b8015.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6f504c5d7acf988490c8312c48940da291a4a41a993393fc619107b449b54dbb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f6340fa54c255bb1f716263525225152f223e325e7ee56576a66702d88c9433.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0672da8d5d4a908cecc5e3d8885de1a4950c2af60af1b29354910b5a2b9750f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/691330629c281a2ebc33f11ec1aad1143e5ded84c46a18a72f1e76069dd98507.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c04e3be9befc6a18980c7cee689b38412db70b2565ad94b7229f436a966f0962.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/56951710fd7215f5441c17a157f04947d8f9d4d2d1ce5ac8515d094d7b7b8015.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A thrash metal album reveals a ritual that opens a portal to another world.",
+	"description": "YOUR WORLD, BUT TWISTED\nWhen your best friend vanishes, you must enter the Dark Reflection\u2014a hostile, warped copy of your own reality. Here, familiar places are dangerous, and friendly faces cannot be trusted.\n\nSURVIVE THE NIGHTMARE\nThe Dark Reflection is a classic side-scrolling pixel-art adventure packed with action, puzzles, and heavy metal energy.\n\nExplore: Search creepy locations and find vital items to survive.\n\nSolve: Use your brain and your inventory to clear obstacles.\n\nFight: Slash your way through hordes of demons and unique bosses.\n\nDARK HUMOR & HEAVY METAL\nStep into a world where dark humor meets a heavy rock soundtrack. Every corner hides a secret, and every choice matters.\n\nFeatures\nWarped World: Explore an unsettling, distorted reality.\n\nClassic Gameplay: Solve puzzles and manage items to progress.\n\nBrutal Battles: Fight aggressive monsters and giant bosses.\n\nHidden Secrets: Find secret paths and weird encounters.\n\nYour Choice: Make decisions that lead to multiple endings.\n\nTurn up the volume of your doom.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "434 MiB"
 }

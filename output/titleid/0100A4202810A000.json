@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124516/b85c4457f5861a92e6c2d27f61cadd36588dd589f0405696dcd7b60a51e14e9e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124516/cb31e9de9258944f3c16e679b3b5e499d5db4a411986742e1e0c2493b81016af",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b85c4457f5861a92e6c2d27f61cadd36588dd589f0405696dcd7b60a51e14e9e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e8ef5c4e34346d4823b81b7227781d9bf4269cd4a3738b15bba7701b195006f8.jpg",
 	"publisher": "SC Ovilex Soft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/18a7d9523711436b852cb7e524b9ad91c989a57af39ccc84b1f68068d3da9fec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/f3098e5c26cd84e2716c7ddf2ec59eb25b42d70c17d77c57919a688b91883daf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/5e0309bd574541c7290f80306b8866b977cc2c8a4e58dc484566791dbe9afeb3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/96c4a821df7f9359a6d4bbb394f43a529904bb0873693b3978f4b478014050b8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/cafa81c4b932d92378a7ed9cebb5fa4b553ff8b24ee21c9ac369417dc6ff7417.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124516/120adaa77b62cd91bcd43ea4a445d43b1a792b8cac97c800adf09fce8c56f1cd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/18a7d9523711436b852cb7e524b9ad91c989a57af39ccc84b1f68068d3da9fec.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f3098e5c26cd84e2716c7ddf2ec59eb25b42d70c17d77c57919a688b91883daf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5e0309bd574541c7290f80306b8866b977cc2c8a4e58dc484566791dbe9afeb3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/96c4a821df7f9359a6d4bbb394f43a529904bb0873693b3978f4b478014050b8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cafa81c4b932d92378a7ed9cebb5fa4b553ff8b24ee21c9ac369417dc6ff7417.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/120adaa77b62cd91bcd43ea4a445d43b1a792b8cac97c800adf09fce8c56f1cd.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Race Anything, Anytime, Anywhere.",
+	"description": "Street Racing Simulator EVO : Car & Moto\nAre you ready to take the wheel and experience the most realistic and exhilarating driving simulation on handheld? Street Racing EVO, developed by Ovilex, is here to redefine your expectations of car and motorcycle racing games. With its stunning visuals, immersive gameplay, and endless customization options, this game is a must-play for any driving enthusiast.\n\nWhat Makes Street Racing Simulator EVO Stand Out?\nUnmatched Realism and Highly Detailed Vehicles\nEvery car and motorcycle is crafted with precision, featuring intricate interiors and exteriors that bring your ride to life.\nInterior POV\nStep into the driver\u2019s seat with a first-person interior view that offers an unparalleled level of immersion. Feel like you\u2019re truly behind the wheel as you navigate through diverse environments.\nHandcrafted Details\nFrom the roar of the engine to the sound of tires gripping the road, every detail is designed to enhance your driving experience.\nDual Thrills: Cars & Motorcycles\nWhether you\u2019re a fan of high-performance sports cars or the agility of motorcycles, Street Racing EVO has it all. Race through challenging terrains on two wheels or dominate the streets in your customized dream car.\nEndless Customization\nMake your vehicle truly yours with a wide range of customization options. From paint jobs to engine upgrades, you can fine-tune every aspect of your ride to match your style and performance preferences.\nOpen-World Exploration\nExplore a vast, detailed open world filled with diverse environments. Cruise through bustling city streets, race down highways, or tackle off-road trails\u2014the choice is yours.\n\nThrilling Challenges\nEngage in high-speed races, evade police chases, and complete adrenaline-pumping challenges. Test your driving skills and prove you\u2019re the best on the road.\nMultiple Race Types to Choose From\nCompete in Sprint, Time Attack, Speed Camera, Average Speed, Drag, and Top Speed races. Take your skills to the track for endless racing excitement.\nStunning Graphics\nExperience breathtaking visuals that bring the game world to life. From scenic rural roads to vibrant cityscapes, every environment is designed to immerse you in the ultimate driving adventure.\n\nWhy You\u2019ll Love Street Racing EVO\nImmersive Gameplay\nThe combination of realistic vehicle dynamics, first-person POV, and dynamic environments creates an experience that feels truly authentic.\nSomething for Everyone\nWhether you\u2019re into street racing, police pursuits, or simply cruising through an open world, this game caters to all types of players.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"In-Game Purchases"
+	],
 	"dlcs": [],
 	"size": "1.38 GiB"
 }

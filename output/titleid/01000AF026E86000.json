@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117125/b92479fd3d1b6de3fe8f46d5239a7a911be494ff11515ff11a748781faa9c9d5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117125/86e455076804b7a5bef207576237282487602bb5d8c2c3c9d2a09453d7b796cd",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b92479fd3d1b6de3fe8f46d5239a7a911be494ff11515ff11a748781faa9c9d5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1d85cc8d36192c86ba9bab4fc7c169424d134d8b28ef066c939fe70ca45bf6d0.jpg",
 	"publisher": "Wabbaboy",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/5e5916d5183595ee61d95b43bec104672b55bf24faa00fbf8772754f0d3391f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/d43136fda5882827c1f284ae6fdaf05323f8b6a21f6f3f523bf9a2ac9a594dad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/8a8a45d714abe68bf1df9227fab31b91f399e4af704845dca00b6dd93f2a3de1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/dac97b5dd7200e2433a6939e46543a4902398e602bb42b4f54160a9dd5f7c3f4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/75b2e3659ac66d37f93fb0f6430ae63e1708a9eccf3d12cea89c778f9c4137cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117125/c6a2caf68cd83a3d698c81ff26b12d02fd31c62d201c7aed963bd3d11a7f53e2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5e5916d5183595ee61d95b43bec104672b55bf24faa00fbf8772754f0d3391f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d43136fda5882827c1f284ae6fdaf05323f8b6a21f6f3f523bf9a2ac9a594dad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8a8a45d714abe68bf1df9227fab31b91f399e4af704845dca00b6dd93f2a3de1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dac97b5dd7200e2433a6939e46543a4902398e602bb42b4f54160a9dd5f7c3f4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/75b2e3659ac66d37f93fb0f6430ae63e1708a9eccf3d12cea89c778f9c4137cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c6a2caf68cd83a3d698c81ff26b12d02fd31c62d201c7aed963bd3d11a7f53e2.jpg"
 	],
 	"releaseDate": 20260905,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"First-Person Shooter"
+	],
+	"intro": "Explore, fight, loot and fish! Solo or in co-op mode in this Old School First Person Dungeon Crawler.",
+	"description": "Flyknight tells the tale of a squire of the order of the Flyknights who is assembled to vanquish the witch Lunamoth and lift her curse, which is preventing the denizens of the realm from growing wings. Now separated after an ambush, the squire arriveth at the village of the swamp folk and pledges to see the mission through, either alone or teaming up with other fighters summoned to help along the way.\n\nDo you have what it takes to emerge victorious and claim Knighthood?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence",
+		"Users Interact"
+	],
 	"dlcs": [],
 	"size": "484 MiB"
 }

@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130614/94285987d57d4f27426f235104f8eb05e4c82a9951b65f665eb77af9be07fddb.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130614/a278177817ad3714e309855d3d3c4346cae3c00a31d5a54410b919f36c5e4f56",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94285987d57d4f27426f235104f8eb05e4c82a9951b65f665eb77af9be07fddb.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2b3d2972507c1163a3ffb0713b043740b47fc00baa86f663b315a853b023c953.jpg",
 	"publisher": "Supportware",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130614/c1c0f437b0a2affd7514ea7dc8d6d26ba69fe3bcba3f6c1fc061116b5997c764.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130614/a0c169f8b880f396f195d66c1bc6f02c7a2cc86a27cd24d3f4597d08ad70c1b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130614/44ac08aedf77ffbe157208002c22e060f34c6934e545e54c23866fb44c095f75.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130614/8fd4b04cbb5beee9558c15379d3341cda65d78226c09c7f870ff223162588da6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130614/6e69ff80a939aae488a77ea2fc9547e68eeaeff4607d5f5c30931f3cbbbd9b6e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c1c0f437b0a2affd7514ea7dc8d6d26ba69fe3bcba3f6c1fc061116b5997c764.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a0c169f8b880f396f195d66c1bc6f02c7a2cc86a27cd24d3f4597d08ad70c1b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/44ac08aedf77ffbe157208002c22e060f34c6934e545e54c23866fb44c095f75.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8fd4b04cbb5beee9558c15379d3341cda65d78226c09c7f870ff223162588da6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6e69ff80a939aae488a77ea2fc9547e68eeaeff4607d5f5c30931f3cbbbd9b6e.jpg"
 	],
 	"releaseDate": 20260728,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Action",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Conquer the world through strategy, diplomacy, and military power.\nBuild your nation. Expand your empire. Dominate the globe.",
+	"description": "Conquest: Global Domination is a turn-based grand strategy game where every decision can change the balance of power.\n\nChoose from real-world nations or create battles between fictional countries as you compete for global supremacy. Expand your territory, strengthen your economy, develop advanced military technology, and build an army capable of defeating your rivals.\n\nRecruit infantry, tanks, helicopters, bombers, and other military units to defend your borders or launch large-scale invasions. Research powerful technologies including drones, missile defense systems, and nuclear weapons to gain a strategic advantage over your opponents.\n\nVictory requires more than military strength. Manage your resources carefully, plan your expansion, and decide when to attack, defend, or invest in new technologies. Every turn presents new strategic opportunities and difficult choices.\n\nPlay with different victory conditions to suit your preferred style:\n\u2022 Domination Mode \u2013 Conquer 20 countries to become the world's dominant superpower.\n\u2022 Turn Limit Mode \u2013 Earn the highest score before the final turn to claim victory.\n\nFeatures:\n\nTurn-based global strategy gameplay.\nPlay as real or fictional nations.\nBuild and command a modern military.\nRecruit infantry, tanks, helicopters, and bombers.\nResearch drones, nuclear weapons, and missile defense systems.\nCapture territories and expand your empire.\nMultiple victory conditions for varied gameplay.\nHigh replay value with countless strategic possibilities.\n\nWill your nation become the next global superpower?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "854 MiB"
 }

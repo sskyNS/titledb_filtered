@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132397/2e2745700a728267ee0db8b2f41b92765afca691731f798b33eb8b98b06663b6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0539ca92b19541f880df8e9590c15534_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e2745700a728267ee0db8b2f41b92765afca691731f798b33eb8b98b06663b6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d93c714322c82b9e33738e56a9ed1334a154f10d89a5120ab4d78ebcf4b07dc1.jpg",
 	"publisher": "Piotr Rochala",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/ba818bf4a4e782a3a1fa505c1e9b40f84841eec15f8f826a9abade69ad633cbf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/1df9efb398a2f5252959aec2e8a557116e82f93ffbb3b85d1b9aaff581043f3d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/c68dd56f7ee525ebb170ba0d584bf043d6ea2f6866d901c15f063f9fa4e3a07f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/9c8c02fcb095f6b02bad888dbd73bb634eb4b5078e96c5961ebca9b12b2e8355.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/a523a69a12dd1b5cf31c532d42fed4517ea41a8c7888462cac5540900d260a13.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132397/a2e0adc9ad34a5ce684d6341c10704a68577d3f15bb1db29ce74b30f8278e2ac.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ba818bf4a4e782a3a1fa505c1e9b40f84841eec15f8f826a9abade69ad633cbf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1df9efb398a2f5252959aec2e8a557116e82f93ffbb3b85d1b9aaff581043f3d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c68dd56f7ee525ebb170ba0d584bf043d6ea2f6866d901c15f063f9fa4e3a07f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c8c02fcb095f6b02bad888dbd73bb634eb4b5078e96c5961ebca9b12b2e8355.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a523a69a12dd1b5cf31c532d42fed4517ea41a8c7888462cac5540900d260a13.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a2e0adc9ad34a5ce684d6341c10704a68577d3f15bb1db29ce74b30f8278e2ac.jpg"
 	],
 	"releaseDate": 20260910,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Study",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Route the signal. Power the board.",
+	"description": "Circuit Flow is a wire-routing puzzle game set on a compact circuit board. Draw traces to connect colored signals from the board edge to their matching components - LEDs, speakers, fans, and displays all need the right current to power up.\n\nStart simple with single-color routes, then tackle resistors that transform signal colors, splitters that break secondaries into primaries, and mixers that combine them into new ones. Plan your paths carefully - wires can't overlap, and a wrong turn means a short circuit.\n\nFeatures:\n- Hand-crafted puzzle levels with progressive difficulty\n- Color mixing and splitting mechanics\n- Circuit designer - build and share your own levels\n- Arcade mode with procedurally generated boards\n- Encyclopedia of real electronic components\n- Clean, readable circuit board visual style",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "288 MiB"

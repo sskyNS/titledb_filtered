@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121032/bcf5f9492cf95c05085cbf9b12dd60b4a3f17b80ba2577d1dea0ed16163f1eda.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4028034b0764466b8fc2a311f32cd76a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bcf5f9492cf95c05085cbf9b12dd60b4a3f17b80ba2577d1dea0ed16163f1eda.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b59ecb5ff76ef43357f790e0bdafaa61f74c8b4b02587691ca85af6e10eceb85.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/011e0c7ad1fd2d432d7a51910401d8d74851355ac0b3fb773bd6b47f71b7535d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/02e6da56fd28e5834e7213d1f193b6fd73885b65f912d27066df1df57df287fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/855b4b2f8e46304bb4f87928c515eda42740a3e777c3a87ee048a105baf35351.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/002fe009a89054a87aab239e8abef97cf233a04b0283448e0e04f610577a42ae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/3b23ae6b13e93477ffd9aabf5529d4512f02b827dd1759cfe7088a0de46eb0b3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121032/55cbdd82558302497b68b8395ec1981d0d6bfc76209964d7a2153666327ecd62.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/011e0c7ad1fd2d432d7a51910401d8d74851355ac0b3fb773bd6b47f71b7535d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/02e6da56fd28e5834e7213d1f193b6fd73885b65f912d27066df1df57df287fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/855b4b2f8e46304bb4f87928c515eda42740a3e777c3a87ee048a105baf35351.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/002fe009a89054a87aab239e8abef97cf233a04b0283448e0e04f610577a42ae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b23ae6b13e93477ffd9aabf5529d4512f02b827dd1759cfe7088a0de46eb0b3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55cbdd82558302497b68b8395ec1981d0d6bfc76209964d7a2153666327ecd62.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle"
+	],
+	"intro": "A collection of fun space mini-games for kids",
+	"description": "Jack in Space is a bright, kid-friendly space adventure packed with playful mini-games and simple learning challenges. Join Jack as he looks up at the night sky, explores a colorful space lab, and completes fun tasks that mix curiosity, logic, and early math skills.\n\nFrom counting stars in the sky to assembling spaceship parts in a factory-style scene, each activity is designed to be easy to understand, satisfying to complete, and visually rewarding. Inside Jack\u2019s futuristic control room, players also solve picture-tile puzzles that reveal characters and scenes piece by piece, turning every challenge into a quick, feel-good win.\n\nWith big buttons, cheerful animations, and a gentle pace, Jack in Space is built for young players who love space, puzzles, and learning through play.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "488 MiB"

@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130112/88e5e0ca42289aa7d8663f0498b66c0f2704f947088783814ba18f95b0406b26.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c06ca0eb430c49ecb9a1f6b2d4bb914d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88e5e0ca42289aa7d8663f0498b66c0f2704f947088783814ba18f95b0406b26.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/331faa0907d18d8f5e0b641c6ea111fd7b3cc1840d807c56b27d846e9017412b.jpg",
 	"publisher": "Piotr Rochala",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/d77a232c198c32da842801f236c84464309f02a1c7a4b7426f2617243867e01f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/25f3d8fcef389a5f760aef5b1dd1699d904b1bd5b5ffbcddc317c2e3e5c3ec90.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/6b507d9c0b4757bdb4e60cbafcddeee73f484696640a07579501dcdef4bc02d1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/5d7bd46b049595e088e5cfa4e295d14bd3228e7e7c1d7bbb3f66148f4519331a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/3154db4aba7ac3b58b9d7a71dc79437787e0e122c910575d99b01d3386074ae0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130112/43b875baf22b0413aa5d9954302ea97f7261fa753539901351a208dd9f2d13e0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d77a232c198c32da842801f236c84464309f02a1c7a4b7426f2617243867e01f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/25f3d8fcef389a5f760aef5b1dd1699d904b1bd5b5ffbcddc317c2e3e5c3ec90.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6b507d9c0b4757bdb4e60cbafcddeee73f484696640a07579501dcdef4bc02d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5d7bd46b049595e088e5cfa4e295d14bd3228e7e7c1d7bbb3f66148f4519331a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3154db4aba7ac3b58b9d7a71dc79437787e0e122c910575d99b01d3386074ae0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/43b875baf22b0413aa5d9954302ea97f7261fa753539901351a208dd9f2d13e0.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Lifestyle",
+		"Action"
+	],
+	"intro": "The fate of movie night is in your hands.",
+	"description": "Race against the clock as you rewind tapes, restock shelves, manage impatient customers, and keep the Friday night rush from turning into a complete disaster. Every second counts when there's only one rewinding machine and a store full of people demanding their movies now.\n\nCan you survive three increasingly hectic shifts and become the ultimate VHS clerk, or will your customers leave before the credits roll?\n\nBe Kind, Rewind. The fate of movie night is in your hands.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "173 MiB"
+	"size": "240 MiB"
 }

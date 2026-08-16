@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123870/175307d2e3a2737162b97418ddd01ea3a2455244c240807cbc6720ac39145188.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fad8cbe1caea49f8aa108f0519939563_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/175307d2e3a2737162b97418ddd01ea3a2455244c240807cbc6720ac39145188.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a7c4140ed2259dd7a9d464849bb56afea16bf2074c5cbb6292e75768ddd845ee.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/8198fc6ea0f8ed486947102236898bfc48b6bc75e8672910368ad194e7072da0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/a5fd35d5d5356c45a98f0aea46319deaa95e3124f89001d37478fb3561450e2b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/50ded52d07f5be796936a1fad4d1d31df945424f42b830a91e9e7f7cd7480e16.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/b15b496b485541df37c36706895d30644d99f852fbf16a6b3cff07884db031c2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/df9fc1384be97698d742c42859867ae03ce30862ebed8feb2ccdbb06a223ee4c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123870/b9867b6dc6daca592b02cd7b4c31d5acd5cf7ad7f48f77ee7c890d3c33f0db62.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8198fc6ea0f8ed486947102236898bfc48b6bc75e8672910368ad194e7072da0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a5fd35d5d5356c45a98f0aea46319deaa95e3124f89001d37478fb3561450e2b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/50ded52d07f5be796936a1fad4d1d31df945424f42b830a91e9e7f7cd7480e16.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b15b496b485541df37c36706895d30644d99f852fbf16a6b3cff07884db031c2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/df9fc1384be97698d742c42859867ae03ce30862ebed8feb2ccdbb06a223ee4c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b9867b6dc6daca592b02cd7b4c31d5acd5cf7ad7f48f77ee7c890d3c33f0db62.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Lifestyle",
+		"Puzzle"
+	],
+	"intro": "Fun Learning for Preschoolers",
+	"description": "Tiny Paws Academy: Numbers Fun is the perfect learning game for preschoolers! Featuring 15 charming mini games set in a world of adorable forest and farm animals, this is early education at its most playful.\nUsing your controller, children navigate a friendly on-screen cursor to count animals, compare groups, train their memory, recognise numbers and dice, and discover which animal is biggest or fastest \u2014 all brought to life with beautiful animations and delightful sounds.\nPerfect to share on the couch or let your little one explore independently!\n\nWHAT YOUR CHILD WILL LEARN \n\u2022 Counting and number recognition \n\u2022 Comparing groups and sizes \n\u2022 Memory and observation skills \n\u2022 Logical ordering and sequencing \n\u2022 Species recognition and categorisation\n\n15 MINI GAMES INCLUDE \n\u2022 Did you see this animal? \n\u2022 Which group is bigger? \n\u2022 Find the fastest / biggest animal \n\u2022 Count all animals and species \n\u2022 Numbers and dice in the correct order \n\u2022 Animals coming out of a magical hat \n\u2022 Memory and much more!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "0.98 GiB"
+	"size": "1001 MiB"
 }

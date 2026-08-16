@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120154/bb4ad7d6ceecc57c3caedbb7e7fefcd82dc1d07aa28e9f1731db5dda8bbf2e16.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120154/bc1fb91534c2a31e410da8fce6075f7af84925d5a86f9925e5bd387636650313",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb4ad7d6ceecc57c3caedbb7e7fefcd82dc1d07aa28e9f1731db5dda8bbf2e16.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/12019105d02c8f90da2435f1e2fce531535c26acbce3a03e93aa9a4b9d8fbd26.jpg",
 	"publisher": "THQ Nordic",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/a9ca0b020b6a5cc2c2033e177ed196b0441416057affac318f0231ac98eb8e0a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/f4db53d956c16007f48ee11f858749f8d89c9b368a6fa737143f0ca0fe47b4b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/de1dc59d1c1f97ddb751c47978f97285a637a55a106f6e76d09613fe51b73f26.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/6a55911aca17ec52afe8b9d61ef289c886735bd690c3e976718088a79149db75.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/771851aaabbe0991db14dd590d565d37ddc94e5d7b025ac2a34f08c5a3442e39.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120154/d5ab94268a62cb13b148515b6c01f394a11378f7c68e0473a69e045f621090ea.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a9ca0b020b6a5cc2c2033e177ed196b0441416057affac318f0231ac98eb8e0a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f4db53d956c16007f48ee11f858749f8d89c9b368a6fa737143f0ca0fe47b4b1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/de1dc59d1c1f97ddb751c47978f97285a637a55a106f6e76d09613fe51b73f26.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6a55911aca17ec52afe8b9d61ef289c886735bd690c3e976718088a79149db75.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/771851aaabbe0991db14dd590d565d37ddc94e5d7b025ac2a34f08c5a3442e39.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d5ab94268a62cb13b148515b6c01f394a11378f7c68e0473a69e045f621090ea.jpg"
 	],
 	"releaseDate": 20260811,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Includes all expansions and updates in one definitive edition.",
+	"description": "Ancaria stands on the brink. T-Energy, the mysterious power source that once brought prosperity, now fuels corruption, conflict, and chaos. In the midst of war and betrayal, seven heroes rise \u2014 each with their own fate, abilities, and path through a living, breathing open world.\n\nIn this remaster of the beloved action RPG Sacred 2: Fallen Angel, players return to a massive fantasy realm filled with hundreds of quests, dangerous dungeons, and unique combat arts to master. Battle monstrous creatures, uncover ancient secrets, and shape your character through loot, leveling, and deep customization.\n\nWith refined combat mechanics, a modern UI, full controller support, and all expansions included, the remaster brings new life to a fan-favorite \u2014 whether you\u2019re revisiting Ancaria or setting foot in it for the first time.\n\nForge your legend. The fate of Ancaria awaits.\n\n",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "12.70 GiB"
 }

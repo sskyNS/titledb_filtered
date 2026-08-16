@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118146/4386bd6fd6d7936a2a771ae4aa829a29f1bb860be08210aa59b3349b5b390d8d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118146/9586dc80a23d5d9c295c0a235c1e6e3563ad09c8990a4ce5aac37e57ff184e10",
-	"publisher": "BANDAI NAMCO Entertainment",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4386bd6fd6d7936a2a771ae4aa829a29f1bb860be08210aa59b3349b5b390d8d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/41f037a4903fc9ce0334085d797421c5259946b3735c37a445741c0d1da0d78a.jpg",
+	"publisher": "Bandai Namco Entertainment",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/bddfc4782cd5c6e52dd7dd58f4012d53246a30865e4c3bf0ad96aa0bacceb4b8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/9a91530c9bf65da7105fdd5ddf74e609d62271bb395981d160ba076267ef4b16.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/f2a03ca0730894eb1c54ccf20b61816f6ca7c8b8f81afe977a8c4156027c54ea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/e52036b637562dff1967b916fb6ce236d945bf399a3bbfe77d195d58a83af46f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/bd72d6f4fcdfa998f29501208d4a000e57a2871e642ae2709af1a992e3b3e5d1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118146/ea347d279221f7f1251fc4b0a9cdb9824962c2b79a838fad70f7647a24ee1d2b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bddfc4782cd5c6e52dd7dd58f4012d53246a30865e4c3bf0ad96aa0bacceb4b8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9a91530c9bf65da7105fdd5ddf74e609d62271bb395981d160ba076267ef4b16.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f2a03ca0730894eb1c54ccf20b61816f6ca7c8b8f81afe977a8c4156027c54ea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e52036b637562dff1967b916fb6ce236d945bf399a3bbfe77d195d58a83af46f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bd72d6f4fcdfa998f29501208d4a000e57a2871e642ae2709af1a992e3b3e5d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ea347d279221f7f1251fc4b0a9cdb9824962c2b79a838fad70f7647a24ee1d2b.jpg"
 	],
 	"releaseDate": 20261029,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Arcade"
+	],
+	"intro": "Together with heart.",
+	"description": "Join the party at Party Land and team up with beloved Sanrio characters to play together in a variety of exciting mini games.\n\n\u2022 Immerse Yourself in the Sanrio Universe\nMeet over 145 beloved characters and collect their stickers! Team up with one of 16 playable Sanrio characters and play as your own avatar or your favorite teammate. \n\n\u2022 Partner Up and Enjoy Exciting Mini Games\nJump into 45+ mini games with friends, either offline or online. Take on Board Game Mode and keep the action going by playing quick Petit Games while you wait for your turn.\n\n\u2022 Customize Your Avatar\nDesign a character that's uniquely yours. Adjust everything from hairstyle to outfits. Unlock even more items as you progress through the game!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Comic Mischief"
+	],
 	"dlcs": [],
 	"size": "2.61 GiB"
 }

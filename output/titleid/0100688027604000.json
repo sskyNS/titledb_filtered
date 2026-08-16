@@ -1,18 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119948/5e1e8c8c85a9f8d00ab914dc3b6a13032d4f08c3e7e5efef41a7508aad325a61.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b2a32cf3a4e34d32b7e665539502b12f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e1e8c8c85a9f8d00ab914dc3b6a13032d4f08c3e7e5efef41a7508aad325a61.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/571648a90ed5d17a9f8b38373713c4dc3cd824e31d87db0e571d9d733106a18f.jpg",
 	"publisher": "14Dimension",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119948/75a98ed22584b97b1050f9001411ea88b56cf5f52e737209af3e236eddc09863.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119948/6aa9426949d2e847df994b6af9e88ca3fe64d21ab21e572e149d09f73bf28913.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/75a98ed22584b97b1050f9001411ea88b56cf5f52e737209af3e236eddc09863.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6aa9426949d2e847df994b6af9e88ca3fe64d21ab21e572e149d09f73bf28913.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Video"
+	],
+	"intro": null,
+	"description": "This game is a drone simulation game that allows you to experience real drone flight based on footage shot by a real flying drone. \nThere is no up, down, left or right direction control, only the control to increase or decrease the drone speed. \nYou can also change the drone's flight mode from Normal, Sport, and Eco to any of the 3. \n\nEnjoy the beautiful scenery of Baekje Military Museum, Korea with \"Real\" footage! \nThere are a total of 2 flight courses in 1 areas.\n high-definition footage faithfully reproduces the atmosphere of real nature, providing a strong sense of immersion in the game. \nSmooth and realistic video playback makes you feel like you are a real drone pilot. \nLarge capacity! You can fly to locations that show the beautiful scenery of Korea! \nTwo play modes are supported: course-specific flying mode and view mode automatic flight. There is also an achievement system. \nVisit Korea from home at any time! \nEnjoy the drone flight control experience and the beautiful natural scenery.  ",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "807 MiB"

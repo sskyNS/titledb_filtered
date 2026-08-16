@@ -1,20 +1,25 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131958/39a07bd076f015b4f302c1180b9a1057e9b795afc6d4dea0f633390685eb9c5a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f239640b3081433a93c8179e29acdeb7_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39a07bd076f015b4f302c1180b9a1057e9b795afc6d4dea0f633390685eb9c5a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/615bb635da5fbd3fbac546936c7bdbdc9bf93047780e392510f09560e20623e9.jpg",
 	"publisher": "Soroka Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131958/f1fbb039d4152781e3236762a8d8099c487ba712634c7fe00c7f21a2f55cae4b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131958/a0227ba1edc41b3cad0b2da2cd8a8bea79ae46d3ff8ec1bd863069e873cc26a5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131958/16414aa8d79263616d69760f6e9de450c2d19eec3fdbc3612bf4948fdc7bdcf8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131958/4ecf9f28eefd7db671fdf17c91d7e9ac9330ccfb40747a2c4a3a83f6f9d7a27e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f1fbb039d4152781e3236762a8d8099c487ba712634c7fe00c7f21a2f55cae4b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a0227ba1edc41b3cad0b2da2cd8a8bea79ae46d3ff8ec1bd863069e873cc26a5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/16414aa8d79263616d69760f6e9de450c2d19eec3fdbc3612bf4948fdc7bdcf8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4ecf9f28eefd7db671fdf17c91d7e9ac9330ccfb40747a2c4a3a83f6f9d7a27e.jpg"
 	],
 	"releaseDate": 20260718,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Relax and enjoy the timeless classic. Challenge yourself with the world's most beloved solitaire card game!",
+	"description": "Klondike Classic is the perfect solitaire experience for players who enjoy classic card games and relaxing puzzles.\n\nChoose your favorite card back and enjoy a clean, elegant design focused on the classic Klondike experience.\n\nPlay at your own pace, sharpen your mind, and enjoy the timeless appeal of classic Solitaire!\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "139 MiB"

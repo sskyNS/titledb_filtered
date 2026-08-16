@@ -1,20 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000112269/8796c2386a6b2b45f4d7f15b87d17f931d857413bc0aaa67b35df1ae0f860412.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/dd9875a951fa4fbd8abc51ae4a286f1a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8796c2386a6b2b45f4d7f15b87d17f931d857413bc0aaa67b35df1ae0f860412.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9e233e9f2956b7321c21165f4c1dd472aae5b588a355c7b38ccf0481fa060daf.jpg",
 	"publisher": "Scalions Studios",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000112269/2823a06bc8ed2d20ded7c061d67099181591243ef5603619e986257eeb7b7434.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000112269/0ea7bc0782edecafab462ac41de1f89729db8d24a38a01ffdb0245a90d840288.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000112269/70acafed16ad13302a2d1d3253cfce3e2c7d56bd6708256cd3fe14fd41c95c49.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2823a06bc8ed2d20ded7c061d67099181591243ef5603619e986257eeb7b7434.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0ea7bc0782edecafab462ac41de1f89729db8d24a38a01ffdb0245a90d840288.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/70acafed16ad13302a2d1d3253cfce3e2c7d56bd6708256cd3fe14fd41c95c49.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Fight your way to the top of the tower and stop the sorcerer who controls it to free the unfortunate souls who arrived there and are now trapped.",
+	"description": "Venture into this dungeon crawler with roguelike elements, where you'll face bloodthirsty skeletons and other creatures. Reach the top of the tower and uncover the mysteries hidden within.\n\nIn this adventure, you will follow the story of Dorian, an adventurer who has spent years tracking down a powerful sorcerer. However, when he finally finds him, he discovers that the situation is far worse than he expected. \n\nGame features\n----------------\n- A dungeon-crawling adventure where you must clear each floor before advancing. After every floor, you can choose between opening a chest with improved equipment or moving on to the next floor, where loot chances are better but enemies are stronger.\n\n-Simple mechanics! Jump back into the game whenever you want, with no steep learning curve.\n\n- Define your own playstyle! Choose from different weapon types and talents. Feel free to carve your own path.\n\n- Forge your own custom equipment! If the gear you find during your journey isn't enough, create your ideal equipment with the stats you need.\n\n- A unique style! More friendly and suitable for all audiences. Perfect for newcomers to the genre and refreshing for veteran players.\n\n- An unexpected story waiting to be uncovered as you explore the dungeons.\n\n- Various bosses and powerful enemies that will appear as you progress.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "583 MiB"
 }

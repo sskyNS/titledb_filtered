@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122899/d0a603c0fcb9d844b053678f19727e96cd194b6adda1ef92d70c41962f67038d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122899/c98a24ad99608fea7bbfeaaf05e92c78af8f421ec3254d49c7e3bb4e4bb8631f",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d0a603c0fcb9d844b053678f19727e96cd194b6adda1ef92d70c41962f67038d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6be51d009cb6caa4346ab0de37afe09f4cc8597c8ce2cfb5867c99731cc2f203.jpg",
 	"publisher": "PQube",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/413406892f3c6d3276a867788e42a8bf5cd63dd1f13a52eba6a50c400e4e675a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/a4c62d8a1c3d4e5ce831fd91bf4db147189b7e1bb8d71938bcadfff58ecdf4c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/b72064fa74889859fcff7d53fc4b81e353f88dfdd0622aecbb3ee4b378033bfb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/26ab85a888fab0bc3ea6db38727f48f4774b94c9a1d7497ed3f305cde6b910c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/da09f4ab1594c7904cc850cca91f1c486f0883229d30d06acc0b8951f409e548.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122899/e752fc0a418ba437203cab6c4e09e26002005554afc46255fe861abfd0614513.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/413406892f3c6d3276a867788e42a8bf5cd63dd1f13a52eba6a50c400e4e675a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a4c62d8a1c3d4e5ce831fd91bf4db147189b7e1bb8d71938bcadfff58ecdf4c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b72064fa74889859fcff7d53fc4b81e353f88dfdd0622aecbb3ee4b378033bfb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/26ab85a888fab0bc3ea6db38727f48f4774b94c9a1d7497ed3f305cde6b910c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/da09f4ab1594c7904cc850cca91f1c486f0883229d30d06acc0b8951f409e548.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e752fc0a418ba437203cab6c4e09e26002005554afc46255fe861abfd0614513.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Shooter",
+		"Arcade",
+		"First-Person Shooter"
+	],
+	"intro": "A ridiculous, family-friendly 3D Hidden Object game with a big twist.",
+	"description": "Meet Dan. Dan has a sniper rifle. Don\u2019t panic, he\u2019s not here to harm anyone. Dan\u2019s a professional and his job is fixing things. From a distance. With pinpoint accuracy and good intentions.\n\nSniper Dan is a hidden object game unlike any other. Objects aren't always well hidden and the solution involves shooting them. Each job follows a simple and highly respected method.\n\nFigure out the problem. Use the clues. HMM\u2026\n\nFind the problem. Scope the area. AHA!\n\nFix the problem. Shoot. WHEE!\n\nYou\u2019re not hunting enemies. You\u2019re hunting problems. Fixing rusty taps, machines behaving badly and even stop a thieving Pelican. Travel far and wide across lively 3D locations packed with visual jokes and silly situations as you help those in need. Can Dan and his trusty tool get the job done? \nDan\u2019s business takes him to villages, parks, farms, airports, cities and beyond. Special challenges keep every day fresh. Take on optional work for extra cash, tackle bigger jobs for even bigger rewards and uncover secrets that leave citizens quietly convinced something magical just happened.\nIt did. It was Dan!\n\nBetween contracts, upgrade your rifle, decorate your office hub and grow your entirely legitimate troubleshooting business. Unlock bonus games and extra modes like Time Attack, Ammo Hunt and Photo Mode, all under the judgmental eye of Rank Chook.\n\nFunny, colourful and sure to leave you wanting more, Sniper Dan is about finding what\u2019s wrong, fixing it fast and moving on to the next job.\n\nScope the problem. Take the shot. Make everyone happy.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "721 MiB"
+	"size": "1.45 GiB"
 }

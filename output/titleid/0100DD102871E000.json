@@ -1,23 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126542/871e43b970e800deee9354bf6443a0778333307686fe63ebdcd817e3873f1b8b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126542/b6af7e4af8610e394248656db999f9b80ecb13795557cba56c16291fc4f7d27e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/871e43b970e800deee9354bf6443a0778333307686fe63ebdcd817e3873f1b8b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/330ee6b936d5f7324a796f5bacb594bba13fab5a32577e60950c83967465bd94.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/a298ba66d9ca15d04a00a8f7a1bbfdfb3e22a7cdf4ab73a6c74c511831e5fe78.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/078068e898bc63a9a4ac0ecf8603b177dc88b394392d6a7b6ba52ce93256eccc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/78734cb14901eafe8577fcf215c4b5398cd8e0042f2580a3cb166e9ccb53b03e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/b782e8e4239dc217b5a6d1352b67821ff4617179918511413efe55fa9522c74b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/032c81a905613987af5d7f751df0e9e08b34377c264d4b1650a3ab92ecc36dec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126542/cde363b22fa327c627c9268f33a208ea5a92cf6eec0d1d79f271f27af65646e9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a298ba66d9ca15d04a00a8f7a1bbfdfb3e22a7cdf4ab73a6c74c511831e5fe78.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/078068e898bc63a9a4ac0ecf8603b177dc88b394392d6a7b6ba52ce93256eccc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/78734cb14901eafe8577fcf215c4b5398cd8e0042f2580a3cb166e9ccb53b03e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b782e8e4239dc217b5a6d1352b67821ff4617179918511413efe55fa9522c74b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/032c81a905613987af5d7f751df0e9e08b34377c264d4b1650a3ab92ecc36dec.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cde363b22fa327c627c9268f33a208ea5a92cf6eec0d1d79f271f27af65646e9.jpg"
 	],
 	"releaseDate": 20260703,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade"
+	],
+	"intro": "Pop your way to pirate glory.",
+	"description": "\nThe classic bubble shooter gets a pirate makeover! Pop, chain and clear your way through 60 coloUrful levels of pure puzzle fun set across the high seas.\n\nTake on 30 progressively challenging beginner levels to find your aim, then tackle 30 demanding stages that will put your strategy and reflexes to the true test. Every level brings new bubble formations, tricky layouts and fresh obstacles to keep you hooked from start to finish.\n\nCollect power-ups, trigger chain reactions and hunt for hidden bonuses to boost your score. Earn up to 3 stars on every level and chase the perfect run for the most dedicated players.\n\nSimple to pick up, endlessly replayable \u2014 the ideal arcade puzzle for players of all ages.\n\nFeatures\n- 60 levels across 2 chapters \u2014 30 Easy, 30 Hard\n- Collectible power-ups and special bubbles\n- Hidden bonuses and up to 3 stars per level\n- Chain reaction combos for massive score multipliers\n- Classic bubble shooter mechanics with a pirate theme\n- Suitable for all ages and skill levels",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol Reference"
+	],
 	"dlcs": [],
 	"size": "215 MiB"
 }

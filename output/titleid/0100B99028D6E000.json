@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129563/67ea4f09513b28a531afb5676fefba48f45ddc7deee29c8df709c09bfe1f54c1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129563/6e1d8b481d95245126536014c7f09e90f376c74f4f1e049cce2956999b25f00a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67ea4f09513b28a531afb5676fefba48f45ddc7deee29c8df709c09bfe1f54c1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b1c1ba097af60fab5911224a7f03edc45e29b4504ea2f80fbef2d7b6b60c9d72.jpg",
 	"publisher": "KUM\u039bSystem",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/e9339e520e746c325a9b8a28bec1276d3520ff185de43d8777b8330102403b6c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/987fb87cec71bf0b610819e9884280e72be0d8a43ac4628c43d0e9bfc1a47330.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/21bf7678a3707d342a1c02106762e1d7838c33a0f058f2d06d072088b852a07f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/b8d6a5a0d2d90321d3f044b8bcd427c78a7291eab45bb283678bb6dc70ff29d7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/aef9ce82e4ce5cd247dc683e96bb24f55b307917fdc6a5502fa73c3501603ea4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129563/9c456f44d24e90700b36f4cda43b0cd5a54bec9553d24e4e726ee0acd92cfeb3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e9339e520e746c325a9b8a28bec1276d3520ff185de43d8777b8330102403b6c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/987fb87cec71bf0b610819e9884280e72be0d8a43ac4628c43d0e9bfc1a47330.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/21bf7678a3707d342a1c02106762e1d7838c33a0f058f2d06d072088b852a07f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b8d6a5a0d2d90321d3f044b8bcd427c78a7291eab45bb283678bb6dc70ff29d7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aef9ce82e4ce5cd247dc683e96bb24f55b307917fdc6a5502fa73c3501603ea4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c456f44d24e90700b36f4cda43b0cd5a54bec9553d24e4e726ee0acd92cfeb3.jpg"
 	],
-	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20260806,
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "A single move to carve a path through blood.Use the information on the grid to avoid, fight, and devour unseen enemies in this Minesweeper-style puzzle adventu",
+	"description": "A Minesweeper-style puzzle adventure where you must navigate a labyrinth of logic and make your way back to the surface.\n\nUse the information marked on the grid to deduce the strength of nearby enemies, then devour those weaker than yourself.\n\nA diverse cast of enemies demands more complex deduction, as well as strategies that are both delicate and bold. Sharpen your intellect and crush everything in your path.\n\n\u25a0 Game Features\n\u30fbMultiple game modes with distinct puzzle-solving experiences.\n\n\u00a0 \u00a0-Girl Mode\n\u00a0 \u00a0 A mode where you use skills to defeat powerful enemies.\n\u00a0 \u00a0 By obtaining materials from enemies and strengthening yourself, you can gain the upper hand in battle.\n\u00a0 \u00a0 Some enemies have special placement patterns and unique traits beyond the information shown on the field, and\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 understanding them will be the key to victory.\n\n\u00a0\n\n\u00a0 -Scientist Mode\n\u00a0 \u00a0A high-difficulty puzzle mode that can always be solved using the information provided.\n\u00a0 \u00a0Use a variety of tools to find contradictions, build your own logic, and solve your way forward.\n\n\u00a0 -Soldier Mode\n\u00a0 \u00a0\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\uff1f\n\n\u30fbA wide range of tools for organizing information on the board:\n\nHandwritten notes, number-combination notes, combination prediction tools, and more.\n\n\u25a0 Story\n\nThe near future\u2014\n\nDeep underground, in a hidden research facility, humanity has been carrying out illegal genetic experiments in an attempt to create new life forms adapted for space exploration.\n\nBut during one such experiment, an accident occurs.\n\nAmid a firefight between countless mutated creatures and the security system deployed to suppress them, a lone girl escapes from the laboratory and begins her journey toward the surface.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Blood",
+		"Mild Violence"
+	],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "354 MiB"
 }

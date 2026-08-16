@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127084/c99e8daad549257946182c073bbf8bdab266e37f0e04ff51434d8d28a94d5a23.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127084/f8d168487a93750e9dd2c1886e29ebaae6246540d6bb9ae17c62133cb9eba402",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c99e8daad549257946182c073bbf8bdab266e37f0e04ff51434d8d28a94d5a23.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/336396addca4ac17b996ee9856ca0707ab60bb3065bfb5e8c30f4eecaa72f499.jpg",
 	"publisher": "Testagamercreations",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/1068369800c722e99c85f5b2565a8d3597d88173d326573499cd267ad3a0cafa.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/0b7d2bb7d79408cc13603a6381c6145e4625b226b5d7ecadcea2b7c58f66d5bf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/a213e93f6c9b8b565c718576ff04199f9c8b87818f64425df6d0cfc01ec7ddc9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/72dcbc27e74fa92ecbe9427baf851feeeafb4da0169251faaa9817310b298071.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/c8862c7d3b4892c3efe831cf2fb82ff09dde7e43623ebd5ae6ccee9dfe01b2aa.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127084/572e0ebb958497decd27e1e6092e1d473863afc175cf6c31c37c65fa2be1216c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1068369800c722e99c85f5b2565a8d3597d88173d326573499cd267ad3a0cafa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b7d2bb7d79408cc13603a6381c6145e4625b226b5d7ecadcea2b7c58f66d5bf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a213e93f6c9b8b565c718576ff04199f9c8b87818f64425df6d0cfc01ec7ddc9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/72dcbc27e74fa92ecbe9427baf851feeeafb4da0169251faaa9817310b298071.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c8862c7d3b4892c3efe831cf2fb82ff09dde7e43623ebd5ae6ccee9dfe01b2aa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/572e0ebb958497decd27e1e6092e1d473863afc175cf6c31c37c65fa2be1216c.jpg"
 	],
 	"releaseDate": 20260822,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Strategy",
+		"Training"
+	],
+	"intro": "Build your reputation with every perfectly cleaned home.\n",
+	"description": "Step into a calming yet deeply satisfying experience in House Cleaner Simulator, where every mess is a chance to create something beautiful. Take on the role of a professional cleaner and transform cluttered, dirty spaces into spotless, cozy homes. From small apartments to large houses, each job brings new challenges and visible results you can truly enjoy.\n\nFeatures:\n\t\u2022\tDetailed cleaning mechanics including trash removal, surface scrubbing, floor washing, and object organization.\n\t\u2022\tVariety of jobs with unique conditions and different levels of dirt and complexity.\n\t\u2022\tWide selection of tools and equipment with upgrade options to improve efficiency.\n\t\u2022\tProgression system with new contracts, larger locations, and more demanding tasks.\n\t\u2022\tEquipment customization and upgrades that enhance speed and cleaning performance.\n\t\u2022\tClient satisfaction system based on precision, completeness, and overall results.\n\t\u2022\tRelaxing gameplay focused on attention to detail and satisfying visual transformations.\n\nTurn chaos into cleanliness and restore every space to perfection. In House Cleaner Simulator, your precision and dedication define your success. Build your reputation, take on bigger challenges, and become the ultimate cleaning professional.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.52 GiB"

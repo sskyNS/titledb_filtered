@@ -1,21 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130515/25664c28ba975327cac2bda314002718fe86b2f58f10c4126f2c21f99828c98c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/8e65cdd927b64fa0aa86d5b6fd21ba50_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25664c28ba975327cac2bda314002718fe86b2f58f10c4126f2c21f99828c98c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d9ee26334212fd88a09e8ad8580132f28c9dcc36fda6f57104c245dda71e323e.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130515/f8b442950480a3a8a8d98898909671a9deafb8fd6de491b5075fde7ea0c7fd53.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130515/0b56d3cf8a94a769383cf153c912340fd545095596770016795f3e70faaa5f2b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130515/8479a3e4ab2b88d6bbd64cbc78035fbca820b9668e85c9f164be9c4aacbd03c4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130515/5b8fbc082f1e5bf8c4389b4c3986d9f9c9522d9eea282f5490162ecbe48bfba7.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f8b442950480a3a8a8d98898909671a9deafb8fd6de491b5075fde7ea0c7fd53.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b56d3cf8a94a769383cf153c912340fd545095596770016795f3e70faaa5f2b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8479a3e4ab2b88d6bbd64cbc78035fbca820b9668e85c9f164be9c4aacbd03c4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5b8fbc082f1e5bf8c4389b4c3986d9f9c9522d9eea282f5490162ecbe48bfba7.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Study",
+		"Training"
+	],
+	"intro": "Look closely at this image. One thing doesn't belong.\nOnce you notice it, you can't look away.\n",
+	"description": "A quiet hallway. A room that should be empty. Dolls lined up in neat rows.\n\u2014 And among them, one \"thing that shouldn't be there\" is hiding.\n\nA pale, translucent figure.\nA single \"real one\" mixed into a row of dolls and mannequins.\nYou won't catch it at a glance. But once you find it, you'll never unsee it.\n\nThis is a horror observation game where you spot the presence that shouldn't be there inside a single dim image, and tap it.\nAn extra figure in an empty place, a living person among lined-up statues \u2014\nyou hunt down that spine-tingling wrongness with nothing but your eyes.\nNo gore, nothing graphic. The only scary things are the \"presence\" and the \"wrongness\" \u2014 which is exactly why it creeps up on you.\n\n50 scenes in all.\nThe further you go, the more cleverly it blends in, and the harder it gets to tell.\n\nHow to play is simple.\n\u30fbScan every corner of the dim picture\n\u30fbFind the thing that \"shouldn't be there,\" and tap it gently\n\nThe instant you spot it, a chill runs down your spine \u2014 that's the reward.\nPlay alone in a bright room, or shout \"Where?!\" with a friend.\n\nSo, the wrongness hidden in this one image \u2014 can you find it?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "160 MiB"
 }

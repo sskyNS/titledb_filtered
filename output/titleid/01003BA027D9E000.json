@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123172/6f0a728b362cd9464c31135de3a876c86f31f534b5ab75de7780dff3393916bb.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ee276e7cbba44203a60dd8efdfebc2d4_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f0a728b362cd9464c31135de3a876c86f31f534b5ab75de7780dff3393916bb.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e6545348859bc4e6ee09fdb9664c4081ed64125ac2e06f8415ac22f50cb0ec55.jpg",
 	"publisher": "D4 Enterprise",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/3ad6c0ea3e1d678fe24e020290a390e505db015d69e0531625ef9b04746d64ea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/3a379c567f93c3e516574fec195da78efca193abd09848cc28e4801754870a1b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/ff78341189f9e790b45828ea06a9325fc183a0d6c0b57fbfa0bde79192a318d7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/df88ebb10f84d94cc214cee9ed4adc8e86630fd393fd76c5f57902cb797a6d2a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/adaf2a0c1eb551cbb3ea29d4d0844424146a9b3bec8880615c6e83cdebf9e382.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123172/0409063cbd5b3a41d691ffeac3b590eb870222bf9e189cf519fef5acd60ea7a0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3ad6c0ea3e1d678fe24e020290a390e505db015d69e0531625ef9b04746d64ea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3a379c567f93c3e516574fec195da78efca193abd09848cc28e4801754870a1b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ff78341189f9e790b45828ea06a9325fc183a0d6c0b57fbfa0bde79192a318d7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/df88ebb10f84d94cc214cee9ed4adc8e86630fd393fd76c5f57902cb797a6d2a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/adaf2a0c1eb551cbb3ea29d4d0844424146a9b3bec8880615c6e83cdebf9e382.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0409063cbd5b3a41d691ffeac3b590eb870222bf9e189cf519fef5acd60ea7a0.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Become King Sieghart, lead the Forces of Light, and defeat Bozel and his Legions of Darkness! A masterpiece of fantasy strategy RPGs!",
+	"description": "Originally released in 1988, this strategy RPG casts you as King Sieghart of Elthlead. Your mission is to defeat Bozel, the King of Velzeria, and restore peace to the continent of Gaia.\n\nThe game alternates between an Area Map for troop movement and a Tactical Map for unit-to-unit combat upon encountering the enemy. You must lead a diverse army\u2014including Grandinos (Earth Dragons), Falcon Knights, Light Knights, Fighters, Archers, and White Dragons\u2014to overcome the opposing forces.\n\nWhile the core system is a straightforward battle for military supremacy, mastering tactical elements like terrain defense bonuses and area-of-effect magic is the true key to conquering the game.\n \n",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "47 MiB"
+	"size": "72 MiB"
 }

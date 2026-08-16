@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127795/ec4b4ac994b6fe1c7e095f7c96c6c4d00ec8644c4bd1bc0b693c22eeb1cc64ad.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/647d8dd32bae43a6989c467409ba7805_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec4b4ac994b6fe1c7e095f7c96c6c4d00ec8644c4bd1bc0b693c22eeb1cc64ad.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a72e8f2d6cf26eb6fcf0374683fc879015522e85f5fd497c4a47f5731c03e5b1.jpg",
 	"publisher": "G-MODE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/7c0eca4b062e63d5d6d0b6736caddfe721f42da53da0fb6be6dcbeefcea9d113.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/7c8eb94dcfc2ee1f9108e49bf537231d767a50f35d6bbba680a23f9e761f87f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/c22dd2cba96593c8049f5469dbbd0183872d651562c829640b2916dbc1de27df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/7d5663ce3d441a0713d775aa802644264135032520ed3750ad0b6aa85d6d2d2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/bc82b4c0c2f952afeaf08197b271d9b03ff75acb0ddb77df98a3056842b64c7f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127795/96263298c92480ab53e65fe6944d695e23b5c3321abbaf493afa75af6b591c1d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7c0eca4b062e63d5d6d0b6736caddfe721f42da53da0fb6be6dcbeefcea9d113.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7c8eb94dcfc2ee1f9108e49bf537231d767a50f35d6bbba680a23f9e761f87f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c22dd2cba96593c8049f5469dbbd0183872d651562c829640b2916dbc1de27df.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7d5663ce3d441a0713d775aa802644264135032520ed3750ad0b6aa85d6d2d2d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bc82b4c0c2f952afeaf08197b271d9b03ff75acb0ddb77df98a3056842b64c7f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/96263298c92480ab53e65fe6944d695e23b5c3321abbaf493afa75af6b591c1d.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Can you endure until morning Monitor Japan's stigmatized properties and report any paranormal activity If you miss a report or make repeated mistakes\u2014\u2014",
+	"description": "Note:\nThis game focuses on Japanese-style psychological horror and subtle, atmospheric fear.\nIt is not based on jump scares, action, or chase scenes.\nYour task is to observe real-world locations in Japan and report any abnormal phenomena.\nInspired by Japanese urban legends, this experience blends horror with visual attention.\nYou may find the horror \u201cquiet\u201d\u2014but it lingers in your mind.\nIf you enjoy subtle, unsettling vibes over gore or action, this game is for you.\n\n\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\u30fc\n\nTo All Employees,\nYou are a surveillance officer of Japan Stigmatized Property\nOperate the security cameras installed throughout the property and monitor for any signs of anomalies\nIf you discover anything unusual, report it immediately\nFailure to report anomalies or repeated mistakes will result in a mission failure\nConversely, if you can maintain surveillance from midnight to 5 a.m., the mission will be considered successful\n\n[Mission Features]\nYou will be assigned to real-life properties located within Japan\nAnomalies will occur randomly\nBe aware of phenomena that can only be observed through either the night vision camera or the regular camera\n\n[Examples of Anomalies]\nFurniture moving, objects disappearing or appearing\nIntrusion by human figures or spirits\nLighting malfunctions, floating orbs\nBloodstains on walls, video distortion\nAnd other phenomena beyond imagination\n\n[Work Hours]\nYou will be in charge of 4 properties in total\nSurveillance duties run from 12:00 a.m. to 5:00 a.m.\nChoose between 'Nomal' or 'Special Pay' Assignment difficulty modes\n\n[Other Notes]\nStreaming and broadcasting while conducting duties is permitted.\nWe place no restrictions on monetization or Super Chats.\nSubmission of permission requests is not required for either individuals or corporate entities.\n\nPlease commence your duties.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "438 MiB"
 }

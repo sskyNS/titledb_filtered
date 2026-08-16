@@ -1,20 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130467/f7f0f5f0dbbe429b50060686c371ebe4cbe98b7bc69f90765276ced2ae5f91ef.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3fade183fd44478d9a755257786116a6_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7f0f5f0dbbe429b50060686c371ebe4cbe98b7bc69f90765276ced2ae5f91ef.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9247fb2e7debdc15eae87de4346d4cee4db7c59c9ceb65794c938894697ca4dd.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130467/531a028671ef7aae0d72df294d432b65753052e5a12511a3845f9cd84cbbf2d3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130467/bf474f79298c86fad5d9fd81745c1088c66e91d4acf2df2f9375df69d0684711.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130467/bcc5d98afd09bd8a6246d8eb8b2aa39a933e8090845f6d74902d2b2dd12c8b6a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/531a028671ef7aae0d72df294d432b65753052e5a12511a3845f9cd84cbbf2d3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf474f79298c86fad5d9fd81745c1088c66e91d4acf2df2f9375df69d0684711.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bcc5d98afd09bd8a6246d8eb8b2aa39a933e8090845f6d74902d2b2dd12c8b6a.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Run. Hide. Survive. A ruthless butcher stalks your every move in this tense first-person horror experience.",
+	"description": "You awaken alone in a deserted hospital, its halls filled with darkness, mystery, and fear. As you search for a way out, you discover that you are not alone. A relentless butcher roams the building, hunting anyone who crosses his path. Explore the hospital, solve puzzles, uncover its disturbing past, and use stealth to survive. Stay quiet, stay hidden, and escape before the butcher finds you.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "169 MiB"
 }

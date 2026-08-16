@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123347/9fa5259d3afd6a07c5a4c78294da9926da969056d002640391809101fc83aa4a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/96d9234628b845e68649863afff90ce9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b396d183285d7f1f7a2c4db268e82ae3bb0a42782b59a7374dc16e55b253b385.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a89fdbc1ccdf04c9720274a7a62915c34bdadf0d0a3ffe5d66cdb23ce74609b3.jpg",
 	"publisher": "MagisterApp",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/81fe676a4e875c1bb41a96208bced326b1e282389e1df488bd163c48e9d31f1f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/822f574ea1abe3b0fce5311dcc39badb67286772931c64704858ddb4ac1865db.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/62d689f156b2482b41c954c388cb557904a48b14d4f0ef942524b776d57f4170.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/9b88c9153d41b317357b511323d8c9e22c2026ec0cfbab190fb1d2b97fe94658.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/02f65af7736df781e94200978567b9defcc8500e6b1c975cc1fcacad410c1c43.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123347/8dd27261cbcc0a0058a6efa7ba836e09db1e05aae0c556bea8823cffae651853.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/81fe676a4e875c1bb41a96208bced326b1e282389e1df488bd163c48e9d31f1f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/822f574ea1abe3b0fce5311dcc39badb67286772931c64704858ddb4ac1865db.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/62d689f156b2482b41c954c388cb557904a48b14d4f0ef942524b776d57f4170.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9b88c9153d41b317357b511323d8c9e22c2026ec0cfbab190fb1d2b97fe94658.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/02f65af7736df781e94200978567b9defcc8500e6b1c975cc1fcacad410c1c43.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8dd27261cbcc0a0058a6efa7ba836e09db1e05aae0c556bea8823cffae651853.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Utility",
+		"Education",
+		"Puzzle",
+		"Lifestyle"
+	],
+	"intro": "Your cozy corner. Cute, calming coloring for all ages.",
+	"description": "Welcome to Cozy Pages, a cozy/kawaii coloring game designed for those quiet, feel-good moments. Pick a page, choose a palette that matches your mood, add a few cute stickers and let everything slow down. No pressure, no timers. Just soft vibes, gentle creativity and that satisfying feeling when a scene comes to life.\n\nColor charming 2D pages, from simple doodles and bold, easy designs to mandalas, lettering, and more detailed realistic drawings. Plus plenty of cute animals, cozy everyday moments and adorably decorated little houses.\n\nThen switch things up with our separate 3D & Voxel mode, where you color blocky  models and unlock whiteboards for free drawing, quick doodles and cozy creativity anytime.\n\nThis free edition gives you a warm, complete starter set:\n- 33 coloring pages from different themes\n- 4 voxel 3D models \n- 1 sticker pack (10 stickers)\n- 2 palettes (32 colors)\n\nIt\u2019s enough to relax right away and discover what style you love most.\n\nAnd if you want the complete set, the full version\u2014sold separately as the Cozy Bundle\u2014includes: 450+ pages, 33 themed collections, 40 voxel 3D models, all sticker packs (110 stickers total), all palettes (192 colors total), plus 20 whiteboards for drawing freely. \n\nControls\nChoose your favorite way to play:\n- Motion pointer (Joy-Con\u2122): move the pointer by tilting the controller like a magic wand.\n- Touchscreen: tap and color directly for a smooth, hands-on experience.\n\nTools\nKeep it simple or get creative: use cozy tools like brushes (with different looks), a satisfying fill bucket, an eraser, glitter and sticker stamps to decorate your pages. \n\nCozy Pages is your pocket of calm: cute, cozy and always ready when you need a little break.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"In-Game Purchases"
+	],
 	"dlcs": [],
 	"size": "416 MiB"
 }

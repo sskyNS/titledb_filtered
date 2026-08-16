@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000111685/2778c8aa648de0db4e174c604536e21afaae8c33c84104b35b20de59b8254932.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000111685/3f9a5b203999bd7af925241dee755780d9d2d2a3ceddd6ccc2282fce30520997",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2778c8aa648de0db4e174c604536e21afaae8c33c84104b35b20de59b8254932.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/45b361db2fa583d8ac5c1fa3bed52657760f626dc30712ba6ad744c3f4e14169.jpg",
 	"publisher": "NUNTIUS GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/6ea720aff44d22555bfeb8327ee45a69db4644d43a5cca3302d04a40d9a3e7c5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/ec6d00de1277040e98ca3b8bbee939e58b8cf8c4095b163af78959045a32d3f8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/30cac07962c5371e37b5808521b25e1dda5ca19bcbb8f2ba477ef36fe7e48ad8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/408ef38d7cc17a921c38f136827aa2ac633f76665030a055f90d2f0403e597d6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/da5990e9da8f0d2dd470b55f52ab4c03f3471f25c6c9420309b75d55f4d82f25.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000111685/23a97c2899b2eec1e7847d8b404996c663e5c97d5f6bdee94f76fca68d175ced.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6ea720aff44d22555bfeb8327ee45a69db4644d43a5cca3302d04a40d9a3e7c5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ec6d00de1277040e98ca3b8bbee939e58b8cf8c4095b163af78959045a32d3f8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/30cac07962c5371e37b5808521b25e1dda5ca19bcbb8f2ba477ef36fe7e48ad8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/408ef38d7cc17a921c38f136827aa2ac633f76665030a055f90d2f0403e597d6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/da5990e9da8f0d2dd470b55f52ab4c03f3471f25c6c9420309b75d55f4d82f25.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/23a97c2899b2eec1e7847d8b404996c663e5c97d5f6bdee94f76fca68d175ced.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "The year is 2071. As Tristan, you have to uncover secrets and solve puzzles to recover human consciousnesses in this neon-noir world with a low poly aesthetic inspired by the 90s.",
+	"description": "AU REVOIR - 2071\n\nIn a future where immortality is a privilege of the wealthy, Au Revoir Ltd. dominates the market with synthetic brains capable of storing human consciousness. Sentinels are tasked with locating these minds and carrying out the recovery and transfer process into new bodies.\n\nExplore interactive environments, collect documents and clues, solve unique puzzles, and make decisions that influence the course of the story. Use your car to navigate different areas and interact with characters who hide more than they reveal.\n\nENGAGING NARRATIVE\n\nExperience a rich and complex story where the narrative unfolds with depth, filled with twists and moral dilemmas that challenge your view of the world and of the protagonist.\n\nIMMERSIVE SETTING\n\nExplore a carefully crafted futuristic world with detailed environments and striking visual design. The neon-noir atmosphere blends vibrant colors with a dense mood, creating a deeply immersive cyberpunk setting.\n\nDEEP CHARACTERS\n\nInteract with a variety of characters, each with their own personality, motivations, and hidden secrets. Conversations reveal crucial details and open up different paths, adding weight to every encounter and multiple ways to interpret what\u2019s truly happening.\n\nINVESTIGATIVE CHALLENGES\n\nFace puzzles that require logic, observation, and attention to detail. Gather clues, connect information, and solve narrative-driven challenges. Each solved mystery brings you closer to the truth \u2014 or to new questions to uncover.\n\nPrepare for an unforgettable journey in Au Revoir, where every decision can alter the fate of the world.",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.54 GiB"
 }

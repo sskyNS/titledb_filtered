@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124852/63fe960e17604873321fb9970fbe212567207aee67513540470fa3bfe15340ce.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2c98992a8b4c48f090f37c6393a2644e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63fe960e17604873321fb9970fbe212567207aee67513540470fa3bfe15340ce.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/781ac23c10027ae15917fe313d105e0a4111d4f81264a67655bd76ee6f9bd8df.jpg",
 	"publisher": "D4 Enterprise",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/dd3474fb741c7688303bfafc3fb1954532c60fdcc9854a99cda3faeab5cdf419.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/9b1523ad62c9c2d48ad99358fa9c0a75f9a0f7b1f1db455efe447e3422646f5a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/d4f4ee0321b5ea2a9c66a7fb414185b650940699fc35b7285565a113401be158.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/6279cb072fae4a41f5ffecfd054bf5b5fcfcd40e318d362a47f97fd014c45c66.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/b2d8b24516e13f6e17c3dade6ed68cf41953e7945a5e8ff46314eab23f4f20ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124852/9d2be14030e0fc93e0e46b65592bd4d8781893a42bfef6505a58c305e577ab8a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/dd3474fb741c7688303bfafc3fb1954532c60fdcc9854a99cda3faeab5cdf419.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9b1523ad62c9c2d48ad99358fa9c0a75f9a0f7b1f1db455efe447e3422646f5a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4f4ee0321b5ea2a9c66a7fb414185b650940699fc35b7285565a113401be158.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6279cb072fae4a41f5ffecfd054bf5b5fcfcd40e318d362a47f97fd014c45c66.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b2d8b24516e13f6e17c3dade6ed68cf41953e7945a5e8ff46314eab23f4f20ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9d2be14030e0fc93e0e46b65592bd4d8781893a42bfef6505a58c305e577ab8a.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Use your deductive powers to battle spirits in this unique Miyaji City horror adventure!",
+	"description": "Originally released in 1988 by Studio WING, this classic adventure game puts you in the shoes of Hiroyuki Kitahara, a young man who awakens to supernatural powers after a chilling encounter. Set in the eerie Miyaji City\u2014a place plagued by a string of bizarre incidents\u2014you must harness your deductive skills to battle vengeful spirits and uncover the truth.\n\nThe game utilizes a classic command-based system, making it accessible and intuitive for all players. Its distinct graphics and haunting sound design work in tandem to pull you deep into a world where the living and the dead collide.\n\nWhile detective mysteries dominated the adventure scene of the era, this title stood out for its innovative fusion of investigation and exorcism. We invite you to experience the dark visual style and iconic soundscapes that made this unique horror adventure a standout title.\n \n",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "53 MiB"
+	"size": "78 MiB"
 }

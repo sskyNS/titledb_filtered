@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123855/25e3147897acf140036f54ab83e3cc0ea6506dce739fe152a1b32f3e1dc51443.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123855/07abd3df3b548ff14f365390d74d6dc8c48de8bf998695467aaecd767c0346f7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25e3147897acf140036f54ab83e3cc0ea6506dce739fe152a1b32f3e1dc51443.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/332dd61a5a2be5687426b97d24fc9798026d91ea375b3ed13df29c38e993d705.jpg",
 	"publisher": "Black Lantern Collective",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123855/845f9adbe7e3ce62aabe8f3e732c902e3a402df6e60609fd027263f655155ad8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123855/c1049a8ddfdda186deea6f8d79c4ba7bc21cc4bd97dc81020fe33390ea82d293.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123855/04705bd4c4111d10bb3d862f4507075860e27d2905c84f2c782cc786033b4de4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123855/5cc30a772fae828e8f95060637d18817d9d634be23871a90cc2e26e2849fb35f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123855/f0ccd0743178b55e3d35190fd247dea4c64012fa4c85987d99489cfffb4e1289.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/845f9adbe7e3ce62aabe8f3e732c902e3a402df6e60609fd027263f655155ad8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1049a8ddfdda186deea6f8d79c4ba7bc21cc4bd97dc81020fe33390ea82d293.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/04705bd4c4111d10bb3d862f4507075860e27d2905c84f2c782cc786033b4de4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5cc30a772fae828e8f95060637d18817d9d634be23871a90cc2e26e2849fb35f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f0ccd0743178b55e3d35190fd247dea4c64012fa4c85987d99489cfffb4e1289.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": null,
+	"description": "A juicy first-person incremental game about growing berries and tossing them down an ominous hole. Earn money and upgrades. Make new friends with sentient berry pals. Grow and control the hole as you unearth why nobody leaves this accursed garden. Bury it all, Berry everything. ",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "560 MiB"
 }

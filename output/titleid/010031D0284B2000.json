@@ -1,20 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125633/b882b82e9ceac975d38233fded88cd1b0860997932396177855083b5d722b760.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/76a9fc36a6a447d8aeb195a83fdc9360_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b882b82e9ceac975d38233fded88cd1b0860997932396177855083b5d722b760.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8fddb25bec089739fd3724ed4f300b3dd9ab52d7bbdf267ff453284850a7c21b.jpg",
 	"publisher": "Afil Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125633/a44d5f08f07acdb63a1e9c4d19211648e3c7bccb0bd3eec1a1f583c0bd1e9050.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125633/25590bf647221cc876a31b8e67cd538a4b426877d4c8a28e8d3c87a065883776.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125633/85a09ef635ca00d4f3c407322ccce283fb2f970d859bcb027ef83c739b0ec92a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125633/48f4f7de2a5d620a0825e68179dbc1054fe7ac5393ae53c5dd7cd53a63b37ab1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a44d5f08f07acdb63a1e9c4d19211648e3c7bccb0bd3eec1a1f583c0bd1e9050.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/25590bf647221cc876a31b8e67cd538a4b426877d4c8a28e8d3c87a065883776.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/85a09ef635ca00d4f3c407322ccce283fb2f970d859bcb027ef83c739b0ec92a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48f4f7de2a5d620a0825e68179dbc1054fe7ac5393ae53c5dd7cd53a63b37ab1.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Mix, Combine and Hit the Perfect Result",
+	"description": "Get ready for a sweet, clever and surprising puzzle where numbers and jellies come together in the most fun way possible. In Jelly Math, each colorful piece has a unique value and shape, and it is up to you to combine them strategically to form the perfect equation.\n\nNothing here is just about placing pieces. Every move influences the final result, and small changes can completely transform your solution. Choose, rotate and place your jellies while testing combinations, adjusting operators and finding the exact balance to reach the goal.\n\nWith challenges that grow in a smooth and creative way, you will deal with new elements that make everything even more interesting, such as modifiers that multiply values and spaces that require careful planning. All of this in light and cozy picnic-themed environments.\n\nColorful, relaxing and at the same time challenging, Jelly Math is perfect for players who love puzzles that stimulate thinking and reward each discovery with that delicious feeling of getting it right.\n\nExperiment, adjust and find the perfect result in every level.",
+	"languages": [
+		"en",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "116 MiB"

@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131361/1c594285b9470e8e72649bcb15c36dc3a40e5e6bca872463c583dd382835160a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131361/964c68c5934ee8d19fd3507d7eb713464cc4f52e31c61c94d2c739240e4f6f55",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c594285b9470e8e72649bcb15c36dc3a40e5e6bca872463c583dd382835160a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4686e1074cde36d0f162f6a09fd0ac12590952fdccc8b2cdf6d67cc95475611b.jpg",
 	"publisher": "eastasiasoft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/281ffe523a8703053b5aef0b40284f35ecd9d79675099e64a3b7a17258189d4a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/dc25fe5aac715babfed6b1634e05caa6ad408d76160f5be60d3a04ca569135be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/2fca1462f72b36621eb56da23f40f2fcb457d00ba65dc373ddb3b7b9680a6bdf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/7d5988d2d192e592d74f37f09b33ad31361458ed7da4e5e852b3e27025d4a147.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/a8eabc1b5857243be83235ffb3e132edb00e9781fa87f2157f4521153d8d6e96.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131361/50d4c55f0a09aecd66b80974e4c221a8da3f5fe5adff5de19a6b3254a3abe35a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/281ffe523a8703053b5aef0b40284f35ecd9d79675099e64a3b7a17258189d4a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dc25fe5aac715babfed6b1634e05caa6ad408d76160f5be60d3a04ca569135be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2fca1462f72b36621eb56da23f40f2fcb457d00ba65dc373ddb3b7b9680a6bdf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7d5988d2d192e592d74f37f09b33ad31361458ed7da4e5e852b3e27025d4a147.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a8eabc1b5857243be83235ffb3e132edb00e9781fa87f2157f4521153d8d6e96.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/50d4c55f0a09aecd66b80974e4c221a8da3f5fe5adff5de19a6b3254a3abe35a.jpg"
 	],
 	"releaseDate": 20260812,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Fend off waves of monsters as a dog, cat, chicken and other unlockable furry or feathered friends!",
+	"description": "Domesticated animals get wild in roguelike arena shooter combat where survival is all that matters! Pick 1 of 14 playable pets, each with unique skills and stats, as they face hordes of fantasy monsters like slimes, rock giants, oversized bugs, carnivorous plants and more in top-down retro pixel art style.\n\nChoose wisely from a dozen starting weapons, then select a level from areas you\u2019ve unlocked. Take down waves of enemies while strategically keeping your distance from danger. Level up and choose upgrades mid-battle, all in preparation for a big boss showdown. If you succeed, you\u2019ll bank coins you\u2019ve collected to spend on permanent perks, thus stacking the deck in your favor for the next fight!\n\n\u2022 Survive waves of incoming enemies in addictive real-time arena combat!\n\u2022 Choose from more than a dozen domesticated animals.\n\u2022 Pick a starting weapon and upgrade on-the-fly as you level up!\n\u2022 Collect coins to spend on permanent stat boosts between stages.\n\u2022 Use character-specific skills to turn the tide of battle!\n\u2022 Enjoy retro pixel art aesthetics and multiple difficulty options!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "116 MiB"
+	"size": "161 MiB"
 }

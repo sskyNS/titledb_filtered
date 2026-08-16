@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133151/df814f199055a239daabcee3a5726b7f138bce4f09a5f02691b0f8396e81eda2.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ad5d43fe89ec477f82529d5cea502e50_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df814f199055a239daabcee3a5726b7f138bce4f09a5f02691b0f8396e81eda2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8ed195a18b5cbbd368c479306513a1f6ba6caa75b317a0253f237c1e451e16a6.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133151/dd182205558f575602b627922ea6f158650783a0001c9d5e0462bc45e4423238.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133151/a9cbc2819e4bbcb5fcc60f568794bf5a45c543d546ef189275ede113ae97f723.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133151/bd24c02758fb5a9f773a76a7c04df37706b1afd75d6e4c7c0455e12f1304a2d6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133151/87db3dea5397030ad9dfc5c6c825d1019064cfda5f94544da7868726023ca89d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133151/10af1d6175c1ce3e317979c4f19b0a20b8c211c684915b6f4f47edda225dfc4a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/dd182205558f575602b627922ea6f158650783a0001c9d5e0462bc45e4423238.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a9cbc2819e4bbcb5fcc60f568794bf5a45c543d546ef189275ede113ae97f723.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bd24c02758fb5a9f773a76a7c04df37706b1afd75d6e4c7c0455e12f1304a2d6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/87db3dea5397030ad9dfc5c6c825d1019064cfda5f94544da7868726023ca89d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/10af1d6175c1ce3e317979c4f19b0a20b8c211c684915b6f4f47edda225dfc4a.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action"
+	],
+	"intro": "Explore a haunted house stalked by a sinister clown. Stay hidden, solve puzzles, destroy cursed objects, and escape before your pursuer catches you.",
+	"description": "Step into a house consumed by fear, where a sinister clown lurks in the shadows and every room hides another terrifying secret. Explore dark hallways, abandoned rooms, and hidden passages as you search for a way to survive and escape.\n\nStay out of sight and avoid attracting the clown's attention. Use stealth, carefully plan your movements, and search the environment for useful items that will help you progress. Solve puzzles, unlock new areas, and destroy cursed clown boxes to weaken the evil that has taken over the house.\n\nEvery encounter is a test of your nerves. Listen carefully, hide when danger approaches, and make every decision count as the relentless clown hunts you through the darkness.\n\nCan you uncover the mystery behind the nightmare and escape before it's too late?\n\nFeatures:\n\nFirst-person survival horror gameplay.\nExplore a mysterious house filled with secrets and hidden areas.\nEvade a relentless clown using stealth and careful planning.\nSolve environmental puzzles to unlock your path forward.\nSearch for useful items and destroy cursed clown boxes.\nImmersive atmosphere with suspenseful exploration and tense encounters.\nEasy to learn, challenging to survive.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.07 GiB"
 }

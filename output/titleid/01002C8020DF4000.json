@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000092541/3645c5248cec244f295be39e3b5592ffa1a7ad055dd9965ed6ced1b6bee7fa36.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/55d6075668d4438087981f8a07be3959_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3645c5248cec244f295be39e3b5592ffa1a7ad055dd9965ed6ced1b6bee7fa36.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c78dd2b1cc3d00470bf1d5c309a69a986ef1212411e476c0230d7223a5356d2c.jpg",
 	"publisher": "refint/games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/07a5484ee1c99df45aa362001e26e4814b46109d15749b1cc6a08ce7f0929a41.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/11948397daf10df24ec5b57560a5eba0ea96b6fecd4ffedeeecab58cae52cd24.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/3ca26b931ff7fdf1261a91514e7afaacaf6fe409e8d474df5c2149c7736e0f20.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/abcc7bc4f5ef3269aee37222132c4868c656f63344b3604762d50fb4a6359102.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/34f98fb11fd5f56f28f1b8ece513995cfccda2d0f88b5e8893266f2e15d73e78.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092541/3b75f059afd5752b1660d090c8a9c4d9a5b46c07ccf7f2357918cb783e266f0d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/07a5484ee1c99df45aa362001e26e4814b46109d15749b1cc6a08ce7f0929a41.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/11948397daf10df24ec5b57560a5eba0ea96b6fecd4ffedeeecab58cae52cd24.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3ca26b931ff7fdf1261a91514e7afaacaf6fe409e8d474df5c2149c7736e0f20.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/abcc7bc4f5ef3269aee37222132c4868c656f63344b3604762d50fb4a6359102.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/34f98fb11fd5f56f28f1b8ece513995cfccda2d0f88b5e8893266f2e15d73e78.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b75f059afd5752b1660d090c8a9c4d9a5b46c07ccf7f2357918cb783e266f0d.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "In a bid to avoid failing out of college, Olive Penn inadvertently finds themselves caught in the middle of a feud between two campus club leaders.",
+	"description": "Olive\u2019s situation is dire. They're on the verge of being thrown out of college unless they can salvage their GPA, and their only chance rests on classes they know next to nothing about.\n\nTheir lifeline: two club leaders who are more than willing to help them succeed. However, no solution is that easy. Olive soon finds themself in the middle of a conflict between these two friends that threatens to undo their long-standing love for each other.\n\nTwofold is a story about love, family, and connection. It celebrates family of all kinds, and explores the strength (and fragility) of bonds between people.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
 	"dlcs": [],
-	"size": "1.53 GiB"
+	"size": "1.58 GiB"
 }

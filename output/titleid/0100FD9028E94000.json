@@ -1,21 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129870/ba4153669707616fb0e4cbd0c5466696fae754310fe232722fe97f3adc607185.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129870/94166946b22e09bea3fb5c2680c5cd05805bfb1c4b2031171714eca57860dc58",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba4153669707616fb0e4cbd0c5466696fae754310fe232722fe97f3adc607185.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f29deb27b907761c284a941ee4440ff958eedd2c372b68293a2e0fee16c3ab42.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129870/2d0b6d897d97805f8338d0667977a22845730d1a85211e6d419108fb0d874471.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129870/b34907b03f14f4ee0f3cca809422e9b36c84807d9677507758c81fc45861324d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129870/0a49a2795393a4b1c6d4be7f462b08a91a0cf12f7c3c4337b29c90d79b2d349f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129870/a2572d3b3757d2448d5d8862efc059b891403b6f7493bf34f896833bfea336b1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2d0b6d897d97805f8338d0667977a22845730d1a85211e6d419108fb0d874471.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b34907b03f14f4ee0f3cca809422e9b36c84807d9677507758c81fc45861324d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0a49a2795393a4b1c6d4be7f462b08a91a0cf12f7c3c4337b29c90d79b2d349f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a2572d3b3757d2448d5d8862efc059b891403b6f7493bf34f896833bfea336b1.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Training",
+		"Study",
+		"Education",
+		"Communication"
+	],
+	"intro": "Behind every scary rumor lies a hidden \"truth.\"\nFind the chilling clue inside a single picture.\n",
+	"description": "A phone that won't stop ringing at midnight. A figure seated where no one should be. Something that moves only inside the mirror \u2014\nAt the scene of every whispered \"scary rumor,\" there's one clue you mustn't overlook.\n\nThis is a picture-mystery game where you observe eerie scenes inspired by urban legends and hunt down the \"wrongness\" or \"clue\" hidden in the image.\nEach scenario hides several puzzles to solve.\n\n\"Something about this room is off.\"\nWhen you feel it, tap the evidence on the screen.\nGet it right, and the \"real reason\" behind the rumor is revealed, along with a reasoning explanation.\nIt's not just scary \u2014 there's the satisfying click of \"Ah, so THAT'S what was going on.\"\n\nA dim abandoned house, a school at midnight, a deserted tunnel\u2026\nRead through one spine-chilling scene after another with your own eye for detail.\nThere's nothing graphic or gory \u2014 the only scary things are the atmosphere and the wrongness.\n\nHow to play is simple.\n\u30fbObserve the eerie scene carefully\n\u30fbFind the out-of-place clue and tap it\n\u30fbCheck the reasoning to learn the \"truth behind the rumor\"\n\nSend a chill down your own spine, quietly.\nThat scary urban legend \u2014 can you solve it?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "351 MiB"
 }

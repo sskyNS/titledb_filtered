@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129040/c5d67ad42ee8e519f99d60fe42bab7b54c3e7f6dc7880e76e5cfefe8aee55d3c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129040/64a688a8156360593f5146cc718296f4a0a9c377a22b7ddc1b0e13a78a7986bf",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5d67ad42ee8e519f99d60fe42bab7b54c3e7f6dc7880e76e5cfefe8aee55d3c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/823ec843035e019fe626b36b2792eeabee557ff338c3ad89aac958985afdfa84.jpg",
 	"publisher": "PRIME",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/e11969cf92f51a3577bb3ce97c271ff989f99ceb2f467c42db9b0c79b7ccf0b7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/eb93fd1f0f78ed36389d312ad44fb47823d98e182773c716757095c73e602846.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/3f620fd70cffecd736320542cc0d4a859b499c9847ebc7e45ff38a5ce68687f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/b171e8c87ece56c9bcc4452354564c1aac2a58ba2ab695d2ea4919f5bce34b8c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/3cc51880dcc9ef06d59ac5e8762317e8614cd4558b2941ab80c2ff1852c98101.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129040/8c07a126da278abc4d3dc3cb7e7921f67176b5e0c8f10ece551553845fc5a185.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e11969cf92f51a3577bb3ce97c271ff989f99ceb2f467c42db9b0c79b7ccf0b7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eb93fd1f0f78ed36389d312ad44fb47823d98e182773c716757095c73e602846.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3f620fd70cffecd736320542cc0d4a859b499c9847ebc7e45ff38a5ce68687f0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b171e8c87ece56c9bcc4452354564c1aac2a58ba2ab695d2ea4919f5bce34b8c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3cc51880dcc9ef06d59ac5e8762317e8614cd4558b2941ab80c2ff1852c98101.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8c07a126da278abc4d3dc3cb7e7921f67176b5e0c8f10ece551553845fc5a185.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Choose a planet. Unleash cosmic weapons. Decide how the world ends.",
+	"description": "Pick your target and prepare to bring an entire world to a spectacular end.\n\nTake command of devastating cosmic power and turn planets into your personal destruction experiments. Select a world, choose your weapon, and watch the catastrophe unfold. Tear through the surface, split the planet into fragments, trigger a colossal supernova, or unleash a black hole that consumes everything in its path.\n\nExperiment with different tools and discover how each one changes the fate of your target. Clear, intuitive controls let newcomers begin destroying immediately while giving experienced players the freedom to stage their own cosmic catastrophes.\n\nKEY FEATURES\n\n\u2022 Choose from different planets\n\u2022 Wield a variety of destructive cosmic weapons\n\u2022 Tear planetary surfaces apart\n\u2022 Trigger spectacular supernovas\n\u2022 Unleash all-consuming black holes\n\u2022 Experiment with space and physics using intuitive controls\n\nHow much destruction can one planet withstand? There is only one way to find out.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "185 MiB"

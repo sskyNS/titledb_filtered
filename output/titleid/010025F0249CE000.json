@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000102485/cc842a48515d5979e005c1cfe98f127056b50e107f29933608c7b5477a85b9ba.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b6159008f7684309a2975fc14ce8cbc4_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc842a48515d5979e005c1cfe98f127056b50e107f29933608c7b5477a85b9ba.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/68dc144aa0971498500cb21d1d6ea7c83fa6b97568044629cf1391ef5c555257.jpg",
 	"publisher": "Akupara Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/d7249b9a37c8814dd1d15a3998ec155730a702aaeb31c3c002f66fa3608c0974.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/917da37f7376ff9445efc8eafd8266667342147c38afc816d3f5ab164a788223.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/271bbb4e932e69019d28706c3e4ad163548b67bbd5578053f684d3e047062e37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/dc93416a1241cfa5e6bbc7d71a7c705da0c01ad39ed853855b659d5783bba7a6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/92c1a45787a96136fba7d6180b06404b82a719c777759b018ed092d3fb6b3f0f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102485/bc186033b792a31861872ed978efc3250dc8df4530a9b07c84ffc660148970ad.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d7249b9a37c8814dd1d15a3998ec155730a702aaeb31c3c002f66fa3608c0974.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/917da37f7376ff9445efc8eafd8266667342147c38afc816d3f5ab164a788223.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/271bbb4e932e69019d28706c3e4ad163548b67bbd5578053f684d3e047062e37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dc93416a1241cfa5e6bbc7d71a7c705da0c01ad39ed853855b659d5783bba7a6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/92c1a45787a96136fba7d6180b06404b82a719c777759b018ed092d3fb6b3f0f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bc186033b792a31861872ed978efc3250dc8df4530a9b07c84ffc660148970ad.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Tame, collect, and evolve unique Montabi!\nAssemble unstoppable decks for your synergistic team.\nMaster tactical grid-based combat to save the city!",
+	"description": "A Creature-Collector Roguelike Deckbuilding Game.\n\nAssemble your team of Montabi to outsmart the bad guys and save the city!\n\nIf you're going to be the big hero and save the city, you've gotta get some Montabi! Each Montabi has a unique set of skills, giving you endless combinations for team synergies. Collect equipment and charms and utilize them to chart the path to victory!  \n\nTrain your Montabi to grow stronger, unlocking new moves to enhance your team's strategy. As they level up, your Montabi evolve into more powerful forms, gaining new card abilities and expanding your tactical options. If you work together, there's nothing you and your Montabi can't achieve!\n\nDeploy your best strategies to beat up the bad guys in a unique 3x3 grid-based system. With every Montabi's unique abilities, you'll have endless options to outthink the competition and win the day. Just make sure you rest up at a cafe every now and then to recover those hit points!\n\nSelect from diverse trainers, each with a unique playstyle. Do you wanna put your team in the perfect position, get right up in their faces and duke it out, or buff up your Montabi with a hearty meal? When the city's at stake, everyone pitches in! Just make sure to stay safe! Like the king in chess, if your trainer is defeated, the game ends.\n\nFeature List\n\u2022 Build your Montabi Team - Collect and Fight with over 60 Montabi!\n\u2022 Evolve and Draft Skills - Each time you Montabi evolves, draft a legendary ability!\n\u2022 Outsmart your Opponents - Strategize on the 3x3 tactical battlemap!\n\u2022 Choose your Trainer - The student, fighter or chef will lead your synergistic team!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "851 MiB"
+	"size": "1.40 GiB"
 }

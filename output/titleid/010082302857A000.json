@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125876/a4dd9e9c7f1ab45e095ec0d6d041abe0babc87b7567cba24f05d6facc874e6a6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5b362e357c2f4f499bd318733ae1a824_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4dd9e9c7f1ab45e095ec0d6d041abe0babc87b7567cba24f05d6facc874e6a6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/68eba11dd3f3c9321cfa9ea2039c0708ae7e1de622147f47514c763f9177e8be.jpg",
 	"publisher": "DEV 666",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/f35c4c1770f575d57d3a8af90968058a9ac3384d23dbf2356fd57a3f1195cf06.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/7d0a179ab831bfae449c55aaaeafc58af6d2c72b54f360d8e370bc87cf6b742a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/f0863c158b74fc7e7fa4a7f2e7cf7b7ee222b3cf1c3bfdffcbf41afba57414e1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/715bb796ac6cba8070f2c894614241c4dd3f34b99a73fdcde31eb2f21c739eb7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/408ebe2acb98194eda6a2790043b7cbfc0fe04f9ee330d1e0696fa46e3cd8b33.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125876/5053e69ff85b8f22e99b3d1000cc5fc38faaaee74cd06e32d472fdeb9bb56cd8.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f35c4c1770f575d57d3a8af90968058a9ac3384d23dbf2356fd57a3f1195cf06.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7d0a179ab831bfae449c55aaaeafc58af6d2c72b54f360d8e370bc87cf6b742a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f0863c158b74fc7e7fa4a7f2e7cf7b7ee222b3cf1c3bfdffcbf41afba57414e1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/715bb796ac6cba8070f2c894614241c4dd3f34b99a73fdcde31eb2f21c739eb7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/408ebe2acb98194eda6a2790043b7cbfc0fe04f9ee330d1e0696fa46e3cd8b33.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5053e69ff85b8f22e99b3d1000cc5fc38faaaee74cd06e32d472fdeb9bb56cd8.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"First-Person Shooter",
+		"Other"
+	],
+	"intro": "A solo survival horror experience where every contract could be your last.",
+	"description": "Take on dangerous solo contracts across distant planets in this first-person survival horror experience. Explore abandoned bases, search dark corridors, and collect valuable scrap to meet your assigned quota. Each planet features different locations, hazards, and hostile creatures. Manage your limited inventory, avoid deadly traps, and decide when it is time to escape with your haul. Staying too long may cost you everything. Every expedition is a separate challenge. If you die, all collected scrap is lost and the mission begins again. Explore carefully, complete the quota, and survive the horrors waiting inside.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "759 MiB"
 }

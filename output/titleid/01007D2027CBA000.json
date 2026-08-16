@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123766/ebbbc53a73a1564a570a1a15098e6acbc9a4c6f4e0b220d46983574aeb15b293.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/8055eba8b80c4f24b9732753c7e47eb7_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ebbbc53a73a1564a570a1a15098e6acbc9a4c6f4e0b220d46983574aeb15b293.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5d2a9e3214de73bbe810a020a3ca64c590f280d9df3745fcc4daa26d93ee5ded.jpg",
 	"publisher": "Renka",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/bc3b1bac95d389534d6ed278ab2d913786fae0df9d3375bd7332253d4c32eabc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/2460d64da610237f660eded4a370901e4fa85c247c7c02adda446a01d9aec751.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/29c6c0b8af8a4a661eaf92fc430d4f5c0170734f329439e1f22290f484679c5f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/4954ac5679fe4d2f492c916abbf3cecf69b876d6a1b232286da87b0c7f4defae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/658ec0fc06472b1d7736f631f969253b22720b27325ca1fd8ea666b79c0e7205.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123766/b70506d742a724a4b8a31960175f3397e37baaac7e0b7016aafb82511ed27e3a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bc3b1bac95d389534d6ed278ab2d913786fae0df9d3375bd7332253d4c32eabc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2460d64da610237f660eded4a370901e4fa85c247c7c02adda446a01d9aec751.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/29c6c0b8af8a4a661eaf92fc430d4f5c0170734f329439e1f22290f484679c5f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4954ac5679fe4d2f492c916abbf3cecf69b876d6a1b232286da87b0c7f4defae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/658ec0fc06472b1d7736f631f969253b22720b27325ca1fd8ea666b79c0e7205.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b70506d742a724a4b8a31960175f3397e37baaac7e0b7016aafb82511ed27e3a.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Adventure"
+	],
+	"intro": null,
+	"description": "Love, Internet, and Murder Magic is a Roguelike game. You will role-play an agent of a streamer who died because of a murder. You are trying to \"bring her back\" through AI technology on the Internet, making her the unique creation of the Internet.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.12 GiB"
 }

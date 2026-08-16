@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131699/cdc3c022f627c89e67ec1ba146246841c1ac15a2e3e8457f3a14c85620736eea.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131699/ec4223f118c87a6a002838d20a1a5a238110785cf424afc298beeb1113fd6128",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cdc3c022f627c89e67ec1ba146246841c1ac15a2e3e8457f3a14c85620736eea.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/30a773d24298174f46d816b0aea47a551b89636112e18530a706ff7499d4c94b.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/4f876030be04f2d1b30c5c0ac0c385eb2cc81630e4bcf24346188e60c0cf1b35.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/51bf56ed1cce835a68334a3dc56992cb4db67adf6742ee66caba38cdf0fdbcb7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/ccbc0075b93e967e61fe84183fe77b244bbe8493e293f6ae42d0c7ec31376d91.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/8b85fbb27a9c3cd32678d87b88f74058f4235478783a50a07c2b71722d12b076.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/100866ad0bb729ce64c8fac6c24c16559f05de7a2fc1a3310d5d605d08ffe016.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131699/39e070faaf8c09315a8a653ab858eca0c93d19fcafe912dc98d24f1adc840813.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4f876030be04f2d1b30c5c0ac0c385eb2cc81630e4bcf24346188e60c0cf1b35.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/51bf56ed1cce835a68334a3dc56992cb4db67adf6742ee66caba38cdf0fdbcb7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ccbc0075b93e967e61fe84183fe77b244bbe8493e293f6ae42d0c7ec31376d91.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8b85fbb27a9c3cd32678d87b88f74058f4235478783a50a07c2b71722d12b076.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/100866ad0bb729ce64c8fac6c24c16559f05de7a2fc1a3310d5d605d08ffe016.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/39e070faaf8c09315a8a653ab858eca0c93d19fcafe912dc98d24f1adc840813.jpg"
 	],
 	"releaseDate": 20260713,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Adventure"
+	],
+	"intro": "A magical journey of friendship, courage, and finding your way home!",
+	"description": "After a powerful cyclone transports Dorothy and her dog Toto from Kansas to the magical land of Oz, they set off down the yellow brick road toward the Emerald City. On her quest to find a way back home, she teams up with a Scarecrow, a Tin Man, and a Cowardly Lion, who are all seeking the great Wizard to grant their deepest wishes. Together, this unlikely group of friends must navigate unfamiliar lands and face the perils of Oz to reach their destination.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "582 MiB"

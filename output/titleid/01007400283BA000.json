@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130332/642d3b4e8f76eb5b5f4f3ad5f8f2759524ca6430d9847d410eb82a7c0814801d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130332/b3ea633e74baae50227106a020c0ca8c9bbb1f3d668a4ac8a3b115748b56cf14",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642d3b4e8f76eb5b5f4f3ad5f8f2759524ca6430d9847d410eb82a7c0814801d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3aa1e191733ab3bdfdbc8168bceb3187711711ff2791e6058f8abaf473bff33c.jpg",
 	"publisher": "ESQUADRA",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/a9010aa6aa79da51e69fc7abd9296c75427832bc7508897dcca2071e32b451c3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/f501fd5317759f7c28d799073938fda5f2f52cf407d658caa0bcf1986540717b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/f9f34033d8cfa6a365a55dfd260c75d1ee31e1e6505127dfc84a51a03866cc40.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/4e6daff372c45f34e5edbb0a227a6874b5f689a3291e7088650bc9a6ca2bc659.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/041e2ad95f19e2649855ac57557e2cb8d17219a52d2d23c05ca4bc34c5bef1ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130332/be1f648aa090a27bbe1de5e6f265a80639ae8ab91e27da39fa50049d4865ef80.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a9010aa6aa79da51e69fc7abd9296c75427832bc7508897dcca2071e32b451c3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f501fd5317759f7c28d799073938fda5f2f52cf407d658caa0bcf1986540717b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f9f34033d8cfa6a365a55dfd260c75d1ee31e1e6505127dfc84a51a03866cc40.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4e6daff372c45f34e5edbb0a227a6874b5f689a3291e7088650bc9a6ca2bc659.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/041e2ad95f19e2649855ac57557e2cb8d17219a52d2d23c05ca4bc34c5bef1ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be1f648aa090a27bbe1de5e6f265a80639ae8ab91e27da39fa50049d4865ef80.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "\u201cClean the house. Stay undetected.\u201c\nA 3D horror action game\npowered by Kao\u2019s cleaning tools\uff01",
+	"description": "Note: This game is available in Japanese only.\n\nIn this version, players can choose between two modes:\n\n\u30fbNormal Mode\n\u30fbLess-Scary Mode, designed for older elementary school children and up\n\nKey Feature 1: Real cleaning products appear in the game\n\nThe game features actual Kao cleaning products, including Magiclean and Quickle products. Some hidden techniques even allow players to combine items and clean in ways that reflect the real-life features of the products.\n\nKey Feature 2: Discover hidden mechanisms and codes in each stage\n\nThe mansion where the game takes place is divided into several stages. Players must use cleaning items to uncover hidden codes and find the keys needed to advance to the next stage.\n\nKey Feature 3: A mysterious \u201cthing\u201d creeps up on players as they clean\n\nIn the game, a mysterious \u201cthing\u201d roams the mansion and gets in the player\u2019s way. It reacts to even the smallest sounds, such as cleaning noises and footsteps, and attacks. Players must clean the mansion and find a way out while avoiding this unknown threat.\n\nProducts Featured in the Game\n\n\u30fbMagiclean Handy Spray\n\u30fbToilet Magiclean No-Scrub Foam Pack\n\u30fbBath Magiclean Air Jet Disinfecting EX\n\u30fbMagiclean EXPOWER Water Stain Spray\n\u30fbQuickle Wiper 3D Adhesive Wet Sheet STRONG Super Space Deodorizing\n\nEstimated Play Time: Approximately 60\u201390 minutes\n\nAll proceeds from sales of this title will be donated to organizations that support children\u2019s education and related causes.\n\nFrequently Asked Questions\n\nQ: Does the game have auto-save, or can players save manually at any point?\n\nA: Progress is saved automatically through auto-save. Even if players quit the game, they can resume from where they left off. However, some minor progress details may not be saved. Players can also restart after a game over without losing their progress.\n\nQ: Can players adjust controller sensitivity, screen brightness, volume, and other settings in detail?\n\nA: Yes. From the in-game settings screen, players can adjust options such as brightness, overall volume, and controller sensitivity using sliders.",
+	"languages": [
+		"ja"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Tobacco Reference"
+	],
 	"dlcs": [],
 	"size": "983 MiB"
 }

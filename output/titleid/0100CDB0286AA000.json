@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126390/daf64decd33b95a91992930ff83f2eb9b726808b355d7b38d52b2d120cc8d283.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4a5608e438d5440e8e7938502104922f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/daf64decd33b95a91992930ff83f2eb9b726808b355d7b38d52b2d120cc8d283.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7da9e2dea859862b29290d1968041ea5a359b03ed35d61e674aee9e4173c043d.jpg",
 	"publisher": "Gametry",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/e66480fab817e1f3d536bec1def1077dcd42aca30f35125e16ad41c33130f2d5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/a462a50cf905a9859ad69a30091d67b223e287b3c3be5cc1f5ecbef89a27cb8e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/95218e3f884507605b0d1a9ff97c86ad189d511c4fd472b14d571cb12225d1be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/63b551b8bed910da1c642a07a04d34bd24fb969449927bcdbe0847ad71568cc7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/46647f7e63397f3d8ee4f70a089c98c02114a6b9c6601cf4ccec9d7dd21cbed2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126390/b6ba3191a5ae7df788cb835493d65fbc6628060bbe5440be5a4e0394f2738a17.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e66480fab817e1f3d536bec1def1077dcd42aca30f35125e16ad41c33130f2d5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a462a50cf905a9859ad69a30091d67b223e287b3c3be5cc1f5ecbef89a27cb8e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/95218e3f884507605b0d1a9ff97c86ad189d511c4fd472b14d571cb12225d1be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/63b551b8bed910da1c642a07a04d34bd24fb969449927bcdbe0847ad71568cc7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/46647f7e63397f3d8ee4f70a089c98c02114a6b9c6601cf4ccec9d7dd21cbed2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b6ba3191a5ae7df788cb835493d65fbc6628060bbe5440be5a4e0394f2738a17.jpg"
 	],
 	"releaseDate": 20260724,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Racing",
+		"Action",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Dodge traffic. Survive longer.",
+	"description": "Traffic Survivor is a fast-paced endless runner where every second on the highway can be your last. Sprint through dense traffic, dodge trucks and cars, avoid roadblocks, and react instantly to an ever-changing stream of hazards. Master running, jumping, sliding, and boosting as the road grows faster, tougher, and more chaotic. How long can you survive?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "660 MiB"
 }

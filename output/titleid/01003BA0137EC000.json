@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000035889/71398644c4e6b823861b9ddbe04de356b80ff3971cd6d2093262f1a8fe6c77a4.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000035889/f2c6bf0eeb8d5678cd3e8a0460e9a0325b0b83cefa951985c713f564b7f068f4",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71398644c4e6b823861b9ddbe04de356b80ff3971cd6d2093262f1a8fe6c77a4.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/78f275f9ebaa15ffc4cc29e564078f2c3dc16ffcd3b4837a7f502a12927143ce.jpg",
 	"publisher": "SFB Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/1fcc731dd4af566865e1b88ca5ecfa0843ca468c9d3e8e496e9804ace9f6e816.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/cdfd0056b36b10c74a80e28aff74c5d1b9284045318c70e0851adc94e6d14630.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/f75ee661ee5edb98ceeeafb858bb95784002ad7d6019da41b3902ac506c76fac.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/ac6f9ddecfe540eb9e5d2423efe618804d3947954da2a191a1c4f65f135abdda.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/14966aed166f68cc5fa2c959fcec802ca335d796d7aa61461905ed0f05acc159.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000035889/c5cf7cf6a093515d4e84ffa94afedd20c63c9dc55dfabcc81189f450dd1a1652.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1fcc731dd4af566865e1b88ca5ecfa0843ca468c9d3e8e496e9804ace9f6e816.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cdfd0056b36b10c74a80e28aff74c5d1b9284045318c70e0851adc94e6d14630.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f75ee661ee5edb98ceeeafb858bb95784002ad7d6019da41b3902ac506c76fac.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ac6f9ddecfe540eb9e5d2423efe618804d3947954da2a191a1c4f65f135abdda.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/14966aed166f68cc5fa2c959fcec802ca335d796d7aa61461905ed0f05acc159.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c5cf7cf6a093515d4e84ffa94afedd20c63c9dc55dfabcc81189f450dd1a1652.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Other"
+	],
+	"intro": "An impossible locked-room murder: Captain Mortuga lies dead beside an ancient cauldron aboard the world\u2019s strangest submarine, crewed by sketchy suspects.",
+	"description": "In the pitch-black waters beyond a long-abandoned fishing town, the enigmatic captain of the world's strangest submarine has been murdered. Some say he was an immortal time-traveller. Others say he was a vampire, cursed to stay hidden beneath the waves forever...\n\nFound alone in a locked room, with only an ancient stone cauldron to suggest how he might have died, it's up to Detective Grimoire and Sally to piece together what really happened. Was it a curse, released from the cauldron? One of the submarine's eccentric crew? Or does the bizarre truth run even deeper...\n\n\u2022 Every clue is a fully realised 3D object waiting to be examined for hidden secrets\n\u2022 Grimoire and Sally are back, and joined by a fully voiced* cast of mysterious suspects\n\u2022 A hauntingly beautiful original soundtrack performed by the Budapest Art Orchestra\n\u2022 Explore every hand-painted inch of The Mortuga Submarine, where not all is as it seems...\n*Voice audio is only in English",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "1.13 GiB"
+	"size": "1.42 GiB"
 }

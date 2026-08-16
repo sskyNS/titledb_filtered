@@ -1,22 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131772/7f7ff8e2199c620d700e322079471dbac27f0813277da9e1ef0c0d0cb26f8b77.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/9543437d2c7743f79711e8b3f47a617b_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f7ff8e2199c620d700e322079471dbac27f0813277da9e1ef0c0d0cb26f8b77.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9456b86d7ef466f691b607883fede1d3ba1ecee6430fb59ca3e05e677847367c.jpg",
 	"publisher": "Kanuni Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/9532358dd96a2fb297fb41993e7a740fcac13a87ced5cf886c83fa06377b7333.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/807d248a2f08020f298e2a0e2be5cc39365251eca687aeadf4dffc45c6bad55e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/52f13825c008a30bdc50d6aedc7a613f6f4a002fb7e18a1eefc16665bb47c19b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/13af1e13fc6f34c65d9b56194a6c6407427aecb39030ed22623755a3deaecadc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/96b0fe49d6bb00abed4b8be28dbfe1e850bc9a21890192df52456f9e0a3c20e8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131772/83793a9e130b8ca1c5ff9d9d73f82244f5b11f8676ffe186d82384657a269fae.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9532358dd96a2fb297fb41993e7a740fcac13a87ced5cf886c83fa06377b7333.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/807d248a2f08020f298e2a0e2be5cc39365251eca687aeadf4dffc45c6bad55e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/52f13825c008a30bdc50d6aedc7a613f6f4a002fb7e18a1eefc16665bb47c19b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/13af1e13fc6f34c65d9b56194a6c6407427aecb39030ed22623755a3deaecadc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/96b0fe49d6bb00abed4b8be28dbfe1e850bc9a21890192df52456f9e0a3c20e8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/83793a9e130b8ca1c5ff9d9d73f82244f5b11f8676ffe186d82384657a269fae.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Can you spot what does not belong?\nChameleon Dummy Hunt is a colorful first-person hidden",
+	"description": "Can you spot what does not belong?\n\nChameleon Dummy Hunt is a colorful first-person hidden-object action game where sneaky dummy characters are hiding in plain sight. They are painted to blend into walls, floors, furniture, props, shadows, patterns, and bright environments.\n\nYour mission is simple: search the level, find every camouflaged dummy, and blast them with your paint gun before time runs out.\n\nLook closely. A strange shape on the wall, a color that feels slightly off, a dummy sitting like a decoration, or a suspicious object in the corner could be your next target. Some dummies stand still, some sit, some crouch, some lie on the floor, and some are hidden so well that you may walk right past them.\n\nBut be careful. Shooting the wrong object can cost you time and score. Use your scanner wisely when you are stuck, stay focused, and clear each level as fast as possible.\n\nWith 20 levels, multiple dummy poses, tricky camouflage, time-based challenges, score rewards, and controller-friendly gameplay, Chameleon Dummy Hunt turns every environment into a playful test of attention, speed, and visual skill.\n\nFind them. Paint them. Hunt them.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.83 GiB"

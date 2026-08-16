@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131683/db65b208af781579a612a4d3fe72d7bceca1ca1c324eb54874b5aaae6ceb557c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131683/7b6e3da353e91168350f78d4ee9c92dc9f935483c8e6f4d423677720fc25546c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db65b208af781579a612a4d3fe72d7bceca1ca1c324eb54874b5aaae6ceb557c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7d9b625d84aa3e4ef78d5471fdf952d45cab47647b9ae55f7ed3db1c658846be.jpg",
 	"publisher": "CCMC",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/53ffae607d9515d7d41d26940f3b7a0f422a25a05991e4adad4bc1068a850198.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/51ac83360c4e0d9cf965b4a64c13816b52888c3dd58dcc40976ad282d09ef251.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/a38701471a092b93312e6fabdd8452382956fe0a3d2238524377f63c8e925909.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/423fe2a04c705468ff93cbdfc42108239b959dd9aac5c87b3759ddc81f7ca098.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/777b7de47036abb43a274db34aff792ff6fd4b49783ba178b094c8d159e05eca.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131683/d32588beca56aba314bd164489c3358bf9f3d629616d66173fef78c4bae4679e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/53ffae607d9515d7d41d26940f3b7a0f422a25a05991e4adad4bc1068a850198.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/51ac83360c4e0d9cf965b4a64c13816b52888c3dd58dcc40976ad282d09ef251.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a38701471a092b93312e6fabdd8452382956fe0a3d2238524377f63c8e925909.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/423fe2a04c705468ff93cbdfc42108239b959dd9aac5c87b3759ddc81f7ca098.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/777b7de47036abb43a274db34aff792ff6fd4b49783ba178b094c8d159e05eca.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d32588beca56aba314bd164489c3358bf9f3d629616d66173fef78c4bae4679e.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Party",
+		"Other"
+	],
+	"intro": "\u3010Breaking News\u3011\nHololive 3rd Generation Members Unleash Chaos in Battle",
+	"description": "\u25a0About This Game\nHololive Fantasy, the unit featuring \u3008Houshou Marine\u3009\u3008Shirogane Noel\u3009\u3008Shiranui Flare\u3009 and \u3008Usada Pekora\u3009, enters the biggest free-for-all battle of the century in pursuit of the wish-granting \u201cQueen\u2019s Throne\u201d!\nExperience \u201coshi victory\u201d by winning with your oshi in this 2.5D versus action game for up to four players!\nThat's \u2018Hololive Fantasy Battle\u2019 #HoloBattle\n\n\u25a0How to Play\n\u30fb[Move] \u2192 [Attack] That\u2019s it!\n\u30fbUse unique attacks to stagger opponents, knock them back, and gain the upper hand!\n\u30fbObtaining a Red Super Weapon drastically changes your attacks!\n\u30fbLaunch the game-changing \u201cSolo Live,\u201d and let your oshi dominate the stage!\n\n\u25a0Costume Change\n\u30fbYour oshi is already cute enough, but now they\u2019ll become even cuter. Can you darlings handle it?!\n\n\u25a0Versus Mode: \"Online Battle\"\n\u30fbUp to 4 players clash in an all-out brawl to decide the winner!\n\u30fbExpand your strategy with combinations of [Each Talent's Unique Ability] \u00d7 [Field Gimmicks]!\n\n\u25a0Solo / Co-op Mode: \"Fake Hunter\"\n\u30fbFor one reason or another, fake 3rd Gen members and fake 3rd Gen fans have appeared all over the place and are causing chaos. Time to make them reflect\u2026 ORAA!!\n\u30fbFight solo with NPC allies, or team up with friends and other players online!\n\u30fbNo worries if an ally goes down! With the \"Rescue Totsumachi\" feature, you can rescue fallen teammates\u2014or have them rescue you.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "582 MiB"
+	"size": "871 MiB"
 }

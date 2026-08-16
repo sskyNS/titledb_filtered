@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133924/0a2c87efdf3b05be7ee7582082e796fcec6f68f1d4f1b32bdd54fe5601890aa8.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133924/ce52043e0714a80e16f1e363640383d8596855c4a086d83e4f8320c3be5309aa",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a2c87efdf3b05be7ee7582082e796fcec6f68f1d4f1b32bdd54fe5601890aa8.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b07394e2952ecc221839bd8996b8e9cecb41b3e63bd7929902867365e5f75995.jpg",
 	"publisher": "Vertical Reach",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/8bbe7205aca10e19fc1956b05fe2423462e13eba522ddbd6945024c213ae6910.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/d26417cef179bc0c2dbeb4bdf43afbeaa8e23293ef21276d70006ad0e459e704.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/a3ed9331ac0d705b7f770be0ddaa69c16a443c3673575772448728e2554b3a7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/ab94c8990d41f0e4855426597b58f2599d16ab1ac828a4de5783c12854366800.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/022f7d1ddb5a623549776de2a4910e54cae9a090d8256bd3f16f73bef3136dd3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133924/450b1d68c23303533fb4b958f7529e67105bdd7a082a9afdaee32088f8600f99.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8bbe7205aca10e19fc1956b05fe2423462e13eba522ddbd6945024c213ae6910.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d26417cef179bc0c2dbeb4bdf43afbeaa8e23293ef21276d70006ad0e459e704.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a3ed9331ac0d705b7f770be0ddaa69c16a443c3673575772448728e2554b3a7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ab94c8990d41f0e4855426597b58f2599d16ab1ac828a4de5783c12854366800.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/022f7d1ddb5a623549776de2a4910e54cae9a090d8256bd3f16f73bef3136dd3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/450b1d68c23303533fb4b958f7529e67105bdd7a082a9afdaee32088f8600f99.jpg"
 	],
 	"releaseDate": 20260814,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG"
+	],
+	"intro": "Beneath the streets of London, an angry mouse seeks revenge against the god who stole his tail. An epic RPG of miniature proportions!",
+	"description": "Venture below the streets of London, and you will find the medieval kingdom of rats, mice, moles, squirrels, and shrews known as Rodentia.\n\nIf the rodents have a cardinal law, it is this: never attack a god. But Verm never had much respect for the rule of law. His tail was stolen by the Yellow God of Death, and now the mouse will have to fight all manner of beasts and titans on his quest to get it back.\n\nFeatures:\n\u2022 Team up with a colorful cast of misfit rodents.\n\u2022 Encounter awe-inspiring titans. Clash with a swashbuckling water vole, a pious lab rabbit, a poetry-spewing kraken, and many more.\n\u2022 Meet the hideous vermin who run society, then overthrow them.\n\u2022 Brandish your tiny weapons in strategic, turn-based combat.\n\u2022 There is no grinding. Small Saga is a tightly-focused and boss-oriented adventure.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Language",
+		"Mild Blood",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
 	"dlcs": [],
-	"size": "287 MiB"
+	"size": "396 MiB"
 }

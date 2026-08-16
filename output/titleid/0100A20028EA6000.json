@@ -1,21 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129906/dfd93eed23a68bb2efa63411a93410ceb1f6c07ca231946fd75998d4bedae23a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/02b16d1663cf4883b1ab4c28496a565e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfd93eed23a68bb2efa63411a93410ceb1f6c07ca231946fd75998d4bedae23a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f03a7174adbec86339536998da00bbcd101723c6613cb086005e1882e229e37f.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129906/8305acd33d8e9dcb4ffdf1f25665f7d360ede04f161010f1ef4a5290823494e4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129906/e69f4e4afa201178273d4545b00227a3360a207391852fbbbf7f91d3aab8c4bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129906/cd2a52e18527c744c7d8d5c518778e713fa64f04b28901317182e89aa13c30a7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129906/31dfa7833e4875f1cb79891795376926a52ce1596c578bafb1a356ae6f7bf0ae.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8305acd33d8e9dcb4ffdf1f25665f7d360ede04f161010f1ef4a5290823494e4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e69f4e4afa201178273d4545b00227a3360a207391852fbbbf7f91d3aab8c4bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cd2a52e18527c744c7d8d5c518778e713fa64f04b28901317182e89aa13c30a7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/31dfa7833e4875f1cb79891795376926a52ce1596c578bafb1a356ae6f7bf0ae.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore eerie, atmospheric environments, uncover hidden secrets, and survive against an unseen presence lurking in the dark.",
+	"description": "Set within a dark, atmospheric environment filled with abandoned spaces and distorted realities, the game challenges you to explore, survive, and uncover the truth behind a creeping, unknown presence.\n\nEvery location in Dead Echo is crafted to build tension through environmental storytelling, subtle audio cues, and a constant feeling of being watched. There are no clear answers or safe paths\u2014only fragments of information scattered across eerie corridors, broken structures, and shifting spaces that seem to change when you\u2019re not looking. The deeper you explore, the more unstable reality becomes.\n\nSurvival depends on awareness, patience, and careful decision-making. Resources are scarce, visibility is limited, and danger often reveals itself too late. The game emphasizes psychological tension over direct confrontation, forcing players to rely on their instincts as much as their tools. Every sound could be a warning, and every shadow may hide something watching you back.\n\nAs you progress, Dead Echo begins to blur the line between perception and reality. Environments subtly shift, familiar areas become unfamiliar, and the presence within the world grows more aggressive and unpredictable. What starts as exploration quickly evolves into a psychological struggle to maintain control and understanding.\n\nDesigned for fans of atmospheric horror and immersive survival gameplay, Dead Echo delivers a slow-building, tension-heavy experience focused on fear, mystery, and the unknown. It is not just about surviving what lurks in the dark\u2014but surviving what the dark does to you.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "297 MiB"
 }

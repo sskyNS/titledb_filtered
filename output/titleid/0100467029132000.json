@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130679/c18170492174ce71a7c26ea894d96e08dae771c125b22d923118b49b7556f13d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/80b61252f03844af9e9689156447ec38_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c18170492174ce71a7c26ea894d96e08dae771c125b22d923118b49b7556f13d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/316995ff0e325090bcac937fe8b5380083c9ed9657c2fac59006563982e248f6.jpg",
 	"publisher": "Upscale Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/74bbe0aa2335d3fff94330b4702d89637c95f3b307d851dbecdf0c99959d1794.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/c0e92e56f40d84318a28288a3e50114f28747f225001cc0c5e50bbd47986e7a8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/5199476136c09762d6c5a888740f347bd0850a39cb26d1001d8304e96c2f9aff.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/cfe871e50006a9150f9d53eaceb4aeaa832b85bed0bb7504acdb0b020911cd4c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/4181241ce3d9d0fac817ae34323273ca0207937f74c8d2dfea685a8728611700.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130679/dd0fe33045c398188aeb2f732af04dcad982b46b5e13af192d024c36cad18381.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/74bbe0aa2335d3fff94330b4702d89637c95f3b307d851dbecdf0c99959d1794.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0e92e56f40d84318a28288a3e50114f28747f225001cc0c5e50bbd47986e7a8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5199476136c09762d6c5a888740f347bd0850a39cb26d1001d8304e96c2f9aff.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cfe871e50006a9150f9d53eaceb4aeaa832b85bed0bb7504acdb0b020911cd4c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4181241ce3d9d0fac817ae34323273ca0207937f74c8d2dfea685a8728611700.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dd0fe33045c398188aeb2f732af04dcad982b46b5e13af192d024c36cad18381.jpg"
 	],
 	"releaseDate": 20260814,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Action"
+	],
+	"intro": "From Corner Cart to Culinary Kingpin!",
+	"description": "You are not just the head chef, but also the manager, cashier, and driving force behind the city's most popular food truck. Bustling sidewalks are filled with hungry customers waiting for you to take their orders, prep the ingredients, and serve them mouthwatering meals that are hot, fresh, and served exactly on time.\n\nSuccess in the street food business requires more than a great recipe. It demands lightning-fast reflexes and impeccable time management. During the daily lunch rush, you must multitask effortlessly with smooth, intuitive gamepad controls. Juggle multiple orders, keep a close eye on the grill, and ensure nothing burns! Each satisfied customer will leave you with hard-earned cash and a growing reputation. However, if you make them wait too long, they will walk away hungry.\n\nUse your daily profits to transform your modest setup into a world-class culinary enterprise. As you progress, you will unlock a wide variety of new ingredients, allowing you to expand your menu and take on exciting new cooking challenges. Purchase top-tier kitchen equipment to speed up prep time and eventually unlock expanded dining spaces to accommodate larger crowds. Put on your apron, turn on the stove, and see how far you can take your street food empire!\n\nKey Features:\n\u2022 Sizzle & Serve: Master the daily rush! Cook, assemble, and deliver orders quickly before your hungry customers get impatient.\n\u2022 Upgrade Your Kitchen: Use your hard-earned profits to invest in high-tech grills, faster fryers, and advanced prep stations to increase your efficiency.\n\u2022 Expand your menu: Unlock a wide variety of fresh ingredients and complex, high-paying recipes to keep the crowds coming back for more.\n\u2022 Grow Your Empire: Transform your modest street cart into a top-tier mobile restaurant with expanded dining spaces to host bigger crowds.\n\u2022 Smooth Console Controls: Seamlessly navigate kitchen chaos with intuitive gamepad controls designed specifically for fast-paced multitasking.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "173 MiB"

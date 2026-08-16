@@ -1,20 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120176/423a8fdf91cceb4f2c094fd26bdf43b66df648accf7506d857b5b05fdd4f5d33.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120176/ec59194dd552e0c2a20981be31adf910769f4db2f70e45efd8f6c603763f16c7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/423a8fdf91cceb4f2c094fd26bdf43b66df648accf7506d857b5b05fdd4f5d33.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/05682664a6cb771a5ba9a64bda7d78e9bb5d4bf83cf48a55945c7602f6d2d240.jpg",
 	"publisher": "GungHo America",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120176/43a888ce776bfd18ef6cf0f5356297e5f4a1d1c3a6b4899c2c09bacc59c96a04.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120176/7560b458eb9a79f3fd1ca2ac661c936b12d81b2d31b94460ffcaed6c81c40543.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120176/a065e9589011e783df71da805d4f20d83e3f9f55a475f531af766ed2d0d06c43.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/43a888ce776bfd18ef6cf0f5356297e5f4a1d1c3a6b4899c2c09bacc59c96a04.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2bf5eba084a47147d3d79d79cd8a5ddd513eaf01f9867c9a1a10261545d9e9a8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a065e9589011e783df71da805d4f20d83e3f9f55a475f531af766ed2d0d06c43.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Take Fate Into Your Own Hands",
+	"description": "After quelling the coup d'\u00e9tat that shook the Kingdom of Liberl, Estelle and Joshua have finally become senior bracers. However, on the eve of the Queen's Birthday Festival, Joshua reveals the dark truth of his past before vanishing into the night, leaving only his brief farewell: \"Goodbye, Estelle.\" Armed with Joshua's harmonica and an unshakable determination, Estelle embarks upon a continent-spanning quest to find her partner.\n\nDuring her journey, she must take on the sinister society of Ouroboros as it emerges from the shadows to plunge Liberl into utter chaos. The capital in flames. A colossal airship darkens the skies. The looming threat of the Shining Ring... Confronted with the greatest crisis in the history of Liberl, Estelle and her allies battle to find Joshua and untangle the web of intrigue and conspiracy woven by Ouroboros!\n\nKey Features\n\n\u25a0 CONTINUE YOUR 1ST CHAPTER JOURNEY\nBy carrying over your clear data from 1st Chapter, you can obtain exciting bonus items that will let you progress through the story more smoothly.\n\n\u25a0 MORE COMBAT OPTIONS THAN EVER BEFORE\nOverpower your enemies with new Crafts and S-Crafts! Link your characters' attacks during Quick Battles with the new Brave Rush, and make full use of the orbment system for access to Arts.\n\n\u25a0 AN UNFORGETTABLE STORY\nDive into an intricately woven narrative to uncover the conspiracies threatening the Kingdom of Liberl.\n\n\u25a0 EXPANSIVE SIDE CONTENT\nEnjoy a variety of new content in the sequel, including minigames like fishing and poker, cooking with your companions, and fan-favorite characters joining as playable party members.\n\nExperience the expansive combat system, richly realized world, and stirring story of the 2nd chapter of the Trails series!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Fantasy Violence",
+		"Language",
+		"Simulated Gambling",
+		"Suggestive Themes",
+		"Use of Alcohol and Tobacco"
+	],
 	"dlcs": [],
 	"size": "18.46 GiB"
 }

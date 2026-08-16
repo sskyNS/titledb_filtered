@@ -1,21 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125480/2c4cea57deeb84778eeb60d809299fc0ac5d91c190bb7bac67d04bd2bb1c727b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5e4dca86f9874a36b4915a3b895d590a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c4cea57deeb84778eeb60d809299fc0ac5d91c190bb7bac67d04bd2bb1c727b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/451017adff682217783175d7e2e53542aa56aa62aa067581f81402500072c5bf.jpg",
 	"publisher": "Gametry",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125480/1c4cbc544648901f934b587bc30abbeaae143d375cb13f4141c8b373de464db6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125480/87f7180db8572f330970b8da167aafb798138f3cdb92122a11c61b4de9be72e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125480/2dc00252e44af30db8409d37b2ccfeba258cb77b97132180574883b6b18965e9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125480/47fef51dcbf23b0af9decd96a3204cf9204ba499e9ebe99b77ac7015bb7d62ae.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1c4cbc544648901f934b587bc30abbeaae143d375cb13f4141c8b373de464db6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/87f7180db8572f330970b8da167aafb798138f3cdb92122a11c61b4de9be72e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2dc00252e44af30db8409d37b2ccfeba258cb77b97132180574883b6b18965e9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/47fef51dcbf23b0af9decd96a3204cf9204ba499e9ebe99b77ac7015bb7d62ae.jpg"
 	],
 	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Puzzle",
+		"Adventure",
+		"Action"
+	],
+	"intro": "A cursed leap through shadow and thorn.",
+	"description": "Witchfall is a dark fantasy platformer where precision, timing, and courage are the only way forward. Leap through haunted forests, deadly traps, and floating ruins as a mysterious witch drifts deeper into a cursed world filled with spikes, shadows, and ancient magic. Every level is a test of reflexes, patience, and survival.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "162 MiB"
 }

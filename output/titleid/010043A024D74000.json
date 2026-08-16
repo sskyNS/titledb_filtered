@@ -1,22 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104172/bd300cab90556db3b526dd3e89a51e0dd45ed7bd438b555c8ee6c44b3ba4c7de.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0cf9b1fd53684291b80816247c7d9d69_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd300cab90556db3b526dd3e89a51e0dd45ed7bd438b555c8ee6c44b3ba4c7de.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ec1ff32082c98cb9ecfbf567512871470d251ed157eb79419992440576728f4b.jpg",
 	"publisher": "MESSIER DATA AND CREATIVE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104172/b6328c2e2b214055d47c6de991d92222985fdc9e8b3c6c7ca75785a6d0ddc24b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104172/c83f99078a0e1cd5c9c5dfc724784d9915765487fc54d98294a8bcf2b88a657c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104172/49c2310cc56fdcde0c07292f0d624822b510bc0a29638222011c99f8a0c2a486.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104172/91ea0f409436a6b8c37835fd75af955bf95adee7b3830300c7a057b63719ece0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104172/aec9fb3a09875ee5a1ba83854c2a99e25423aa61dcae66a1d4665f21afad6ca5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b6328c2e2b214055d47c6de991d92222985fdc9e8b3c6c7ca75785a6d0ddc24b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c83f99078a0e1cd5c9c5dfc724784d9915765487fc54d98294a8bcf2b88a657c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49c2310cc56fdcde0c07292f0d624822b510bc0a29638222011c99f8a0c2a486.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/91ea0f409436a6b8c37835fd75af955bf95adee7b3830300c7a057b63719ece0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aec9fb3a09875ee5a1ba83854c2a99e25423aa61dcae66a1d4665f21afad6ca5.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Platformer"
+	],
+	"intro": null,
+	"description": "In a world where humans and their shadows have been separated, the line between reality and despair begins to blur.\n\nLiving Shadows is a narrative-driven puzzle adventure that explores sensitive themes such as anxiety, depression, and existential crisis. Follow Theo, a young man trapped in apathy, as he journeys through a desolate city and mysterious landscapes in search of answers\u2014and of himself.\n\nIn this fragmented world, Theo's shadow is more than a silhouette\u2014it\u2019s a living reflection of his deepest fears and repressed memories. Interact with it to solve puzzles, uncover hidden truths, and confront the darkness within.\n\nFeatures:\nEmotional storytelling \u2013 Uncover a gripping narrative that tackles mental health, anxiety, and the human impact of technology.\n\nChallenging puzzles \u2013 Solve atmospheric and symbolic challenges that require thought, logic, and introspection.\n\nImmersive environments \u2013 Explore hauntingly beautiful 2.5D locations that mirror the emotional states of the characters.\n\nUnforgettable characters \u2013 Meet Theo, the enigmatic Bituca, and others who embody the inner struggles of a fractured society.\n\nStriking visual style \u2013 Dark, hand-crafted visuals that bring a dystopian and emotionally rich world to life.\n\nLiving Shadows offers a thought-provoking experience where every shadow hides a truth\u2014and every step brings you closer to it.\n\nAre you ready to face what lies beneath?",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Language"
+	],
 	"dlcs": [],
 	"size": "1.66 GiB"
 }

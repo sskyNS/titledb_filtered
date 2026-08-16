@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122794/885ce78a60116fd26f4cc0627b01687c49377868d30308509585c37de576b191.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/921f1aa6df43469dab17dc430ad3d8d1_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/885ce78a60116fd26f4cc0627b01687c49377868d30308509585c37de576b191.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6845ffd6b68a467d569043ff11e9a56edcd629d2def60fde4eab75e05036eda9.jpg",
 	"publisher": "HAMSTER",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/a2cb326a4d3957b1deba9e053983584d45a19bd0e8206b546217fcef67a8f0b0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/9f22b85ad0656cdf99878318212a017491bfcab28852c2de338fd480084cd429.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/5f54c6a20156139102782530aab84888f8b5dc759881383a6415167acf4ddcb5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/c8b0ac4e7d8cbdad0dcf4a1857517fbe64db49e7e8e32d03231d495c4a4b615e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/2eef9d7e433b6951d8316ea1f9f4ae00becb129755e87734bd33a20a197f0ab9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122794/3df8e432b79fb2f54967a67d0b5bdba4a01991400495ee1a2a466351e7b47a0b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a2cb326a4d3957b1deba9e053983584d45a19bd0e8206b546217fcef67a8f0b0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9f22b85ad0656cdf99878318212a017491bfcab28852c2de338fd480084cd429.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5f54c6a20156139102782530aab84888f8b5dc759881383a6415167acf4ddcb5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c8b0ac4e7d8cbdad0dcf4a1857517fbe64db49e7e8e32d03231d495c4a4b615e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2eef9d7e433b6951d8316ea1f9f4ae00becb129755e87734bd33a20a197f0ab9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3df8e432b79fb2f54967a67d0b5bdba4a01991400495ee1a2a466351e7b47a0b.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Never Seen Before?! An Active Racing Game!",
+	"description": "\"ARMADILLO RACING\" is a racing game released by NAMCO LIMITED (current Bandai Namco Entertainment Inc.) in 1997.\nControl an armadillo that rolls as it picks up speed, and head for the finish line through obstacle courses filled with unique events, or sprint courses designed for pure racing enjoyment. Finish in 1st place and you can enjoy a fun bonus game, too!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpieces that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "267 MiB"

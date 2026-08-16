@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131578/b9b42d397770de6b70bf1df47b52ae86f5246da7426a080447c27bd72aeaff96.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/aed0a22be6d24efc9e9b7efdaa17bfe8_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9b42d397770de6b70bf1df47b52ae86f5246da7426a080447c27bd72aeaff96.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/30d280808d7694a9ea86b0bb3f3dc885716984d8e2dca942f697b93938a6528a.jpg",
 	"publisher": "Brainium Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/26db4d67cc4399d200194f10520f5e9612db92a37d6ef1bea97c71a376863d38.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/253e17558a0dbf376729ab699df7de756b73011534d07937ffaa0ddaef34137f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/2f58ed16c5aba80807a55013de1780efe35ce995ed0c41222da6df370e4dfe0f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/b55d7b65cf42a31b4b05a4ca131b9ca88003d5503180345ee2f668e578ffbd70.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/9de3f5c8b6024700b82e09f4bf08146d36dbc5385af3175b1e8bc9ca3bf3f684.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131578/74b167fad33c8ef18281f10522d66a4af2b87381d739fe904a20f1c3580247a2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/26db4d67cc4399d200194f10520f5e9612db92a37d6ef1bea97c71a376863d38.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/253e17558a0dbf376729ab699df7de756b73011534d07937ffaa0ddaef34137f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2f58ed16c5aba80807a55013de1780efe35ce995ed0c41222da6df370e4dfe0f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b55d7b65cf42a31b4b05a4ca131b9ca88003d5503180345ee2f668e578ffbd70.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9de3f5c8b6024700b82e09f4bf08146d36dbc5385af3175b1e8bc9ca3bf3f684.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/74b167fad33c8ef18281f10522d66a4af2b87381d739fe904a20f1c3580247a2.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Strategy"
+	],
+	"intro": "Perform precise movements\nDefeat the bosses\nComplete the levels",
+	"description": "You are one of the last flying drones, untouched by the virus.\nYou are faced with a quiet but crucial mission: penetrate the depths of the infected bunker and find what remains hidden within its sections. Something that will later play a key role in the fate of the entire complex.\n\nWith each level, the corridors become more dangerous: external mechanisms, security traps, closed blocks that are easy to crash into\u2014all hidden in the darkness. But the drone has a special vision; it can see what is normally invisible, and sometimes there's a chance that it can protect you from range.\n\nAlong the way, you'll have to deal with epic bosses\u2014malfunctioning security machines and twisted structures, whose virus has transformed into something unpredictable.\n\nTo the Basement: Before is a side-scrolling arcade game where flight, maneuvering, devastating humidity, traps, and boss fights intertwine in a single, grim journey through a contaminated area.\nTest your resilience and willpower in these challenges!",
+	"languages": [
+		"en",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "86 MiB"
+	"size": "129 MiB"
 }

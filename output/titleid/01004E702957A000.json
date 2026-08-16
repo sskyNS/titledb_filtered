@@ -1,20 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132386/372a6e70196dcbf3def76928c64cbb969683df280a1baf543eb072c3f91d9870.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/267080f9b3e946f8aff0114f3b3cb283_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/372a6e70196dcbf3def76928c64cbb969683df280a1baf543eb072c3f91d9870.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ffcee28d7385673d31c68829c08d2153ec5334c5e96f3be276c07ce201d0dfd.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132386/402598557e5b4d512c95780255d91dcbbd7c9b3edb3957359c46436e761648af.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132386/55208f78631072aa089f3f4328faa4965ecab6951058b30c9f0b6989a4c5a1cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132386/947943285ea9964cc2b826312ed16c73378b5deab98b99e9455f43857a989e71.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/402598557e5b4d512c95780255d91dcbbd7c9b3edb3957359c46436e761648af.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55208f78631072aa089f3f4328faa4965ecab6951058b30c9f0b6989a4c5a1cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/947943285ea9964cc2b826312ed16c73378b5deab98b99e9455f43857a989e71.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action"
+	],
+	"intro": "Leap across towering rooftops, wall-run over obstacles, and master fast-paced parkour as you race through a dangerous city filled with enemies and challenging platforming.",
+	"description": "Take to the rooftops in a fast-paced first-person parkour adventure where every jump matters. Sprint across towering city buildings, leap over massive gaps, wall-run across obstacles, and use your movement skills to reach new heights.\n\nNavigate handcrafted levels filled with dangerous enemies, environmental hazards, and challenging platforming sections that demand quick reflexes and precise timing. Every rooftop presents a new obstacle, from collapsing structures to heavily guarded areas that stand between you and your objective.\n\nMaster fluid parkour movement, discover the best routes through the city skyline, and combine speed with precision to overcome increasingly difficult challenges. Whether you're avoiding enemy fire, making daring rooftop leaps, or climbing to impossible heights, every level tests your ability to keep moving.\n\nFeatures:\n\nFast-paced first-person parkour gameplay.\nJump, wall-run, and climb across towering city rooftops.\nHandcrafted levels with increasing difficulty.\nEnemy encounters that challenge both movement and timing.\nSmooth controls designed for fast traversal.\nExplore a sprawling urban skyline from above.\nEasy to learn, challenging to master.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "80 MiB"
 }

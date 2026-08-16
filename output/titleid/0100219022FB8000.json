@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000095645/3b1cdd934e99fbe3929dc125f01b03dd9c23337accba3615ea642759ab86350a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000095645/088902f91bc7d31ea377a9a9e2b2de340ae50da4185f693ad11d1eb3396ac5ff",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b1cdd934e99fbe3929dc125f01b03dd9c23337accba3615ea642759ab86350a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6d6c72225e07458d148bdab6ab6baa697fc4ff02543b324c796ecc0ad9361832.jpg",
 	"publisher": "City Connection",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095645/342a5bd9487874d78bfcfadce2fd2751aabb29e45fbb8ba595e53c444ffbaeb2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095645/50ece2e3979260966428dbe5cfae3df9daf64952960e0cd8e50dcb4c1f054939.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095645/8bd7c1bced6e7696f538b6cd7c6d7c99097e408b0d7530c16861e7efbbe2b066.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095645/25125e0febbc03a2dcd2a8b63f62ed499a03f7f91e2029716def5eda6d65732e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095645/6b36cb51200cd106c646e5e10b12ff0e0e9e031c9aae9f0d61ae20cc8d91f908.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/342a5bd9487874d78bfcfadce2fd2751aabb29e45fbb8ba595e53c444ffbaeb2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/50ece2e3979260966428dbe5cfae3df9daf64952960e0cd8e50dcb4c1f054939.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8bd7c1bced6e7696f538b6cd7c6d7c99097e408b0d7530c16861e7efbbe2b066.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/25125e0febbc03a2dcd2a8b63f62ed499a03f7f91e2029716def5eda6d65732e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6b36cb51200cd106c646e5e10b12ff0e0e9e031c9aae9f0d61ae20cc8d91f908.jpg"
 	],
 	"releaseDate": 20260805,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action"
+	],
+	"intro": "JALECOlle Famicom revives JALECO classics!\nVol. 8: ROD LAND Includes the original Japanese version in this 2-in-1 release!",
+	"description": "Rescue Mama from Maboots Tower!\nGrab enemies with Magic Rods and create ladders with special shoes.\nA stage-clearing action game for 1 or 2 players.\n\n\u25c6Game Story\n\nTam and Rit, two fairy siblings, lived peacefully with their Mama in Fairy Village.\n\nBut one day, a huge ghost kidnapped their mother and took her away to Maboots Tower.\n\nTo save Mama, the two set off for the tower with their magical rods and special shoes.\n\nTheir main attack is to use the rods\u2019 magic to grab enemies and slam them into the ground.\n\nThe special shoes also let them create and climb ladders.\n\nCross otherwise unreachable platforms, collect items placed high above, and discover new ways through each stage!\n\nDefeated enemies can leave behind attack items, allowing you to take them down in all kinds of ways.\n\nCollect every flower in a stage, and the remaining enemies will transform into special EXTRA GAME enemies.\n\nDefeat them to make EXTRA items appear!\n\nCollect EXTRA items to earn 1UPs and high-score bonuses.\n\nPlay solo or team up in 2-player co-op!\n\nGuide Tam and Rit to the top of Maboots Tower and rescue Mama!\n\n\n\u25c6Customize Your Game with Options!\n\nThe options menu, available from the title screen,\nincludes settings for 2-player play with Tam and Rit.\n\nChoose Friendly play, share points between both players,\nor compete in Rival mode, where you can interfere with your opponent.\n\nThe Jump setting can also dramatically change the way you play.\nChoose from No Jump, Normal Jump, or jumps that hit overhead platforms.\n(Normal Jump is selected by default.)\n\nCustomize player colors, hints, music, and sound effects.\nYou can also choose the title screen BGM, adjust demo speed,\nregister player names, and more!\n\nSet up ROD LAND your way!\n\n\n\u25c6JALECOlle Famicom Series: New Features\n\n\u2605Beginner-Friendly Assist Features\nUse intuitive Rewind controls to instantly retry after a mistake,\nor save and resume your game from anywhere\nwith Quick Save & Load.\n\n\u2605Helpful Subtitle Guide\nSupports the Japanese localization.\n\n\u2605Record Your Best Time\nTrack your time from the start of your adventure\nto defeating the final boss with the Simple Timer.\n\nUse Quick Save to chase your best time,\nor take on the game without any assist features at all.\nSet your personal best!\n\n\u2605Plus, plenty of extras and options!\n\u30fbAchievements to challenge a variety of goals\n\u30fbAn Extra Page featuring original package art, manuals, flyers, and more\n\u30fbA Screen Edge option to reduce distortion at the edges of the screen\n\u30fbScreen Filter options\n\u30fbWallpaper options\n\u30fbClear bonuses featuring a little extra content after completing the main game",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "455 MiB"
 }

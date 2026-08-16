@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118317/25f94f01c4a032718d3fc57a292947fdabe7e3e38c6bdae21deeb845e2143f39.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118317/6e97cb4c31fb5514f985c7dcb1203dbb13f995955a0343c074dee6497f1df47a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25f94f01c4a032718d3fc57a292947fdabe7e3e38c6bdae21deeb845e2143f39.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/25f29b9caf58484067310669a160edd30b3c9e421c42dcd4ad6472ab996b8166.jpg",
 	"publisher": "Phoenixx",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/79e9302ab52d0045430aec9ed6793c1f6e3f4c4d5bd2bfe9acd4e3bd332ed895.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/b644fbe0d8132bf817bf67e01a3303c3c59c4ebbfc4ef37e9af636e40a2d23d8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/cfce4c7340782b974086c3d90a6d65693a18316184a29afe2c8ab6a8052eb814.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/85de715c922f00d82985ea39e438158bbd98ea210cc40709b4a3aadf90848eea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/6f50cdf37d2fcfb718fdbc62ba49198d6de98a55e06de3d0af8eac155b346510.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118317/24436592c8931e38111f1e5694b79e09a469e26eab476248d1d1bd553b0e6e3d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/79e9302ab52d0045430aec9ed6793c1f6e3f4c4d5bd2bfe9acd4e3bd332ed895.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b644fbe0d8132bf817bf67e01a3303c3c59c4ebbfc4ef37e9af636e40a2d23d8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cfce4c7340782b974086c3d90a6d65693a18316184a29afe2c8ab6a8052eb814.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/85de715c922f00d82985ea39e438158bbd98ea210cc40709b4a3aadf90848eea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6f50cdf37d2fcfb718fdbc62ba49198d6de98a55e06de3d0af8eac155b346510.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/24436592c8931e38111f1e5694b79e09a469e26eab476248d1d1bd553b0e6e3d.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "A tactical RPG with over 70 Touhou characters!\nEnjoy diverse skills and flashy Spell Cards.\nFun for everyone, from beginners to veterans!",
+	"description": "Fantasy Maiden Wars is a classic tactical RPG with a diverse cast of iconic Touhou Project heroines. Explore the expansive world of Gensokyo, a fantastical realm where humans, yokai, and gods exist side-by-side. Seek out the source of supernational incidents disturbing the peace across the land.\n\n\u25c6Classic Tactical RPG Gameplay\nDeploy your units across grid-based maps, take down enemies with strategic positioning and turn-based tactics, and clear stages to progress the story.\nMultiple difficulty levels and a full-featured tutorial system make this a perfect entry point for players new to the genre\u2014while offering plenty of depth for veterans.\n\n\u25c6Dynamic Combat Animations\nEngage in beautifully animated battles whenever characters clash. From sword slashes and gunfire to devastating Spell Card finishers, every attack is brought to life with flair.\nWatch your favorite characters unleash flashy moves in the rich, vibrant world of Gensokyo.\n\n\u25c670+ Playabele Characters and Deep Customization\nCustomize your squad between missions in the Intermission screen\u2014equip gear, assign skills, and build the dream team your way.\nEach character has unique traits and signature abilities, opening the door to countless team compositions and strategies. Go all-in on your favorites or hunt down the most broken combos\u2014how you play is up to you.\n\n\u25c6A Massive Story Blending the Touhou Universe\nChoose between shrine maiden Reimu Hakurei or magician Marisa Kirisame as your protagonist\u2014your choice will impact parts of the story.\nThe game weaves together reinterpretations of storylines from across the Touhou Project series, uniting them into a single, epic narrative arc for both newcomers and longtime fans.\n\n\u25c6More Than Just a Game - Dive into the World of Touhou\nBeyond the gameplay, enjoy a rich selection of bonus content:\n- A detailed character and terminology encyclopedia that introduces the world of Touhou\n- A massive music room with over 200 tracks from the game\n- Perfect for both Touhou veterans and those just beginning their journey into Gensokyo.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.64 GiB"
 }

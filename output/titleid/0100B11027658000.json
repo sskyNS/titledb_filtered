@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120502/3b937969cc53108deeda956f5ecf2c71c83bc6665b8cbbc083aae98e72bd50e6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120502/7b2fd7aaa2f7def7516913b9401f910065e1661e19af0ad05732aa4bd9b45ac3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b937969cc53108deeda956f5ecf2c71c83bc6665b8cbbc083aae98e72bd50e6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/416666806a9808eb88e926d83098b30ccd956326b766f171f0b9cb99b58d0147.jpg",
 	"publisher": "Nordcurrent",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/38fe002dc4ddc8fc78b0d58730aa79adc886a9c06db39c3e499ae0853d2dab66.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/c5e076b7757fa3f0ab98786b7feb4d668200f1d07262c46ef01808a064c6235a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/33ac57e4ff674e218e7587c54e5db322552682ee811120d6a7946fc70009d704.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/d60f27a11c9787c0bfe7723003b0fb178aaba4981490285047074499c5f307c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/e22b640c6f2686bafc49fc1386d00eb63f67c931b32c4f833e673c200452f5ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120502/ed2deab12bd417ce61c5da85a1e99cdec199a9f01f2eab61384b06db9f46e658.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/38fe002dc4ddc8fc78b0d58730aa79adc886a9c06db39c3e499ae0853d2dab66.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c5e076b7757fa3f0ab98786b7feb4d668200f1d07262c46ef01808a064c6235a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/33ac57e4ff674e218e7587c54e5db322552682ee811120d6a7946fc70009d704.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d60f27a11c9787c0bfe7723003b0fb178aaba4981490285047074499c5f307c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e22b640c6f2686bafc49fc1386d00eb63f67c931b32c4f833e673c200452f5ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ed2deab12bd417ce61c5da85a1e99cdec199a9f01f2eab61384b06db9f46e658.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy"
+	],
+	"intro": "The crown is stolen. England burns. Conquer territories, siege castles, and unite a fractured kingdom before the Normans close in.",
+	"description": "In the 1980s, Defender of the Crown helped define a new kind of cinematic strategy game. Now it returns, rebuilt for modern platforms and remastered with an entirely new way to play.  \n \n\nConquer territories, raise armies, storm castles, and shift the balance of power. It's the Defender of the Crown you remember - just sharper, cleaner, and built for today.   \n\nThree Ways to Play   \n\nRetro Mode. The original Amiga classic, preserved with near-perfect authenticity and quality-of-life enhancements.  \n\nClassic Mode. Amiga classic reimagined for today. A completely new visual identity, refined mechanics, and smoother systems.  \n\nKingdom Mode. An entirely new challenge. Procedurally generated maps, special dice mechanics, unlockable abilities, and multiple difficulty levels to keep every run unpredictable.   \n\nFaithful to Its Roots, Built for Today  \n\nEverything that made the original special is intact: the ruleset, the pacing, the atmosphere. What's changed is everything around it - cleaner systems, improved balance, a modernized interface, and quality-of-life updates throughout.\n",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"pl",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "848 MiB"
 }

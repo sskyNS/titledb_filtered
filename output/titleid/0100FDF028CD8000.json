@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129199/62c2512351210901a6f69d9f465e990f4f045fa3b8dcbef03a92800db4237f3c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/69483788736f4b0583f7826fa2ac7e3e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62c2512351210901a6f69d9f465e990f4f045fa3b8dcbef03a92800db4237f3c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0da81c2286892700fc55b9d466f1a5531cb4677eb5ccdbc86fd6be5d53303209.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129199/7811aa1e1a89609cac37df6ca64f23f13204f30bc6f9d542749d5e3def9d0176.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129199/b87866290db52728052cd88a021e754b4aa1ffe0be8122d83a54813273a286f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129199/164ca47c4d4b57bbce3b3f13897b88c724ee1b99a298720a4dd9a2a4698e288c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129199/b897f245844b45569e86910a1b15c44a945220dd51e3f244cd53d9f6110b3d0c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7811aa1e1a89609cac37df6ca64f23f13204f30bc6f9d542749d5e3def9d0176.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b87866290db52728052cd88a021e754b4aa1ffe0be8122d83a54813273a286f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/164ca47c4d4b57bbce3b3f13897b88c724ee1b99a298720a4dd9a2a4698e288c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b897f245844b45569e86910a1b15c44a945220dd51e3f244cd53d9f6110b3d0c.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Practical",
+		"Study",
+		"Training",
+		"Education"
+	],
+	"intro": "Just 5 seconds. Spot the culprit.\nOne person in the crowd is moving wrong \u2014 catch them.\n",
+	"description": "A park, a station, a market, a beach \u2014 somewhere in this peaceful scene, a culprit is hiding.\n\n\"They were right in front of me...\"\n\"By the time I noticed, they were gone.\"\nOnce the culprit starts moving, you only have 5 seconds.\n\nThis game is a snap-judgment puzzle where you tap the single culprit hiding in a crowded scene.\nPickpockets, shoplifters, burglars, bag thieves, snatchers, bike thieves \u2014\nCan you spot the \"one person trying to hide something\" in 5 seconds?\n\nHow to play is simple.\n\u30fbWhen the image appears, observe within 5 seconds\n\u30fbTap the person you think is the culprit\n\u30fbThe answer and the crime are revealed\n\nThe thrill of \"I knew it was that one!\" and the frustration of \"Let me see it again!\"\n50 scenes across parks, markets, beaches, museums, queues, neighborhoods, and more.\n\nQuick rounds make it perfect for spare moments.\nObservation and reflex \u2014 both put to the test in this brain-training game for adults.\n\nSo, can you spot the culprit in 5 seconds?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "181 MiB"

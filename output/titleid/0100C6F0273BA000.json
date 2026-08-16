@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124345/5c822da4ca1de4e75b5323fad65b18bfa436414ecbbaf95064aba3f1b97d6764.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2f8416f4e18747b3bc580efd3fac3659_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5c822da4ca1de4e75b5323fad65b18bfa436414ecbbaf95064aba3f1b97d6764.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/470ad520e0b4c81f062c5e33f653749fadb477915dcd6461b6fc3f354b941db4.jpg",
 	"publisher": "Fancy Factory",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/fe44aa991c95d77d0799f484da4ddd02eaa4b46f9921a36950e2693792498c42.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/86abd321b3c445f63ebd482d8ac7ba3662516ea37c27dbecc3065206b28d0ec4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/d5ddd58cf39b7e02a985ce0950723f0b0d875b03639dc2fdfd4fd5b1c3dbdda7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/f0da585e615830096db561c08f76954b2abc1511fc40c6f811001430e0d2cb7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/d93dbbb9938ee524ed57d519cfe7fc2981e73640791c5c7b7ecebd1dacd30074.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124345/3b8c7d1dc48aff54ae0d42a75b88e89be73cdb53d86843a652b3831c54ae2f1e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fe44aa991c95d77d0799f484da4ddd02eaa4b46f9921a36950e2693792498c42.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/86abd321b3c445f63ebd482d8ac7ba3662516ea37c27dbecc3065206b28d0ec4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d5ddd58cf39b7e02a985ce0950723f0b0d875b03639dc2fdfd4fd5b1c3dbdda7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f0da585e615830096db561c08f76954b2abc1511fc40c6f811001430e0d2cb7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d93dbbb9938ee524ed57d519cfe7fc2981e73640791c5c7b7ecebd1dacd30074.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b8c7d1dc48aff54ae0d42a75b88e89be73cdb53d86843a652b3831c54ae2f1e.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action",
+		"Arcade",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "A fast\u2011paced retro maze bomber packed with explosive action, colorful pixel art, and a fresh twist on a timeless gameplay formula. For all retro and pixel art lovers! ",
+	"description": "KABOOMANIA brings classic arcade chaos into a new era \u2014 complete with an exclusive, brand\u2011new soundtrack by legendary composer Chris Huelsbeck.\n\nExperience a vibrant 128\u2011color-pixel-world, huge maps, clever enemies, and more than enough explosions to keep you on your toes. Whether you're exploring the massive single\u2011player campaign or battling up to 4 friends on the couch, KABOOMANIA delivers pure retro energy with modern polish.\nFeatures\n- Authentic low resolution pixel art in 128 AGA colors\n- Exclusive new soundtrack by Chris Huelsbeck\n- Classic chaotic arena gameplay \u2014 reimagined\n- 5 unique themed worlds\n- 1000 levels (!!)\n- Large maps with varied environments\n- Dozens of quirky enemies with distinct behaviors\n- Crazy collectibles and power\u2011ups\n- 4\u2011player couch battle mode\n- Password system for true retro vibes\n\nA Modern Take on a Classic Concept\n\nKABOOMANIA is inspired by the spirit of 16\u2011bit action games, but it\u2019s not a remake or a clone.\n\nIt\u2019s a brand\u2011new interpretation of the maze\u2011bomber genre \u2014 built with fresh ideas, original art, and a unique identity.\n\nWhether you're a retro enthusiast, a pixel\u2011art lover, or simply someone who enjoys fast, explosive gameplay, KABOOMANIA offers a nostalgic yet modern experience for all ages.",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "131 MiB"
 }

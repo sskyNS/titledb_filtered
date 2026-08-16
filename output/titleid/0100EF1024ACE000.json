@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000102736/00d2b1e30218972f940646581bce8b2a25128010b4f15fcf850c7af9254bad09.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000102736/7b8edb470b0f9e31cf9b780624c7063365101ff3125f38eb08a00b3f0273316c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00d2b1e30218972f940646581bce8b2a25128010b4f15fcf850c7af9254bad09.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e34759f8c21d50d9b11f5e049114bf3152c05390fc5b4a26f6e8ce260cedb30b.jpg",
 	"publisher": "Gravity",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/bbc7540d41437c68119e39377077a83c71e38af76b793b5baeffcf75ac30d561.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/a5939afdb1999719ee8a1161e074f1f693af1b91f5bc0488b9d28e7975ac2ad4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/4e1d0fbcb53c1995a0e43fa2140320e498d2b59c5032a7a72bce8a8b5b12f21e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/8001e263bb5e40175277da7b2f061d33069530b46d1d4130e2253d4b9d3d669d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/fb28808f14b9584b8c8602fafd54e0f14107a537afba683c87fa18b1690048f2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000102736/a76e439c3347f761863e1c6b4b993f6aeaae06913b6a1922cfba0d6ba808980a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bbc7540d41437c68119e39377077a83c71e38af76b793b5baeffcf75ac30d561.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a5939afdb1999719ee8a1161e074f1f693af1b91f5bc0488b9d28e7975ac2ad4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4e1d0fbcb53c1995a0e43fa2140320e498d2b59c5032a7a72bce8a8b5b12f21e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8001e263bb5e40175277da7b2f061d33069530b46d1d4130e2253d4b9d3d669d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fb28808f14b9584b8c8602fafd54e0f14107a537afba683c87fa18b1690048f2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a76e439c3347f761863e1c6b4b993f6aeaae06913b6a1922cfba0d6ba808980a.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Racing",
+		"Action"
+	],
+	"intro": "Hashire HEBEREKE: EX is a modern remake of the 1994 Hashire HEBEREKE by SUNSOFT.",
+	"description": "Players can choose from a cast of quirky and adorable characters to race through item-filled, obstacle-packed courses. Local multiplayer supports up to 4 players, while online multiplayer supports up to 8 players, ensuring fun and frantic competition.\n\n\u25a0 Story: The story unfolds differently depending on the character you choose. Defeat all opponents across 10 stages to clear the game.\n\u203b Even if you lose, don\u2019t be discouraged\u2014you can always try again.\n\n\u25a0 Battle Run: Enjoy competitive races with 1 to 4 players by splitting the screen into 1 or 4 sections. The player who reaches the finish line first wins.\n\n\u25a0 Time Attack: A single-player mode where the goal is to reach the finish line as quickly as possible. Challenge your limits by breaking your own records. You can also race against a ghost of your previous record to motivate yourself to improve.\n\n\u25a0 Engacho (Chasing game): The character with the \"poop\" on their head becomes the chaser. You win by chasing down and touching other players. Supports 1 to 4 players.\n\n\u25a0 Online Battle: Up to 8 players can enjoy either \u201cBattle Run\u201d or \u201cPofun Battle\u201d together. Each game room can hold up to 8 players, and stages are chosen at random.\n\n\u25a0 Rhythm Game: Hit the corresponding inputs for each colored Pofun as they align with the judgment line. Depending on your accuracy, the text, effects, and character reactions will change. Combos and accuracy are displayed on the screen, and Fever Mode triggers special effects. Enjoy the rhythm game with colorful and exciting music!\n\n\u25a0 High Scoreboard: A mode where you can check players\u2019 top scores in ranking order.\n\n\u25a0 Game Settings: Choose the language and screen mode, adjust sound volume and control style. You can also enable shadow silhouettes when objects obscure characters, or turn on vibration feedback.\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Crude Humor"
+	],
 	"dlcs": [],
 	"size": "1.59 GiB"
 }

@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130256/2b4e896da6a52825ee0f3df158e48d182f737e819d27bc8ea8486c3672ecc041.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130256/5d12aa17070fab1af675e6f31ece5f388cc69fd658259345f8f319f16fadfb6d",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b4e896da6a52825ee0f3df158e48d182f737e819d27bc8ea8486c3672ecc041.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9287ebfca5ad9074610a3d3beb615c19c2d8810a1f530fa639c0f67b3c009f7a.jpg",
 	"publisher": "Error300 Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/ebe9bd9443bf98eb905f451556e797cee9fd55f30ceea273008813edcc8e6526.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/d73c807077de3e10522cede8d56b0637f1ab732f051b23ba5a584a7d73ff4982.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/c520ea8d90056cce9b7fff5f1c2b690b78d44313c0371e5e62ae902eeb4ae513.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/db86a58a80f694367ee321bc0548cec019e71aa8404d33d2b25d10617dc10c1f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/51733e30f1787591a19f31354c6b122a5d9e733df19204e3b6aaf41ac7e6f868.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130256/cbde8d4ff8b4be41b0ec4cffd6a385f7dc0393d9e48b3696678e7a666cacce44.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ebe9bd9443bf98eb905f451556e797cee9fd55f30ceea273008813edcc8e6526.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d73c807077de3e10522cede8d56b0637f1ab732f051b23ba5a584a7d73ff4982.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c520ea8d90056cce9b7fff5f1c2b690b78d44313c0371e5e62ae902eeb4ae513.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/db86a58a80f694367ee321bc0548cec019e71aa8404d33d2b25d10617dc10c1f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/51733e30f1787591a19f31354c6b122a5d9e733df19204e3b6aaf41ac7e6f868.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cbde8d4ff8b4be41b0ec4cffd6a385f7dc0393d9e48b3696678e7a666cacce44.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Help Nora learn about her Grandma\u2019s past and find the magical artifacts hidden in her house!",
+	"description": "Magical Academy, a place that seemed perfect for her... After all, she is a future, great witch! As it turned out, fate willed otherwise and young Nora, after her Grandma's passing, must now go back to Lillyton to clain her inheritance - old Granny's house. But this task may be more difficult than it looks at first glance...\n\nNora: In Search of Hidden Ingredients is a unique combination of two types of games - kinetic visual novel, in which you will learn the story of a young adept of magic, her relationship with her beloved grandmother as well as a heartwarming tale of where true magic comes from. The second is a classic hidden object game In which you have to show cleverness and resourcefulness.\n\nBut be careful! A certain Spirit, has decided to put your skills to the test, and until you pass the obstacles put up by him... Reality is now shifting and your surroundings seem to be subject to some random, variable laws of nature... \n\nWill you help Nora fulfill her destiny?\n\nGame key features:\n- Clever combination of kinetic visual novel & hidden-object games\n- 29 HO levels in 9 unique locations full of story bits to discover and objects to find\n- An inquisitive Spirit decided to make Nora's task, a bit more tricky so...\n- ...The levels as well as some of the items you have to find are randomly generated!\n- Beautiful, hand-drawn visuals that will enchant you with their style\n- Unlimited freeplay mode for HO fans\n\nStart this magical adventure with Nora today!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "492 MiB"

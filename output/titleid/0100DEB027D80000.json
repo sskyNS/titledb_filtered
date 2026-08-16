@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123114/1a77dca0fe19dfbf3290c508616be00e113ad377292e8d989e5d1a9c3b633ff2.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123114/b89a54bdf7582cf09952a81eab6778e25e033c26a31dfc2d506a5088420a54e4",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a77dca0fe19dfbf3290c508616be00e113ad377292e8d989e5d1a9c3b633ff2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad2f96f69aedbff1cb29ea4354c34605660ebced8d741d3eb5fac7d56c88e989.jpg",
 	"publisher": "Lu Ming trading as Shane Game",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/9b5f19618707e7660ea116cd4ec52c88307df8eda923820559a7dc0ca3dc5a73.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/c450c100b70453e80ad209b4f33be1652974e965494f87f1003c63dd75ff473f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/58cadcb59d512d1f779fb9bc615b820b372efeebf9fc3227d69b6abf7bc6480f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/bf0417a7bed10344593425d9b99d14c626c03513e00bce1929c8b6e1b42adfd8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/5d393d6545dfcc8dd092ebff9da034a7b1d24d35bba9aa124b6d8ce1e8c301cb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123114/57701499ad05520f08c64fc6094970c34798847e52535062d9a00a5e68e120a9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9b5f19618707e7660ea116cd4ec52c88307df8eda923820559a7dc0ca3dc5a73.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c450c100b70453e80ad209b4f33be1652974e965494f87f1003c63dd75ff473f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/58cadcb59d512d1f779fb9bc615b820b372efeebf9fc3227d69b6abf7bc6480f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf0417a7bed10344593425d9b99d14c626c03513e00bce1929c8b6e1b42adfd8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5d393d6545dfcc8dd092ebff9da034a7b1d24d35bba9aa124b6d8ce1e8c301cb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/57701499ad05520f08c64fc6094970c34798847e52535062d9a00a5e68e120a9.jpg"
 	],
 	"releaseDate": 20260725,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action",
+		"Party"
+	],
+	"intro": "Can you master every road and every challenge?\n",
+	"description": "Get behind the wheel and begin your journey toward becoming a skilled driver. Every road presents a new challenge as you navigate busy city streets, follow traffic laws, and complete realistic driving lessons. Stay alert at intersections, watch surrounding traffic, and reach your destination safely while avoiding accidents and respecting speed limits.\n\nDriving School Sim is a realistic driving experience where learning, progression, and vehicle customization come together. Complete nearly 100 unique routes across a lively city, master different driving situations, and improve your skills behind the wheel. Earn rewards for safe driving, unlock new vehicles, and build your collection as you advance through increasingly challenging lessons.\n\nFeatures:\n\t\u2022\tNearly 100 unique driving routes with varied objectives and road layouts.\n\t\u2022\tRealistic city traffic featuring intersections, road signs, and everyday driving situations.\n\t\u2022\tPerformance ratings based on safe driving, rule compliance, and route completion.\n\t\u2022\tGarage and vehicle shop with multiple cars to unlock using in-game currency.\n\t\u2022\tVehicle customization with colors, wheels, spoilers, vinyls, and other cosmetic options.\n\t\u2022\tUpgrade system that improves your cars and enhances the driving experience.\n\n\nCan you master every lesson and earn the highest driving ratings? Explore the city, unlock your favorite vehicles, customize your collection, and prove your skills in Driving School Sim.\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "648 MiB"

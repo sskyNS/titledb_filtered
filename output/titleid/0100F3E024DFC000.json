@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128636/da4e709507be57ca9e145f109d38638f43bc4577cdb8cdb0b302803fe4754717.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128636/88c8245f8835f6b84b3e35eb4d3d8aace01558d022c745de1422a6fba85514f7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b94d5046e4991e4e0783efd93a260939713aa7be2a7192a0fe43ca58397c516.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6d26a33c1fd8afdf1d73576a7580d51b83acac9af1aff8e150ab6d8f2bf0a656.jpg",
 	"publisher": "WRIGHT FLYER STUDIOS",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/ad79e0b0ce402a8dbde83d07d5e7259c3edea21c6505d9153e6911b880dd076b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/89defc356f41499a1f63dfae475b4c55051e9697e5c83150321bd6d8e78c1c13.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/c154c53c44da9df8b4f652494bf71cfc50ca1423e30b52dfb7723193f39fd1f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/c06a668c49c2edffeb5e2336ba3fa1f113fe7a52aa8f9302f1046e05522e96f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/87663c43b9d0b52cb30bffe5acb46f41300be9db9cce74d183e1f4a46cfe4506.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128636/a8525457c71a20691059bcf6ec20069c7b0d1a5d46ccf16f5718c1307281fa3d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ad79e0b0ce402a8dbde83d07d5e7259c3edea21c6505d9153e6911b880dd076b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89defc356f41499a1f63dfae475b4c55051e9697e5c83150321bd6d8e78c1c13.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c154c53c44da9df8b4f652494bf71cfc50ca1423e30b52dfb7723193f39fd1f1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c06a668c49c2edffeb5e2336ba3fa1f113fe7a52aa8f9302f1046e05522e96f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/87663c43b9d0b52cb30bffe5acb46f41300be9db9cce74d183e1f4a46cfe4506.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a8525457c71a20691059bcf6ec20069c7b0d1a5d46ccf16f5718c1307281fa3d.jpg"
 	],
 	"releaseDate": 20260916,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": "Now begins an RPG beyond time and space",
+	"description": "A time-traveling RPG adventure from Masato Kato, creator of countless classic RPGs\nProduct Summary\nAldo embarks on an adventure beyond time and space to save his sister, Feinne, from the clutches of the beastfolk.\n\nA richly woven tale by scenario writer and director, Masato Kato, unfolds across the ages, alongside a main theme composed by Yasunori Mitsuda, music incorporating traditional folk instruments and an orchestra by Procyon Studios, and a stellar voice cast.\n\nThe strategic command battles, which feature exhilarating actions like chain skills that trigger successive strikes, and Another Force that allows a barrage of attacks, can be fought with original parties composed from a total of 19 characters.\n\nAfter clearing the main story, New Game+ offers a new adventure filled with new faces and over 10 different endings based on your actions and choices.\n\n\u25c6Strategic Command Battles\nThe lands of Another Eden are rife with monsters\u2014run into them to initiate a command-based battle and take them down.\nCreate your own original parties, unleash chain skills, and create chains to trigger successive strikes!\nUnleash a flurry of attacks with Another Force to beat your enemy into submission!\n\n\u25c6Befriend and Forge Meaningful Bonds with 18 Allies\n18 allies of different races and eras await Aldo on his journey.\nAllies' stories are told through various quests. Encounter quests depict their first meeting with Aldo, character quests reveal their past and purpose, and kinship quests explore their relationship with Aldo.\n\n\u25c6Embark on a New Adventure with New Game+\nComplete the main story to unlock New Game+ and embark on a new adventure with your allies as they are!\nNew Game+ also introduces a brand-new character, Ramiu, and features over 10 different endings based on your actions and choices.\n\n\u25c6New Features to Enrich Your Time-Traveling Adventure\nEnrich your adventure beyond time and space by logging the feline friends you encounter in the cat catalog, and creating weapons, armor, and food from different eras with the crafting feature.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "3.61 GiB"
 }

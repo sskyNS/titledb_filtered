@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119021/acbc4c0da738b7d1f2b6f497d2c63a1462238bdac875ba5017189865a94fe031.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2645dc8e6b81421692afef22b432e384_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/acbc4c0da738b7d1f2b6f497d2c63a1462238bdac875ba5017189865a94fe031.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7433300bdb036386d24420bc734c02d878c1acb107ebbe2970297815fc9a6daf.jpg",
 	"publisher": "Happy Player",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/3057a0535689e6d313977e3d91e994a6cf1d9415be1d2f2a91cadc00d30781f4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/cc8b5ca09f172c335c78eb3bfa07084bdf4f0186fe2f85f7d9ecb164049b6a91.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/8f41b690d1adc946975a0502d8c6a9299d4884a2011368538e80fb2f69e3451f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/83e1a1d86753efff461cc6fbeda6cb0f3073d79a22be0847ce56f65f4c0919ec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/403ff106d405278576dc8c3aebe07aca29c2535fa7e73c557a54c8ec70718100.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119021/aedd4221f8c23509e8871cfe0413138d26ea193905139e2c3a051d9df71bc40c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3057a0535689e6d313977e3d91e994a6cf1d9415be1d2f2a91cadc00d30781f4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cc8b5ca09f172c335c78eb3bfa07084bdf4f0186fe2f85f7d9ecb164049b6a91.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8f41b690d1adc946975a0502d8c6a9299d4884a2011368538e80fb2f69e3451f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/83e1a1d86753efff461cc6fbeda6cb0f3073d79a22be0847ce56f65f4c0919ec.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/403ff106d405278576dc8c3aebe07aca29c2535fa7e73c557a54c8ec70718100.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aedd4221f8c23509e8871cfe0413138d26ea193905139e2c3a051d9df71bc40c.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"RPG",
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Build an Chinese fantasy sect, recruit disciples, and forge the ultimate squad for ascension! Are you ready to walk the path to immortality as a true Sect Master?",
+	"description": "+ Idle Gameplay: Enjoy a relaxing idle experience designed to help you unwind. Even while you are away, your sect keeps battling, growing stronger, and moving closer to ascension. \n\n+ Squad Building: Recruit from 16 playable characters. Each character has unique talents, classes, and skills. Bring in the disciples you need and freely build your own squad. \n\n+ Character Growth: Each character can choose one of six different cultivation paths. They can also practice different cultivation techniques to gain unique bonuses. Even characters of the same class can grow into completely different builds. \n\n+ Explore the World: Journey across the land, discover other sects and factions, and advance the story. Gather resources for personal cultivation and sect development. Encounter random events and uncover unexpected treasures. \n\n+ Sect Management: While exploring the world, you will also manage your own sect. Earn reputation and sect resources to upgrade and expand your home base. Build different sect facilities to continuously produce useful items. A powerful sect will help you go further on the path to immortality.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "722 MiB"
+	"size": "854 MiB"
 }

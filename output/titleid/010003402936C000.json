@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131596/8362b9c632964c662fdce19f9bdb55188a3defef1643aea6575d565b99072a41.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131596/d7c9f2f74cd7094a903d314242f6cc6c23d49f6218fddda7ae54ba244c52d59b",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8362b9c632964c662fdce19f9bdb55188a3defef1643aea6575d565b99072a41.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/34d65157d8cbe176883490c735c2a53a444f6051fa98df016887ee652e88a63d.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/9a700523d1394cb525b585d836934ed900f1327960fd9cef80826025e8309696.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/22da9638c97505208727ec8c3bd0fcfb412c49d1bac2527eb6632e5d4877f9e5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/28b738f1eea5df580e3e70445ff5903a34bb3906980378c994e4aff33bb80176.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/a12af41d2c5b4fcb68dda116d3ec8df4374fb18ea7cb5b034f9be555c3a7de5d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/2d988faa9ae31e4fcb4eeffb153c2f06aa1e490d76d9e8e60af602289f5ae02f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131596/8ead7ac4a7fe649dbb6d318594580e5d967bb04d2510bfaad2960d6bd3a2f37d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9a700523d1394cb525b585d836934ed900f1327960fd9cef80826025e8309696.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/22da9638c97505208727ec8c3bd0fcfb412c49d1bac2527eb6632e5d4877f9e5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28b738f1eea5df580e3e70445ff5903a34bb3906980378c994e4aff33bb80176.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a12af41d2c5b4fcb68dda116d3ec8df4374fb18ea7cb5b034f9be555c3a7de5d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2d988faa9ae31e4fcb4eeffb153c2f06aa1e490d76d9e8e60af602289f5ae02f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8ead7ac4a7fe649dbb6d318594580e5d967bb04d2510bfaad2960d6bd3a2f37d.jpg"
 	],
 	"releaseDate": 20260724,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action"
+	],
+	"intro": "Rain hell. Leave ash. Master the ultimate drone.",
+	"description": "Forget slow, methodical flight sims\u2014Drone Attack unadulterated, fast-paced aerial carnage. You\u2019re tossed into the digital cockpit of a heavily armed drone and tasked with one simple objective: absolute devastation. The controls are razor-sharp, letting you scream across the terrain, thread the needle through a storm of anti-air fire, and strike with lethal precision.\n\nBut what truly elevates the power fantasy is how incredibly heavy the destruction feels. Powered by gorgeous, impactful 3D graphics, every strafing run and missile strike lands with a satisfying, visceral crunch. It\u2019s loud, it\u2019s chaotic, and it\u2019s beautifully explosive.\n\nKEY FEATURES:\n\n-Fast-Paced Aerial Carnage: Master the flight mechanics of an agile combat drone. The combat demands aggressive speed and precision, letting you dodge, weave, and return fire without breaking a sweat.\n-Total Base Destruction: Leave nothing standing. Wipe out radar towers, SAM sites, and sprawling military compounds. Dropping a full missile payload sends stunning shockwaves through the battlefield, reducing towering bases to ash in seconds.\n-Visceral 3D Graphics: Experience the heat of battle with gorgeous visual effects. Every time your rotary cannons shred enemy armor, you'll feel it through highly detailed, physics-heavy explosions.\n-Deep Hangar Customization: Between white-knuckle sorties, hit the Hangar to cash in your hard-earned Command Points. Bolt on thicker armor, overclock your engines, and unlock weapon tiers that border on war crimes.\n-Tactical Resource Management: Aggression is rewarded, but carelessness gets you killed. Knowing exactly when to vent your weapon heat and when to unleash a lethal barrage is the difference between victory and becoming scrap metal.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "893 MiB"
 }

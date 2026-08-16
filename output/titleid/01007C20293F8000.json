@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131868/37d2e9306462c30864cf3d46b50455be2fb927541065d7d165cfff2b5489eb2e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131868/0d7dad17df05568e89b788f271582582187c948741e715feb472a46095604fdf",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37d2e9306462c30864cf3d46b50455be2fb927541065d7d165cfff2b5489eb2e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/eec5777d3ee5b4ab327d0f049027d498f22e13b03b132000949b42c9ded4467b.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/17c3b0cbd78abdff6e598986f683f9c2fd369d69f74e165e4f35da1653bdedf9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/c397ea7a319c9557c3cd7013ffa108b382bad5fbe5757f93a03f7c26417b6c1a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/5c7e164b8f361cd7ea2301e1c11a8e0238fb07b799857e37c86db97878ff77be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/8bff43951fbc71fe8febda492e9b6c6f1833dd858dc945990f8ddbed7a26d8ca.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/c4b1a1d54cd39ca42515d16256ad8e572ce9edfde85a65d2ad0a20f5b65f3d56.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131868/e60d18e486a489fdce8e83f56493b2653860b9cf700052a6bebfe80619918674.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/17c3b0cbd78abdff6e598986f683f9c2fd369d69f74e165e4f35da1653bdedf9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c397ea7a319c9557c3cd7013ffa108b382bad5fbe5757f93a03f7c26417b6c1a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5c7e164b8f361cd7ea2301e1c11a8e0238fb07b799857e37c86db97878ff77be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8bff43951fbc71fe8febda492e9b6c6f1833dd858dc945990f8ddbed7a26d8ca.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c4b1a1d54cd39ca42515d16256ad8e572ce9edfde85a65d2ad0a20f5b65f3d56.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e60d18e486a489fdce8e83f56493b2653860b9cf700052a6bebfe80619918674.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Study",
+		"Education",
+		"Adventure"
+	],
+	"intro": "A magical journey of kindness and discovery!",
+	"description": "In the world of Caelis, young unicorns receive a colorful coat pattern called a \"weave\" that grants them their magical gifts. When Posy is left completely plain on her Weave-Day, she sets off on a journey across the world to find where she belongs. Accompanied by her big-eared friend Tindle, she visits the six proud elemental keepers of Caelis. By using her unique talents of listening and kindness, Posy helps the guardians with their domains, ultimately uncovering a way to save the world's fading magic.\n\nFeatures:\n\u2022 Stunning Visuals: Beautifully presented with ultra-cute 3D animation style graphics.\n\u2022 Engaging Length: The story spans 10 chapters totaling more than 10,000 words, offering a rich and immersive reading experience.\n\u2022 Kid-Friendly Experience: It contains no ads or in-app purchases, ensuring a completely safe space for children.\n\u2022 Self-Paced Reading: The layout and design are ideal for children to read and enjoy the story at their own pace.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "349 MiB"

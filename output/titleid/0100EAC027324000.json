@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118643/43bbe326b368df6944d14d1d4f4166264870c8ccfade0238856e6fc7e556b167.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118643/950b7e563654649015d106476afa521f7a178fc6b4ad58dd692a25452d48fa3e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43bbe326b368df6944d14d1d4f4166264870c8ccfade0238856e6fc7e556b167.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8cc87764ef15fa86a7a12713b3a5f5477598327a5b8ffd85b280c3438b68dc7e.jpg",
 	"publisher": "Soedesco",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/bebcd4dfde4aa432c01a6332a7521bdb284401491f2b85187754c9c4bea84265.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/54b8e297d02544b5ff64d8107cbd67dde54d95f0b16c56a54c7446cd99268665.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/0a69cdc3ff1f45fb4c7ea4435a0edb37993b9f455efdf4fc4c2bb5155d694720.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/2d0dd2ffea187535754b6925674dc2fd78a9746af7037fdabe67083b88db6a41.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/c93585c157c59e97c55e94cdc2d58e67a1f9339409fb4577dbe4c4e3c7ec18f5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118643/a149d8bdbedeb4c0166bd6e86d24a6304393f1dc68584528fc66a144f561152c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bebcd4dfde4aa432c01a6332a7521bdb284401491f2b85187754c9c4bea84265.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/54b8e297d02544b5ff64d8107cbd67dde54d95f0b16c56a54c7446cd99268665.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0a69cdc3ff1f45fb4c7ea4435a0edb37993b9f455efdf4fc4c2bb5155d694720.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2d0dd2ffea187535754b6925674dc2fd78a9746af7037fdabe67083b88db6a41.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c93585c157c59e97c55e94cdc2d58e67a1f9339409fb4577dbe4c4e3c7ec18f5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a149d8bdbedeb4c0166bd6e86d24a6304393f1dc68584528fc66a144f561152c.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"RPG",
+		"Action",
+		"Adventure",
+		"Music"
+	],
+	"intro": "AereA is a music-themed Action RPG in which you play as one of Great Maestro Guido\u2019s disciples and explore Aezir",
+	"description": "The world needs you!\nAereA is a music-themed Action RPG in which you play as one of Great Maestro Guido\u2019s disciples and explore Aezir; a floating island that was broken into pieces. Your mission is to find and return the nine primordial instruments to restore balance and peace to the world. You have to find your way through all parts of the scattered islands; complete quests, solve puzzles, defeat bosses and discover the truth behind the islands. Will you be able to return the nine primordial instruments?\n\nFeatures\nEnjoy the beautifully hand-drawn music themed graphic style\nPlay as 4 different characters, each with their own unique set of abilities\nFight 9 unique bosses, inspired by a specific musical instruments \nSwitch to local co-op to form a team with up to 4 friends at any time",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.03 GiB"
 }

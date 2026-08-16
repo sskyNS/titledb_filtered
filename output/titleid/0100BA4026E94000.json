@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116851/316832b5a2c5f3d34b658274354e1d1f41f81e0d51d4d3eb8cfdf95e86f89b76.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116851/12a370005f72a57d1f11d6d03e9730f4a287597bfd6171e59d56c37e13705601",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/316832b5a2c5f3d34b658274354e1d1f41f81e0d51d4d3eb8cfdf95e86f89b76.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/54706954e3578326979186ca46898d782ea68f2b6d50ae3ca9d75c9ddf0e8c53.jpg",
 	"publisher": "KONAMI",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/b93b9850340a8b33ee54596666bb0b3fa7d65aae1b5648ac711dd89ef8390861.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/c411d0a2c14ce5e8e6b9e96d584ffbed9cdc59cb4361eec5d934366fca5b4ce4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/766174be414c717a592bf2a2627a3aaa588b448d951224685cdd59e442192a94.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/6bb103e9f8016bec416b6dc0bb95bbd35d9078ca241d218517542c74980f492e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/11d011ff26d1c3674931fd4e8067e6d730784429ad025bcba41a14cfb7f650f2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116851/7a387161a475070cd7a109f32420f223ba6a9eb2296568c5bba28ca9254f6d79.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b93b9850340a8b33ee54596666bb0b3fa7d65aae1b5648ac711dd89ef8390861.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c411d0a2c14ce5e8e6b9e96d584ffbed9cdc59cb4361eec5d934366fca5b4ce4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/766174be414c717a592bf2a2627a3aaa588b448d951224685cdd59e442192a94.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6bb103e9f8016bec416b6dc0bb95bbd35d9078ca241d218517542c74980f492e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/11d011ff26d1c3674931fd4e8067e6d730784429ad025bcba41a14cfb7f650f2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7a387161a475070cd7a109f32420f223ba6a9eb2296568c5bba28ca9254f6d79.jpg"
 	],
 	"releaseDate": 20261015,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Crimson Curse \u2014Will Your Fate Bloom in Despair or Salvation",
+	"description": "Medieval Paris, Where the Tolling Bells Herald the End\n1499. Paris is engulfed in flames as monstrous creatures suddenly emerge from the shadows.\nTrevor Belmont, the hero who defeated Dracula, ventures into the burning streets with his daughter, Rose Belmont. Armed with the legendary holy whip, the Vampire Killer, they hunt down the beasts bleeding from the looming castle.\n\nRose is soon swept up in the dark conspiracy that lurks beneath. Will she succeed in saving Paris from devastation?\n\nSatisfying Whip Action\nCastlevania's iconic whip action is more satisfying than ever!\nCrack your whip to move around freely like a trapeze artist!\nMaster the whip mechanics and be creative to pounce on your prey like a wolf in fast-paced combat!\n\nDiverse Bosses and the Arcana System\nFace-off against legendary bosses including Death, Medusa and Carmilla in addition to enigmatic new bosses such as Joan of Arc.\nOnce defeated, bosses are sealed into Rose's tarot cards, turning them into Arcana - use their skills to cast spells and obtain unique special actions\n\nCustomize Your Battle Style with Weapons and Relics\nCustomize Rose\u2019s battle style by using a variety of equipment, including weapons spanning seven distinct categories and Relics that trigger powerful effects through both offense and defense.\nCombine equipment you discover through exploration to create your own playstyle!\n\nIconic Castlevania Atmosphere, Reimagined in New Stages\nFrom iconic Gothic aesthetics to vivid, refined visuals, the game presents a fresh take on the world of Castlevania.\nExplore maps filled with both new features and familiar elements inspired by classic Castlevania titles.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Mild Suggestive Themes",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "2.86 GiB"
 }

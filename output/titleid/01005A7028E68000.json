@@ -1,21 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129788/0850f9127203efaed40a6038f46de1161cfac66f7ebf6a311701dad3ee0c0b8e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ca601eacb5364a379311ce71145155cc_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0850f9127203efaed40a6038f46de1161cfac66f7ebf6a311701dad3ee0c0b8e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/31fc2e6804db67bc8d2fb8e827c3ee72ba11248dbe364b23267ff27d34287868.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129788/03a78ebd75f41e2eed0dd5fc32b3ae3cf8fe572d573868abf7a4cfded1325dea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129788/6c60a11820a3e6fef70c9fd08022e7839eda65e65b42e96b4880d65b89f41b28.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129788/277e871de98369fd84d671ffa14303d07db986c1cfebd82e1a739b95c788c924.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129788/522e2fd03a89efbb77b098f258bc885b313db26e2ae0445d9ab4dfdad948dccd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/03a78ebd75f41e2eed0dd5fc32b3ae3cf8fe572d573868abf7a4cfded1325dea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6c60a11820a3e6fef70c9fd08022e7839eda65e65b42e96b4880d65b89f41b28.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/277e871de98369fd84d671ffa14303d07db986c1cfebd82e1a739b95c788c924.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/522e2fd03a89efbb77b098f258bc885b313db26e2ae0445d9ab4dfdad948dccd.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "A classical Solitaire game with a waifu twist. \nPlay classic Solitaire in a exciting, anime-inspired world full of anime waifus.",
+	"description": "This game combines timeless Solitaire gameplay with a peaceful anime presentation filled with soft colors and elegant designs.\n\nPlay classic Klondike Solitaire in 1-card or 3-card draw mode, focusing on clean moves, smart decisions, and a satisfying flow. Each completed game rewards you with score and experience, based on how efficiently you play.\n\nAs you gain experience, you level up and unlock cosmetic rewards. These include beautiful anime-style card skins, serene backgrounds inspired by cherry blossoms and temples, and stylish card backs. Every single card has multiple skins and can be customized individually.\n\nBefore each match, you can freely adjust your deck and table to match your mood. Whether you prefer soft pastel tones, detailed anime illustrations, or a more minimal look, every game feels personal and relaxing.\n\nWith no time pressure and a steady sense of progression, the game offers hours of soothing gameplay and a constantly growing collection of beautiful cards.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "788 MiB"
 }

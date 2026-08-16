@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110874/ed09770fc7f19fb814349ce56b06c93aa5806a9e6c6172f35c517cf85411da35.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e9b27db3bea8478092179e57e71f26e8_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ed09770fc7f19fb814349ce56b06c93aa5806a9e6c6172f35c517cf85411da35.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b8ca9eae7e28678332b4b27e2781ce2517c97087e802518618c428e3c170be1e.jpg",
 	"publisher": "Bandai Namco Entertainment",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/8207f62f2f9a170498c6eb17378fce47845621640614d1afcaa56295caa51bb9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/0d35267508a81cecb28bad75d2fc12355d1693277e20604d0755796029433714.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/6416876823379ffddeda894ecaa2d16edec7d0bbb2b9cd23808d14440edc59d8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/ace28f99baebd6ff78a5d69c225cd9661f8ee750aa1fa296d2a83ba072267b7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/79d5f5203b9b0ca581233da1deebd2f90eae9fa930dd0dd8bb4bb07acc2efa32.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110874/eb636033d1c89cddaf59db67bf3fb55433deed47530ebaece2d3fae97d414064.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8207f62f2f9a170498c6eb17378fce47845621640614d1afcaa56295caa51bb9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0d35267508a81cecb28bad75d2fc12355d1693277e20604d0755796029433714.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6416876823379ffddeda894ecaa2d16edec7d0bbb2b9cd23808d14440edc59d8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ace28f99baebd6ff78a5d69c225cd9661f8ee750aa1fa296d2a83ba072267b7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/79d5f5203b9b0ca581233da1deebd2f90eae9fa930dd0dd8bb4bb07acc2efa32.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eb636033d1c89cddaf59db67bf3fb55433deed47530ebaece2d3fae97d414064.jpg"
 	],
 	"releaseDate": 20261016,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG"
+	],
+	"intro": "From opposite skies, voices unite.",
+	"description": "Experience Tales of Eternia, remastered for the first time ever.\n\n\u2022 An Epic Journey with Two Worlds at Stake\nJourney to Eternia, a world split into two isolated realms, Inferia and Celestia.\nIn the remote Inferian village of Rasheans, Reid Hershel and his childhood friend Farah Oersted meet a mysterious girl named Meredy. During their journey to discover Meredy's origins, the group discovers that a collision called the \"Great Fall\" threatens both Inferia and Celesita.\nHarnessing the power of elemental spirits known as the Greater Craymels, Reid and his companions embark on an epic journey to save the two realms from catastrophe.\n\n\u2022 Exhilarating Battle Action with Speed and Freedom\nFeaturing the Aggressive Linear Motion Battle System (A-LMBS), which enables diverse Arte usage, continued combos, and coordination with each unique party member.\nExperience thrilling combat as you outmaneuver enemies and defeat them one after another with fast-paced, dynamic 2D battle action.\n\n\u2022 The Same Moving Experience, Now Easier to Play\nGameplay is better than ever with the quality-of-life features that have been added, including destination markers, the ability to disable enemy encounters, and high-speed mode during auto-battle.\nAdditionally, graphics and SFX can be toggled between modes, allowing you to experience the nostalgic atmosphere of the original game.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language",
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "5.20 GiB"
 }

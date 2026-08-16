@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125185/b82d4357a900769d574372d7304ec4ccfe02223dc84c4100ace2de44ecf5265b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/563a7012b65f476ead9daba8cd33df35_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b82d4357a900769d574372d7304ec4ccfe02223dc84c4100ace2de44ecf5265b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2ae6e98e582a2fd85f9fe495e463565f23f11051d8d0e52edd92eb3e151579cc.jpg",
 	"publisher": "NOSTRA GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/97393e1a2c53b379168a940d879fe82e2fdced7ce390dbd658271fe41ce817c5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/c7d010d80599e3d94089a2ff213dc8d7e84103afbacacc248a979768e81e1d30.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/5cd09cdfda77989b28a62036e777d6106709ebf070744f66157a754c5d99619d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/1384ccc7db5a030032cc55f9214837d6d90bdae240961225a26fa2343e1e7178.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/cddeb89ad374c137ec4e9b6bf781d6158ef72fddc8536b0d0748ee3be3fbaa4c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125185/d0e2fec39ae1e7c328bc71c946ca0dfcc4c7116c911ca8d45f2b5f9097d2d565.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/97393e1a2c53b379168a940d879fe82e2fdced7ce390dbd658271fe41ce817c5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c7d010d80599e3d94089a2ff213dc8d7e84103afbacacc248a979768e81e1d30.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5cd09cdfda77989b28a62036e777d6106709ebf070744f66157a754c5d99619d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1384ccc7db5a030032cc55f9214837d6d90bdae240961225a26fa2343e1e7178.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cddeb89ad374c137ec4e9b6bf781d6158ef72fddc8536b0d0748ee3be3fbaa4c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d0e2fec39ae1e7c328bc71c946ca0dfcc4c7116c911ca8d45f2b5f9097d2d565.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Simulation",
+		"Strategy"
+	],
+	"intro": "A crazy mix of action and puzzle solving.",
+	"description": "Analyze the playfield, find the best trajectory, pick the right time and go for a strike hit.  ",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "215 MiB"

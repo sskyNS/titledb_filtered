@@ -1,22 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127198/9a5fce7df44eaafe0ccbc765b008da384a5025051bef4770850e14e620523df1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127198/ad4620867627f67291a7c338069f8e72131fa6d3dba7bf9f4d16e4ea11137819",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a5fce7df44eaafe0ccbc765b008da384a5025051bef4770850e14e620523df1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c11eb0a3b33d6975d97d47d9d186b441526cadc3645f32660570b7d24ccdd52d.jpg",
 	"publisher": "Entalto Publishing",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/f8c8bc4d1a9a874973c54c96de81c3adac10ac0fd4a53bb9edc9d954b19148cb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/6c0f65d33ed6a9e9132cb270ceee585be5c1433aa219e11c2a3b09dc893d7a00.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/40318334a9e75ab7f4f3903935b7bef1b31c92cd6924ee5f74bfdfd53fdbbaa5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/04b6b78cd16a5b95d516a4060752055501db7d19630a7ce847643631719f46f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/4e82ff1bd1acbfab02f123abc1906bcb48c81a04585f51a686e100a29f0cb8bb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127198/5b41f016959c0c880688f70c748fbb694b1e09e8fbdf37076fd0ecec2c328ea8.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f8c8bc4d1a9a874973c54c96de81c3adac10ac0fd4a53bb9edc9d954b19148cb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6c0f65d33ed6a9e9132cb270ceee585be5c1433aa219e11c2a3b09dc893d7a00.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/40318334a9e75ab7f4f3903935b7bef1b31c92cd6924ee5f74bfdfd53fdbbaa5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/04b6b78cd16a5b95d516a4060752055501db7d19630a7ce847643631719f46f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4e82ff1bd1acbfab02f123abc1906bcb48c81a04585f51a686e100a29f0cb8bb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5b41f016959c0c880688f70c748fbb694b1e09e8fbdf37076fd0ecec2c328ea8.jpg"
 	],
 	"releaseDate": 20260715,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Lifestyle",
+		"Arcade",
+		"Music"
+	],
+	"intro": "A decoration-focused caf\u00e9 game where you bake and brew... TO \nTHE BEAT!",
+	"description": "Have you ever wanted to escape from the stress of urban life? \nNom Nom: Cozy Forest Caf\u00e9 is a cozy and relaxing decoration \nand rhythm game where you manage a caf\u00e9 and befriend cute \nanimals. \n \n\u25a0 Low stress, non confrontational, relaxing experience. \n\u25a0 Manage your own cafeteria Customize your place with \nfurniture, decorations, lamps, wallpaper, and flooring. Take \npictures of your favourite corners, dishes, and customers \nand share them on the caf\u00e9's website. \n\u25a0 Adorable customers Forge friendships and learn about \ntheir favourite recipes and decorations. \n\u25a0 Learn new recipes... To the beat! Prepare snacks and \ndrinks, from waffles to sodas, to the rhythm of upbeat tunes \nand colourful animations. \n\u25a0 Unleash your creativity! Practice your skills whenever \nyou like. Experiment with new ingredient combinations and \nsell them in your own vending machine to earn rewards! \n\u25a0 Use your own custom designs! You can customize \ndifferent objects, as well as your dishes! Paint signs, \nposters and even T-shirts for your customers.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.01 GiB"

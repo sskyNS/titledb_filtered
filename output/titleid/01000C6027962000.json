@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121430/e0fd6580545dc8eca080e4089077738772080bb497475d03496ee34c2fc2c67a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c1c65bcd6b6c421da12fa198323e8488_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0fd6580545dc8eca080e4089077738772080bb497475d03496ee34c2fc2c67a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c05fa0bda8a66c3b86eca897f0399db3c0900a922e90efde74a64f9d56129ac.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/9757383072da69267da8128dbfc6c1f303916c944fd8e123330c2d87ab02a515.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/374cb35b228addc626bcfeb0905029a3ebddfa600f191a71e656b9e1cf90377c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/fac5e3bc7a01acc87c867e6bae881721dc17912dad42c98562416abd802deec5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/fc670854972f5660a1deceaa5426d1469281565a4c339dd56525cd2a2116f3d2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/803bbc0e1d629fe34b7d6c177034ac9dfb1acbaf0bc87b380db3ac350030e65b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121430/e8bdbb26259928442f274e62a2b0bdace319bcf444db9bb046535771e79f60d7.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9757383072da69267da8128dbfc6c1f303916c944fd8e123330c2d87ab02a515.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/374cb35b228addc626bcfeb0905029a3ebddfa600f191a71e656b9e1cf90377c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fac5e3bc7a01acc87c867e6bae881721dc17912dad42c98562416abd802deec5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fc670854972f5660a1deceaa5426d1469281565a4c339dd56525cd2a2116f3d2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/803bbc0e1d629fe34b7d6c177034ac9dfb1acbaf0bc87b380db3ac350030e65b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8bdbb26259928442f274e62a2b0bdace319bcf444db9bb046535771e79f60d7.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Communication",
+		"Video"
+	],
+	"intro": "Seven sins. Seven boys. None of them willing to make it easy.\nAre you ready to earn their trust?",
+	"description": "A fantasy realm ruled by emotion and excess, where seven boys each carry the weight of a sin. \nLust. Pride. Wrath. Envy. Gluttony. Sloth. Greed. \n\nThey are extremes of what desire and obsession can look like, beautiful, intense, and entirely consumed by what they are.\n\nThrough dialogue and choices, you step into their world and try to reach them. \n\nOne is provocative and always in control. One is cold, elegant, and almost impossible to impress. One burns with anger and keeps everyone at arm's length. Another watches your every move with quiet, desperate jealousy.\n\nEach one is a different challenge. Each one is a different kind of fantasy.\n\nSeven territories divide their world, shaped by the sin that rules them. Lavish palaces, pleasure-soaked gardens, dim and restless corridors where nothing is what it seems. The deeper you go, the harder it is to leave.\n\n\nFeatures:\n\n\u25cf SEVEN UNFORGETTABLE CHARACTERS: Seven boys, seven sins, seven completely different ways to get under your skin. None of them easy. All of them worth it.\n\n\u25cf DIALOGUE CHOICES THAT MATTER: Every response shifts the dynamic. Say the wrong thing and you lose ground. Get it right and something real starts to open up.\n\n\u25cf CHARACTER AFFINITY SYSTEM: Progressive dates and intimate scenes unlock as your bond grows. The harder the conquest, the more meaningful the connection.\n\n\u25cf EXCLUSIVE GALLERY IMAGES: Beautiful illustrations unlock as relationships deepen. Each boy has his own story hidden inside.\n\n\u25cf MULTIPLE ENDINGS: Your choices lead somewhere unique with each character. Not every path ends in love, but all of them are worth playing.\n\n\u25cf 30 DAYS TO CONQUER THEM: The clock is running. Every day you waste is a route that closes, a sin that wins. You do not have forever.\n\n\nSeven sins. Seven chances at something unexpected.\nWhich one will you get through to?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "993 MiB"
 }

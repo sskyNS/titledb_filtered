@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125496/465657e86c53fe154d05e3a019b9e4258fc6c480ffc48b6ffa5a722ba0de22d5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7e25f2b0698c4b5e8a18ac8213b74ed2_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/465657e86c53fe154d05e3a019b9e4258fc6c480ffc48b6ffa5a722ba0de22d5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7c344de6de01542e0fc0f62f6cfd1396d4d43ae1a2f7aa79f19d59e92ed23721.jpg",
 	"publisher": "Mudita Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125496/b75b48676b20512bb3977381052e6bb621a2cb0c9d7063be0ba162d56797444f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125496/68c79c5d4355396cfdb178d56d489db32364bca3bc882c8d71f8057c7f93442c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125496/de23f2e47812b8208e2e6e54c960fe591f78b16a571dbd73c9ef8b4e1d623a71.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125496/051c6334e1ef92276aa58e235c4f7eba1d95fe68d1bdcb4a664e0c6d341b881a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125496/457a8df4ce63f548370ede060e7a59c362b68af391f45dddc0b8f75dac8630ed.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b75b48676b20512bb3977381052e6bb621a2cb0c9d7063be0ba162d56797444f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/68c79c5d4355396cfdb178d56d489db32364bca3bc882c8d71f8057c7f93442c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/de23f2e47812b8208e2e6e54c960fe591f78b16a571dbd73c9ef8b4e1d623a71.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/051c6334e1ef92276aa58e235c4f7eba1d95fe68d1bdcb4a664e0c6d341b881a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/457a8df4ce63f548370ede060e7a59c362b68af391f45dddc0b8f75dac8630ed.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Other"
+	],
+	"intro": "In Barda, it won't be your sword that saves you. It's how you pack your bag. But hunger, fatigue and madness will take up space! ",
+	"description": "In our innovative inventory system, every problem directly affects your backpack. Hunger, fatigue, madness. These are just some of the things that can happen during a run. How can you keep your bag tidy in those conditions?\n\nSimply drag and drop the best object you have on a challenge to complete it and move on to the next zone. If you don't have anything suitable, you can always use your own two hands and a dash of courage!\n\nWill you be able to scatter your grandfather\u2019s ashes at the summit of the Mountain?\n\nComplete missions to unlock options in the Explorer's Tree and keep trying to reach the summit of the Mountain until you manage to scatter your deceased grandfather's ashes there.",
+	"languages": [
+		"en",
+		"fr",
+		"pt",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "646 MiB"
 }

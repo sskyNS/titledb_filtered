@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000092966/4ae889ed7fe10e1c955f6b64a09afe4058466aee35eb2b7bbe7a6d7c14a17b62.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000092966/9e20389380b418fe018aafe135e2ba69a92ed6f1a15f97df4ee6beab4a137d2c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ae889ed7fe10e1c955f6b64a09afe4058466aee35eb2b7bbe7a6d7c14a17b62.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c75f6d0cbe821a9d4395a57c6b41a601a958e8950a15d9511e4c5b3bf74b7f7c.jpg",
 	"publisher": "Team KL Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/792dfbd040b718769ae25d19c2863ad8028af0be64d0e3b3a48e544c913ca09e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/77b659f579cf48e005ceb3840e9a0a8475cf8f9ae96d8f522451f61d67636e21.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/2d09f92e1ebd4c055e45c83215dd658d8676cf2ece896ec64e757c815b12596e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/2f7b1d81f73d04fa5306c4a88a75e8ee6461ed88b9b21a9bf812e42ffe2c7898.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/99d3163c8476d1ff4f8aee4d54e4af2a3e8b4b43ef6946d66673224adbd9a027.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000092966/e422863ab67f1dd550a471ea6d0ef714876807ec4b930ec8b34a68177f546ec1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/792dfbd040b718769ae25d19c2863ad8028af0be64d0e3b3a48e544c913ca09e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/77b659f579cf48e005ceb3840e9a0a8475cf8f9ae96d8f522451f61d67636e21.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2d09f92e1ebd4c055e45c83215dd658d8676cf2ece896ec64e757c815b12596e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2f7b1d81f73d04fa5306c4a88a75e8ee6461ed88b9b21a9bf812e42ffe2c7898.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/99d3163c8476d1ff4f8aee4d54e4af2a3e8b4b43ef6946d66673224adbd9a027.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e422863ab67f1dd550a471ea6d0ef714876807ec4b930ec8b34a68177f546ec1.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": null,
+	"description": "In Apocalypse ? No ! you play a survivor accompanied by his faithful dog in an apocalyptic world, survive against the creatures, help the characters of this world and face the Apocalypse.\n\n\n--- A world in ruins ---\n\nDiscover many varied maps: from a peaceful forest, through survivor camps to ruined cities, these maps are just waiting to be explored.\n\n\n--- Complete the game's 40 quests! ---\n\nMany non-player characters populate these lands, some of them need your help. Help them by providing them with resources, protecting them from tough enemies, and more!\n\n\n--- A world divided into 4 ---\n\nThese lands are governed by 4 main factions:\n\n- The democratic regime of the army\n- The rebels of the regime\n- The independent survivors\n- The religious fanatics\n\n\n--- What are the objectives of the game? ---\n\nIn Apocalypse? No! your main objective is to survive against the creatures that want to kill you. When you start a game, you appear with only a knife an a gun. As you progress in your game, you will unlock additional weapons as well as objects allowing you to defend yourself. During your exploration, you will meet many NPCs, some of whom will need your help. Throughout the game, you will have the opportunity to educate your dog: teach him to follow you, to defend you or to look for treasures.\n\n\n--- Survive against the creatures of the region. ---\n\nThe apocalypse has caused the appearance of many creatures! Zombies, slimes, hiders, didirocks, as well as radioactive creatures like giant insects or radioactive animals. Also find passive creatures like wolves, rats, chickens, rabbits and more!\n\n---Survive with your companion ---\nYou can teach your companions to defend against zombies, to search for treasures or even to defend positions!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "53 MiB"
+	"size": "99 MiB"
 }

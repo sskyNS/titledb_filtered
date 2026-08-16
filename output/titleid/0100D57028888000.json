@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128660/922590cb1dfcaac1e2e2ab59152f217d78cf9df6a22d26d026e131980d36644c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/496efe2e0cd94e8891475e14ccbbbfc8_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/922590cb1dfcaac1e2e2ab59152f217d78cf9df6a22d26d026e131980d36644c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/266a9f76c9de239612d56f9ae8ce3e019b85d3302c2b1bf738a7118be6be924f.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/fd8c31e96d1e6e61e19cda0750963ab406e517ef55ac6791a41bccfec85f29e9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/32332953b631fbd35346cc1a51b9051301651214e76f9473fec602d655cd21d6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/f0cb275fedc16855d591174f9223ec37ed5e05cf0a2715e3834d6ed9cd5757ef.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/ec638f96546272fc579f037be8888de405a16e46c98a13b311196625fad32b4d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/6f3af4c271b469e09c8f74c2ed32524e9cbeac0aafc2be687c83c1abc0a9ad15.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128660/730eb998ca9f863b8bbbb05ecfacdff1d69d789cf0a5064bf0a041910cbf721e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fd8c31e96d1e6e61e19cda0750963ab406e517ef55ac6791a41bccfec85f29e9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/32332953b631fbd35346cc1a51b9051301651214e76f9473fec602d655cd21d6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f0cb275fedc16855d591174f9223ec37ed5e05cf0a2715e3834d6ed9cd5757ef.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ec638f96546272fc579f037be8888de405a16e46c98a13b311196625fad32b4d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6f3af4c271b469e09c8f74c2ed32524e9cbeac0aafc2be687c83c1abc0a9ad15.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/730eb998ca9f863b8bbbb05ecfacdff1d69d789cf0a5064bf0a041910cbf721e.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Communication",
+		"Utility"
+	],
+	"intro": "The roster's stacked. One spot left. Win it, and win them.\nThink you've got what it takes to make the cut?",
+	"description": "The summer roster has one spot left, and every player on the sand wants it just as bad as you do. Off the court, the real competition starts.\n\nOne reads every move you make and expects the same back. One only warms up once you've earned it. Another flirts hard until the score gets close, then turns cold and competitive without warning. And the captain trusts no one who hasn't proven they belong.\n\nSay the right thing and the tension breaks. Say the wrong thing and you're benched. \n\nThirty days until the season opener, and every day you waste, someone else closes the gap.\n\n\nFeatures:\n\n\u25cf A ROSTER FULL OF COMPETITIVE PERSONALITIES: A deep bench, and every player is a completely different game to win. Some want a rival. Some want a partner. All of them want proof.\n\n\u25cf DIALOGUE CHOICES THAT MATTER: Every response you give shifts the dynamic. Push too hard and you lose ground. Read the room right and the walls start coming down.\n\n\u25cf CHARACTER AFFINITY SYSTEM: Build real trust through practices, downtime, and late-night talks after the lights go out. The harder she is to reach, the more it means when she lets you in.\n\n\u25cf EXCLUSIVE GALLERY IMAGES: Unlock stunning illustrations as each relationship deepens. Every player has her own story waiting past the final point.\n\n\u25cf MULTIPLE ENDINGS: Your run through the season is yours alone. Some routes end in romance. Some end with you watching from the bench.\n\n\u25cf 30 DAYS TO MAKE THE TEAM: The season opener is locked in and the clock doesn't wait. Every wasted day is a spot someone else claims instead of you.\n\n\nOne roster. One summer. Only one of you makes the team and it might not be you.\n\nWho are you willing to fight for?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "1.04 GiB"
 }

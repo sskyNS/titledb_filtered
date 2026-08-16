@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130034/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130034/ed4e4393cf0bffbde4387799004bf52b5e92a6f9c5ac8acae4fd0fbacb4e9417",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf73d8ad76896ec25d4a69379e6e7dd5aea515ba67dec8311c60e16ffac66cc1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3af04858a472998b5405c68230bfc580211c947d75b0bdb7935d56ebdd9a735.jpg",
 	"publisher": "Trailmark Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130034/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5dfcc44e6fb2d67c1ff4e9b6d33daab82c5c77c29c6c3d328f834e463a8cfbe8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/231e08496ebb5adfef18d490d64ca957f1dad1c339eb91207a8477842c81917d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/268ce5526862b5b36b83e640bb62b0a7c94bb6996a5073835f3a62dfe4181445.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/85ecb933b360542d0b9e69073fa2475446bbda0f79de1186d41940aa928896a0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8c54515b9c1f1151d4e442eb0a5952aa27bc0145cd3b4620abbb28194e26380d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/391d033979de055cf77267d74340130d9650c163539a8270f91399f76c5b58f8.jpg"
 	],
 	"releaseDate": 20260918,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Arcade Beat 'Em Up Action in the World of AMC's The Walking Dead",
+	"description": "FIGHT THE DEAD. SURVIVE THE STREETS.\n\nThe Walking Dead: Streets of Survival challenges you to intense arcade brawling in the unforgiving world of AMC\u2019s The Walking Dead.\n\nPlay as iconic survivors Rick Grimes, Daryl Dixon, and Michonne while fighting through walker-infested tunnels, devastated settlements, and hostile strongholds packed with explosive encounters. Face Alexandria\u2019s most ruthless foes, the Saviors led by Negan, along with overwhelming waves of Walkers as you unleash crushing combos, signature weapon attacks, and devastating finishers in a relentless battle for survival.\n\nINSPIRED BY THE STORY YOU KNOW. \nBased on the events of the All Out War storyline, fight through a campaign that reimagines the Saviors conflict that features walkers, threats, and surprises pulled from across the world of AMC\u2019s The Walking Dead. You\u2019ll explore familiar environments from the show - including the Sanctuary, Hilltop, Alexandria \u2013 enhanced by dynamic set pieces, environmental hazards, and intense, story-driven moments.\n\nICONIC SURVIVORS. ICONIC WEAPONS.\nStep into the boots of legendary characters from The Walking Dead, each with a unique fighting style, stats, and signature abilities inspired by the series. Rick\u2019s magnum, Michonne\u2019s katana, and Daryl\u2019s trusty crossbow are all ready for battle.\n\nFEATURES:\n\u2022        Hard-Hitting Arcade Beat \u2019Em Up Combat\nUse brutal melee abilities, crowd-clearing ranged attacks, or a mix of the two in fast-paced skirmishes. Enjoy responsive, crisp, and satisfying fighting gameplay while exploring the apocalypse.\n\n\u2022        Overwhelming Walker Swarms & Ruthless Enemies\nBattle through creeping armies of the undead and dangerous members of The Saviors that force you to adapt, assess threats, and fight for every inch of ground.\n\n\u2022        Face Iconic Bosses\nTake on powerful, fan-favorite walkers like Winslow, the Well Walker, and more. The Saviors provide their own challenges as you throw down with Negan and Simon in intense, multi-phase boss battles that test your skill, strategy, and survival instincts.\n\n\u2022        Replayable Arcade Challenge\nMaster each character\u2019s moveset and tackle multiple difficulty levels in an experience built for repeat runs and escalating challenges. Or jump in with an optional Easy Mode for casual play.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Strong Language",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "2.13 GiB"
 }

@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117549/b6e4050cf40a002dd727457707bd111da3b4d4a511ca20fb81ce493ec8c5f00a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/52e15a0549a24db58a31a1d925f63155_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6e4050cf40a002dd727457707bd111da3b4d4a511ca20fb81ce493ec8c5f00a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d65fb6fa084a6b4d7ffa328bf74b04808713175cccbcb873317c7a2f0781a28e.jpg",
 	"publisher": "Ratalaika Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/99aa4b50009899653b63de0d460bcad2cec03026f2503d67770d388de14d5906.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/22e4edfece90533f1fdce68bfe99eec882c9c0efc52fd7aaf412c3be721e5b37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/095cabfbcdacfda44fdcebc637a725b0c43e46ab07bca6ee5ae5a6ec9c616503.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/745af2f75610e0e01c7b94fb05e0b8d5bdca6aece1b9d0b5fe527f2346679ff9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/9b4b2d5dccf0550a85628fc6fd7e16712bd487e495d166f9696aa3b66edcd7b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117549/a7f7c18af2f8eb0f192afb73eebf2f837885fd46c656b8a865e9fc303f11d509.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/99aa4b50009899653b63de0d460bcad2cec03026f2503d67770d388de14d5906.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/22e4edfece90533f1fdce68bfe99eec882c9c0efc52fd7aaf412c3be721e5b37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/095cabfbcdacfda44fdcebc637a725b0c43e46ab07bca6ee5ae5a6ec9c616503.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/745af2f75610e0e01c7b94fb05e0b8d5bdca6aece1b9d0b5fe527f2346679ff9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9b4b2d5dccf0550a85628fc6fd7e16712bd487e495d166f9696aa3b66edcd7b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a7f7c18af2f8eb0f192afb73eebf2f837885fd46c656b8a865e9fc303f11d509.jpg"
 	],
 	"releaseDate": 20260710,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Be a police officer in this retro-styled RPG",
+	"description": "Detective Allison Bennett on a quest for clean up her city, Strange Meadows, after the recent crime spree that has thrown the community into chaos.\n\nNotorious gang leader Athena been terrorizing the residents and set her sights on taking over the city for herself. Will you play as a good cop or a bad cop, by arresting criminals or simply taking them out?\n\nYour choices matter in this story-rich law enforcement RPG.\n\n\nFeatures\n* Be a cop and conduct arrests\n* Classic RPG gameplay\n* Thousands of lines of dialog \n* Multiple endings\n* Gameboy Color aesthetic",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 17,
+	"ratingContent": [
+		"Strong Language"
+	],
 	"dlcs": [],
 	"size": "67 MiB"
 }

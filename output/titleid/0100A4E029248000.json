@@ -1,20 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131168/15b4c53572977ab6b50d89474977ec5991949d1ad43462b9984847e7a8843ccc.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/95efca780049435d856d0417b32f8a53_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15b4c53572977ab6b50d89474977ec5991949d1ad43462b9984847e7a8843ccc.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/26dc6ff793e2b332510a4b67edf8be784fbb45f51fc4ebd3987c045f8ac16590.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131168/693aff70f520d6e73d1d92191d42e9bbbc69da80b415a7d9478f3fa56b18c755.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131168/1d948eb74dd4adaf1641906e991f3fc94bf1fdbf6024aef58a5e18f82f16b997.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131168/c0e500f45aae56a5d6fe12ea9dfe5aee165c90d5ab534d71d5bb49a117e6d2df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131168/31cbf455513b12b1eb1c18dac01656d7a27c7d32bfefba00afd2a3fb436ab298.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/693aff70f520d6e73d1d92191d42e9bbbc69da80b415a7d9478f3fa56b18c755.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1d948eb74dd4adaf1641906e991f3fc94bf1fdbf6024aef58a5e18f82f16b997.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0e500f45aae56a5d6fe12ea9dfe5aee165c90d5ab534d71d5bb49a117e6d2df.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/31cbf455513b12b1eb1c18dac01656d7a27c7d32bfefba00afd2a3fb436ab298.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Board Game",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Find the winning move\nSolve checkmate puzzles\nTrain your chess thinking",
+	"description": "Look at the chessboard and find the one move that delivers checkmate.\n\nCheck each piece, the opponent king\u2019s escape routes, and the way the board is defended. Then choose the move that ends the position in a single turn.\n\nHow to play:\n\u30fbStudy the whole board\n\u30fbThink of the move that creates checkmate\n\u30fbChoose your answer and test your reading\n\nEach puzzle can be played in a short session, making it easy to enjoy as quick brain training during a break.\n\nRecommended for:\n\u30fbPlayers who want to practice chess tactics\n\u30fbPeople looking for short puzzle challenges\n\u30fbFans of logic, focus, and forward thinking\n\u30fbAnyone who enjoys solving problems alone at their own pace\n\nRead the board, find the key move, and aim for a clean checkmate.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "177 MiB"

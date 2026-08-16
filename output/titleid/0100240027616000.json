@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120008/aa21b6b60341e814aaa4fe0b9e961fa8fcf073fcd28867710736ceef4b12892b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120008/a02682fdca4f4bcb81e88694d15b031979c3c4b0711a9fd4d6444469491322ed",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa21b6b60341e814aaa4fe0b9e961fa8fcf073fcd28867710736ceef4b12892b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/fad462ed9892c8815d018ae5a3eab31802b6bba2ea57c2c8d0b258ecb8553764.jpg",
 	"publisher": "QubicGames",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/82d0e80244431271bf85c9725e85bd7512cf50dd0ad4c5437b12c06a95bc488e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/e3125e4918f4886fbc120d02efd1798a365f21c033c3ff69b34255b2f72756b0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/ea5774631beb70d7a3adf969c789137beef1ff5aae510e890f90af612d9f2251.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/f4c3e0c85edbbb7bb7239388b39f7e175f3ca0e597277de87a762d745d0e2099.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/f3e29a3250f4359588efefd091a913f15f42ff5c04761c93585607889d2912e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120008/1173416f40b6dc0f44094f9a625ed78bd065bd51c40ed9300c81cc42cf06ea01.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/82d0e80244431271bf85c9725e85bd7512cf50dd0ad4c5437b12c06a95bc488e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e3125e4918f4886fbc120d02efd1798a365f21c033c3ff69b34255b2f72756b0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ea5774631beb70d7a3adf969c789137beef1ff5aae510e890f90af612d9f2251.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f4c3e0c85edbbb7bb7239388b39f7e175f3ca0e597277de87a762d745d0e2099.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f3e29a3250f4359588efefd091a913f15f42ff5c04761c93585607889d2912e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1173416f40b6dc0f44094f9a625ed78bd065bd51c40ed9300c81cc42cf06ea01.jpg"
 	],
 	"releaseDate": 20260703,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Other",
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Unleash your fireball power and destroy your way to legendary mastery!",
+	"description": "FROM ONE FIREBALL TO UNSTOPPABLE POWER\nAim your shot, release the flame, and blast through anything that stands in your path! In The Legend Of Fireball, you begin as a young fireball fighter training in an ordinary room, breaking simple objects to build your strength. Home appliances, computers, motorcycles, cars, massive buildings - every target brings you closer to true fireball mastery.\n\nBURN THROUGH BIGGER AND TOUGHER TARGETS\nGrow stronger, upgrade your stats, and take on bigger, tougher, and crazier targets. Boost your Fireball Power, Stamina, Stamina Recovery, and more to turn every shot into pure destruction. When you are ready, enter special challenges with a target and a time limit. Destroy the required number of objects before the countdown ends to earn rewards and unlock the next stage!\n\nMORE POWER WITH EVERY UPGRADE\nGather powerful fireballs, stylish costumes, ancient relics, and loyal pets. Upgrade fireballs to increase your Fireball Power, Gold Acquisition, and Exp Acquisition. Strengthen costumes to improve your Stamina and Recovery. Refine relics for mighty stat bonuses that make every blast even more devastating.\n\nCOMMAND YOUR PET COMPANIONS\nCreate a team of Light and Dark Family pets with active and passive skills. Bring up to 3 pets into action and let them attack alongside you while boosting your power. Their skills add another layer of strength to every stage, turning your fireball training into a true team effort.\n\nFEATURES:\n\u2022 Fireball Action - Aim, charge, and launch explosive fireball attacks!\n\u2022 Destruction Progression - Start with simple targets, then work your way up to vehicles and massive buildings\n\u2022 Deep Upgrades - Upgrade your character, fireballs, costumes, relics, and pets to keep growing stronger\n\u2022 Stylish Costumes - Wear costumes to boost your Stamina and Stamina Recovery\n\u2022 Powerful Relics - Collect relics to gain stat boosts for Fireball Power, Stamina, Gold, Exp, and others\n\u2022 Pet Companions - Build a team of Light and Dark Family pets with active and passive skills\n\u2022 Timed Challenges - Destroy the required number of targets before the countdown ends to unlock the next stage\n\u2022 Daily Missions and Achievements - Complete tasks and claim extra rewards\n\u2022 Special Events - Break the Gold Safe for coins and enter the World Championship to win gems\n\u2022 Addictive Progression - Keep upgrading, unlocking, and destroying bigger targets\n\nEnd as the legend who can destroy anything!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol Reference",
+		"In-Game Purchases (Includes Random Items)"
+	],
 	"dlcs": [],
 	"size": "749 MiB"
 }

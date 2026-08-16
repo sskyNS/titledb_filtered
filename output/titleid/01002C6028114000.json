@@ -1,22 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124544/23743540d9aa35f932713531601acec8923873389b4c77f263b209937853a303.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124544/5290dc9d7bb8d1bd8af6ccadba45f22a6054f9a89103c54984979523e59947b6",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23743540d9aa35f932713531601acec8923873389b4c77f263b209937853a303.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a00fdc127561b03373ac42b4f4b1436dcc7ac90be6c975e1151de8b94e4e8f4d.jpg",
 	"publisher": "Individual",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124544/7c46d9b66360dd91671a42e53f360fa0f1f1c260e780470dd1f18ee106595b0c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124544/e7c6cc71dfc3d0fcbf5ac4c83b20caf721ecfda5e33f9f024d1db4602cf97a47.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124544/f67f0a31e154dc14f7cc41a94bc06aba800d1fb11cc35880a49cd213713c4fbb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124544/e2b46e0e5b503d98273b18dd154da26b02badea8920b8c5f825fd710a219dca5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124544/721e994dccc935bb284b479390fcd777996dabad95ed04417b872a0654e85c60.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7c46d9b66360dd91671a42e53f360fa0f1f1c260e780470dd1f18ee106595b0c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e7c6cc71dfc3d0fcbf5ac4c83b20caf721ecfda5e33f9f024d1db4602cf97a47.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f67f0a31e154dc14f7cc41a94bc06aba800d1fb11cc35880a49cd213713c4fbb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e2b46e0e5b503d98273b18dd154da26b02badea8920b8c5f825fd710a219dca5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/721e994dccc935bb284b479390fcd777996dabad95ed04417b872a0654e85c60.jpg"
 	],
 	"releaseDate": 20260814,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Fighting",
+		"Strategy"
+	],
+	"intro": "Recruit Warriors.\nBuild Your Legion.\nSurvive Every Battle.",
+	"description": "Lead a small group of survivors and build the ultimate legion in a world where every battle makes your army stronger. Defeat enemies, recruit new warriors, and expand your forces as you fight to become the strongest commander on the battlefield.\n\n*Build Your Legion\nStart with only a handful of fighters and grow into an unstoppable army. Recruit survivors after every victory, strengthen your squad, and unlock powerful new units to dominate the battlefield.\n*Survive Intense Battles\nFace relentless waves of enemies and dangerous rival legions. Every encounter requires quick decisions, smart movement, and tactical positioning. Only the strongest commanders will survive.\n*Customize Your Fighters\nUnlock a variety of skins and visual upgrades to create a unique-looking legion. Personalize your army and stand out while leading your warriors into battle.\n\nBuild your army, survive against overwhelming odds, and become the legendary commander of Survival Legion.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"th"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "120 MiB"
 }

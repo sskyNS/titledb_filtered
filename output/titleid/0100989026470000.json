@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113183/d5f54615dde4b740b3de71645b58dd92af5077fb59a0b76b18c25a9d073073e6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113183/9268f103b8b54d0f009e4e2e497b33047da3d2fb315c31a3ce7280750d64b96b",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5f54615dde4b740b3de71645b58dd92af5077fb59a0b76b18c25a9d073073e6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2574c69cc6fd515efece7ce7308c31c156c04f8032f37db672a2834893ff15e4.jpg",
 	"publisher": "eastasiasoft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/d5ed940f511ee5345c6483dcd1abf9037bad604a9b67a0ecd6fb0ff086f0a69d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/7fa8c00f6be62d362a95a210476a46727c86b7e1754600236b998d3633a5faa3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/0b96ae0d333975474759be7775a38c22070c766051ab175c94f31d5f235bde12.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/f80a5caf624fdfdfd96e2e668704124eda414efba3eb0dc74588d2ee02e1b4b0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/142536b0c0a4b1a6f9399bf9ea4e69d9566b450d7a7ca1386e56d1a8616a53fb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113183/acc8394f4c86be7afb4dacef1d1659cb3d8abf304989ae19b54de8a48a5bc50e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d5ed940f511ee5345c6483dcd1abf9037bad604a9b67a0ecd6fb0ff086f0a69d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7fa8c00f6be62d362a95a210476a46727c86b7e1754600236b998d3633a5faa3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b96ae0d333975474759be7775a38c22070c766051ab175c94f31d5f235bde12.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f80a5caf624fdfdfd96e2e668704124eda414efba3eb0dc74588d2ee02e1b4b0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/142536b0c0a4b1a6f9399bf9ea4e69d9566b450d7a7ca1386e56d1a8616a53fb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/acc8394f4c86be7afb4dacef1d1659cb3d8abf304989ae19b54de8a48a5bc50e.jpg"
 	],
 	"releaseDate": 20260729,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Help Lia overcome her nightmares in a side-scrolling adventure across emotionally themed stages!",
+	"description": "Wake Up, Lia! is a narrative-driven 2D precision platformer set within nightmares shaped by bullying. As Lia, you will have to overcome deadly traps across 20 handcrafted stages to recover lost memories and fragments of your identity.\n\nEmbark on a heartfelt journey of trauma, resilience and rebirth, blending emotional storytelling with challenging gameplay and an atmospheric soundtrack! Play solo or team up with a friend in local co-op!\n\n\u2022 Guide a young heroine through 20 nightmarish stages.\n\u2022 Run and leap with precision as you avoid deadly traps and pitfalls.\n\u2022 Choose from multiple difficulties for your desired challenge.\n\u2022 Recover memories to help Lia overcome emotional challenges.\n\u2022 Play solo or team up with a friend in local co-op.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"zh"
+	],
+	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "267 MiB"
 }

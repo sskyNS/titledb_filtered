@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129092/47273b0536bdc7c8c5c86dbe4cb719ff137ed3d97ce95f1f3848e365fe11a131.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2606728970ef48a88620160a10058435_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47273b0536bdc7c8c5c86dbe4cb719ff137ed3d97ce95f1f3848e365fe11a131.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ea995e93d466e8e76e3ad3f43b88dd0eafcecf60d9d9c3aa91c9033cc88701b.jpg",
 	"publisher": "SAT-BOX",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/20a0cb76330e00712bbd85ba4bc0e48f165db69eac6d43a6938f1df0c67f8796.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/ab7b90439327014f4cb68f53c6f550fa3c9431623b3296ec4e622b51fb88590b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/d673ab0037d19d9437fb5f357db228c935629692c8515634e18d78a6a97483ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/1087d67f91caaec2f32b6f013e87c18f40bda33be9673e4031b248dbe3ab9f15.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/28a63ddf3478bfc01daf9fdb844c2be3765638d650b46aef64e5f2946a7def6b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129092/2312f26cdeeca77fa72a98a9aa8b2babe2ed81e3d5219d2c984b5ef474544cb4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/20a0cb76330e00712bbd85ba4bc0e48f165db69eac6d43a6938f1df0c67f8796.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ab7b90439327014f4cb68f53c6f550fa3c9431623b3296ec4e622b51fb88590b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d673ab0037d19d9437fb5f357db228c935629692c8515634e18d78a6a97483ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1087d67f91caaec2f32b6f013e87c18f40bda33be9673e4031b248dbe3ab9f15.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28a63ddf3478bfc01daf9fdb844c2be3765638d650b46aef64e5f2946a7def6b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2312f26cdeeca77fa72a98a9aa8b2babe2ed81e3d5219d2c984b5ef474544cb4.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Party",
+		"Action",
+		"Communication",
+		"Racing"
+	],
+	"intro": "Blast off and let the chaos begin!\nGet ready for a red-hot, hilarious summer showdown!",
+	"description": "Dive into 10 unique and easy-to-play party games filled with summer fun!\nLaunch rocket fireworks at your rivals, slip and slide as somen noodles, and swipe fresh-grilled BBQ before anyone else can grab it!\n\nChallenge CPU opponents in single-player, or battle it out with family and friends in a group of up to 4 players!\nAll 10 games also support online multiplayer, so you can take on players from around the world in head-to-head matches!\n\n[Free Mode]\nPick your favorite game and jump right in!\n\n[Party Mode]\nChoose a series of games and play them back-to-back!\nCompete for the highest total score to become the champion!\n\n[Online Mode]\nHop into Quick Matches to challenge players from around the world right away!\nCreate your own room and enjoy matches with friends, no matter the distance!\n\n[Included Minigames]\n\u30fbFire! Rocket Fireworks\n\u30fbSomen Slide\n\u30fbFloat Ring Battlers\n\u30fbFan Blast!\n\u30fbBBQ Grab Battle\n\u30fbFrozen Treat Tower\n\u30fbBeetle Battle\n\u30fbTrick Surfing\n\u30fbSandal Toss\n\u30fbSmack the Mosquitoes!",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Blood",
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "691 MiB"
 }

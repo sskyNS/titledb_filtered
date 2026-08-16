@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131761/340f6fdbd24d0a201542bd3ae6820b5669dc3e44294e08a9c10231e08cdbc92a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cbb3d6a6b4fd4de7b12c2ee0608a67d4_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/340f6fdbd24d0a201542bd3ae6820b5669dc3e44294e08a9c10231e08cdbc92a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ba79913f786c64f2c021af88e3692b3d28acedee07b6441958127bef21579df.jpg",
 	"publisher": "Max Interactive Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/356909cc9c28d87317c88af45239a37cc593907ad2d8f19074991affdbe0704f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/c77150df783bf0f419fb13a81a2fa83488d98d715341ff145d66267db4b95f7c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/0fc383d951855523f92787637427c0b40a2ca1fa3eb9f273af36e37e70b18422.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/44e6c4b0643c108d1be1d8a066fb9e3365b0a946ab1e3862446138d7fc40c15a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/351d194d2c6f4242fc78e5f461c98fe60c39603f7dd3cb46a608d07a54dc373f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131761/2c6fe9be10fb23cdc4671a530c2b3486da7c8dbf6f5e132421b77f10cafe02cc.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/356909cc9c28d87317c88af45239a37cc593907ad2d8f19074991affdbe0704f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c77150df783bf0f419fb13a81a2fa83488d98d715341ff145d66267db4b95f7c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0fc383d951855523f92787637427c0b40a2ca1fa3eb9f273af36e37e70b18422.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/44e6c4b0643c108d1be1d8a066fb9e3365b0a946ab1e3862446138d7fc40c15a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/351d194d2c6f4242fc78e5f461c98fe60c39603f7dd3cb46a608d07a54dc373f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2c6fe9be10fb23cdc4671a530c2b3486da7c8dbf6f5e132421b77f10cafe02cc.jpg"
 	],
 	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Puzzle",
+		"Training",
+		"Study"
+	],
+	"intro": "Build words, score points, and master the hive.",
+	"description": "Word Hive is a word puzzle game where each puzzle gives you seven letters: six outer letters and one required center letter. Create as many words as possible using the available letters, but remember\u2014every word must include the center letter.\n\nLetters may be reused, and each word must contain at least four letters. Longer words earn more points, while special words that use all seven letters award bonus points.\n\nProgress through the ranks as your score increases, challenge yourself to uncover every hidden word, and become the ultimate word master.\n\nChallenge your mind, discover new words, expand your vocabulary, and enjoy a rewarding word puzzle experience with every level.\n\nWord Hive uses an American English dictionary.\n\nFeatures:\n\u2022 Play through more than 2,000 word puzzle levels\n\u2022 Create words using seven letters, including the required center letter\n\u2022 Discover pangrams by finding words that use all seven letters\n\u2022 Learn and discover new English words as you play\n\u2022 Compete with other players through the online leaderboard\n\u2022 Resume your last game and continue from where you left off\n\u2022 Supports the Nintendo Switch\u2122 Pro Controller\n\u2022 Play in Handheld Mode, Tabletop Mode, or TV Mode\n\u2022 Spin the daily wheel to earn coins and redeem them for hints whenever you get stuck\n\u2022 Switch between light and dark themes\n\u2022 Enjoy professional sound effects and atmospheric background music",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "240 MiB"
+	"size": "311 MiB"
 }

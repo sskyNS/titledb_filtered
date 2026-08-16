@@ -1,22 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121984/107684d1d63932df682c7509ebb3b45bac20a2640a00e05f013a43239afdaba8.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c476362b83c54a4db4b67a4020e8eb58_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/107684d1d63932df682c7509ebb3b45bac20a2640a00e05f013a43239afdaba8.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/433b42845a79dfded150a56dc90f4afbcae60a56b2afca929093532d59ddaa17.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/4881f601cd0148851196acd74562dadcf3a53d82616bf1f4f6a2c791df1e0dd2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/ae09299ff35b722a8016fbbf24ac2916feae3247c75b227a6274225c99dce319.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/1b5e3d1b255ef34d19cda5699c4b347f53ce8906efcb23a180cdd07391286cf2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/5e091f17b943e18dc8f0dd57a4eab6842f9a9cd6fb5e76624f2ba85a303b261b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/cae27a0cedf12ca0cf853ef230ae59fea1fc8b101ce3d4b604002940bc31c219.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121984/49bb49e89e75b68dc3662e209e80f77a94d00e4519876698079b3eb66d93898c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4881f601cd0148851196acd74562dadcf3a53d82616bf1f4f6a2c791df1e0dd2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ae09299ff35b722a8016fbbf24ac2916feae3247c75b227a6274225c99dce319.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1b5e3d1b255ef34d19cda5699c4b347f53ce8906efcb23a180cdd07391286cf2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5e091f17b943e18dc8f0dd57a4eab6842f9a9cd6fb5e76624f2ba85a303b261b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cae27a0cedf12ca0cf853ef230ae59fea1fc8b101ce3d4b604002940bc31c219.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49bb49e89e75b68dc3662e209e80f77a94d00e4519876698079b3eb66d93898c.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Puzzle"
+	],
+	"intro": "Adorable animal puzzles where toddlers learn, explore & grow.",
+	"description": "Cute Animals is a joyful collection of 12 educational mini-games designed especially for toddlers and preschoolers. Through colorful, hand-drawn worlds filled with charming animal characters, children develop essential early learning skills \u2014 all through play.\n\nEach mini-game targets a different developmental area. Children sort geometric shapes by matching them to the correct category, guided by a friendly monkey in a sunlit forest. They count groups of flowers to compare quantities, helped along by a cheerful yak and zebra on a sunny meadow. In another game, they identify animals by their close-up textures \u2014 matching a patch of fur or feathers to the right creature. Kids also explore seasonal nature scenes, tap on caterpillars hiding in tree hollows, and identify which animals share the same markings or patterns.\n\nThe game features no in-game text, making it universally accessible to children of any language background. Gameplay is entirely intuitive \u2014 toddlers simply tap and drag, and the game responds with delightful animations and satisfying sounds. Multiple difficulty levels ensure the experience grows with your child, keeping them challenged without ever feeling frustrated.\n\nCute Animals combines excellent design with genuine educational value. Natural animal sounds, upbeat cheerful music, and vibrant seasonal environments \u2014 from autumn forests to sunny savannas \u2014 create an immersive world that kids will want to return to again and again. Developed by Inlogic Games, Cute Animals is rated PEGI 3 and safe for even the youngest players.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "288 MiB"

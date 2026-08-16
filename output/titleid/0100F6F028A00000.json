@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127861/87e2a5500bbb899ee4aea70c3b559ca70c1f07418b28cfeacaad7895cd64f679.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127861/01870f56f7024739803511bb5d3778950d77daf00eacf1e02352816ed2b494e6",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87e2a5500bbb899ee4aea70c3b559ca70c1f07418b28cfeacaad7895cd64f679.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6dc94f0d017ac7526f591f0d84c6aa082db2bffcdb051997f020d45a3be7c68c.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/160f5f9ff51f846aa905d25094afbb3203ea20a0280a36806eb3a6f4dff124af.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/198ad3a786a38ed3f3194ea93abc5dd19305f791c4014331719edc047f892d5b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/9a4aea3bbb6927f0edd582fc29779b1f56683d5dbf2ba32904d11de811ab43f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/60d8e777ca1361f4830a78a501140447622248e6a069c7ad7a99a56fb6880cc2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/b1ef6b168b6afa1da1348bbf456fad8d3523cd9344c9140c9ebba376d9f29389.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127861/8eeac465859e782762a8a38161453b1125d4faa53e4c7d1a1bf92ff0028fd66f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/160f5f9ff51f846aa905d25094afbb3203ea20a0280a36806eb3a6f4dff124af.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/198ad3a786a38ed3f3194ea93abc5dd19305f791c4014331719edc047f892d5b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9a4aea3bbb6927f0edd582fc29779b1f56683d5dbf2ba32904d11de811ab43f1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/60d8e777ca1361f4830a78a501140447622248e6a069c7ad7a99a56fb6880cc2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b1ef6b168b6afa1da1348bbf456fad8d3523cd9344c9140c9ebba376d9f29389.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8eeac465859e782762a8a38161453b1125d4faa53e4c7d1a1bf92ff0028fd66f.jpg"
 	],
 	"releaseDate": 20260715,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Untangle the chaos in Knot My Job!",
+	"description": "Knot My Job is a 100% touch-controlled puzzle game exclusive to the handheld mode of your Nintendo Switch\u2122. Use your fingers directly on the screen to unplug, move and plug cables into their correct places. Help the neighbors and bring order to the chaos!\n\nFeatures:\n\u2022 100% touch control: Play naturally by dragging cables directly with your fingers.\n\u2022 50 brain-teasing levels: Overcome 50 unique puzzles with a perfect difficulty curve for quick sessions.\n\u2022 Colorful visuals: Enjoy clean, relaxing and highly intuitive 3D graphics.\n\u2022 A charming story: Accompany a funny technician and his dog through delightful cutscenes.\n\nGet your fingers ready and prove there is no knot you can't handle!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "257 MiB"

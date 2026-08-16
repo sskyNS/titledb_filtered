@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123604/45f247dc9f87f185e2f3a5beb0cdd23d0cdfb31037fa10916cbfcd07be7ea84e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123604/d491608ce482b3a31497c96aa28dd2cbeac7b347047c68928823c96093781f81",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/45f247dc9f87f185e2f3a5beb0cdd23d0cdfb31037fa10916cbfcd07be7ea84e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a91ef6da09bfd5ea0380b8b79cb1b21eadb601fd54dcdd48132d9f805733f119.jpg",
 	"publisher": "Cat Play",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/918d4ddbc3136bd6da8875707c72541dbf7688edb58506cd164359e385351053.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/78ed6ad9c258d83a30a233dcf5cf9e1211f9a0b3ce243d4cc743eea14053d656.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/6d20c847ffaf9f3f680ca92093a209349f160568b3cfd67d9a15233079b7ef15.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/5740a5b77f4b422649798ea8feaace8c8fe0d9dd1ed5020f10d006f393c7a8b4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/7664a64600448320a9999444057fcc053f6966f62c273d3dbc3c1448afe23b2b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123604/2dbc9966abdc4347d2a95810ea57400534f724037352d8ec79e6a29d16695d1c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/918d4ddbc3136bd6da8875707c72541dbf7688edb58506cd164359e385351053.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/78ed6ad9c258d83a30a233dcf5cf9e1211f9a0b3ce243d4cc743eea14053d656.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d20c847ffaf9f3f680ca92093a209349f160568b3cfd67d9a15233079b7ef15.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5740a5b77f4b422649798ea8feaace8c8fe0d9dd1ed5020f10d006f393c7a8b4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7664a64600448320a9999444057fcc053f6966f62c273d3dbc3c1448afe23b2b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2dbc9966abdc4347d2a95810ea57400534f724037352d8ec79e6a29d16695d1c.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter",
+		"Strategy",
+		"Action",
+		"Other"
+	],
+	"intro": null,
+	"description": "\"Protean fox\" is a bullet-hell shooting game that combines relaxation and challenge. In the game, players take on the role of an adorable spirit fox, using firearms, magical artifacts, and spells to battle various monsters across diverse worlds. Along the way, they can meet more pet companions and search for the lost Spirit Fox Fire!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "797 MiB"
 }

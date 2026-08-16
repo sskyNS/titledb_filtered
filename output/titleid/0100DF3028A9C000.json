@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128148/559d98522370f4514a9d0338ee741f8ee200c160d069493765c19ecb9b562ed5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/845028d40d044e4087087f7a4338ffd8_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/559d98522370f4514a9d0338ee741f8ee200c160d069493765c19ecb9b562ed5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/49c594343dee2dbf52f9e086ed4b48fded765c6b8b19d4c2c4ddab08a3fb8195.jpg",
 	"publisher": "D4 Enterprise",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/3eb95a62d9291d4ad4fb0508c23e62b387b98876837e4aee51ccfaf118b4d57b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/9fe06036e2ce57c0038cd77cb4b9ee9fce565fbbd624cf435adde93888e3fecb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/f225dfbeea03a96656c3a58df31196443204885deca069a14c1ef28f544e4952.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/1ace01c7cc524bcd884933badfb75070268bb3ccfb5cacab1e24aed8509bd2df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/501ae8cdf1965d8e9e17480c1411ec1a6dc7186fbcff06edaacab8a31a31a381.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128148/a22e3aab7a844bdea4c35f5da6fda24259f24e8837f486f195d5349bf42bcaa3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3eb95a62d9291d4ad4fb0508c23e62b387b98876837e4aee51ccfaf118b4d57b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9fe06036e2ce57c0038cd77cb4b9ee9fce565fbbd624cf435adde93888e3fecb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f225dfbeea03a96656c3a58df31196443204885deca069a14c1ef28f544e4952.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1ace01c7cc524bcd884933badfb75070268bb3ccfb5cacab1e24aed8509bd2df.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/501ae8cdf1965d8e9e17480c1411ec1a6dc7186fbcff06edaacab8a31a31a381.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a22e3aab7a844bdea4c35f5da6fda24259f24e8837f486f195d5349bf42bcaa3.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"RPG"
+	],
+	"intro": "Nihon Falcom\u2019s classic Action RPG returns in \"2.0\"! Slay the three-headed dragon to retrieve the four crowns.",
+	"description": "Released by Nihon Falcom in 1984, this is a seminal action RPG. Players become a lone warrior on a quest to slay a three-headed dragon and recover four crowns.\n\nYour journey begins by hunting for a sword. Aside from your blade, you can only equip one item. To survive, strategically cycle through a limited inventory: the \"\"Cross\"\" to ward off monsters, the \"\"Ring\"\" to push walls, the \"\"Key\"\" to unlock chests, and the \"\"Power Stone\"\" to boost strength at home. \"\"Coins\"\" (to increase HP) and \"\"Magic Pots\"\" (to replenish mana) can be carried in unlimited quantities.\n\nDefeating enemies yields experience to unlock a variety of spells: \"\"KICK\"\" to strike by shoving walls, \"\"BREAK\"\" to demolish obstacles, \"\"FLY\"\" to transform into a bird and fly, and \"\"FREEZE\"\" to stop enemies. These magical abilities give you a vital edge. Armed with your sword, magic, and skills, venture deep into monster territory. Will you safely bring all four crowns back home?\n\nThis edition (Version 2.0) features a rebalanced, accessible experience. It introduces quality-of-life enhancements: the Cross remains effective on the ground, monster-spawning graves vanish after slaying the dragon, and the screen flashes red when near death. However, to challenge veterans, experience from defeating monsters is halved, ensuring signature difficulty remains intact.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "43 MiB"
+	"size": "68 MiB"
 }

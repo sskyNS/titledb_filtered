@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000080833/1894c70908d321be82200a6b211c4373ffd126cc05b19c6533df9e8069fdd453.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000080833/e753d2218b4e5f95ab76a9e602b186a197f504585d09d5a8f28a0ce2236fb117",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1894c70908d321be82200a6b211c4373ffd126cc05b19c6533df9e8069fdd453.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e9ae7a62390e3612cc95f516ca70d83514f711017bf5bb78100e2bece03cf7e5.jpg",
 	"publisher": "Aspyr",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/d2da6b25ea7902b7ae1afd639dcc8b9fedc63de6efc31e9c3c67f03590cb91cd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/0a12b0845b94e11a40be1c7d27380b7481e5d1e9e1183ca8cf2e5ebd6e45946a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/49214b39e82b9062a976de6525ac842f0e9017d35c46c0b253580a7a18f6c245.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/0627c2e812fac34ce8730e9b761cf7d3bee05941ea183c4f0273d1478bad1d2e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/79fb4ad29a4571f1bd7671284dd46ca61c324643314279531f699c3b75a6f751.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080833/87ab8025e93396086ab8d75d89bd5d18f8e38bfb578ec69db4398228cf4f8614.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d2da6b25ea7902b7ae1afd639dcc8b9fedc63de6efc31e9c3c67f03590cb91cd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0a12b0845b94e11a40be1c7d27380b7481e5d1e9e1183ca8cf2e5ebd6e45946a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49214b39e82b9062a976de6525ac842f0e9017d35c46c0b253580a7a18f6c245.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0627c2e812fac34ce8730e9b761cf7d3bee05941ea183c4f0273d1478bad1d2e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/79fb4ad29a4571f1bd7671284dd46ca61c324643314279531f699c3b75a6f751.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/87ab8025e93396086ab8d75d89bd5d18f8e38bfb578ec69db4398228cf4f8614.jpg"
 	],
 	"releaseDate": 20260811,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Form Your Own Fellowship. It\u2019s Time for War!",
+	"description": "A Shadow rises in the North. Step into a darker, grittier Middle-earth where war rages beyond the Fellowship\u2019s path. The Lord of the Rings: War in the North\u2122 - Legacy Edition expands Tolkien\u2019s epic legendarium, delving into the brutal, untold story of Aganda\u00fbr, a Black N\u00famen\u00f3rean and servant of Sauron who has rallied an immense force in the ruins of Fornost. While Frodo and Samwise embark on their journey to Mount Doom, a new Fellowship must rise and defend the North. Let this be the hour when we draw swords together!\n\nChoose Your Orc-Bane \u2013 Seamlessly hot-swap between three uniquely skilled characters.\nEradan: D\u00fanedain Ranger\u2013Stealth and precision with bows and swords\nAndriel: Elven Loremaster\u2013Magical support with healing and area-of-effect spells\nFarin: Dwarven Champion\u2013Tank-like durability and devastating melee attacks\n\nCo-op Fellowship \u2013 Play with up to 2 friends online. The survival of your Fellowship and all of Middle-earth depends upon your uniquely skilled heroes working together. Fight together or die alone!\n\nDeep RPG Progression \u2013 Customize your hero with unique skills, abilities, and gear. Collect powerful weapons and armor to shape your playstyle.\n\nCommand a Great Eagle \u2013 Call upon Beleram, a mighty Great Eagle, to strike from the skies and turn the tide of battle.\n\nIconic Cameos & Locations \u2013 Encounter familiar faces like Aragorn, Gandalf, and Elrond as you journey through lore-rich locations including the Elven sanctuaries of Rivendell and L\u00f3rien, the daunting heights of The Lonely Mountain, and the fog-laden paths of Mirkwood.\n\nDarker, Grittier Middle-earth \u2013 Experience the brutal reality of war with mature storytelling, blood-soaked battlefields, and the desperate fight to defend the North against Sauron\u2019s advancing armies.\n\nA World Full of Peril \u2013 The world is gnawed by nameless things. Face ruthless Orcs, monstrous Trolls, deadly Wargs, spectral Barrow-wights, and the dark sorcery of Aganda\u00fbr\u2019s forces in epic battles across Middle-earth. Don\u2019t be hasty\u2014Aganda\u00fbr commands even greater terrors, summoning Fell Beasts and Creatures of Shadow to his aid.\n\nForth, and Fear No Darkness! What Say You?!",
+	"languages": [
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"pl",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Intense Violence",
+		"Users Interact"
+	],
 	"dlcs": [],
 	"size": "17.59 GiB"
 }

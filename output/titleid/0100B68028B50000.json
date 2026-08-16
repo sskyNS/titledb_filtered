@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128489/fd9efb13619121beb1efe596faf173769c84b3db71f51d261162433481a8532d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c7374b34193146c5996b1c5a56910f70_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd9efb13619121beb1efe596faf173769c84b3db71f51d261162433481a8532d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6f03693ebe4683a413773678adc2de52916e146b0bceb5519f9bf9e05b0eaa27.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128489/8ff17a46fac27e0699b94e5b7551c72a423d8766a5f424106d48be35876ab101.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128489/57364dfcc8c002f28a74f3fa65c4014441c87fec0c81e4ac56f20e48a01e61b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128489/d25931c5daf2e816aa0341e8479ebf7f4bd9ee1de479797f1253be7535c1bba7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128489/ee5052f0d5ad062b7531960589f4e658040f4a72882e2459637173e49d386e70.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8ff17a46fac27e0699b94e5b7551c72a423d8766a5f424106d48be35876ab101.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/57364dfcc8c002f28a74f3fa65c4014441c87fec0c81e4ac56f20e48a01e61b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d25931c5daf2e816aa0341e8479ebf7f4bd9ee1de479797f1253be7535c1bba7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee5052f0d5ad062b7531960589f4e658040f4a72882e2459637173e49d386e70.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Study",
+		"Education",
+		"Training",
+		"Party"
+	],
+	"intro": "What Does Space Smell Like?!\nBecome a Space Expert Through Fun Quizzes",
+	"description": "Discover surprising facts about space through fun and engaging quiz challenges!\n\n\u30fbWhich planet rotates the fastest?\n\u30fbWhat existed before the Sun was born?\n\u30fbWhat does outer space smell like?\n\nLearn fascinating space trivia that you\u2019ll be excited to share with friends.\n\nComplete all the quizzes and earn your place as a true space expert!\n\nThe game also includes a helpful Hint feature, making it enjoyable for players of all knowledge levels.\n\nLooking for a fun and easy way to learn about space in your spare time? This game is a great place to start.\n\nRecommended for people who:\n\u30fbLove space and astronomy\n\u30fbWant to expand their knowledge\n\u30fbEnjoy testing themselves\n\u30fbLike brain-training games while passing the time\n\u30fbDream of becoming an astronaut\n\n\u203bThis game is designed to be played on the Nintendo Switch\u2122 in vertical orientation.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "310 MiB"

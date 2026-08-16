@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128429/49c43ca057d349f57ed7da3ebc34aa803bf7bd5b6eee95508e6b5e35e3d3657f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128429/dd5ae8d26fdf999d37b99c37ad9f4652b5136659eb3aeb55bcac37d3a0f24caf",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49c43ca057d349f57ed7da3ebc34aa803bf7bd5b6eee95508e6b5e35e3d3657f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c74678b8cb61710ad5e90eaacc207ec7d09d33de7cf788517d64a8862706f32.jpg",
 	"publisher": "Entity3",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128429/d5fe632fb5a3ad59c8daaff69b58e75a68617e83ba42f9aec16fd5dc0d46ef37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128429/59203ac37d8700369280b5d0ff8c3bdbca54470dbfc1dde3dfbcb12f5f029acf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128429/d656b14294983d9bbc0b2a17af6729e456dbc69a10e0f392c8765cb8c92d9e8f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128429/305e3084cc228f6789ffef6cf0d1ed177f8121fb02cadbb1d985ddccff95f9ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128429/02c875c566640d88e3dffa04723d232c08d36327e1e7cf22c6eb94b8d79896e4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d5fe632fb5a3ad59c8daaff69b58e75a68617e83ba42f9aec16fd5dc0d46ef37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/59203ac37d8700369280b5d0ff8c3bdbca54470dbfc1dde3dfbcb12f5f029acf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d656b14294983d9bbc0b2a17af6729e456dbc69a10e0f392c8765cb8c92d9e8f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/305e3084cc228f6789ffef6cf0d1ed177f8121fb02cadbb1d985ddccff95f9ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/02c875c566640d88e3dffa04723d232c08d36327e1e7cf22c6eb94b8d79896e4.jpg"
 	],
 	"releaseDate": 20260725,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Platformer"
+	],
+	"intro": "Run Fast Blast Everything",
+	"description": "Charge down endless action-packed tracks in a fast-paced hyper casual runner shooter where every second counts. Blast through waves of enemies using dual guns while constantly sprinting forward, moving side to side to avoid danger, jumping over obstacles, and ducking under deadly hazards.\n\nEach run lasts around 30 to 40 seconds and delivers nonstop arcade action. Enemies block your path and fire back, forcing you to react quickly and shoot accurately to survive. Break through walls by unloading enough bullets to destroy them before impact, and stay alert for dangerous traps including spinning spikes, saw blades, and rotating obstacles designed to stop your run.\n\nAs the challenge increases, use the coins earned during gameplay to upgrade your fire rate, shooting distance, and reload timing to become stronger and push further into harder stages. Unlock new character skins and powerful weapon designs to customize your style while taking on increasingly intense runs.\n\nEasy to pick up and hard to put down, this endless runner shooter combines fast reflex gameplay with satisfying upgrades and nonstop action.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "311 MiB"
 }

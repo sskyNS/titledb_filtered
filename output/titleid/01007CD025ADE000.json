@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000107510/63e453f6737e5b053464cc95fbe615444b7b07bc4ab9f54849d70f712080acc1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000107510/c901e7748eb0f2f6bf616e7f09e559b7639322c1e0b6e2c800595433ab741ee8",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63e453f6737e5b053464cc95fbe615444b7b07bc4ab9f54849d70f712080acc1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e448a921880273af194262309da14ffe68b8d9191417892907de2834754ce001.jpg",
 	"publisher": "Devin Santi",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/f950ee0656a455ab03b936286fe9aadb8e8b63a92533b483e427bed016f656aa.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/e4ce71f409fa0bfac387cc94b5a7d0b9bc902cf428993a4aee2e9228b1f5b17b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/f69503d95b76b125fcc47508d7e54aaa0f5b9371fc84447935d66c7a3419ea91.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/a1eaf3ba697585a8bea6a7e9bf2b3714c4f3e9bf55a26930d5ce0faf67440fa3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/c9a1d7d63e4378f4a91b3427bf0fccb07b1a453bc699f5f5606cfe901d9753b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107510/f4729bd3aeb3315b67b1a5f2717968021c5dffa05fe9f8609837e4c33660a3ca.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f950ee0656a455ab03b936286fe9aadb8e8b63a92533b483e427bed016f656aa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e4ce71f409fa0bfac387cc94b5a7d0b9bc902cf428993a4aee2e9228b1f5b17b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f69503d95b76b125fcc47508d7e54aaa0f5b9371fc84447935d66c7a3419ea91.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a1eaf3ba697585a8bea6a7e9bf2b3714c4f3e9bf55a26930d5ce0faf67440fa3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c9a1d7d63e4378f4a91b3427bf0fccb07b1a453bc699f5f5606cfe901d9753b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f4729bd3aeb3315b67b1a5f2717968021c5dffa05fe9f8609837e4c33660a3ca.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action"
+	],
+	"intro": "Mr. Sleepy Man is up way past his bedtime and out of control! This sandbox adventure is filled with comical hijinks, outrageous characters, and platforming action!",
+	"description": "In Mr. Sleepy Man, you play as a sleepy guy who's up way past his bedtime and out of control!\n\nThe citizens of Bedtime Town don\u2019t stand a chance! Make a mess of everything you find and turn the entire town against you!\nMr. Sleepy Man features a fully expressive 3D platformer moveset. Jump, glide, and dive your way through interconnected levels that encourage exploration and experimentation.\n\nInteractivity is key! You can pick up and play with every item you find. You\u2019ll need to use the environment to your advantage if you want to create chaos and find every secret this game has to offer!\nYour actions will have consequences! NPCs will remember how you've treated them. Friendly faces won't last long when you're up to no good, so be wise! \n\nBedtime Town's cast of outrageous characters have their own independent logic. These aren't copy + paste NPCs. Each one of these characters responds in a different way that reflects their own personality!\nMr. Sleepy Man features an interconnected world filled with secrets for the player to explore. With over 350 objectives to complete (including collectables), you'll easily get lost finding every nook and cranny this game has to offer.\nWith a fully original soundtrack composed and performed by the developer, Mr. Sleepy Man delivers a soundscape that blends nostalgic homages to classic 3D platformers with the raw, melodic edge of early 2000s alternative rock.\n\nList of features:\n- A one-of-a-kind soundtrack written and performed by the developer. \n- Over 350 objectives to complete! (Including collectables)\n- Chaos simulator gameplay!\n- Immersive environments, unhinged characters, and interactive NPCs.\n- Fluid character movement!\n- SLEEP BUTTON! Go to sleep at any time!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Crude Humor"
+	],
 	"dlcs": [],
 	"size": "2.70 GiB"
 }

@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126796/5a3232fd13a9aca6ecaa17325070e7804d15ebea9123d434cca5c19ac25c527b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/22633bc4796f441dadd4dd314012f3e2_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a3232fd13a9aca6ecaa17325070e7804d15ebea9123d434cca5c19ac25c527b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ef0e80140300ae7cd7fa78e75f04b9d6b6377bebf6c8543a65275f3bb41f2ea2.jpg",
 	"publisher": "Eclipse Interactive",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/a96e56e292d2daf5494cd0ad551605a39d4caef437511df3a3ef21f6c6a43472.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/86ab41bd47f0fe77b3063dde4cfd59a69e7e6cbaf7287e8a43486e3e2cfab290.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/3f540be798f57c4dea791b387b631456e91a8593e848f3aa0864f182b3dce5c9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/b353b2aeef6156bce499586b9af0da3b88884d1b304bd6876adeb34c07d9760d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/d1bf9ac7fee42ee14500ac6d776ac7b675a568f70ac0ac4fd4f54a08fd22386a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126796/b31c2d47f5a859ac6c065a827b405da2c1d95bfc9fbf2663c097d340df4afef1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a96e56e292d2daf5494cd0ad551605a39d4caef437511df3a3ef21f6c6a43472.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/86ab41bd47f0fe77b3063dde4cfd59a69e7e6cbaf7287e8a43486e3e2cfab290.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3f540be798f57c4dea791b387b631456e91a8593e848f3aa0864f182b3dce5c9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b353b2aeef6156bce499586b9af0da3b88884d1b304bd6876adeb34c07d9760d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d1bf9ac7fee42ee14500ac6d776ac7b675a568f70ac0ac4fd4f54a08fd22386a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b31c2d47f5a859ac6c065a827b405da2c1d95bfc9fbf2663c097d340df4afef1.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Arcade",
+		"Platformer"
+	],
+	"intro": "Take to the skies, deliver with care, and connect a peaceful world one package at a time.",
+	"description": "Become a cheerful delivery bird and explore a colorful archipelago filled with charming villages, friendly characters, and countless deliveries waiting to be completed.\n\nFly freely between beautiful islands, collect letters, parcels, and special cargo, then deliver them safely to homes across the world. Every successful delivery rewards you with coins that can be used to upgrade your equipment and unlock new possibilities.\n\nCustomize your delivery cart with stronger wheels that allow you to transport heavier packages, then enhance them with powerful badges that provide unique bonuses such as increased delivery rewards, faster progression, and improved earnings.\n\nMaster dynamic delivery challenges by flying through speed boost rings to maintain momentum, improve your routes, and complete deliveries as quickly as possible.\n\nDiscover new islands, meet memorable villagers, improve your delivery business, and become the greatest courier the skies have ever known.\n\nFeatures\n\n\u2022 Explore a colorful open world made of beautiful floating islands.\n\u2022 Deliver letters, parcels, and valuable cargo.\n\u2022 Upgrade your cart with stronger wheels to carry heavier deliveries.\n\u2022 Equip special badges that provide unique gameplay bonuses.\n\u2022 Master boost ring challenges for faster deliveries.\n\u2022 Earn coins, unlock upgrades, and expand your delivery business.\n\u2022 Relaxing gameplay with charming cartoon-inspired visuals.\n\u2022 Easy to learn, satisfying to master.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "871 MiB"

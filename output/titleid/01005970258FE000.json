@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000106964/85dd178d12cc437afcb20bf5902b5de1375c564c8266c940b76f6520cd5ad21f.jpg",
-	"iconUrl": "",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/57412c2ecfaaee6dcb4641e0dc5a8fbe31360a4479a056b84a335f45e402ab21.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/90038dc782083cee051df743243dbc3b38b5139bd6e737a99c4ba801ed3efc92.jpg",
 	"publisher": "Gameloft",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/1390fd976aae46ef60a75494f958559b4ad16ff36ecc8d4f8f491919e17e493a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/5a709f84971badca01c5d521052ff8f2331c5e513c66e4365794aaf0e042fea7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/32c084317617c089756a3d32ce11c9abcd3077d44ecf16ce7e7e29bb467fff92.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/cb359bffc0354b0afdde1765a03536453ec274c0a3a40bf68818a70860fccb39.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/ced420ed8fb49dc3baa5c2e81cf48ba754b68526298ee9d712dd3f80f7b89979.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000106964/3fddbc370e387c06f996d748e03878ed2f5c32c0d211e20f31b158b1c71f7713.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1390fd976aae46ef60a75494f958559b4ad16ff36ecc8d4f8f491919e17e493a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5a709f84971badca01c5d521052ff8f2331c5e513c66e4365794aaf0e042fea7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/32c084317617c089756a3d32ce11c9abcd3077d44ecf16ce7e7e29bb467fff92.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cb359bffc0354b0afdde1765a03536453ec274c0a3a40bf68818a70860fccb39.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ced420ed8fb49dc3baa5c2e81cf48ba754b68526298ee9d712dd3f80f7b89979.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3fddbc370e387c06f996d748e03878ed2f5c32c0d211e20f31b158b1c71f7713.jpg"
 	],
-	"releaseDate": 20261231,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"releaseDate": 2026,
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Education"
+	],
+	"intro": "Explore Bluey's world like never before!",
+	"description": "Play, explore, and capture moments with Bluey and Bingo in this photo-powered adventure across familiar spots from the show. Snap memories solo or side-by-side with a second player, discover Australian wildlife, and turn in-game moments into real fun for Real Life.\n\nSay Cheese!\nBluey and Bingo have found Dad's old camera (back from when he was cool). Take it with you around Bluey's hometown of Brisbane as you snap photos of the games you play, chase bin chickens and uncover hidden surprises. Each snapshot is saved to your own scrapbook, where you can keep your best moments.\n\nFun for Everyone\nA second player can join in to explore and strike a pose, while the main player leads the adventure behind the camera. Hang out with Muffin, Chloe, Winton and more of Bluey's friends wherever you go, playing with loads of toys and jumping into games from the show, like Shadowlands and Magic Cauldron. \n\nPlay for Real Life\nPacked with tips that turn game time into play for Real Life time! Find new ways to play with everyday things in the world around you, turning cushion forts and cardboard boxes into the next big adventure. Kids can explore, play and discover in the game, then take it off the screen and keep the fun going.\n\nSnap, Capture, and Collect\nBuild your scrapbook one snap at a time. Every photo unlocks stickers inspired by the friends, wildlife, and games you come across. Arrange these stickers, paint them however you like, and dress up Bluey and Bingo with costumes you unlock along the way.\n\nBluey's Happy Snaps has no in-game purchases and no online play.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
+	"rating": 3,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "2.87 GiB"
 }

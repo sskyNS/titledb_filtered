@@ -1,22 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131218/af5353eff4ef19382c17294749af1a415acece31c25ed98aa1e48419ef45e997.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131218/778ffe1fdbc8dcacf76f058260cb51ce4ef7a9437337a64c8e0fff571eaf9ed9",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6481858041d67310b3585d6b2bedda1aa7952dd2092489d854c8466b56a50e9a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b04fa81cc873e1190de79a579d9f7b05ae91b8e01a2a82b636a76d99e55489c.jpg",
 	"publisher": "Megabit Publishing",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131218/1308cc93f4edfc6291d062712474b3643d22e2a91477ce816cb336832b8a0cbb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131218/dc7589b9e615eb51a8dc69a956af9cc19afca173352b1257de7681c97f79007c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131218/107a3a096c72b049a3b6f5e9705ef6c075dedc2187d3db378fa11009588880b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131218/0308df5d1531166f3295dafc36f8554ce8e3697341f0d47058bb392d8da03cba.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131218/437302a854039807d2a43d7a0413d9ff608e6d395c6e79b6f5f690f3fcd5b8e2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bec42c2f66f6d803d5e204bbbe70650c0a2a8795216fbfbe6849a76f7ad32d36.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/25ea5ce6c1cba697fe638ea80561c7af6e18554421ab853b12c038aa6458ffa9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/17aec3c6d9448a93862db7ceb3b57cc3020377f6c0ade95f8209041b003258b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/489c1417fc3a717f48cf4a8dc62d2e1f8adedcbde096e775f06f6945bb7e1ba9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9316a77b075beb77085bed72c3f7c8bfe5d0e600fe4281f2c1bb737899e3e351.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2377eed08572566adc275de2862adaf704346fe044dab3005c4f563a7b032da0.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "Ready for takeoff?",
+	"description": "A Seaplane, a Storm, and a Missing Uncle\u00a0\n\nTake to the skies in your trusty seaplane on a heartfelt adventure across the tropical Limbo archipelago. After receiving a distress call from Uncle Lou, you arrive only to find the islands in disarray and Lou nowhere to be found. Collect resources, help rebuild a community, and unravel the mystery of your uncle\u2019s disappearance.\u00a0\n\nCollect, Craft, Restore\u00a0\n\nHarness the vacuum power of the Swirler! \u2014 a glorious multi-tool \u2014 to collect everything from scrap and native plants to materials dropped by Limbo\u2019s unique wildlife. Use your finds to repair buildings, craft goods, and help the communities thrive again.\u00a0\n\nClaim your slice of paradise at Lou\u2019s Lagoon. Build your dream beach hut, add your personal touch, and let the island rhythm take over.\u00a0\u00a0\n\nMeet the islanders of Limbo\u00a0\n\nDiscover the archipelago\u2019s vibrant islands, each with their own spirited communities, hidden treasures, and unique problems to solve. Get a warm welcome from the Charneys in Tangle Bloom\u2014the archipelago's liveliest town\u2014then head to Gleam Reef to watch the Vooi move to the music of the tides. Lastly, visit Boulderia, home to the grumpy, sugar-crystal-mining Gorplins!\n\nKey Features:\u00a0\n\n- Explore the Limbo archipelago, home to vibrant communities and ancient secrets.\u00a0\n\n- Pilot your very own seaplane, master ring challenges, and enjoy the freedom of open skies.\u00a0\n\n- Upgrade your gadgets to expand your adventures. Scoop, build, glide and fish!\u00a0\n\n- Personalize your seaplane with vibrant skins and custom configurations.\u00a0\n\n- Full character customization. Make your avatar uniquely yours, from hairstyle to outfits and accessories.\u00a0\n\n- Build your island base, decorate it, and make Lou\u2019s Lagoon feel like home.\u00a0\n\n- A mystery to unravel. Piece together clues, follow Lou\u2019s trail, and uncover the truth behind his disappearance!\u00a0\n\nWhether you\u2019re hot on the trail to solving the mystery of Uncle Lou or just kicking back and enjoying island life, Lou\u2019s Lagoon is your ticket to an exciting adventure.\u00a0\u00a0\n\nReady for takeoff?\u00a0\n\n\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "3.43 GiB"
+	"size": "3.51 GiB"
 }

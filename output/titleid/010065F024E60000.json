@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000103874/a0ed9cc52d0c3da9e9dc6fa0702bea3c963bbf95d6698448cd211660a32bf4d2.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/47dba04e4eb747b19ebad3614f998eaa_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0ed9cc52d0c3da9e9dc6fa0702bea3c963bbf95d6698448cd211660a32bf4d2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab9da643fb48eb6534027ac149669237a9864fe918c641bc2ba32ebc4e7ba8ca.jpg",
 	"publisher": "D4 Enterprise",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/067408e026ff34228de7d3f8ce369a02b94a182d23fa4b9e179242bb892d52e8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/8106bcb0188845f34496f512db548a9a58e2e4275f7f4665a9e4c4e3754cd46f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/124f43f95e4144a69654396093ec7060414cde47ed51d8b7329cb062b7a9ad12.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/4b217db8b06f0770dbdd3f7bbe5129d873e65f07a76f3762de1f52154860d604.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/a8d375aeced8125bebcbe9eee71303f22ca8e2cd435ce7ee20b9c4c026a3927c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103874/3b48193c55082c75f8f680ffd5909bc5849a8324672de939a4079f99f88813be.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/067408e026ff34228de7d3f8ce369a02b94a182d23fa4b9e179242bb892d52e8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8106bcb0188845f34496f512db548a9a58e2e4275f7f4665a9e4c4e3754cd46f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/124f43f95e4144a69654396093ec7060414cde47ed51d8b7329cb062b7a9ad12.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4b217db8b06f0770dbdd3f7bbe5129d873e65f07a76f3762de1f52154860d604.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a8d375aeced8125bebcbe9eee71303f22ca8e2cd435ce7ee20b9c4c026a3927c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b48193c55082c75f8f680ffd5909bc5849a8324672de939a4079f99f88813be.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG"
+	],
+	"intro": "The dawn of the Gagharv Trilogy. Join Jurio and Chris to uncover the truth behind the White Witch!",
+	"description": "This role-playing game was originally released by Nihon Falcom in 1994. Titled \"Renewal,\" this version is based on the original The Legend of Heroes III but features improved game mechanics and balance.\n\nPlayers control Jurio, a somewhat timid boy, and the heroine Chris, as they embark on a pilgrimage for their village's coming-of-age ceremony. Before long, their journey leads them to unravel the mystery of the \"White Witch.\"\n\nThe game features a top-down perspective with random encounters. Combat utilizes an auto-battle system, making it intuitive and accessible for everyone. However, the early game can be challenging due to a small party size. In such situations, adjusting the combat settings in the command menu is recommended.\n\nTrue to the Falcom style, this title offers a grand narrative and unique character interactions, allowing players to enjoy a quintessential RPG experience. It is incredibly content-rich; the prologue and first chapter alone exceed the volume of the entire previous game, forming a massive nine-chapter saga.\n\nAs part of The Legend of Heroes series, this game serves as the first entry in the second arc, known as the \"Gagharv Trilogy.\" The story unfolds within a shared universe that connects to The Legend of Heroes IV: A Tear of Vermillion and The Legend of Heroes V: Song of the Ocean.\n \n",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood"
+	],
 	"dlcs": [],
 	"size": "78 MiB"
 }

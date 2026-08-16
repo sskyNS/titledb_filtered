@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126354/6c3557bc31af14a51eb17f01531b523afc7597463c9651d6e88a73a8d36d932c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a5b837fab7bc47b4841890ba6eef7724_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c3557bc31af14a51eb17f01531b523afc7597463c9651d6e88a73a8d36d932c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f67b7e736f36bd2a910c2b791b9a88bc1eb3b3ccf55779f32e7cab9ccddfe0bd.jpg",
 	"publisher": "NOSTRA GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/02f910387b8e28f323f122e65ba2dfae0645064b3ab8c382a588e229c95ef4c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/2c0442a8f2065d3e5ca2286dcd19b4eb6ceafe802389a1250adfc981480ead23.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/10c8f18e8123b66002e64c4afb6cbda122fe26149af0f843ae4c9c2c54db5b7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/514f57f06e04da51970bb94c8a48bda307fa7286f81f9c574be0519d827c1b27.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/6c448597ecff7c2e36d5476d934de3ed1437565f1dbaff13aa327b9394692d19.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126354/c0f29963dc1c99bf994514b440e612ec7eaf07c31ed4678cca6bb6bd67e40440.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/02f910387b8e28f323f122e65ba2dfae0645064b3ab8c382a588e229c95ef4c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2c0442a8f2065d3e5ca2286dcd19b4eb6ceafe802389a1250adfc981480ead23.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/10c8f18e8123b66002e64c4afb6cbda122fe26149af0f843ae4c9c2c54db5b7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/514f57f06e04da51970bb94c8a48bda307fa7286f81f9c574be0519d827c1b27.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6c448597ecff7c2e36d5476d934de3ed1437565f1dbaff13aa327b9394692d19.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0f29963dc1c99bf994514b440e612ec7eaf07c31ed4678cca6bb6bd67e40440.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Sports"
+	],
+	"intro": "The most unusual pinball you can find!",
+	"description": "Fun pinball style battles. Attack the military camps of the holy Roman Empire and crush the legionaries. Choose the right trajectories to inflict as much damage as possible.  Shoot down enemies, blow up barrels and collect coins. Free the map from these lazybones!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "188 MiB"

@@ -1,22 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127561/fef98a5cfba5b38a0e18ec5a5c092c11bebe3ebcd76d3495eddf825e39595d79.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3ff1a8058d3d4b798b96d270f916d5c0_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fef98a5cfba5b38a0e18ec5a5c092c11bebe3ebcd76d3495eddf825e39595d79.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/548e10b2852c30372027756339295e9c240369a0ddfb1ee712f614137d1bd242.jpg",
 	"publisher": "SAT-BOX",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/d3bb0d48a404b5237b6d5a452d5da0d8311ac1e3966d5301c526a7e94d47c859.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/6d2c143e17d392d084d5a2c54ddd5da37dc565ecbb4414c3d054e8fadcf99b2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/3798494ba707d74d40bb09c64ed6de62aad59551da4ee58627f6ec295485fb07.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/633ef9f91985ecb69bcaf5561e55dcb150edcd4b8d5dcf619c24df2c52ae96c1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/97963a2780a922d004b96a6a8ea58cbcac4d6551b58e75d1c363fb1ca61da756.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127561/d7ab1cb9cf3545ebb7769cec2157a1b922bc36fee764642f2fdff8301d897c01.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d3bb0d48a404b5237b6d5a452d5da0d8311ac1e3966d5301c526a7e94d47c859.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d2c143e17d392d084d5a2c54ddd5da37dc565ecbb4414c3d054e8fadcf99b2d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3798494ba707d74d40bb09c64ed6de62aad59551da4ee58627f6ec295485fb07.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/633ef9f91985ecb69bcaf5561e55dcb150edcd4b8d5dcf619c24df2c52ae96c1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/97963a2780a922d004b96a6a8ea58cbcac4d6551b58e75d1c363fb1ca61da756.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d7ab1cb9cf3545ebb7769cec2157a1b922bc36fee764642f2fdff8301d897c01.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Action",
+		"Party",
+		"Shooter",
+		"Communication"
+	],
+	"intro": "It's goldfish scooping like you've never seen it before!\nScoop up crazy goldfish one after another!",
+	"description": "Enjoy goldfish scooping anytime on Nintendo Switch\u2122!\nAim for a high score in solo play, or compete with up to 4 players in exciting multiplayer battles!\n\nGrab items and gain the upper hand!\nMake your poi bigger, boost your movement speed, and catch tons of fish!\nSometimes you'll even be able to hinder your rivals and turn the tide of the match!\nChaotic action and constant surprises mean it's anyone's game until the very end!\n\n[Classic Stage]\nEnjoy the festival atmosphere in this traditional goldfish scooping experience!\nCatch a variety of goldfish and rack up the highest score possible!\n\n[Japanese Stage]\nA beautiful stage inspired by traditional rock gardens!\nUse the flow of the water to skillfully scoop up goldfish as they drift by!\n\n[Colorful Stage]\nDive into a colorful toy-box world packed with surprises!\nToy goldfish and unpredictable gimmicks create nonstop chaos!\n\nWatch out for explosive pufferfish that affect everything around them!\nBeware of sharks that gobble up other fish!\nTake on gigantic boss fish that require multiple scoops to catch!\n\nFace a never-ending stream of unique challenges in the ultimate goldfish scooping experience!\n\n[Score Attack]\nCatch as many goldfish as you can before time runs out!\nChain catches together and target high-value fish to set a new personal best!\n\n[Battle]\nBattle it out with up to 4 players!\nUse items strategically and scoop more goldfish than your opponents to claim victory!\n\n[Rankings]\nCompete with players from around the world for the highest score!\nCan you become a true goldfish scooping master?",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "240 MiB"

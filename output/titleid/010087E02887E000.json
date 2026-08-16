@@ -1,22 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127044/b4b1200f04a79f1f90f70c5ae190646f31729d55fd60de64a9d0023b27156f05.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127044/6b7e548de425c7532d0b0672cde94f8dd83ddd4225477a3aa41076fe9b534242",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4b1200f04a79f1f90f70c5ae190646f31729d55fd60de64a9d0023b27156f05.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f30ca7c4ef1cb50abf83b5c7e169cba899cc2166af7dea728c7240c1e0efb300.jpg",
 	"publisher": "BluSped Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127044/901ca797356bc6d7c89a7c3fe8ed2c4e8dadd734b24641f441228fd6dba2c70d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127044/2322e1780452442ee27ec58d7514e7fb57ce2f180b6ea168336ac6ceec7c04d1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127044/f438d6e6888857b18603bd2fa259e963ba70b2fec530c27e7719968207b3e9e2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127044/e3772c10b87f1d4f7e612c5504bf1ee3a4ad022af0e2a3e2f859140fab4b13c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127044/65a55df13b51ebf9cb8d3a20e01b4be95cf5bfd58623675578d2ff8d4d0d79fe.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/901ca797356bc6d7c89a7c3fe8ed2c4e8dadd734b24641f441228fd6dba2c70d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2322e1780452442ee27ec58d7514e7fb57ce2f180b6ea168336ac6ceec7c04d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f438d6e6888857b18603bd2fa259e963ba70b2fec530c27e7719968207b3e9e2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e3772c10b87f1d4f7e612c5504bf1ee3a4ad022af0e2a3e2f859140fab4b13c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/65a55df13b51ebf9cb8d3a20e01b4be95cf5bfd58623675578d2ff8d4d0d79fe.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter",
+		"Action",
+		"Adventure",
+		"Fighting"
+	],
+	"intro": "Devour and destroy the world.\nFighting against armed forces with various transformations.\nObtain energy, numerous weapons and abilities.",
+	"description": "Players take on the role of an alien monster, devouring and fighting against human armed forces with various transformations, and annihilating the world. By continuously devouring humans to obtain energy, numerous weapons and abilities can be added to combat human armed forces and eliminate the world. When encountering different extraterrestrial crystals, one can acquire different superpowers. And it can have different transformations in different situations, experiencing super destructive power.\n\nThis is a Roguelike game where players operate an alien monster to devour humans, obtaining dozens of weapons, shields, and more through the energy gained Buff\u3001 Follow the ball, fire different energy bullets, and merge these bullets for firing. Different follower balls can also attack in different ways.\n\nIn the game, there are randomly encountered alien crystals that can acquire different superpowers, providing abilities such as freezing, fire breathing, and protective shields, making the game process more interesting.\n\nIn the game, you can also have different transformations and experience super destructive power. If it can transform into a super ape with invincible power, it can directly destroy houses and police cars in the city.\n\nPlayers can choose different characters to play the game, and multiple maps are set up to confront humans in different environments. And designed a 6-level difficulty level, constantly challenging one's own abilities. The game features nearly a hundred achievements, requiring constant achievement in intense battles.\n\nPlayers can continuously enhance their abilities, including health, health recovery, damage, attack speed, critical hit rate, etc., through the game's outsider cultivation function.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "688 MiB"
+	"size": "1.31 GiB"
 }

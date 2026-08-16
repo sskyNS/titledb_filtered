@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132342/5b3dda67582df752e4141a969abb4110d6e37eb42a9d9b1eedc1692a951fd2c3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132342/b2504df857d0661e99c829e2d8b6ff23363299e2d4a51de326a432a416422f91",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b3dda67582df752e4141a969abb4110d6e37eb42a9d9b1eedc1692a951fd2c3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8e202de36a3be22e78cb275d6e6d689073ffe469b1d3a04632bbb3e5897e7fc0.jpg",
 	"publisher": "Butterfly",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/59ef832dd7e7670aeb91306f4a9de78d6a577300202665f5a179878634f83cfe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/d4f933d758246a35636f0f20f5550f96c56a8d65f14b474310ef075d4aed68b3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/a32db17e0cdac2f7601f50843812612ab9307f17c93eff745093e6ae4ac7ab6d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/bbc8a34348c5b7bd2559c532d4fa9c1cc5c99f5fcea517b6431012c13d2bd6bc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/823d4053192e6062430e4eadb3d5d298f8a6e78ecd5fc7890ab41157b9116e5d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132342/33395eebba1300e5cfb169c708932606dddf3d4265fba6725e69d78422e6cbc0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/59ef832dd7e7670aeb91306f4a9de78d6a577300202665f5a179878634f83cfe.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4f933d758246a35636f0f20f5550f96c56a8d65f14b474310ef075d4aed68b3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a32db17e0cdac2f7601f50843812612ab9307f17c93eff745093e6ae4ac7ab6d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bbc8a34348c5b7bd2559c532d4fa9c1cc5c99f5fcea517b6431012c13d2bd6bc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/823d4053192e6062430e4eadb3d5d298f8a6e78ecd5fc7890ab41157b9116e5d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/33395eebba1300e5cfb169c708932606dddf3d4265fba6725e69d78422e6cbc0.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Other"
+	],
+	"intro": "Just a short conversation between a human and a ghost.",
+	"description": "Zella and her possessed gun Toast always have deep conversations. Zella's willingness to listen and talk about her vulnerabilities keeps Toast's attention. Toast's ability to give advice and criticize doesn't land well every time with Zella. Every interaction between the two usually ends up sour or sweet.\n\nFeatures Include:\n- Text Log: Reread previous lines, decipher the implications and meaning behind their conversation.\n- Gallery: Once finished with the story, you can view early concepts and artwork used during development.\n\n*There are no choice-based story branching elements in this game.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "219 MiB"
 }

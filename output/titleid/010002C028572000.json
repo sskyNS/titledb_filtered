@@ -1,20 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125849/b684a6acc6c46a2758984015eb5bb89263315c7c6db6f9a83563e4231ecc114a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0c9f460c74d342d28f7115fa55320857_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b684a6acc6c46a2758984015eb5bb89263315c7c6db6f9a83563e4231ecc114a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/67fba3c0ac8a8287d44043f9a8a3f4899c6934d459db1fb85b92dbea58508c1d.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125849/a7a2c0b00e98fe232cdd3f13db5be029cd6d547dbd9d078723e7aa32a0011dc9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125849/4957bc75ad4d3a1b5dafc1d087d69f09817dc7919a1074d44b453961255e37ba.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125849/54bcb498acc3865ba4e49bd98ae85730b04998381825345a3452503dbbfdd4f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125849/a76c268428cb7622b8a28a7426faa19d229aeef96de499598fb624a79f0fa3e5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a7a2c0b00e98fe232cdd3f13db5be029cd6d547dbd9d078723e7aa32a0011dc9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4957bc75ad4d3a1b5dafc1d087d69f09817dc7919a1074d44b453961255e37ba.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/54bcb498acc3865ba4e49bd98ae85730b04998381825345a3452503dbbfdd4f1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a76c268428cb7622b8a28a7426faa19d229aeef96de499598fb624a79f0fa3e5.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Study",
+		"Education"
+	],
+	"intro": "Easy kanji questions for kids!\nPick the answer from 4 choices\nand enjoy learning step by step!",
+	"description": "Enjoy simple Japanese kanji quizzes made for kids and families.\n\nEach question uses a 4-choice format, so players can answer without complicated controls. Children can check kanji readings and meanings at their own pace, while parents can join in and think through the answers together.\n\nHow to play is easy:\n\u30fbRead the question\n\u30fbChoose the correct answer from 4 options\n\u30fbKeep going and review kanji little by little\n\nThis is a good choice for children who are starting to learn kanji, families who want a light learning activity, or anyone looking for a quick Japanese word quiz.\n\nPlay alone for a short study break, or enjoy it together as a family. Make kanji feel more familiar through easy, game-like questions.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "230 MiB"

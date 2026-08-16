@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120314/e9996eab02fce93535a36d52af06b8a44e4136539f74ed8540a43963db1d9560.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120314/7999fc2390a8201456546edb6dd7f47c2cc3ce8a80b77909dd8d50bef27bd368",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e9996eab02fce93535a36d52af06b8a44e4136539f74ed8540a43963db1d9560.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/535f91db936d0a2f042347535c9cd3e631b320771ea57bbaba7de0ec5cf54a85.jpg",
 	"publisher": "Ogre Pixel",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/536f114810d6af0257eb020ed0492b117816c58982b53f8663567859ff3883dd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/efc7e311e749c51b895c1edcbd58086a0a06e531a4e44b3d49a727aec92e625a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/b00e84301816506314e7b5b50b1974d09d96a3c5e0a85c97c4fc9c9809a04263.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/be1821b9ae4f3350ec02b34bf3bc18d70faad0117f90d946e478f20e13b0eda0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/9a3b3d34cfb6458b0812ed66f6375aa763bcf3aa51164c8a45da13afc6d56eff.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120314/556cc905d7741f44e9cfda7208b3c24d83f5ecbb4bad07f50bc903e51f42e5b6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/536f114810d6af0257eb020ed0492b117816c58982b53f8663567859ff3883dd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/efc7e311e749c51b895c1edcbd58086a0a06e531a4e44b3d49a727aec92e625a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b00e84301816506314e7b5b50b1974d09d96a3c5e0a85c97c4fc9c9809a04263.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be1821b9ae4f3350ec02b34bf3bc18d70faad0117f90d946e478f20e13b0eda0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9a3b3d34cfb6458b0812ed66f6375aa763bcf3aa51164c8a45da13afc6d56eff.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/556cc905d7741f44e9cfda7208b3c24d83f5ecbb4bad07f50bc903e51f42e5b6.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Puzzle-Solving Retro Adventure about an Orc inside a Mysterious Tower looking for his Wife.",
+	"description": "Play as Wigo, the Orc, whose wife has been kidnapped and taken up to the skies by a magic dress gifted by a mysterious Fairy.\n\nAs Wigo saw his wife going up to the skies, he went to the tallest building known on the continent: The Black Tower Enigma.\n\nInside the Black Tower Enigma, Wigo has to solve some riddles and challenges in order to climb up and find some clues to find his wife.\n\nAbout levels\n\nEach level is a small yet elaborate challenge that requires the player to use their intelligence and ability to decipher the riddles to advance through the Tower.\n\nAlso, Black Tower Enigma has an interesting background story, which is enriched inside the huge library scattered throughout each level of the tower.\n\nGame features\n\n- Elaborated puzzles, riddles, and hints along each level\n- Interesting story discovered along each level\n- Cool pixelated art-style\n- Orchestral-designed music\n- Simple and intuitive game play\n\nOgre Pixel\n2026",
+	"languages": [
+		"en",
+		"es"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.03 GiB"

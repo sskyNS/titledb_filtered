@@ -1,20 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131912/88439a4bd4ae3fd94be2a7c220700fca460503f37514c442930f39d2ba3ae63a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0f77a59bc62c41daac8f52f81a9e901e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88439a4bd4ae3fd94be2a7c220700fca460503f37514c442930f39d2ba3ae63a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/07e2247f5769a3fd1b154c4796be9895e60d1afb89b139a2a637b4ec72e0dc89.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131912/12f3e506e51373140ec218452acbf47691676d00f5bb2637bfcc31876aeb20c1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131912/f28ef1081071022e8eacd3b3b7940f6df6c400b393237a83ff673e7fa9eae54b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131912/2f152ad2957d693300ebef6824b993fe2906fbd267782997a24018f3666559f3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/12f3e506e51373140ec218452acbf47691676d00f5bb2637bfcc31876aeb20c1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f28ef1081071022e8eacd3b3b7940f6df6c400b393237a83ff673e7fa9eae54b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2f152ad2957d693300ebef6824b993fe2906fbd267782997a24018f3666559f3.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter"
+	],
+	"intro": "Enter a fast-paced retro shooter filled with pixel-art action, dangerous enemies and relentless gunfire. Aim carefully, survive each encounter and clear your path through the battlefield.",
+	"description": "Step into the chaotic world of Rasterfire, a fast-paced top-down shooter inspired by the golden age of arcade action.\n\nFight your way through dangerous environments filled with hostile enemies, incoming projectiles and deadly obstacles. Keep moving, aim carefully and use your limited space to avoid attacks while returning fire. Every encounter tests your reactions, positioning and ability to survive under pressure.\n\nThe battlefield is viewed from above and presented in a distinctive retro pixel-art style, enhanced by CRT scanlines, vivid effects and an energetic arcade atmosphere. Enemies can attack from multiple directions, so staying alert is just as important as having a quick trigger finger.\n\nClear each area, survive increasingly intense battles and push forward through waves of opposition. Whether you are chasing a higher score or simply trying to reach the end, every round offers a compact dose of old-school shooting action.\n\nFeatures:\n\nFast-paced top-down shooting gameplay\nRetro pixel-art graphics with CRT-inspired effects\nMultiple enemy types and dangerous attack patterns\nResponsive controls designed for quick arcade action\nIncreasingly intense combat encounters\nA dark, energetic soundtrack and classic shooter atmosphere\n\nLoad your weapon, enter the crosshairs and see how long you can survive in Rasterfire.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "130 MiB"
 }

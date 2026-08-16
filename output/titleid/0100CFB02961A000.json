@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132550/5fd3a3ef5a17efb16d67432db86531a1d212d61052b6854ef0d35869909622b0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4b76cde9798d4f93b26d3704451e891c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5fd3a3ef5a17efb16d67432db86531a1d212d61052b6854ef0d35869909622b0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b7e5ee36ce829eeec2484f2c8ee611ae2a3e858c5dcc6b7800574293c4e03e70.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132550/e3c517aa18c186bccf3a27167c5b7bc240c31747d0096dc0f943a76874b77ced.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132550/b3d3915dce9836d6e75c6897ec57d7ae876aa4a1cda7d5d4cdd2f169bb80ba2c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132550/49a088fa2befa931c16ce1260eae7fab6d8c7f4231f24a2b209d7fe77c0cef2b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132550/9b3129ab699e337fdd09eb04f73aa12d07db749e152361d2ca6ca7dbea2b882a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e3c517aa18c186bccf3a27167c5b7bc240c31747d0096dc0f943a76874b77ced.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b3d3915dce9836d6e75c6897ec57d7ae876aa4a1cda7d5d4cdd2f169bb80ba2c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49a088fa2befa931c16ce1260eae7fab6d8c7f4231f24a2b209d7fe77c0cef2b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9b3129ab699e337fdd09eb04f73aa12d07db749e152361d2ca6ca7dbea2b882a.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Study",
+		"Training"
+	],
+	"intro": "Can you spot the midnight anomaly?",
+	"description": "Something feels off after dark\u2014can you trust your eyes?\n\nYou know that feeling when a picture looks normal at first, but one little detail keeps bothering you?\n\nIn this casual visual mystery game, each stage shows one illustration. Look closely, decide which single spot matches the question, and select that area.\n\n\u30fbStudy the whole image\n\u30fbFind the one place that feels off\n\u30fbMove the cursor or tap the spot to answer\n\nThere are no complicated rules\u2014just observation, hunches, and a little midnight mood. Even when you miss, the next image makes you want to look more carefully.\n\nTake a quick break, settle in, and challenge your eye for subtle details.\n\nButton controls and touch-screen controls are both supported.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "235 MiB"

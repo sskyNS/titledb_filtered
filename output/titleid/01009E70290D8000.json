@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130527/005c8001796e1997d44625f27dc4fb0a47d85e8c4a657e7bbe0806933262a0c2.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4493d0a0e7e048fd9a93746bc581ee6c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/005c8001796e1997d44625f27dc4fb0a47d85e8c4a657e7bbe0806933262a0c2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/80dc033e48c89b0452b6d141e63b92af2fc828a85f512d8252fc620e8a1e4108.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130527/61a6601e69036671cbd7a4d5ccb1e8a50fcfdc7b00c60e7a868bf935f01c6148.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130527/09bf398e95a774fec6c8b7384f5d199fe3dd250cfe4871d4cbd2d7e09de6e677.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130527/39d73ce5ff1a00b381e395fdb50e4ef95d132ea1ac51f94ac266dd75c23ed57c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130527/4d2d871d52c68c1b57c1e29632f1ddc625fc67af81a8868f84e6301fcc2d61e3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/61a6601e69036671cbd7a4d5ccb1e8a50fcfdc7b00c60e7a868bf935f01c6148.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/09bf398e95a774fec6c8b7384f5d199fe3dd250cfe4871d4cbd2d7e09de6e677.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/39d73ce5ff1a00b381e395fdb50e4ef95d132ea1ac51f94ac266dd75c23ed57c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d2d871d52c68c1b57c1e29632f1ddc625fc67af81a8868f84e6301fcc2d61e3.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Study",
+		"Training"
+	],
+	"intro": "Can you trust your memory?",
+	"description": "The picture is covered\u2014but did the key detail stay in your head?\n\nYou had 60 seconds. You were sure you noticed everything... until one small part disappears behind the mask.\n\nThis is a casual visual memory quiz where you study an image, then answer a 4-choice question based on what you remember. The mood may feel dramatic, but the rules are simple and quick.\n\nHow to play:\n\u30fbStudy the image while it is shown\n\u30fbAfter part of the image is masked, read the question\n\u30fbChoose one answer from four options\n\u30fbWhen you are correct, check the original image again\n\nEvery round is a compact test of attention and recall. Even a tiny detail can decide whether your memory tells the whole story.\n\nPlay a quick round whenever you like, and see if you can catch what was hiding in the final scene.\n\nSupports button controls and touch controls.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "192 MiB"

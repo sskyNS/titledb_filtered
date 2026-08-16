@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125439/d35f9a9a378b4f2a041d98385940a0c31bddebc19964b5caad41ffb1d75de468.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6e9b7ed9c5484fa383e8c20ee053de42_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d35f9a9a378b4f2a041d98385940a0c31bddebc19964b5caad41ffb1d75de468.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5894365720abf7813ed989776fc21c0e0210727400529175475706743a8f170b.jpg",
 	"publisher": "Regista",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/1cd42058dfdcb002792e97b9f0576b2b099608ae75d8335471caadd948786642.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/1612c282ef776f40883175a34cf3de74165dab6ce941ada13fa3b6531a9aa8dd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/3595b5e752b7d828bce150b7964440f24926568fa22894e188f360b37fccc3e6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/4918459597c15bf89a573bc00cfed22eb03be58d22c0c82d46d155a9cb8af162.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/f2d52511abc96f419915dccb1a8e2f293458e479672289532648e51af93cf31c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125439/7947361e66d3a971693a0089b351f167c734e00e96c7b27ef087402e610c3705.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1cd42058dfdcb002792e97b9f0576b2b099608ae75d8335471caadd948786642.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1612c282ef776f40883175a34cf3de74165dab6ce941ada13fa3b6531a9aa8dd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3595b5e752b7d828bce150b7964440f24926568fa22894e188f360b37fccc3e6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4918459597c15bf89a573bc00cfed22eb03be58d22c0c82d46d155a9cb8af162.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f2d52511abc96f419915dccb1a8e2f293458e479672289532648e51af93cf31c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7947361e66d3a971693a0089b351f167c734e00e96c7b27ef087402e610c3705.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "An escape game set inside a trapped elevator!",
+	"description": "\u25a0Game System\nThis is an escape game (puzzle-solving adventure game).\n\u203bProgress through the game by selecting items on the screen with the cursor and solving various puzzles.\n\n\u25a0Story\nI wonder if I was dreaming\u2026\n\nI remember getting into an elevator, hurrying to the upper floor.\n\nThen suddenly\u2015\n\nwith a violent jolt, the elevator stopped.\n\nEverything went dark before my eyes, and I lost consciousness.\n\nHow much time has passed?\n\nAs I slowly open my eyes\u2026",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "366 MiB"

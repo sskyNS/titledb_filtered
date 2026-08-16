@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121621/196f90f785a6e3ba2e515f202b7650a28aad2ac9d1b9859ad1df1caada1ed05e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121621/f83f41993a9a24e4f6b38e029907de4f2925502f8bfa3323e8ff57d70dfcfcab",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/196f90f785a6e3ba2e515f202b7650a28aad2ac9d1b9859ad1df1caada1ed05e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a62e9691089aa62211ba7ef31544c473f0dc79e8f72c684a61a99555ceb58bf5.jpg",
 	"publisher": "GamePia",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/5758800e18d4c7c695c92da739eaef2b91e056fdfb921310f934813eda85ba78.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/a65808cf38e3e4f15a9282fe0f22c0e4ee80fbe71a0d3420799b642215c4476a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/77321b6023f0fc219de2ffc510b33217d5cdf230cb2847c8eba0db8025924a7b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/db5645bff264d7a1a6ccbd81a6f20190f9dcb548edb6ed14f11ba828484c351b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/8f70890912155bb8ff3f7aa886ce7f09eed95a5b33b2b2fc15a7d750bcb6b92d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121621/6fe6076347ab014b70fa4511a506e4df092a4c523ccdf8d41cb9977341145c62.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5758800e18d4c7c695c92da739eaef2b91e056fdfb921310f934813eda85ba78.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a65808cf38e3e4f15a9282fe0f22c0e4ee80fbe71a0d3420799b642215c4476a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/77321b6023f0fc219de2ffc510b33217d5cdf230cb2847c8eba0db8025924a7b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/db5645bff264d7a1a6ccbd81a6f20190f9dcb548edb6ed14f11ba828484c351b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8f70890912155bb8ff3f7aa886ce7f09eed95a5b33b2b2fc15a7d750bcb6b92d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6fe6076347ab014b70fa4511a506e4df092a4c523ccdf8d41cb9977341145c62.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Puzzle",
+		"Communication"
+	],
+	"intro": null,
+	"description": "A world where supernatural abilities exist. Plus, tools with mysterious powers, 'Staff.'\n\nFor Verita, an ordinary girl who resides in a second-hand store, Shop Retro, these things sound like stories from a far-off world.\nThat is, until she's suddenly buried under a considerable debt.\n\nIn order to sell staff and pay off her debt,\ndelve into how these supernatural powers have shaped the past!\n\n[Choose your actions]\nUse conversation or exploration to gather information and new documents, then reach your own conclusion as you reason through what you've found.\nThe results of your own choices and logic can lead you toward a different ending.\n\n[Use logic to combine documents]\nMake use of the document-centric system that has defined the Staffer series! Combine information about these supernatural happenings recorded on all sorts of documents in order to discover a brand-new truth.\n\n[Re:Story]\nSort through six types of documents in order to find the clues to the story playing out. Once you fill them all out, the truth hidden within might just make itself known.\n\n[Retro System]\nBehind the seemingly peaceful daily routine, a vicious truth lies in wait... At the end of each mystery, a 'hidden aspect' exists to be uncovered. Turn the conclusion on its head in order to discover a new ending.",
+	"languages": [
+		"ja",
+		"en",
+		"fr",
+		"de",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.48 GiB"
 }

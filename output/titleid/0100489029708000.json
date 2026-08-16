@@ -1,21 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132929/501f8b5ac697b13a24d626e55ffa4fb8815c2431ccbc2593f6596ab26a1d5ced.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/44e89485f0ac4547837aca52f071e2b7_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/501f8b5ac697b13a24d626e55ffa4fb8815c2431ccbc2593f6596ab26a1d5ced.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4eaaafc6e497949737482ba6d2857d77e6d08382e532d1ab6c2d6b8b0038691a.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132929/8ccb170d768f88afd61c9f74b770c08e0507217294468f472c0d8a83f354ca19.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132929/0747d13e7ded5485da2eb999cd701afa9c2c87ed3d282e31181acc8d5bc40c0c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132929/26561cd1710093bc136ce6dcb3816cebf9834d6dbe0402ff60fd86ce1ff2ee20.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132929/4fb087b45e70fc0bf306fa81b566c340dc04b2ec9564554ecd4fb1470301284a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8ccb170d768f88afd61c9f74b770c08e0507217294468f472c0d8a83f354ca19.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0747d13e7ded5485da2eb999cd701afa9c2c87ed3d282e31181acc8d5bc40c0c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/26561cd1710093bc136ce6dcb3816cebf9834d6dbe0402ff60fd86ce1ff2ee20.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4fb087b45e70fc0bf306fa81b566c340dc04b2ec9564554ecd4fb1470301284a.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Board Game"
+	],
+	"intro": "Embark on a magical roguelike card adventure where every choice shapes your journey. Build powerful decks, discover mystical artifacts, battle dangerous foes.",
+	"description": "Enter a world where every card can change your destiny. In this fantasy roguelike deck-building adventure, you'll battle your way through dangerous dungeons filled with fearsome monsters, powerful bosses, and magical secrets waiting to be uncovered.\n\nBuild your deck from an ever-growing collection of cards, combining spells, attacks, and special abilities to create powerful strategies. No two adventures are the same\u2014discover new cards, collect mystical relics, and adapt your tactics as each run presents different enemies, rewards, and challenges.\n\nEvery decision matters. Choose your path carefully, strengthen your deck after each battle, and experiment with countless card combinations to overcome increasingly difficult encounters. Whether you prefer overwhelming magical attacks, powerful defensive strategies, or carefully planned combos, there are many ways to achieve victory.\n\nDefeat formidable bosses, unlock new possibilities with every playthrough, and prove your mastery in a world where strategy is just as important as luck.\n\nFeatures:\n\nBuild and customize powerful decks with a variety of unique cards.\nBattle monsters and challenging bosses in strategic turn-based combat.\nExplore procedurally generated adventures where every run is different.\nDiscover magical relics and powerful upgrades that transform your strategy.\nExperiment with countless card synergies and deck combinations.\nEasy to learn, challenging to master, with high replayability.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "86 MiB"
 }

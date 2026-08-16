@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117868/a05f0c8aa2a167af9899efc78a498d69bc9e69dd30f38a490d79f83ed949ddbd.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117868/5731e5603448d9e01bbcca5e36666b3641f9c39ba88dd5a685a1358c9089258c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a05f0c8aa2a167af9899efc78a498d69bc9e69dd30f38a490d79f83ed949ddbd.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb44c6ce0b9c9594363a71ba6273e30d510cbe220bd0022577387555c136813d.jpg",
 	"publisher": "Crunching Koalas",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/6365dec978bfa5577d890a95a3a06e0b57b0cfc1ca837b8756ec19cbb0b4e15c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/f327f615a1b0ed36e7f7c1fc9827094758d339a7788f8e089510873a7a2f9c40.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/8117f27245503988a84c240e03efaaecd625207bd18fcfc3202aef07dd8a935e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/81df2db3f65d9a6d3caf34db1c6f563065066fe0c8e6e55db3902f5623ad3bc7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/b4ec9530994b8f8ae905bab358eb099a3603041e931d19eae674e02e760a1235.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117868/af6a051c95b5e78b482ddf02a9a44e21609be6b7afe005ebf27aa81e779c904b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6365dec978bfa5577d890a95a3a06e0b57b0cfc1ca837b8756ec19cbb0b4e15c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f327f615a1b0ed36e7f7c1fc9827094758d339a7788f8e089510873a7a2f9c40.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8117f27245503988a84c240e03efaaecd625207bd18fcfc3202aef07dd8a935e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d170a51c0b972495b6def16c738e58e490cabab4e36fbe1dba28ecf8128bc9e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b4ec9530994b8f8ae905bab358eb099a3603041e931d19eae674e02e760a1235.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/af6a051c95b5e78b482ddf02a9a44e21609be6b7afe005ebf27aa81e779c904b.jpg"
 	],
-	"releaseDate": 20260910,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20260917,
+	"category": [
+		"RPG",
+		"Adventure",
+		"Action",
+		"Other"
+	],
+	"intro": "Master high-skilled combat and explore a vast, interconnected world.",
+	"description": "The Fountain of Youth was hidden away. Nonetheless, it is fated that a Usurper will slay the Ageless and unearth it once more.\n\nFOUNTAINS is a soulslike action-RPG built around fighting your way through a maze-like interconnected, seamless world. You'll take the role of a hooded stranger, recently imprisoned by a tyrannical regime. Will you escape and uncover the mysteries of this war-torn empire? \n\nDemanding, but fair combat\nTight, responsive combat puts every tool and tactic in your arsenal to the test, rewarding precision and quick thinking. Your enemies will hit hard and punish hesitation, turning each fight into an intense back-and-forth where the tide of battle can shift in an instant. Adjustable difficulty settings let you feel that thrill at exactly the intensity you crave, no matter your experience.\n\nExploration that rewards curiosity\nThe world of FOUNTAINS is one, seamless, giant dungeon. It is a tightly packed labyrinth which twists and loops back on itself. You'll always discover something new:  items, powers and upgrades to unlock new parts of the world.\n\nLeave Your Mark\nFOUNTAINS features an online message system. Leave hints throughout the world to help out your fellow players, or trick them into doing something foolish!\n\n- Souls-like action combat set in a metroidvania-style interconnected world.\n- Find new abilities and tools to help you to defend yourself and to traverse the world.\n- Rich dark fantasy lore told through exploration and environmental storytelling.\n- Online message system for community interaction.\n- Secrets are everywhere, so always keep an eye out!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "337 MiB"
+	"size": "419 MiB"
 }

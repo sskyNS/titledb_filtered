@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130729/1b16108f205f5156fa6a53b0b732a494eaf442386a59fa4d829e858e10698945.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ac482b9573bb4870a7681bdf805b619c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b16108f205f5156fa6a53b0b732a494eaf442386a59fa4d829e858e10698945.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/690f8fb44b2e23416851fa83df6a4471652afdd3c84ebf0099b21e2dcad44b4e.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130729/780bfd95137c80d2d6792bcf1409fbf1aa1d5408901a7ac7dbe30f472652fbc5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130729/fed5d4a88bd612c2f620c6653e4231c963cc32cbf32b02da4f3ee80eb6e42b02.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130729/545c6f7da445c8199e14e9ee54295276aa4366883c9d249a0fc6e14a14c8a0f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130729/e430e801b1098a77d5bf1db8455d95fe00c4dd2b184d480d70ca336fbcdfa45a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/780bfd95137c80d2d6792bcf1409fbf1aa1d5408901a7ac7dbe30f472652fbc5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fed5d4a88bd612c2f620c6653e4231c963cc32cbf32b02da4f3ee80eb6e42b02.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/545c6f7da445c8199e14e9ee54295276aa4366883c9d249a0fc6e14a14c8a0f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e430e801b1098a77d5bf1db8455d95fe00c4dd2b184d480d70ca336fbcdfa45a.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Party",
+		"Communication",
+		"Study",
+		"Education"
+	],
+	"intro": "The answer you choose reveals a hidden truth about you.\nAnd the instant you finish reading it \u2014 a chill.\n",
+	"description": "A photo of a hallway at midnight. A door left half open. An empty Ferris wheel.\nWhere did your eyes go first?\n\nThat offhand reaction reveals the true feelings you usually keep hidden.\nThis game is a psychological test where you look at an oddly raw, candid-style photo and pick \"how it makes you feel\" from 4 choices.\n\nThe moment you choose, a different \"true-feelings diagnosis\" appears for each option.\nAnd at the end of each one comes a small \u2014 chilling \u2014 twist.\n\"You think you're protecting it, but you've locked everyone out, and yourself in.\"\nA truth that makes your spine tingle the moment you notice it \u2014 gently spelled out for you.\n\nHallways, doors, mirrors, clocks, still water, staircases, roads \u2014\n50 symbolic scenes that tug at anyone's heart and peer into your deepest psyche.\n\nHow to play is simple.\n\u30fbLook at a photo and pick how you feel from 4 choices\n\u30fbRead the \"true-feelings diagnosis\" for your choice\n\u30fbWhen the chill hits, move on to the next photo\n\nThere are no right answers, so play again and again, with anyone.\nQuietly self-diagnose alone, or read them aloud with friends and squeal \"that's creepy!\" \u2014\nlight to start, deep when it lands: a creepy-meaning psychological test.\n\nSo, the \"darkness\" hiding deep in your heart \u2014 shall we take a peek?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n\u203bThis game is designed to be played on the Nintendo Switch\u2122 in vertical orientation.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "183 MiB"

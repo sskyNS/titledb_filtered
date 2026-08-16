@@ -1,19 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128534/e61ba84cdd6fca1d8419e4b24e8a92eca1ebb85e81fbf537bcda514072ae4785.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/475026469b0c4f7fb200f575b3747347_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e61ba84cdd6fca1d8419e4b24e8a92eca1ebb85e81fbf537bcda514072ae4785.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a610fbebf5195c4fddd3ca249496b4e9f643d9ba80f51060816b307bca8e040d.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128534/e1d3576f6f23d8957f03a6c6ba9d584ccca57a5400a5110aaf86af72d82ba66e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128534/0f85ca745124205cf60e66afccced3d1033babeab9113e990e5bb934ccbb0733.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128534/168a8f4a384ebe5afbf5dd2b0601ff430e15cfb0fc99f599166864551e815e10.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e1d3576f6f23d8957f03a6c6ba9d584ccca57a5400a5110aaf86af72d82ba66e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0f85ca745124205cf60e66afccced3d1033babeab9113e990e5bb934ccbb0733.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/168a8f4a384ebe5afbf5dd2b0601ff430e15cfb0fc99f599166864551e815e10.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"RPG"
+	],
+	"intro": "A mystery in a rainy manor\nRead the clues and observe\nFind the hidden truth",
+	"description": "On a stormy night, guests gather at an old manor.\nUse the text and illustrations as clues to uncover the mystery behind a missing invitation.\n\nThe rules are simple.\nRead each question, observe the people and objects on the screen, and choose the answer that seems most suspicious.\nEach correct choice brings you one step closer to the truth.\n\nExplore atmospheric scenes such as the entrance hall, guest rooms, and portrait gallery, each with its own mystery to solve.\n\nNo complicated controls are needed, making it easy to enjoy for mystery fans and first-time puzzle players alike.\nWhen you get stuck, hints help you keep going and think through each case at your own pace.\n\nRecommended for players who enjoy:\n\u30fbShort mystery puzzles\n\u30fbReading text and finding clues in illustrations\n\u30fbObservation, deduction, and brain-training games\n\u30fbPlaying solo or discussing the answer with family and friends\n\u30fbClassic manor mysteries with invitations, servants, secrets, and suspicious guests\n\nListen to the rain, examine every clue, and reveal the truth hidden inside the manor.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "223 MiB"

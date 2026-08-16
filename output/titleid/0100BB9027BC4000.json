@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129249/a199171f410619ba95981f1e7e43be97507295db8e7cdc7df457f347ad744594.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129249/4f6eaa00fe523fa98cd4d4e544e75a318edee2ca0d169909d3d6d3a5a3cea231",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a199171f410619ba95981f1e7e43be97507295db8e7cdc7df457f347ad744594.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/60154f4cb364a40537adeb13dec69b1371db90ea721f70623aee4e7e35f26998.jpg",
 	"publisher": "Intelectiva Soluciones Innovadoras",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/c8c0f16cbc5a30d66a26c2c05298ac61d3480543dbc5c7a7525d715c6f69d57b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/629419e23b491076862c05bb1a930a9a4250e16e07af1c76a004e4b0b528eb67.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/0972a1bdf9ab0f303e5b1af6c4ec1de975b1e2bff41f1b57b0a9a790e9f41e7b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/616eaf781b46da0f80bfb7c62c17da3458b6d1ce34fef6193f1fec7eaf5d09cb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/55abcf39bc577a405c24a5a36bd5b516765bb3a3e2aca1fe8f11320e1c90ce24.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129249/f7e948b1058df194e4d12cc9b8abafcba9827192b15ac2f7cc5ece6fcc66cbba.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c8c0f16cbc5a30d66a26c2c05298ac61d3480543dbc5c7a7525d715c6f69d57b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/629419e23b491076862c05bb1a930a9a4250e16e07af1c76a004e4b0b528eb67.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0972a1bdf9ab0f303e5b1af6c4ec1de975b1e2bff41f1b57b0a9a790e9f41e7b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/616eaf781b46da0f80bfb7c62c17da3458b6d1ce34fef6193f1fec7eaf5d09cb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55abcf39bc577a405c24a5a36bd5b516765bb3a3e2aca1fe8f11320e1c90ce24.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f7e948b1058df194e4d12cc9b8abafcba9827192b15ac2f7cc5ece6fcc66cbba.jpg"
 	],
 	"releaseDate": 20260702,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Sports",
+		"Arcade",
+		"Simulation",
+		"Multiplayer"
+	],
+	"intro": "Feel the true padel fever in your hands with Padel Pro World Tour! Step onto the court, master the walls, and compete on the world tour",
+	"description": "Get your racket ready and step onto the court with Padel Pro World Tour, the ultimate game that brings all the excitement, strategy, and adrenaline of the world\u2019s fastest-growing sport to your Nintendo Switch\u2122 console!\n\nWhether you\u2019re looking for casual matches with friends or dreaming of the glory of a fierce professional circuit, this game is designed to deliver the most realistic, fluid, and fun padel experience possible. The ball never stops bouncing!\n\nLearn how to use the walls, place the ball exactly where it hurts the most, and set up the perfect smash to leave your opponents with no answer. Thanks to accessible controls and fast-paced gameplay, anyone can start playing in seconds, but only the best players will know how to read the court, anticipate rebounds, and finish every point in style.\n\nMaster lobs, bandejas, volleys, and spectacular three-meter smashes with intuitive controls that are easy to learn but difficult to master.\n\nPlay on state-of-the-art courts, outdoor seaside stadiums, or packed arenas filled with crowds that react to your best points.\n\nStep onto the court, feel the pressure of match point, and fight to become the champion of Padel Pro World Tour.Play wherever and whenever you want! Do you have what it takes to dominate the court and lift the championship trophy?\n",
+	"languages": [
+		"en",
+		"es",
+		"fr"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "373 MiB"

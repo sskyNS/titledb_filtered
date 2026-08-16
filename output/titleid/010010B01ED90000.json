@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000080242/db34f722db5383e6583e46a0a48dd09cb3d6b7987b187a9b3c6dd2b3360692e1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7824480c93d94432b677aaf7880ba62d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db34f722db5383e6583e46a0a48dd09cb3d6b7987b187a9b3c6dd2b3360692e1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfd8e7858b858ba2dfac6b05021b1e276c5fd0f29f59535ffc1974c4b73b4840.jpg",
 	"publisher": "Joystick Ventures",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080242/74fb92e0b9cf7b0b62c95dcd65a392e646003485ae3edf55c56d7b21d1b2ead1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080242/0697d6b26ca69867c2c1354d8b4e9ba3f394482750ea9e40a867052dd3ad8ad0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080242/03c9ab0722b8fd4daf7319da5c87164c2a14f3edf93be356beab838eb91f64dc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080242/866ffe4e77516912873cc59fabca29704eaabb48be7254e03b0c9c4e0aeab74d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000080242/a2a27ada58fab19ff53d5f8cc3c81d8f243512e480c11f8d47db339a3ca3577d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/74fb92e0b9cf7b0b62c95dcd65a392e646003485ae3edf55c56d7b21d1b2ead1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0697d6b26ca69867c2c1354d8b4e9ba3f394482750ea9e40a867052dd3ad8ad0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/03c9ab0722b8fd4daf7319da5c87164c2a14f3edf93be356beab838eb91f64dc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/866ffe4e77516912873cc59fabca29704eaabb48be7254e03b0c9c4e0aeab74d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a2a27ada58fab19ff53d5f8cc3c81d8f243512e480c11f8d47db339a3ca3577d.jpg"
 	],
 	"releaseDate": 20260819,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy"
+	],
+	"intro": "Command minifig-inspired armies and customize strategies with hand-drawn formations. Conquer unique campaigns for all five armies and unleash massive battles.",
+	"description": "Toy Tactics is a physics-based real time tactics game where you can draw unit formations and command units based on minifigs to victory. Under the guidance of legendary generals, master the ability to draw configurations into the battlefield and send miniature legions to war against hordes of undead foes. Charge up your army with artifacts and destructive spells to give you the upper hand in battle and smash your foes in real-time. Create intense battles in both single-player and multiplayer modes in \u201c1v1\u201d or \u201cCo-op\u201d. Think fast, deploy your units strategically, and lead them to victory!\n\nUnits inspired on minifigs\nAll units in Toy Tactics are inspired by miniature figures used to recreate historical battles and fictional ones too! Fight against, or as, skeletal dinosaurs, spooky necromancers, and stealthy samurai. These bloodthirsty enemies want you to utter destruction. Battles occur in many scenarios, from the sunny pirate-dominated island of Tortuga in the Caribbean to the perilous mountains of feudal Japan; expect the unexpected!\n\nDraw unique and personalized formations\nFreeze the game at any time to draw new formations. From simple commands to charge and encircle your enemies to more complex strategic formations like pincer or wedge formations, divide your army into battalions and give each one a unique formation. The battlefield is a canvas, and you are its artist.\n\nReal Time Physics for Real Time Strategy!\nJust as in a real battle, in Toy Tactics your minifigs helmets are sure to roll. Watch your units fight with fully simulated physics for every encounter, crumble castle walls, and destroy structures. Witness the chaos and destruction unfold in a most epic fashion as the field is flooded with combat scenes.\n\nUnlock Powerful Spells\nTurn a bad situation around with our spell and relic system. Defeat enemies to charge up your power, then summon reinforcement catapults, quickly construct medical tents to heal allies or drop flaming meteors onto the heads of your foes. Personalize your strategies by unlocking your favorite spells through our skill tree; the possibilities are endless!\n\nFeatures:\nA physics-based RTS game with a unique drawing system.\n\n- Many unit types with strengths and weaknesses: raptor mounting skeletons, stealthy samurai warriors, impenetrable Roman legions, and many more!\n- Magical spells to blow enemies away, heal your allies, bring back fallen enemies as allies, and more!\n- Physics simulation system that sends foes flying and helmets rolling.\n- Five challenging campaigns, each with its challenging boss fights!\n- Five game modes: Campaign, Puzzle, Mercenary, Sandbox and Multiplayer:\n-- \"Co-op mode\": Team up with another player to fight against AI, aiming to survive, coordinate, and produce units. Strategic skills and quick decision-making will be paramount.\n-- \"1v1\": Face off against another player. You will build your army, select powerful relics and spells, and meticulously plan your tactics to emerge victorious.\n\nToy Tactics offers a hardcore strategy experience that will challenge even the most seasoned commanders! Gear up, draw your formations, and lead your minifig troops to victory. See you on the battlefield, commander!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "4.01 GiB"
 }

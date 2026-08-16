@@ -1,21 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104177/7c47ea50e6a28a9b14735f2eaaae4e5c6d2398710845932d4cbcd5422defa0c6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3fb09a3e716a4657b7a8d77c38a3913a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c47ea50e6a28a9b14735f2eaaae4e5c6d2398710845932d4cbcd5422defa0c6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a18fc199bd215f44a9662532d7b04ffcdda82449a416471396654e68cd4120e.jpg",
 	"publisher": "Alchemy Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104177/3abeb0ffad9e77e805e78506907c7d883d739ba55b6b221b426b168223be4362.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104177/2ec8406c4131f2582bec8477a85f4fbbc924776b0431be11d62672dcf3a86837.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104177/b36d9404cb0e462e3c34f1f9767a448bea98cf1897afdf17dffbcd5d726598f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104177/70d41a05602c45be6aede9813b44b90d681c49171a606ab405b5ffab9f80fa9c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104177/571ba5e59a06ec6ae43c9175cf39f13b2bfde449b06067e861c3a5479b9337da.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3abeb0ffad9e77e805e78506907c7d883d739ba55b6b221b426b168223be4362.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2ec8406c4131f2582bec8477a85f4fbbc924776b0431be11d62672dcf3a86837.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b36d9404cb0e462e3c34f1f9767a448bea98cf1897afdf17dffbcd5d726598f0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/70d41a05602c45be6aede9813b44b90d681c49171a606ab405b5ffab9f80fa9c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/571ba5e59a06ec6ae43c9175cf39f13b2bfde449b06067e861c3a5479b9337da.jpg"
 	],
 	"releaseDate": 20260826,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Other"
+	],
+	"intro": null,
+	"description": "A Tower Full of Cats is a cozy and charming hidden object game where your mission is simple: find every cat across the entire history of catkind\u2026 and beyond!\nClimb through time in this vertical adventure packed with secrets, surprises and, of course, cats.\n\nTravel across beautifully illustrated levels representing different eras and worlds, each overflowing with adorable felines hiding in plain sight. Discover over 1,400 cats, uncover special items, and reveal charming surprises as you ascend the mysterious Tower.\n\nWhether you're a completionist, a cat lover, or simply looking for a relaxing and rewarding experience, A Tower Full of Cats delivers a playful journey that keeps you smiling at every floor.\n\nFeatures\n\n- 1,400+ Cats to Find: A massive collection of unique and charming felines hiding everywhere.\n- Time-Traveling Levels: Explore different eras and fantasy settings as you climb the Tower.\n -Extra Secrets: Hidden objects, bonus collectibles, special cats, and surprises in every scene.\n- Adaptive Soundtrack: Music that evolves with each stage, creating a cozy and immersive ambiance.\n-Relaxing Gameplay: No timers, no stress, just pure hidden-object fun focused on exploration.\n- All Ages Friendly: Perfect for kids, adults, and anyone who loves cats (or discovering things!).",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "500 MiB"

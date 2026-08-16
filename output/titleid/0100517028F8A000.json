@@ -1,20 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130236/36c8b9c2d3712a7c8ec84a72a65350bec23f1b119b676a6b42db24172772a816.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/777dd3b5f9fb4376827b24b8a7b57c99_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36c8b9c2d3712a7c8ec84a72a65350bec23f1b119b676a6b42db24172772a816.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/58d1f9c1bd384d3d367f5fdc621b5e4af510df59fb64837b7f897f2974127bd0.jpg",
 	"publisher": "Afil Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130236/2dcfd4c3c810edbbdee251f6c104f13231f9db1a1e46e34a6d24cbad5414f343.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130236/760b868585973193460de87405caa46f0904c0231c6ed5ed109377733f45c84f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130236/ccf17c66aa3f3ded67471e26178a9f29e82934d5a8ab9b339c414ad686328f88.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130236/b97732b1ec341cfcea4827131c6023226bd0417ef19341616dc95b3702d4a04a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2dcfd4c3c810edbbdee251f6c104f13231f9db1a1e46e34a6d24cbad5414f343.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/760b868585973193460de87405caa46f0904c0231c6ed5ed109377733f45c84f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ccf17c66aa3f3ded67471e26178a9f29e82934d5a8ab9b339c414ad686328f88.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b97732b1ec341cfcea4827131c6023226bd0417ef19341616dc95b3702d4a04a.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Think Like a Genius, Solve Like an Inventor",
+	"description": "Get ready to enter a world of clever inventions, smart challenges, and brilliant solutions in Magnetail. In this charming puzzle adventure, you follow an ingenious inventor mouse who transforms workshops, laboratories, and storage rooms into playgrounds of experimentation and discovery.\n\nEach level presents a new challenge where energy, magnetism, and logic work together. Push energy modules, watch them slide across the environment, and use magnets strategically to redirect trajectories, create barriers, and open unexpected paths. It may seem simple at first, but you will quickly discover that every move can completely change the outcome of the puzzle.\n\nThe key is thinking several steps ahead. Where will the module stop? Which magnet should be used first? Which route leaves the path clear for the next move? In Magnetail, every decision matters, and finding the perfect solution is as satisfying as powering up a complex machine for the very first time.\n\nExplore 30 carefully crafted levels spread across busy workshops, experimental laboratories, and storage facilities filled with mechanical challenges. New situations constantly emerge, requiring observation, planning, and creativity to master the rules of magnetism and turn obstacles into opportunities.\n\nWith charming visuals, accessible controls, and puzzles that reward intelligence and experimentation, Magnetail delivers a relaxing, engaging, and highly rewarding experience. It is the kind of game that makes you stop, study the room for a moment, and then smile when the perfect solution finally clicks into place.\n\nAlign the modules, master the magnets, and prove that no invention is too complex for a brilliant mind.",
+	"languages": [
+		"en",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "69 MiB"

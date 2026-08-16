@@ -1,19 +1,25 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129386/f3365238e474c7a1f087b7e7ef779ed9a1cbebb4d19b1d48be12f55642f7f1c5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6b809137596c4c55921a77d237fe163c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f3365238e474c7a1f087b7e7ef779ed9a1cbebb4d19b1d48be12f55642f7f1c5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7fc75527b1655f15407a7b77d83687fe78678d917826fc93b0b2c66b53e8512.jpg",
 	"publisher": "AGE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129386/8057ac0277294012f66df4f2c4ca510f91a7491178884a19a2e58953d3ad3c48.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129386/f8ece934fc2aece412571cc4e6769098bbfa423bd33799e4598a6de8d044a008.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129386/99f115c504a10c7a0b1de4bcfafac9ecb5830a0b2aa42c8414100a7b2a4e13c2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8057ac0277294012f66df4f2c4ca510f91a7491178884a19a2e58953d3ad3c48.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f8ece934fc2aece412571cc4e6769098bbfa423bd33799e4598a6de8d044a008.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/99f115c504a10c7a0b1de4bcfafac9ecb5830a0b2aa42c8414100a7b2a4e13c2.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "A puzzle game featuring many Steam Girls is here!",
+	"description": "Collect the puzzle pieces of adorable Steam Girls and complete the puzzles!\n\nTotal of 15 stages\nThe difficulty increases as you clear stages!\n\nStages 1\u201310: 30 pieces\nStages 11\u201315: 50 pieces\nThe final stage is a challenging level with no background watermark to guide you!\nCarefully examine each piece and lead the puzzle to completion!\nWhen you complete a puzzle, high-quality images of the Steam Girls will be added to the gallery\u266a\n=====================\nOur company supports content creators and streamers who wish to showcase our games.\nYou do not need to obtain permission to create gameplay videos or stream this game.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "265 MiB"

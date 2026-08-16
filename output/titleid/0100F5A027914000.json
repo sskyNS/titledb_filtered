@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121316/2bcc21720100aaf3c977137099f62ef7a80f6a9de5f2b3488ec78854053e054f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/62634d5b2ab844f5ac8e83d0f2fff085_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2bcc21720100aaf3c977137099f62ef7a80f6a9de5f2b3488ec78854053e054f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0c412387931e5e2f586afcc7ec10a55d31a3d8ca8bcabdc800456149fbafc66.jpg",
 	"publisher": "SuperPowerUpGames",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/6a7b6cfb5b188f36cae33ba1b0a3fb2e276533d69ec3605c981b09750e264f37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/73b08c1766cc10c409d7996f2068e585087bef98e34ada4b6a328a933e3d6cac.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/417a080b419954c8c5adc8bbeedb711af03a97cbfb47e9f1ffbbd6fab74843b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/13c5bc89820be21f4949e1377885298cad64aa6ad8cf0bb95fef5d89ae58be7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/bc1583a71cb41fcd7ba5640d4ec2de8ce63622434d873cc0d08c5291f0c21930.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121316/3f369651f7153419e1fb7c1dc5a4f14da9891cf6f435576c3a850fb91b1fa629.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6a7b6cfb5b188f36cae33ba1b0a3fb2e276533d69ec3605c981b09750e264f37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/73b08c1766cc10c409d7996f2068e585087bef98e34ada4b6a328a933e3d6cac.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/417a080b419954c8c5adc8bbeedb711af03a97cbfb47e9f1ffbbd6fab74843b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/13c5bc89820be21f4949e1377885298cad64aa6ad8cf0bb95fef5d89ae58be7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bc1583a71cb41fcd7ba5640d4ec2de8ce63622434d873cc0d08c5291f0c21930.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3f369651f7153419e1fb7c1dc5a4f14da9891cf6f435576c3a850fb91b1fa629.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Racing",
+		"Sports",
+		"Simulation",
+		"Arcade"
+	],
+	"intro": "Enjoy 2 games in 1 with this irresistible speed games pack!",
+	"description": "This pack includes the games: Speed Truck and Rock \u00b4N Racing Off Road DX.\n\nRock 'N Racing Off Road\n\nGet ready to enjoy Off Road races with your friends and family!\n\nRock'N Racing Off Road offers the most entertaining and exciting races, with loads of skids, crashes and amazing jumps. You will have several modes of play, such as Cup mode, time trial and multi-player with the option of up to 4 Players at a time.\n\nSpeed Truck Racing\n\nIn Speed Truck Racing, you will enjoy the fastest, most spectacular races at over 200 Km/h, avoiding multiple collisions against 20 rivals.\nThere are several modes available, including Championship, Arcade and 4-player multiplayer.\n\nThere is also an online leader board where you can compare your best times with those of your friends and players from around the world.\n\nFeatures:\n\n-Arcade driving.\n-4-Player multiplayer.\n-Online ranking.\n-Rock music.",
+	"languages": [
+		"ja",
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "457 MiB"

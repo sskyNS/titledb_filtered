@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126411/bba260c1b8a75ecd54ae7357e25b95a2c9d8b1f4e4329087702ffef2ea250b5e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f14271a471d44474a32eede8716070b9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bba260c1b8a75ecd54ae7357e25b95a2c9d8b1f4e4329087702ffef2ea250b5e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/33bbbd270390f3e7aa2789c2576c8af9e2f3415a0399b1d2eb09bfde0666d1d6.jpg",
 	"publisher": "Balio Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/1f99767a83fdcddbb978aeb3505ae53d89aa9d5cbb498abf05874306cdd5ebdc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/3e9ea8c1f5c955339822f32005f1e7cb2892af5a9ab9974cdb4c0962663eac7e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/e28ebb0d5394373bb434d583fd134fa87eab9e4624710d124a5321ea066886fc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/8caae3d4c7d447c1dfbc5da77be00c26babee18b6ab8a9cab17d964a44207b12.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/c6b455e418b77d44ee4b0869e6538d408548a6fd4b93f8c81e8bd00fd93cded2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126411/9c433cdb4dcb3ac964dc7fb4b92b5a85b82cb7ad08e7c76c5c5d0faf7e7575dc.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1f99767a83fdcddbb978aeb3505ae53d89aa9d5cbb498abf05874306cdd5ebdc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3e9ea8c1f5c955339822f32005f1e7cb2892af5a9ab9974cdb4c0962663eac7e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e28ebb0d5394373bb434d583fd134fa87eab9e4624710d124a5321ea066886fc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8caae3d4c7d447c1dfbc5da77be00c26babee18b6ab8a9cab17d964a44207b12.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c6b455e418b77d44ee4b0869e6538d408548a6fd4b93f8c81e8bd00fd93cded2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c433cdb4dcb3ac964dc7fb4b92b5a85b82cb7ad08e7c76c5c5d0faf7e7575dc.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Party",
+		"Board Game",
+		"Arcade",
+		"Multiplayer"
+	],
+	"intro": "Turn your living room into a chaotic playground! 50 mini-games, 1-4 players, one goal: grab the Yummy before your friends!",
+	"description": "Grizzy just wanted a little peace and quiet... but the Lemmings had other plans! Take control of these unstoppable little troublemakers and turn your living room into a total madhouse: unpredictable mini-games, boards full of surprises, and dirty tricks between friends, every round can flip in seconds. One goal: grab as much Yummy as you can before everyone else, and drive Grizzy up the wall.\n\n50 Wild Mini-Games\nPrecision, speed, reflexes, memory, observation, or pure survival instinct: every challenge is varied, absurd, and full of twists. A race can come down to the very last second, and a friend can always steal your win at the worst possible moment.\n\n6 Game Modes for Every Mood\nA quick round, a full game night, a duel between die-hards, or pure button-mashing mayhem, there's always a reason for one more game.\n\n5 Boards Inspired by the Series\nFrom the Ranger's Cabin to the Yummy factory and the mountain trail, plus 2 secret boards to unlock, each one has its own setting, pace, and surprises.\n\nOn the Couch, Up to 4 Players\nA 100% local experience, in the same room, built for game nights with friends and family alike. Instantly fun, easy to pick up, and playable with up to 4 players on a single screen, one controller each.\n\nUnlock, Collect, Replay\nWith the rewards machine, unlock 40 Lemmings and complete your collection of 150 stickers as you play.\n\nKey Features\n- Family party game for 1-4 players, local\n- 50 mini-games, 6 game modes, 5 boards\n- 40 Lemmings to unlock, 150 stickers to collect\n- 100% faithful to the Grizzy and the Lemmings animated series\n- Chaos, dirty tricks, and big laughs, for everyone\n\nEverything's ready: pick your Lemming, keep an eye on your friends, and never leave a jar of Yummy unattended.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "1.32 GiB"
+	"size": "1.74 GiB"
 }

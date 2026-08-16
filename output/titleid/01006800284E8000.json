@@ -1,22 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125713/313c511e3488ec79f863921ce56fa4bb41823562b0d5b2433279294a51fd8018.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/101ea8d2c94c49a2aa77b93117f8bbcd_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/313c511e3488ec79f863921ce56fa4bb41823562b0d5b2433279294a51fd8018.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b9419a030f329ca06ffd42c038bbd5e2f1e37b93e3a8889fb65b7d30a42e8ae.jpg",
 	"publisher": "Silesia Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/427fad79098c1134e9c1990cb40f233406289406f2ed36f6841ef9270b798d2c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/54b476dd4212334b9108d94b26c3a7777112b000575e74c4c4ece29f330fb859.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/58acc3840c7f5755f6cd32ff4fe50dfc651bd3e2dd0b50887f50668748a7e0c0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/a14750cb0afff24bf08a31760cfd02cb382c72a49e72a8c20d96d91beed83a54.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/43581aa6f31ebe49d54f4e436dc0591a0c85fe571d3ae3f03949d14da78ab839.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125713/38b3c7c8cf7e009ea455d2a03a14a0d233d6fec9e2ad47441b789b9ed58828c7.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/427fad79098c1134e9c1990cb40f233406289406f2ed36f6841ef9270b798d2c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/54b476dd4212334b9108d94b26c3a7777112b000575e74c4c4ece29f330fb859.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/58acc3840c7f5755f6cd32ff4fe50dfc651bd3e2dd0b50887f50668748a7e0c0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a14750cb0afff24bf08a31760cfd02cb382c72a49e72a8c20d96d91beed83a54.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/43581aa6f31ebe49d54f4e436dc0591a0c85fe571d3ae3f03949d14da78ab839.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/38b3c7c8cf7e009ea455d2a03a14a0d233d6fec9e2ad47441b789b9ed58828c7.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Tour beautiful places and dance the Sardana with the hidden cats of Barcelona!",
+	"description": "It's time to have a snack at a local Churreria and take a long stroll through Park G\u00fcell, because the Hidden Cats have arrived in ever beautiful and sunny Cat-alonia!\n\nThe nooks and crannies of Barcelona hide many adorable furballs... Can you spot them all?\n\nOn your trip you can - of course - count on:\n- 8 beautiful, hand-drawn, real life-inspired levels;\n- 800+ hidden cats and objects to spot;\n- NEW! Colouring Mode Selection with progressive color reveal for found objects and areas;\n- Collectible cards and secrets!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "715 MiB"

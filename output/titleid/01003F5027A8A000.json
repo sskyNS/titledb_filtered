@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121901/0686c840786201996e70ec15a9c74be299bcbb334d426c4e8c6a7dffa2f7afde.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121901/c47038a1bcf31623b1c80e942aa93104f67d1db8e8b6d382496030c81a932c6a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0686c840786201996e70ec15a9c74be299bcbb334d426c4e8c6a7dffa2f7afde.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f3aee4f3ed87cd2b000325babc30d0643c2ba48fc412efdef20a22c86325d13d.jpg",
 	"publisher": "Minimol",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/e7e6dd124f42c9b658502929d26dd9e57ad509f371b2f08de65e36fa67357732.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/01389b5c44de77e8aafff9b3c25f6f940217552d341c5606bd113a3bfbcc6e37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/2d74672dbb0bb6cf92609b829d2b7d4a95632d53f84f55c3e9018b267771c377.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/018dd30da04ad8107df4c7455263cdd0df291da5d2d5048a27795a52e50222df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/3de5cc78deb1556705762a29ea023714d9fff0e43d1252958688ec872506a6e1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121901/5e6b180507a03aa4f5b208a8f32c818eb97cc8b0f6d6b3927f406537d12fa2ee.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4488495d7b5af4b03eebe863cd850e09be8df03fd472904b3aa0ebf088ab9de3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/23922abe12fd7bd2999558fe188792859e460b4369d8354b49f59744a409ada2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a2d722da1d49100e26c87f3be2af9887ae20e3412223a9bf27585a1160a0b60c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/50c2d9c28133e3a140de4622bf342c72755710351ae568cef08eade95a902e1f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3cd7832d5353dbf7b736664a10f9a6097cfde189da0f5bcb9c9f8083e31a8266.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b3432d3fb77f94bb6db3e11be4c0e4e80eb507fe23c8b7052797b92dea24b9f.jpg"
 	],
 	"releaseDate": 20260729,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "Cozy noir puzzles. Only logic uncovers the truth.",
+	"description": "Case Solved: The London Files blends cozy noir storytelling with the elegant logic-driven deduction popularized by Einstein\u2019s Riddle. \n\nBehind London\u2019s fog and gaslight, every case becomes a closed puzzle: a handful of suspects, a tangle of conflicting testimonies, and a single answer that yields to logic alone. \nEach one is a carefully crafted challenge, solved through reasoning and observation, inviting players to uncover buried truths. \n\nExplore atmospheric crime scenes, interrogate suspicious characters, connect fragmented evidence, and solve intricate mysteries through pure logic, no guesswork required. \nWith its relaxing pace, cerebral puzzle design, and richly atmospheric noir world, Case Solved: The London Files delivers a calm yet deeply satisfying experience where only sharp deduction reveals the truth.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Violent References"
+	],
 	"dlcs": [],
-	"size": "207 MiB"
+	"size": "356 MiB"
 }

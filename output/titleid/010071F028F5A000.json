@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130195/4f87714c2d38876323a8b76640e5f1451e625743fba3e8789018dde65b48e3e3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130195/ee35bb80ca82eb0adc74928e353c75b9b6b43975e865271c691a03d5b605a577",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f87714c2d38876323a8b76640e5f1451e625743fba3e8789018dde65b48e3e3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/51b6ec2a0cfbd49e2c0afc447d05272df6667058fa2feb87caf5f79fc626fb16.jpg",
 	"publisher": "Webnetic",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/6362bd47ab31fb0f3ad08df4e3ac8e31075700280b2b5562a248e72724a9cadf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/afd5793e21fc875fcce91fe0ed2dd1e4bb26266858111783eb250e601314894b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/18ab86a120d252efafa9523893a7bd8847f1fceddc6398c3424449a725985677.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/873a81773cf895c862c7ca6d7e8830fdd5e5e037401c37596762e9ef4d8aeaa9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/4bf09c0f3aa70cfaa3eabb39696624ef484813631f99a2163863bd39ecb974cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130195/9ad025c759ec1893c5f550ca62b6e29ed43491c7772aa23ee9b73fc60a3e25f5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6362bd47ab31fb0f3ad08df4e3ac8e31075700280b2b5562a248e72724a9cadf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/afd5793e21fc875fcce91fe0ed2dd1e4bb26266858111783eb250e601314894b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/18ab86a120d252efafa9523893a7bd8847f1fceddc6398c3424449a725985677.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/873a81773cf895c862c7ca6d7e8830fdd5e5e037401c37596762e9ef4d8aeaa9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4bf09c0f3aa70cfaa3eabb39696624ef484813631f99a2163863bd39ecb974cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9ad025c759ec1893c5f550ca62b6e29ed43491c7772aa23ee9b73fc60a3e25f5.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Education",
+		"Study",
+		"Practical"
+	],
+	"intro": "A relaxing puzzle adventure where simple rules lead to surprisingly deep challenges.",
+	"description": "Welcome to Hex Park a colorful playground of brainteasers where every move matters. Rotate and align arrow tiles to guide directions, pop obstacles, and clear the board in as few moves as possible. It\u2019s easy to pick up, delightfully tricky to master, and impossible to put down.\n\nTackle handcrafted levels featuring smart mechanics: keys and locks, mystery tiles, bombs, ice counters, gears, and more. Plan routes, set up neat arrow alignments, and use handy tools like the hammer, dynamite, and drill when you need a nudge. No timers, no stress\u2014just clean, strategic puzzle-solving with that perfect \u201cone more level\u201d feel.\n\nWhy you\u2019ll love it:\n\nKeys/locks, mystery tiles, bombs, ice counters, and other clever twists\n\nFair tools to get unstuck\u2014without breaking the puzzle flow\n\nPlay at your own pace with smooth, satisfying controls\n\nAchievements and cloud saves supported\n\nTake a stroll, stay for a challenge\u2014Hex Park is your new daily puzzle routine.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "82 MiB"

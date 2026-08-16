@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121861/c4fad394ba0cc7b4175e5b99718cd8a38cacad59da7898d7b2756a22e9c35c28.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121861/d6e1f030ce8bff3008b2e404a074280779c484496c95b650d8d7f5e70800af47",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4fad394ba0cc7b4175e5b99718cd8a38cacad59da7898d7b2756a22e9c35c28.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bb4ebd9eeed823358f5af32c9baabc17bfe12340ea98f985fd26e4bd715b8706.jpg",
 	"publisher": "PRIME",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/55f0128605a7a3426e3b13e80cd49da62ff9fa848812ab970959a068184a61b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/63795a36bc63f877bcc6d27436fe9b2fd1b8c74e45558bdf49ae2f4b87654e39.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/3ea2c53ab1c1f2884606debad47baf9f2ee3e4864af98a3eaeb0aafd51efe5ff.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/d374c674959b8ae4ef8b48e397d8e0b01d1cee4cf23ece3c78a06d2071eade39.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/350c8400c2f646eabfc6c45a93d84b64476f80df2f0aed22234f8059951cd90b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121861/5dc13e636084a5f32163fd072bd546633ca7b634bdb423b6faeefb3d1975fd03.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/55f0128605a7a3426e3b13e80cd49da62ff9fa848812ab970959a068184a61b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/63795a36bc63f877bcc6d27436fe9b2fd1b8c74e45558bdf49ae2f4b87654e39.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3ea2c53ab1c1f2884606debad47baf9f2ee3e4864af98a3eaeb0aafd51efe5ff.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d374c674959b8ae4ef8b48e397d8e0b01d1cee4cf23ece3c78a06d2071eade39.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/350c8400c2f646eabfc6c45a93d84b64476f80df2f0aed22234f8059951cd90b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5dc13e636084a5f32163fd072bd546633ca7b634bdb423b6faeefb3d1975fd03.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Master the magic and Uncover the Secrets of a Blighted World",
+	"description": "Step into the boots of Adrian, a shipwreck survivor stranded on a mysterious and hostile island. With your crew missing and danger lurking in every shadow, you must explore ancient ruins, face terrifying monstrosities, and find a way back home. Will you embrace your fate or fall to the darkness?\n\nForge Your Ultimate Playstyle\nSurvival demands more than brute strength. Combine a vast arsenal of cold weapons with mystical sigils to unleash devastating elemental attacks. Adapt your strategy on the fly, manage your stamina, and utilize perfect-timed rolls to outsmart ruthless foes and colossal bosses.\n\nExplore, Upgrade, and Conquer\nTraverse 10 vast, interconnected locations filled with hidden secrets and pathways that unlock as you grow stronger. Level up your character, allocate stats to fit your playstyle, and craft consumable items to survive the harshest encounters.\n\nKey Features:\n\nTactical Combat - Dynamic battles requiring precise stamina management and reflex-driven dodging.\n\nDeep Customization - Discover over 55 distinct spells and countless ways to fuse weaponry with magical enhancements.\n\nMassive World - 10 sprawling environments packed with unique enemies and formidable bosses.\n\nCraft & Upgrade - Forge consumable sigils and enhance your gear to overcome insurmountable odds.\n\nEndless Challenge - Put your skills to the ultimate test in Boss Rush mode or take on the infinite challenge of New Game+.\n\nPlay Your Way - Fully comfortable handheld or TV play.",
+	"languages": [
+		"en",
+		"pt",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "86 MiB"
 }

@@ -1,22 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132170/b3d6b97ce34deaf745f75e085d4a44ced913053033951c9ccdf3ee98e74dc2c5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132170/27988a49b2dc898ef5da773ca4931d02007d0bc9ec16c231198d77c6968206ca",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3d6b97ce34deaf745f75e085d4a44ced913053033951c9ccdf3ee98e74dc2c5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/72990645ac1c13d191d78191c5f6f75c4bcca8f1734c688644c83f825274ea4b.jpg",
 	"publisher": "Dinomore Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/05820243272d74293400ea4a1978b2d8fd567594d836c4996c0ea02bc67bffd7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/e9029db70cbf603a1fb4f27a26823ee4315e867558b98eb9fdb52b5a3309ff16.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/9d3502e0a52e249b3c7a676fd23bf026a954b98a08a9bfd95b4dbc780f91cdd8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/576a50778c10fb8817d4cae2cfa38b1446d140768ad8218b74497e51898d15ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/86a40b202f4ec39467c4904accdd04ab93d41abbfdae370f68574419208f41ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132170/90f84cd9c77c8818ef9ad9015bc74ce140b0b4845d7b401eebe6d29fc69cce15.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/05820243272d74293400ea4a1978b2d8fd567594d836c4996c0ea02bc67bffd7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e9029db70cbf603a1fb4f27a26823ee4315e867558b98eb9fdb52b5a3309ff16.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9d3502e0a52e249b3c7a676fd23bf026a954b98a08a9bfd95b4dbc780f91cdd8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/576a50778c10fb8817d4cae2cfa38b1446d140768ad8218b74497e51898d15ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/86a40b202f4ec39467c4904accdd04ab93d41abbfdae370f68574419208f41ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/90f84cd9c77c8818ef9ad9015bc74ce140b0b4845d7b401eebe6d29fc69cce15.jpg"
 	],
 	"releaseDate": 20260822,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Puzzle",
+		"Party",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "Stack blocks to reach the sky!\nMaster real physics as towering structures sway!\nUse crazy powers, cause epic crashes, and outplay your friends!",
+	"description": "BLOCKY POWERS is a fast-paced physics-based party game where every block matters! Grab a controller, challenge a friend, and build the tallest tower before everything comes crashing down.\n\nReal Physics & Powerful Winds\n\nForget predictable block stacking. Every piece has real weight and balance, making each tower sway under dynamic physics. Powerful gusts of wind can strike at any moment, turning even the strongest structures into a challenge.\n\nSabotage Your Opponent\n\nBuilding is only half the battle. Drop extra blocks directly onto your rival's tower to throw off their balance and ruin carefully planned structures.\n\nSend awkward or heavy blocks\nDisrupt your opponent's tower\nStrike at the perfect moment to trigger a collapse\n\nPerfect timing can change the outcome of every match.\n\n2-Player Local Multiplayer\n\nPlug in a second controller and enjoy instant head-to-head battles on the same screen.\n\nFast local multiplayer action\nCustomize wind strength and block speed\nPerfect for parties, families, and friendly rivalries\nGame Modes\n\nRace Mode\n\nBuild to the target height before your opponent. Speed is important, but poor balance can bring everything down.\n\nSurvival Mode\n\nProtect your limited lives by stacking carefully. Survive the wind, avoid losing blocks, and withstand your opponent's sabotage.\n\nFeatures\nReal-time physics-based block stacking\nDirect block sabotage mechanics\nDynamic wind effects\nLocal 2-player multiplayer\nRace and Survival game modes\n\nMaster real physics, outsmart the wind, sabotage your rival, and build your way to victory in Blocky Powers!",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "88 MiB"

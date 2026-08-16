@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124562/475a23885c7bc462fe4a51cd45face510c293749691ff4a84d31942f91d7e94c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124562/076f48a58d991a69dba7cbf46d5ddecc4c00401b4f9a2bf836b94d7855e7385e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/475a23885c7bc462fe4a51cd45face510c293749691ff4a84d31942f91d7e94c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/73206700a8a6a0be0799d20ee7dead952f48ecb4a359ab278cf7e3c0e7e2d73c.jpg",
 	"publisher": "indie.io",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/3b44b9297593a97f9931d20f19498b473b803920ac9207f8d749b4e2c14fdc58.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/d1011de0140286d28cccada38eff14ede6d2dca4f5273702b9208399eff94b4a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/0444dc1d204d6d6e8d8db7f2e92590ccd27b8d1186729a1b1bc08e0da6f79785.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/7f9b69a8aec42944eb2e458d471c1b35216f65742801d24b0636607aec1ac987.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/187534cce7c059ba4fdbd64b185b73c6d96f45f5603107295b4c8f723de1ae5a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124562/ba3df1516a225ac2f3fd485701d0703e6c2339163e3773ba7f2332f656d5d7cd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3b44b9297593a97f9931d20f19498b473b803920ac9207f8d749b4e2c14fdc58.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d1011de0140286d28cccada38eff14ede6d2dca4f5273702b9208399eff94b4a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0444dc1d204d6d6e8d8db7f2e92590ccd27b8d1186729a1b1bc08e0da6f79785.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f9b69a8aec42944eb2e458d471c1b35216f65742801d24b0636607aec1ac987.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/187534cce7c059ba4fdbd64b185b73c6d96f45f5603107295b4c8f723de1ae5a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ba3df1516a225ac2f3fd485701d0703e6c2339163e3773ba7f2332f656d5d7cd.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Fighting",
+		"Arcade"
+	],
+	"intro": "Embody a hard-boiled detective seeking bloody justice in an old-school, Korean-style beat-'em-up, and punish those responsible for his sister's death.",
+	"description": "Vengeance of Mr. Peppermint is a hardcore, side-scrolling beat-'em-up inspired by classic Korean crime dramas. As Mr. Peppermint, a hard-boiled detective driven to the extreme, find out who gives orders at the top of the crime ladder, and enact brutal, bloody vengeance. Countless criminals infest a seedy underbelly, with a sinister cult poisoning the guts of this corpse of a city. Destroy anyone in Peppermint\u2019s way with anything he can get his hands on. Wade through mountains of corpses, wipe blood off the edges of Peppermint's suit, and beware that this detective might be his own worst enemy. Long ago, a serial killer kidnapped two siblings, a brother and a sister. The boy miraculously managed to escape, but the girl was not so lucky\u2026 Twenty years later, the boy, now a man, has become a detective just like his father, believing that law and order are the foundation of society. Yet, his grief and pain have driven him to the brink of madness, peering into the abyss of rage. Now, with red-hot clarity, he must punish the murderer responsible for his sister's death, no matter how many people stand in his path.Peppermint's obsession with revenge transforms him into a killing machine. Use incredibly precise controls to choreograph combos and carry out brutal fatalities. Improvise weapons in the environment and pummel enemies into a fine red mist like hooks, meat processors, or ovens\u2026anything can bring a goon's criminal career to a brutally spectacular end.A rampage of revenge can take its toll on Mr. Peppermint. The crueler his actions, the more twisted the story unfolds and his psyche crumbles. Paradoxes and inconsistencies appear. Unanswered questions manifest. As this once dedicated detective spirals out of control, question who is really the serial killer\u2026",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Intense Violence",
+		"Language",
+		"Use of Drugs"
+	],
 	"dlcs": [],
 	"size": "1.56 GiB"
 }

@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126336/170a5d5ebd78c492ff05c09fba8ee3997f7eb7a1c8a248763c3c3f90ec5e4b9e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/f90c0831c442451181467669cc983959_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/170a5d5ebd78c492ff05c09fba8ee3997f7eb7a1c8a248763c3c3f90ec5e4b9e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ae46d0396076a6af1a3ea82926a81bc03a1832919f4ba48a39ffe99090e4eb69.jpg",
 	"publisher": "Flyhigh Works",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/6f9ee324e2b398fa73ddac60e3c952d02a0e09a7373de7fe1597f39a86c9f263.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/e01f8492c4c0ad89702ca46447cde3db94e5a75473fa2aa2e6066f15cdeecf1d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/aa994e76f6bcbfa5a675c82b357692d572b49e3aacfdaf19e118ae2765c9f892.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/e13a02e1ba8efe4b0e07c4c3df2c63e6cd67fe63f6d7f3fb359719edf478b54a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/2f0a7dcec9cfae0fbbb01172bb7243481025115ad3f2b3969c2596dfeb24aaa5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126336/4dc911ded6adf5157448c9fa184f0fe97b40b5ed2b9df763dbc3875c9615918f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6f9ee324e2b398fa73ddac60e3c952d02a0e09a7373de7fe1597f39a86c9f263.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e01f8492c4c0ad89702ca46447cde3db94e5a75473fa2aa2e6066f15cdeecf1d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aa994e76f6bcbfa5a675c82b357692d572b49e3aacfdaf19e118ae2765c9f892.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e13a02e1ba8efe4b0e07c4c3df2c63e6cd67fe63f6d7f3fb359719edf478b54a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2f0a7dcec9cfae0fbbb01172bb7243481025115ad3f2b3969c2596dfeb24aaa5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4dc911ded6adf5157448c9fa184f0fe97b40b5ed2b9df763dbc3875c9615918f.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"RPG",
+		"Other"
+	],
+	"intro": "A Game for Cat Lovers You Can't Miss!",
+	"description": "Neko Odyssey: A Game for Cat Lovers You Can't Miss!\n\nHere\u2019s a slightly unusual Casual Adventure game where the main gameplay centers around taking pictures of cats. The pixel art graphics in a 3D setting create a charming atmosphere reminiscent of Japanese animation.\n\nIn the game, you'll have to search for cats in various locations throughout the town and take pictures to upload to social media (in game). Each photo you upload will earn likes from netizens. As you receive more likes, you'll become better known, and your followers may offer tips on finding new and different cat poses.\n\nDuring the cat photography sessions, some cats may require you to establish a connection with them before allowing you to photograph them. You'll also encounter certain events that will lead you to discover new photo opportunities.\n\nApart from taking cat photos and sharing them on social media, the game features a main storyline where you'll unravel the mysteries of the town based on the information you capture in your cat photos. You'll experience excitement, cuteness, and inspiration along with the adventure in this game.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh",
+		"th"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "919 MiB"

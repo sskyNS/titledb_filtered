@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132193/8541ee264996e916d1dd7da4b6e675a664bae4438b1ef0fd8db9d34c9cf36dda.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2ab9b3a9f01a4756add6b0003b618d58_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8541ee264996e916d1dd7da4b6e675a664bae4438b1ef0fd8db9d34c9cf36dda.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/74bda25054b123fffb76f4e6120c3920a9e497dc923658b29ac2bb6b43994152.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/37f99b95907b3e25956eb3b28c737cd5b403cd5c5938a29495c99c68fc203994.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/618860474bac2d92cc296e1728e6649a1763eedc2831fe9ef1d3762a479a0f17.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/50e249914e7ab5e91ff6fdb317fc5be272c824547cf3180487938c356477b64c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/6b8c1ced7afa834fbff9829540aff324de8a22b5a6a1760ed594c38a8ec11eb3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/1e5934d5e9b3c45a5523fa071b442ae96548ca5424b1106f4d7850b9351835e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132193/260c73626034b3ed91a495bfc2f04d236701f9f149faf8c5df4862842cdc76f6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/37f99b95907b3e25956eb3b28c737cd5b403cd5c5938a29495c99c68fc203994.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/618860474bac2d92cc296e1728e6649a1763eedc2831fe9ef1d3762a479a0f17.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/50e249914e7ab5e91ff6fdb317fc5be272c824547cf3180487938c356477b64c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6b8c1ced7afa834fbff9829540aff324de8a22b5a6a1760ed594c38a8ec11eb3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1e5934d5e9b3c45a5523fa071b442ae96548ca5424b1106f4d7850b9351835e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/260c73626034b3ed91a495bfc2f04d236701f9f149faf8c5df4862842cdc76f6.jpg"
 	],
 	"releaseDate": 20260821,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Enjoy the sun!",
+	"description": "Welcome to Suncroft, a cozy exploration game where every street and hidden corner invites you to slow down and enjoy the journey!\n\nTake your time strolling through the town, discovering hidden paths, relaxing by fountains, and uncovering charming landmarks scattered throughout the world. With no combat, no timers, and no pressure, Suncroft is all about exploring at your own pace and soaking in its warm, welcoming atmosphere.\n\nFeatures\n>Explore a handcrafted sunny town.\n>Discover every unique location and hidden area.\n>Enjoy a relaxing, stress-free exploration experience.\n>Immerse yourself in a warm and peaceful atmosphere.\n>No combat, no timers, and no pressure\u2014just exploration",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "598 MiB"

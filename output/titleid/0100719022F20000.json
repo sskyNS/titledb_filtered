@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000095534/35d79a9cf1fc2fdeb531d1da9c8284014b41c97171cab06cf31952cb54c6e893.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d1ce65ce98c94a0dbe6f4511ea83b941_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1cba56b25b670bfd4d09ad0c844c207009015c12e841b9ba24786cca7230e0d4.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6e9ab80e1f0d820f9bcd98cde932d5ce5584cc96916162839dcefa4e645d0e74.jpg",
 	"publisher": "AlignmentSharp",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/931fd60d18bbf816a9cb37df3201a70b81d138bf295793c37818bc371fcf86dc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/edc1b1771b5c8b8e91743d7b4d7a3eb8f9673469a6ef091c3423fbe53aed70de.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/b1aa4d77e67fa27e5283f68c0c50c1671d03e1b73fc53f4231943ac42314f8c0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/1f1891c49a80a826b18a38fcede5fe9ab083fdcb39c2487be26fbd747c5c5c1b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/5db212205557c21984c72f082620f624d80bdf7cd5ee5ca55e246dcbc0a0cf8e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000095534/77b1c3d02a934fcffa3a7acca1a81323ea47c476ab5987ccf4bc9155e2ba376d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/931fd60d18bbf816a9cb37df3201a70b81d138bf295793c37818bc371fcf86dc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/edc1b1771b5c8b8e91743d7b4d7a3eb8f9673469a6ef091c3423fbe53aed70de.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b1aa4d77e67fa27e5283f68c0c50c1671d03e1b73fc53f4231943ac42314f8c0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1f1891c49a80a826b18a38fcede5fe9ab083fdcb39c2487be26fbd747c5c5c1b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5db212205557c21984c72f082620f624d80bdf7cd5ee5ca55e246dcbc0a0cf8e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/77b1c3d02a934fcffa3a7acca1a81323ea47c476ab5987ccf4bc9155e2ba376d.jpg"
 	],
-	"releaseDate": 20250529,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20260730,
+	"category": [
+		"\uc5b4\ub4dc\ubca4\ucc98",
+		"\ud37c\uc990"
+	],
+	"intro": "3D \uacf5\uac04\uc744 \ud0d0\uc0c9\ud558\uace0 \ud0c8\ucd9c\ud569\uc2dc\ub2e4.",
+	"description": "3D \uacf5\uac04 \ub0b4\ub97c \uc774\ub3d9\ud558\uc5ec \ud78c\ud2b8\ub97c \ucc3e\uc544 \uc2e0\ube44\ub97c \ud480\uc5b4 \ubc29\uc5d0\uc11c \ud0c8\ucd9c\ud569\uc2dc\ub2e4.\n\ud78c\ud2b8\uc640 \ub300\ub2f5\ub3c4 \ubcfc \uc218 \uc788\uc73c\ubbc0\ub85c \ub204\uad6c\ub098 \ub05d\uae4c\uc9c0 \ub180 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 0,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "2.12 GiB"
+	"size": "2.17 GiB"
 }

@@ -1,21 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000107518/6829194829d8ab49d7bb6fbf2cc557fa165b81f35fc2ab4bd54de245696d0c0e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fca78564e020423988e8d6f5a389a6c8_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6829194829d8ab49d7bb6fbf2cc557fa165b81f35fc2ab4bd54de245696d0c0e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7c932dc9e9d7e31b0f22518008bcaa53b2f90b3af952a61296c02acb1d32cfd2.jpg",
 	"publisher": "NUNTIUS GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107518/5997416ff572e31fb611d86731896315eb4847a7ed97356e64b7c7e92d463424.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107518/e93a53441c0a3c88fe98006a0cfdf48e23b1fe564e2c2a9fd60f00b23d506bd7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107518/df1f5b39290e6ecf608199ff88196f55c917da681b3df8663f50937e72eb30a6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107518/66d0479e9cb2d11d03edc40bc09dfc81bb9270bbd65729d2af3988b8785dda65.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5997416ff572e31fb611d86731896315eb4847a7ed97356e64b7c7e92d463424.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e93a53441c0a3c88fe98006a0cfdf48e23b1fe564e2c2a9fd60f00b23d506bd7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/df1f5b39290e6ecf608199ff88196f55c917da681b3df8663f50937e72eb30a6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/66d0479e9cb2d11d03edc40bc09dfc81bb9270bbd65729d2af3988b8785dda65.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Shooter",
+		"Adventure"
+	],
+	"intro": "Turn freaky zombies into a green goo explosion with a bunch of crazy guns and graffiti the walls while you try to save the city!",
+	"description": "A squad of mutant kids from the hood is humanity\u2019s last hope in this colorful, humor-packed zombie apocalypse. Blast freaky zombies with ridiculous guns, spray wild graffiti across the city, and face a monstrous Zombie Boss at the end of every mission.\n\nEach hero in the squad offers a unique playstyle: choose yours, dig the weirdest guns out of dumpsters, and enjoy the insane headshot animations.\n\nTHE SQUAD\n\nFour young mutants, each with their own powers and playstyle, ready to blast some zombies! Pick your favorite (or the one with the collest look) and go wild!\n\nFIND CRAZY GUNS\n\nA Ketchup Blaster, a Gumball Shooter, a Shark-Head Shotgun, and even a Witch\u2019s Broom, you\u2019ll find all sorts of crazy guns to make zombies deeply regret their life (and death) choices.\n\nKILL FREAK ZOMBIES\n\nThe writer definitely went off the rails here. Expect cute puppy zombies, tentacle-armed chonks, jacked-up cop zombies, and even an  Frankenstein with underwear. It doesn\u2019t make much sense, but hey, it\u2019s hilarious.\n\nGRAFFITI THE WALLS\n\nPainting graffiti in a zombie apocalypse isn\u2019t easy. Every time you try to tag a wall, you might just summon an entire horde of the undead. Art has never been so dangerous (or colorful)!\n\nDEFEAT THE ZOMBIE BOSS\n\nThis zombie clearly had a different breakfast. It\u2019s stronger, meaner, and keeps coming back stronger each time. Beat the Boss Zombie and show it who\u2019s the real monster here!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Mild Language",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "430 MiB"
 }

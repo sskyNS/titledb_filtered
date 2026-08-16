@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132415/11ad91658affda218a39af5923f529d7449f79b53019da3ae086c813c79f08df.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0597f3211f37431688f2e974eed78154_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/11ad91658affda218a39af5923f529d7449f79b53019da3ae086c813c79f08df.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/376ce7478dafa4bcd271f1df94644e1b8db48747c2ff03e6c52e57333bc6f5dd.jpg",
 	"publisher": "Upscale Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/96cb0f3e07abb0264ba7f666aa9c9f6751a18e7c7a085cd07a664c4e4a98b0f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/f4d8d68f16c8c769707db91f9f883553b3dced80fa3836e5183844c241c96ec5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/7103ba6dd6fc308c65b94c040d979513c299548672407ac846ed530ca029b5d9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/1192221b81ce0f109522d0d610bd48cf9fdbc9aeabb7da8ea14ad3649a5cfdcd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/72d16364183967f8d9e0fc739ef4dd88b96ba851418a0602a84d3e593e21b526.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132415/6fdaa50e0cbc6b12b09d7d645b92a85cdc643665eee388e86ed6266cc9e5d516.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/96cb0f3e07abb0264ba7f666aa9c9f6751a18e7c7a085cd07a664c4e4a98b0f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f4d8d68f16c8c769707db91f9f883553b3dced80fa3836e5183844c241c96ec5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7103ba6dd6fc308c65b94c040d979513c299548672407ac846ed530ca029b5d9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1192221b81ce0f109522d0d610bd48cf9fdbc9aeabb7da8ea14ad3649a5cfdcd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/72d16364183967f8d9e0fc739ef4dd88b96ba851418a0602a84d3e593e21b526.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6fdaa50e0cbc6b12b09d7d645b92a85cdc643665eee388e86ed6266cc9e5d516.jpg"
 	],
 	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Action",
+		"Adventure"
+	],
+	"intro": "One Masked Bandit!",
+	"description": "Today, you aren't a peaceful forest creature; you're a masked burglar on a mission to take over Granny's house. Use your tiny, grabby hands to transform her quiet, clean home into your own personal dumpster-diving playground.\n\nWaddle through the rooms and cause total chaos. Raid the refrigerator, turn trash cans upside down, climb on the countertops, and shatter expensive vases. Each prank earns you chaos points and triggers a furious yet funny reaction from Granny. When she comes running with her broom, quickly hide in a cupboard or squeeze behind some furniture. Earn enough points to unlock hilarious outfits and discover hidden shortcuts from the basement to the attic. Prove that no room is safe from a trash panda!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Crude Humor",
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "166 MiB"
 }

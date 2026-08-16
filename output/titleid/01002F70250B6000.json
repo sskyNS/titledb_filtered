@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104668/e7de3ad0a81739f1dca28e2cf46aca0f5d7ac695e15985618eda8fe1f04e1b5e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6c7b69825bc5449c83e24e837834859e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7de3ad0a81739f1dca28e2cf46aca0f5d7ac695e15985618eda8fe1f04e1b5e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/938fd462d64edb528df3392ccb3c104c78b0960a70d316a67c47b573f558f9c3.jpg",
 	"publisher": "SOFT SOURCE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/009bf9119fa0256c6a65406c0529914bd0396b7a17f162c2825c811ea882ec80.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/b9bd8a327eae57b955251fb4c559249910b33a662f0aced40fa72a21dfc4d551.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/b911e1414b7f82e6e6ac9034115b5c48221f9903c25bf7d8b8119267c9d29f56.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/3ea4991ea8057332d78880a38cbb3aa4f6fe67099b27c8628017dde5f3c5fd7e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/b1eb9ad073d9ca8587879cc5afd0d20ee175d133cebed71359b9d71a966030da.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104668/468ec4acc757de55063ba1344038fbc8e0d4702871d4a9559d2e5aaf1c19f16f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/009bf9119fa0256c6a65406c0529914bd0396b7a17f162c2825c811ea882ec80.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b9bd8a327eae57b955251fb4c559249910b33a662f0aced40fa72a21dfc4d551.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b911e1414b7f82e6e6ac9034115b5c48221f9903c25bf7d8b8119267c9d29f56.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3ea4991ea8057332d78880a38cbb3aa4f6fe67099b27c8628017dde5f3c5fd7e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b1eb9ad073d9ca8587879cc5afd0d20ee175d133cebed71359b9d71a966030da.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/468ec4acc757de55063ba1344038fbc8e0d4702871d4a9559d2e5aaf1c19f16f.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"RPG"
+	],
+	"intro": "Prove your worth. Hack and blast your way through the Grim Trials.",
+	"description": "\u2022 COMING OF AGE IN THE AFTERLIFE \n\nGrim Trials is a heavy metal action roguelite where you craft and customize your own weapons and equipment to embrace Death your own way. \n\nPlay as Avelin, a young woman who has met an untimely end, and found herself recruited as one of Death\u2019s many Reapers. Tasked to hunt down impure souls, face her demons, and fight her way through an underworld of her own making, Avelin must endure these trials to become a full-fledged Reaper and see her still-living love once again. \n\n\u2022 REAP THEIR SOULS \n\nEndless hex-grid arenas filled with monsters, traps, sinful souls, and 7 sacrilegious bosses await. Slay them all with a variety of customizable scythes, crossbows, and powerful Blessings from the Gods of Death around the world. Master the scythe and crossbow to maximize damage to your foes with a unique combat system that rewards clever use of your dual-wielded weapons. \n\n\u2022 GATHER MATERIALS & CRAFT EQUIPMENT\n\n The spoils of battle are the tools of your trade. Gather materials from the battlefield and work with your mentors in the arcane arts to craft new and ever more powerful weapons, armor, and consumables. \n\n\u2022 CUSTOMIZE GEARS & CREATE PERSONALIZED BUILD \n\nEvery reaper carves their own path! Mix and match your crafted equipment with skills gained from investing in an expansive skill tree at the start of every run, then choose carefully from the randomized Blessings you obtain mid-run to create powerful builds! \n\n\u2022 A NEW LIFE AFTER DEATH \n\nExplore The Academy, built for the training and arming of Death\u2019s various Reapers. Seek enlightenment from mentors, take on quests to build your relationships, and unlock sage advice, knowledge, and powerful support from your peers. Learn the stories of the dead by interacting with the Academy\u2019s denizens. \n\n\u2022 LOVE CONQUERS DEATH \n\nComing of age in the afterlife was certainly not the plan, but dying means little to the already-dead, and love unyielding wields power no god can rival. Every time Avelin falls in battle, the experience and materials you\u2019ve earned stay with her. Live, fight, die, then live again, over and over until the promise is kept.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference",
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "847 MiB"
+	"size": "1.18 GiB"
 }

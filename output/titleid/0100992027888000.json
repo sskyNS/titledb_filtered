@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121096/2afc86118e78beb27f3a5c4abc5478797d3d4ad8210d992a201b0199eddf440b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121096/38f1391394ec31efa827fa21959c9701ea44758b955419a8104d39ca74f114e3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2afc86118e78beb27f3a5c4abc5478797d3d4ad8210d992a201b0199eddf440b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5a3bfb011442ca3bb6e9fe969dc1a0097f49b90cf4595e0d924427e118202f72.jpg",
 	"publisher": "KODANSHA",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121096/6b826f242969cfdd7d2d73da24cf6814ba0a446964bc90139e388b7b78fbbc48.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121096/26d2a92347a1d3f3ce9941dd5d2f256fbe60ac065cd94d58bce5cf6fd908fd1a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121096/543463c517042eff387d5a54cc9e3b084227d1f87287c9a3f748f26c1a524f43.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121096/add42bb45e9fa303471e462423212fd5d5fec9eeb8cc2fd7f994a5d706215397.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121096/898b2cf8a58645f3a761038eb419178438f30a09ee38354ba4c576ddedc41cdb.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6b826f242969cfdd7d2d73da24cf6814ba0a446964bc90139e388b7b78fbbc48.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/26d2a92347a1d3f3ce9941dd5d2f256fbe60ac065cd94d58bce5cf6fd908fd1a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/543463c517042eff387d5a54cc9e3b084227d1f87287c9a3f748f26c1a524f43.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/add42bb45e9fa303471e462423212fd5d5fec9eeb8cc2fd7f994a5d706215397.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/898b2cf8a58645f3a761038eb419178438f30a09ee38354ba4c576ddedc41cdb.jpg"
 	],
 	"releaseDate": 20260715,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Racing",
+		"Simulation",
+		"Action"
+	],
+	"intro": "Adorable sushi race at full speed in a training \u00d7 racing game!",
+	"description": "As a sushi chef apprentice, you'll make sushi, train it , and compete in races. Win races, use the prize money to make even faster sushi and train harder, aiming for victory in the ultimate \u201cS1\u201d Cup!\n\nNo matter how painstakingly crafted the sushi may be, once eaten, it's an instant defeat. It heads straight for the customer's stomach and never comes back.\n\nEach sushi topping has different performance characteristics. How well you've mastered making that particular topping also affects its performance. Use training to perfect your ideal sushi. However, since sushi is a perishable item, its performance degrades after each race.\n\nDuring the race, all you can do is \u201ccheer on\u201d the sushi to boost it. You can escape chopsticks by using boost, but the sushi race isn't that easy\u2014you won't win just by doing that. Sometimes you'll need to take risks and use boost to overtake rivals.\n\nSome sushi toppings possess unique skills. For example, Flounder can dive to dodge chopsticks in an emergency without using boost, while Sea Urchin can use its spines to knock rivals away. There are over 40 different skills, some of which can be learned through training.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "379 MiB"
+	"size": "449 MiB"
 }

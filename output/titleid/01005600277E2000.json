@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120860/b755326676f7b4085fcb75df0aeaf4541e06a0981893b855e30af70c2a0c4bb3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120860/f5af329153265fb6cbf6736600b4983c9f33cdff1717a8a85cd6b0e2fa10da36",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b755326676f7b4085fcb75df0aeaf4541e06a0981893b855e30af70c2a0c4bb3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c25a913b2a002e194ac6e1f00315934d2853aad0294ec4fdf2af40a1126f070c.jpg",
 	"publisher": "GaniTani",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/b16a404607b32f35d795029bffa09d7bd348bd26a6877af3d6090b33b625ed07.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/035cfd3d7312a46e26f40f3a6c8f24031dd2b66cb818a9815a1a2a8b89c92f8d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/24b7b9227c9a3609334f8e97595da4384f8d33a4c94b969ee5f552d7a84e91a3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/f860d295e849c395244fe46a627b751eb002fa640042f91ada20c1047ada2df0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/6d01a5ff8b1a2c8b4bac379e0c1651ad42e3c9693f57fa37a5e90ce56f25b06d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120860/44575aa199b152b8280b7c9a82b4131ae49dcb4284157c7299146ebc86ba61e4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b16a404607b32f35d795029bffa09d7bd348bd26a6877af3d6090b33b625ed07.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/035cfd3d7312a46e26f40f3a6c8f24031dd2b66cb818a9815a1a2a8b89c92f8d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/24b7b9227c9a3609334f8e97595da4384f8d33a4c94b969ee5f552d7a84e91a3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f860d295e849c395244fe46a627b751eb002fa640042f91ada20c1047ada2df0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d01a5ff8b1a2c8b4bac379e0c1651ad42e3c9693f57fa37a5e90ce56f25b06d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/44575aa199b152b8280b7c9a82b4131ae49dcb4284157c7299146ebc86ba61e4.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Education",
+		"Training",
+		"Study"
+	],
+	"intro": "Color your own cute animal friends with colorful crayons!",
+	"description": "A colorful fairytale world that comes to life at your fingertips!\nComplete your own special sketchbook with cute friends!\n\n<Crayon Friends> is a healing coloring simulation game where anyone can freely fill in cute characters with their own colors, without complicated rules or stress.\n\nRabbits, bears, birds, cool dinosaurs and even cute astronauts! A variety of illustrations and rich crayon colors are available.  Easily open your own atelier anytime, anywhere with intuitive touch operation optimized for.\n\n\u25a0 Special fun elements unique to <Crayon Friends>\n\nColorful character lineup: From forest animals to imaginary monsters and dinosaurs, there are many cute characters that will catch the eyes of users.\n\nChallenge and Medal System: You can feel a unique sense of accomplishment by earning a wonderful medal for each uniquely completed painting.\n\nCamera function to leave memories: Take a picture of the work you worked hard to complete with a camera and store it nicely in your sketchbook album.\n\nEquipped with fun minigames: \u201cWho will be the character I completed?\u201d After you finish coloring, an intuitive and exciting quiz game unfolds where you have to find the character you designed yourself!\n\nPerfect healing play environment: Helps develop children's creativity and relieve adults' stress in warm sounds, without time limits or competition elements.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "100 MiB"

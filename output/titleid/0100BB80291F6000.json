@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131030/1c3546bf94e21773983537b3857af17045ed01c1bb12fa40756fa38e17a28c10.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131030/3bb737c3c4aeeb7d045c7f515cd658d0f56ea4a930e589629b1969721c4c7515",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c3546bf94e21773983537b3857af17045ed01c1bb12fa40756fa38e17a28c10.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8be423bdeea46de61ef7e9597c4f1ab13e4f306d26c1642374716cb255da11e3.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/1358041a4dc2a4bb6758787dc056dd61c0729949ac53c6db2552d6d5bcf47800.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/ad3d7bbe97aab9f38cc68dda845e226d55fd937e5525b833748b369aa5ea9da0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/ce4f211cd850659ee7a42bb5e1e139c380fb0315c8fe50d8cd2148f1aa7c8e2c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/91f22a42ed1447c98588de7548eadb37e8019a314769986a8043251f1c13a61e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/1584ab747d1fa603874507a1dc9c6b45c7c41a9146b1d26395aa227d21d9ad74.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131030/fc8350ba8515c3114dca423de8d2d171d7f83121980225060aad2bca4d59e52b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1358041a4dc2a4bb6758787dc056dd61c0729949ac53c6db2552d6d5bcf47800.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ad3d7bbe97aab9f38cc68dda845e226d55fd937e5525b833748b369aa5ea9da0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ce4f211cd850659ee7a42bb5e1e139c380fb0315c8fe50d8cd2148f1aa7c8e2c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/91f22a42ed1447c98588de7548eadb37e8019a314769986a8043251f1c13a61e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1584ab747d1fa603874507a1dc9c6b45c7c41a9146b1d26395aa227d21d9ad74.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fc8350ba8515c3114dca423de8d2d171d7f83121980225060aad2bca4d59e52b.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade"
+	],
+	"intro": "Slither. Eat. Dominate.\n",
+	"description": "Enter the arena and prove you're the apex serpent in this fast-paced snake battler. Compete against a swarm of rival snakes for every scrap of food, grow longer with every bite, and force your opponents into deadly mistakes. One wrong move means the end \u2014 crash into another snake and it's game over. Only the biggest and smartest survive.\nGROW OR CRASH\n\nStart small and chow down your way to the top. The more you eat, the longer and deadlier you become. But size cuts both ways \u2014 the bigger you grow, the harder it is to weave through the chaos. Steer clear of every other snake on the field, because a single collision ends your run. Outmaneuver your rivals, cut off their path, and watch them crash so you can feast on what's left.\n\n\nFEATURES\n-Snake Growth & Evolution \u2014 Every bite makes you bigger and stronger. Evolve from a tiny worm into a massive, screen-dominating beast.\n-Living Food World \u2014 A constantly replenishing arena keeps the action non-stop. There's always something to eat \u2014 and always someone trying to take it first.\n-Survive the Collision \u2014 Crash into another snake and you're done. Force your rivals into yours and clear the field of competition.\n-Real-Time Leaderboards \u2014 Watch the rankings shift live as you and your rivals battle for the #1 spot. Can you hold the crown?\n-XP & Progression \u2014 Earn experience with every match and level up your way to bigger rewards and bragging rights.\n-Game-Changing Boosters \u2014 Deploy magnets, speed bursts, score multipliers, and vision boosters to turn the tide in the heat of battle.\n-Cosmetic Customization \u2014 Make your snake unmistakably yours with a huge range of looks and styles at the skin Shop\n-Booster Shop \u2014 Stock up on power-ups and head into each match loaded for war.\n-Reward Economy \u2014 Earn coins through skillful play or Wheel of fortune and spend them on skins, boosters, and more. The grind always pays off.\n\nTHE ARENA AWAITS\nNo two matches play the same. Quick to learn, impossible to put down \u2014 Brawl Snakes delivers bite-sized chaos that's perfect for one more round... and then just one more.\n\nAre you ready to become the Final Boss of the arena?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "121 MiB"

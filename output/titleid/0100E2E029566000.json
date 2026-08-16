@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132327/3853efd388ed001d27efc930069eadbb15873595436a9dd27ff1cba83ef45a65.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b97ae42e68654693b6e168f829d6be29_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3853efd388ed001d27efc930069eadbb15873595436a9dd27ff1cba83ef45a65.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/774dd6690faa66151aa3b01f9992de7ccfd2c42068f120f07ad1e2f7d481a99f.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/505115a985e91f9065a348b8f48cf583d32ef8e44e982846df42fa69382cd3b2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/641c2636f64008eacf0d3a09ec68ad7a13d43a06ef462e6abd9eea3e89c61ae0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/472f33307557f6f51f71d7a7146cfe5c9c901fe10beab040dd9b06bdf3b8a3ea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/fe075b95d7b9ec82209b4e4cdfdd5dde2cfd35e34712e378a24d5bc389adda4f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/5415ebe3054f0980bb0b7677e33222bdc6f13df29665be096b4124d1ff7bb5c4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132327/a7996bc0a0f20179c7a7cfc1e9be8d0081b8b0685eaf3801c7d8c196b6c6e59b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/505115a985e91f9065a348b8f48cf583d32ef8e44e982846df42fa69382cd3b2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/641c2636f64008eacf0d3a09ec68ad7a13d43a06ef462e6abd9eea3e89c61ae0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/472f33307557f6f51f71d7a7146cfe5c9c901fe10beab040dd9b06bdf3b8a3ea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fe075b95d7b9ec82209b4e4cdfdd5dde2cfd35e34712e378a24d5bc389adda4f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5415ebe3054f0980bb0b7677e33222bdc6f13df29665be096b4124d1ff7bb5c4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a7996bc0a0f20179c7a7cfc1e9be8d0081b8b0685eaf3801c7d8c196b6c6e59b.jpg"
 	],
 	"releaseDate": 20260814,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Some places are abandoned for a reason.",
+	"description": "When rumors spread about the sudden closure of a local Hospital, most people stayed away. Stories of strange noises, unexplained disappearances, and something lurking in the abandoned halls were dismissed as urban legends.\n\nYou don't believe any of it.\n\nAs an independent blogger searching for the truth, you enter the hospital with nothing but a camera and a flashlight, determined to uncover what really happened. But after stepping inside, the exits are sealed behind you.\n\nThe only way out... is through.\n\nFeatures:\n>Explore a large abandoned hospital filled with secrets.\n>Solve puzzles to unlock new areas and find your escape.\n>Experience tense survival horror with a focus on atmosphere.\n>Survive terrifying encounters while finding your way to freedom.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.03 GiB"
 }

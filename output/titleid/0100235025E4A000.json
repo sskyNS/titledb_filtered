@@ -1,22 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110550/5cccc984481e85035d0203489d70369865a0a3ef6000f1909ef973b0e5a0e5e8.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110550/dee37d7c354540bcc7aac21ed2fa660fb0341787af3ba43935980224eec64ca8",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cccc984481e85035d0203489d70369865a0a3ef6000f1909ef973b0e5a0e5e8.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/74a7c4f7db881903a9ccdf0b64790d8a7fbd1c93f556917eb13af224a25dd308.jpg",
 	"publisher": "Individual",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/e48aa9880484c03e060ffcfdab8ba72d12e5202f89145658613f9846bd25f734.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/2658d8bbc5dd0d8790e05ca28df6913cc5a0fc6a8c1059a2756284ba9b2057bf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/7bb1889e4fb17ec6aa682b9e4477b0f9549237603b8fa0024666bcda474ed04f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/fd246bd19bbf3d2bcbd419d93f4d4344c211351053beec7afcfcafec5dc0cc77.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/15b2b0a9e75990bbaca5fd6fc48a2735ee1d2f3a21fe9c408eac605289ba6939.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110550/c43e4ad0027519b8796170f3a2714f9b362fde7d69aba65f4f66c5f688687065.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e48aa9880484c03e060ffcfdab8ba72d12e5202f89145658613f9846bd25f734.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2658d8bbc5dd0d8790e05ca28df6913cc5a0fc6a8c1059a2756284ba9b2057bf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7bb1889e4fb17ec6aa682b9e4477b0f9549237603b8fa0024666bcda474ed04f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd246bd19bbf3d2bcbd419d93f4d4344c211351053beec7afcfcafec5dc0cc77.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/15b2b0a9e75990bbaca5fd6fc48a2735ee1d2f3a21fe9c408eac605289ba6939.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c43e4ad0027519b8796170f3a2714f9b362fde7d69aba65f4f66c5f688687065.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Lifestyle"
+	],
+	"intro": "Become a Car Dealer.\nTrade Classic Cars.\nBuild Your Dealership.",
+	"description": "Build your own classic car dealership and become a successful retro car trader! Search for hidden bargains, buy old vehicles, repair and restore them, then sell them for profit. Upgrade your garage, expand your showroom, and grow your business from a small workshop into a thriving dealership.\nDiscover unique vintage cars, improve their condition, customize their appearance, and negotiate the best deals. Manage your finances wisely, unlock new opportunities, and prove you have what it takes to become the ultimate retro car dealer.\n\nFeatures:\n* Buy and sell classic and vintage cars.\n* Restore, repair, and customize vehicles.\n* Expand your garage and dealership.\n* Earn profits through smart negotiations.\n* Upgrade tools and unlock new content.\n* Enjoy satisfying business simulation gameplay.\n* Build your reputation as the best retro car dealer.\n\n\nBuild the ultimate retro car empire, collect iconic vehicles, and prove your business skills in the world of classic automobiles.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "934 MiB"

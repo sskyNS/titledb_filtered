@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130743/4f7eb7f308783de5d283a6b90fd61f6e7935460d40d7b8d9d306a36d25891125.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/af0472fa462c46689a950fa6daeaa98d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f7eb7f308783de5d283a6b90fd61f6e7935460d40d7b8d9d306a36d25891125.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c5377a32577e90848857ef926f875b458f287562433b7fcf95fb371afa722bd.jpg",
 	"publisher": "Gametry",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/3f5f3d0be063fd264c929e7940e6786ff7228d8c4d8ca3c1b98f231c1f7582cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/0070ba270c9971a8ef9f10ac619f6dab0338fa93f23ca949622b1f5df1e6e9e5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/139fdbd5c3463d1e70599a459be240571fa2f4b6b0114e6496d2c8ca70c45b7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/40025e96921c20dc768ffa1a7cf7171176651a15c2551e40325472a4d64ce0c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/6f787c656690665a2ec6c153d813fcb01bdee89a73a83dd84d1ba8a4944b3ba1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130743/f4c3d4f5de1a7d46509756e10f641c2ddec5be34a78a142dbf0ce6fbe61a09c3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3f5f3d0be063fd264c929e7940e6786ff7228d8c4d8ca3c1b98f231c1f7582cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0070ba270c9971a8ef9f10ac619f6dab0338fa93f23ca949622b1f5df1e6e9e5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/139fdbd5c3463d1e70599a459be240571fa2f4b6b0114e6496d2c8ca70c45b7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/40025e96921c20dc768ffa1a7cf7171176651a15c2551e40325472a4d64ce0c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6f787c656690665a2ec6c153d813fcb01bdee89a73a83dd84d1ba8a4944b3ba1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f4c3d4f5de1a7d46509756e10f641c2ddec5be34a78a142dbf0ce6fbe61a09c3.jpg"
 	],
 	"releaseDate": 20260725,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Arcade"
+	],
+	"intro": "Build, grow, craft, and live your dream farm life in Farming Homestead, a cozy farming simulation game where every day brings new opportunities.",
+	"description": "Plant crops, water your fields, harvest fresh produce, craft useful tools, trade with merchants, and shape your homestead exactly the way you want.\n\nStart with a small piece of land and turn it into a thriving countryside home. Prepare the soil, grow different crops through realistic growth stages, gather resources, and expand your farm with buildings, fences, storage areas, and custom structures. Whether you enjoy peaceful farming, creative building, or managing resources for survival, Farming Homestead gives you the freedom to play your way.\n\nExplore a complete farming experience with dynamic weather, a smooth day-and-night cycle, useful tools, crafting recipes, inventory management, trading, and persistent save progress. Every system works together to create a relaxing yet rewarding homestead adventure.\u00a0Create the farm you have always imagined. Grow your land, build your home, and enjoy the peaceful life of Farming Homestead.\n\nFeatures\n\nGrow a wide variety of crops with planting, watering, harvesting, soil preparation, and time-based growth.\n\nCraft tools, items, and equipment using a flexible recipe-based crafting system.\n\nBuild and customize your farm with structures, fences, storage, and decorations using free placement.\n\nManage your inventory and hotbar to quickly access tools, seeds, resources, and crafted items.\n\nBuy and sell goods through merchant NPCs and build your farming economy.\n\nExperience dynamic weather and a beautiful day-and-night cycle that brings your world to life.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "208 MiB"

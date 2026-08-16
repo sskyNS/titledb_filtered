@@ -1,21 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131841/5e86211b324b6bb6f0869ec7fddc391e0386b54d375653188c23310f11b6d334.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131841/a192429dc4be20b6d4aa06b59995226aa3b5d144737c3aa4005dbe420ce4d6f3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e86211b324b6bb6f0869ec7fddc391e0386b54d375653188c23310f11b6d334.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e2ce0560fe96e92030d4a4ff65361266a726af0f5a672419a0c5d3aad93ff4b.jpg",
 	"publisher": "RandomSpin Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131841/673e2288d1cc4453f3007e28e73aa594291b3e8a64f3f7a45b6c3a178962360f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131841/e7845e5307010f7a2d7f54c78d1b45d795806f26650a06b752b7296e4780c8ed.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131841/be7c9e27f0f54b2a1f6745894f66b2d8e021469c5d76878b0f8f41cbfc87887d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131841/e59ec880b8d48024cbc5dcd6c38572876a50c3fce01baaf3ac2511696c03158b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131841/514c5c5cdcd23ff5cda1c3f1f687c373e78a4dd05c79c4320b163098445f8baf.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/673e2288d1cc4453f3007e28e73aa594291b3e8a64f3f7a45b6c3a178962360f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e7845e5307010f7a2d7f54c78d1b45d795806f26650a06b752b7296e4780c8ed.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be7c9e27f0f54b2a1f6745894f66b2d8e021469c5d76878b0f8f41cbfc87887d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e59ec880b8d48024cbc5dcd6c38572876a50c3fce01baaf3ac2511696c03158b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/514c5c5cdcd23ff5cda1c3f1f687c373e78a4dd05c79c4320b163098445f8baf.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Puzzle"
+	],
+	"intro": "Waddle into adventure with Loree, a fearless penguin explorer! Race through colorful 3D worlds, dodge obstacles, and collect coins for family fun.",
+	"description": "Join Loree, a brave and curious penguin, on a colorful 3D platforming adventure! Wearing his signature red propeller hat and cozy green scarf, Loree waddles, jumps, and glides his way through dozens of imaginative levels packed with challenges, secrets, and surprises.\n\nFeatures:\n\u2022 Dozens of levels spread across vibrant, themed worlds\n\u2022 Collect coins to unlock new playable characters\n\u2022 Race against the clock and earn up to 3 stars per level for a perfect run\n\u2022 Simple, intuitive controls \u2014 easy to pick up, fun to master\n\u2022 Charming low-poly art style paired with a cute pixel-art interface\n\u2022 Explore everything from frosty mountain peaks to mysterious ruins\n\nWhether you're chasing perfect star times on every level or just looking for a relaxing hop through cute, colorful worlds, Loree 3D offers approachable, family-friendly platforming fun for players of all ages.\n\nGrab your propeller hat and start waddling \u2014 adventure awaits!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "222 MiB"

@@ -1,20 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133895/ba3d94a31f70d5d8209d57bd8995e08919204584b1d77bc139c0cce5f5fe0864.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133895/0d29c7e1d84bba79e5a0551de711e4741baa929592f1d4677d0be4aa8544893c",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba3d94a31f70d5d8209d57bd8995e08919204584b1d77bc139c0cce5f5fe0864.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ffa06fbf01a4874c1850bd1d4d96c45381471c4dc1eeba8a055bfc31f2372450.jpg",
 	"publisher": "Ocean Media",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133895/12d201e3b73370b34777a4cd8a84a2a7a44a7b45ff2e56d5839dd3fce191f8fe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133895/41edba225e4294a6b298bec814441ad86700c541201035ed81b95fbcae547675.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133895/a686b4de982a5b81a213243047db79b2ceb4b6debc9342c7ef18a700286ec3fc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133895/be3c354b188105d4af5f2e5d093ab86e9af9f94d9063b25886369c2b539260fa.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/12d201e3b73370b34777a4cd8a84a2a7a44a7b45ff2e56d5839dd3fce191f8fe.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/41edba225e4294a6b298bec814441ad86700c541201035ed81b95fbcae547675.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a686b4de982a5b81a213243047db79b2ceb4b6debc9342c7ef18a700286ec3fc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be3c354b188105d4af5f2e5d093ab86e9af9f94d9063b25886369c2b539260fa.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Strategy"
+	],
+	"intro": "Help Jack, the Queen's loyal assistant, rebuild the royal garden from the ground up!",
+	"description": "The Princess has been crowned - but her beloved garden lies in ruins. Play through 130+ challenging match 3 levels and bring the royal grounds back to life!\n\nQueen's Garden 2 is a charming and relaxing match 3 adventure set in a hand-drawn royal kingdom. Join Jack on a journey through blooming courtyards, quiet ponds and flower beds waiting to be restored to their former glory.\n\nPlay through 130+ handcrafted match 3 levels with a progression system designed to keep every stage fresh and rewarding. Collect coins and precious jewels, then spend them on plants, trees, fountains and decorations to shape the garden exactly the way you like. Whether you enjoy relaxing puzzle games or more demanding match 3 challenges, Queen's Garden 2 offers a satisfying balance of accessibility and depth.\n\nWith beautiful hand-drawn scenery, rewarding garden customization and polished solo gameplay, this is a perfect pick for players who love casual puzzle games, cozy decoration adventures and classic match 3 with a fresh twist.\n\nFEATURES\n- A charming match 3 adventure in a blooming royal kingdom\n- Guide Jack through 130+ handcrafted levels of match 3 puzzles\n- Collect coins and jewels to rebuild the garden piece by piece\n- Buy plants, trees, fountains and decorations and design your own garden\n- Relaxing puzzle gameplay meets cozy garden restoration",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "137 MiB"

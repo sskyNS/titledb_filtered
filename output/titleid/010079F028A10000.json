@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127902/4d62bcd27d75f8b444c62c4f36864b2bfa7fea82fde5102f8c7c10e8ff88327e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/be05b09bdf4e4a1196803a2f4c773859_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d62bcd27d75f8b444c62c4f36864b2bfa7fea82fde5102f8c7c10e8ff88327e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/17f5263e665f957a852ab2a8432ebe084475af8e6e121cfda8fc82a27913ca74.jpg",
 	"publisher": "Upscale Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/0cf29a81da3f0e3e77a9ef324b828d6a7f3ccab9b8e35d1deff47dc92d65d2c1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/bcdb9463724a0d9eb0c3d2fc93e5eae4d23cd35d1e3dd79b62b81e38c128e9d7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/e471cc2ca0b4e2805d4431ec1d8584fcec85512635334e62031851b1a52f3465.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/ce6f82c8e9144f9147a5798a24624abbdf99f814f2b59c11ed93209884002f8b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/6d59d40836a26d916181f7863d229a654f83736eb684afd89b53bc5aebe59f37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127902/33a00f8e97d4077848bd7c46a07ac914bcebbdfe0588f5a90a14e16ac347f9bd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/0cf29a81da3f0e3e77a9ef324b828d6a7f3ccab9b8e35d1deff47dc92d65d2c1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bcdb9463724a0d9eb0c3d2fc93e5eae4d23cd35d1e3dd79b62b81e38c128e9d7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e471cc2ca0b4e2805d4431ec1d8584fcec85512635334e62031851b1a52f3465.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ce6f82c8e9144f9147a5798a24624abbdf99f814f2b59c11ed93209884002f8b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d59d40836a26d916181f7863d229a654f83736eb684afd89b53bc5aebe59f37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/33a00f8e97d4077848bd7c46a07ac914bcebbdfe0588f5a90a14e16ac347f9bd.jpg"
 	],
 	"releaseDate": 20260724,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action"
+	],
+	"intro": "Please rate your trip!",
+	"description": "Welcome to the only taxi company where the driving is done for you, and all the action happens in the backseat. Engage the autopilot and prepare to mess with your passengers. Will you be a five-star professional or the ultimate backseat menace? The choice is yours. Each passenger in your cab is a fully interactive, physics-based rag doll that reacts dynamically to your every move. You can tap the glass, poke them, or tease them. Or, you can just sit back and watch them throw a ridiculous, cartoonish tantrum.\n\nExpect the unexpected on every ride. What will you do if a passenger starts dancing wildly, tries to pick a fight, or demands that you pop a giant pimple on their face? Grab your tools and dive into the madness! Turn up the multimedia, blast their eardrums, spray them down, and test out wild new prank items to see how they react. In this interactive playground, you are the director of the chaos. Annoy them on purpose or try to calm them down. How you handle the ride is completely up to you.\n\nThe wilder the ride, the better the stories. Earn cash and driver ratings based on how you handle each crazy encounter. Use your hard-earned tips to unlock more ridiculous prank tools, upgrade your cab's interactive features, and purchase supplies to clean the backseat after a disastrous ride. \n\nJump into a non-stop comedy show where you always deliver the punchline.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence",
+		"Tobacco Reference"
+	],
 	"dlcs": [],
-	"size": "196 MiB"
+	"size": "286 MiB"
 }

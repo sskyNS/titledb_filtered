@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125939/79dffef2e0107d31b6ed4bd93835f1f268d93ed764aa57d2bec34e71e8539b87.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125939/e542a30353f00c5e6fd5060bb5169ea9d85331591f9cb67d3516d0ef145fbbd9",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79dffef2e0107d31b6ed4bd93835f1f268d93ed764aa57d2bec34e71e8539b87.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e3b75e5cced97fad031303bbe810bad7da3ba1a9f45f769cb5e56f30225ddde4.jpg",
 	"publisher": "Tashlik",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/bbfc0d78b0aa27e67d33faad34fa2d5639057523f8749caa0ecc8b4e8c2144dc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/68e395b189ca3d323395a62ed80a938d7874ebe9a3c709491de2e70e46719ba8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/b278c4043dea9be893a357e7164eb1fb74c6f829d5e917a41d6392d57e5eae06.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/8282fa2243446263556e087bfbfc1ca455cc20293b95e797149454201d25639f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/41144b033368ba3fde54513bec796ab0883177368189d9004f15269c086105ae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125939/9aa7a36d3611a9ab2929b2ca7c387e043582b80892d1383eeb069777727ea5c2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bbfc0d78b0aa27e67d33faad34fa2d5639057523f8749caa0ecc8b4e8c2144dc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/68e395b189ca3d323395a62ed80a938d7874ebe9a3c709491de2e70e46719ba8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b278c4043dea9be893a357e7164eb1fb74c6f829d5e917a41d6392d57e5eae06.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8282fa2243446263556e087bfbfc1ca455cc20293b95e797149454201d25639f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/41144b033368ba3fde54513bec796ab0883177368189d9004f15269c086105ae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9aa7a36d3611a9ab2929b2ca7c387e043582b80892d1383eeb069777727ea5c2.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Buy. Repair. Sell.\nBuild the ultimate car dealership empire.",
+	"description": "Step into the fast lane of the automotive business in Car Dealership Manager 2026, the ultimate hands-on simulator where every handshake, every repair, and every sale is executed with your own two hands.\n\nStart with a dusty lot and a handful of questionable beaters, then grind your way up to a multi-million dollar luxury showroom empire. This isn't a menu-driven spreadsheet sim \u2014 you're walking the floor, popping hoods, inspecting paint jobs, and bringing neglected machines back to life before flipping them for massive profits.\n\nTrue Hands-On Immersion\n\nFeel the weight of the work. Clean interiors, polish scratched paint, and wrench on engines with detailed, tool-by-tool interaction systems.\nInspect Every Inch: Get up close to check engine blocks, examine the undercarriage, and spot hidden damage in fully photorealistic environments.\nTest Drive Your Investments: Take your inventory for a spin to experience how cars handle across different environments.\nPush the Limits: Experience a hyper-realistic physics engine and dynamic weather conditions before putting cars on the lot.\n\nBuild a Luxury Empire\n\nDesign your dealership exactly how you want it. Transition from a greasy garage to an elite, brightly lit luxury showroom that drops jaws the second buyers walk in.\nManage the Hustle: Hire a crew of mechanics, detailers, and sales reps to automate the grind.\nExpand Your Turf: Upgrade your offices, expand parking lots, and curate specialized display zones for high-end supercars.\n\nWhether you want to be a ruthless auction hunter, a restoration perfectionist, or a luxury automotive kingpin, Car Dealership Manager 2026 puts the entire business in your hands.\n\nBuild your empire. Become the legend.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "829 MiB"

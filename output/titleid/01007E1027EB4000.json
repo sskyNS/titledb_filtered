@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123573/5cc8a8040ef233e7a03d23d715694bfef813bd485efdad421676ab3ec6693dcd.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123573/21dcebec33dec0a0ef9d5a580bae58d14dea5753575358fe9a1b702bd8248d88",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cc8a8040ef233e7a03d23d715694bfef813bd485efdad421676ab3ec6693dcd.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7235c125c51d4e0f75282becfa5f0815aa9a7609dd2e71f4e85d75084acc5397.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/4ac647b2e326997b21f6281bbb5c0db06fa5ddd5229edb69c78074ef83d518ee.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/9e1f15671b247b92b066771fac3e6f680b77693a0d7e91ee950139e5d7b7dca2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/81c44f48fbf90e640f156c0d25adcbe5985daa649647f61b8f87f711dd3f58fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/672682934484a0c547897af455260edac8b26d8247cfa508b35691801ec6d038.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/68374e1560606991aa1a378d143e3b988ab5c70580ff1da43bda21f30d3cc44b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123573/bbf28dc62479206dc28f85a8470dfad29acd30802c1e9e5582aadfb16f901f09.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4ac647b2e326997b21f6281bbb5c0db06fa5ddd5229edb69c78074ef83d518ee.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9e1f15671b247b92b066771fac3e6f680b77693a0d7e91ee950139e5d7b7dca2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/81c44f48fbf90e640f156c0d25adcbe5985daa649647f61b8f87f711dd3f58fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/672682934484a0c547897af455260edac8b26d8247cfa508b35691801ec6d038.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/68374e1560606991aa1a378d143e3b988ab5c70580ff1da43bda21f30d3cc44b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bbf28dc62479206dc28f85a8470dfad29acd30802c1e9e5582aadfb16f901f09.jpg"
 	],
 	"releaseDate": 20260704,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Arcade"
+	],
+	"intro": "Kick. Score. Win.\n",
+	"description": "Table Foosball lets you create a fully immersive 3D soccer experience. With single-player, local multiplayer, your players can challenge opponents in an adrenaline-pumping soccer match.\n\nThis game kit goes beyond the basics, offering additional gameplay modes like Tournament, One Player against device, Two local players, and a chaotic Crazy Mode, where all players can shoot at the same time! With a polished 3D setup, realistic physics, and customizable features, this asset ensures your audience gets hooked.\n\nStep onto the pitch and feel the rush! Tabletop Foosball brings the thrill of the beautiful game to life with stunning 3D visuals, fluid animations, and physics that make every shot, pass, and tackle feel real.\n\nGo head-to-head against the CPU or invite a friend for intense local multiplayer showdowns. Choose your nation, take control of your squad, and dominate the field across a variety of exciting game modes:\n\n- Tournament \u2013 Compete through knockout rounds and lift the trophy\n- 1 Player vs CPU \u2013 Sharpen your skills against a challenging AI opponent\n- Local 2-Player \u2013 Challenge a friend on the same device\n- Crazy Mode \u2013 All players shoot at once \u2014 pure, beautiful chaos\n\nWith various detailed stadiums, smooth controls, and fully customizable match settings, Tabletop Foosball is easy to pick up and impossible to put down.\n\nThe whistle blows. Are you ready?\n",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "213 MiB"

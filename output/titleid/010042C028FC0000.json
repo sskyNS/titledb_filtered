@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134070/ff7fe498725bf377a5ddee6b1ecd0c1ad9a240bdf8b1138e34b69e1f4e6e1e49.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134070/4b17293d42d967ba7843a96ff3c10dd1ac5c257520743592adcfe719d517752e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff7fe498725bf377a5ddee6b1ecd0c1ad9a240bdf8b1138e34b69e1f4e6e1e49.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/48a8358ff22c9c018dc6a4fc0f6d558e6a28bf4250226f345b5f9fbc898a144f.jpg",
 	"publisher": "Struggle Games Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/d911c0eda00ac33d080007216484919ab6fd9920a217f2829e4a912612a3db7a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/b57f034be192228cc27a7c918019f0bfb9776c97395b53a62590a3add40c44c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/28bbde1b057e92b9c2b8e762455bf0cd2eaba474fd5efcade122ef24a2a33996.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/e8581f201d2c63bdde35d5ef2d7bd4b76d66e8e8f0e48d7a47692147ec0571b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/cde72704f854fc224d3537f9f5c44ee4b728a5565a01397f1f022a269b75cf24.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134070/c6084a182e0a6590ee1815d8beb9f8a53375c8a71c6358b6c9315613fd4de2b8.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d911c0eda00ac33d080007216484919ab6fd9920a217f2829e4a912612a3db7a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b57f034be192228cc27a7c918019f0bfb9776c97395b53a62590a3add40c44c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28bbde1b057e92b9c2b8e762455bf0cd2eaba474fd5efcade122ef24a2a33996.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8581f201d2c63bdde35d5ef2d7bd4b76d66e8e8f0e48d7a47692147ec0571b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cde72704f854fc224d3537f9f5c44ee4b728a5565a01397f1f022a269b75cf24.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c6084a182e0a6590ee1815d8beb9f8a53375c8a71c6358b6c9315613fd4de2b8.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": null,
+	"description": "You are locked inside a cinema. Your only way to escape is to follow the instructions of your task: Watch the same film clip repeatedly and search for flaws to break free. But this may sound easier than it is, every wrong decision or death will set you back. So be careful!\n\n\nOn this journey, you\u2019ll watch the clip Paper Panic\u00a0a haunting tale of Jim and his paper plane. But be warned... the story behind it might be darker than it seems.\n\nYou wake up in a storage room of a strange cinema, with no memory of how you got there. On the wall, you find a board with instructions. It tells you what to do if you want to escape. Otherwise, you\u2019ll be trapped here forever.\n\nYour task is simple: Help sort out the flawed film reels.\n\nEnter the cinema hall, take your seat, and watch the film clip. After watching, choose one of the two exits, one for a normal clip, the other for a flawed one. Continue this cycle until you reach Cinema Hall 0. But beware if you make the wrong choice, you\u2019ll be sent back to the beginning.\n\nStrange or spooky things might happen in the cinema. Ignore them. They\u2019re just distractions, and they shouldn\u2019t affect your judgment.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"th"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "481 MiB"
 }

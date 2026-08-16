@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119532/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/abdc41067918461eb5ee91b564a6224a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/051ed3ec2a1c6a6a0328e470dd90bee67fc823b51369617d75022d86529dcdc1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a7973e68f428f6eca2a9c545620b449670dfbf55a521b884ec1adef7a52fc5d.jpg",
 	"publisher": "Outright Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/f0ca8710fe3fe9870a1fde8e99c54b09fad86f787d283376878fa95fbb559d74.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/2e1a041073032acb726cf5395dd5104e90b641f950df1214befbe941c5cedded.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/38a805d15b3e040c0e761fd52b743fd69d10309c032a89a4f89b6c4b3f3cc8a4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/5996310b912bd27933b4dd0bcc2f03a8ddfb7e62c3d29f84c356ca6a5b98c9f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/e986c8a688cd509757b5b4728d3cecdcc5ee093dc1352ef7f0b58f83add1b0ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119532/075f87ff57addd50399530d029ce2372b253d8f464224476267ae127b4d60375.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f0ca8710fe3fe9870a1fde8e99c54b09fad86f787d283376878fa95fbb559d74.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2e1a041073032acb726cf5395dd5104e90b641f950df1214befbe941c5cedded.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/38a805d15b3e040c0e761fd52b743fd69d10309c032a89a4f89b6c4b3f3cc8a4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5996310b912bd27933b4dd0bcc2f03a8ddfb7e62c3d29f84c356ca6a5b98c9f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e986c8a688cd509757b5b4728d3cecdcc5ee093dc1352ef7f0b58f83add1b0ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/075f87ff57addd50399530d029ce2372b253d8f464224476267ae127b4d60375.jpg"
 	],
 	"releaseDate": 20261106,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Board Game",
+		"Multiplayer"
+	],
+	"intro": "Play Monopoly Jr., Clue Jr., and The Game of Life Jr. Customize your avatar, unlock rewards, and enjoy local multiplayer fun for up to 4 players.",
+	"description": "Get ready for a big, colorful game night full of laughs, surprises, and \u201cjust one more turn!\u201d moments! This collection brings 3 classic junior board games to life in one exciting video game made for kids and families.\n\nRace around the board in Monopoly Jr., where every dice roll can help you grab cool places, collect money, and become the last player standing. Put on your detective hat in Clue Jr. as you search for clues, cross off suspects, and solve the case before anyone else! Then jump into The Game of Life Jr., spin the spinner, drive your car along the path, and collect stars as you go.\n\nPlay on your own or in local multiplayer for up to 4 players on one console. Create your own adorable avatar and make it truly yours with fun customization options and unlock new looks and cosmetic rewards just by playing matches.\n\nEasy to learn and packed with exciting moments every round, it\u2019s perfect for family game nights, friendly competition, and big smiles from start to finish!\n\n3 CLASSIC GAMES IN ONE: Play Monopoly Jr., Clue Jr., and The Game of Life Jr.\n\nFUN FOR EVERYONE: Kid-friendly rules that are easy to learn and play fast.\n\nLOCAL MULTIPLAYER PARTY: Play together with up to 4 players on one console.\n\nCUSTOMIZE YOUR AVATAR: Unlock fun new looks and cosmetic rewards as you play.\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors"
+	],
 	"dlcs": [],
-	"size": "0.99 GiB"
+	"size": "1009 MiB"
 }

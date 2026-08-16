@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125742/ff75087beb17ed5e48e2e86076e73aad65663258bd1e61bcaf89197fe814ed95.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125742/a4b187fc6157730312698d14b5cd5b67e25db3f9d40d508716fb75d16080a208",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff75087beb17ed5e48e2e86076e73aad65663258bd1e61bcaf89197fe814ed95.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8bc38948f87483643088bde87d9ecf050b567c37b09ab544f4662d0a324667c2.jpg",
 	"publisher": "Mens Sana Interactive",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/48a8d02255ee0e1ed3b33d227241c4bc125194e42e504dc880d4ec8692b38acf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/3e8a1f14950b383a77e3b4ba97f474b3475048a851c2b73b29dc1220fc4f18e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/d720a09495488c2d03aedf3b522fa7cdebf5995fd8aa1e046867f45bc295f478.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/780c8df0f1e7c6964c41a47d6b02d63f7dbe43b9687e998e8b064947bf75e7d0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/b62273a3ce7e3282fa25277630630574222cebbe4797ed8c323eed6d57319580.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125742/a3eee848dda55083daf5a301b34011478fdf6b078b8e0836bc3cbaaa42f40dc2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/48a8d02255ee0e1ed3b33d227241c4bc125194e42e504dc880d4ec8692b38acf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3e8a1f14950b383a77e3b4ba97f474b3475048a851c2b73b29dc1220fc4f18e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d720a09495488c2d03aedf3b522fa7cdebf5995fd8aa1e046867f45bc295f478.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/780c8df0f1e7c6964c41a47d6b02d63f7dbe43b9687e998e8b064947bf75e7d0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b62273a3ce7e3282fa25277630630574222cebbe4797ed8c323eed6d57319580.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a3eee848dda55083daf5a301b34011478fdf6b078b8e0836bc3cbaaa42f40dc2.jpg"
 	],
 	"releaseDate": 20260729,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game",
+		"Education",
+		"Party"
+	],
+	"intro": "Join cute cats in a cozy getaway! Find feline friends and pop balloons as you explore a snowy winter village and a peaceful Japanese cherry blossom park.",
+	"description": "Experience the Beauty of the Seasons! In this cozy hidden-object adventure, cats and friends explore the contrast between a frosty winter wonderland and a serene blooming garden. Every detail invites you to discover that whether in the snow or under falling petals, friendship and fun are always in season.\n\nStart your journey in The Winter Resort, a bustling snow-covered village where everyday life unfolds with gentle humor. Watch playful kittens ice skating, enjoying snowball fun, and sipping hot cocoa in a frosty wonderland full of warm encounters and cozy winter joy.\n\nThen, step into The Cherry Blossom Park to visit a tranquil Japanese-inspired setting. Explore a peaceful garden with elegant red bridges and lively street food stalls where cats celebrate the Hanami festival. Amidst the falling pink petals, discover that sharing quiet moments together is what truly makes spring magical.\n\nFeatures:\n- Cats and Friends: Find delightful characters in two detailed scenes -one from a snowy winter retreat and one from a relaxing floral park.\n- Balloon-Popping Fun: Enjoy relaxing gameplay as you pop balloons across the scenes\u2014a bit of fun with every search!\n- Rich Details: Explore beautifully illustrated settings that blend festive winter elements and blooming nature with visual storytelling in every corner.\n- Over 600 Items to Find! Search for 202 cats, 202 unique characters, and colorful balloons hidden throughout the seasons.\n- Atmospheric Soundtrack: Set the tone with immersive music tailored to match each getaway\u2014from cozy winter tunes to relaxing spring melodies.\n- Family-Friendly Fun: With cozy, pressure-free gameplay and intuitive controls, it\u2019s an experience for all ages. Perfect for relaxing together or playing solo.\n\nCelebrate the comforting beauty of frost and flora in this heartwarming journey\u2014where every moment is worth remembering.\n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "255 MiB"

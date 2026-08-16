@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128469/320a8d33c1f61f0e98439313eadf5aa0186acc54a8cf5d7882be1c6eccab9c67.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128469/7340fd0560626e6fd2933324d02e47e6885c855bf69880bec9e0f9fa3d8e11d5",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/320a8d33c1f61f0e98439313eadf5aa0186acc54a8cf5d7882be1c6eccab9c67.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b98f9758e545ac3547ca9afd63cdb5f4be8856758b30d1146ad1787262ede2e.jpg",
 	"publisher": "Tackorama",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/f7508f89de9d4777ed7d492bc1e6a31a345e635893fbc4ee6c7110f81c6a0beb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/49ecda5d8ab5df514439fce117924f6275317af3b90bef7ec0e80c44a842043c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/6141a1dc5caee58eebffcf5ace7ace75f9251b149b5881ad846093a70dfb5e3b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/e56d17e67c59c9b6cbb99e16d2ded90a28d29b64a1e2f4ff8a2c9173d288bfd1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/48434872b3ecb9688f1642f1618df404e3cffd5e926d329799a09c874ee8c3db.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128469/052d4c5b75279417328d85a740693fabea3232e62ea4f1550a2555f31d30e73e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f7508f89de9d4777ed7d492bc1e6a31a345e635893fbc4ee6c7110f81c6a0beb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49ecda5d8ab5df514439fce117924f6275317af3b90bef7ec0e80c44a842043c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6141a1dc5caee58eebffcf5ace7ace75f9251b149b5881ad846093a70dfb5e3b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e56d17e67c59c9b6cbb99e16d2ded90a28d29b64a1e2f4ff8a2c9173d288bfd1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48434872b3ecb9688f1642f1618df404e3cffd5e926d329799a09c874ee8c3db.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/052d4c5b75279417328d85a740693fabea3232e62ea4f1550a2555f31d30e73e.jpg"
 	],
 	"releaseDate": 20261001,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Arcade"
+	],
+	"intro": "Dig. And Get Paid.",
+	"description": "Down Pit is a relaxed mining platform game set across many off-world underground locations. You are a cuboid mining unit with a singular skill set sent out to extract ore from strange underground places.\n\nDig.\nGet Paid.\nUpgrade.\nRelax, maybe.\nCollect.\nGo Back Down Pit.\nDig.\n\nFind your favourite location and dig all the ore. Return to Ore Processing and get paid.  All the pit locations from The Depot can be remined infinitely, for free - no unlocks, bail at any time with no penalty. Dig in your favourite mine again and again, and get paid.\n\nYes to Digging.\nYes to Getting Paid.\n\nNo to enemies, combat, secrets, story, unlocks, card games, skill trees, pets, fishing, timers, npc interruptions, never ending dialogue, walls of text, power of friendship, ancient evil force, lost parents, lost items, lost love, missing pets, self-asteem whining, neuroses listing, dot dot dotting, time wasting, anime, pixel art, anime inspired pixel art, faff.\n\nDig. And Get Paid.\n\nThere\u2019s unlimited money to make with just you and all those mining areas to destroy, one block at a time. You arrive ready to mine, all equipment supplied, all ready to work. All the money is yours because only you will mine it out.\n\nTeleport Down Pit is to the left (Dig).\nOre Processing is to the right (Get Paid).\n\nLots of other utilities are in The Depot but be careful not to get too distracted, some are costly, some will drain your time. Warning: the poker game does not work and never will (it is a long term programming issue caused by a fool).\n\nDig. And Get Paid.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Simulated Gambling",
+		"Strong Language"
+	],
 	"dlcs": [],
 	"size": "544 MiB"
 }

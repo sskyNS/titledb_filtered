@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120435/0d1f628e641cbcf7d2ce4c2fc865429e750a93c351ccb3311519a38c2b23223c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7a6431d56958452c83d923e7e80be902_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d1f628e641cbcf7d2ce4c2fc865429e750a93c351ccb3311519a38c2b23223c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/db91dbd776d176c08b8cc001811e5f876f2a30bda61ed24de4cd8cdbf682e000.jpg",
 	"publisher": "Microids",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120435/d7e09a02a4bf28212a455e4acae4ab29d7d2b3d50bb6834b6a37fdd3a0a7f3b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120435/37dbd5a322ed4eef14dee80110888c433c367bc39309d79d335019ca5ef4cb80.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120435/a6761a613878e3c6d9d81ca52948e576d94afffbc621e2187ff72dd83a93a4e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120435/ca143a9090f006fc98ed7f39c5b75e3b1d49e8e36a18ba4e901c8fe86c00a28e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120435/2251d61632fb9ae245ef9a90b64401aa819b6f7ce01318499c7d2796818fa8d1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d7e09a02a4bf28212a455e4acae4ab29d7d2b3d50bb6834b6a37fdd3a0a7f3b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/37dbd5a322ed4eef14dee80110888c433c367bc39309d79d335019ca5ef4cb80.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a6761a613878e3c6d9d81ca52948e576d94afffbc621e2187ff72dd83a93a4e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ca143a9090f006fc98ed7f39c5b75e3b1d49e8e36a18ba4e901c8fe86c00a28e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2251d61632fb9ae245ef9a90b64401aa819b6f7ce01318499c7d2796818fa8d1.jpg"
 	],
 	"releaseDate": 20260924,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Garfield may be right not to trust vegetables\u2026",
+	"description": "Wake up Garfield from this nightmarish veggie filled 3D Platformer! The laziest cat is about to work hard in Garfield - Escape from Monday!\n\nWhen you\u2019re a lazy cat spending most of his time sleeping, having a nightmare can happen. But a nightmare full of vegetables and sugar-free candies, no way!\n\nAfter Jon fed him spinach lasagnas inspired by Chef Monday\u2019s recipe, Garfield falls into a deep sleep...\n\nTo wake up and reactivate his taste buds, the laziest cat in the world will have to explore worlds filled with enemies and eat a gigantic deal of lasagnas!\n\nFortunately Garfield can rely on Jon and his friends Odie, Arlene and Pookie. But also on his turkey, surfer and cowboy suits that will give him amazing skills!\n\n- Move like a cat\nJump, climb the walls, curl up into a ball\u2026 you will always land on your feet!\n\n- Embody Garfield in every form\nGo airborne dressed as a turkey, slide on the water like a surfer and swing with your cowboy lasso!\n\n- All the Garfield cast is here\nJon will be here to help you in your quest, along with Odie and Pookie. But beware Garfield's archenemies, Nermal and Squeak!\n\n- Explore lively worlds\n3 worlds and dozens of levels filled with enemies to fight and lasagnas to devour to regain the taste.\n\n- The more you eat, the more rooms you edit!\nGather tons of delicious collectibles to keep your morale and help refurbish Jon's house with all kinds of surprising items.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.78 GiB"
 }

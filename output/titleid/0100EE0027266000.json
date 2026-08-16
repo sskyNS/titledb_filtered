@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125566/f5fbf38cfb21917e5541627ad4937e86e5fa92958e867690d6fd09b9813d907f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/242bfdde96bd42e4ad8b3abd8c3f1507_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5fbf38cfb21917e5541627ad4937e86e5fa92958e867690d6fd09b9813d907f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1bd44730105dd6c312b056978d7c221be080a755e8c760ad519ef0f80db58f81.jpg",
 	"publisher": "Petal Cat Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/2a782d265e0c400f1963c7a6f1e71b5f2cd20c938b36e01b1ebd0535aca7069e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/4b5614b88c788389121db718de926c0fd49c339de24227824e5e42f4df618c4a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/c8b26b05d65d81fddef6083b51674bee9e7489d6a612b1b6ca944cf5a49f23d8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/f25a717ca1ca6632f6783eec3a65a2c80594055bff7db8590d3a7bd49ad0e5fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/337bbc8f4c67fbe4fad3dbe68359ee95f9bdc8facb85ce628ed512ff9408cdf5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125566/df9be9408d5bbef2d9bef529f5d69f69baf054ad025c7cd322d815e87750a275.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2a782d265e0c400f1963c7a6f1e71b5f2cd20c938b36e01b1ebd0535aca7069e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4b5614b88c788389121db718de926c0fd49c339de24227824e5e42f4df618c4a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c8b26b05d65d81fddef6083b51674bee9e7489d6a612b1b6ca944cf5a49f23d8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f25a717ca1ca6632f6783eec3a65a2c80594055bff7db8590d3a7bd49ad0e5fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/337bbc8f4c67fbe4fad3dbe68359ee95f9bdc8facb85ce628ed512ff9408cdf5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/df9be9408d5bbef2d9bef529f5d69f69baf054ad025c7cd322d815e87750a275.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"RPG"
+	],
+	"intro": "Tame creatures, grow crops, and record your findings!",
+	"description": "Discover and record 90+ plants, creatures, and fish at various locations around Shimmerbrook, and contribute your findings to the Archive.\n\nFeatures\n- Tame and raise 32 unique creatures\n- Observe wild plants and grow them as crops based on different requirements\n- Meet over 20 townsfolk, attend town festivals, go on hangout events\n- Date and marry one of the 10 romanceable candidates\n- Dig deep into the mines, fish, solve puzzles and uncover the mystery behind Shimmerbrook\n- Cook, craft, build, and more!\n\nYour life as a researcher starts today!",
+	"languages": [
+		"en",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Use of Alcohol"
+	],
 	"dlcs": [],
-	"size": "298 MiB"
+	"size": "425 MiB"
 }

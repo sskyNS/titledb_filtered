@@ -1,23 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127382/ac3a505ccbafe692ee2fc99f76841a98e0938ade049d3fc3eb9ef4ff311d6b94.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c8bcf873b98842a7988577c760448ebd_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac3a505ccbafe692ee2fc99f76841a98e0938ade049d3fc3eb9ef4ff311d6b94.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6869f5d28bf0d1833ea978210f6a7adddc5c0f53007b839296dda182250e44ff.jpg",
 	"publisher": "PolyCrunch Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/02415ce2f196cdf14c1d2eea8400d1d91adb7b980fc679600acfba7edfe58c94.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/74093d98fbc5a7cbd845867922e4ff145fc1c5d95133669bdfad7e1d3497bcba.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/06fdc0d6be20d9eaa010ff16d19ee93dadd464f92e320a36291e96e945f343f6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/1d14fd0c8ae93f36100caf4f05afca9384b96169b1da13e6fde61ae4016768a6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/bfb0e312eca52f1ea6563617fe577bdf8541ef073cfcddf27be0b38aeaee5f4a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127382/1b24bf173cc82919db1eaaefa845be62889abbc02a74303cb5de8db762b30040.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/02415ce2f196cdf14c1d2eea8400d1d91adb7b980fc679600acfba7edfe58c94.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/74093d98fbc5a7cbd845867922e4ff145fc1c5d95133669bdfad7e1d3497bcba.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/06fdc0d6be20d9eaa010ff16d19ee93dadd464f92e320a36291e96e945f343f6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1d14fd0c8ae93f36100caf4f05afca9384b96169b1da13e6fde61ae4016768a6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bfb0e312eca52f1ea6563617fe577bdf8541ef073cfcddf27be0b38aeaee5f4a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1b24bf173cc82919db1eaaefa845be62889abbc02a74303cb5de8db762b30040.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Party",
+		"Sports",
+		"Multiplayer"
+	],
+	"intro": "Mini-golf turned upside down! Abuse wild items on a variety of challenging golf tours. Shoot, fly, explode, and whatever else you can to get in the hole! It\u2019s golf... barely.",
+	"description": "Golftacular! is mini-golf... barely. Mix party game chaos and dumb fun with precision and strategy.\n\nUp to 4 players take turns as Tortillo, Chuck, Fin, Poop, Papa, Mama, Claude, and Frend, each one aiming for the hole while unleashing chaos on anyone foolish enough to stand in the way.\n\nEnjoy endless replayability with dozens of handcrafted courses and thousands of possible item combos. Items shake up everything: turn the course into your personal parkour playground or an obstacle-filled nightmare for your opponents. Call in airstrikes, play rock-paper-scissors, give your ball wings, place portals... and that\u2019s just the tip of the iceberg.\n\n\nFEATURES\n\n- Items, Items, Items - Use items for game breaking abilities and combos\n- Ear Candy Radio - Bumping original sound track\n- Express yourself - Pick from a cast of whackos... which one are you?\n- Play it your way - Play with keyboard & mouse or controllers\n- Not enough controllers? No Problem! - Pass and play mode lets you share\n- No friends? No problem! - Tackle challenging courses alone in single player puzzles",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "236 MiB"
+	"size": "300 MiB"
 }

@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130309/f152d6441963695a3422cee61acfad6f93f58c8ec27e82429ad0deb4fc6a44e3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/816bba60812c4e8fa1334f499f061ffe_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f152d6441963695a3422cee61acfad6f93f58c8ec27e82429ad0deb4fc6a44e3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/18a1397fdd3f8246cee50b014d640471164400fdd610417ecd4ea2506684d58d.jpg",
 	"publisher": "Yagni Lab",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/810ec3b6e02353e6fca7acb2d5c114570a2fa605e7e0eabfd86acfd5c70fecd1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/3951fc39513912cad2881466e5e6d36e3db639e51f9ef1fbf6b1c21595cb3cb1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/22176d927f6dfd053f6f593103668fddc3c80aa244e7e60b44ca040f4d3de612.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/982a60a4d3644267c63364a8006ef9a1b395477bddfed24e22f40c382589e5ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/692df5456c5fc46dd91945338b83cfbe90c3d4f4c75f4881dd8b4b5ff81fc342.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130309/ee47790609065a8382de2d5a3141af5d8667d6d7fa06daa9fb67d70f344dcd4a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/810ec3b6e02353e6fca7acb2d5c114570a2fa605e7e0eabfd86acfd5c70fecd1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3951fc39513912cad2881466e5e6d36e3db639e51f9ef1fbf6b1c21595cb3cb1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/22176d927f6dfd053f6f593103668fddc3c80aa244e7e60b44ca040f4d3de612.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/982a60a4d3644267c63364a8006ef9a1b395477bddfed24e22f40c382589e5ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/692df5456c5fc46dd91945338b83cfbe90c3d4f4c75f4881dd8b4b5ff81fc342.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee47790609065a8382de2d5a3141af5d8667d6d7fa06daa9fb67d70f344dcd4a.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Multiplayer",
+		"Simulation",
+		"Action"
+	],
+	"intro": "This is a game where you challenge yourself to survive using only the ingredients from a yakiniku restaurant.",
+	"description": "Survive by maintaining a balanced diet and eat as much as you can. If your stomach gets full, burn off calories with squats to get hungry again!\n\n\n\nWho doesn't love yakiniku?\n\n\n\nHow much can you eat at the BBQ restaurant? How many days can you survive at the BBQ restaurant? How far can your stomach endure? Who grilled this meat anyway? Food waste is a no-go.\n\n\n\nStealing, being stolen from, sometimes giving, and the budding friendships... all with a tear in your eye.\n\n\n\nWelcome to Yakiniku Party Survival.\n\n\n\nGame Overview:\n\nSurvive by consuming a balanced mix of protein, carbohydrates, and fats.\n\nEach ingredient affects your nutritional balance differently.\n\nIf you overeat and your calories go overboard, you won\u2019t be able to eat anymore. Burn off those calories with squats!\n\n\n\nGame Features:\n\nOnline Multiplayer: Play with up to 4 people. Both Quick Matches and Friend Matches are available, and you can freely enter or leave either. In Quick Matches, survivors from around the world play at their own pace. Friend Matches let you easily play with specific friends using a single keyword. Of course, you can also play solo.\n\n\n\nCooperative or Competitive Play: In online multiplayer, you can grill meat for other players or steal their meat instead.\n\n\n\nSkills: Learn and upgrade survival skills, such as tableware, rice, stomach expansion, or squat efficiency.\n\n\n\nFever Event: During The Fever event, no matter how much you consume, it\u2019s zero calories! It\u2019s your chance to balance your nutrition in one go.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Users Interact"
+	],
 	"dlcs": [],
 	"size": "331 MiB"
 }

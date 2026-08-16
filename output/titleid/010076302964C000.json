@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132612/c0bb8676c1ac82261c22eb6c95ccd6691321fbda997dfe3efad5730ae95e2335.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/c3e8cffb5bf0482fa73b9c7b751319bd_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0bb8676c1ac82261c22eb6c95ccd6691321fbda997dfe3efad5730ae95e2335.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9151ca7fa7c28c1d903472ab0a7fbfaf896984ba9da6d65804bdc5038bbb4c0.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/d24124f912ee77de45f8412d6c533a17cc041d752eaddd04c7819f1e29664c3e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/b535c1741e5ef364427c281c4fae29576afb0ffc88bfccf36fae97c503f8ff3c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/3b4422ad7f69eedf6b265e31166a1718bf022b1d65906922e5da6999ab20d3f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/5f86140b50b5d540fc65919626c090097f74c5f591d16a526a56f79ab65dc271.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/222042a7dd3b1f08094ab23f49b08b7863c48e6f5bcef18f345068cf410184b0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132612/64c8846f941e11e5beadb3a54c012a7627c3da6d9e5ac96943ec29f30bdffe47.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d24124f912ee77de45f8412d6c533a17cc041d752eaddd04c7819f1e29664c3e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b535c1741e5ef364427c281c4fae29576afb0ffc88bfccf36fae97c503f8ff3c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b4422ad7f69eedf6b265e31166a1718bf022b1d65906922e5da6999ab20d3f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5f86140b50b5d540fc65919626c090097f74c5f591d16a526a56f79ab65dc271.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/222042a7dd3b1f08094ab23f49b08b7863c48e6f5bcef18f345068cf410184b0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/64c8846f941e11e5beadb3a54c012a7627c3da6d9e5ac96943ec29f30bdffe47.jpg"
 	],
 	"releaseDate": 20260926,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy",
+		"Other"
+	],
+	"intro": "Some schools should stay abandoned.",
+	"description": "You enter an abandoned school hoping to uncover the truth behind its mysterious closure. Empty classrooms, silent hallways, and forgotten lockers hide clues to what really happened.\n\nBut before you can leave, the doors lock behind you.\n\nNow your only goal is to escape. Explore the school, collect keys and uncover the dark secrets hidden within its walls. Just don't ignore the feeling that you're being watched.\n\nFeatures:\n>Explore a creepy abandoned school.\n>Uncover the mystery behind the school's past.\n>Experience atmospheric first-person horror.\n>Evade the spirits that haunt the halls.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "573 MiB"
 }

@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128860/1ac6d33ff2c1279ff7302b64b7b204608185cfff3c74526c85e1f55a009ad7b0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128860/2a6f05048727f4e2962d96f4a7895214ee22cfc3784574c73c01eb77a3a653ee",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ac6d33ff2c1279ff7302b64b7b204608185cfff3c74526c85e1f55a009ad7b0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3349e0a7c50b949b16ca65e41905983c1029d0960b14de013e92d181da140e54.jpg",
 	"publisher": "Entity3",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128860/f106d83c9d947de2bba6525c3d49e1a7ada1b0b8ff811b19b4eaedd5776122c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128860/f2a5ab10ae2fdecb8894588d3a5c1b1bca5e8b1919ba5c5fa87f0e7d257a51b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128860/b281113d3b4e4c719522047bfb3a9b13cf1face0cde11337b9e59b2758ff90fe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128860/9e705a298e26e36abab600c73a800a73a9309fcd917e7027458d1d1b8d8376e2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128860/dea7cf3805ad5887efda24ce42c42a2d70e95ef378e003dbc0962e3c2b571bef.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f106d83c9d947de2bba6525c3d49e1a7ada1b0b8ff811b19b4eaedd5776122c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f2a5ab10ae2fdecb8894588d3a5c1b1bca5e8b1919ba5c5fa87f0e7d257a51b1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b281113d3b4e4c719522047bfb3a9b13cf1face0cde11337b9e59b2758ff90fe.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9e705a298e26e36abab600c73a800a73a9309fcd917e7027458d1d1b8d8376e2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dea7cf3805ad5887efda24ce42c42a2d70e95ef378e003dbc0962e3c2b571bef.jpg"
 	],
 	"releaseDate": 20260808,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Action",
+		"Arcade",
+		"Puzzle"
+	],
+	"intro": "Merge Monsters. Smash Every Block.",
+	"description": "Enter a fast-paced hyper casual merging game where strategy and destruction combine in satisfying arcade action. Build a team of powerful monsters on a 5 by 4 grid and send them charging down lanes packed with breakable blocks. Press dash and every monster rushes forward in its lane, smashing into obstacles, bouncing back, and attacking again until the blocks are destroyed.\n\nEach lane contains different types of blocks, with some requiring far more power to break through than others. As levels progress, the lanes become longer and tougher, challenging you to constantly improve your team and create stronger monsters capable of pushing further than ever before.\n\nEarn coins by destroying blocks during every dash and use them to buy new monsters for your grid. Start with basic level 1 monsters and combine matching monsters together by dragging them onto each other. Every merge creates a stronger monster at the next level, allowing you to continue upgrading all the way up to powerful level 30 monsters.\n\nTo complete a stage, at least one monster must smash through every block in its lane and reach the treasure waiting at the end. Claim huge coin rewards, unlock the next challenge, and keep merging to survive increasingly difficult levels filled with stronger obstacles and longer paths.\n\nEasy to learn and satisfying to master, this hyper casual merge game delivers nonstop progression, rewarding upgrades, and addictive destruction with every dash.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "285 MiB"
 }

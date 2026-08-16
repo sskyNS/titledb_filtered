@@ -1,22 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134140/75db3f6c4b987ca19adfe4bb902147555d3b6c37ce514fef4ad67559a9f8d859.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134140/6782ed6174159dca70363bc20a54e232d70019812be10a12be00a034c5eec1b7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75db3f6c4b987ca19adfe4bb902147555d3b6c37ce514fef4ad67559a9f8d859.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/443930d88209c2c3af0b95c93017a95dfb585f49cce074ee73560858abe19fc9.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/258cccb6a08513148c5cca44bc3321cc3c13b513c3b14bd33c050da59252b5d6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/a04c288188bc1345d2b9a506bac18d6e7396bfa3e7cd32a45651f79dc5b5651a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/bfb4957df0bc06a0aa39f97dc03639b9fea74e147c92db1a512e8dd9527cd7de.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/5e4d333350444434177df7df2b356f014216fa627ef5b52a508d44515c0aba5b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/5a8974367b8bc297c52ab5e8f63e251b80447716b5873fc75193750f69c77822.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134140/bf8ae3524435da437d14c7138cbad40a3308116f55a5d83c0c4b8ce226c11838.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/258cccb6a08513148c5cca44bc3321cc3c13b513c3b14bd33c050da59252b5d6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a04c288188bc1345d2b9a506bac18d6e7396bfa3e7cd32a45651f79dc5b5651a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bfb4957df0bc06a0aa39f97dc03639b9fea74e147c92db1a512e8dd9527cd7de.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5e4d333350444434177df7df2b356f014216fa627ef5b52a508d44515c0aba5b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5a8974367b8bc297c52ab5e8f63e251b80447716b5873fc75193750f69c77822.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf8ae3524435da437d14c7138cbad40a3308116f55a5d83c0c4b8ce226c11838.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study"
+	],
+	"intro": "Discover the secret guardian of Zooville in this heartwarming visual novel.",
+	"description": "The badger Dax, who has secretly maintained and cared for Zooville by night for years, finds himself longing for recognition, prompting a young hedgehog named Nell and her companions to uncover the truth and guide him out of the shadows.\n\n\u2663 Format: A visual novel for kids.\n\u2663 Word Count: Featuring more than 10,000 words.\n\u2663 Target Audience: Ideal for children between 5 and 10 years old.\n\u2663 Experience: Completely free of ads and in-app purchases.\n\u2663 Pacing: Allows you to read at your own pace without any rush.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "365 MiB"

@@ -1,22 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121418/519ed02592744cf45d7b9c90e6d4e58bbde79ea375d491c5a30801ede6c05c39.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ab0c28ceae4d4123be4c3a3710e88bcc_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/519ed02592744cf45d7b9c90e6d4e58bbde79ea375d491c5a30801ede6c05c39.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c99cda953ff71b8870f0758648955a6a1f30005cca0f54252862dbe896c0ebc.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121418/89a81afd6706eb6cfee5184173e900628682a1a35367b1a5c39eb05098211c5a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121418/c3e9053bc15e2eb5ecbe53044eb06b7017753bb36cf168a66c9cbed2655f2343.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121418/9102be881d3c8b86207590344e8c08d9d668ffb2053afbfd7279f47d6710502a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121418/06b17aeacbb54e99eb4fd61fee81321a04d7299de24a30c1eb00482f901e8585.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121418/dd96a8b7af8287d6483ef132982a3369e53d6ba84c6234faad5324f4295a3f83.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/89a81afd6706eb6cfee5184173e900628682a1a35367b1a5c39eb05098211c5a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c3e9053bc15e2eb5ecbe53044eb06b7017753bb36cf168a66c9cbed2655f2343.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9102be881d3c8b86207590344e8c08d9d668ffb2053afbfd7279f47d6710502a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/06b17aeacbb54e99eb4fd61fee81321a04d7299de24a30c1eb00482f901e8585.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dd96a8b7af8287d6483ef132982a3369e53d6ba84c6234faad5324f4295a3f83.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Communication",
+		"Video"
+	],
+	"intro": "Seven sins. Seven girls. One world that was never meant to be yours.\nCan you make them fall for you anyway?",
+	"description": "In a realm where desire rules and emotions run unchecked, seven girls wait, each one the living embodiment of a sin. \n\nLust. Pride. Wrath. Envy. Gluttony. Sloth. Greed. \n\nThey are not ordinary. They are extremes, beautiful, dangerous, and completely consumed by what defines them.\n\nYou explore their world through dialogue and choices, navigating personalities that could pull you in or push you away. Every word matters. Every decision opens a new path, or closes one forever.\n\nSome will seduce you. Some will freeze you out. Some will explode on you the moment you get too close. \n\nGetting through to any of them is a challenge, and that is exactly the point.\n\nTheir world is divided into seven territories, each built around its sin. Dark throne rooms, indulgent gardens, shadowy corners where secrets never sleep. The further you go, the deeper it gets.\n\n\nFeatures:\n\n\u25cf SEVEN ICONIC CHARACTERS: Seven girls, seven sins, seven completely different ways to make your heart race. None of them easy. All of them unforgettable.\n\n\u25cf DIALOGUE CHOICES THAT MATTER: Every response you give shapes the relationship. Push too hard, you lose ground. Play it right, and walls start to crumble.\n\n\u25cf CHARACTER AFFINITY SYSTEM: Build connection with each girl through progressive dates and intimate scenes. The harder they are to reach, the more rewarding the unlock.\n\n\u25cf EXCLUSIVE GALLERY IMAGES: Unlock stunning illustrations as your bond deepens. Each character has her own visual story to reveal.\n\n\u25cf MULTIPLE ENDINGS: Your path through the seven sins is yours alone. Some routes lead to romance. Others lead somewhere darker.\n\n\u25cf 30 DAYS TO CONQUER THEM: The clock is running. Every day you waste is a route that closes, a sin that wins. You do not have forever.\n\n\nSeven worlds. Seven personalities. None of them easy.\nWhich sin will you conquer first?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "993 MiB"
 }

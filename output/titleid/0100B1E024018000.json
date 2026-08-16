@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000099755/05e055d8000fb76156ce746f923ee95b897d028ead935571722738ba1456b5aa.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6fc6f6ac4fbc411b9659ecad8552ade9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/05e055d8000fb76156ce746f923ee95b897d028ead935571722738ba1456b5aa.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/76a5322e759b803c7f31f9cdaadc608d6e8ec9c4f7fdbfa03d3c37ddfacfc27d.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/601bd74af54cfc35f815037b090eee43a74467090bb15d56002fbebf1a3de384.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/d4872b2399fd6834333a3864326707ce3b4d394612376088688b368e48286671.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/69d90658914917cdcc9d8a71274639d08626eae4631d6ad51a079a648a622a87.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/48bdefa7cda3e34dee5d11c00e2d2a1111495a283f556409ce356be9050c9e97.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/d37c5b1669688304974c0fe684bb66938ccff5280a8a029ec5492ae0296358a5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000099755/baf875eab5c652bb55919bbe23649e9a7f19ac21932d5261d15a26e285851705.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/601bd74af54cfc35f815037b090eee43a74467090bb15d56002fbebf1a3de384.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4872b2399fd6834333a3864326707ce3b4d394612376088688b368e48286671.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/69d90658914917cdcc9d8a71274639d08626eae4631d6ad51a079a648a622a87.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48bdefa7cda3e34dee5d11c00e2d2a1111495a283f556409ce356be9050c9e97.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d37c5b1669688304974c0fe684bb66938ccff5280a8a029ec5492ae0296358a5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/baf875eab5c652bb55919bbe23649e9a7f19ac21932d5261d15a26e285851705.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Awaken the jungle spirits\u2014match, blast, and conquer the marble wilds!",
+	"description": "This game whisks you deep into a verdant, mystical jungle, where you\u2014an enigmatic masked tiki god\u2014must defend sacred temples from rolling marble invaders. Select a level, aim your marble-loaded staff, and fire to link three or more matching orbs before they breach the temple gates. Trigger dazzling chain reactions, clear each wave with precision, and earn up to three stars per stage by keeping the marbles at bay.\n\nBetween stages, call upon powerful tiki blessings: Explosive Marbles to obliterate entire clusters, Time Freeze to halt marbles in their tracks, Repaint to transform your next marble into any desired color, Slow Motion to decelerate the onslaught, Destruction Shots to zap a lone rogue marble, and Time Revert to undo your last throw for a second chance.\n\nEvery ten levels, journey through four lush jungle realms\u2014Emerald Canopy Ruins, Whispering Vines Gorge, Moonlit Waterfall Shrine, and the Lost Temple Apex\u2014each introducing new marble hues, winding vine-carved paths, moving tribal barriers, and ever-increasing speeds.\n\nAddictive and richly themed, this game combines classic marble-shooter thrills with vibrant tribal magic and exotic environments.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "628 MiB"
 }

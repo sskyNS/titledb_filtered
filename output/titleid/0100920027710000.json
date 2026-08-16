@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120496/8789d286118844eebeb5de0b8297e098dc9712489d5ea786a75a65c5ce1d0f14.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120496/91f1254d412040ce481c1000aeeef272628ee8cfc505ae7b42e5e38efd6fc189",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8789d286118844eebeb5de0b8297e098dc9712489d5ea786a75a65c5ce1d0f14.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a73d45881bf643d7230b9de77b77132fc5c5df939f3318e9342afc1d7a7efe9e.jpg",
 	"publisher": "Ionized Studios",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/1f5e3de939d10f2fa656ca4d48a5ed0af5e70cc21b2cde7664d2901984516a21.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/9f2f162e47dc5c17babf66597fd53b03771369bda2a15f3844618da31e9d2fd8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/7dc621782e016c95110c277fa94c06e8bb3e980080eacc1a8bcf5f738c3b74e4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/7c1b850f49cfad2e429f62a160dd75aced81bebd8442b409e0471064226c5fab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/eaa1243f3991a587a7beeb5563578af1eb390bfd2c55807decdb923bdcce0b69.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120496/a09519d34ff567df4a31b52d5440b2578cf6d172cbacec522c63b4fc8c9b8c74.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1f5e3de939d10f2fa656ca4d48a5ed0af5e70cc21b2cde7664d2901984516a21.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9f2f162e47dc5c17babf66597fd53b03771369bda2a15f3844618da31e9d2fd8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7dc621782e016c95110c277fa94c06e8bb3e980080eacc1a8bcf5f738c3b74e4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7c1b850f49cfad2e429f62a160dd75aced81bebd8442b409e0471064226c5fab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eaa1243f3991a587a7beeb5563578af1eb390bfd2c55807decdb923bdcce0b69.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a09519d34ff567df4a31b52d5440b2578cf6d172cbacec522c63b4fc8c9b8c74.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Platformer",
+		"Party"
+	],
+	"intro": "Limbot is a super silly, 3D platformer where you individually control the limbs of a giant cardboard robot! Master all four limbs in solo or embrace the chaos and camaraderie in co-op.",
+	"description": "Welcome to Limbot, the ultimate physics-based city stomping experience where up to 4 players must attempt to pilot a person dressed as a giant cardboard robot! Embrace the chaos in a paper-craft metropolis designed to be crushed, smashed, and destroyed!\n\nStomp, kick, and punch your way to completing wacky objectives set in a fully destructible cardboard world, where every building, obstacle, and enemy can be bashed to pieces or flattened into pulp! Smash down skyscrapers, face-off against paper foes, and take down the biggest (and silliest) crafted bosses this world has ever seen\u2026\n\nGo full DIY and unlock upgrades to customise your robot such as strapping a soda can to your leg for a handy speed boost, wooden spoons to give your Karate chops some added range, or slap on some stickers to add some extra style. Mix and match upgrades to make your perfect robot!\n\nIntuitive controls make moving limbs simple and accessible to players of all ages and abilities. All you need to do is figure out how to work together... good luck with that! Oh, one more thing, if the robot trips, it's definitely your teammate\u2019s fault!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "932 MiB"
+	"size": "933 MiB"
 }

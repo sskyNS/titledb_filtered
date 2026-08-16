@@ -1,21 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121595/fe2da17664f5f7dc3455fe0bc7d9c6caf1b5c3f79fea387e693c9f568772a7a6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121595/98660d88fb3eed6b3a7d8ff4034679b79984ef1a1b89125a08e3b1a6e17fc378",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fe2da17664f5f7dc3455fe0bc7d9c6caf1b5c3f79fea387e693c9f568772a7a6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7c5a7188fd7934a184eb5c50d01780d50e41da55b7b47060a4f610a086696a4.jpg",
 	"publisher": "Daedalic Entertainment",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121595/4821eb51c11c1a03bb11b7f322c79a99313b81006d23eff7e6946c6aaf901f38.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121595/4efe05f4c6368df23f8da2975701b376ff9df10dc235aec91e23356d0ed77a0b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121595/a95899263a12917f1ecb4265f03f99284e3e11184aba89088e340b380c3d8d12.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121595/b52a5f515203c7f157e7f72b4ed14a4984b481b3dfd2f12eb53db75a905503dd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121595/1240e8d051fbf5d3ee3f943a5c920eaf24a44a8a1e0e447bb7d93129f7380f6d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4821eb51c11c1a03bb11b7f322c79a99313b81006d23eff7e6946c6aaf901f38.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4efe05f4c6368df23f8da2975701b376ff9df10dc235aec91e23356d0ed77a0b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a95899263a12917f1ecb4265f03f99284e3e11184aba89088e340b380c3d8d12.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b52a5f515203c7f157e7f72b4ed14a4984b481b3dfd2f12eb53db75a905503dd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1240e8d051fbf5d3ee3f943a5c920eaf24a44a8a1e0e447bb7d93129f7380f6d.jpg"
 	],
 	"releaseDate": 20260916,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Woodo feels like a 3D coloring book you can touch, a relaxing tale told through handcrafted wooden dioramas.",
+	"description": "Woodo is a cozy diorama puzzle game where you assemble wooden scenes piece by piece. As you place objects in their correct spots, each scene slowly fills with color and comes to life, revealing charming animations and small surprises. Follow the story of Foxy and Ben the frog through a series of interconnected dioramas, each capturing a unique moment from their shared adventure.\n\nTactile Satisfaction\nFeel like you\u2019re assembling a real toy, with each piece clicking into place with a satisfying, tactile sensation, as if it\u2019s right in your hands.\nAssembling objects isn\u2019t linear\u2014you have to turn and explore the 3D space to reveal hidden pieces. Watch as each piece transforms the world around you, with playful animations that react to your placements, bringing the diorama to life.\n\nA Warm Companion\nWith a friendly narrator's voice, immerse yourself in a world when time was plentiful and much of it was spent outdoors, when the simplest things surprised and when every day promised great adventure. Feelings that were more present in childhood and are often missed or even forgotten with time passing.\n\nFeed Your Inner Child\nThe game features funny and charming characters that create an atmosphere of carefree joy and humor, reminding you that happiness is what your inner child needs.\n\n-Assemble beautiful dioramas piece by piece with a unique puzzle mechanic\n-The game adapts to your pace, providing assistance when you need it\n-Gameplay changes to adapt the narration\n-Simple but deeply meaningful story\n-The comforting voice of the narrator keeps you company\n-Get carried away by nostalgic feelings of when things were simple\n-Plenty of funny characters and silly animations make you smile",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "2.00 GiB"

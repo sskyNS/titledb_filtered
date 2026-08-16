@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126206/46dd854c887a82921b68a40549eaabd68423253bd547804fc324bc3d0e9e256b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126206/af76f2b62e8a286f49ee20106646385f7bb52eb9f60152644db10451d73a8e0a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46dd854c887a82921b68a40549eaabd68423253bd547804fc324bc3d0e9e256b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4fa52378c7e7ce152fd008c979a39d16bc79550f725eb723693d891cbd256a5a.jpg",
 	"publisher": "Revulo Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/715a10d82c1e9dfebe97466e042ec0c56a25f662e4b187681cdcfb317edd7280.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/5a6e27a20a9afd1c9904fdb27b17abc64cbf1ddd5710f18cb54d0d2d07b3e90a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/7da7eee31a5b12899dfdf27b2ecca6a7216eb6822d86b4f0dd61b773db9e8986.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/08d3691474b547424ba1f61849382e1e5e1673c96eb0ee498073d32d519589ec.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/13d4bfb6e9734f2c780e146cd5e0bb367a8f8634e1c1fcc1f2f320b5d1997254.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126206/5cf6764c69231d1504455051214a26767c1a77096b9f0df4535828c7857e7824.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/715a10d82c1e9dfebe97466e042ec0c56a25f662e4b187681cdcfb317edd7280.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5a6e27a20a9afd1c9904fdb27b17abc64cbf1ddd5710f18cb54d0d2d07b3e90a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7da7eee31a5b12899dfdf27b2ecca6a7216eb6822d86b4f0dd61b773db9e8986.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/08d3691474b547424ba1f61849382e1e5e1673c96eb0ee498073d32d519589ec.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/13d4bfb6e9734f2c780e146cd5e0bb367a8f8634e1c1fcc1f2f320b5d1997254.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5cf6764c69231d1504455051214a26767c1a77096b9f0df4535828c7857e7824.jpg"
 	],
 	"releaseDate": 20260711,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Sports",
+		"Arcade"
+	],
+	"intro": "Golfish is a cute single-player puzzle adventure where you roll, flop, and splash your way from ice hole to ice hole as a little fish on a big journey!",
+	"description": "Spit water to move as a round fish in this cute minigolf puzzle adventure! Use clever movement, smart timing, and the help of adorable sea creatures to overcome obstacles and explore a charming world full of personality.\n\nSea Creatures That Lend a Fin!\nBounce on jellyfish, get carried by crabs, and let mighty whales blast you across the water. These adorable marine animals are not just part of the world, they are part of the puzzle. Learn how each creature works and use them to reach new places!\n\nOver 100 Levels of Watery Challenges!\nTake on a growing journey of handcrafted puzzles testing your problem-solving ability. Earn stars for optimal playthroughs, just watch out for the water not to run out!\n\nCustomize Your Fishy Hero!\nUnlock different looks and make your little fish truly your own with 25 unique skins and 8 effects to choose from! Whether you want your fish to look cute, silly or stylish, we have that in stock!\n\nConvenient gameplay\nEnjoy dynamic camera support and a wide range of gameplay settings!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "523 MiB"

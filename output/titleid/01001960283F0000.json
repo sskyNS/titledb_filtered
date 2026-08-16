@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125394/dc8b15d8126b632dfcdf5f08b83573e699be4a0deaf1219d735e51e078526e08.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125394/2915add2b7d721e4c276f17e241bcb22d12cef1222070d68e29065912dd38963",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc8b15d8126b632dfcdf5f08b83573e699be4a0deaf1219d735e51e078526e08.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ef1d9a046c9b28499e161970101f8887936de4f88809a36ba2a57733fa0274c.jpg",
 	"publisher": "PRIME",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/7dee514dad5da69d96836875d177660d49928a25b110d665525dc512cdb8a2b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/c1cff1c10486a95fa3f1943f787223d58a727f0b3908a9536beb157c359e465e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/3057cbec858d30a031346fb48cf74a7ce1104087163bfbb6ec006ac79a943413.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/c791a63cd8cd3638606ca6f5dabc691cd30c794e090df88b1c0912a60fb9e59d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/51a8ec35f1d944b1d61a3e9ef53aee91af8173e8fdea4e7217577b0ed4fecb95.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125394/2eef96a85a28d678048599e89fb85ac9033dbe190d6bef58d0a43b16325ebb6f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7dee514dad5da69d96836875d177660d49928a25b110d665525dc512cdb8a2b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1cff1c10486a95fa3f1943f787223d58a727f0b3908a9536beb157c359e465e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3057cbec858d30a031346fb48cf74a7ce1104087163bfbb6ec006ac79a943413.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c791a63cd8cd3638606ca6f5dabc691cd30c794e090df88b1c0912a60fb9e59d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/51a8ec35f1d944b1d61a3e9ef53aee91af8173e8fdea4e7217577b0ed4fecb95.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2eef96a85a28d678048599e89fb85ac9033dbe190d6bef58d0a43b16325ebb6f.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Brave the frozen wilderness, build a shelter, and survive one more night.",
+	"description": "Alone in a frozen wilderness, every decision could be the difference between survival and a cold, silent end.\n\nExplore a vast winter forest from a first-person perspective. Gather wood, stone, iron, berries, and other essential resources before hunger, freezing temperatures, or wild predators catch up with you. Craft the tools, weapons, clothing, and supplies you need to stay alive.\n\nTurn an empty patch of wilderness into a secure survival base. Build a shelter, furnish it with a workbench, bed, and furnace, light a campfire, and prepare for the dangers waiting beyond its walls.\n\nHunt wolves, deer, hares, and birds using a bow, rifle, or shotgun. Cook food, monitor your health, hunger, and body temperature, and adapt as day gives way to night.\n\nYour struggle is not only about survival. Explore the forest, complete story quests, uncover its secrets, and discover what happened to your missing father.\n\nKEY FEATURES\n\n\u2022 Explore an open winter wilderness\n\u2022 Gather resources and craft essential equipment\n\u2022 Build and furnish your own shelter\n\u2022 Hunt wildlife and defend yourself from predators\n\u2022 Survive cold, hunger, injuries, and changing conditions\n\u2022 Experience a full day-and-night cycle\n\u2022 Follow story quests and search for your missing father\n\nCan you master the frozen forest and survive another day?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "220 MiB"
 }

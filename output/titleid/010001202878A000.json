@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126632/1f073b713206bbe71d75057b9849fcccb81632edf915d1eaf3ffca9e41d9a0fc.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/85cb62dbd329436d81e1194c4de7a53a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f073b713206bbe71d75057b9849fcccb81632edf915d1eaf3ffca9e41d9a0fc.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4d6570a1461d2580c38c65f1a6c1fe3841362ce48e2aea8d77bc0406a41217f.jpg",
 	"publisher": "Eclipse Interactive",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/9779e8b182858746fad7815a1883956c4268c8b6bce706fa2e048d59f0457ee9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/2b499b4e30e383c01bfe1bcd841cf25e190fb0e52c1e4cef5173c9e3623cca63.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/f098faf834d5d93f2757a41f40724aae7820aaa30cfb5694738665a8571b1ab0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/691f04bbbd49489acc32a7b2954114d36bd4b1ae2c5419c602a60c3a4dd78958.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/489e000c086e23712a44f932789a75a196de34c97ee3c59cd43da0d9709825bf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126632/40b6a817d307ce5f94a1f345ec76daea83f2267698a5bcb9fef250d3ab449143.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9779e8b182858746fad7815a1883956c4268c8b6bce706fa2e048d59f0457ee9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2b499b4e30e383c01bfe1bcd841cf25e190fb0e52c1e4cef5173c9e3623cca63.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f098faf834d5d93f2757a41f40724aae7820aaa30cfb5694738665a8571b1ab0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/691f04bbbd49489acc32a7b2954114d36bd4b1ae2c5419c602a60c3a4dd78958.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/489e000c086e23712a44f932789a75a196de34c97ee3c59cd43da0d9709825bf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/40b6a817d307ce5f94a1f345ec76daea83f2267698a5bcb9fef250d3ab449143.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure",
+		"Arcade"
+	],
+	"intro": "Pick up orders, ride through the city, and become the ultimate bike courier.",
+	"description": "Every delivery counts!\n\nJump on your bike and experience the life of a city courier in a vibrant open-world delivery adventure. Pick up food, drinks, and packages from local businesses and race through busy streets to deliver orders on time while building your reputation as the city's most trusted rider.\n\nExplore a large city filled with unique districts, from bustling residential neighborhoods and lively parks to industrial zones packed with shortcuts and hidden routes. Watch the city come alive through a dynamic day-and-night cycle and changing weather conditions that make every delivery feel different.\n\nManage your stamina during long rides and collect energy sodas scattered throughout the city to keep moving when the pressure is on. Earn money from successful deliveries and unlock up to 12 unique bicycles, each offering its own riding style, speed, handling, and performance.\n\nLooking for extra challenges? Practice wheelies and show off your bike-handling skills while exploring every corner of the city.\n\nWhether you prefer relaxing rides through the streets or racing against the clock to complete deliveries, Bike Food Delivery Simulator offers a fun and rewarding courier experience for players of all ages.\n\nFeatures\nExplore a large open-world city\nDeliver food, drinks, and packages across multiple districts\nDynamic day-and-night cycle and weather system\nCity traffic that creates new challenges for every route\nUnlock and ride 12 unique bicycles\nEarn money and expand your delivery career\nStamina system with collectible energy boosts\nPerform wheelies and improve your riding skills\nDiscover residential areas, parks, industrial zones, and hidden shortcuts\nRelaxing and accessible simulation gameplay\n\nGrab your bike, hit the streets, and become the ultimate city delivery rider!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "475 MiB"

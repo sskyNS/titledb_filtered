@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127058/5ae651738c3640addbb7d0ec0655f1df82b0378d2d2e74b6c353e46f32c49517.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b84f5ad494184d07bc82f27a61d44bd0_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ae651738c3640addbb7d0ec0655f1df82b0378d2d2e74b6c353e46f32c49517.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c09f4ecd26f8ca04e7a00a0a77fa093aafd507e89598ca5cba288a4ec06a2aed.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/a4f7c0717db9bcf5c3a7b6c42257a17abe9462107505f2adbcac15cdd964d97c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/95aa228112078fdf5f1f48658d1c299016bee7aab049b909636d9bd891838050.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/350d316bebdf920c0fe9de6114396d50088dec2ccd90240c8d7a6496c571599d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/d9e02709d469feda23b443eb176ff70f6130f9e21ca0c36b3803461dd42dc8bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/3cd04da8687f1c0350047c847761f978b4d9a1c611a73941be7a909ea24d2505.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127058/c4c852a1b2d333c464f7175c0ca614ed5aa842c7a16bf55bf6547c18b52aac59.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a4f7c0717db9bcf5c3a7b6c42257a17abe9462107505f2adbcac15cdd964d97c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/95aa228112078fdf5f1f48658d1c299016bee7aab049b909636d9bd891838050.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/350d316bebdf920c0fe9de6114396d50088dec2ccd90240c8d7a6496c571599d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d9e02709d469feda23b443eb176ff70f6130f9e21ca0c36b3803461dd42dc8bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3cd04da8687f1c0350047c847761f978b4d9a1c611a73941be7a909ea24d2505.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c4c852a1b2d333c464f7175c0ca614ed5aa842c7a16bf55bf6547c18b52aac59.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Communication",
+		"Puzzle"
+	],
+	"intro": "Sun's out, the pool's packed, and they're all rooting for you.\nPlay the minigames, earn their attention and unlock exclusive images!",
+	"description": "It's the hottest party of the summer and the guys are watching every move you make. Score big across the minigames and watch the gallery fill up with exclusive images of each character in his full pool party look.\n\nPlay hard, react fast, and hold your ground when things get intense. The boys notice everything, whether you're crushing it or just barely hanging on.\n\nSome of them can't stop hyping you up. Others turn red every time you do something unexpected. All of them are worth getting to know better.\n\nHow deep into the gallery can you get before the sun goes down?\n\n\nFEATURES:\n\n\u25cf MINIGAMES WITH SPARK: Play through different challenges while they cheer, tease, and react to your every move.\n\n\u25cf UNLOCK EXCLUSIVE GALLERY IMAGES: Higher scores open up more images, more looks, more sides of each character.\n\n\u25cf ANIME CHARACTERS WITH TONS OF PERSONALITY: From the one who never stops cheering to the one who can't hide his surprise, every reaction is part of the experience.\n\n\u25cf MULTIPLE ENDINGS: The summer ends differently depending on how far you push it.\n\n\u25cf HIDDEN FINAL MOMENT: Score high enough and find out what they've been hiding all along.\n\n\nPush your score. Make them regret underestimating you.\nThe pool party's already started.\nGet in!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "310 MiB"
 }

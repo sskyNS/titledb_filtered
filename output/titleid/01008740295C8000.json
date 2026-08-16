@@ -1,20 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132450/4db6d911b530d564d765b9dfb8bfe7aaa8f5772a56a8f420e846ea26d0136c48.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fbf5cc478d4e4816a1bd883c62b9ce21_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4db6d911b530d564d765b9dfb8bfe7aaa8f5772a56a8f420e846ea26d0136c48.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e32369c4121044796da10663eaeeab04c2bc1da35323cdafe78013d957d7962.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132450/a4bb56236b8bf0a2279d6d419fd7e249d6393ac13eba434d2ae659448facf4fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132450/08d7839807dc0b114cf983efed061b13606a55594fedfc16434c230a8a1e9305.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132450/9c86f547821e4408605fe1cedd1f8bea8f7002220c5b9358077c2c8689c11c17.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a4bb56236b8bf0a2279d6d419fd7e249d6393ac13eba434d2ae659448facf4fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/08d7839807dc0b114cf983efed061b13606a55594fedfc16434c230a8a1e9305.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c86f547821e4408605fe1cedd1f8bea8f7002220c5b9358077c2c8689c11c17.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter"
+	],
+	"intro": "Enter a forgotten underground vault in this fast-paced pixel-art roguelike shooter. Explore procedurally generated dungeons, collect powerful weapons, battle dangerous enemies.",
+	"description": "Descend into a forgotten underground vault where every room hides new dangers, valuable supplies, and terrifying enemies.\n\nFight your way through five increasingly difficult dungeon levels in a fast-paced, top-down pixel-art roguelike shooter. Each run features procedurally generated rooms, unpredictable encounters, and randomized loot, ensuring that no two expeditions feel exactly the same.\n\nChoose from three playable characters with different strengths, then search the vault for weapons, ammunition, health supplies, and other useful equipment. Expand your arsenal with pistols, shotguns, lasers, rockets, and other weapons, each offering different firing patterns, magazine sizes, and combat possibilities.\n\nStay mobile, dodge incoming attacks, take cover behind interactive objects, and flip tables to block enemy projectiles. Break containers, open mysterious chests, explore cleared areas using the minimap, and prepare for powerful bosses waiting at the end of every level.\n\nThe deeper you travel, the more dangerous the vault becomes. Enemies grow faster, attack more frequently, and appear in greater numbers. Taking damage can also affect your sanity, briefly distorting the world around you and making every battle even more unsettling.\n\nManage your resources carefully, adapt to the weapons you discover, defeat each guardian, and uncover how far the darkness beneath the vault truly reaches.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "98 MiB"
 }

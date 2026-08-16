@@ -1,20 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129786/8e2781830ea4d392ab50ba73e6692f694b94671243fb5aeaf00a20d83898c724.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2dd0286542224cb49f382f9436af9092_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e2781830ea4d392ab50ba73e6692f694b94671243fb5aeaf00a20d83898c724.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/92e3e3cc0f03c1030607ca1168ab815bc972e35b482b41ec43fe25c809311a6c.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129786/9343a77e298ab8782e73bcd9a4879dd2e682794789a149719237c2187ce8ad6e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129786/368c07426bf5ac2f54cf78030e9975e9868a505113cf3f45038f205028793ea6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129786/ae80d38666b9a64ad7e21810708173c1a6169895df4bda9794a29dc9eb71aeef.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9343a77e298ab8782e73bcd9a4879dd2e682794789a149719237c2187ce8ad6e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/368c07426bf5ac2f54cf78030e9975e9868a505113cf3f45038f205028793ea6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ae80d38666b9a64ad7e21810708173c1a6169895df4bda9794a29dc9eb71aeef.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Simulation"
+	],
+	"intro": "A classical Solitaire game with a modern twist. \nPlay classic Solitaire in a calm, anime-inspired world.",
+	"description": "This game combines timeless Solitaire gameplay with a peaceful anime presentation filled with soft colors and elegant designs.\n\nPlay classic Klondike Solitaire in 1-card or 3-card draw mode, focusing on clean moves, smart decisions, and a satisfying flow. Each completed game rewards you with score and experience, based on how efficiently you play.\n\nAs you gain experience, you level up and unlock cosmetic rewards. These include beautiful anime-style card skins, serene backgrounds inspired by cherry blossoms and temples, and stylish card backs. Every single card has multiple skins and can be customized individually.\n\nBefore each match, you can freely adjust your deck and table to match your mood. Whether you prefer soft pastel tones, detailed anime illustrations, or a more minimal look, every game feels personal and relaxing.\n\nWith no time pressure and a steady sense of progression, the game offers hours of soothing gameplay and a constantly growing collection of beautiful cards.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "348 MiB"
 }

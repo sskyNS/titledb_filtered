@@ -1,23 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000115554/38315b499fb3d786cb19ac626a4b1672c3e24b883b1bc53068694e0d070bc65c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cd87080b892f439b9b0a4b957efa2380_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38315b499fb3d786cb19ac626a4b1672c3e24b883b1bc53068694e0d070bc65c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1038ff5c4fc6673fc35f671ecd6e2232146275a9b86c98e49f5da615a32ef773.jpg",
 	"publisher": "Laplacian",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/fec9bbe8f19d82915195c24b983ecfb52ecfc7ae7cbddadd973642e7e338e43f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/a268b25c9086a6796e55ac51c89d2c7dc7ae2590be5fcb7398df31e966948761.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/47510067bafea95574699800499e923bb3af67a9329346780ac38b40bf944b70.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/66bc5d75ca439f9f290a525b9599c632faa99f393aba53111785b9e8425e96f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/035342c5929a74dbe20d999b15b61ed991a35db9ddc81f3c018e732bacd375f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115554/6b407306bdd84db71e29922bfc17a297b783905ebfa8f03fdad86193ac091c2c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fec9bbe8f19d82915195c24b983ecfb52ecfc7ae7cbddadd973642e7e338e43f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a268b25c9086a6796e55ac51c89d2c7dc7ae2590be5fcb7398df31e966948761.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/47510067bafea95574699800499e923bb3af67a9329346780ac38b40bf944b70.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/66bc5d75ca439f9f290a525b9599c632faa99f393aba53111785b9e8425e96f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/035342c5929a74dbe20d999b15b61ed991a35db9ddc81f3c018e732bacd375f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6b407306bdd84db71e29922bfc17a297b783905ebfa8f03fdad86193ac091c2c.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Don't be shy, watch me die!",
+	"description": "Even in death, Kugayama Shiori takes her own life.\nMaybe her next will finally be her last.\nBut no matter how many times she dies, her soul refuses to leave this world.\n\nMaybe the answer lies in her lost memories.\nMaybe there's a lingering attachment she's forgotten.\n\nOther than her name, she remembers nothing.\nWho was she?\nWhy did she die?\n\nTogether with you\u2014the only living person who can still speak to her\u2014\nShiori begins her search for her memories, and for the truth behind her death.",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Intense Violence",
+		"Language",
+		"Sexual Themes"
+	],
 	"dlcs": [],
-	"size": "3.37 GiB"
+	"size": "3.42 GiB"
 }

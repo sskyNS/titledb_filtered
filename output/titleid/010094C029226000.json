@@ -1,21 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131121/f296e402ed6cdfe20cf0045a5f9df9e1a63e9a40b40b5c91c763c8bfe78396ef.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131121/3e8055ed2d071ec0859b69d76c395b0779c9ab6aa63877b44b1a83b42a0ea1a2",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f296e402ed6cdfe20cf0045a5f9df9e1a63e9a40b40b5c91c763c8bfe78396ef.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed83fded1ff885cb43db488c9180b13108408ada4af4c9ece7c0c5ca764103ed.jpg",
 	"publisher": "tarakyoZGamesDevelopmentLab",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131121/46a55ac9de416cefe6fe398b4c3f8ed9dac31d534637087597a58c37e3a838ba.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131121/4d6f433cc27b60c9b92a3bde6cb2bf389e62147cccc432afd1a4f34a980e45e9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131121/e77b0893afa4858bc396b3c61952a028b4f9e2c780bfcf2cc9dbde4ea944dbd8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131121/cca8fa079e6ac29a7bf58b355787bba3e4157d6559fef28d24731cf2c18f31ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131121/5fb7cf72b3f23485dc27a39e2db601603ac5cacb9e66cc3d32e4b7c76900fd48.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/46a55ac9de416cefe6fe398b4c3f8ed9dac31d534637087597a58c37e3a838ba.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d6f433cc27b60c9b92a3bde6cb2bf389e62147cccc432afd1a4f34a980e45e9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e77b0893afa4858bc396b3c61952a028b4f9e2c780bfcf2cc9dbde4ea944dbd8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cca8fa079e6ac29a7bf58b355787bba3e4157d6559fef28d24731cf2c18f31ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5fb7cf72b3f23485dc27a39e2db601603ac5cacb9e66cc3d32e4b7c76900fd48.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Education",
+		"Training",
+		"Other"
+	],
+	"intro": "A game to learn about the Blue Ticket system\nTwo gameplay modes: Quiz and Action\nSimultaneous Japanese and English display",
+	"description": "A game that teaches you about Japan's \"Blue Ticket\" system!\n\nThis game allows you to learn about Japanese traffic laws and the \"Traffic Infringement Notification System\" (commonly known as the \"Blue Ticket\" system)\u2014which came into effect in April 2026\u2014through gameplay. In the quiz stage, you can learn the correct rules and interesting trivia via True/False questions. The action stage lets you navigate a city modeled after real Japanese streets, challenging you to reach your destination safely without committing any traffic violations.\n\nIs it okay to ride on the sidewalk? What is the correct way to navigate a T-junction? Can children get a \"Blue Ticket\"? Is it permissible to hang bags on the handlebars? Find the answers to these questions and more.\nUse this game to acquire accurate and proper knowledge.\n\nThe game features a bilingual display (Japanese and English), making it a great tool for language study.\nIt is also designed so that international visitors to Japan\u2014or anyone interested in understanding Japanese traffic laws\u2014can play with ease and confidence.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "424 MiB"

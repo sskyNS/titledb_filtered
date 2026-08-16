@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000115510/100ee295232a2cb93e1736519a06c9dfef7832b06fe117cc96eb56bdb8367062.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000115510/0a78095b579c61359833677877d5019f7b8d57a14fff6a6e5e4293cb4119f82b",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/100ee295232a2cb93e1736519a06c9dfef7832b06fe117cc96eb56bdb8367062.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9526ee5764046f644d8a171ddee95ef11ed507a870d4a2b0eb0bcbbc50bd1216.jpg",
 	"publisher": "Parta Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/125f72183494a706c142d841b1296dea471a30172156025e5e4612a68fe2526b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/e9172771e8c70ab59a46b4594aa6daaf33cfc3193461e29157b1ff5b1c70a2f5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/f769808af4e79ed567e2f8a642e7460dcb1842c71f4b6bbcd3be2fc60c3c4ae1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/61d0bc857937fa31b435415956d4729fc8f5a674da9ec40a88907afb144e80e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/0510edff88fc01bca2ebd9dcb5639aec8f35f4adecac8e958c80a4a74db0cd57.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000115510/a69440ce8ebca1173a8620c69017c74b0e38b0a684e6db795f6238540f7d32d2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/125f72183494a706c142d841b1296dea471a30172156025e5e4612a68fe2526b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e9172771e8c70ab59a46b4594aa6daaf33cfc3193461e29157b1ff5b1c70a2f5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f769808af4e79ed567e2f8a642e7460dcb1842c71f4b6bbcd3be2fc60c3c4ae1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/61d0bc857937fa31b435415956d4729fc8f5a674da9ec40a88907afb144e80e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0510edff88fc01bca2ebd9dcb5639aec8f35f4adecac8e958c80a4a74db0cd57.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a69440ce8ebca1173a8620c69017c74b0e38b0a684e6db795f6238540f7d32d2.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Arcade",
+		"Party"
+	],
+	"intro": "Take to the skies in Choppa: Rescue Rivals! Fly daring rescue missions through a Saturday-morning-anime adventure. Save lives, outfly rivals, become a legend!",
+	"description": "Choppa: Rescue Rivals is a modern-but-retro reimagining of the arcade-style action games made famous in the 1980s and 1990s. Like many, we share a deep nostalgia for the vibrant world of the \u201880s and \u201890s media: Arcade games, toys, cartoons and anime that defined our childhoods. Driven by this passion, we set out to create a game that brings those cherished memories to life.\n\nA Nostalgic \"Saturday Morning Anime\" Storyline\nStep into the cockpit with Rick, a legendary rescue chopper pilot coaxed out of retirement for one last, crucial mission on a disaster-ravaged oil rig. With his rescue pilot license freshly reinstated, Rick is thrust into an unexpected scuffle with Burdock, his former wingman turned adversary, uncovering a sinister plot led by the malevolent A.C.R corporation. As the stakes soar higher, Rick and his comrades from the Thunderbolt Rescue Foundation must outwit and outmaneuver their foes to thwart Burdock's dark ambitions.\n\nDynamic Globetrotting Gameplay\nChoppa: Rescue Rivals offers a unique blend of chaotic gameplay, compelling storytelling, and cooperative rivalry. Prepare for an unforgettable ride to the skies where luck, strategy and skill will determine the true heroes. Gather your team and don't forget: It's time to GET TO THE CHOPPA!\n\nKey Features\nEmbark on an epic single-player story campaign: Navigate through a series of high-stakes rescue missions across the globe with a diverse cast of pilots.\n\nEach pilot brings in their own unique rescue tool and story location, shaping distinct gameplay experiences and demanding new strategies for each rescue mission.\n\nTest your piloting skills: Conquer demanding challenges in each level and hunt down hidden collectibles scattered across each mission for true completionist glory.\n \n\nCustomization options: Personalize your gameplay by selecting from a variety of pilots and helicopters, and deck out your chopper with a wide array of stickers.\n\nBut wait, there's more! Bring your friends!\u00a0When you're ready for a break from the campaign, gather up to 4 players for wacky local multiplayer air hockey battles, a high-flying twist on vehicular sports. This time in the sky with choppers!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "398 MiB"
 }

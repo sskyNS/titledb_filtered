@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128321/218e348f0135e70e4e17eef5f7672f3da7308bd2558c04b3b8b32197c4f76dd7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/603c3db2e3a04354b4ebd25b6e3943b4_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/218e348f0135e70e4e17eef5f7672f3da7308bd2558c04b3b8b32197c4f76dd7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b82f357cdb0e55ac484003425e5be05c8d4a336e8c30b3abe8a61a141f36ed3b.jpg",
 	"publisher": "Untold Tales",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/3f446db27711ea7b582b82c3c0f1e10dfba2a75f086a0c01487779781ef84261.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/4545c5356d8b646ca963ce7ed87d00bfa121373f1bb980ad93019d71d20874ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/b42222e652999c0247d51a4956df09df6bdd2d531106fcfb290e661e5532fd0f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/4c22c2b8042a6a083752bb6e9883cdd123d311c2bf0a2aa5a1f77b13bdb2943b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/8e6113c8633d068842e0b89dcac55dfddabdb47bb2e636acf7cfc150c83d1e66.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128321/a00b33b59a387d05d366c519c5dd2a4b942d162679374d3557ea1bc66f69a8c5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3f446db27711ea7b582b82c3c0f1e10dfba2a75f086a0c01487779781ef84261.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4545c5356d8b646ca963ce7ed87d00bfa121373f1bb980ad93019d71d20874ab.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b42222e652999c0247d51a4956df09df6bdd2d531106fcfb290e661e5532fd0f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4c22c2b8042a6a083752bb6e9883cdd123d311c2bf0a2aa5a1f77b13bdb2943b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8e6113c8633d068842e0b89dcac55dfddabdb47bb2e636acf7cfc150c83d1e66.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a00b33b59a387d05d366c519c5dd2a4b942d162679374d3557ea1bc66f69a8c5.jpg"
 	],
 	"releaseDate": 20260710,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Sports",
+		"Puzzle"
+	],
+	"intro": null,
+	"description": "Tilt The Entire Course\nMini-golf just got flipped on its head. Instead of swinging the club, you tilt the entire course to guide the ball to the hole. Master momentum, angles, and gravity as you roll through tricky hazards, dodge obstacles, and sink the perfect shot.\n\n300 Holes Across 15 Unique Biomes\nTee off across 300 levels spread throughout 15 biomes, each introducing new mechanics, hazards, and twists. From precision putts to gravity-defying trick shots, every course challenges your ability to read the green.\n\nChase the Perfect Round\nQuick-fire levels and instant restarts make it easy to jump back in for just one more putt. Shave seconds off your time, refine your line, and master that \u201cmotion-in-one\u201d perfect shot.\n\nA Budget-Friendly Birdie\nPacked with hours of gameplay, replayability, and satisfying physics-based challenges, Tilt it! Golf delivers a full round of fun for about the price of a coffee. No expensive country club membership required.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "370 MiB"

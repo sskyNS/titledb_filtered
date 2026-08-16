@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131289/e6ee19b370132ff182b87570ece7dc4e0a220d4865fabb07483595ba39809823.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000131289/7fe528d150178b5f7efcb9edbaafadd4ce4144f7e9c45f18c6856b484213ad29",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af1a476cbe3b0b795e04eb4ad2c949cafa7e67c886000217d0f1419deee80150.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9b5dcfd38c639a585fe852d52da904e79ba63fc35dfc8aa0e1f96c648fc66da7.jpg",
 	"publisher": "BeXide",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/8394930e4ce7877c178247644ac49b63ee470fa825b1e42d8ec56adc272d52d5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/3cf67ff3f986bfe16b5ca562bea3527f415325a038351a67f58848e01885898e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/29113e3f3f167cbdfc6b34146b60a099e7a5c9b09302a9ac93f4b1ee50ce8934.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/0e5ac7890ea3b40fcdf7e0279326ad49af98a99e1ce9b9bff1cf7e2f355727f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/334f0bdca6b9953f60228590bb1bada6f2ccc9bbe0625daf21eb7f9ce4e6a096.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000131289/fabbc9c973ebb456ceef3307b97bc16885d29f0c2a34fea58e0354b41dbe8d11.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/31270b2f91e75773ebcba8b448411befa43d5bf900e14fe2f26a256edeb80583.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48802c42af0d7f12485b7fa0724cd5f0b285eb0b027d0246e213c2bdc08c9d7f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ab0dceb3b72c653f52a57343dd6d4fdf9598a083cd01fcebb7bb21e3e7673473.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/000f030e45d560aada0e8f87e951914e2aadfe21b7c9af16b4437628e5510d03.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/35e5a975b0b756a6249e3b66c94b86254e814fb8b5cad4ab320015c1920e498e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/59e7726190605883ed897f8993728bc2e1570189f6c1e98b2a44ef4afb955639.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Practical",
+		"Training",
+		"Study"
+	],
+	"intro": "The more you focus, the more the story unfolds.\nA chill work adventure with a girl from another world.\nFocus time no longer spent alone, for you.",
+	"description": "Through Nintendo Switch\u2122, a girl living in another world keeps you company while you work at your desk.\n\nMemory of Memorie : A Chill Story is a work adventure where the story progresses together with the time you spend working, as you share your desk time with Memorie, an apprentice witch.\n\nIn a quiet room filled with gentle Celtic music, whenever you sit down to work, Memorie studies magic by your side.\n\nWhat used to be solitary work time slowly becomes something warmer: time shared with someone.\n\n\u25a0 The more you focus, the more the story unfolds\n\nThe game features a Pomodoro-based focus timer. As you accumulate focused work sessions, conversations with Memorie and events in her world gradually unlock.\n\nEveryday chats.\nSmall changes creeping into the village.\nAnd the secret she keeps hidden.\n\nBeyond your work, a new piece of the story awaits.\n\n\u25a0 Your focus changes her world\n\nAs the story progresses, Memorie's room gradually begins to change.\n\nHer favorite cup.\nThe glow of magic.\nA space growing warmer and richer.\n\nThe more you keep going, the more her world moves forward too.\n\n\u25a0 Features\n\n\u30fbA cozy fantasy workspace with Celtic music and ambient sounds\n\u30fbA Pomodoro-technique-based focus timer\n\u30fbStory and world mysteries unlocked through your focus time\n\u30fbA room that changes as the story progresses\n\u30fbA calendar system to track your daily focus\n\u30fbA companion for studying, working, creative projects, and all kinds of desk work\n\n\u25a0 The World\n\nThe story takes place in Elmana Village, a small settlement not far from the Imperial Capital. It is a peaceful place protected by the sacred Lightroot Tree.\n\nBut little by little, a dark presence begins to creep into the world.\n\nUsing a spell that connects distant people, Memorie found you. Was it coincidence, or...?\n\nStay focused, and see the story through to its ending together.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "478 MiB"
+	"size": "663 MiB"
 }

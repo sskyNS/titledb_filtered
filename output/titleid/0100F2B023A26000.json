@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000098517/0f8293fd114499c9194bfcef220bf0cb964a6397128aaefad9e6eb216da69088.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/56f9c5497a144140947844834523f02f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f8293fd114499c9194bfcef220bf0cb964a6397128aaefad9e6eb216da69088.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3d64319ef95cc38ca2f8ef07494ad65cc1d23dcdd700a49d7891ccde42086653.jpg",
 	"publisher": "tinyBuild Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/bb4160e9da57bfec443612fa48c7c3f060a694107f7cf622b2869b861539e8a9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/829a4a372fb6f0805cb63b547b171229541fbda4ff72826e6b7c1abe11b30195.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/f30c68e876899bdc1256b7b570f38c451de5a9a12b2670155b71c51760bf3ae7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/133b492f4d86761fa5f8c21302d33c6443c0911a62b2beba7e49b9691fae686a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/0f27536b634cbfa335d1e1a8cb5c0d218ded8012075094135852889412a878b2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000098517/52e926ef9761b7b5e0262705b800dc9ee19b8af96ad8fb8cd99de7a5a3fe3748.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bb4160e9da57bfec443612fa48c7c3f060a694107f7cf622b2869b861539e8a9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/829a4a372fb6f0805cb63b547b171229541fbda4ff72826e6b7c1abe11b30195.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f30c68e876899bdc1256b7b570f38c451de5a9a12b2670155b71c51760bf3ae7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/133b492f4d86761fa5f8c21302d33c6443c0911a62b2beba7e49b9691fae686a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0f27536b634cbfa335d1e1a8cb5c0d218ded8012075094135852889412a878b2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/52e926ef9761b7b5e0262705b800dc9ee19b8af96ad8fb8cd99de7a5a3fe3748.jpg"
 	],
 	"releaseDate": 20260729,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Action"
+	],
+	"intro": "Build, defend, and rule your kingdom by your gaze. A hit on PC, now on Nintendo Switch\u2122 ",
+	"description": "The King's watchful gaze.\n\nPeasants toil, miners dig, and knights train... but only when I look at them! Wherever my eyes fall, progress follows. But the moment I glance elsewhere?\nLaziness! Chaos! I must choose wisely between the fields, the mines, or the barracks, expanding my gaze so no one slacks off!\n\nCommand the kingdom's lifeblood\nWater, wheat, stone, coal, silver, every resource fuels my empire! Farms feed my people, mines fund my ambitions, and workshops forge mighty defenses. Every decision shapes my reign, and only a well-managed kingdom will survive the storm.\n\nA roguelite kingdom\nEach land presents new trials, from cursed cemeteries to infernal depths. Enemies are led by unexpected Generals, demanding unique tactics to defeat. As a true roguelite, my efforts grant permanent upgrades for my next reign. With my royal council of cavalry masters, arcane sages, and cunning strategists, victory is inevitable!\n\nEver-Expanding Kingdom!\nRegularly updated with new free content, the console version comes packed from day one with the Volcano update, adding a fiery new biome, new bosses, and new ways to expand your realm.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"pl",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Drug Reference",
+		"Mild Blood",
+		"Mild Violence"
+	],
 	"dlcs": [],
-	"size": "672 MiB"
+	"size": "673 MiB"
 }

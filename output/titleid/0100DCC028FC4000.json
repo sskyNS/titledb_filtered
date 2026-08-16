@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130326/a2dffaf5517bb5616472551dabe9f06476eefffa036a1d208a2c0db82ff5950f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e15cb0a347f043c785b93ab5693d053c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2dffaf5517bb5616472551dabe9f06476eefffa036a1d208a2c0db82ff5950f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f3607ac30638d65a3b11a23e9c1f9532538e581a0f979ba67ad686329b5958b4.jpg",
 	"publisher": "Upscale Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/1c6e3e7b70d647d85f86ec64b5f470996abe4cfafb63393b741f667ab6280a42.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/512f25a480e3776af3309073effee6104b13fd012dd2ee15915f7abb4ea84345.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/8bd268c7acd264e07eb39aa4833c96e63dac950ce16b2f3b8bbd5f4269f25641.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/f9f8938ab7d0cd867d81cded59913464bbf785e35914b1778015968334599bfe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/efcebf55cf58b4405b558a151ac93fca53040f66baf8982010e8ff5902e4a559.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130326/d914f2e2c23601cbe50d0ad7bd6adbfeda727d8770d297ba22cdeed4d6f81a30.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1c6e3e7b70d647d85f86ec64b5f470996abe4cfafb63393b741f667ab6280a42.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/512f25a480e3776af3309073effee6104b13fd012dd2ee15915f7abb4ea84345.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8bd268c7acd264e07eb39aa4833c96e63dac950ce16b2f3b8bbd5f4269f25641.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f9f8938ab7d0cd867d81cded59913464bbf785e35914b1778015968334599bfe.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/efcebf55cf58b4405b558a151ac93fca53040f66baf8982010e8ff5902e4a559.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d914f2e2c23601cbe50d0ad7bd6adbfeda727d8770d297ba22cdeed4d6f81a30.jpg"
 	],
 	"releaseDate": 20260710,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "From humble store to retail giant!",
+	"description": "Your new business is now welcoming you! You have been handed the keys to a modest, empty commercial space, and your goal is simple: turn it into a thriving, highly profitable retail empire.\n\nThe success of the store rests entirely in your hands. Begin your day by ordering inventory, unpacking heavy cardboard boxes, and meticulously organizing products on the shelves so that customers can easily find what they need. You control the economy. Analyze market trends and set dynamic prices for each item to maximize profits without losing loyal customers. When the store opens, stand behind the cash register to scan barcodes, process credit cards, and give back change quickly to keep the lines moving.\n\nReinvest your earnings to expand your floor space, upgrade your lighting, and unlock licenses to sell hundreds of new, diverse products. Once the daily rush becomes too much for one person to handle, hire and train a team of cashiers and stockers to keep the business running smoothly. Customize your layout, paint the walls, and design the ultimate shopping environment. Do you have what it takes to build the greatest supermarket in town?\n\nKey Features:\n\u2022 Stock the Shelves: Order goods, unpack boxes, and arrange a wide variety of products to create an organized and inviting store.\n\u2022 Master the Register: Scan items, process card payments, and quickly count out cash change for waiting customers.\n\u2022 Set the Market: Take control of the economy. Monitor daily market trends and adjust your pricing strategy to balance high profits with happy shoppers.\n\u2022 Grow Your Empire: Use your profits to unlock new store sections, purchase additional shelving, and expand your product catalog from basic snacks to premium goods.\n\u2022 Automate the grind by hiring, training, and managing a team of employees to run the registers and restock shelves while you focus on the big picture.\n\u2022 Total Customization: Design your store's layout, choose color schemes, and place decorations to create a unique shopping atmosphere.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "138 MiB"
+	"size": "201 MiB"
 }

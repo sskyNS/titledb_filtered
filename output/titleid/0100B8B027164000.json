@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117982/d8345efb85d8e10cb79960bb7d69bc8ed3297a2241939f0be45ec874d4161104.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4757648f6e9d49a1bdaec7959b5f3c60_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8345efb85d8e10cb79960bb7d69bc8ed3297a2241939f0be45ec874d4161104.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9aa2e43dd36edaf4395af2f7940ecbcfc55f250304389849f8b911891f4a602c.jpg",
 	"publisher": "Outright Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/ed53d1509ee0cc29660a85e637c816af9709e29450f9346071af829c038027f2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/6e1543d18a906afb37a1c64d5d973fc2cae6f8ee8dacfd91733e20339476e5b6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/6e3356f1d69c62b36fe8e6fac5c00ae91fcb0adaf4945147c92349561109452d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/e18d2c8895a60c1633647eab6d429964f8c67f3f8f09ebab1cd421033dd120e3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/9781d9aa6e9943a9805fa8117828b80abf4ee478a0f1f52f6cbbbe4c7d46aac2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117982/b064afcd0998347ba0e7cad5a69047a2b1ade3c748d79db390625d175a89806e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ed53d1509ee0cc29660a85e637c816af9709e29450f9346071af829c038027f2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6e1543d18a906afb37a1c64d5d973fc2cae6f8ee8dacfd91733e20339476e5b6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6e3356f1d69c62b36fe8e6fac5c00ae91fcb0adaf4945147c92349561109452d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e18d2c8895a60c1633647eab6d429964f8c67f3f8f09ebab1cd421033dd120e3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9781d9aa6e9943a9805fa8117828b80abf4ee478a0f1f52f6cbbbe4c7d46aac2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b064afcd0998347ba0e7cad5a69047a2b1ade3c748d79db390625d175a89806e.jpg"
 	],
 	"releaseDate": 20261009,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Adventure",
+		"Education",
+		"Other"
+	],
+	"intro": "Move in and feel right at home and celebrate with your Sesame Street friends. \n",
+	"description": "Welcome to Sesame Street! A place to play, laugh and grow. \n\nFrom the moment you arrive, there\u2019s so much to do. Join Elmo, Tango and the rest of your Sesame Street friends around the neighborhood! \n\nWalk around with Grover, plant a magical giant beanstalk in Abby\u2019s Garden, find useful tools and rubber ducks in the Community Garden with Bert & Ernie, and work on your number and puzzle skills in Count von Count\u2019s Mansion. Or cook, mix and laugh along with Cookie Monster in his Foodie Truck! Some quests may take a few tries, but you\u2019ll work together to find a way to make the streets a brighter and happier place for everyone. \n\nMake yourself at home! Decorate your house, unlock new mini-games, access exciting new areas of the Street, or throw and unforgettable block party. Spend time with Tango, your cheerful and furry helper or enjoy the whole adventure together with family and friends in local co-op play.  \n\nThe fun and exploration never ends on Sesame Street!  \n\nJOIN THE NEIGHBORHOOD: Create your own character and join Elmo, Tango, Abby and their friends on Sesame Street.  \n\nEXPLORE THE STREET: Start at your apartment, stop by Big Bird\u2019s cozy nest, play at the Count\u2019s Mansion, and unlock more places. \n\nBRING EVERYONE TOGETHER: Help the community by going on cooking, photography, and even farming quests solo or in co-op. \n\nDISCOVER AND GROW: Use rewards to decorate your home, unlock new mini-games and access exciting new areas. \n\nTRAVEL WITH TANGO: Take care of Tango just like she\u2019ll take care of you as she helps you get around.  \n\nTHE STAGE IS YOURS: Choose from the colorful backdrops, lights, and other cool special effects for the main stage. \n\n",
+	"languages": [
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors"
+	],
 	"dlcs": [],
 	"size": "1.46 GiB"
 }

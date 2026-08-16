@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122280/a3395010b51ee3dfb80da75f61c22ef7bdf03de81bc2687661a07efabb49ad55.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122280/50e47992946af3f524e971bbaeb722b2d38aea19bbb9515df609629d04b4fe79",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3395010b51ee3dfb80da75f61c22ef7bdf03de81bc2687661a07efabb49ad55.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/44532f54b80d172da2d133f41fd91b199cc39cf318e46ba16a0faa76284ac28a.jpg",
 	"publisher": "Wild River Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/f3d73076431d516491977f34e6649c1c8d4f3671928b08d3cbc570f12152e1c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/c0fb682f3011c5f853732107d43b6c29aa25b5a8db969d1d9e228dd03d0bf689.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/2169a94272e8939f4c2ed745a888c07832047b0e054741b75cb8f17b00461069.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/d4d10276d8205e33b57ddd9f2b7658e4d850d35c78927a8d6652f3b181fe9dd6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/84ca6e6d3ab5ac5fbce36614498395ae35ea4a7ad05c8e9915a0337a387b9a9a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122280/a5bd2f0100f124b0fc08601a988770735bc671d0478e284cdb585f23e39f1233.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f3d73076431d516491977f34e6649c1c8d4f3671928b08d3cbc570f12152e1c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0fb682f3011c5f853732107d43b6c29aa25b5a8db969d1d9e228dd03d0bf689.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2169a94272e8939f4c2ed745a888c07832047b0e054741b75cb8f17b00461069.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4d10276d8205e33b57ddd9f2b7658e4d850d35c78927a8d6652f3b181fe9dd6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/84ca6e6d3ab5ac5fbce36614498395ae35ea4a7ad05c8e9915a0337a387b9a9a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a5bd2f0100f124b0fc08601a988770735bc671d0478e284cdb585f23e39f1233.jpg"
 	],
 	"releaseDate": 20261009,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Lifestyle"
+	],
+	"intro": "Travel to Wild River Ranch and experience exciting adventures.",
+	"description": "The HORSE CLUB is visiting the Wild River Ranch!\n\nTravel with your friends Hannah, Sofia, Sarah, and Lisa to the Wild West. Explore the vast landscape, help old and new friends, experience exciting adventures on horseback, learn Western riding, test your skills, and claim the crown at the big Western riding tournament!\n\nDive into a lovingly crafted world and explore the adventurous surroundings at your own pace.\n\nExperience a charming, engaging story full of humor.\n\nIn addition to classic riding disciplines like barrel racing and pole bending, you can also test your skills in activities such as archery, painting, and playing the guitar.\n\nSix unique horses are waiting to be ridden - each with its own character and traits that you can develop throughout the game.\n\nCreate your own style for you and your horse with numerous customization options and a wide selection of carefully designed color combinations.\n\nAll of this is accompanied by an atmospheric original soundtrack composed by Grammy\u00ae-winning musician Winifred Phillips.\n\nFrom the creators of the HORSE CLUB Adventures series - Wild River Games\n\nBased on the HORSE CLUB franchise by the German toy brand Schleich\u00ae\n",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"nl",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"No Descriptors"
+	],
 	"dlcs": [],
 	"size": "1.39 GiB"
 }

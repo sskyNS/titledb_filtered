@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104437/479869ed53021f7fa79b2a8c13b2df72136af30cecfd7afc26b8930d471e3394.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104437/64dd8116f7b33d85754f72c5d91d4593a3efd7502ed63c22a23887374a74474f",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/479869ed53021f7fa79b2a8c13b2df72136af30cecfd7afc26b8930d471e3394.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/960baa59103833de14cff43eea97aa9b7e24a0e63e63f56245b0c96cefb014dd.jpg",
 	"publisher": "Mama Morin",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/5211c0c578093d1284d73090de54aa40ef9ab0d9ea4a1ef23904751c2c521f0f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/8e541bcf7d80b64b50d42ec02675283b6d058a9265eb6b251e2881d5c6b5f45a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/4a3f6451647475677b1209207bd1557b47b51eed8b2d44dbcfc34b8b1125f006.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/5b1045c827083ff214f309d1509549e84434dd43ee3da33762b1193018d645c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/cbb9a59f761b074b43d7918ffaf84c5de72f751808a9cb02131d2b528a266da6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104437/51b05d1bc185ecd7ed0d925db791f568a422c420b70ec221fe6f7f07e96fca7f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5211c0c578093d1284d73090de54aa40ef9ab0d9ea4a1ef23904751c2c521f0f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8e541bcf7d80b64b50d42ec02675283b6d058a9265eb6b251e2881d5c6b5f45a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4a3f6451647475677b1209207bd1557b47b51eed8b2d44dbcfc34b8b1125f006.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5b1045c827083ff214f309d1509549e84434dd43ee3da33762b1193018d645c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cbb9a59f761b074b43d7918ffaf84c5de72f751808a9cb02131d2b528a266da6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/51b05d1bc185ecd7ed0d925db791f568a422c420b70ec221fe6f7f07e96fca7f.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Other"
+	],
+	"intro": "Sit back & relax as you play the role of a donut therapist in this cozy cooking/dating sim. Feeling nervous? Need some cheer in your life? Here at High Times, there's a donut for every mood.",
+	"description": "In a world where you can literally eat your feelings, you work at The Hotbox, a one-of-a-kind donut shop where every donut is infused with mood enhancers that can change your customers\u2019 emotions. But people don\u2019t always know what they need, so from flavors that give them courage to ones that lift their spirits, it\u2019s up to you to choose the right mood and help each troubled customer. Listen to their stories, offer advice in the form of donuts, and help mend broken relationships.\n\nFEATURES\n\n\u2661 A Sweet Kind Of Therapy \nServe donuts that change the emotions of your customers and influence their actions.\n\n\u2661 Manage Your Own Donut Shop \nCook donuts, serve the right orders, collect tips, unlock new tools, decorate your shop and discover recipes!\n\n\u2661 Full English Voice Acting \nStarring Nola Klop, LilyPichu, Johnny Yong Bosch, and other talented voice actors, every character is fully voiced except for the MC.\n\n\u2661 Closure Simulator \nRekindle romance with the exes you've ghosted. Will you heal from the trauma of the past, and perhaps even experience the most elusive and mythical of all emotions\u2014closure?\n\n\u2661 A Cast Of Misfits \nGet to know over 30 customers and 6 romanceable characters, serve their favorite donuts, and find out what makes them tick.\n\n\u2661 Choices Matter & Multiple Endings \nThe donuts you serve and the choices you make in the story ultimately affect your relationships. Each romanceable character has 2-3 endings.\n\n\u2661 Customizable Main Character \nPlayers can customize their character's appearance\u2014skin color, hairstyle, outfit, etc.\n\n\u2661 Dynamic Comic Book-Styled Visuals \nWatch the story come to life with over 70+ vibrant and animated comic book style illustrations.\n\n\u2661 Original Soundtrack \nVibe during service time to a blend of originally composed rock, city pop and lo-fi music.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Language",
+		"Sexual Themes",
+		"Use of Drugs"
+	],
 	"dlcs": [],
 	"size": "3.60 GiB"
 }

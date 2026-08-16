@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129979/538a173873884117806e5f1855266f1d0d1d583725a6317c8c0315784323b81b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/bd6297fdcb6f4b0cafbbcf2ecabda520_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/538a173873884117806e5f1855266f1d0d1d583725a6317c8c0315784323b81b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9f3e35220bdea1998195432381a04b7b79561dc4f3d8530dadddafbe073fee6d.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129979/91cdcbbce8cc3e5d7496aafcfc10b441edb01db6753b97b8a5ad8ae594d1e23c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129979/ac16ad81028b5e914674ac6f0a1648a9f91f122aa227b65be2e9a3d18ac7c79f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129979/1fc9afdf24edf5d7addc47b38ac7475de3c3b96946c9b7deffb6d597de948cdf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129979/f020ad2417fecc4789e5ad1f0424c37120abf4094f941edaa390b4e633f7959d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/91cdcbbce8cc3e5d7496aafcfc10b441edb01db6753b97b8a5ad8ae594d1e23c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ac16ad81028b5e914674ac6f0a1648a9f91f122aa227b65be2e9a3d18ac7c79f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1fc9afdf24edf5d7addc47b38ac7475de3c3b96946c9b7deffb6d597de948cdf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f020ad2417fecc4789e5ad1f0424c37120abf4094f941edaa390b4e633f7959d.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Study",
+		"Training"
+	],
+	"intro": "A masterpiece is wasted if you only glance at it.\nSolve the riddles, and the world's great paintings come alive.",
+	"description": "That famous painting you've seen in a textbook or on a poster.\nBut have you ever really looked \u2014 at what's painted where, and why?\n\nThis game is a riddle-solving observation quiz built around the world's great paintings.\nLook closely at a single artwork, find the answer to the question within it, and tap to answer.\n\n\"Where in this painting do your eyes land first?\"\n\"Which is the tiny motif the artist slipped in?\"\nThe real highlights hide in details you'd miss just by glancing.\n\nGet it right, and you can read trivia and stories about the painting in the explanation \u2014\nso you grow more and more familiar with the world's masterpieces as you play.\nWhether you love art or have never given it a thought, the \"oh, neat!\" moments never stop.\n\nLandscapes, portraits, grand scenes that tell a story\u2026\nA journey of the mind through masterpieces across eras and countries.\n\nHow to play is simple.\n\u30fbObserve the painting corner to corner\n\u30fbFind the part that answers the question and tap it\n\u30fbLearn trivia about the painting in the explanation\n\nSo, shall we savor the world's great paintings more deeply \u2014 through riddles?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n\u203bThis game is designed to be played on the Nintendo Switch\u2122 in vertical orientation.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "585 MiB"

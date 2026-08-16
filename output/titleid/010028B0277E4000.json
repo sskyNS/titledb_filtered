@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120866/0bb779062af84cbd92ab4d9517774b250664ed492f9cb2b89e246b81c2494911.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120866/1d5fa86319b3d2f3b7e42464219c4aefe3c4b15d3091b3561bb75de1bf9ae6e0",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bb779062af84cbd92ab4d9517774b250664ed492f9cb2b89e246b81c2494911.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/450a4735a6b5d28c5b8b9df0d30483aa1b297eded5549707efcceba705bd9138.jpg",
 	"publisher": "GaniTani",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/c955c92f8af882a00488b5f0eb4f4cb01077300a44a3df98b8fe5f0067c1ea30.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/56e2db3b3064dc66b53e60797972510e1e52d73336a52d67979a6c5b753ee559.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/b5876e1921786843c37aff5ac89dffe453c00c25f6345c775be920e79164f85c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/6277addeb37b717dca00a34448618cd18ff4bb9bdf81094e9fea76599772f415.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/5590ca5251fa5586278e8e321284d1c8d6adba25ad91ef1e9933e04f276e8ff4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120866/6cbb26c522b20c930205ddaaa4b069804e99ee41a692d3e9c10d56bf919cef69.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c955c92f8af882a00488b5f0eb4f4cb01077300a44a3df98b8fe5f0067c1ea30.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/56e2db3b3064dc66b53e60797972510e1e52d73336a52d67979a6c5b753ee559.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b5876e1921786843c37aff5ac89dffe453c00c25f6345c775be920e79164f85c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6277addeb37b717dca00a34448618cd18ff4bb9bdf81094e9fea76599772f415.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5590ca5251fa5586278e8e321284d1c8d6adba25ad91ef1e9933e04f276e8ff4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6cbb26c522b20c930205ddaaa4b069804e99ee41a692d3e9c10d56bf919cef69.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Education",
+		"Study",
+		"Training"
+	],
+	"intro": "Enjoy healing time with your family through soothing mandala coloring!",
+	"description": "Escape from the hustle and bustle of everyday life and find peace of mind by coloring beautiful mandala patterns!\n<Crayon Mandala> goes beyond the existing Crayon series for children and is a healing coloring simulation game that the whole family, including parents and adults, can enjoy together.\n\nA variety of elaborate mandala patterns await your touch. Relieve stress and experience inner peace by completing the mandala with your own color combination.\n\n\u25a0 The special charm of <Crayon Mandala>\nHealing for the whole family: The perfect art therapy game for kids to get creative and adults to relax.\nElaborate and beautiful patterns: From simple drawings to artistic mandalas, there are a variety of patterns available.\nIntuitive operation: Without complicated tools, anyone can easily fill in beautiful colors by touching the screen.\nArtwork Gallery: You can save your completed mandala in the gallery and view it again at any time.\n\nExperience the time of filling a mandala with your own colors with quiet music.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "99 MiB"

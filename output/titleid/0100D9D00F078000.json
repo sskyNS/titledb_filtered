@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000031752/df71282a799bd1c0dd44a2ccc3315f6fabdb205e15d12812ff8ceb8b606257fb.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6624af6dfca741d59297812aa8f8aa78_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df71282a799bd1c0dd44a2ccc3315f6fabdb205e15d12812ff8ceb8b606257fb.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e9be09fc2e71759a8484df25bd09d624dfcac26186730ce592818ad632e8caa4.jpg",
 	"publisher": "Polygon Art",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/2e5fd0d6918cdf5d3ab4e89f3f304067c982fb94281acd4e2cbb6d80f6323367.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/7cfb29cb7fe4f7acf0952b4c9666c08ce76de1d2973819c55f9ea0fb439f0aad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/9677655ee902667fbad93f766e65b4576163347a07f29ffd01a5b7d3cef048af.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/d9d890f0c7d95f202772f586f18593fa63bf2856b90b3f9a6e56ed00aa296190.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/5291d10754f824985291d54091c56930a23cfa98976339f58be66f143d9a5546.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000031752/28272c7653399b8ac9eadaf79a7663acada80c391f20777dcde0f54dcfcf1155.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2e5fd0d6918cdf5d3ab4e89f3f304067c982fb94281acd4e2cbb6d80f6323367.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7cfb29cb7fe4f7acf0952b4c9666c08ce76de1d2973819c55f9ea0fb439f0aad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9677655ee902667fbad93f766e65b4576163347a07f29ffd01a5b7d3cef048af.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d9d890f0c7d95f202772f586f18593fa63bf2856b90b3f9a6e56ed00aa296190.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5291d10754f824985291d54091c56930a23cfa98976339f58be66f143d9a5546.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28272c7653399b8ac9eadaf79a7663acada80c391f20777dcde0f54dcfcf1155.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter",
+		"Action"
+	],
+	"intro": "Lead Bravo Team Into Modern Combat Operations",
+	"description": "Task Force Ranger: Breakpoint is a modern military shooter focused on intense combat and high-risk special operations.\n\nDeploy as Bravo Team in the conflict zone of Al-Shamal and carry out a series of dangerous missions against the Jazeera Front. Recover critical intelligence, destroy enemy infrastructure, eliminate hostile leadership, and cripple their ability to operate across the region.\n\nFight through fortified compounds, industrial facilities, urban districts, and remote mountain strongholds. Expect heavy resistance, armored threats, and large-scale firefights as enemy forces attempt to stop your advance.\n\nUse assault rifles, machine guns, sniper rifles, pistols, explosives, and support weapons to complete your objectives and survive overwhelming odds.\n\nBeyond the campaign, test your skills in Survival Mode, where endless enemy waves push your combat abilities to the limit. Earn money, upgrade your equipment, and see how long you can hold the line.\n\nBravo Team, move in and execute.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "2.49 GiB"
 }

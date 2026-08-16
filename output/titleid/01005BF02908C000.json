@@ -1,20 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130449/f95df2f1981cca6d83e85ccdc3308b0387b76ad0d8926b29566c8eef308080e7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b7e7df0d79ac451ab4031b86d8a7916d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f95df2f1981cca6d83e85ccdc3308b0387b76ad0d8926b29566c8eef308080e7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8cfcf0140e90deca08d49721efde96ccf04a648d97b83b6b54c7514d6e5d7cc7.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130449/7d38aad1ca57593911463311321eeb3bf6735d7cb0f099ce9a86aa0b76be136a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130449/02769e9ba9f3ca567f83fef429b2bc6f58c85c95b1b19f9350bc4011c030f922.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130449/75c14bf6773eea967ea840b5272ba677e1b88dc051bc763cc19810048ee771d3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130449/1ad7b189cfe8a68701001c7c8f7e297f95d394abce87cab5328681d840b95fa9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7d38aad1ca57593911463311321eeb3bf6735d7cb0f099ce9a86aa0b76be136a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/02769e9ba9f3ca567f83fef429b2bc6f58c85c95b1b19f9350bc4011c030f922.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/75c14bf6773eea967ea840b5272ba677e1b88dc051bc763cc19810048ee771d3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1ad7b189cfe8a68701001c7c8f7e297f95d394abce87cab5328681d840b95fa9.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Communication",
+		"Practical",
+		"Study",
+		"Training"
+	],
+	"intro": "I'm sure I know this\" is exactly where you slip.\nCan you spot the real thing among four images?",
+	"description": "Do you know which fruit a cashew grows on \u2014 and where?\n\nThe moment you think \"that's just common sense\" is the most dangerous one.\nThe more familiar something is, the less we actually know its true form.\n\nThis game is a common-sense quiz where you pick the \"real one\" from four very similar images.\nHow a pineapple actually grows, the red liquid a hippo sweats, the true color of Mars, the inside of a pyramid \u2014\n100 questions with a twist, on things you thought you knew but get wrong.\n\nEvery theme is the \"now that you mention it, I'm curious\" kind.\nThe correct image hides among three look-alike decoys.\n\nHow to play is simple.\n\u30fbRead the question\n\u30fbPick the one image of four you believe is real\n\u30fbStuck? Narrow it down with a hint\n\u30fbCheck the explanation for why it's the answer\n\nThe surprise of \"Wait, THIS one is real?!\"\nThe realization of \"I really was assuming.\"\nRight or wrong, you gain one new fact \u2014 so 100 questions just fly by.\n\nSo, the \"real thing\" 99% can't spot \u2014 can you pick it out?\n\nThe game supports both button controls and touch controls, allowing you to play in TV mode, handheld mode, or tabletop mode.\n",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "371 MiB"

@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133424/2407dba1f1372a976e61a01c18ea055fe6edac09542315a0d5c23f8f4182746c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133424/d3e4b62b72a07e000b8710570ad4499c966818c0aff20b71d5a5100f96089b97",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2407dba1f1372a976e61a01c18ea055fe6edac09542315a0d5c23f8f4182746c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a0f6a578ab20066553c4795203f84a594395e35fcb46d3976d9cae13729b4f9f.jpg",
 	"publisher": "Dinomore Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/f469b2f914693fae7a999b9725b3777a2968a830ba40635db20b96c7f0ea3319.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/c5fd9ed374436e27782bf071fa574dfab6c69f78a021f68b6c8d2a339daf0565.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/2eb7e06469705abc2a72141a464b72c3bfa8ef48ae67a98e36aa40c891599964.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/dfd58e3b1e75478772a6a9e6712e6f7f3bb7b58bee9e5d0c55cf78a94241e537.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/fd0cb867b8010478ac8bad7c275ad25cbccfacaeaa56854be9d5194df61e1990.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133424/d594e38735f41608ee89d29e2bd8081db398fe1e02a7ffdb9c4b743533e334b1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f469b2f914693fae7a999b9725b3777a2968a830ba40635db20b96c7f0ea3319.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c5fd9ed374436e27782bf071fa574dfab6c69f78a021f68b6c8d2a339daf0565.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2eb7e06469705abc2a72141a464b72c3bfa8ef48ae67a98e36aa40c891599964.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dfd58e3b1e75478772a6a9e6712e6f7f3bb7b58bee9e5d0c55cf78a94241e537.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd0cb867b8010478ac8bad7c275ad25cbccfacaeaa56854be9d5194df61e1990.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d594e38735f41608ee89d29e2bd8081db398fe1e02a7ffdb9c4b743533e334b1.jpg"
 	],
 	"releaseDate": 20260822,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Lifestyle",
+		"Arcade"
+	],
+	"intro": "Discover hidden ducks, find the ones in disguise, and enjoy a peaceful hidden-object adventure across beautifully hand-drawn worlds!",
+	"description": "Ducks In Disguise is a peaceful hidden-object game focused on discovering beauty within the chaos. Explore hand-drawn 2D scenes, each with its own atmosphere, and find the ducks hiding around every corner!\n\nHundreds of ducks have decided to play the biggest game of hide-and-seek ever! Your task is simple: carefully examine each scene, find the hidden ducks, and complete your collection. But not every duck is easy to spot. Some have disguised themselves to blend into their surroundings, so you\u2019ll need to pay close attention to the details to find them.\n\nAs you explore each scene, click on objects and interact with your surroundings. Sometimes a duck is hiding right in front of you, while other times you\u2019ll need to interact with the environment to reveal it. Every duck you find brings you one step closer to completing your collection.\n\n-A Stress-Free Experience\nIn Ducks In Disguise, there are no time limits, high-score pressures, or tasks that require you to rush. Play at your own pace, listen to relaxing lo-fi music, examine each scene, and enjoy the satisfaction of finding all the ducks.\n\n-Hand-Drawn 2D Worlds\nExplore carefully crafted, hand-drawn illustrations, each with its own atmosphere and visual details. Take a close look at the detailed scenes and discover new ducks as you spot the little details hidden throughout the environment.\n\nNot every duck hides in the same way. Some special ducks disguise themselves by blending into their surroundings. Keep your eyes peeled and don\u2019t miss even the smallest detail!\nFind Them All!\n\nComplete your collection by finishing every scene and prove that you\u2019re a true duck-finding expert. Find every hidden duck to unlock a special reward: the Quack Certificate!\n\nWhether you have five minutes to spare or want to play for hours, Ducks In Disguise is designed to help you relax, sharpen your observation skills, and discover something new in every scene.\n\nCan you find every hidden duck? Quack! Quack!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"ko",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "191 MiB"

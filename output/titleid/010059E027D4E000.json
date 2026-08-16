@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123039/6b7c5c475dab151b6200c55fa510b2372198fc3bec36aca916086783a97b1f3d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123039/77e9336e6318435c9a7dbd07f18cbe5ac4158243e5a4774da7f3f58b251b3b76",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b7c5c475dab151b6200c55fa510b2372198fc3bec36aca916086783a97b1f3d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/548509da53ab8f3f27f302cd2ced2e39a02852a92dc60bc663eeba26e0454c8f.jpg",
 	"publisher": "RoVi Ninen",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/9e55731120578ada4b8202103ca6d9f0d20ae968fec3d85f46220286e1a84a41.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/0a4e261ccc5141f34550b020fbadbc3bce298a6b1494deeb37ca76ce4a6693ef.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/36727f8acc79f491a809ddc082853138fe859376faeedfff95e0403607a02e66.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/c9c6051a35eb793178930c29ff53100f25e11aa0ae57b24ea388c28ffeec19af.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/7f3450b100b32029f8fff5f0091821ad88133cf96fee83fa256701afea97aed4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123039/bcaa7dacc142b722e328fa9dcce127f02ebf9453aeb358e80de8af03eda431b6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9e55731120578ada4b8202103ca6d9f0d20ae968fec3d85f46220286e1a84a41.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0a4e261ccc5141f34550b020fbadbc3bce298a6b1494deeb37ca76ce4a6693ef.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/36727f8acc79f491a809ddc082853138fe859376faeedfff95e0403607a02e66.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c9c6051a35eb793178930c29ff53100f25e11aa0ae57b24ea388c28ffeec19af.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f3450b100b32029f8fff5f0091821ad88133cf96fee83fa256701afea97aed4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bcaa7dacc142b722e328fa9dcce127f02ebf9453aeb358e80de8af03eda431b6.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Arcade",
+		"Simulation",
+		"Puzzle"
+	],
+	"intro": "Can you dig a secret tunnel before the guards discover your plan?\n",
+	"description": "Dig Your Way to Freedom\n\nTrapped behind bars, you have only one chance to escape: dig a secret tunnel beneath your prison cell and reach freedom before the guards discover your plan.\n\nEvery day is a careful balancing act. Dig deeper into the ground, hide the tunnel entrance under your cell's carpet, and keep an eye on guard patrols. One mistake is all it takes to get caught, lose progress, and start over.\n\nAs you excavate the tunnel, you'll uncover valuable items buried underground. Trade them with the prison cook for soap\u2014the prison's underground currency\u2014and invest in powerful upgrades. Buy better tools to dig faster, increase your carrying capacity, and expand your pockets to secretly transport more dirt.\n\nManaging the excavated soil is just as important as digging. Sneak outside and dispose of it before anyone becomes suspicious. The deeper your tunnel grows, the more careful you'll need to be.\n\nWith every upgrade, every successful digging session, and every close call with the guards, you'll move one step closer to freedom.\n\nCan you outsmart the prison, complete the tunnel, and make your escape?\n\nFeatures:\n\t\u2022\tDig a secret tunnel beneath your prison cell.\n\t\u2022\tAvoid guard inspections and stay hidden.\n\t\u2022\tDiscover valuable items while excavating.\n\t\u2022\tTrade found items for soap, the prison currency.\n\t\u2022\tUpgrade tools, inventory space, and carrying capacity.\n\t\u2022\tDispose of dirt without raising suspicion.\n\t\u2022\tInteract with prison NPCs.\n\t\u2022\tTake a break with a fun basketball minigame.\n\t\u2022\tUnlock the final escape and earn your freedom.\n      \n The tunnel won't dig itself. Start digging.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.20 GiB"
 }

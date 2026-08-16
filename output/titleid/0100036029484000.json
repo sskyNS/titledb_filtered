@@ -1,20 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131989/e517429c1b56206586f7cc6af9998b4d790a5bf8760f40f197d6f759da49d9e4.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/25d602fd558e4820a070eff3214e591b_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e517429c1b56206586f7cc6af9998b4d790a5bf8760f40f197d6f759da49d9e4.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2ad7ec3f3953a4aadc490318de6fa89a74526c6ba6892c7f8425219aabe64ca.jpg",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131989/9ac26e0d208a141b78f1102d8a95d49bd4146344aad684a7928ff80d2ca35aef.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131989/96d67e05d6b9cdcd4b9cc68af200df63546cce575e30ecf8f809e1d7ae17fdb3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131989/d37698bb46affbbb1754ea2684afc7b30f44df5a158980be7de0911acee956b5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9ac26e0d208a141b78f1102d8a95d49bd4146344aad684a7928ff80d2ca35aef.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/96d67e05d6b9cdcd4b9cc68af200df63546cce575e30ecf8f809e1d7ae17fdb3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d37698bb46affbbb1754ea2684afc7b30f44df5a158980be7de0911acee956b5.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action"
+	],
+	"intro": "Sneak through guarded corridors, avoid police patrols, and steal valuable loot without being detected. Study their routes, stay out of sight, and escape before the law catches up with you.",
+	"description": "Step into the shadows and put your stealth skills to the test in a tense game of infiltration, timing, and escape.\n\nExplore guarded buildings filled with valuable items while police officers patrol the corridors. Observe their movements, learn their routes, and wait for the perfect moment to sneak past them. One careless step can expose your position and turn a carefully planned robbery into a desperate attempt to escape.\n\nStay out of sight, use corners and rooms to avoid detection, and collect as much loot as possible before making your way to safety. Every corridor presents a new risk, forcing you to decide whether to grab another valuable item or leave before the patrol returns.\n\nSuccess depends on patience, awareness, and smart movement. Study your surroundings, adapt to changing situations, and avoid rushing into danger. The more confident you become, the more daring your robberies can be.\n\nCan you take the loot, avoid every patrol, and escape without getting caught?\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "75 MiB"
 }

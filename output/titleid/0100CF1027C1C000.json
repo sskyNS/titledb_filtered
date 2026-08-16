@@ -1,20 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122563/0bde813e9ebefb7ced260081dd061772271a49fc308fc705ea36c93323063afa.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/5a659b8edc7e4b6e906520be54fde257_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bde813e9ebefb7ced260081dd061772271a49fc308fc705ea36c93323063afa.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2f7d856bf8cfd2c1e60f7507612ece749590df06ba66b22d5c960825ee0e565.jpg",
 	"publisher": "17Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122563/99e41279348a1ff0473dd046f88c6eddff0b7bc8e0219fe81a5a1a18651fc96b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122563/0c4bf7feb434cbfc5840c27895fa839a0250e984d0f10471e6625e9f56bd18cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122563/5536bb54d12b519454c5215f92e0869a7e24d2ce72fbfe951c2f5c7c23e5d589.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/99e41279348a1ff0473dd046f88c6eddff0b7bc8e0219fe81a5a1a18651fc96b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0c4bf7feb434cbfc5840c27895fa839a0250e984d0f10471e6625e9f56bd18cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5536bb54d12b519454c5215f92e0869a7e24d2ce72fbfe951c2f5c7c23e5d589.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Relaxing puzzles with cute anime girls.",
+	"description": "Solve captivating puzzles featuring images of beautiful anime-style girls. With each image you complete, you'll unlock new ones, and the gradually increasing difficulty makes solving the puzzle a fascinating challenge. Intuitive touch controls create the feeling that you're actually touching every detail.\n\nSoft and relaxing music will help you immerse yourself in the atmosphere, and after solving the puzzle, you can examine the image closely and admire every detail.\n\nFeatures:\n\n\u2022 Convenient one-handed play.\n\u2022 Stylish anime images.\n\u2022 Full immersion thanks to touch controls.\n\u2022 Gradually increasing difficulty.\n\u2022 Relaxing music.",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Partial Nudity",
+		"Sexual Themes"
+	],
 	"dlcs": [],
 	"size": "246 MiB"
 }

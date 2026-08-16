@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126987/266583747f3db6ce0e1907e2b0bef1547a97257650459268b5ce3ba15af3dc6f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/aa627cfb3fef4062a5eff4b839a335a1_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/266583747f3db6ce0e1907e2b0bef1547a97257650459268b5ce3ba15af3dc6f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ba56da78f471313bac46711f596cd042b236e49f2dc57cec487d97663285ba8f.jpg",
 	"publisher": "Kanuni Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/28c39bf13c33bc7a2fe33f59959be07db135fb29180993da26a31ad8516e2548.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/48c73405eef300e40c07d43846d08054966dbb418ca07fb7968aaa22de45d37c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/0edb2114b8fb74ec12ac52387b420dc37517e749a76af8ea981071ba8e677b08.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/c0859283391c8567e5451ed379cad9654b570bd5eae416cb3ce2f56871f09116.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/43e710b77616c6138fd63b8cc72cd783a8fd3b9b2a7198360614a231006dc567.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126987/2b6fb0b86566698e9acbc8e47317fcdc63986b5ebe208ec8e0ec2018fbee8dab.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/28c39bf13c33bc7a2fe33f59959be07db135fb29180993da26a31ad8516e2548.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48c73405eef300e40c07d43846d08054966dbb418ca07fb7968aaa22de45d37c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0edb2114b8fb74ec12ac52387b420dc37517e749a76af8ea981071ba8e677b08.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0859283391c8567e5451ed379cad9654b570bd5eae416cb3ce2f56871f09116.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/43e710b77616c6138fd63b8cc72cd783a8fd3b9b2a7198360614a231006dc567.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2b6fb0b86566698e9acbc8e47317fcdc63986b5ebe208ec8e0ec2018fbee8dab.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "You are the bench. You cannot walk. You cannot talk. But you can remember.",
+	"description": "Bench Simulator is a narrative simulation game experienced from the perspective of a park bench.\n\nOver the course of many in-game days, different people visit the park, sit on the bench, and leave behind fragments of their lives. Couples, strangers, lonely late-night visitors, frustrated figures, families \u2014 all kinds of people with all kinds of emotions pass through this quiet place. You cannot walk, talk, or directly influence them. Yet your subtle reactions can affect what happens around you.\n\nAs a bench, you observe conversations, read emotional situations, and respond with delicate reactions \u2014 swaying, shifting slightly, creaking, or staying perfectly still. A small movement at the right moment might defuse an argument, create an awkward silence, give someone pause, or change the flow of a conversation.\n\n\u25a0 Key Features\n- Play a unique narrative simulation as a park bench\n- Observe and influence conversations through subtle physical reactions\n- Encounter a variety of visitors across multiple in-game days\n- Experience touching, humorous, romantic, mysterious, and melancholic stories\n- Discover recurring character arcs and different story outcomes\n- Explore varied encounters across daytime, evening, and nighttime atmospheres\n\nYou are not the hero. You are not the villain. You are the bench.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Language"
+	],
 	"dlcs": [],
 	"size": "3.01 GiB"
 }

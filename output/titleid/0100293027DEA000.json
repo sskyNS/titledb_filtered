@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123293/0f9e0f8d2b7b37f7187693bb5bc44f4cd6514cbc16810deebcec182088688835.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123293/5adf2b404dcf7bd44344b387eeb9630b8116e3d7135a6d7edce6ff7215b809a1",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f9e0f8d2b7b37f7187693bb5bc44f4cd6514cbc16810deebcec182088688835.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/cea0a8a186d0c6feb2153409455f0c30bb15ade4dc16aab72b0f6b4e26d398c8.jpg",
 	"publisher": "GreenWookland Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/0d44ac8b4ccfc55326a2335c172274f7d9b08edf4370db7dc21e132caec22640.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/561fcaf8309411fa95ac6cfe5be114407e86d9bc82801e15c67ee6a47ec8ce3c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/5996febff9d5dc7066b3141a646839d2f036dedf24d928ecad4eb221e0a272b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/60dde8192c7714c39ef03c58942f48d47d71e7b060738953365c4fa02abf9cc4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/4e90e56a7a532af7f2aea9cd0453e1b42c973ee59ed98a6d13db1432dd38b357.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123293/c550860c741403df97fd55313bce55319125232fb6fa3531a3e342f786f663e1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/0d44ac8b4ccfc55326a2335c172274f7d9b08edf4370db7dc21e132caec22640.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/561fcaf8309411fa95ac6cfe5be114407e86d9bc82801e15c67ee6a47ec8ce3c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5996febff9d5dc7066b3141a646839d2f036dedf24d928ecad4eb221e0a272b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/60dde8192c7714c39ef03c58942f48d47d71e7b060738953365c4fa02abf9cc4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4e90e56a7a532af7f2aea9cd0453e1b42c973ee59ed98a6d13db1432dd38b357.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c550860c741403df97fd55313bce55319125232fb6fa3531a3e342f786f663e1.jpg"
 	],
 	"releaseDate": 20260724,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Sports",
+		"Action",
+		"Training"
+	],
+	"intro": "Create the ultimate football squad and write your own championship story.\n",
+	"description": "Football 26 League Superstar invites you into the heart of modern football \u2014 where ambition, strategy, and skill decide who becomes a legend.\nStart your journey as a hungry newcomer with a modest squad and limited resources. Every match is a step forward, every decision matters. Train harder, think smarter, and climb from local victories to the grandest stage of world football. Your ultimate dream? Lifting the World Cup and proving you belong among the elite.\n\nKey Features:\n\u2022 Career Progression\nCompete in tournaments of increasing difficulty, evolving from early matches against weaker opponents to intense professional-level battles on the road to World Cup glory.\n\u2022 Rush Mode\nJump into fast-paced matches to test tactics, experiment with lineups, and sharpen individual player skills \u2014 perfect for quick sessions and rapid squad growth.\n\u2022 Deep Team Management\nOpen player packs of varying rarities, upgrade your squad using match experience, rearrange positions, and fine-tune tactics to dominate the pitch.\n\u2022 Dynamic Match Atmosphere\nExperience games played across a full day and night cycle \u2014 from bright mornings to dramatic night-time kickoffs.\n\u2022 Unique Player Skills\nEvery footballer brings their own dribbles, tricks, and signature moves, creating spectacular moments and varied gameplay.\n\u2022 Squad Building System\nUse in-game currency to unlock powerful players and gradually assemble your ultimate dream team.\n\nFootball 26 League Superstar is more than a football game \u2014 it\u2019s your personal rise to greatness. Plan your strategy, train relentlessly, outplay your rivals, and write your own legacy in football history.\nThe pitch is ready. The crowd is waiting. Become a superstar.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.15 GiB"

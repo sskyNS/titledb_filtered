@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124597/302222efb3861a9f07932ca77f3d3014ce7a761cb69f3f4934a8214972c2c8dd.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124597/1b88a7360410ff87bd8dfce28c8150b56e4346f29906acf692df54a35cf89fad",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/302222efb3861a9f07932ca77f3d3014ce7a761cb69f3f4934a8214972c2c8dd.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bddd051ca3beb7b4e5647b6964c877ce48ed656a22142748fdba824ea9edb6fa.jpg",
 	"publisher": "Global Games Publisher",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/64c2667fbe609d73f76bfb4ef70ed2711e6969d95a76eb2bfa882df14cabb518.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/aa4ad246669126816e383af55d340510364477989cb9a7cc426518f2ebbd02c9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/977036dc590595d9b4a6c8825e8baa943a071caac8299a1be6f0354495041d1c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/6387b3e2b62dab554928e9057a0d445ac2f5dc9e36ecf45208ad08b18edec928.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/3acaa01d8d48836fa7e77b204d54df09054effa8e08f3277573caf89180498a1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124597/e0f3862cd7f989034946441b5909c5b9e5d7bfe45afc790ae6af6177cad79203.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/64c2667fbe609d73f76bfb4ef70ed2711e6969d95a76eb2bfa882df14cabb518.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aa4ad246669126816e383af55d340510364477989cb9a7cc426518f2ebbd02c9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/977036dc590595d9b4a6c8825e8baa943a071caac8299a1be6f0354495041d1c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6387b3e2b62dab554928e9057a0d445ac2f5dc9e36ecf45208ad08b18edec928.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3acaa01d8d48836fa7e77b204d54df09054effa8e08f3277573caf89180498a1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e0f3862cd7f989034946441b5909c5b9e5d7bfe45afc790ae6af6177cad79203.jpg"
 	],
 	"releaseDate": 20260818,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Shooter",
+		"Arcade",
+		"Action",
+		"Simulation"
+	],
+	"intro": "Can you survive the mission without making a single mistake?\n",
+	"description": "Step into the heart of high-risk tactical operations in this intense first-person shooter where every move can mean the difference between success and failure. As an elite tactical operator, you are deployed into hostile environments overrun by dangerous terrorists, where innocent lives depend entirely on your actions. Every mission demands careful planning, accurate shooting, and the ability to stay calm under relentless pressure as you fight through fortified enemy positions and rescue hostages before it's too late.\n\nFace unpredictable combat across detailed locations where every room, hallway, and corner could hide a deadly threat. Build your perfect loadout, customize your weapons and equipment, and adapt your tactics to every situation. Success isn't determined by speed alone\u2014it belongs to those who think ahead, use every advantage, and complete every objective without leaving anyone behind.\n\nKey Features:\n\u2022 Complete Tactical Missions: Finish two challenging operations across two detailed maps.\n\u2022 Rescue Every Hostage: Save innocent civilians and eliminate every terrorist.\n\u2022 Strategic Combat: Use tactics, precision, and smart positioning to survive.\n\u2022 Weapon Customization: Add suppressors, change colors, and equip attachments.\n\u2022 Customize Your Operator: Personalize your outfit with tactical clothing and gear.\n\n\n\nSave every hostage, eliminate every hostile, and complete every objective to prove yourself as an elite operator capable of succeeding where others fail.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.68 GiB"
 }

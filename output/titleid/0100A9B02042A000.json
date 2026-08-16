@@ -1,21 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000089096/ad62e697a691712381c6f7b298cf2483dcd1344617f3668b8277c1ffa1fd0c9d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000089096/68867fbff9dbf4a7a454470678164c2eb057fc4270557b299c56dac1c2c58e1e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad62e697a691712381c6f7b298cf2483dcd1344617f3668b8277c1ffa1fd0c9d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d2cde6a206f478fe35b2979b8f6bdc3559e1ad665dacc90873d7bed6b65bd3d2.jpg",
 	"publisher": "INFINITY VECTOR",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000089096/cc73754722d1f5ed3c4ccc0b961ec5773666d4c6ed9a40e61a6f10cc0ee91d95.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000089096/e1227b17f24bbf14031daccb4d98d162b51350b13428a6576c8c8a41460aae87.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000089096/f56e20d0642dd558ae805dee1af0ac3127799a66664ddae3ecc68036b66cfa72.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000089096/f5e76937e91638b998129bcd59c907b2c21504ebb758b0b51e85daea1fa6fb13.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cc73754722d1f5ed3c4ccc0b961ec5773666d4c6ed9a40e61a6f10cc0ee91d95.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e1227b17f24bbf14031daccb4d98d162b51350b13428a6576c8c8a41460aae87.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f56e20d0642dd558ae805dee1af0ac3127799a66664ddae3ecc68036b66cfa72.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f5e76937e91638b998129bcd59c907b2c21504ebb758b0b51e85daea1fa6fb13.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Racing",
+		"Simulation"
+	],
+	"intro": "Premium Launch Edition includes full game, bonus currency and select vehicles. Race licensed cars on real tracks with realistic physics. Tune your car and compete.",
+	"description": "Premium Launch Edition includes the full game, bonus currency, and curated vehicles to start your racing journey.\n\nAUTHENTIC RACING EXPERIENCE\nExperience realistic physics and handling with authentic licensed vehicles and real-world tracks. Master technical circuits where precision and skill determine victory.\n\nLICENSED VEHICLES & TRACKS\nRace genuine licensed cars with accurate performance characteristics. Challenge yourself on faithfully recreated tracks that demand perfect racing lines and expert car control.\n\nDEEP CUSTOMIZATION\nFine-tune suspension, differential, tire pressure, and gear ratios to match your driving style. Every adjustment affects handling and performance on track.\n\nONLINE MULTIPLAYER\nCompete against players worldwide in real-time races. Test your skills in time attack leaderboards and ranked events.\n\nPREMIUM LAUNCH EDITION CONTENTS\n- Full game access\n- Bonus currency for vehicle purchases\n- Curated vehicle selection to begin racing immediately\n\nMaster the art of racing simulation where physics, precision, and skill matter most.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Users Interact",
+		"In-Game Purchases (Includes Random Items)"
+	],
 	"dlcs": [],
-	"size": "5.60 GiB"
+	"size": "5.75 GiB"
 }

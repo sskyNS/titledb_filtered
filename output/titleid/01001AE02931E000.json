@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131472/48269d285217fb6c105d1d4397cd9316336e2bf8a94a535fe290f98398293041.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/dfac1bf0f45448739bb878efa0dbfb94_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48269d285217fb6c105d1d4397cd9316336e2bf8a94a535fe290f98398293041.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e17b20447eed708462cb63b52fcb4bdd42f6304dd138dda6136193c8e4f6e813.jpg",
 	"publisher": "Upscale Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/b4765de21e348c490dc804b89cd5094351e97f608b8de9d70e4abb84d7211df5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/7f0c0b9f032fd513bdd2244788900c84ae73e36250608cd7c3b27e77c5369576.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/d525c458c15bfd9d1752a0fc55b67a4181d3ac05f038f0789ee7634a95cc1aeb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/e8b2b8f6236b4bf65b237ef2659bdf250c766a3212e17b2ed43e0beaadabf1bb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/89accf9b3edc13711e1b679e5a1a5144fb931837dc18524b5ff72b2953212d37.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131472/d5dec808827226ccbf5e6ff61ea017ab08824556f96061686bfa3ddd7b40c240.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b4765de21e348c490dc804b89cd5094351e97f608b8de9d70e4abb84d7211df5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f0c0b9f032fd513bdd2244788900c84ae73e36250608cd7c3b27e77c5369576.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d525c458c15bfd9d1752a0fc55b67a4181d3ac05f038f0789ee7634a95cc1aeb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8b2b8f6236b4bf65b237ef2659bdf250c766a3212e17b2ed43e0beaadabf1bb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89accf9b3edc13711e1b679e5a1a5144fb931837dc18524b5ff72b2953212d37.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1f7d259edcc0520b3a042ba57509f4a1a16697360c5031ff1f19cc2cf19c8aa8.jpg"
 	],
 	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Other",
+		"Adventure"
+	],
+	"intro": "The rules of horror are meant to be broken...",
+	"description": "We all know the rules of horror by heart. The maniac killer always walks slowly while you sprint for your life. There's always a suspiciously large ventilation shaft to crawl through. The walls are inevitably covered in cryptic, bloody messages, such as \"REDRUM.\" We've seen it all a thousand times before. But what if those predictable tropes suddenly stopped working the way they were supposed to?\n\nWelcome to Horror Cliche, a first-person meta-adventure that turns the terrifying tropes you love to hate completely upside down. This isn't a game about surviving the night; it's a game about surviving absurdity. Navigate dark, atmospheric environments where monsters monologue about genre flaws, jump scares become punchlines, and typical survival instincts lead to unexpected outcomes.\n\nThe game features 7 uniquely crafted levels, each designed to poke fun at a different horror movie or game trope. Although you can jump into any level from the beginning, playing them in order reveals a hilarious, self-aware journey that pokes fun at the movies and games we love to be scared by. Grab your flashlight, ignore the ominous bloody handprints, and prepare for a horror experience!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 7,
+	"ratingContent": [
+		"Fear"
+	],
 	"dlcs": [],
 	"size": "557 MiB"
 }

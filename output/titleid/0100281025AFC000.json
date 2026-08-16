@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000107557/8fd106a79f035a2dda225501ce08b78355417d55b56878aa13b20e3d4c7a823a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d86755bd608447d5bfd2270680f32346_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8fd106a79f035a2dda225501ce08b78355417d55b56878aa13b20e3d4c7a823a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/038bc73aa3fdc81df674483fa7bf7ae329c91402267621b4c5edce7ed25aebfb.jpg",
 	"publisher": "HAMSTER",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/a66263c444ad37d193ed545bf8433db66dfcf1b3422b4d20c9cd040f774e7dd3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/0c648ecf7163858c0da2f213a75482d02e61a924b0a5c8cb639fb7207bf28c9c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/e22802ac1d89accf6042cb2f180b56a3109035751365b8b97969564aaeed2363.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/92cd43fb6eaf3fc2e08b2748cbd1bef897fa92a5e393b2aaa82ae280f0344570.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/b89c3e6da92fe4fb35715ccd1e4e7f666dfbabff310fb3c98b5f53900a1da278.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000107557/b7a07e4f5d6ff2e8074bc8712cd0bdde4078e642af3d7c52b52fd27e35c698be.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a66263c444ad37d193ed545bf8433db66dfcf1b3422b4d20c9cd040f774e7dd3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0c648ecf7163858c0da2f213a75482d02e61a924b0a5c8cb639fb7207bf28c9c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e22802ac1d89accf6042cb2f180b56a3109035751365b8b97969564aaeed2363.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/92cd43fb6eaf3fc2e08b2748cbd1bef897fa92a5e393b2aaa82ae280f0344570.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b89c3e6da92fe4fb35715ccd1e4e7f666dfbabff310fb3c98b5f53900a1da278.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b7a07e4f5d6ff2e8074bc8712cd0bdde4078e642af3d7c52b52fd27e35c698be.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Arcade",
+		"Shooter"
+	],
+	"intro": "The World of Syvalion, Changing with Your Play",
+	"description": "\"SYVALION\" is a shooting game released by TAITO in 1988.\nControl the mechanical dragon Syvalion, navigate through the complex maze, and defeat the boss waiting at the goal.\nWith maps and stories changing every playthrough, can you witness all 100+ unique endings?!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpieces that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "146 MiB"
 }

@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127072/97b374cb1c0bda38de948371b49c197be56dfe3d00d63062c5dbe5716d5792b6.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/e17b465536014dc6aed24c4aa46a9838_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97b374cb1c0bda38de948371b49c197be56dfe3d00d63062c5dbe5716d5792b6.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f7b500b6f573adcfb7b7945671ad26631eb376176ee6d647f0da66abf72f63a.jpg",
 	"publisher": "Red Fables",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/3383e4383c1417c800ba63b1a8d187dd6d31d518aacfb0b17666f1deddb8cdcb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/8f6a7e7ffd7489f956ae8ecb7a379b498395603510585b40a491771d4ee3e588.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/f17b3cd4a64f251316de1a774ceefdeeaecde54948c706c018762462a8c4efda.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/de830dc81e228078848f308e168b84d32aa33aaea304a83341be2675bc0377b3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/7e70e6a699741b8da397db284d2aa088a68b40a91b0eeb90c0336300ce79cb7e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127072/4accc160caf8fcc8b1225540073be5ff2a3a80a0ecd80509a81d791a5848ebf0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f08d27af772f4777887d19ecf1b48c6a62cbf0efd6d7cef76b18a1aa81503d68.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8ea6fd8e9ea0e9e5a68f115707fdcd1867d4b8119356c1d67614e84cca41aa7e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4828a22c58357aaa830f3384c63e57fc5374ead12de5a7c4796e6ca3d9c3e6af.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c70b4ebd6f89a889e1ee4e4961e139874af3bc10df84ca203c4714501735868c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4f344f6f5b5502b69e7c67506a467ab48b126c8a2f84cffa722a0ee886f3125.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4accc160caf8fcc8b1225540073be5ff2a3a80a0ecd80509a81d791a5848ebf0.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Lifestyle",
+		"Simulation",
+		"Communication",
+		"Utility"
+	],
+	"intro": "The roster's stacked. One spot open. Every match could change everything.\nThink you can win them over before the season starts?",
+	"description": "The summer roster has one spot left, and everyone on the sand is just as determined to take it as you are. Somewhere between the drills and the downtime, it stopped being just about volleyball.\n\nOne reads every play before it happens. One stays guarded until you've actually earned a place in his world. Another is warm and easy until the score gets close, then turns sharp and unreadable. And the captain isn't letting anyone in who hasn't proven he's worth the risk.\n\nSay the right thing and something shifts. Say the wrong thing and you're back on the bench. Thirty days until the season opener, and every day you wait is a day someone else gets closer.\n\n\nFeatures:\n\n\u25cf A ROSTER FULL OF UNFORGETTABLE GUYS: A deep bench, and every player is a completely different reason to fall. None of them easy. All of them worth the effort.\n\n\u25cf DIALOGUE CHOICES THAT MATTER: Every response shifts the relationship. Say the wrong thing and you lose ground. Get it right and something real starts to open up.\n\n\u25cf CHARACTER AFFINITY SYSTEM: Build genuine connection through practices, late nights, and moments away from the crowd. The harder the pursuit, the more it means when he finally lets you close.\n\n\u25cf EXCLUSIVE GALLERY IMAGES: Unlock beautiful illustrations as each bond deepens. Every guy is hiding a story he's not ready to hand you for free.\n\n\u25cf MULTIPLE ENDINGS: Your path through the season is yours to shape. Not every route ends in romance, but every one of them is worth playing out.\n\n\u25cf 30 DAYS TO MAKE THE TEAM: The season opener is locked in and the countdown has already started. Waste a day, and someone else closes the distance instead of you.\n\n\nOne roster. One summer. Only one spot opens up, and it might cost you more than you think.\n\nWhich one are you chasing?",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "1.04 GiB"
 }

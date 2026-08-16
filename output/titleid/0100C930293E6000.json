@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131837/abc3159f25ab19badeff047a4dc6f08ff3999b195d50e3d88c1cdf87f25c37b3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131837/7678015673eab5ba049967f815ff2ba23c39706ffb25ed4976729a4c94640eca",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abc3159f25ab19badeff047a4dc6f08ff3999b195d50e3d88c1cdf87f25c37b3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/72a6c302e0c34edd469a023085499e94c44adbc7588ffeba7fa01f13503fe291.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/67618411aa615125d101d9b7cffdd97d34c086bbd6a59be041effa0695c9f446.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/cbfc43aa4950321fd6c8c52ed90fee952e1c7778ad14509de197fe020e3e814a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/ccfb8a11dc5db1417a97e2765b94f6b287433799e7607dd41c5f1817f411777a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/ab4a79eb1a6357302eea626a883824fc46323efc1bffd9dc1df6a51763279852.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/88cdbb553b8b5a7f6011b7e8c099e4fea4e3e3cee4b776e19b402d637359d07b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131837/6289fe18edaf91676e81c4da3b8fa5387d78bdc5fa1929df60543427456eace5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/67618411aa615125d101d9b7cffdd97d34c086bbd6a59be041effa0695c9f446.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cbfc43aa4950321fd6c8c52ed90fee952e1c7778ad14509de197fe020e3e814a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ccfb8a11dc5db1417a97e2765b94f6b287433799e7607dd41c5f1817f411777a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ab4a79eb1a6357302eea626a883824fc46323efc1bffd9dc1df6a51763279852.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/88cdbb553b8b5a7f6011b7e8c099e4fea4e3e3cee4b776e19b402d637359d07b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6289fe18edaf91676e81c4da3b8fa5387d78bdc5fa1929df60543427456eace5.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Adventure"
+	],
+	"intro": "Save the music of the ocean and help a brave little mermaid find her voice!",
+	"description": "Save the music of the ocean alongside Doria, a little mermaid with a wobbly voice but a brave heart! When a freezing threat known as \"The Silence\" threatens to quiet her home, Doria must embark on a secret quest through kelp forests and dark canyons to assemble a mismatched choir of sea creatures and restore harmony to the reef. Experience a heartwarming story about friendship, resilience, and the power of finding your own voice!\n\nKey Features:\n\u2022 An Epic Tale: Dive into a rich narrative spanning over 10 chapters with a script of more than 10,000 words.\n\u2022 Cinematic Visuals: Immerse yourself in spectacular 3D graphics in the style of a modern animated movie.\n\u2022 Full Voice Acting: Experience the journey to the fullest with a game fully voiced in English.\n\u2022 A Safe Experience: Perfect for the whole family, as the game contains no ads and no in-app purchases.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "772 MiB"

@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000103594/f226004986e8576ec0efef1bac9aec728bff03499a4a892fb9a20b01ab2cbaee.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/188d6b3319824763b82adbca54a8f05f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f226004986e8576ec0efef1bac9aec728bff03499a4a892fb9a20b01ab2cbaee.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/cbb0f6a88351ba678261285c8c53be45cda61a4922c1722261bf8bcdc27a5695.jpg",
 	"publisher": "HAMSTER",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/cf736486fe188a3c933658418d71c2e55a5c46af4f5a80765b26cdde72fc8450.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/7c279d1301b941c4b6fd0c9202ce087fdd77a74043a5291ea2365eacad7b4eab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/a39a6a324ccc5042926bacab26682d9fd0dcdd20b8f1015c79643401d96b49e2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/d7a2c63f720d4fa83db8140fa1d30ad7cb36756247f45114b82984a129d7d84f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/bc7982cac0a88bec8d7c98022eb666ece42142077f9dca1399517e30fede6d7e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000103594/6a2e80612ee53be031d938d18ffa361d5e04d0caa4d5dd4775351faa5c95eee6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cf736486fe188a3c933658418d71c2e55a5c46af4f5a80765b26cdde72fc8450.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cca3a9bc02f684fb924f5bee9d3aa75e5ff981b7dd3f1eeabec0b8f6b4d7fd85.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a39a6a324ccc5042926bacab26682d9fd0dcdd20b8f1015c79643401d96b49e2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d7a2c63f720d4fa83db8140fa1d30ad7cb36756247f45114b82984a129d7d84f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bc7982cac0a88bec8d7c98022eb666ece42142077f9dca1399517e30fede6d7e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6a2e80612ee53be031d938d18ffa361d5e04d0caa4d5dd4775351faa5c95eee6.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "Now, the cockpit opens into infinity.",
+	"description": "\"TX-1\" is a racing game released by TATSUMI in 1983.\nEnjoy a powerful race, unique to the triple-screen display.\nThe course splits along the way, where deserts, coastlines, and city nightscapes dynamically flash past. Goals all around the world?! Cross the finish line and claim your glorious checkered flag!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpieces that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "120 MiB"

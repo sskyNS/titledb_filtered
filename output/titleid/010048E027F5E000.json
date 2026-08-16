@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123901/3bfe4525f405f1a56db280899b5ee9ee3a17e0ee67da70cf11f12147f9dbe4e5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/06800b448626466695a0da43256e650a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3bfe4525f405f1a56db280899b5ee9ee3a17e0ee67da70cf11f12147f9dbe4e5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5439b0d40fb2052aa8fb0f6a9e203c388141a82bc6b6f165381e1f2160349494.jpg",
 	"publisher": "HAMSTER",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/fcb404a87ad0ab385a7e7500a34b7769e199afc4df18c933fc7b2cd4f7dd1105.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/89ec93f7300c431592946d5c00719d8115a337fca461907768fa3552a9087a0c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/9377a07774895096a15c42be62e3af8ac11de5b62f029f0eed92996b0af3167b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/33064bc00685ef7b8852ae9ffe74f2e521e5e19606dd8de5dafafd862855a608.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/52b5b3af61796411e424f0ff1d64ce30b6eff8cfa22d89ca53841231d0e978a0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123901/e34fec10b1e8e7bbff251cbdc5ff526d6aa4c9ec807b2b7bb89b3a8dbdf05d30.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fcb404a87ad0ab385a7e7500a34b7769e199afc4df18c933fc7b2cd4f7dd1105.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89ec93f7300c431592946d5c00719d8115a337fca461907768fa3552a9087a0c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9377a07774895096a15c42be62e3af8ac11de5b62f029f0eed92996b0af3167b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/33064bc00685ef7b8852ae9ffe74f2e521e5e19606dd8de5dafafd862855a608.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/52b5b3af61796411e424f0ff1d64ce30b6eff8cfa22d89ca53841231d0e978a0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e34fec10b1e8e7bbff251cbdc5ff526d6aa4c9ec807b2b7bb89b3a8dbdf05d30.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Racing"
+	],
+	"intro": "A survival race where anything goes!",
+	"description": "\"HYPER CRASH\" is a racing game released by KONAMI in 1987.\nRace along courses with various landscapes and buildings from all over the world while avoiding obstacles like drums and oil as you aim for the goal across all 6 stages.\nSlam into enemy cars to make them crash! Or jump into the air and land on them to crush them down! In this survival race, anything goes!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpieces that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "78 MiB"
 }

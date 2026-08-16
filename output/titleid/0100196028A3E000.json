@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128473/527ec08769f74875de26e3720d24e364feacd4b8ff6fd69a2239cdba4f71d75c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/724e1935ce0a44c2ba9817925bfeab16_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/527ec08769f74875de26e3720d24e364feacd4b8ff6fd69a2239cdba4f71d75c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f01f5ee336bf260ab24d079a5193123a76acb02191a182eed57397257fa86ae4.jpg",
 	"publisher": "Regista",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/ed55f972771d5aacd1adf36b4b16e9c9fd6f01be63ffd42631a44adc0de3d688.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/89e9c9860a69caef53d90699edcf3e89201ef2ea17d6a5ee978e0696ddd3f867.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/e6562e612f5447d78f4ea173137db52d22ccc884e3385faa536f2ad41e5113c4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/0d4b70025287a608d35f09dcb09413655f994a25c0b0d7280b2a7f3aeaa0a214.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/41469e5d586378bc52d7f3978069c7425d0c555529010bfc52d6a5e2304732ef.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128473/2bf2434e8cde22bea93f7032737ca571ff943008676edd151bc319c876d0af1e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ed55f972771d5aacd1adf36b4b16e9c9fd6f01be63ffd42631a44adc0de3d688.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89e9c9860a69caef53d90699edcf3e89201ef2ea17d6a5ee978e0696ddd3f867.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e6562e612f5447d78f4ea173137db52d22ccc884e3385faa536f2ad41e5113c4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0d4b70025287a608d35f09dcb09413655f994a25c0b0d7280b2a7f3aeaa0a214.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/41469e5d586378bc52d7f3978069c7425d0c555529010bfc52d6a5e2304732ef.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2bf2434e8cde22bea93f7032737ca571ff943008676edd151bc319c876d0af1e.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Terror Lurks in a Late-Night Convenience Store!",
+	"description": "A short horror game starring a female college student working the night shift at a convenience store.\n\nThe hit horror game from the acclaimed horror game development team Chilla's Art is now available on Nintendo Switch\u2122!\n\n\u25cfAdditional Features\n-Includes a brand-new ending not available in the original PC version.\n\n-Collect the mascot character \"Chillamaru\" scattered throughout the map to trigger changes inside the convenience store.\n\n\u25cfStory\nA female college student living alone takes a part-time job at a convenience store, drawn by the unusually high hourly wage.\n\nAs she works the night shift, she begins to encounter a series of strange and terrifying supernatural events.\n\nWhat fate awaits her at the end of this nightmare?",
+	"languages": [
+		"ja",
+		"en",
+		"ko"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood and Gore",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.04 GiB"
 }

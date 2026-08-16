@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130735/dfff88b95a1acc8d9b7950a81d17cf371bbe23ceafb1f7a007ee083f043c3354.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130735/d14c71e2a1a4808f3ef38c4da5fda8bb59acdbe60f12da7f2f8c8952c92faa54",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfff88b95a1acc8d9b7950a81d17cf371bbe23ceafb1f7a007ee083f043c3354.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d6055b3fffc39fe96609fc88b2436a4af4db433dae88cedfc6e791c00c21e504.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/9c0df1bcf348f52f7722cc8fbf617c544e84d1a63a9d4bb0dde57d766e3db231.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/bbe31569a0e9876bfecc5e8f9902d4e18ca7f60b2291a74273c14e8f70948709.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/ee3dbad26314420449ca8917d3cfa36fd3635d934091a57ee55dceccbb9db5cf.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/794f56d5126b9b0607108fd118566d41545bc3bb73489e5b65d07c4896666d87.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/82775c06cf3eafc88242c2a2e01070e14a0b131fbfb74d1befe5bce132f752da.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130735/108bbb0563f6dd5963fe057afdeafaa7ae63252c7fdf7efae92d34a999e8f580.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/9c0df1bcf348f52f7722cc8fbf617c544e84d1a63a9d4bb0dde57d766e3db231.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bbe31569a0e9876bfecc5e8f9902d4e18ca7f60b2291a74273c14e8f70948709.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee3dbad26314420449ca8917d3cfa36fd3635d934091a57ee55dceccbb9db5cf.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/794f56d5126b9b0607108fd118566d41545bc3bb73489e5b65d07c4896666d87.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/82775c06cf3eafc88242c2a2e01070e14a0b131fbfb74d1befe5bce132f752da.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/108bbb0563f6dd5963fe057afdeafaa7ae63252c7fdf7efae92d34a999e8f580.jpg"
 	],
-	"releaseDate": 20260701,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20260702,
+	"category": [
+		"Study",
+		"Education",
+		"Adventure"
+	],
+	"intro": "Relive the American Revolution through the paws of two historical heroes!",
+	"description": "Founding Paws follows Chompy the beaver and Sunny the eaglet through the American Revolution as they help dump tea into Boston Harbour, sound the alarm during Paul Revere's midnight ride, and travel to Philadelphia to witness the Continental Congress and inspire Thomas Jefferson's drafting of the Declaration. Decades later in the modern era, the lifelong friends sit together watching Fourth of July fireworks, proudly reflecting on the incredible nation they helped build.\n\nFeatures:\n\u2022 Fully dubbed in English. Characters with their own voices and personalities.\n\u2022 10 chapters. A complete story. Above 10,000 words.\n\u2022 Full-colour, professional-quality images.\n\u2022 Full background music and sound effects throughout.\n\u2022 Read together or let a child explore alone.\n\u2022 Short sessions. Easy to pause and pick up anytime.\n\u2022 Themes: courage, friendship, self-acceptance.\n\u2022 Ages 4\u20138.\n\u2022 No ads - No in-app purchases - All ages.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 0,
+	"ratingContent": [
+		"General"
+	],
 	"dlcs": [],
 	"size": "475 MiB"
 }

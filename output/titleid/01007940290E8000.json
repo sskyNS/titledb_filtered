@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130568/7e2ce582da1f303ad132bc475c4185628df24c75dba9c7f4310037e47fe975cb.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130568/b4cb63691f712e1353f8e14fef069b449eed2dbfb4b25fb9f6c95ef71e8bf8d1",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e2ce582da1f303ad132bc475c4185628df24c75dba9c7f4310037e47fe975cb.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/827f9d7b8eae37bef55d9ea87c471f1ec219522c21d6c63c94e19a53d05956fa.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/3cd9d37cb34cf5d04c252d2245a2644de4c5a4e95c031bfd89a2b3320ea3dedc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/dbee2df6a0b69ef76b09f7883cb96049ba33689c73e8420584e84404c4460de0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/fc0e7cf39a6b16971521545e50bfcd94894a21763615e2138da01bd1c8681615.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/56d53518edecfd080936df0e0ab5767b9c51eb7f77a390dc069714d0178b562a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/b373e7efad4fc236984047b31b4a1f2e8b058f3830fb3439df6c09727180182f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130568/5d5b132145edcf29afc3edb1d20ffbbc772228dfddfb49705a1902f1572908bf.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3cd9d37cb34cf5d04c252d2245a2644de4c5a4e95c031bfd89a2b3320ea3dedc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/dbee2df6a0b69ef76b09f7883cb96049ba33689c73e8420584e84404c4460de0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fc0e7cf39a6b16971521545e50bfcd94894a21763615e2138da01bd1c8681615.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/56d53518edecfd080936df0e0ab5767b9c51eb7f77a390dc069714d0178b562a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b373e7efad4fc236984047b31b4a1f2e8b058f3830fb3439df6c09727180182f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5d5b132145edcf29afc3edb1d20ffbbc772228dfddfb49705a1902f1572908bf.jpg"
 	],
-	"releaseDate": 20260630,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"releaseDate": 20260701,
+	"category": [
+		"Education",
+		"Study",
+		"Adventure"
+	],
+	"intro": "A magical interactive 3D video book about friendship, kindness and bravery!",
+	"description": "On a rainy afternoon, Alicia steps through a freezing Looking-Glass into a fading world that has lost its colour and warmth. Alongside two tiny companions, Snugglet and Mira, she journeys through whimsical lands to confront King Cozy, a lonely bear-king who is hoarding the world's sparkles. Ultimately, the smallest hero saves the day, restoring light and joy to the realm.\n\nFeatures:\n\u2022 A cinematic visual novel brought to life with feature-film quality 3D animation.\n\u2022 A fully voiced interactive 3D Video Book for ages 4\u20138.\n\u2022 10 chapters: Over 10,000 words of story.\n\u2022 Original instrumental soundtrack: 29 cheerful kids' pop tracks.\n\u2022 Full voice acting for every character and the narrator (17 distinct voices).\n\u2022 Full colour image gallery to use as wallpaper or background.\n\u2022 Five karaoke songs to enjoy singing about history.\n\u2022 Short sessions, perfect for one chapter per evening, read together or alone.\n\u2022 Themes: friendship, kindness, courage, and set in a magical mirror world.\n\u2022 PEGI 3 \u00b7 USK 0 \u00b7 ESRB Everyone, appropriate for all ages.\n\u2022 No ads \u00b7 No in-app purchases \u00b7 No frightening content \u00b7 No sad ending.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 0,
+	"ratingContent": [
+		"General"
+	],
 	"dlcs": [],
 	"size": "1.09 GiB"
 }

@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118323/0a5ae05ab80764502de4dabc0825828641556f82c5713ea13f68893795662f60.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118323/2244f6d612ca6718436d07a1ef1821e4e976ce7e99ff58f1f5cd5bb0eca0f75a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a5ae05ab80764502de4dabc0825828641556f82c5713ea13f68893795662f60.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0fe8c294848f459fb136c3bce3064aaa2068d002c92b3c157b311f07a0b494d.jpg",
 	"publisher": "Kwalee",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/fb5d14b3697996763f2a7c0f75042b6fb611bbdea63ceb4bb6a9ae89cc13442e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/37cd7fe31f7702e6486d12a6f3bf581410478324fd54dc479c4719240d7835e0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/f7749c620948a41cf64a113586e2166f441a98420a83ea868dfc20eff834de0c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/9664d15d33f11af3d383b12088ee8c97559ca9e0622ac461762a71179ebfd01a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/c70c9ccf3f16f2fc827634abc4af41440f70020c6efce389be1d1f9e732aedae.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118323/5c41d4efb323158c761c2364f31dde7ae8a7b8bf2120986bad94962a8fc3505e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fb5d14b3697996763f2a7c0f75042b6fb611bbdea63ceb4bb6a9ae89cc13442e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/37cd7fe31f7702e6486d12a6f3bf581410478324fd54dc479c4719240d7835e0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f7749c620948a41cf64a113586e2166f441a98420a83ea868dfc20eff834de0c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9664d15d33f11af3d383b12088ee8c97559ca9e0622ac461762a71179ebfd01a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c70c9ccf3f16f2fc827634abc4af41440f70020c6efce389be1d1f9e732aedae.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5c41d4efb323158c761c2364f31dde7ae8a7b8bf2120986bad94962a8fc3505e.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Strategy"
+	],
+	"intro": null,
+	"description": "Enter a captivating realm steeped in the exotic and bizarre tapestry of Japanese mythology with Talespinner, a deck-building roguelike adventure. As the storyteller, you will guide your chosen hero through an ever-changing narrative shaped by your decisions and deck construction.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Use of Alcohol"
+	],
 	"dlcs": [],
-	"size": "623 MiB"
+	"size": "770 MiB"
 }

@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126981/1ccbfa02d1b9a58d5d93c90d901dded220b774a7f8a5026e789128beba4752fa.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126981/a60bad423f6babfc4e74c4a28cd875c72034a401446b9c9ad7a7872d0b24b2d7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ccbfa02d1b9a58d5d93c90d901dded220b774a7f8a5026e789128beba4752fa.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7068e3bf167fbf61300ac4a70deb03a3b80f119c9b97b6776f0220ee1dc017c5.jpg",
 	"publisher": "SMOKOKO",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/1b1a41222cac225efaae5a8858e5487b53469a94f7ece25dfa304a005930131c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/700a5a953f2a1e986e6dab5348e7415961d2013de9f8a3daedd689ad09fa9805.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/750913474827a138905fcd410e371136527a32253732fb6ff8cde3fb8bcbf554.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/0b033c98017ba766e88d6e2467b8ef3f5fafe58d0c54bc628e48d3226a953795.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/b47b0132da73a2727a59ab25a9103112b982964b95d88c0aac9a70a7eb833222.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126981/5d12e3b876a4a21b05a5fc9beb380563e20c150d4f1c673f88b46db60d4bff34.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1b1a41222cac225efaae5a8858e5487b53469a94f7ece25dfa304a005930131c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/700a5a953f2a1e986e6dab5348e7415961d2013de9f8a3daedd689ad09fa9805.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/750913474827a138905fcd410e371136527a32253732fb6ff8cde3fb8bcbf554.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b033c98017ba766e88d6e2467b8ef3f5fafe58d0c54bc628e48d3226a953795.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b47b0132da73a2727a59ab25a9103112b982964b95d88c0aac9a70a7eb833222.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5d12e3b876a4a21b05a5fc9beb380563e20c150d4f1c673f88b46db60d4bff34.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Racing",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Race to the finish on wild, winding tracks where every jump is a boost and every rival is a threat.",
+	"description": "Max Speed is a high-speed arcade racing game for Nintendo Switch\u2122 where every race is a fight for first place.\n\nTake on AI rivals across winding, hilly tracks where mastering speed is only half the challenge. Use the terrain to your advantage \u2014 perform flips, jumps, and aerial tricks to gain nitro boosts and push your car beyond its limits. But be careful: one mistake can cost you the race.\n\nEach track is packed with danger. Dodge obstacles, survive environmental hazards, and watch out for aggressive opponents trying to push you off the road. From prehistoric creatures to deadly track traps, every race is unpredictable and intense.\n\nChoose from 14 unique cars and customize them to match your style. Upgrade your vehicles to improve performance and unlock visual changes that transform your ride. Personalize your car with different colors, wheels, and nitro effects to stand out on the track.\n\nRace across 9 diverse locations and 29 handcrafted tracks, each offering its own challenges and driving conditions. Test your skills in multiple game modes, including Career, Events, Season, Time Trial, and Split-Screen.\n\nPlay solo or compete with friends in local multiplayer. With up to 4 players on one console, split-screen mode lets you challenge others and prove who is the fastest racer.\n\nWhether you're chasing the perfect run in Time Trial or battling for first place in chaotic races, Max Speed delivers fast-paced action, skill-based driving, and non-stop adrenaline.\n\nFeatures:\n\u2022 Arcade racing focused on speed, physics, and skill\n\u2022 14 unique cars with upgrades and visual progression\n\u2022 Deep customization: colors, wheels, and nitro effects\n\u2022 9 locations and 29 unique tracks\n\u2022 5 game modes: Career, Events, Season, Time Trial, Split-Screen\n\u2022 Dynamic tracks with jumps, tricks, and nitro boosting\n\u2022 Hazard-filled environments with obstacles and creatures\n\u2022 Local split-screen multiplayer for up to 4 players on one console\n\nThe application does not communicate with an independent server.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "369 MiB"
 }

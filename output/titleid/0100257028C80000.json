@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129031/ee06dfc43abde4413cee994c15dcf735dd5e7382eb13ce4635ec1296023af48d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129031/0491241c39cd2f18796f67b0bd0e50457d2c3d9a7f279d8b7dfee920330d4807",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee06dfc43abde4413cee994c15dcf735dd5e7382eb13ce4635ec1296023af48d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2bdcce1647ecb3adec03879b20a3ac92da3d303c059df226584a37ffe91d23b0.jpg",
 	"publisher": "PRIME",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/67bb29f3e4fde71112d1eb7791af347b8207f688c47e492a3c36e8c4ef890706.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/648faef8877f20fc50bcef082e96ce1901b0cc234a4bec17e2fe803ff584c4f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/5493c161331bb019e1b34b18d19c721ba0dfd78b66e4740c4320d0afeaec8df1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/42e2089096e16dd9c5c34d8c5793a9508dfc61e93951eeacb7c4a5d8603fd8fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/bf60f35da26869ff9b21db68608697e82ec4581c0336f83cd3a54396b0a42a2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129031/c352acc457396b68a4346c9af1fb9e8ca65db0b6d6546375955f014dce425d40.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/67bb29f3e4fde71112d1eb7791af347b8207f688c47e492a3c36e8c4ef890706.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/648faef8877f20fc50bcef082e96ce1901b0cc234a4bec17e2fe803ff584c4f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5493c161331bb019e1b34b18d19c721ba0dfd78b66e4740c4320d0afeaec8df1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/42e2089096e16dd9c5c34d8c5793a9508dfc61e93951eeacb7c4a5d8603fd8fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf60f35da26869ff9b21db68608697e82ec4581c0336f83cd3a54396b0a42a2d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c352acc457396b68a4346c9af1fb9e8ca65db0b6d6546375955f014dce425d40.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Simulation",
+		"Platformer"
+	],
+	"intro": "Collect awesome pets, farm tons of gold, and discover Magical Kingdoms!",
+	"description": "Get ready for non-stop fun in Pet World!\nYour favorite animals are here to help you build a massive empire. Drop into colorful worlds, tap into your pets' magical powers, and watch them smash obstacles to flood your screen with shiny gold coins!\n\nFarm Gold, Buy Pets, Repeat!\nThe rules are simple but super fun: use your loyal pets to farm chests and treasures, collect mountainloads of gold, and use that wealth to hatch even stronger, mythical companions!\n\nUnlock Legendary Kingdoms!\nGot enough gold? Time to expand! Spend your riches to unlock brand-new, massive locations packed with even bigger treasures and rarer pets. Every new world brings bigger rewards and crazier pets to add to your ultimate collection. Can you unlock them all and become the richest explorer?\n\nKey Features:\n\nSuper Fun Idle Action - Easy to play, hard to stop! Watch your pets farm gold even while you relax.\n\nHatch 150+ Cute Pets - Spend your gold coins to collect, level up, and upgrade legendary and cosmic companions!\n\nUnlock New Worlds - Travel to ever-changing kingdoms that offer more riches and bigger challenges.\n\nFun for Everyone - Colorful 3D visuals and rewarding gameplay perfect for young tycoons!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "153 MiB"

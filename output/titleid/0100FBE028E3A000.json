@@ -1,21 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129731/34d5ab17a6d4898d1e63d948e954954df122cff044ed66c50a287a80727c2838.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/d36b4b10de4e41b2970a91db62a3cfb1_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34d5ab17a6d4898d1e63d948e954954df122cff044ed66c50a287a80727c2838.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/26fb94ab2665867bcc30b7fcde3295bf7bb30f74db5970c3fced32603a69dbee.jpg",
 	"publisher": "TT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129731/4cb08b6e6634a3448938addd4d46538fe625c5fa37d80bea734ede0556c7996b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129731/ddd310e48102f7f290db2b808e017133c94a1b5d5c8bfa82e2179e7d327c1ab4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129731/6c9575ff1e935ce698ccac612986d6d2ac0cea3c95a351799a6bdca4eb6d9658.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129731/9e43d4a4c863d46c0fedd82516a5feab017f8e05e05da4b3a8bd79645d97a9b6.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4cb08b6e6634a3448938addd4d46538fe625c5fa37d80bea734ede0556c7996b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ddd310e48102f7f290db2b808e017133c94a1b5d5c8bfa82e2179e7d327c1ab4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6c9575ff1e935ce698ccac612986d6d2ac0cea3c95a351799a6bdca4eb6d9658.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9e43d4a4c863d46c0fedd82516a5feab017f8e05e05da4b3a8bd79645d97a9b6.jpg"
 	],
 	"releaseDate": 20260709,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"RPG",
+		"Action",
+		"Party"
+	],
+	"intro": "Read the case. Search the scene.\nFind the hidden clue that reveals the truth.\nA quick mystery challenge for sharp eyes.",
+	"description": "Investigate illustrated mystery scenes and spot the hidden clue that helps explain each case.\n\nRead the short case prompt, examine the scene carefully, then choose the suspicious place or item. The rules are simple, so you can start solving right away.\n\nHow to play:\n\u30fbRead the case\n\u30fbLook closely at the illustration\n\u30fbSelect the clue you think is important\n\u30fbUse a hint if you get stuck\n\nWith 30 stages to solve, each case is short enough for a quick break while still testing your observation, logic, and intuition.\n\nPlay solo at your own pace, or discuss each scene with family and friends to see who notices the key detail first.\n\nRecommended for players who enjoy mystery puzzles, detective-style brain teasers, visual riddles, hidden clues, and quick thinking challenges.\n\nCan you catch the detail everyone else missed?\n\n",
+	"languages": [
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "246 MiB"
 }

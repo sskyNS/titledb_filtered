@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124671/a3640ec0c225e50ae1bd35e21f49d48b99ea1314c7bebe3734c58c15c8533934.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124671/f1d15a1a9e19caa6e400fe1766da331745b1102ff63f4900cebd26ff39b59786",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3640ec0c225e50ae1bd35e21f49d48b99ea1314c7bebe3734c58c15c8533934.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a97bb485e1be2ef7a42f5bcbd58c63b083fe3b9be2bca3acd0e1980f71fb80c.jpg",
 	"publisher": "MAXIMUM ENT FRANCE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/02246174b0e8a46b12ff75084f9ff7b3d58735ce75acf4832d3875ce1ab3c89f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/9ab17d5092c8208c0db1937e9c0d884f8b08d4df0efe29aa224a778b72c65c2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/9d28b9b2776d0a0fa200502eef75faef532821e52239f5c89fba225b36b382df.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/3c33d4ad5f0643d142ab68a3bfbade92d103f0abc6ef785ba6497ebb2fc6326f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/4fcaf779a3835af33dd64108cbedb85abadba993624982735a4ff7b58a9e465d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124671/d388ff2b653585f0910b02cdaf477dbbcc82d4df5bd55353c523c49d0ed95d64.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/54da86ab691c6e96d4ec8c5f2b8e8ea580ad25f9be2e9740c3d813952b9c6641.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b0c9675f6379e23cc7355eca94f6ab371ea0685c55db937b2a42ffa2841d04f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9d2a774c913061485cf7d014aa37c65523dfeda19dcdbd48d8ceaff4feedc509.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/adc738f4cd0cc2aabebb7c05e33d2491aaa5ecc9bfccfda528c826fb00657254.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/99b19a25a6713db215dfecf8883589dc3c150641ef93587bb6b99ef792408af0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7a3dfbb284af51b6eccdbc4d1d66aefabdc696c9f118c3b73d18fa1780a0bb63.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Sports",
+		"Party",
+		"Arcade"
+	],
+	"intro": "Jump in! 10 activities, custom characters and endless fun.\n",
+	"description": "Jump into the action to compete against friends and family in Baseball, Volleyball, Mini Golf and more in this sports collection that has something for everyone. \n\nWhether you're a sports fanatic or just looking for a good time, Instant Sports 2 has 10 unique events designed for maximum fun. Challenge your friends, beat your personal scores, and customize your character with hundreds of options. \n\nTake full advantage with Better Motion Control and Enhanced Motion Tracking for ultimate responsiveness! Use the all-new Live Camera Feed to see yourself in the game, or switch to Mouse Mode for even greater precision.\n\n10 Sports, Endless Fun!\nFrom Mini Golf to Wingsuit Flying, Baseball to Mountain Biking, there is a sport for every type of player. Try your hand at classics such as Volleyball and Boxing, or dive into thrilling experiences like Padel and Skateboarding. \n\nMake it Yours\nCustomize your character with tons of outfits, equipments, and visual effects. Want to play volleyball in a superhero costume? Go for it! Earn tickets and unlock unique colorful items to create a look that truly matches your mood!\n\nBuilt for togetherness\nPerfect for local multiplayer sessions with up to 4 players. Simple pick-up-and-play controls mean anyone can join the fun instantly. No complicated tutorials, just pure entertainment!\n\nExplore a Vibrant Sports Park Hub Between Games \nWander through themed zones, discover new activities, and soak in the atmosphere of your personal sporting playground.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "1.34 GiB"
+	"size": "2.00 GiB"
 }

@@ -1,22 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126741/4670a5877b08884a7ff4f253ece7935445035f9149764b9fa4557d4244a473f3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126741/857fd7b56b6ac408424bf4642070a8c7b5accaa1d6a7337b5a7e6a8d64253ac6",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4670a5877b08884a7ff4f253ece7935445035f9149764b9fa4557d4244a473f3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2256310fec52724bd9078a7f14cb740d9caba20600200c9985b8645cbaaa5a7.jpg",
 	"publisher": "Play Lab",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/fc2862a596bfa3d2189efbdd461497a7a5985c699772f7822c7443f95d3e203e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/26775646bfe9c8529620f0604fafe09735e75b5246c03fa10c61dd7e35623b46.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/3c6a5ffe9ad27838afd32664ce74ffbc9aea3fb88b2b081bf962613298a00e65.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/b7718d4d3510899b07571c6e450b4d13e0b1eadc33af77cb91bbfc35f035ad11.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/7e89bdfe9066cf2f060f2edea3c9c490cc3fefb35d669240d816a4519111a55d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126741/f966a3e68d71923cb16273a72738fffe1ec109c16f34d8cc22aa7e8e20385816.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/fc2862a596bfa3d2189efbdd461497a7a5985c699772f7822c7443f95d3e203e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/26775646bfe9c8529620f0604fafe09735e75b5246c03fa10c61dd7e35623b46.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3c6a5ffe9ad27838afd32664ce74ffbc9aea3fb88b2b081bf962613298a00e65.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b7718d4d3510899b07571c6e450b4d13e0b1eadc33af77cb91bbfc35f035ad11.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7e89bdfe9066cf2f060f2edea3c9c490cc3fefb35d669240d816a4519111a55d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f966a3e68d71923cb16273a72738fffe1ec109c16f34d8cc22aa7e8e20385816.jpg"
 	],
 	"releaseDate": 20260814,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Practical",
+		"Strategy"
+	],
+	"intro": "From Broken Rooms to Dream Homes.",
+	"description": "Become the neighborhood handyman and transform rundown houses into beautiful homes!\nTake on renovation jobs, travel to different locations, and restore homes room by room. Clean up trash, replace damaged flooring, paint walls, install ceiling panels, and furnish interiors to satisfy your clients.\nComplete contracts to earn money and invest in better tools and equipment. Upgrade your gear to work faster, take on bigger projects, and become the most trusted handyman in town.\nEvery house is a new challenge, and every renovation brings you one step closer to building your dream handyman business.",
+	"languages": [
+		"en",
+		"es",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "431 MiB"

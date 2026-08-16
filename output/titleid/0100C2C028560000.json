@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126122/dda89d121c2c664d3fbb6023fbce7070ef752928ced07295805d30cf7cb24079.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126122/7b38990c7e8470cafd7a235a807fb8f63555c4d5a4046cb30b352817e51ba362",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dda89d121c2c664d3fbb6023fbce7070ef752928ced07295805d30cf7cb24079.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9844bf7b1ba411094a2ecc0e886efb43d7d75ad3342a7676ae417e1449b565a9.jpg",
 	"publisher": "Emprom Game",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/cf09b9d0ab750d1209f9a45d72bbe19d2ee5ef612398220027e80dbdfb3b3342.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/5966d272d99f9cc99ea87b915b21b07cbf5c27351b12b350ef78ae0b5b422523.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/844754a2566b602af88ffef96f372f0794b3b5ec98aea82f6431f5695134cede.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/ba4f507f4193b32e2cf4e96186abf89091045ddb1c524a02b9e9d394d955d16a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/0c6d7a175c50e928f558126716c76982c90904afae27835760630641a1283f59.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126122/99421d154947d4bdc23d494ba630d828b2957b467bd15e04f5367b2cda7e5334.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cf09b9d0ab750d1209f9a45d72bbe19d2ee5ef612398220027e80dbdfb3b3342.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5966d272d99f9cc99ea87b915b21b07cbf5c27351b12b350ef78ae0b5b422523.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/844754a2566b602af88ffef96f372f0794b3b5ec98aea82f6431f5695134cede.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ba4f507f4193b32e2cf4e96186abf89091045ddb1c524a02b9e9d394d955d16a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0c6d7a175c50e928f558126716c76982c90904afae27835760630641a1283f59.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/99421d154947d4bdc23d494ba630d828b2957b467bd15e04f5367b2cda7e5334.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Simulation"
+	],
+	"intro": "I'm fighting the Demon Fungi?! ... I'll win, won't I?\nTiny Mushroom Agent vs. Endless Enemies!\nRelax in this cozy world and watch your stats go crazy!",
+	"description": "To denounce the evils of truth and love, the lovely charming germ agents, Gummy Invaders, blasting through the veins at the speed of light! In this incremental game, you\u2019ll lead your germ agents through constant evolution. Upgrade skill tree, multiply  forces, and teach those troublemakers a lesson!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "378 MiB"
 }

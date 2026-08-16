@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126548/847e960cafd8ed2f46029429007723342415b3c0a5337e52a7a4024afe011727.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126548/4caa9862ff59c049766ea6a1e811594eebc1391c7fd1e896255f22bba413a5c3",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/847e960cafd8ed2f46029429007723342415b3c0a5337e52a7a4024afe011727.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f96d1f22b92c0bb46d10aadddd325d8d25e72f00738e7688aabf6d99a31a8fef.jpg",
 	"publisher": "Entity3",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/6ace47d3c314af5ffbb748e85531279dbe67a40a85d7a08fb8fbe0e410f71474.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/6cac8e5622184ffd90de36c411d3e3a02a44f2ec36976f5d1c81faf9c9000206.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/d8fdb7c58312ffd81c15c060d24a12ca4f3abb9ad18345ba0a6702afda19ac94.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/4420e87f44ec021d636e8891db2fc9053192738ad20989a89eda81cf5d2bdef3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/19b7ad80f44b4eeccd9551b882b2aaa58060ea1c9313cba47c225077bc80b566.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126548/244e945247793dc5f0ee4d6c978e7b1514dd2633ed7d52e4cedbdeeb7ab87bcf.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6ace47d3c314af5ffbb748e85531279dbe67a40a85d7a08fb8fbe0e410f71474.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6cac8e5622184ffd90de36c411d3e3a02a44f2ec36976f5d1c81faf9c9000206.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d8fdb7c58312ffd81c15c060d24a12ca4f3abb9ad18345ba0a6702afda19ac94.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4420e87f44ec021d636e8891db2fc9053192738ad20989a89eda81cf5d2bdef3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/19b7ad80f44b4eeccd9551b882b2aaa58060ea1c9313cba47c225077bc80b566.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/244e945247793dc5f0ee4d6c978e7b1514dd2633ed7d52e4cedbdeeb7ab87bcf.jpg"
 	],
 	"releaseDate": 20260711,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Strategy"
+	],
+	"intro": "Rotate and React",
+	"description": "A fast-paced arcade experience focused on precision and timing, this game challenges players to defend a central core using rotating color-coded shields. Projectiles arrive from all directions, and success depends on quickly aligning the correct color while multiple shield layers spin at different speeds, often in opposite directions.\n\nEach round builds to a final phase where a neutral projectile must be guided through the rotating defenses. Players create a precise opening, shifting from reactive play to careful control and spatial awareness.\n\nWith minimalist neon visuals and smooth, responsive animations, the experience is easy to pick up yet difficult to master. A structured set of levels and an endless mode introduce increasing speed, complexity, and patterns, encouraging players to improve, adapt, and chase higher scores through skill and focus.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "262 MiB"

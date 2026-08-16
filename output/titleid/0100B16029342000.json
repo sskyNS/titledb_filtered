@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131517/1907db3bbbdf7f856a0e1884169a6e71adfc162e4410a4dea53e45d40ff8dcfa.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131517/629b4ffc1b1a3544ff034578c2c71b7e6e90d1840a5ec3005b8fdb4a9d6d4fbb",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1907db3bbbdf7f856a0e1884169a6e71adfc162e4410a4dea53e45d40ff8dcfa.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/625342f6bebae521024572358d88209df35accda87e7bc3ff0ad8adf227b5417.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/babe5add4b3be669f4b5b39d6234aaa00c76bd7be0d512c44e358724e848b75b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/2df27ad574f186b8207c72a28679ee7d4d567bbf57fc9a57dad894341b53c277.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/facba4072e547f2acfc25bb5e9846f7fe338f37d6c057f6bd4106bfd5877611e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/0287cb507a1464d3575209bf105a5293c5f7e588cf76bbf3a7017e88068256f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/d8e5f085f1943afe54195479f7fd1dc147dd70eb46854a60c142f3ef829ae84f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131517/c4132c889807398784c917dbb3b20cd2677df2d6cf0aa3676593f2c697c10cfb.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/babe5add4b3be669f4b5b39d6234aaa00c76bd7be0d512c44e358724e848b75b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2df27ad574f186b8207c72a28679ee7d4d567bbf57fc9a57dad894341b53c277.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/facba4072e547f2acfc25bb5e9846f7fe338f37d6c057f6bd4106bfd5877611e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0287cb507a1464d3575209bf105a5293c5f7e588cf76bbf3a7017e88068256f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d8e5f085f1943afe54195479f7fd1dc147dd70eb46854a60c142f3ef829ae84f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c4132c889807398784c917dbb3b20cd2677df2d6cf0aa3676593f2c697c10cfb.jpg"
 	],
 	"releaseDate": 20260731,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade"
+	],
+	"intro": "Outrun the traffic. Outlast the chaos.\n",
+	"description": "Burn rubber through endless highways in the ultimate high-speed traffic racer. Weave between oncoming cars, dodge slower traffic, and push your reflexes to the limit as the road never ends.\n\nFeatures:\n\n23 Sports Cars \u2014 Unlock and tune a garage of 23 sports cars, each with its own handling and top speed. Find the ride that matches your driving style.\n\nInfinite Roads \u2014 Our procedural road generation system means no two runs are ever the same. The highway stretches on forever, so the only finish line is the one your skills set.\n\nDynamic Weather & Levels \u2014 Race across multiple environments and conditions, from blazing sunshine to treacherous ice. Adapt your driving as grip and visibility shift beneath your wheels.\n\nMultiple Camera Views \u2014 Switch between cockpit, chase, and other camera angles to race exactly the way you like it. Go first-person for the adrenaline rush or pull back for total control.\n\nFront Crash Mode \u2014 Crave chaos? Flip on Front Crash Mode and embrace the carnage as you barrel head-on into traffic for maximum impact.\n\nFloor it. Dodge everything. Survive the rush.\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "538 MiB"

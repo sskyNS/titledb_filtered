@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123601/cba8eff3e61c644e3b4b235b83db7b3fd5ff88224f4f0602e06837f4b4d37f3c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/23bd8c97ab044a1d8a158db6e34ef3ec_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cba8eff3e61c644e3b4b235b83db7b3fd5ff88224f4f0602e06837f4b4d37f3c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3edb7a510e16aa6217b45375cabf7f9770a0275aa96f985051aa8c76c12e40b5.jpg",
 	"publisher": "D4 Enterprise",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/6e07f80b28e1e658d00be339953c8e79b4922c903298520f9e2b1f1d6a935d6c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/55229084e02db5ca9a89c1c269f25f921bad93eb6f3eb1e7bc1312c5897c072d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/ef21d1dd3670526bac386fab6949c8cd75e1e6984322b8d64f2a8a8ad0384584.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/3a894b9d3c2e2067ae21cfefc2dfd71c57b6933b6beda5eed35fd0c32148c110.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/8e8a780740621582e6298829703e113d65b1cf3c3f4ef4ef88be3c79d3255dd1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123601/a1d91e14405901eea50cad71203e06feeae3bdd4194bff76746249a970147395.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/6e07f80b28e1e658d00be339953c8e79b4922c903298520f9e2b1f1d6a935d6c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55229084e02db5ca9a89c1c269f25f921bad93eb6f3eb1e7bc1312c5897c072d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ef21d1dd3670526bac386fab6949c8cd75e1e6984322b8d64f2a8a8ad0384584.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3a894b9d3c2e2067ae21cfefc2dfd71c57b6933b6beda5eed35fd0c32148c110.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8e8a780740621582e6298829703e113d65b1cf3c3f4ef4ef88be3c79d3255dd1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a1d91e14405901eea50cad71203e06feeae3bdd4194bff76746249a970147395.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "A mother fox sets out on a quest to save her ailing cub. Through encounters with many animals and riddles to solve\u2014can she make it back in time?",
+	"description": "Once upon a time, in the Forest of Romus, there lived a mother fox and her cub who were very close. One day, the cub contracted \"Romus Disease.\" Legend said that whoever caught this disease would never recover, and in fact, everyone who had fallen ill with it so far had died helplessly. The mother fox was powerless and could do nothing but nurse her child. In that moment, she remembered what her grandmother fox had taught her long ago.\n\n\"When you grow up to be a mother fox, an incurable illness called Romus Disease will break out. Listen to me\u2014if your child catches this disease, feed them the fried tofu hidden in Rille Shrine...\"\n\nThe grandmother fox had always shared this strange story with her, speaking as if she already knew what the future held.\n\nStep into a world of wonder in this 1984 adventure classic from MICROCABIN.\n\nTake on the role of a devoted mother fox on a journey to Riru Shrine to find the legendary \"abura-age.\" While the game presents a significant challenge to even the most seasoned players, its cozy atmosphere and enchanting animal characters won the hearts of many\u2014becoming a pioneering title that proved adventure games could be enjoyed by everyone, regardless of gender.\n\n\n *This application does not have a scene select mode.\n *The main game and gallery screen (*Gallery) are in Japanese version.\n *Other menu screens and \"How to play\" screens are in English.\n *Flashing lights or patterns may cause dizziness, spasms, or loss of consciousness. If you feel unwell, stop playing immediately and see a doctor.\n   If you have a history of these symptoms, consult a physician before use.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "41 MiB"
 }

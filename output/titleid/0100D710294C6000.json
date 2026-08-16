@@ -1,19 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132077/d92a4572c7cbed52f44b6b137acd715e12ec27babe6eec384d7a7cd4d164b2f3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/25737d13d62a409babf3288abe89cd7a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d92a4572c7cbed52f44b6b137acd715e12ec27babe6eec384d7a7cd4d164b2f3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0b2bbaae5996278d2e8e40eec45f0aecf3f126d7242e8fe3c51257f9a698168.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132077/2012dcc0fd8fbcd838172716cb09edc74197fc87a6e6510f223d9f575162b15f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132077/8078b3014e3db1bbb5bbdea68ef735d444dd5ea77a51c66cffba63adce9da739.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132077/4d459b00133d8b68149d28a792a763163afb6b61bea2e031a13bb13ad5b2a7bc.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2012dcc0fd8fbcd838172716cb09edc74197fc87a6e6510f223d9f575162b15f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8078b3014e3db1bbb5bbdea68ef735d444dd5ea77a51c66cffba63adce9da739.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d459b00133d8b68149d28a792a763163afb6b61bea2e031a13bb13ad5b2a7bc.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Party",
+		"Arcade"
+	],
+	"intro": "Can you spot the shift?",
+	"description": "Ready to slow down and compare every detail?\n\nEnjoy a laid-back spot-the-difference game set in ukiyo-e scenes of post towns and famous views along the road from Edo to Kyoto.\n\nLook closely at two similar prints and search for the one place that has changed. A person\u2019s pose, an item, a building, or a bit of scenery might be the clue.\n\nHow to play is simple!\n\u30fbCompare the two ukiyo-e pictures\n\u30fbLook for the changed spot\n\u30fbSelect the area you think is different\n\nTake in the beautiful landscapes and travelers while putting your focus and observation skills to work. It is great for a quick break or for taking your time with each picture.\n\nRecommended for players who:\n\u30fbLike spot-the-difference and visual puzzles\n\u30fbAre curious about ukiyo-e and Japanese scenery\n\u30fbWant a calm brain-training game\n\u30fbEnjoy talking through the answer with family or friends\n\nLook into every corner of the artwork and find the hidden change!\n\nButton controls and touch controls are both supported.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "270 MiB"

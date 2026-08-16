@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116240/a12e7a9af8513f3cea647b5331e2f003e34ec4ebff3f2fc6647f5d95563aa2db.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3111897200c343928ac0a3cdc43f9d6e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a12e7a9af8513f3cea647b5331e2f003e34ec4ebff3f2fc6647f5d95563aa2db.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdff39864452fe1a526d7d9f4a84467dd8a349b9526063c90e2b9612ff7e04d2.jpg",
 	"publisher": "GameStudio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/f23b9d3ad600fc4515589ee0678dbbe9a349f7c86b903294ebf41e09b8d726f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/8eaa96a7aca05eb904e7206683afa1cc7f76caf6b63d21dc1c392fe8c8e65519.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/651fa8163076f7540d3090831a9186f152c497fe6b433053b134ba2f723aa088.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/48736958da897d72c469d1e4a964bd804f414140b18fe93d4b01110e6d09fff0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/faf164b45651e1fd99494287c89b5502d7f83d68148f1b5be8a0c800f37fbe96.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116240/4c7b515fb9f07f13f18fceaa1b2da37f1d1223ee7c70150e70789394cce9fca0.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f23b9d3ad600fc4515589ee0678dbbe9a349f7c86b903294ebf41e09b8d726f0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8eaa96a7aca05eb904e7206683afa1cc7f76caf6b63d21dc1c392fe8c8e65519.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/651fa8163076f7540d3090831a9186f152c497fe6b433053b134ba2f723aa088.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48736958da897d72c469d1e4a964bd804f414140b18fe93d4b01110e6d09fff0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/faf164b45651e1fd99494287c89b5502d7f83d68148f1b5be8a0c800f37fbe96.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4c7b515fb9f07f13f18fceaa1b2da37f1d1223ee7c70150e70789394cce9fca0.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Action",
+		"RPG"
+	],
+	"intro": "[A Double Dose of Blue Terror in an Abandoned, Rain-Slicked School]\nThe latest installment in the legendary horror franchise, A",
+	"description": "Uncover the mystery while fleeing for your life! A pulse-pounding puzzle-horror action-adventure!\nThis time, the stage is set in a school, featuring two massive, star-studded scenarios!\n\n\u25a0 Aooni 2\nYears ago, a school was abruptly shuttered, left to rot.\nLooking for a thrill, Hiroshi, Takuro, Takeshi, and Mika break in for a test of courage\u2014\nonly to blackout and wake up trapped inside a makeshift prison cell...\nTo their surprise, they are joined by their teacher, who had spotted them sneaking in and followed them inside...\n\nWill they find a way to escape this desolate school alive?!\n\n\u25cf The classic Speed Mode returns with a maddening new option: \"17x Speed\"!\nCustomize your challenge by choosing any multiplier from 2x all the way up to 17x!\nPush your reflexes to the absolute limit!\n\n\n\u25a0 Brand-New Scenario: Aooni -Seaside School-\nHiroshi and the gang head to the coast for their summer seaside school trip.\nDriven by the classic summer urge for adventure after hearing rumors of a monster lurking in an abandoned school near their lodge, they decide to sneak inside the school after dark...\n\nMysterious silhouettes, school chimes echoing through empty hallways...\nAnd a terrifying horde of never-before-seen, mutated monsters...\n\nWhat is the dark truth behind the incident that once shook this school?\nSeparated from the group, Hiroshi begins his desperate search to find his friends.\n\n\u25cf Chart your own path to survival!\nConquer four distinct stages in any order you choose!\nThe difficulty scales depending on the path you take.\n Find your optimal route and turn the odds in your favor!\n\n\u25cf A diverse lineup of unique Aooni awaits!!\nEncounter a multitude of brand-new Aooni species!\nCould some of these monstrosities even take the form of twisted sea creatures...?!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
-	"size": "348 MiB"
+	"size": "421 MiB"
 }

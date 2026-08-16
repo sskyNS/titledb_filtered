@@ -17,22 +17,22 @@
 		"Platformer"
 	],
 	"intro": "Kalanoro is an action-adventure mixing platforming, combat and light management!",
-	"description": "WELCOME TO LEMURIA\nA world inspired by Madagascar\u2019s folklore. Once a paradise, it now\u00a0suffers\u00a0under the witch\u00a0Raneny\u2019s\u00a0ruthless rule.\u00a0Having grown tired\u00a0of exploiting its\u00a0people, she decided to host a\u00a0huge\u00a0concert with the island\u2019s most famous band.\u00a0You\u2019re\u00a0sent\u00a0on a mission\u00a0to fight back by\u00a0rallying legendary\u00a0musicians\u00a0to\u00a0your\u00a0cause!\n\nTHE (BOGUS) PROPHECY CHOSE YOU\nDash through diverse biomes across Lemuria, save and befriend funky locals to form your crew, and jump over industrial platforming traps to become Lemuria\u2019s number one band and finally face Raneny!\n\nDANCING THROUGH JOYFUL CHAOS\nDefeat Raneny\u2019s minions in fast-paced combat, using hair-based powers and improvised weapons (slippers included) to fight epic and groovy boss battles and free the island!\n\nHOP ON A FUN MUSICAL ROADTRIP \nAssemble a band with eccentric lemur artists, manage your tour bus through mini-games, and build your band\u2019s popularity among locals to perform on bigger stages.",
+	"description": "WELCOME TO LEMURIA\nA world inspired by Madagascar\u2019s folklore. Once a paradise, it now suffers\u00a0under the witch\u00a0Raneny\u2019s\u00a0ruthless rule.\u00a0Having grown tired\u00a0of exploiting its\u00a0people, she decided to host a\u00a0huge\u00a0concert with the island\u2019s most famous band.\u00a0You\u2019re\u00a0sent\u00a0on a mission\u00a0to fight back by\u00a0rallying legendary\u00a0musicians\u00a0to\u00a0your\u00a0cause!\u00a0\n\nTHE (BOGUS) PROPHECY CHOSE YOU\nDash through diverse biomes across Lemuria, save and befriend funky locals to form your crew, and jump over industrial platforming traps to become Lemuria\u2019s number one band and finally face Raneny!\n\nDANCING THROUGH JOYFUL CHAOS\nDefeat Raneny\u2019s minions in fast-paced combat, using hair-based powers and improvised weapons (slippers included) to fight epic and groovy boss battles and free the island! \n\nHOP ON A FUN MUSICAL ROADTRIP \nAssemble a band with eccentric lemur artists, manage your tour bus through mini-games, and build your band\u2019s popularity among locals to perform on bigger stages.",
 	"languages": [
-		"ja",
 		"en",
 		"pt",
 		"es",
 		"fr",
 		"de",
 		"ru",
-		"ko",
 		"zh",
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "3.19 GiB"
 }

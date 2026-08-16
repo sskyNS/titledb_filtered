@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113596/4e8101233b8c507cc7607e7f96de1a7fb86c18991c9670a0026f67c5c9c916dd.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/86f1e73493bb4e5a89a4f8467eb0ba82_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e8101233b8c507cc7607e7f96de1a7fb86c18991c9670a0026f67c5c9c916dd.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bbbbdb374f91ae6c4880cc209c4a38a6e0068527db7a593eb1ca99dcada31818.jpg",
 	"publisher": "Colorful Palette",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/f05cdb0de230ad1337a208890cd6e8c41a39bdc4ebe5b0e49719280cc1695f14.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/15de12607e28fb62227e958d96063c5fbc041a4e93546bb234d680cc1f92d101.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/6283876ca5008236965266595c6d12d174eabc3ba5fd22cab841b77cd5ce8696.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/c0b6b21d51737396d2e36036d11e9430ca4a889a6bb982fd40a288e52f014197.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/b067be859ddac35961649a568b70e0a8ad5a2c8f32cf0b844c2139fc3a8b498b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113596/392eb50c7eadde65525cbb5da39c1d47f0a3bf45806fa1e7521035332d3c7fcb.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f05cdb0de230ad1337a208890cd6e8c41a39bdc4ebe5b0e49719280cc1695f14.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/15de12607e28fb62227e958d96063c5fbc041a4e93546bb234d680cc1f92d101.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6283876ca5008236965266595c6d12d174eabc3ba5fd22cab841b77cd5ce8696.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c0b6b21d51737396d2e36036d11e9430ca4a889a6bb982fd40a288e52f014197.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b067be859ddac35961649a568b70e0a8ad5a2c8f32cf0b844c2139fc3a8b498b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/392eb50c7eadde65525cbb5da39c1d47f0a3bf45806fa1e7521035332d3c7fcb.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"RPG",
+		"Strategy"
+	],
+	"intro": "Multi-ending daughter-raising simulation game",
+	"description": "Multi-ending daughter-raising simulation game: Volcano Princess\n\nIn a volcanic kingdom where smithing, magic, and alchemy flourish,\nyou play as a father and guide your daughter as she grows up.\n\nEach and every choice you make will influence your daughter's growth and lead the story to different endings.\n\nFeaturing over 50 unique endings, the game offers a wide variety of outcomes based on your future career path and the bonds you forge with the people who matter most.\n\nWith its multiplatform release, this version also includes full Japanese voice support, newly written story content, new event illustrations, and a brand-new exploration map.\n\n[Notes]\n\"Volcano Princess Prologue\" is a demo version.\nData played in \"Volcano Princess Prologue\" cannot be carried over to the full release. Thank you for your understanding.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Violence",
+		"Use of Alcohol"
+	],
 	"dlcs": [],
-	"size": "3.69 GiB"
+	"size": "2.77 GiB"
 }

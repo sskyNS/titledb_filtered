@@ -1,22 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113438/73753f253fdafce92a733b597a769ef1c14ac96a8886a886f03cb052ffc322d3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113438/7a824f695e0a66bf7662ab137f08c2582afe15107eed4d09c49ef34ffa998c53",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73753f253fdafce92a733b597a769ef1c14ac96a8886a886f03cb052ffc322d3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/fc9e327c796a0b3a4bc94a801ec3a365402eaf4ea622f64d032eb4b230fa6d31.jpg",
 	"publisher": "Plug In Digital",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113438/c825583e4e86002f3443b7757e47aa0a3c80a8749ae5541a19424a04994f3085.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113438/36f4b3b506d1c9d7404092d850dd14717e1798f7b143cdac516ed989f6924218.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113438/94c19f223b8b2673f33b7737e03195c3c5b6325942920bf9cabcd4ea3879f077.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113438/ab9230aedc07fdcd30f4a4ee391130551ae71e17d3f04c0f4d0a2a0c27f0fb6f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113438/455f86b450581952735446c723ad537cabdfd0d549240c83db335f3b32e623f7.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/c825583e4e86002f3443b7757e47aa0a3c80a8749ae5541a19424a04994f3085.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/36f4b3b506d1c9d7404092d850dd14717e1798f7b143cdac516ed989f6924218.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/94c19f223b8b2673f33b7737e03195c3c5b6325942920bf9cabcd4ea3879f077.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ab9230aedc07fdcd30f4a4ee391130551ae71e17d3f04c0f4d0a2a0c27f0fb6f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/455f86b450581952735446c723ad537cabdfd0d549240c83db335f3b32e623f7.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "A brutal retro roguelite adventure: explore cursed realms, defeat monstrous bosses, and rise again after every death.",
+	"description": "Welcome, Brave Hero, to a World Lost in Time.\n\nEmbark on a roguelite adventure that pays tribute to the golden era of gaming.\nFor generations, your family has fought relentlessly to end the reign of the Tyrant, an ancient being who seeks absolute power and knowledge. The journey will push you to your limits, as each run through the ever-changing realms brings new challenges and opportunities.\n\nThe world is a brutal, decaying shadow of what it once was, with fallen cities and lost empires turned into treacherous landscapes.\n\nGear is Your Lifeline. \nAs in true roguelite fashion, survival hinges on what you find. Unlock new weapons and armor and find hidden Skull Altars to upgrade your power., and arm yourself for the endless journey ahead. Without these, you are nothing.\n\nRoguelite Progression, Soulslike Combat. \nEach run is unique. Engaging combat mechanic \u2014requiring timing, skill, and a bit of luck\u2014determine your fate. Fight, die, learn, and rise again as the challenge intensifies with every attempt.\n\nEver-Evolving Worlds and Relentless Foes. \nEvery biome and encounter is procedurally generated, with enemies and bosses ready to strike you down at every turn. No two runs are the same.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"pt",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "896 MiB"
 }

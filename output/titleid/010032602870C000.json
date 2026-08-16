@@ -1,21 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126503/5cc1272da5edfef5b244d2d7fea1e01bacf71da3d4c4e283a01c41c97f52da6f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126503/2152473f23116ee15d4def2bcc7d12e46f315a2f148d4b9f6a55d5fd9df68db7",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cc1272da5edfef5b244d2d7fea1e01bacf71da3d4c4e283a01c41c97f52da6f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6386ea375ecd9ed689155ae1bd47f39735adc6a8c5f84857201d88f6ce0e1e52.jpg",
 	"publisher": "HUNTERS",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126503/300564042bebf2eaa564e41b069bbc6df241ed58ed4d638d433d696f0831b947.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126503/585cfd4d60392805cfaf990792b7cdc5342f0d0327c3096456920cbeaa533711.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126503/8d9b51a64c00d430e78e4e2150a13bfc414fc4fa2ae8f619eda912e30b2c5bd7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126503/60530cdcc891b755b65f983e11caf23bfb3fc47f9fa00b2f15bb9e3b33e55edc.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/300564042bebf2eaa564e41b069bbc6df241ed58ed4d638d433d696f0831b947.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/585cfd4d60392805cfaf990792b7cdc5342f0d0327c3096456920cbeaa533711.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8d9b51a64c00d430e78e4e2150a13bfc414fc4fa2ae8f619eda912e30b2c5bd7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/60530cdcc891b755b65f983e11caf23bfb3fc47f9fa00b2f15bb9e3b33e55edc.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Arcade"
+	],
+	"intro": "Skateboard & Graffiti Action Game!",
+	"description": "Ink Splash is a 2D action game.\nRide your skateboard and cover the ground with ink while creating graffiti on walls.\nIn Time Battle mode, the player with the higher score wins.\nAs you progress through stages, new tricks will be unlocked. Use a variety of moves to win graffiti battles.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "83 MiB"
 }

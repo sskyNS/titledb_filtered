@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123424/c06d73a00fbd363487d04971e333187f29e1d0c217e560c54db337b2c94198c2.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123424/f1a52862ae54164ce70f140b3f7828855ed021a75ed12d3c38c95cb5ede285a8",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c06d73a00fbd363487d04971e333187f29e1d0c217e560c54db337b2c94198c2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/2893dc5979ce4683f3a27685d973750ee20af13b6ddf6d7ba4f830fa4cb375a3.jpg",
 	"publisher": "SUCCESS GAMES",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/84c7d2c73bc1d196a425c1d331245b3f3d9d4c0f7f56555a3231dd15b8d58ae5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/8b92b6d85703fc3154d9563b3713f6f79cb780887760de3af94d506dc31d682f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/fc79dd471121abfe1a30d3ab16d7d909ba8e18b35e33c9c3e4b99501a1b384cd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/37b82f51f726eab627ec116b53644c0220d96b77ca07d687824177db5a143ad2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/57cdf66a135e886e332e484a1a9de46f6d847db9130096994990dfc99c4afa8e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123424/3d5a8d7c4dff410679e80eb138d77005c3688dbfea03786be400fa9d3cecffe7.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/84c7d2c73bc1d196a425c1d331245b3f3d9d4c0f7f56555a3231dd15b8d58ae5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8b92b6d85703fc3154d9563b3713f6f79cb780887760de3af94d506dc31d682f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fc79dd471121abfe1a30d3ab16d7d909ba8e18b35e33c9c3e4b99501a1b384cd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/37b82f51f726eab627ec116b53644c0220d96b77ca07d687824177db5a143ad2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/57cdf66a135e886e332e484a1a9de46f6d847db9130096994990dfc99c4afa8e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3d5a8d7c4dff410679e80eb138d77005c3688dbfea03786be400fa9d3cecffe7.jpg"
 	],
 	"releaseDate": 20260801,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Puzzle",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Explore the legendary Titanic as history unfolds around you. \n",
+	"description": "April, 1912. A calm night in the Atlantic. Laughter echoes through grand halls, chandeliers glow warmly, and the world\u2019s most luxurious ocean liner glides confidently through the water. Then \u2014 impact.\nThe legendary RMS Titanic has struck an iceberg. A tremor shakes the decks, metal groans, and whispers of panic spread. Within minutes, the truth is undeniable \u2014 the ship is sinking, and there aren\u2019t enough lifeboats for everyone. You are just a passenger caught in the chaos.\nAs the decks flood and the ship tilts into the icy Atlantic, every decision matters. Explore the cabins, stairways, and hallways before they vanish under water. Every second counts \u2014 will you save yourself, or risk precious time helping others?\n\nKey Features:\n\u2022 Race Against Time \u2013 Reach lifeboats before areas are flooded.\n\u2022 Resource Survival \u2013 Gather food and light sources to stay alive.\n\u2022 Hypothermia & Stamina \u2013 Cold water and exhaustion are real threats.\n\u2022 Moral Choices \u2013 Decide between self-preservation or helping others.\n\u2022 Immersive Atmosphere \u2013 Experience a realistic recreation of Titanic\u2019s interiors, rising water, and the tension of a historic disaster.\n\nThe lifeboats are few.\nThe ocean is merciless.\nEvery choice, every second, can mean the difference between survival\u2026 and tragedy.\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "1.56 GiB"
 }

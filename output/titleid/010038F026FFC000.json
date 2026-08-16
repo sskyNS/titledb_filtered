@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117406/267bc4bce9a7aa0cd138d61a4a1d91e7aa11c015d229b60f76d8c4f70acda731.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/49157f4bd3254a858a7f630190621c1f_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/267bc4bce9a7aa0cd138d61a4a1d91e7aa11c015d229b60f76d8c4f70acda731.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/98e96ae927f470d0226bd40d40b218d8934f07c08fe92209d6acd51811c47e15.jpg",
 	"publisher": "Hoshimadara Lab.",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/f69defc4d41b86260d417e732b7e7391efc243bf9d156cb95f8aa3ac8bbecc56.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/c166afa32d634c83ec57b88b98cacaa3d19a3acf33cfb5240e4cc31f4a2f140b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/05e08083dab615211b3773d78497ee33276b0d0cbe84eff60b549931516fb952.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/c333d3be28a5317df2368248286801b76c396b68502b401ad4636128137b97f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/b06b2bf7a4f71562af7fbcb5822f810b8b6de7ae07436e281ce924180c267a6e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117406/f8210b70e78520cc619c0a6082234b1a873705493a44687c708ef8bb8d06ef66.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f69defc4d41b86260d417e732b7e7391efc243bf9d156cb95f8aa3ac8bbecc56.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c166afa32d634c83ec57b88b98cacaa3d19a3acf33cfb5240e4cc31f4a2f140b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/05e08083dab615211b3773d78497ee33276b0d0cbe84eff60b549931516fb952.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c333d3be28a5317df2368248286801b76c396b68502b401ad4636128137b97f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b06b2bf7a4f71562af7fbcb5822f810b8b6de7ae07436e281ce924180c267a6e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f8210b70e78520cc619c0a6082234b1a873705493a44687c708ef8bb8d06ef66.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Music"
+	],
+	"intro": "Feel the rhythm, enter commands, unleash your skills!\nCento, a turn-based rhythm battle for two.\nBuild your deck and clash across countless songs!",
+	"description": "\u25a0Unique battle system\nEnter commands in rhythm and activate skills. Play a clever beat according to the combination of cards in your hand and your opponent's attacks. \n\n\u25a0Variety of stages\nFight on stages with different BGMs, from the city to ruins. The playing experience changes depending on the tempo and beat of the music.\n\n\u25a0Customize your deck\nCreate your own deck by freely combining skills and gifts received from existing characters. Let's find the strongest combination.\n\n\u25a0Endurance mode\nAim for consecutive battles while reinforcing your skills and obtaining gifts. Unleash a powerful attack with new skills.",
+	"languages": [
+		"ja",
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Tobacco Reference"
+	],
 	"dlcs": [],
-	"size": "618 MiB"
+	"size": "1.63 GiB"
 }

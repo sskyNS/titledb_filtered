@@ -1,21 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130294/6a842aa94bb847cea3ba45ce439f9e8412e42b912bfc9fb13467a7c1136875b7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/64118c7a566b404aa02a079e83a24f51_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a842aa94bb847cea3ba45ce439f9e8412e42b912bfc9fb13467a7c1136875b7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/447187445a9549b11f22678b5efad5a46bbcd4b22639703d9b4fc22e89524d18.jpg",
 	"publisher": "FULLSET",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130294/03550c13ab0cf7354ceb54f2cf897d1340792ae3ddb1fdcbf79d42bbe012a595.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130294/72bc6a2fd4e19ba7bf1b441e286f9b0e5db608f803e9a4e5ebed5dbc856e832c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130294/5c3117fb7d11565bd3cb9e05008fa700ef0a13815a2f963a6d6f72e80339f836.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130294/858f5b88031b6d423580634ac3ba113e7dbfb004c4ef9c237d69dd7776c939bd.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/03550c13ab0cf7354ceb54f2cf897d1340792ae3ddb1fdcbf79d42bbe012a595.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/72bc6a2fd4e19ba7bf1b441e286f9b0e5db608f803e9a4e5ebed5dbc856e832c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5c3117fb7d11565bd3cb9e05008fa700ef0a13815a2f963a6d6f72e80339f836.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/858f5b88031b6d423580634ac3ba113e7dbfb004c4ef9c237d69dd7776c939bd.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Shooter",
+		"Multiplayer"
+	],
+	"intro": "Intense 16-bit arcade shoot 'em up action",
+	"description": "In the desolate future of 2042, Earth teeters on the brink of ecological collapse due to relentless climate change. The only hope lies with a visionary who abandoned Earth to start anew on Mars, disgusted by humanity\u2019s negativity and the financial betrayal of his ventures.\n\n\u201cProject Neon\u201d is your top-secret mission to navigate the treacherous cosmos and bring this recluse back from his Martian stronghold, without harming him, to salvage our dying planet. He has fortified Mars with an impenetrable shield, anchored by defenses on four neighboring planets.\n\nEach planet is guarded by fierce enemies and daunting bosses, integral to maintaining the shield. Your task: dismantle this interplanetary defense, planet by planet, in a high-stakes shoot \u2019em up adventure.\n\nFeaturing intense 16-bit action that harks back to the glory days of Japanese arcade shooters, \u201cProject Neon\u201d promises a thrilling challenge.\n\nAre you ready to face the ultimate shmup challenge and save Earth?",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 2,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "125 MiB"
 }

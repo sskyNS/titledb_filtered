@@ -1,19 +1,25 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131590/b4b345b2b20f516b979f1aaa0f7d01296abc7e7892d87f1b252f03fa3251bcf8.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/a3cc294e8153452c8bfefbc8ac4cd420_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4b345b2b20f516b979f1aaa0f7d01296abc7e7892d87f1b252f03fa3251bcf8.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/0bb42fce2c1871b0063a76ecf030a0166051e3377d81fea4425823f2d32425cc.jpg",
 	"publisher": "Soroka Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131590/da9395a559907c746d1eb6ffdebdb19cba57c9e490f036fbb4b98772b579e04c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131590/3485baea5bae56605eb6a3481a5f118132d0d92ec5d1a07922cca6df1083bdc7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131590/3b3b060de8c1c692fd802ccb4ddd89cf7dc06ae1750297072d02b937bfc0073e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/da9395a559907c746d1eb6ffdebdb19cba57c9e490f036fbb4b98772b579e04c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3485baea5bae56605eb6a3481a5f118132d0d92ec5d1a07922cca6df1083bdc7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b3b060de8c1c692fd802ccb4ddd89cf7dc06ae1750297072d02b937bfc0073e.jpg"
 	],
 	"releaseDate": 20260808,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Shooter",
+		"Puzzle"
+	],
+	"intro": "One shot. Endless bubble fun!",
+	"description": "Ready to pop some bubbles? Match colors, trigger exciting combos, and clear challenging puzzles one shot at a time.\n\nEnjoy intuitive controls, satisfying gameplay, and hundreds of relaxing moments as each level brings new challenges and colorful fun.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "120 MiB"

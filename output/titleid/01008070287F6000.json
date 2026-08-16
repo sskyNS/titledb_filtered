@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126802/3b2ad2dd1925d6c8c495c36307167150786ecf5769407575a35f66e90b87588d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126802/cd053093ca173655b7e6f4b3e374028c3886a7fa81490dedb6124b392966732e",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b2ad2dd1925d6c8c495c36307167150786ecf5769407575a35f66e90b87588d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc2e9b61cb1efceab0ca7ab0713c1a5799c308b4564392b1ef4f1b19aba36e61.jpg",
 	"publisher": "Ogre Pixel",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/5ff1213a825bb5d7b158735ef0abfe216b67b300ea9866acb344e7efe2669765.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/fb7b0d70d51cbca708c5a055a9953511d1f860dd2e0b3a47c28dd4a381859912.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/9dfbf8e83f1bd8bac012ec8723cd382cb0f981bd49bbe9fd8861d219e7794248.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/cc692b39be96d8e7808b327a3fabae0129ed9f815887d4232265c14e914f11c2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/0547975efc143481780448da492a5cfec0b29fe1a1e37bf9db24340f3222adb0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126802/d62f93657ff76985f8116ba10b34801335806fe5421eed8088a2029cd61e54b2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5ff1213a825bb5d7b158735ef0abfe216b67b300ea9866acb344e7efe2669765.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fb7b0d70d51cbca708c5a055a9953511d1f860dd2e0b3a47c28dd4a381859912.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9dfbf8e83f1bd8bac012ec8723cd382cb0f981bd49bbe9fd8861d219e7794248.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cc692b39be96d8e7808b327a3fabae0129ed9f815887d4232265c14e914f11c2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0547975efc143481780448da492a5cfec0b29fe1a1e37bf9db24340f3222adb0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d62f93657ff76985f8116ba10b34801335806fe5421eed8088a2029cd61e54b2.jpg"
 	],
 	"releaseDate": 20260821,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Kero Kero Cowboy is a cartoony western themed retro style platformer!",
+	"description": "Explore the frontier as Kero Kero, a cowboy frog on a quest to bring peace and justice to the Wild West. Use your extendable tongue, trusty six-shooter, and wits to conquer the wildest outlaws of the west. Yeehaw!\n\nFace dastardly foes, perilous platforming challenges, and intense shootouts across deserts, mines, mountains, trains, forests, and beyond!\n\nKero Kero features an array of techniques and abilities to help him on his quest. He can eat enemies, spit them back out, or even brandish a giant revolver to dispatch far-off foes! But be aware, a 6-shooter only has room for 6 bullets, so use them wisely! He can also swim with ease, ride in a giant cowboy boot to stomp enemies, ride rails in a mine cart, and spit hot fire after eating a spicy jalape\u00f1o pepper. How to best utilize his abilities in each scenario is up to you, the player!\n\nFeatures:\n\n- 25 levels of rootin' tootin' retro platforming action!\n- 5 intense & challenging boss fights!\n- Special collectibles that unlock extra-challenging bonus levels!\n- In-game music player to jam out to the Kero Kero Cowboy original soundtrack!\n- Diverse environments to explore, including deserts, mines, trains, forests, mountains, and more!",
+	"languages": [
+		"en",
+		"es"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "897 MiB"
 }

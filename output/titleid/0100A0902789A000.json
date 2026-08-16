@@ -1,23 +1,43 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121144/cca7d4da9dc738e69d7d2cfa435474006e3ed31d5d5c189f40de0630d223de43.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000121144/55f1377506b5710b693d1dd5d00d520db47afcd4b8e8fbbc04d9788e05851dc1",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cca7d4da9dc738e69d7d2cfa435474006e3ed31d5d5c189f40de0630d223de43.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/52291f5e2350c8cee27e6a106862402046223199d057f7b02101e8878dff91f7.jpg",
 	"publisher": "THQ Nordic",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/4c7d085fc4658098f2c6dcd77a692a9f72b075414e1b0859f30c8e937c54b9b7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/43c693170888fed6a9fda5b87c61ebeec5ae7c9cfeba61ddff7dc34664e77cc8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/cb67b276f3bf4b301557653f22bc6c59ce6e780f297b7e03fcd5e343649cc9c8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000121144/9c4511d080a9087c72a71ff3d146d3fd9492d24a1c570cf74d68a0b5874617b5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/479c806d16ce3f87d1b7685746008251d4cbdb08a1e8eee6d0cf563eead5b60d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0c40bb5b578d913889cb2bd134dad77a340541ef2b1cc78c996e9c828885328d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4c7d085fc4658098f2c6dcd77a692a9f72b075414e1b0859f30c8e937c54b9b7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/43c693170888fed6a9fda5b87c61ebeec5ae7c9cfeba61ddff7dc34664e77cc8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cb67b276f3bf4b301557653f22bc6c59ce6e780f297b7e03fcd5e343649cc9c8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c4511d080a9087c72a71ff3d146d3fd9492d24a1c570cf74d68a0b5874617b5.jpg"
 	],
 	"releaseDate": 20261013,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action"
+	],
+	"intro": "Save Bikini Bottom in this brand-new ghostly adventure!",
+	"description": "How do you stop the two biggest egos of the Seven Seas from fighting? A clash between the Flying Dutchman and King Neptune has unleashed ghostly mayhem all over Bikini Bottom. SpongeBob and Patrick will need all their skills, bravery and - dare I say - wit, to return life to what passes for normal in their undersea home. Join Bikini Bottom's most notorious duo on their ghostliest adventure yet!\n\nSwitch seamlessly between SpongeBob and Patrick\nCombine SpongeBob and Patrick's unique platforming skills\nMaster Patrick's brand-new skills like grappling and burrowing\nExperience a new ghostly story\nFully voiced by the original cast of the show\nVisit iconic locations like Neptune's Palace and Mount Bikini\nBattle epic bosses like the Flying Dutchman, King Neptune and Hibernation Sandy",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Comic Mischief",
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "3.51 GiB"
 }

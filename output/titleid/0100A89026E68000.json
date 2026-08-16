@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116768/09b6fde98e3f62e1527dcdc6f56a28d3f410c5b6fac0072a2f6f32cf6bc27ee0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/10c1f661c890454aa246d37db12f1455_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09b6fde98e3f62e1527dcdc6f56a28d3f410c5b6fac0072a2f6f32cf6bc27ee0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/50e5a768543bde120f8a18ce364bff3f62eef3ff1046db56f0392a9deef3ab49.jpg",
 	"publisher": "Analgesic Productions",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116768/678ee330e04299235eb81a5fb0d24306eaf9e200d2694dcd9c10e73a8b86e886.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116768/3d0bf5e6d937b525e82a839cd101b8a17ccac42c90c2c43674850260349303b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116768/5c0abb9db9fece475a0e0f84745579d042ebd938e4e68f6972353ee458bac89a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116768/65f6dbf831d79cff6fd7f24a2260e1421e46e7e171a0378dc29df9521fbb6bd9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116768/1abfcabfe3bacbec6d2a2a6a829c8080166a9eb265d52ae774d3e0b4e0cfab26.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/678ee330e04299235eb81a5fb0d24306eaf9e200d2694dcd9c10e73a8b86e886.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3d0bf5e6d937b525e82a839cd101b8a17ccac42c90c2c43674850260349303b5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5c0abb9db9fece475a0e0f84745579d042ebd938e4e68f6972353ee458bac89a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/65f6dbf831d79cff6fd7f24a2260e1421e46e7e171a0378dc29df9521fbb6bd9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1abfcabfe3bacbec6d2a2a6a829c8080166a9eb265d52ae774d3e0b4e0cfab26.jpg"
 	],
 	"releaseDate": 20260902,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure"
+	],
+	"intro": "Explore a secret-filled land in this 3D Action-Adventure, where every surprising level is hidden in plain sight! Travel and fight through a vast, unmarked overworld!",
+	"description": "The Angel's mothership, Throne, lays dormant behind a fierce storm. To reach it, unlock its secrets, and usher in the future, you must explore the land of Era and survive its trap-filled ruins, primordial forests, treacherous mountains, mines, towns, and more! \n\nFollow wandering ex-soldier, Tets Kinoshta, as he overcomes intense battles and hilarious hazards in this tale of betrayal, haunting lore, and fruitless yearning.\n\nFeatures\n\n\"Bump the World!\" with intuitive Bumpslash Combat. Walk into enemies to attack - no button needed! Fast-paced action levels AND exploration-and-lore focused levels will test your skills.\n\nA vast world map you can search to find levels and zones. Follow your instincts to chart a flexible path. Go at your own pace \u2014 follow your spirit!\n\nFierce and uniquely designed bosses and enemies that will test your Bumpslash skills. Face vicious and hilarious tricks guarding the Fae's ancient secrets! \n\nPlenty of levels, each offering glimpses into the Fae, Angels and Humans living together in the country of Era.\n\nHaunting lore, woven from Irish mythology, early Christian philosophy, and Japanese American history.\n\nMix up combat with subweapons and a gun, and visit towns to shop for items. Beat levels to get Scales and level up!\n\nOn average, a first playthrough takes 15-30 hours, depending on how much of the world you want to explore and how fast you play. \n\nLow-difficulty setting for Beginner Bumpslashers, and nightmarish settings for the deranged!\n\nBy Melos Han-Tani and Marina Kittaka.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"de",
+		"ru",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Suggestive Themes",
+		"Use of Drugs",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "601 MiB"
 }

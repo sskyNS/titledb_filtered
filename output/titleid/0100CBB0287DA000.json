@@ -1,22 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130703/81d7e91e38cc5543b912c212c815bde4afd10d2565f5309b4762aac03dee5e2e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/42d3313cfda24758921d46feb2eb544a_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/81d7e91e38cc5543b912c212c815bde4afd10d2565f5309b4762aac03dee5e2e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/38617ab752dc6784f90ad6a7c8ca5d0f8377a0a86fea362a657f6e3818f7d385.jpg",
 	"publisher": "Three River Games (3RG)",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/928f99990519790db7d2554d4f9d23e230cbfefe3cba46baeec9bcf3f613ffea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/84986df2fe0c13610634668c66e860043ef95ca799a30512590b9880f16346a6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/c92cdb691b2dc3d64388949430e585afc240e4ba5aaf2ee431bba60271b1c27f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/47c177103af8b4d23c83ac72457724b1dc61117f64613b60b1da2f12e194bc26.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/4d581d17c31b37f18d04fea3ab4cf0f85185b1cd29325bd336ab0211b68918c9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130703/7101dc3f3dd02c56d52877e62191f545839205abf75d1b4f6c3beb45e7e0c514.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/928f99990519790db7d2554d4f9d23e230cbfefe3cba46baeec9bcf3f613ffea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/84986df2fe0c13610634668c66e860043ef95ca799a30512590b9880f16346a6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c92cdb691b2dc3d64388949430e585afc240e4ba5aaf2ee431bba60271b1c27f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/47c177103af8b4d23c83ac72457724b1dc61117f64613b60b1da2f12e194bc26.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4d581d17c31b37f18d04fea3ab4cf0f85185b1cd29325bd336ab0211b68918c9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7101dc3f3dd02c56d52877e62191f545839205abf75d1b4f6c3beb45e7e0c514.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Strategy",
+		"Puzzle"
+	],
+	"intro": "Build hotels, accommodate guests, and expand your hotel business worldwide!",
+	"description": "Hotel Empire - Check Inn is a charming management simulation in which you build your own hotel chain step by step. Start with a small, simple hotel and expand your empire into more and more cities \u2013 each with its own challenges.\n\nBUILD, EXPAND, AND OPTIMIZE\n- Build new hotels, buy building plots.\n- Plan rooms with increasingly complex shapes and place them as efficiently as possible.\n- Fulfill your guests' wishes: they want specific rooms and parking spaces.\n\nMANAGE STAFF & SERVICE\n- Hire enough maids, because every room must be cleaned after check-out.\n- Build elevators, upgrade them, and keep them in good condition so guests can quickly reach their floor.\n- Build service rooms such as kitchens, laundries, or saunas, and employ porters who transport food, laundry, and other items through the hotel.\n\nEVERY CITY BRINGS NEW CHALLENGES\n- Montreal: Cold, snowy weather \u2013 insulate rooms so guests don't freeze.\n- Miami: Luxury hotels right by the sea with especially demanding room layouts.\n- New York: Build several hotels at the same time and use managers who automate check-in.\n\nEASY TO LEARN - HARD TO MASTER\nHotel Empire - Check Inn combines accessible gameplay with a deep management focus. Optimize processes, keep guests happy, and expand your hotel chain into a global empire.\n",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "885 MiB"

@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113965/8e4ba5b644b3dafa8246d7208c6e66b8e98aa9d8f800e4b00a721f2b5cf67580.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113965/6472a4c62f80f523d480a380236ff390e6119e4ae51cb3d4c4d2dbeb889ca7de",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e4ba5b644b3dafa8246d7208c6e66b8e98aa9d8f800e4b00a721f2b5cf67580.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/807c88eacef84f272f7deefc5747a55abe44b20a368abecac3bb8f75b9780137.jpg",
 	"publisher": "Devolver Digital",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/605adb5a3fecac55dcebe8f772d2acc0d9a6fad18acc56e65d9b6dcda3db9998.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/1a84e5817299f6b22a7e005ae69b9bd93a36fa5ef775ba63a42d79d6d6490ecc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/812f1ff277b6e860ff0037cb5de4d6c84abc2beef9245945d7e54f0800f68ae1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/e4418e86dbd5fca898bba4539dab9de3b249aae4b8d0ea6eec31d49ff82d0af9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/2464a473744e7fd645287562668da1c8bc466497a37109cba69b1dd1de90f957.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113965/0b075ef7336ffd4ae5ebe561e9a22a3e06c0ae24c696ebca82d682fdfce91aee.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/605adb5a3fecac55dcebe8f772d2acc0d9a6fad18acc56e65d9b6dcda3db9998.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1a84e5817299f6b22a7e005ae69b9bd93a36fa5ef775ba63a42d79d6d6490ecc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/812f1ff277b6e860ff0037cb5de4d6c84abc2beef9245945d7e54f0800f68ae1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e4418e86dbd5fca898bba4539dab9de3b249aae4b8d0ea6eec31d49ff82d0af9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2464a473744e7fd645287562668da1c8bc466497a37109cba69b1dd1de90f957.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0b075ef7336ffd4ae5ebe561e9a22a3e06c0ae24c696ebca82d682fdfce91aee.jpg"
 	],
 	"releaseDate": 20260716,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Multiplayer",
+		"Party"
+	],
+	"intro": "Get a grip, it\u2019s Heave Ho 2! The insane 2-4 player party game sequel takes the couch co-op mayhem online for the first time. Grab what you can and swing to win!",
+	"description": "The bedlam is back, and now it\u2019s online too. Grab and swing through all-new weird and wonderful worlds with up to four players in online and local co-op and versus play.\n\nTake your partners by the hand (or head) and swing your ungainly chain from platform to pillar and beyond. Let go at the wrong moment and meet your splattery end, but a solid grip and pro swinging will take you over the finish line in sweet harmony!\n\nOnline Pandemonium\nAdding to the game\u2019s couch co-op roots, Heave Ho 2 takes the chaos online for the first time. Get a grip on faraway friends, then drop them into the void from a safe distance!\n\nWild Worlds\nLaunch yourself and your friends through eight themed worlds of fiendish fun, from weightless space and kitchen chaos, to medieval mayhem, ninja nonsense, and much more.\n\nPush, Pull, Shoot, Squeeze\nPop guns, drones, space ships, ski lifts, keys, and ketchup are just a few of the items you\u2019ll play with on your swinging travels. And lasers. Of course lasers.\n\nFight Among Friends\nTake revenge on your underperforming co-op teammates in versus mode through a series of frantic challenges, cunningly designed to start a completely different argument every time!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Crude Humor",
+		"Fantasy Violence",
+		"Mild Blood"
+	],
 	"dlcs": [],
-	"size": "2.44 GiB"
+	"size": "2.49 GiB"
 }

@@ -1,19 +1,25 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127453/6f4c29d1377c275ec08b08e13bfd22de485456b11375e925d1823353a4263574.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ed55b9c4cc874e6bb5808d09a6247c9e_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f4c29d1377c275ec08b08e13bfd22de485456b11375e925d1823353a4263574.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/75623a88274eb45cceaa2dc998e5e3c1ffa057e68ca71ff6e853bbdae63c45b8.jpg",
 	"publisher": "AGE",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127453/e1b1a9ef2842eedd4b742e77708212acaedd8a819881e827d01505652db8e638.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127453/81f54811f20bb84758f259a4e402de4a6d5b64764a1c5bf4bda0ff5ff88dcadd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127453/af4b131e5b6a69400c20eaeafff415db3252d914626d6fff1e350c6585aae74f.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/e1b1a9ef2842eedd4b742e77708212acaedd8a819881e827d01505652db8e638.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/81f54811f20bb84758f259a4e402de4a6d5b64764a1c5bf4bda0ff5ff88dcadd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/af4b131e5b6a69400c20eaeafff415db3252d914626d6fff1e350c6585aae74f.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Board Game"
+	],
+	"intro": "Clear Both Sides\u266a A New Reverse Puzzle Game Featuring Lots of Cute Girls!",
+	"description": "A new reverse puzzle game featuring adorable girls is here!\nThis time, traditional jigsaw puzzle gameplay is enhanced with rotation and flip-over mechanics!\nWhich side will you complete first? How will you orient each piece? Put your observation skills to the test in this unique puzzle experience!\nIncludes 15 stages in total!\nAs you progress, new mechanics and more puzzle pieces are introduced, increasing the challenge.\n\nStages 1\u20135: Rotation Puzzles\nStages 6\u201310: Double-Sided Puzzles\nStages 11\u201315: Double-Sided + Rotation Puzzles\nUp to 81 pieces \u00d7 2 sides in the most challenging stages!\n\nIn double-sided stages, you can complete either side first\u2014the front or the back. The choice is yours\u266a\nThe final stage offers an extreme challenge with no background watermark hints!\nTake your time, carefully examine each piece, and complete the puzzle!\nA gallery is unlocked as you progress, featuring both front-side and back-side illustrations.\nClear every stage and complete the entire gallery collection!\n=====================\nOur company supports content creators and streamers.\nYou do not need to obtain permission before uploading gameplay videos or live streaming this game.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "244 MiB"

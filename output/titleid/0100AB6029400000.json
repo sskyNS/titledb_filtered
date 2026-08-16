@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131876/6b0df2d6b907d123755a5cc11beacf87495c228167f6cded0eaf04fd7325ea3c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7fe2114f73f748f89bc462ff05edc838_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b0df2d6b907d123755a5cc11beacf87495c228167f6cded0eaf04fd7325ea3c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf3ddf4b232d5e73030349bdb13b0ff0d1cb8bc0eda16822b8040ead72e01494.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/d78b45896eca91555185f9ba84c28272e2c67aa344fb24e2b31400d700c6ddfc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/db7d508c10cf272ab10e9efcf645ff5502e736096ab58caf7c3e9919fceeab4d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/14a2cb062253b4b2624356a4d56be30f3348efae8a18ffe1320c807608f67d18.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/bf70f7836967177e9ffa627b0d9a1eb81709e46c32cff4147dd248493436cf48.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/a14f1c4583e33d8010a180b448780f783e5e1e8123857c2caff03c4cd730ad38.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131876/9f46d58c37ef6910ca7b22cc2cbab7e68fae72735093371eb76fecc68fe42a8d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d78b45896eca91555185f9ba84c28272e2c67aa344fb24e2b31400d700c6ddfc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/db7d508c10cf272ab10e9efcf645ff5502e736096ab58caf7c3e9919fceeab4d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/14a2cb062253b4b2624356a4d56be30f3348efae8a18ffe1320c807608f67d18.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf70f7836967177e9ffa627b0d9a1eb81709e46c32cff4147dd248493436cf48.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a14f1c4583e33d8010a180b448780f783e5e1e8123857c2caff03c4cd730ad38.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9f46d58c37ef6910ca7b22cc2cbab7e68fae72735093371eb76fecc68fe42a8d.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Other"
+	],
+	"intro": "Search a peaceful seaside village for every hidden gem.",
+	"description": "Welcome to Ironford, a cozy exploration game where adventure is all about discovery. Set in a quiet medieval fishing village along the coast, you'll wander through winding streets, wooden docks, market squares, forests, and hidden paths in search of every rare gem scattered throughout the world.\n\nFeatures:\n>Explore a handcrafted medieval seaside village.\n>Search for and collect every rare gem.\n>Wander through docks, markets, forests and village streets.\n>Enjoy a relaxing, stress-free exploration experience.\n>No combat, no timers, and no pressure\u2014just exploration and collecting.\n\nCan you uncover every rare gem hidden within Ironford?\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.46 GiB"

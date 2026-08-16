@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134076/d28878baed746b5eb9c339ccd3e13baba8e8294d507721c2bb3abcae057bb85e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/11f838eee06941ca96dcfde85064c356_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d28878baed746b5eb9c339ccd3e13baba8e8294d507721c2bb3abcae057bb85e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/11a1abe12a4ea64c912aa31fcfe2c02f676e08960d42e79c5624e0b59174f1f5.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/628ce27a2f5140d1ad03cdb440c5bb44c9a18dfeae1feb316b54f457e7a37dfd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/aab3546354baae719c4f98ce91a9b2bd5b6e93680b2642e5b19eb4926b5c2aac.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/aee6625e9b6157a80562773c95e0df65873355c277c95e6926405b030bb2bc91.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/4224ca08931f0b159d3c13a5ab11d1be7293e4cfbcf76b34a676550ccc2bf7fb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/6c81f32465077ee9c3acdcda2b4859ed97d2f853044bae3a115111f101c844be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134076/16d937de2090b977a1de69630d5e5edda1b1af6abc6d49477edcc3e9a893fcb2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/628ce27a2f5140d1ad03cdb440c5bb44c9a18dfeae1feb316b54f457e7a37dfd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aab3546354baae719c4f98ce91a9b2bd5b6e93680b2642e5b19eb4926b5c2aac.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/aee6625e9b6157a80562773c95e0df65873355c277c95e6926405b030bb2bc91.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4224ca08931f0b159d3c13a5ab11d1be7293e4cfbcf76b34a676550ccc2bf7fb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6c81f32465077ee9c3acdcda2b4859ed97d2f853044bae3a115111f101c844be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/16d937de2090b977a1de69630d5e5edda1b1af6abc6d49477edcc3e9a893fcb2.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Other"
+	],
+	"intro": "Ribbit!",
+	"description": "Relax and enjoy the timeless fun of jigsaw puzzles with Frog Jigsaw Puzzle. Piece together a collection of beautifully illustrated frog-themed images featuring peaceful ponds, lush forests, and colorful nature scenes.\n\nWhether you're a casual player or a dedicated puzzle fan, Frog Jigsaw Puzzle offers hours of satisfying gameplay.\n\nFeatures:\n>Beautiful frog-themed puzzle artwork\n>Multiple levels\n>Relaxing gameplay with no time limits\n>Save your progress and continue anytime\n>Suitable for players of all ages",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "97 MiB"

@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122459/76608aa28e6f4c27ebefabee6710de7aa32b6815d4fc7e31b00b2cb7faf43b22.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/47523e986c4144049ecdb3657203bec6_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76608aa28e6f4c27ebefabee6710de7aa32b6815d4fc7e31b00b2cb7faf43b22.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c8002d685b28fa84ac8cfb4a4a0cf3006dd331b84abeba962c161ac0c67bb170.jpg",
 	"publisher": "Elegant Horse Studios",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/3a574c18dc0304e5f9d80e4adc2973c6bd6d72baad7aa58a16577d05545efeca.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/8d6fed331fd57deac5fe7135946e325539dc71111f95669e107e0ac6566131b8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/3a6aaf23648e8bb28f0559d320f1139ea3f1c3f1ed1350f322e67c6d13211d62.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/f48579f58cd4b7021ea3996b2a67b6f8d9b2b5ffb24d43b372c0d0d192e49c91.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/5533cf8b0f036c9a32956e4d5592c5a0f1eeda210263ca8638c75b8115d3f74f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122459/733161cfe2f69ae2e0f40146089229012e1283242c841b45c5340beea1b88307.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3a574c18dc0304e5f9d80e4adc2973c6bd6d72baad7aa58a16577d05545efeca.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8d6fed331fd57deac5fe7135946e325539dc71111f95669e107e0ac6566131b8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3a6aaf23648e8bb28f0559d320f1139ea3f1c3f1ed1350f322e67c6d13211d62.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f48579f58cd4b7021ea3996b2a67b6f8d9b2b5ffb24d43b372c0d0d192e49c91.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5533cf8b0f036c9a32956e4d5592c5a0f1eeda210263ca8638c75b8115d3f74f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/733161cfe2f69ae2e0f40146089229012e1283242c841b45c5340beea1b88307.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Racing",
+		"Adventure"
+	],
+	"intro": "Prove your skills by driving the Bathtub on Wheels! Drive, Fall, Learn, Repeat.",
+	"description": "Challenge yourself in Driving Is Hard! Drive a bathtub on wheels through steep, unforgiving terrain where every mistake costs you progress. Master tough physics-based gameplay, sharpen your patience, and uncover Jeff\u2019s journey of self-doubt, family struggles, and emotional growth as he finds strength, self-acceptance, and hope for a brighter future.\n\n\nFEATURES:\n\n\u2022 Drive a Bathtub: Navigate Jeff in a physics-based bathtub on wheels\n\n\u2022 Select Your Difficulty: Driving is Easy for a relaxing time with checkpoints, Driving is Hard - the original challenge, Driving is Insane for insane people.\n\n\u2022 Explore 7 Worlds: Each with unique challenges and mechanics.\n\n\u2022 Easy to Play, Hard to Master: Simple controls, challenging mechanics.\n\n\u2022 Emotional Journey: Jeff faces his father\u2019s expectations and finds his own path.\n\n\u2022 Customizable Bathtub: Unlock and use different car skins.\n\n\u2022 Collect Soaps: Find 21 soaps as you play.\n\n\nWARNING!\nThis difficult game tests your patience - falling is part of the challenge. Will you rise or quit when it gets tough?",
+	"languages": [
+		"en",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "4.09 GiB"
+	"size": "4.13 GiB"
 }

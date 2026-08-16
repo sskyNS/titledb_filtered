@@ -22,6 +22,7 @@
 	"languages": [
 		"ja",
 		"en",
+		"es",
 		"fr",
 		"de",
 		"pt",
@@ -30,7 +31,9 @@
 	],
 	"numberOfPlayers": 1,
 	"rating": 6,
-	"ratingContent": [],
+	"ratingContent": [
+		"Violent References"
+	],
 	"dlcs": [],
-	"size": "1.78 GiB"
+	"size": "2.26 GiB"
 }

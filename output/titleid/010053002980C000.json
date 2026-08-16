@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133975/b102b3f5c490ec786c64af9bbbfc386c418ce6ac970e307026babb3904ffd9d5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133975/063610c9828f79ee1fde1df1ff535e97fbaf13813f916ea0c5b49d7f9ae892bd",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b102b3f5c490ec786c64af9bbbfc386c418ce6ac970e307026babb3904ffd9d5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1c60613670e2115aa4506429dc15242343722567305e40f1890bd868a8536ded.jpg",
 	"publisher": "Ocean Media",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/0a7c5704f35d81fcbb34ee4cfb669fc269b1711fb7e6adbbf35c42931a524b1d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/4dee5002c06894649e9b087898eb547ae541850e0d7be26e361d55fae8e72aaa.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/46ee4ee2c819a2875f1b81f54704df54caa2cdc4103144331def9f0f6e3bb119.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/044de59aced719214e5de5d787c85ac0351b07f88622dd1c8d0cafd870303b2d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/1ac706828b857c29d68d8f0c6061f5f4e686032f371aaae8d3e4cb85ea5a7af2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133975/334403174aa53cc8dd5380d8153caafcb540ee615c39685abbcf0b98dbd2a576.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/0a7c5704f35d81fcbb34ee4cfb669fc269b1711fb7e6adbbf35c42931a524b1d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4dee5002c06894649e9b087898eb547ae541850e0d7be26e361d55fae8e72aaa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/46ee4ee2c819a2875f1b81f54704df54caa2cdc4103144331def9f0f6e3bb119.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/044de59aced719214e5de5d787c85ac0351b07f88622dd1c8d0cafd870303b2d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1ac706828b857c29d68d8f0c6061f5f4e686032f371aaae8d3e4cb85ea5a7af2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/334403174aa53cc8dd5380d8153caafcb540ee615c39685abbcf0b98dbd2a576.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "Luxury. Romance. Ocean.",
+	"description": "Feel the sea breeze and the endless horizon!\nThis is the beginning of a grand journey. For the first time, you step aboard a luxurious liner to spend an unforgettable honeymoon!\nIn Cruise Adventure: Hidden Journey, warm encounters and cozy evenings await, as your route takes you through the colorful islands of the Pacific Ocean.\nThis isn't just a sightseeing tour, it's a celebration of life, where every day brings new emotions.\n\nWhy you'll love this game:\n-Engaging storylines! From the care and love of newlyweds to the developing relationship between a distinguished captain and a female manager.\n-A carefree atmosphere: join parties, play in the casino, and enjoy diving in the Pacific waters.\n-Collect memories: Gather unique souvenirs from ports of call \u2014 memorable keepsakes from every destination you visit.\n-Rich bonus search content: Beyond the main item list on each location, a whole set of additional items awaits you!\n\nThis isn't just a game.\nIt's a lifestyle: with new friends, carefree moments, and the atmosphere of a daily celebration.\nOcean, luxury, and love are just a click away.\n\nCollector's Edition includes:\n-18 additional hidden object scenes \u2014 even more cozy locations and details to explore.\n-12 new mini-games + 18 bonus games \u2014 for those who love a challenge along the way.\n-A souvenir collection \u2014 gather unique mementos from every port, like true traveler's trophies.\n-Beautiful desktop wallpapers and a music player with a wonderful soundtrack.",
+	"languages": [
+		"en",
+		"fr",
+		"de",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Alcohol and Tobacco Reference"
+	],
 	"dlcs": [],
 	"size": "505 MiB"
 }

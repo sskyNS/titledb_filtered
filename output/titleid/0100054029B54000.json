@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134488/fb0ba0661d5670136fb0b8903dd906e2bd2d7e77975ba0b135eadf3cbd02b1b9.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134488/b98783dcc8d17f15d0d38684f491eba04931be17d5e766d24d25c880560d8456",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb0ba0661d5670136fb0b8903dd906e2bd2d7e77975ba0b135eadf3cbd02b1b9.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f22684b171cc6b5d771dc835d77f21c741ca4096ac15d2ab8284acd16de6ed48.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/3ba0250861a12d83a41fa9c77123804e85e4838ffd0e307fcccb3760d9e3b78c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/6597a0c4d4dd84345f1e7f01f5a6378d46248c88cfb199d16d64d59be1b2aa4c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/cdacb678356459e4f199256c3ef14fe234e64798d39cfebc8c6a722229176d06.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/0ac11f03eecc857e632a2acbe368a6e28013dd7cb3dd7ae44ed31e554bef298b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/90a9de3e3a1eae8137fc268bc1c11f9d6d01dadf60e7ad3beb2b301be927f611.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134488/cf2a7a542048e8617568ce721146c156416d502e84083f546b5978e4bd7b6d1d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3ba0250861a12d83a41fa9c77123804e85e4838ffd0e307fcccb3760d9e3b78c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6597a0c4d4dd84345f1e7f01f5a6378d46248c88cfb199d16d64d59be1b2aa4c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cdacb678356459e4f199256c3ef14fe234e64798d39cfebc8c6a722229176d06.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0ac11f03eecc857e632a2acbe368a6e28013dd7cb3dd7ae44ed31e554bef298b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/90a9de3e3a1eae8137fc268bc1c11f9d6d01dadf60e7ad3beb2b301be927f611.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cf2a7a542048e8617568ce721146c156416d502e84083f546b5978e4bd7b6d1d.jpg"
 	],
 	"releaseDate": 20260813,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Music",
+		"Party",
+		"Video"
+	],
+	"intro": "Sing your heart out with 10 unique K-Pop idols in this vibrant karaoke experience!",
+	"description": "Step into the spotlight with 10 unique K-Pop idols, each ready to perform their own signature track in a vibrant karaoke mode. Whether you want to master the rhythm or just sing along at the top of your lungs, every idol brings their own style, energy, and charm to the stage.\n\nKey Features:\n\u2022 10 Idols: Choose your favorite star from a diverse roster of talented performers, each featuring their own dedicated karaoke track and distinct visual aesthetic.\n\u2022 Exclusive Music Gallery: Take a break from performing and relax with a dedicated Music Gallery featuring 17 original K-Pop instrumental and vocal tracks to listen to anytime.\n\u2022 Stunning Visuals & Neon Aesthetics: Enjoy eye-catching stage designs, colorful lighting, and polished interfaces inspired by the best of the K-Pop industry.\n\nAre You Ready to Shine?\nPick your star and experience the energy of the biggest stages.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "1.50 GiB"

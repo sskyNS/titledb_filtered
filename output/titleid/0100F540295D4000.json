@@ -1,22 +1,27 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132481/c72c73f4663030602a8352c3a29c349c72fc010048f978776bd82aa9ae1a0ecf.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/cb92065346f1420cbe69a8c1f8c862af_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c72c73f4663030602a8352c3a29c349c72fc010048f978776bd82aa9ae1a0ecf.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f3b8ff9969b74f4fec192e810d8249fca83d3782655e825245c4b5216c05343.jpg",
 	"publisher": "Brainium Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/f8f3b3ea2725e8a4c4ec8873dce77dda89a1f9c78e35cfd1babbce58280fc5cc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/6da397410d190579e7e868aa2bb280584852bc4b18f5aa22c0bcaa3d13b0d482.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/415838bfb7f97976787a444573b5bf7f4bd8c88b55025793df0dd6824b548cc6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/21d1552a983f5516a078449c115a32307afa11d254467233fc840787c8ff1d85.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/93af3e84643025e0fb8b093c0a0efe45b9c457efff57ded9213f01c9abb4db51.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132481/8e655daab23c27ea7fe107271167b9fa74dbc7965ebd29021fd194479c3aedb9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f8f3b3ea2725e8a4c4ec8873dce77dda89a1f9c78e35cfd1babbce58280fc5cc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6da397410d190579e7e868aa2bb280584852bc4b18f5aa22c0bcaa3d13b0d482.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/415838bfb7f97976787a444573b5bf7f4bd8c88b55025793df0dd6824b548cc6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/21d1552a983f5516a078449c115a32307afa11d254467233fc840787c8ff1d85.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/93af3e84643025e0fb8b093c0a0efe45b9c457efff57ded9213f01c9abb4db51.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8e655daab23c27ea7fe107271167b9fa74dbc7965ebd29021fd194479c3aedb9.jpg"
 	],
 	"releaseDate": 20260730,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "upgrade your snake\nmanage more snakes at once\nsolve puzzles",
+	"description": "An alien caterpillar  whose biology requires radiation for growth and survival. Luckily, your home planet is literally saturated with this dangerous yet vital resource. Your goal is to navigate challenging levels, collect radioactive elements, and grow, but be careful: the larger you get, the harder it is to maneuver!",
+	"languages": [
+		"en",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "142 MiB"

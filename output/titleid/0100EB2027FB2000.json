@@ -1,23 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124040/81fa6c09dfcb669267143c9474ee2ae3c21a24515b9c20156de89efb606cf28b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124040/2d72f1424f1ea6490ee5e5adf30d66286bcd4a8e6d0a5ca1d47b0684baefe240",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/81fa6c09dfcb669267143c9474ee2ae3c21a24515b9c20156de89efb606cf28b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c20295a504fc2c040da34a7a09552baf0ec0e3ee0f2bc3aa9b300fab4848b03.jpg",
 	"publisher": "AMATA",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/36fbc914b5942159931ae151e508b2378e08c9368a122e2075159b6aadb5b44e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/31e37785a93499bd44e3f23703334451d9039e642108d479d777c9381152565d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/bd0b36fd60566040bca4b05450a30398f25fb9a7780c07ebc581e090aa4f4c23.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/ff19ffcd2c852ee848f9d4fb5b17e28545a17a821773d6744965e7efb0c3a037.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/65f63b2cff3fc1be607ead1dbdbb76d851f3e41792fe0c0ad5fd61696a73c8f1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124040/cbd59851461952898dc658fec27136bbd069ecb11a1f072128f5b37cfeec526c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/36fbc914b5942159931ae151e508b2378e08c9368a122e2075159b6aadb5b44e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/31e37785a93499bd44e3f23703334451d9039e642108d479d777c9381152565d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bd0b36fd60566040bca4b05450a30398f25fb9a7780c07ebc581e090aa4f4c23.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ff19ffcd2c852ee848f9d4fb5b17e28545a17a821773d6744965e7efb0c3a037.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/65f63b2cff3fc1be607ead1dbdbb76d851f3e41792fe0c0ad5fd61696a73c8f1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cbd59851461952898dc658fec27136bbd069ecb11a1f072128f5b37cfeec526c.jpg"
 	],
 	"releaseDate": 20260819,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG"
+	],
+	"intro": "A retro 2D dungeon crawler bursting with 16-bit nostalgia.",
+	"description": "Since then, countless moons have passed...\nAs people wove generations together,she quietly continued to fulfill her duty.\n\nBut at last, the time came, and the silence was broken.\nOld and weary, she gathered her last strength\nand spread her wings to find out the hero...\n\n- About Dungeon Antiqua 2\nDungeon Antiqua 2 is a 2D dungeon-crawler hack-and-slash RPG, featuring 16-bit pixel art and sound reminiscent of the 1990s.\nA retro-flavored adventure awaits you, blending strategic exploration with a highly flexible character building system.\n\n- Exploration\nPlayers will explore six dungeons, navigating with a unique system where visibility of corridors and enemies depends on the character\u2019s \u201cvision\".\nDungeon Antiqua 2 uses a symbol encounter system\u2014you can avoid battles by dodging enemies, or strike first and take the initiative. The path forward is yours to carve through skill and decision-making!\n\n- System\nIn addition to the eight jobs from the previous game, two new classes\u2014Monk and Archer\u2014have been added, bringing the total to ten.\nEarn skill points from victorious battles; once they reach the required threshold, you\u2019ll unlock job-specific skills.\nSince changing jobs does not reset level, you can freely experiment with multiple jobs to create your own ultimate party!\nnote: Five jobs are available at the start of the game. The remaining five types will become available as you progress through the game.\n\n- Concept\nSometimes, why not take a step back and return to the cartridge era of gaming?\nBy stripping away excessive story cutscenes and focusing on short, simple dialogue and text, the world is designed to spark your imagination\u2014inviting you to create your own personal adventure.\n\n- Playtime\nFor a first playthrough, we estimate a playtime of approximately 10-12 hours.\n\nDungeon Antiqua\nThis game takes place hundreds of years after the story of Dungeon Antiqua.\nYou may even come across some familiar characters from the previous game\u2026",
+	"languages": [
+		"ja",
+		"en",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "105 MiB"
 }

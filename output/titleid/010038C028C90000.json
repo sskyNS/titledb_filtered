@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129058/2e69a79129feb33d6d0b3c90f13e3c83d7a7b789bcfb4dc6681e36ab76220d80.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/aef4ed10f998413992d581abaecf9b3c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e69a79129feb33d6d0b3c90f13e3c83d7a7b789bcfb4dc6681e36ab76220d80.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/a7b87360e23da7076ea830663812b23f9a49906b943032e012b5bfba1722199c.jpg",
 	"publisher": "Caracal Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/afd24a4bac78cf0979cb78eee43e84674d450fa5bf4931a175c5febc5bd9df17.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/1109577a47b5ff7ac9a48c159ec95f4ba32192024c1e16f1f77a2c8821c86741.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/f796743bc6995dd39d1bc15af7241ca573125629cb15ecf3ba22e1c45ed1e8d4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/b637f1f5a643564335649fe1329641e233c0b046f05128ec3231c592a50b8928.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/4594f3fba6d244195122a3100618872fd7455a21f71259dc653fb0f4d586202d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129058/d9ba704f2dc58d46b0dd0bc7b5cc711f451de0e2a000e63c112206841a2dc6f3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/afd24a4bac78cf0979cb78eee43e84674d450fa5bf4931a175c5febc5bd9df17.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1109577a47b5ff7ac9a48c159ec95f4ba32192024c1e16f1f77a2c8821c86741.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f796743bc6995dd39d1bc15af7241ca573125629cb15ecf3ba22e1c45ed1e8d4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b637f1f5a643564335649fe1329641e233c0b046f05128ec3231c592a50b8928.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4594f3fba6d244195122a3100618872fd7455a21f71259dc653fb0f4d586202d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d9ba704f2dc58d46b0dd0bc7b5cc711f451de0e2a000e63c112206841a2dc6f3.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure"
+	],
+	"intro": "A brain-teasing puzzle series where one simple rule stands between you and escape: turn out every light.\nBoth In The Dark games, together for the first time!",
+	"description": "Experience the complete In The Dark saga, a retro-inspired sci-fi puzzle collection. Across two interconnected adventures, you\u2019ll uncover the mysteries surrounding abandoned spacecraft, strange transmissions, and unknown forces lurking beyond the stars.\n\nWhat begins as a simple mission quickly spirals into something far greater. As systems fail and a deadly virus spreads, captain Ikalo Pann must uncover the truth hidden behind each light. Each puzzle solved brings you closer to answers and the truth behind the signal.\n\nFeaturing both In The Dark and In The Dark 2, this collection combines atmospheric storytelling with addictive light-based puzzle gameplay inspired by classic handheld experiences, and brings both games in the series together for the first time. Manipulate grids of lights, discover the patterns, and tackle hundreds of handcrafted puzzles across multiple gameplay modes.\n\nIn The Dark 2 expands the experience with larger puzzles, new gameplay mechanics, cinematic story sequences, unlockable content, and an arcade-inspired shoot\u2019em up mini-game that deepens the universe and raises the stakes.\n\nThe In The Dark Collection delivers a relaxing yet rewarding nostalgic experience that can also be played in vertical mode with touch controls to better match the '90s feeling! A full-color journey, with plenty of color palettes to unlock as you play",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "426 MiB"
 }

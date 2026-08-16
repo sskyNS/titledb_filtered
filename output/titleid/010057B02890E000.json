@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127391/360e9341342bbd40fb8fcb45a03e174032555c13d8bd30037f6ce343efdd4d28.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/69c7bcde1f73444283e4ffa8f5483852_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/360e9341342bbd40fb8fcb45a03e174032555c13d8bd30037f6ce343efdd4d28.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b2ecfa06b500dabf6f3e88ece0b443bc4865a6935828bf1418627e5b7879372.jpg",
 	"publisher": "Spike Chunsoft US",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/a578d44c9283e68edc473452a3d63393add28f6a179050bba1c9c176171a643c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/de8b1cd4ce0da76860ea79d0de78bf5a1c5041479a032d49186f7385ce461530.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/c1ab46a85daebad46b627caf3a38689ac8fa7f7d07486f274f426eba27067ee8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/d2fe0558048daced5591b9da6daa8189a5fc27a2562ccce19feff20000d6950c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/2984ee954401ef7512bfe60760d3a0f1533af486c4a26aeafc8c773b12b249ff.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127391/001a2b53718ff5c275e40ccb47f04aeab13e4a366eb07f0641b5e9d2d2c88ca1.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a578d44c9283e68edc473452a3d63393add28f6a179050bba1c9c176171a643c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/de8b1cd4ce0da76860ea79d0de78bf5a1c5041479a032d49186f7385ce461530.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1ab46a85daebad46b627caf3a38689ac8fa7f7d07486f274f426eba27067ee8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d2fe0558048daced5591b9da6daa8189a5fc27a2562ccce19feff20000d6950c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2984ee954401ef7512bfe60760d3a0f1533af486c4a26aeafc8c773b12b249ff.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/001a2b53718ff5c275e40ccb47f04aeab13e4a366eb07f0641b5e9d2d2c88ca1.jpg"
 	],
 	"releaseDate": 20261029,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Deceive the world yet again.",
+	"description": "STEINS;GATE has become universally beloved from its inception back in 2009.\nSince then, the series has sold more than 4 million units worldwide. STEINS;GATE is now being rebooted with major revamps and a completely new look.\n\nFollow a ragtag group of tech-savvy students led by Rintaro Okabe, whose latest invention accidentally gains the ability to send messages to the past, unleashing the power to alter history itself. As global conspiracies stir and timelines begin to twist, the curtain rises on a future steeped in chaos. Your choices shape the fate of the characters and the world itself! Featuring multiple endings that branch based on your decisions.\n\n\u30fbCharacters, backgrounds, and pivotal moments have all been updated from scratch. There are twice the amount of still images and 20% more background graphics compared to the original version.\n\u30fbCharacter designer huke returns with redesigned outfits and accessories that bring a contemporary flair to the cast while Akihabara has been recreated with stunning realism and depth, including new scenes.\n\u30fbUses E-mote, which has been well-received in Anonymous;Code. Smooth animations and rich expressions breathe new life to beloved characters.\n\u30fbSeries composer Takeshi Abo has remade the soundtrack, and the original voice actors have returned to re-record all in-game voices in Japanese.\n\u30fbAdditional Route - Gamma Worldline\nA new kind of brutality, unlike anything seen before, awaits both Rintaro Okabe and the player.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 17,
+	"ratingContent": [
+		"Blood",
+		"Sexual Themes",
+		"Strong Language",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "5.79 GiB"
 }

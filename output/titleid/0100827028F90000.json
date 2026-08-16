@@ -1,20 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000130246/eee74a890a94c4d1a0f8f97fd9b8496f796a1c21ea2c60b586167098b7691154.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/8604d183fc9c4454bcfa224719e1b32c_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eee74a890a94c4d1a0f8f97fd9b8496f796a1c21ea2c60b586167098b7691154.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/75984cf833a5a89df792425b15cfd467bde04462cdf7509931650378fd88729c.jpg",
 	"publisher": "17Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130246/42d39fb6fe99ef1d686453cd26d737e44fffff1627acdc6382e7ea9e64536cb1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130246/b45e728d2ceb3f82fe327c73ec2c718a8d5c0cbb7c835c6996b245a43b261b24.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000130246/3adedae9a7a06934985f630b93c7534ca3dbc1fa9f5c53f335f3169339345b42.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/42d39fb6fe99ef1d686453cd26d737e44fffff1627acdc6382e7ea9e64536cb1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b45e728d2ceb3f82fe327c73ec2c718a8d5c0cbb7c835c6996b245a43b261b24.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3adedae9a7a06934985f630b93c7534ca3dbc1fa9f5c53f335f3169339345b42.jpg"
 	],
 	"releaseDate": 20260710,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Simulation",
+		"Strategy",
+		"Party"
+	],
+	"intro": "Every piece brings you closer to perfection!",
+	"description": "Dive into a world of stunning, realistic puzzles that captivate your eyes and mind. Piece by piece, reveal breathtaking images of beautiful women \u2014 each completed puzzle unlocks a new masterpiece, keeping you motivated to discover what\u2019s next.\n\nSmooth and intuitive touch controls make gameplay effortless and deeply satisfying \u2014 you\u2019ll feel like you\u2019re truly shaping every picture with your own hands. Gentle, soothing music sets the perfect mood, helping you unwind while your curiosity pulls you to complete the next challenge.\n\nRelax, enjoy, and let yourself get lost in the details.\n\nFeatures:\n\u2022 Addictive, easy-to-play puzzle mechanics.\n\u2022 Gorgeous, realistic artwork of women.\n\u2022 Satisfying touch interaction \u2014 every move feels natural.\n\u2022 Unlock new, even more stunning images as you progress.\n\u2022 Perfect balance of challenge and relaxation.\n\u2022 Soothing soundtrack that enhances your focus and mood.\n\u2022 Admire each completed image in full detail.",
+	"languages": [
+		"ja",
+		"en",
+		"ru"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Partial Nudity",
+		"Sexual Themes"
+	],
 	"dlcs": [],
-	"size": "235 MiB"
+	"size": "312 MiB"
 }

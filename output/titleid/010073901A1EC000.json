@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000061751/ff234a6062d2272ba070aee485e06003c929e395b607678b210d68d0d7a19f52.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/47fdf1750616462489f7d0e9b8143194_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff234a6062d2272ba070aee485e06003c929e395b607678b210d68d0d7a19f52.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/08debff70d2f8ab7c8600bb816aaecf746e154cb80dc72677649445f0d5064b1.jpg",
 	"publisher": "Serenity Forge",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/f0849bcb0d3b18014b43492ceda0335e2ed94a63a57dcb79d1b1686e8bc4159a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/7dc10e8f54da7809b779f6f442d8246a5e597cf366a465a199bf3af1d420951b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/f0db16961c183e86e02f4afb4d4ae886f68ada13633f3f5ea9e66bb830a7486b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/1c00adda6f5996c447024e059cb7f3d74f3208f4ba146e3683dc53b681dabd14.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/7867948e57f3dd3b93eca209d461082500a63d8410b92455741d2b3d557af0b3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000061751/ed7723f8c024d8a267e47280d8fe23427398698b84095bed2ca000706481aecb.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/f0849bcb0d3b18014b43492ceda0335e2ed94a63a57dcb79d1b1686e8bc4159a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7dc10e8f54da7809b779f6f442d8246a5e597cf366a465a199bf3af1d420951b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f0db16961c183e86e02f4afb4d4ae886f68ada13633f3f5ea9e66bb830a7486b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1c00adda6f5996c447024e059cb7f3d74f3208f4ba146e3683dc53b681dabd14.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7867948e57f3dd3b93eca209d461082500a63d8410b92455741d2b3d557af0b3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ed7723f8c024d8a267e47280d8fe23427398698b84095bed2ca000706481aecb.jpg"
 	],
 	"releaseDate": 20260916,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"RPG",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A service industry adventure with an apocalyptic flavor. A manic genre mashup told across two broken realities. Step through the cracks: find your Exit.",
+	"description": "A service industry apocalypse\n\nWelcome to Roman Sands RE:Build, an apocalyptic trip from the studio behind the IGF Award-winning Paratopic.\n\nA shape-shifting absurdist adventure that twists two stories together, taking you from a luxury tropical resort to post-apocalyptic survival.\n\nTwo stories of escape\n\nThe Resort\nWash up on the beach of an indulgent Resort. According to the guests, you work here\u2014AND you're slacking off. Race against time to rank up and earn equipment to stem their never-ending tide of demands. The only catch to your employment: the sun is days away from swallowing the world, and the guests couldn't care less.\n\nLook under the surface: uncover the resort's secrets and solve puzzles in an attempt to escape.\n\nCling to life after the end\n\nThe Facility\nOne of the last people left alive, you are the caretaker of a decaying zoological research station. Your only companions are a dead cow and a voice on the radio; it sounds familiar, but ... from where?\n\nA parasite clogs the guts of your station: will you exterminate it and preserve the station's work, even at the cost of your own survival?\n\nManic genre mashup\n\nAre these worlds the same? When are they? WHAT are they!? Two distinct narratives overlap and mutate in a delirious genre apocalypse: adventure, visual novel, puzzle solving, survival simulation, and atmospheric horror collide to tell a story of escaping the inescapable.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Language",
+		"Mild Violence",
+		"Sexual Themes",
+		"Use of Alcohol and Tobacco"
+	],
 	"dlcs": [],
 	"size": "4.77 GiB"
 }

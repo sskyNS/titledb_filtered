@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000120255/5b1aad8eff4579d3ed29f194435f3f49f629f6c64373b368cb390473a6029a9e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/836437e971f34cf3a223be8d5986d94d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b1aad8eff4579d3ed29f194435f3f49f629f6c64373b368cb390473a6029a9e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1594fb24ac6da78175e12bea019204e0461c621129fe6af9b5e58af7e3dfbf7.jpg",
 	"publisher": "ININ Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/cc945a61be74fa0869b14cbd6183ee70a8707ad9df41eaa015f0fcccb542c371.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/39560cf1370bc5ccbd362b1b9270a2e48659948c0091c20a406f5bd62695b4d9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/2eacf8df2594cf67ff5ae0d467de553b0db2fadd1baa1bc25e1b4ec90128d401.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/9a2b82a17daa2fb1aa1360b566bf5d584d22989820928f21cbdc3626a46824ba.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/afc2779d1ba89e36cd3be9699e7208b1baee41921a57078c6fd9b43f7ff49300.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000120255/2e53c477e6f6f372af282e82490138f86c569f1f2885581afb12fc7f1f9f44c2.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/cc945a61be74fa0869b14cbd6183ee70a8707ad9df41eaa015f0fcccb542c371.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/39560cf1370bc5ccbd362b1b9270a2e48659948c0091c20a406f5bd62695b4d9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2eacf8df2594cf67ff5ae0d467de553b0db2fadd1baa1bc25e1b4ec90128d401.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9a2b82a17daa2fb1aa1360b566bf5d584d22989820928f21cbdc3626a46824ba.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/afc2779d1ba89e36cd3be9699e7208b1baee41921a57078c6fd9b43f7ff49300.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2e53c477e6f6f372af282e82490138f86c569f1f2885581afb12fc7f1f9f44c2.jpg"
 	],
 	"releaseDate": 20260825,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action",
+		"Arcade",
+		"Shooter",
+		"Other"
+	],
+	"intro": "Apidya is making a comeback in this authentic 24-bit pixel remake, built from the ground up, but utterly faithful to the original.",
+	"description": "APIDYA SPECIAL \u2013 A very special retro shoot 'em up buzzes into view!\nTake flight in Apidya Special, brought back through sheer Pixel Passion!\n\n1992's home computer legend Apidya is making a comeback in this authentic 24-bit pixel remake, built from the ground up, but utterly faithful to the original.\n\nDeveloped by the original team alongside a devoted Apidya super-fan-turned-developer, Apidya Special is based on a previously abandoned 1990s console port \u2014 combining original assets with all-new pixel art, additional authentic sound effects, and remixed music. Legendary composer Chris H\u00fclsbeck contributes exclusive new studio versions of the iconic soundtrack, never released before.\n\nThe warmth and charm of a CRT on modern screens!\n\nExperience Apidya Special in true widescreen with new parallax effects, or switch to the original home computer 4:3 mode that looks, plays, and sounds exactly like 1992. Optional CRT effects with simulated shadow mask, scan lines, and phosphor bloom recreate the classic display feel.\n\nFEATURES:\n\nAuthentic Remake \u2013 Completely rebuilt from scratch; no emulation.\n\nTwo Visual Modes \u2013 Seamlessly switch between HD widescreen or original home computer 4:3 presentation.\n\nExclusive Chris H\u00fclsbeck OST \u2013 Brand-new studio versions of the iconic soundtrack, never before released.\n\nRetro Visual Effects \u2013 Optional CRT shaders, bloom, and authentic scanline simulation.\n\nExpanded Worlds \u2013 5 diverse themed worlds (Meadow, Pond, Sewers, Cyber, Lair), up to 5 levels each, 20 unique bosses, and hidden special stages.\n\nFresh Surprises \u2013 Randomized in-game events like Night Mode with new enemy sprites.\n\nCo-op Mode \u2013 A second player controls one of the helper drones.\n\nAccessibility Options \u2013 Modernized difficulty settings to make the game enjoyable for all generations.",
+	"languages": [
+		"en",
+		"de"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "166 MiB"
 }

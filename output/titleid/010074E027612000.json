@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000119990/8bfa47a6dff146505c99df9124c8d68b2a4faf2b097caa06665aaa6f355501b5.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/4a0f84b2c55447d59cacd0e550407748_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8bfa47a6dff146505c99df9124c8d68b2a4faf2b097caa06665aaa6f355501b5.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c7720d7179d0f8c5501686b31d3d13c6348b472dbb75c755a5648c684490b36b.jpg",
 	"publisher": "SUNSOFT",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/302a290978d62dc624ec7aa74afff78e54dafb64880a53e3e023776bc6abedce.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/f8b05c4f481d537d91284d86e7fe283344472aa38a24ef006c96ca54a7edb17f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/7f5c916b8f8c5f46e2b154c312e538ae6602f724d1ca08da3f6375a4c9df7de2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/5683e8daeb6370c03a169273e01384eab091b83d7fc61596be3c79cd175224e0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/eed77e8cf148cb055f8eda4a781fa480acc4bdb7d804d8ae0b8a8ee5ec1e8efb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000119990/b40a4ef67a86eacb4e204aea9801488d5600b6d178e64d0b9c3b9c9574e10946.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/302a290978d62dc624ec7aa74afff78e54dafb64880a53e3e023776bc6abedce.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f8b05c4f481d537d91284d86e7fe283344472aa38a24ef006c96ca54a7edb17f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7f5c916b8f8c5f46e2b154c312e538ae6602f724d1ca08da3f6375a4c9df7de2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5683e8daeb6370c03a169273e01384eab091b83d7fc61596be3c79cd175224e0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eed77e8cf148cb055f8eda4a781fa480acc4bdb7d804d8ae0b8a8ee5ec1e8efb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b40a4ef67a86eacb4e204aea9801488d5600b6d178e64d0b9c3b9c9574e10946.jpg"
 	],
 	"releaseDate": 20260806,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Action",
+		"Racing",
+		"Arcade",
+		"Party"
+	],
+	"intro": "The ROUTE16 remake. Beat the revived Kanharoo Gang with your car MAD X-R!",
+	"description": "ROUTE16R is a remake of the ROUTE16 series, originally released in the 1980s.\n\nAvoid enemy vehicles and monsters as you race through the stage, collecting every item scattered across the maze.\nSwitch dynamically between Maze Mode, where you navigate intricate labyrinths filled with traps and gimmicks, and Radar Mode, which reveals the entire stage made up of 16 mazes-delivering a high-speed chase experience that surpasses the original games.\n\nNot Just Escape - Fight Back with the Evolved MAD X-R :\nUnlike previous ROUTE16 titles, colliding with enemies triggers a transformation: MAD X-R shifts into a combat robot, initiating battle.\nUse your upgraded MAD X-R\u2019s attacks along with SP items collected throughout the stage to deal damage and defeat your enemies.\n\nCustomization :\nBefore entering a stage, use the money you\u2019ve recovered to customize your MAD X-R.\nEnhance core attributes like fuel and speed, as well as combat performance, to suit your playstyle.\n\nBoss Battles :\nThe Kanharoo Gang won\u2019t go down without a fight.\nCollecting all items won\u2019t end the stage-doing so will trigger a boss encounter.\nBosses unleash intense attacks to corner MAD X-R.\nDodge their assaults, find openings in their defenses, and strike back by transforming into robot form to deal decisive damage!\n\nMultiplayer:\nFor the first time in the series, multiplayer mode is included.\nCompete in a mini-game where players battle to capture the flag.\nEnjoy fast-paced, arcade-style chase action with friends and family!\n* Local multiplayer only. Online multiplayer is not supported.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "267 MiB"
 }

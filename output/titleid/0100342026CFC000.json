@@ -1,22 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117891/5fdca6508d737c5bae7b0d27ea37dc276c5d5d4c8a3c5f3b72cab0c76e9a29d7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117891/8df505a8dda7c97cbde61914648b01d1a29ee19d0ccc86fc26e73b11d94f8647",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5fdca6508d737c5bae7b0d27ea37dc276c5d5d4c8a3c5f3b72cab0c76e9a29d7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/224afb0932bfc37983fbf9945913ccdc6552926bcfc2e5aba0a7f05e11a2a857.jpg",
 	"publisher": "Alchemy Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/2a509873aabe38d1366aa4da5da2420c5623785ffcfbcf3223d3e04214b5584a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/06cfcbe3efecedb00ab8ed26b089a8f30a0df1bea721088ac2cf107413f37c87.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/53c9b460a031038ac619d60ab09e0f46427fc36fa0e1486a302b05490a518c05.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/f898e8dad539eb065b05911790d0300c731eb6fedfb4665a6221f59374c362d1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/09872b64849b7edb0892ca9dd401780078e052e8f3cb22104d43264cd13c470d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117891/92528c0208799b87d49a44cb0e49846290a20c596d1788094b9b9b1f8ff8a5a5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/2a509873aabe38d1366aa4da5da2420c5623785ffcfbcf3223d3e04214b5584a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/06cfcbe3efecedb00ab8ed26b089a8f30a0df1bea721088ac2cf107413f37c87.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/53c9b460a031038ac619d60ab09e0f46427fc36fa0e1486a302b05490a518c05.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f898e8dad539eb065b05911790d0300c731eb6fedfb4665a6221f59374c362d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/09872b64849b7edb0892ca9dd401780078e052e8f3cb22104d43264cd13c470d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/92528c0208799b87d49a44cb0e49846290a20c596d1788094b9b9b1f8ff8a5a5.jpg"
 	],
 	"releaseDate": 20260729,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Arcade",
+		"Strategy"
+	],
+	"intro": null,
+	"description": "Sizeable is a relaxing and peaceful puzzle/exploration game where you shrink and grow your way through handcrafted dioramas in search of hidden objects.\n\nWhat is Sizeable?\n\nSizeable is a short, relaxing, and casual puzzle/exploration game centered around the unique mechanic of shrinking and growing. Originally developed as a student project, the game evolved into Business Goose Studio\u2019s first commercial title. It\u2019s a passion project, made with care and creativity, and we hope you enjoy playing it as much as we enjoyed making it.\n\nShrinking and Growing Is the Key\n\nWhat if you had the power to resize anything around you \u2014 the moon, the sun, or even entire worlds?\n\nIn Sizeable, you gain the ability to manipulate the size of objects in each diorama. Shrink the moon to lower the tide, or enlarge a cloud to create strong winds. Use these mechanics to solve puzzles and uncover three hidden objects in every level. And if you explore carefully, you might even discover a secret turtle.\n\nFeatures\n\nA relaxing puzzle/exploration experience\n\n39 handcrafted low-poly dioramas, ranging from deserts to outer space\n\n39 secret turtles to discover\n\nRelaxing original music composed by Jamal Green\n\n4 seasonal dioramas to explore",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"pl",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "606 MiB"

@@ -1,23 +1,41 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000081607/28efb983b663e6c168baf1165790e3d0fe29f86e9cabac583b14b3963871b59b.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000081607/2421e552fc72672d085e841549264a7d0d437c8a125b75146fce9f5928fcb4cb",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28efb983b663e6c168baf1165790e3d0fe29f86e9cabac583b14b3963871b59b.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c4c5be9c0873f7e97e7798c44647db4695c6083dd1b5d6349df13cec155a3340.jpg",
 	"publisher": "Badass Mongoose",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/b3333a76201ce82c96c51f7e63d64704f237229fa468c2a53a43e154609e7164.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/eaef1ad7d3e692eec010abc0b36c61db4f02b0726d8ac541d0877a7ee54e2d78.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/d85d01473ba94da3bc727a3caebd3bbc576a02cc33b1fa720e4e1a036c817a46.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/3d1f7b548e243ca599191f4fed9987114aa5509018f65a596433962f83ff83e7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/d21fb3edbd83519661ca4616182049a6251660027ca59fdbbae88484201a4861.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000081607/c8627bb80f829f2bf6ed063777cb43c0aaaeb3c274fa974226ddf0aa587daf09.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b3333a76201ce82c96c51f7e63d64704f237229fa468c2a53a43e154609e7164.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eaef1ad7d3e692eec010abc0b36c61db4f02b0726d8ac541d0877a7ee54e2d78.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d85d01473ba94da3bc727a3caebd3bbc576a02cc33b1fa720e4e1a036c817a46.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3d1f7b548e243ca599191f4fed9987114aa5509018f65a596433962f83ff83e7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d21fb3edbd83519661ca4616182049a6251660027ca59fdbbae88484201a4861.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c8627bb80f829f2bf6ed063777cb43c0aaaeb3c274fa974226ddf0aa587daf09.jpg"
 	],
 	"releaseDate": 20260723,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Adventure",
+		"Platformer"
+	],
+	"intro": "Descend into a tale that will challenge your mind and soul, solving intricate puzzles as you ascend to the light of a new day.",
+	"description": "Embark on a journey into the forgotten world of Helix: Descent N Ascent.\n\nIn search of the truth\n\nYou awaken in a dull, dark, disembodied world. Though you're usually alone, you soon encounter another being who looks just like you, except he always seems to be at odds with you. Who is this doppelganger? Is he a friend or a foe?\n\nPuzzle out your way\n\nDiscover new powers as you progress through your adventure. Each one of these powers allows you to meaningfully interact with your surroundings and solve the many puzzles awaiting you.\n\nCombine your powers\n\nMaster the unique mix-and-match system that allows you to combine these powers. Play in 25 distinctive ways, jumping between 3 levels of complexity while you explore the barren lands of Helix. \n\nA deep emotional odyssey\n\nBeyond adventure, Helix invites you to reflect on identity, solitude and relationships. It weaves each mystery and reminiscence of a past existence with personal, cultural, and spiritual threads. Uncover overlooked details in a story worth revisiting.\n\nAn artistic journey\n\nExperience a tale not told with words, but through an immersive adventure enriched by stunning 4K black-and-white artwork, living 2D scenery, evocative paintings, and powerful atmospheric music. Drawing inspiration from 1980s black-and-white indie comics, 1990s manga, and 1970s Franco-Belgian comics, the monochrome imagery is symbolic, evoking the dichotomy of light and darkness.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "2.59 GiB"
+	"size": "3.37 GiB"
 }

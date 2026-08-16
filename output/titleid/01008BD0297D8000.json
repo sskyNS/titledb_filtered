@@ -1,22 +1,28 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133176/e475cfb804413de888df96ec1f111fba854e08dbc7468257b12eebad49b9e5f1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133176/257cf87366dd4a2f8a11dfd1efa73f7c29eababd881cc11d145f3a46b6b66dc6",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e475cfb804413de888df96ec1f111fba854e08dbc7468257b12eebad49b9e5f1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d98e9fb99850673b6d21db7787e95c33ced3a82236dca88109cf07a924dfc429.jpg",
 	"publisher": "Aldora Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/1509c6c995a369f4f4db623eceb7789d698286f370648800299ee5e1ea73ef6a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/e21479ddbdc0ad597427182f8d1ba546695265ffb86e31efcf91c8084ae70a80.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/77e32d6c375359a0fb2a5370fc162dea61a1887fe775b16ae06c3a753b22bf15.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/0bd28dc56a65ee22449a89e625a462b1050c8d7ca315c2b969de1945d8d8d23b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/88b257b27827d484a7d952692716eba9595b053a5fd31722a9c3c97730c73da7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133176/7ffc948508fa4aae4e77a3b2d1bdbf53b91d67e3aed8c705e8a50abe63120668.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1509c6c995a369f4f4db623eceb7789d698286f370648800299ee5e1ea73ef6a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e21479ddbdc0ad597427182f8d1ba546695265ffb86e31efcf91c8084ae70a80.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/77e32d6c375359a0fb2a5370fc162dea61a1887fe775b16ae06c3a753b22bf15.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0bd28dc56a65ee22449a89e625a462b1050c8d7ca315c2b969de1945d8d8d23b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/88b257b27827d484a7d952692716eba9595b053a5fd31722a9c3c97730c73da7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7ffc948508fa4aae4e77a3b2d1bdbf53b91d67e3aed8c705e8a50abe63120668.jpg"
 	],
 	"releaseDate": 20260801,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Study",
+		"Adventure"
+	],
+	"intro": "Welcome to Giggleport! Join Momo the capybara and Toot the goose on a heartwarming, family-friendly coastal adventure!",
+	"description": "Welcome to Giggleport!\n\nThe magical tide of \"Silliness\" has risen once again, bringing with it the strangest and most adorable visitors from the deep ocean! Join Momo, the gentle capybara, and her inseparable best friend, Toot the goose, on a heartwarming narrative-driven adventure perfect for the whole family. Climb aboard the Welcome Wagon and get ready to explore a colorful coastal village where every resident has a unique story to share.\n\nKey Features:\n\n\u2022 Magical reading: Over 10,000 words of gentle adventure, ideal for kids aged 4 to 10.\n\u2022 Unique characters: Meet whimsical creatures like the bananadillo or the teacup-hippo, and help them shine!\n\u2022 100% safe: No third-party ads or in-app purchases, ensuring complete peace of mind for parents.\n\u2022 Great values: A beautiful interactive story that promotes empathy, friendship, and self-acceptance.\n\u2022 Parade prep! Team up with the friendly neighbors to prepare for Giggleport\u2019s grand annual parade.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "357 MiB"

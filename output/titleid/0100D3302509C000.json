@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104633/66b0415fc3f5618f117acb8cd65c7b6d6605173aa9f98bf4200b88ca2fd1bc8e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000104633/fc3e0bfe705a262f444d3705435e2b47ad81bc544937df60acc5e573b4812db0",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66b0415fc3f5618f117acb8cd65c7b6d6605173aa9f98bf4200b88ca2fd1bc8e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b701c2c4b55d9fa770f1d15248e1bb05b182f5a2f015aca8f82da6b6e8e0588.jpg",
 	"publisher": "Kiwi Production",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/383e6bf9adf874d2e26e80ece8fd593a7a6727d35b52ae31e1e97dbe9fc8ff7c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/d7087c4b4ba9e352ca2c1caa803409f932fe86bc0d0292fcdf6b67d97bc6ece4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/fd7c391ecd03637d8acdb037f7c937e8bf58e2f38c66f07ce98e362ef7c65aa1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/d51b252e35f7a1b2ebf7568c87e65511746ee296c8c60a51606d10825498296d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/d4ac0a6bbf59611de41d30f4186704b6ae58ad012540db7f0aef50ef1933f3c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000104633/b23cd2e89c90536b59e1e48de592a2963eea7c54ab8f923d5ce541c5af325194.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/383e6bf9adf874d2e26e80ece8fd593a7a6727d35b52ae31e1e97dbe9fc8ff7c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d7087c4b4ba9e352ca2c1caa803409f932fe86bc0d0292fcdf6b67d97bc6ece4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd7c391ecd03637d8acdb037f7c937e8bf58e2f38c66f07ce98e362ef7c65aa1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d51b252e35f7a1b2ebf7568c87e65511746ee296c8c60a51606d10825498296d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d4ac0a6bbf59611de41d30f4186704b6ae58ad012540db7f0aef50ef1933f3c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b23cd2e89c90536b59e1e48de592a2963eea7c54ab8f923d5ce541c5af325194.jpg"
 	],
 	"releaseDate": 20260717,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Party"
+	],
+	"intro": "Jump, climb, and explore a world full of hidden surprises.\n",
+	"description": "Take control of a small stray kitten and begin an adventure through a vast abandoned factory filled with hidden pathways, towering structures, and forgotten corners. What appears to be an empty industrial complex soon reveals itself as a giant playground where curiosity and agility are the keys to progress.\n\nExplore rooftops, containers, warehouses, offices, and maintenance areas as you search for food and collectible figurines scattered throughout the environment. Climb, jump, and navigate challenging obstacles while uncovering secrets hidden across twenty unique levels. Every area offers new discoveries and rewards for those willing to venture off the beaten path.\n\nFeatures:\n\u2022 Explore a large factory filled with secrets, hidden paths, and unique locations\n\u2022 Run, jump, and climb across industrial structures and platforming challenges\n\u2022 Collect food and rare figurines throughout twenty exciting levels\n\u2022 Use your meow and bring extra personality to your adventure\n\u2022 Unlock new fur colors and customize the appearance of your kitten\n\u2022 Discover hidden collectibles, shortcuts, and rewards as you explore\n\nCan you uncover every secret hidden within the factory and complete the journey of a tiny stray cat?",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "974 MiB"

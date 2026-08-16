@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123438/5f8250facc8fa0da08cfbdab1410b898c3e0cc727b258f31625cc5e393350cf7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123438/95f8396aec30f226ac9dadc4eb2783c28a131fb846769054656857de0000e4af",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f8250facc8fa0da08cfbdab1410b898c3e0cc727b258f31625cc5e393350cf7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3a8ff7cf769ded347d45745b9b813d37b756a7a33c0ea9e637cd6f660f444d05.jpg",
 	"publisher": "VRCFORGE STUDIOS",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/3b694afd0453ee93fadb3233b9f6f80111c077c20673592cfa2a69cf14bed327.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/140048b2b66d11fe0d22a5210a6967595b6ca3aa4885016b61c074ab3b5a496f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/d8ad34bc7aac3ba533a883faf7c0657bdcf123b0417f6d7dd27b1991902636d1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/b8187e52bd4c7b23711930339971d463f9518087c9c034a1d8f44806f01a6b5c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/28eb87e46564c693ee88f5c8a9b29c420150befbf4efbe4d8403180cd22925f7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123438/8530129a5252fa8cef4f47aaa66b096cb91d46d5a0d13fd070959412a5c93f5a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3b694afd0453ee93fadb3233b9f6f80111c077c20673592cfa2a69cf14bed327.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/140048b2b66d11fe0d22a5210a6967595b6ca3aa4885016b61c074ab3b5a496f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d8ad34bc7aac3ba533a883faf7c0657bdcf123b0417f6d7dd27b1991902636d1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b8187e52bd4c7b23711930339971d463f9518087c9c034a1d8f44806f01a6b5c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/28eb87e46564c693ee88f5c8a9b29c420150befbf4efbe4d8403180cd22925f7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8530129a5252fa8cef4f47aaa66b096cb91d46d5a0d13fd070959412a5c93f5a.jpg"
 	],
 	"releaseDate": 20260808,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Simulation",
+		"Education"
+	],
+	"intro": "Can you experience the story that changed the world?\n",
+	"description": "Step into one of the most powerful stories ever told \u2014 the life of Jesus Christ. Jesus Simulator is a narrative-driven experience that brings the events of the Gospel to life with care, authenticity, and respect. Inspired by biblical texts and historically grounded sources, the game invites players to follow Jesus\u2019 journey from His early years through His ministry, teachings, miracles, and ultimate sacrifice.\n\nExperience a story shaped by faith, compassion, and choice as you interact with disciples, witness iconic moments, and explore meaningful encounters that have inspired generations. Through immersive storytelling and interactive elements, players discover the timeless values of love, mercy, forgiveness, and devotion.\n\nFeatures:\n\u2022 Immersive narrative experience presented in a visual novel style with interactive gameplay elements\n\u2022 Play from multiple perspectives, including Mary, Joseph, Jesus, and His disciples\n\u2022 Relive key Gospel events and miracles, recreated with respect and symbolic depth\n\u2022 Explore historically inspired locations reflecting the world of the New Testament\n\u2022 Thoughtful and respectful artistic direction designed to be accessible to all players\n\nJesus Simulator offers more than entertainment \u2014 it is a reflective journey through one of history\u2019s most influential stories.\n\nLive the story. Experience the message. Discover its meaning.\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "1.33 GiB"
 }

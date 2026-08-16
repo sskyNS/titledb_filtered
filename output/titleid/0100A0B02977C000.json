@@ -1,22 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133119/3c0bb34c0e98fb5972e7a1ff4f9a3a0e2834583a0efcb0c9711c81fe8eb58c69.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133119/505a3102eac27221bca8611c42af312ba16fc3e28a1960fb4281f3f97951a7a4",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3c0bb34c0e98fb5972e7a1ff4f9a3a0e2834583a0efcb0c9711c81fe8eb58c69.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/1ca10d3a8b79c8a7e5454cf51119e1d091c1713a45acac6c7062dd21bfbbc841.jpg",
 	"publisher": "Pix Arts",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/b6b4dbb2a65b2c21d04fc617c51a3fdbf962a19a1feb9a441554d587b1cc505a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/a6b4c6244d107fad9e2aeac1081f940ce73315681134a6b1fa1dcdb9e0228f63.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/b2a2604d122b008a4cbee2c4a2234eaa35473f95ec83bdef265aca6d5999163c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/e11354f724f18d8af17dd5a16ffd1aef503715d07ec8448291b0d029984c63e8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/720ad12b1cef053b542fc1fcf702c9f3a58e6b1e11d31c4794a1902c98b3270e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133119/98f868893682968a0006a71421d8de59b3220a0ca43f24462ce24abbd2e82c84.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/b6b4dbb2a65b2c21d04fc617c51a3fdbf962a19a1feb9a441554d587b1cc505a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a6b4c6244d107fad9e2aeac1081f940ce73315681134a6b1fa1dcdb9e0228f63.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b2a2604d122b008a4cbee2c4a2234eaa35473f95ec83bdef265aca6d5999163c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e11354f724f18d8af17dd5a16ffd1aef503715d07ec8448291b0d029984c63e8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/720ad12b1cef053b542fc1fcf702c9f3a58e6b1e11d31c4794a1902c98b3270e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/98f868893682968a0006a71421d8de59b3220a0ca43f24462ce24abbd2e82c84.jpg"
 	],
 	"releaseDate": 20260807,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle"
+	],
+	"intro": "340 levels of cozy, cuddly card fun.",
+	"description": "Curl up with the coziest card game on your console! Kitties Solitaire wraps the classic TriPeaks Solitaire experience in an adorable world of playful cats, warm colors, and charming feline companions.\nClear the peaks one card at a time in this relaxing yet endlessly engaging solitaire adventure. With 340 handcrafted levels, every session brings a fresh challenge \u2014 and a new reason to keep those paws tapping.\nFeatures:\n\nFull TriPeaks Solitaire \u2014 Master the beloved card system that's easy to learn and satisfying to perfect.\n340 Levels \u2014 A massive collection designed to keep you playing for hours on end.\nUnique Card Layouts \u2014 Varied and creative board designs ensure no two levels feel the same, delivering long-term engagement.\nSmooth & Responsive \u2014 Enjoy fluid animations and tight controls that make every move feel great.\nUndo & Rewards \u2014 Rethink your strategy with the handy undo system, and collect rewards as you climb each peak.\n\nWhether you're a solitaire veteran or just love cute cats, Kitties Solitaire is the purr-fect way to unwind. Deal yourself in and let the good times paw-r in!\n\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "255 MiB"

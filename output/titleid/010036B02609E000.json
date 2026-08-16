@@ -1,23 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113342/c14c310653cc7818f4efb4b86af433ffa40f22f5be27f0840d2a3e21204fbf28.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113342/9191e2bebececfc948ff3d8c93ac0850909f15f20aba5a5f78c79b85b76df88d",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c14c310653cc7818f4efb4b86af433ffa40f22f5be27f0840d2a3e21204fbf28.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b182b82c743e69cad037e5c6df2fdfca6b886fe178d3dcc03a0aa4dba520383.jpg",
 	"publisher": "Flying Rat Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/df5746809801fae707a311e804a59aa4da2dbf769f26849c53c1de584496c103.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/0aa93fbb435d62ff4eb8404a589c2188092d3df59b44f2e33f7550f5f68c23c3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/6855e98c2311154bbce19d0bbb7fcffffdffae21b27380860f1bb1aa757b9fdd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/806890d6869f15e62a3b14d0bae520e3ba27639b0d14de0671cb33ebf922e3e1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/c366bc29bc0a5da05643d7c02c3d16a902e5d3fda2f1f20c4c762cd50ddcbbdd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113342/81a980aff5c17fce90cb752ab7e266ec5707572e3f260644d00067d90c92f7c9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/df5746809801fae707a311e804a59aa4da2dbf769f26849c53c1de584496c103.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0aa93fbb435d62ff4eb8404a589c2188092d3df59b44f2e33f7550f5f68c23c3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6855e98c2311154bbce19d0bbb7fcffffdffae21b27380860f1bb1aa757b9fdd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/806890d6869f15e62a3b14d0bae520e3ba27639b0d14de0671cb33ebf922e3e1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c366bc29bc0a5da05643d7c02c3d16a902e5d3fda2f1f20c4c762cd50ddcbbdd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/81a980aff5c17fce90cb752ab7e266ec5707572e3f260644d00067d90c92f7c9.jpg"
 	],
 	"releaseDate": 20260721,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Adventure"
+	],
+	"intro": "Escape the sinking Aztec temple in this cartoonish rogue-like arcade platformer. ",
+	"description": "Pit Panic is a challenging rogue-like 2D platformer with fast pace, unique gameplay and environmental puzzles.\n\nTake on the role of a curious archeologist and race through handcrafted levels, take down ancient bosses and jump up like your pants are on fire.\n\nGET HOOKED!\nWield the mysterious hook \u2013 a powerful omnitool \u2013 that digs through blocks, swings you around and unlocks hidden treasures. Master physics-driven movement to avoid deadly traps and blast through interactive blocks. Turn sand into glass, jelly into fire and bridges into weapons, if necessary.\n\nTHINK FAST, RUN FASTER\nYou will have to dig deep to return to the surface. There are many ways to die, but only one way to survive: up. Get in the flow, make split-second decisions and even sacrifice your health for power-ups to escape the crumbling Aztec temple.\n\nEVERY RUN IS DIFFERENT\nDiscover four distinct biomes, each with unique puzzles, enemies and art styles. Over 1,000 unique handcrafted levels mix things up every time you play. Or build your own levels to put fellow adventurers to the ultimate test.\n\nCHALLENGE OTHER PLAYERS\nThe real fun starts after you climb out of the pit. Compare your skills with other players, beat their best times and complete unique daily challenges to receive precious rewards.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"pl",
+		"ko",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "1.61 GiB"
+	"size": "1.62 GiB"
 }

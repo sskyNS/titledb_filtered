@@ -1,23 +1,44 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000118192/f26a779a8b46933564206ead8aa6a152cd0153a6059a6641361b570d737a721e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/2202abefce1d4539912f27f980eaa144_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f26a779a8b46933564206ead8aa6a152cd0153a6059a6641361b570d737a721e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7980f9d05988bc33a0162cdda66299814714abdfbe392671d304398dc5e2b104.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/879a5db7710ad5801f670e2fe08ad485c3689a1265a7a02909309623bf181dbb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/0275e2b5b3d9caf31642f1d8bb29f46169952e1e451c4568a89b9354ebcda502.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/770e7aab18dca03b5a91ba40b012cb6cf872e9d707c8361b756b0a4377ded47f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/922918f63a8e8ce9a4bfcacd24ff8214717aa22ae6e746981237b6489e450a5e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/97cbb911b0e65c115780e83eeafa098943f69ebc30cf033452a9edeede77cce4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000118192/2ac9c8ef1a905546c52743c338c1175e2d69dd75125d259eb63f6fe864d98c08.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/879a5db7710ad5801f670e2fe08ad485c3689a1265a7a02909309623bf181dbb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0275e2b5b3d9caf31642f1d8bb29f46169952e1e451c4568a89b9354ebcda502.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/770e7aab18dca03b5a91ba40b012cb6cf872e9d707c8361b756b0a4377ded47f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/922918f63a8e8ce9a4bfcacd24ff8214717aa22ae6e746981237b6489e450a5e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/97cbb911b0e65c115780e83eeafa098943f69ebc30cf033452a9edeede77cce4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2ac9c8ef1a905546c52743c338c1175e2d69dd75125d259eb63f6fe864d98c08.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"First-Person Shooter",
+		"Shooter",
+		"Action"
+	],
+	"intro": "Shoot, dodge, kill, upgrade, unlock... do not let a single emoji escape!",
+	"description": "You awake in a mysterious casino where evil poker emojis have awakened \u2014 and they\u2019re not happy to see you.\n\nThis rogue-like first-person shooter throws you into a wild casino environments, fast-paced combat against gambling addicted emojis wearing funny hats and wielding powers.\n\nBefore each run, customize your experience with crazy modifiers: make enemies bounce, wear funny hats, or unleash maximum casino power for maximum challenge. \n\nArmed with just a pistol, you\u2019ll face wave after wave of emojis that rush, leap, explode, or even summon others to fight. Defeat them to collect glowing orbs, level up, and unlock upgrades or powerful new weapons. Each decision shapes your survival \u2014 will you go for raw power, faster reloads, or explosive mayhem?\n\nSurvive long enough, and you\u2019ll uncover new arenas, more upgrades, and deeper chaos for your next run.\n\nCan you conquer the casino before the emojis claim you?",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"th",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "4.92 GiB"
 }

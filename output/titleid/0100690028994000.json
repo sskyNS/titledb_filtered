@@ -1,22 +1,34 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000127752/0df2dd28eab76d84092205ca4b017333c5a7522531439d8863fa93a0b5448039.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/7e05f5fbf61d4f93bac37a663fac829d_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0df2dd28eab76d84092205ca4b017333c5a7522531439d8863fa93a0b5448039.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/884dd2bd510ac68f99a9bdf7babb8389e33fbc1c1ef3317b1da4c90def2b0aad.jpg",
 	"publisher": "GAME NACIONAL",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127752/78efd2e3fb834d9af67b508624a8df911c6b306d373663847737312fda3fc901.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127752/4bf4332a68b64938adacfcc08b26b89776414602b374be491391d905e2634012.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127752/b8a50a95d3282d214409bba33e50c9e678ba0f80fbb0d0172835ecc128352b46.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127752/e4d1c7bef800e56727faa629c7ea77b22ac444f571bc379a9a40a42cb4c04622.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000127752/e0464e1841eb16762e96d38bce9b6a81a66335c01ed3bef0c17946f5c691dc8a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/78efd2e3fb834d9af67b508624a8df911c6b306d373663847737312fda3fc901.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4bf4332a68b64938adacfcc08b26b89776414602b374be491391d905e2634012.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b8a50a95d3282d214409bba33e50c9e678ba0f80fbb0d0172835ecc128352b46.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e4d1c7bef800e56727faa629c7ea77b22ac444f571bc379a9a40a42cb4c04622.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e0464e1841eb16762e96d38bce9b6a81a66335c01ed3bef0c17946f5c691dc8a.jpg"
 	],
 	"releaseDate": 20260718,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "For those of us who have a dog, every one of them is a Super Dog. A game dedicated to all the dogs in the world.",
+	"description": "Embark on an exciting adventure alongside man's best friends. Explore vibrant new worlds, face dangerous enemies, collect coins to unlock adorable new puppies, and rescue the fourth dog, who has been kidnapped by the evil giant rat.\n\nPlay as a Shih Tzu, a Corgi, or a Bulldog, each ready to take on the adventure. Jump across challenging platforms, dodge deadly spikes, defeat both ground and flying enemies, and prove that every dog can be a Super Dog",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
-	"size": "51 MiB"
+	"size": "105 MiB"
 }

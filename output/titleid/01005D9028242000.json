@@ -1,23 +1,33 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124902/cad56b5a513e7eedb67ea94b132e25fb8e672c444d6afd01ad96b40bcb897d0d.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124902/a05d560c790f887a35f8f539fd5311c62fecb91fab1fac0a743ef35a15ed685f",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cad56b5a513e7eedb67ea94b132e25fb8e672c444d6afd01ad96b40bcb897d0d.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4f248f2c32ed35aa80cae16a2692ead141a4852e3f1bd92c1f83dd735302e21.jpg",
 	"publisher": "Dragon Path Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/bb919bb5cd199528c76a75fa2e22976cf3f7a818fb336241c93d244bf20f9529.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/bdef9b39469fefebd1e373cad63d7bcad3f7bb89c0d4f87a272c1065f8a2fca5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/94607c10dd38a4678822b35596d8bd189626f3190c9ccdd322d505a99a939055.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/5dc5b7eb1df6175181615f3daf22999c5bf9f050a659dca124227b0218ab97f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/d13bd2004a074fd7a28d95f62a2ac61790c8d2af1fffc59a5252589e4d6aa4b9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124902/9c33c789b2833141135ea6eb2e31397f177c1917230a98d35dd9fa2b8c616e7b.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/bb919bb5cd199528c76a75fa2e22976cf3f7a818fb336241c93d244bf20f9529.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bdef9b39469fefebd1e373cad63d7bcad3f7bb89c0d4f87a272c1065f8a2fca5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/94607c10dd38a4678822b35596d8bd189626f3190c9ccdd322d505a99a939055.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5dc5b7eb1df6175181615f3daf22999c5bf9f050a659dca124227b0218ab97f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d13bd2004a074fd7a28d95f62a2ac61790c8d2af1fffc59a5252589e4d6aa4b9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9c33c789b2833141135ea6eb2e31397f177c1917230a98d35dd9fa2b8c616e7b.jpg"
 	],
 	"releaseDate": 20260811,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Simulation",
+		"Shooter",
+		"Party"
+	],
+	"intro": "Can you escape before the undead surround you?\n",
+	"description": "Step into the chaos of ZOMBIE CAM: Bodycam Shooter, where every heartbeat counts and the undead are closing in. Feel the tension as you navigate dark corridors, dimly lit streets, and abandoned buildings, every step bringing danger closer.\nArm yourself with a mix of weapons and gear, from rifles and pistols to flashlights and grenades, and adapt on the fly to survive relentless waves of zombies. Each map offers a new challenge, each wave a test of courage\u2014and every second matters.\n\nFeatures:\n\u2022 Immerse yourself in a gritty bodycam perspective\n\u2022 Fight through waves of slow, fast, and cunning zombies\n\u2022 Explore three unique, atmospheric maps\n\u2022 Tense, time-limited action that keeps you on edge\n\u2022 Strategic combat with weapons and tactical gear\n\nDo you have what it takes to survive the night? Every shot, every move, every decision could be your last.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "1.48 GiB"
 }
