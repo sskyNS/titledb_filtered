@@ -1,10 +1,8 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ea973a68aef1cc04d5a9438f5a6f812c7494215bb3a2c97322c90c3e8de1bad5.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e79dc9a3bde009ea9bd5cfaa2fc20e96095bb17c1a911798545ad6fee6bf117c.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/26d7854c5b34e26bd8325bd6f6c5e271b611c2b4bf94dc9780e952204ba78f9c.jpg",
 	"publisher": "Black Lantern Collective",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/f2d5a92f294a50b5867ceb4d92b1829d4ef2ae0fc811e737790537fae9b4722f.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/1ab2a7d5998f40ce28bd7f481ee04297d8d0260b160940cbd17e502e281d753a.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/f678f63562b80a16102e3b3757ef19a01b413cd04c5de19d6ad0c5c40fb008d7.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/bec98fe9349de9db9a00be965541b37189a1f846a026c32a4b8f96e37c65c061.jpg"
 	],
@@ -13,7 +11,7 @@
 		"Puzzle"
 	],
 	"intro": null,
-	"description": "Angel Engine is a horror surgery simulator that explores a missing chapter of the Angel Engine series. Nuclear fire burned the skies long ago, leaving behind a world of ash -- but the Second Tower of Babel still stands. Join a crew of scientists in their effort to save the human species from damnation. But remember: there are no heroes here.",
+	"description": "Cage an angel. Ransack Heaven. In a far-flung dystopian future, the Angel Engine Initiative carries on as the last hope for humanity. Seal yourself in your operating room, perform surgery on comatose test subjects, and pray you make it out alive.",
 	"languages": [
 		"ja",
 		"en",
@@ -27,9 +25,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 12,
+	"rating": 13,
 	"ratingContent": [
-		"Moderate Violence"
+		"Blood",
+		"Violence"
 	],
 	"dlcs": [],
 	"size": "1.09 GiB"

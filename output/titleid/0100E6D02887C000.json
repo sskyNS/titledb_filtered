@@ -14,8 +14,8 @@
 	"category": [
 		"Action",
 		"Adventure",
-		"Simulation",
-		"Racing"
+		"Racing",
+		"Simulation"
 	],
 	"intro": "Feel the drift, not the rush\n",
 	"description": "Drifting isn\u2019t about speed \u2014 it\u2019s about control, flow, and style.\n\nStep into a relaxed yet skill-based drifting experience where every corner is an opportunity to build momentum and score. Set across snowy tracks with a clean low-poly aesthetic, the game focuses on smooth driving, precision, and maintaining long, controlled drifts.\n\nChain together turns, control your angle, and keep your speed to build higher scores. The closer you get to obstacles and the longer you hold your drift, the more rewarding each run becomes. Every mistake breaks your flow, so staying focused is key.\n\nUse handbrake turns to initiate drifts and nitro boosts to maintain speed through long curves. As you progress, unlock new cars with different handling styles and explore new locations designed to challenge your control and creativity behind the wheel.\n\nKey Features:\n\t\u2022\tDrift System: Earn points through angle, speed, and control\n\t\u2022\tSmooth Arcade Handling: Easy to learn, challenging to master\n\t\u2022\tNitro & Handbrake Mechanics: Extend drifts and maintain flow\n\t\u2022\tMultiple Cars: Unlock vehicles with unique driving feel\n\t\u2022\tSnowy Environments: Clean low-poly tracks with atmospheric design\n\t\u2022\tProgression System: Earn rewards, unlock locations, and improve performance\nArt of Drift \u2013 Cozy Drift Simulator delivers a satisfying drifting experience where precision, timing, and style define every ride.\n",
@@ -23,10 +23,8 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
-	"rating": 0,
-	"ratingContent": [
-		"General"
-	],
+	"rating": 6,
+	"ratingContent": [],
 	"dlcs": [],
 	"size": "999 MiB"
 }
