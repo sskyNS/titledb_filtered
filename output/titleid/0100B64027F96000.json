@@ -1,23 +1,37 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123999/6c4792968bbed26541554412d42841c81c99c7fa7347875b7fa1d527e9791cde.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000123999/ab10de2ae85c60319fcc3a74449af0e39db8daf9a5a4e5f2c445e501029122ca",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c4792968bbed26541554412d42841c81c99c7fa7347875b7fa1d527e9791cde.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/971d4dfe39de4448e5f99f5ee141b0958160ff7dbc2616171f76a696e8e3945c.jpg",
 	"publisher": "Numskull Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/d62b11a4d20cdcec7a119fc920ae512988d86b23a86c08b001d49d9be3db8090.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/15bed0def535cfc6254056bd25f505b7f90610d0acb2d3a6db3a06a939800462.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/705acc9e37cb6e0903881b16b62cfec6420365f496ccfc6b5f6190a1396f78d6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/0e20b3a209c7af859e3165a734e1a266c1fb0d5edfb3c59371de1588b5dc7def.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/952c47edc4d70cae02c17e09831f238e3afad196e2d24780d8768a3d2ed57d36.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000123999/75d5d77b017e43cf415452c7a1df8c6beb7f481c7b30ca42972600122209f3c4.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d62b11a4d20cdcec7a119fc920ae512988d86b23a86c08b001d49d9be3db8090.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/15bed0def535cfc6254056bd25f505b7f90610d0acb2d3a6db3a06a939800462.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/705acc9e37cb6e0903881b16b62cfec6420365f496ccfc6b5f6190a1396f78d6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0e20b3a209c7af859e3165a734e1a266c1fb0d5edfb3c59371de1588b5dc7def.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/952c47edc4d70cae02c17e09831f238e3afad196e2d24780d8768a3d2ed57d36.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/75d5d77b017e43cf415452c7a1df8c6beb7f481c7b30ca42972600122209f3c4.jpg"
 	],
 	"releaseDate": 20260910,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Puzzle",
+		"Other"
+	],
+	"intro": null,
+	"description": "The job is simple: destroy evidence. Leave no trace. Don\u2019t die in the process. \nHazard Pay is a pixel-art block-pushing puzzler set in a crumbling dystopian world. You\u2019ll navigate alone through abandoned and contaminated facilities, dodging environmental hazards while completing your employer\u2019s checklist with calculated efficiency.\nPack up the truck and head to the site. Mop the floors. Remove the evidence. Destroy the \u2588\u2588\u2588\u2588\u2588\u2588\u2588. Do not leave anything behind, not even your footsteps. There\u2019s blood on the floor and smoke in the air. Relax. It\u2019s just another accident to clean up. Do the job properly and no one has to get in trouble. \nEach site is a compact, intricate puzzle with moving parts. You can use the environment to gather scattered documents or push \u2588\u2588\u2588\u2588\u2588\u2588\u2588 into chemical barrels to erase any wrongdoing. One wrong move, and you could be trapped, dissolved in acid, or worse. Plan ahead. Improvise when you must. Stay sharp. Global Leaderboards.\nEven after a job\u2019s done, you can always go back. Every move is tracked, and your final step count determines your rank. Pull off a perfect run, and your name might just show up on the global leaderboard. Compare your stats with friends or the world. Just remember, your employer is always watching.\nAll you know is the name: IPT. No faces, no meetings. Just a radio, and they talk first. You can feel something\u2019s off. But are you really ready to dig into it? Some things are better left buried. Will you stay obedient\u2026 or resist? Features Ingenious, compact, handcrafted puzzle levels. Grid-based push/pull mechanics with environmental twists. Global and friends leaderboards. Dystopian narrative told through the environment. Detailed pixel art and matching atmosphere.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
 	"size": "194 MiB"
 }
