@@ -10,10 +10,10 @@
 		"https://img-eshop.cdn.nintendo.net/i/f47a6ac52f049695dafd9154a6382b0f22b4d217251018181f37fe65fe9dd383.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/5d49d132d3d63d87be4312e4b96ac7d8d5da371f1d2e23e69a72465e396c099f.jpg"
 	],
-	"releaseDate": 20260519,
+	"releaseDate": 20260818,
 	"category": [
-		"Simulation",
 		"Action",
+		"Simulation",
 		"Party",
 		"Puzzle"
 	],
@@ -22,9 +22,11 @@
 	"languages": [
 		"en"
 	],
-	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Violent References"
+	],
 	"dlcs": [],
-	"size": "1.01 GiB"
+	"size": "1.07 GiB"
 }

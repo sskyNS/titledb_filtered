@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000134081/71a1786e1501cbe032756149e17639510b0af2654fd2fe3a3cccf30bb6456b1f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/aeed745388914ea89b5cae3588a18602_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71a1786e1501cbe032756149e17639510b0af2654fd2fe3a3cccf30bb6456b1f.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/02c8cb1fe86104ad7cdca663158aef496d3a32dbd5e46db31d4d79fabace24c3.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/1b212c5265530b5a33d5bdf288a650df95e4fa37d52d842884a5fe14a80e38f5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/86895c6a569f84b7549d265bb0dfe295f717d44a9c7bcef9b773b2f32a3a46ea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/ce485a54c2fe075ca26b2263ce4692c85a1d4dbd4c58b25da862e09f9e5c876a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/edab22ca75d24cd438603007556cc4e44954b33966de15fc918d3bf99467d29d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/d200794ddecd980ae0b7f91dab76c268ae5ca0886f54ee4e852c600d555199d5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000134081/db529e59baeb4abc8c177e9674e75cbb793c3c02d733bb4afe6de97b18a87a5e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1b212c5265530b5a33d5bdf288a650df95e4fa37d52d842884a5fe14a80e38f5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/86895c6a569f84b7549d265bb0dfe295f717d44a9c7bcef9b773b2f32a3a46ea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ce485a54c2fe075ca26b2263ce4692c85a1d4dbd4c58b25da862e09f9e5c876a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/edab22ca75d24cd438603007556cc4e44954b33966de15fc918d3bf99467d29d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d200794ddecd980ae0b7f91dab76c268ae5ca0886f54ee4e852c600d555199d5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/db529e59baeb4abc8c177e9674e75cbb793c3c02d733bb4afe6de97b18a87a5e.jpg"
 	],
 	"releaseDate": 20260917,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Puzzle",
+		"Board Game",
+		"Other"
+	],
+	"intro": null,
+	"description": "Discover a fresh twist on classic jigsaw puzzles in Jigsaw Puzzle Fun Shapes! Complete 30 colorful and entertaining levels featuring unique puzzle pieces in all kinds of fun and creative shapes.\n\nEach puzzle offers a charming illustration and a new challenge, making every level feel different. With cute artwork, vibrant colors, and relaxing gameplay, it's a delightful experience for players of all ages.\n\nFeatures:\n>30 puzzle levels\n>Colorful, cute artwork\n>Relaxing gameplay with no time limits\n>Suitable for players of all ages\n>Easy to pick up and play",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "130 MiB"

@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122475/129ddb62f11a5568257a3f28d91653ec8726ce00dd53798d84b8e79157264865.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122475/5367681066d04a6144efbfc2c13ed6476081608f7853c352224c189e34f8f97d",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/129ddb62f11a5568257a3f28d91653ec8726ce00dd53798d84b8e79157264865.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf390bfba12a0e62c91ebf74a39c42288c95eef5083ea7e3f53c631e2a9be973.jpg",
 	"publisher": "Triple Boris",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/a8a1c1da1ffc844c5219812486e54d390c4775a5d07253cfe03423ed3f293b32.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/d1dac99d2f759f2ea70b1d7611d7314bf7eb9803b359d98c87692ff477cd0bf1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/c30bab2ccb6e63c310438255d4e417196b5cdc488a56d694bf8518e0f999ed1f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/8d41d308ab25d587611ddb36c9d59128898dd8c96a6dcb1addb2dcedafb58915.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/e5b2eadae2522101459a32a3d2550cf667c67ef64530bee6dbd33f61bfd5f9c2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122475/64253d62c388a5d643a6cde4ef54eacc882846d2687b9d905d5a97bf8465fcfa.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/a8a1c1da1ffc844c5219812486e54d390c4775a5d07253cfe03423ed3f293b32.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d1dac99d2f759f2ea70b1d7611d7314bf7eb9803b359d98c87692ff477cd0bf1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c30bab2ccb6e63c310438255d4e417196b5cdc488a56d694bf8518e0f999ed1f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8d41d308ab25d587611ddb36c9d59128898dd8c96a6dcb1addb2dcedafb58915.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e5b2eadae2522101459a32a3d2550cf667c67ef64530bee6dbd33f61bfd5f9c2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/64253d62c388a5d643a6cde4ef54eacc882846d2687b9d905d5a97bf8465fcfa.jpg"
 	],
 	"releaseDate": 20260924,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Party",
+		"Multiplayer",
+		"Action",
+		"Other"
+	],
+	"intro": "Physics meets tower defense in this chaotic party game.",
+	"description": "Craft barricades and turrets with whatever you can find. But beware: relentless waves of enemies are coming to tear down everything you build.",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ko",
+		"zh",
+		"zh"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "2.29 GiB"
 }
