@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000113819/f5413564bd8e1c46b980c17e277b325d2de063eb4e645e544c48cf887a6e46c0.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b456203559804bb2b01ebaa218c17272_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5413564bd8e1c46b980c17e277b325d2de063eb4e645e544c48cf887a6e46c0.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ac4b2607516138df0cc9447be1c818c7d77e511734675bc8f5111824dc4426a.jpg",
 	"publisher": "SUNNY SIDE UP",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/5703152cb2527b4042ca59feabb1b9467904efda524f0b6361c5d3dc5cf72afb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/fbd98caedf4bc9943dd91f2a830ef133578a83b5ced0ac46533f7316935c8f4b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/c096b6343727f812c3d47e7604802b85b7ffc14d996c3db4a722780958a32951.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/5eaecaa2ed0276d733cd54baf661f65d3d3faecfc63a369e2c7d8bab1344b6b8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/052518038c9fdc03034c2568781ec31e705e335fdedf0784810b4cd0ecd489c6.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000113819/bf821c436ec28201ad11057ddf34b2b91fd36dae356072a4dd445cc1b521d3e9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5703152cb2527b4042ca59feabb1b9467904efda524f0b6361c5d3dc5cf72afb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fbd98caedf4bc9943dd91f2a830ef133578a83b5ced0ac46533f7316935c8f4b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c096b6343727f812c3d47e7604802b85b7ffc14d996c3db4a722780958a32951.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5eaecaa2ed0276d733cd54baf661f65d3d3faecfc63a369e2c7d8bab1344b6b8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/052518038c9fdc03034c2568781ec31e705e335fdedf0784810b4cd0ecd489c6.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/bf821c436ec28201ad11057ddf34b2b91fd36dae356072a4dd445cc1b521d3e9.jpg"
 	],
 	"releaseDate": 20260916,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure",
+		"Simulation",
+		"Other"
+	],
+	"intro": "Begin a cozy apprentice witch life in the woods with Ellie.",
+	"description": "Time To Usher In a Life As Ellie the Little Apprentice Witch!\n\u2022 Step into the shoes of Ellie, an apprentice witch dispatched from Lucerine Ortu\u2014a land of witches\u2014and experience her journey of self development!\n\u2022 Explore brand-new areas, craft potions and help the villagers. A heartwarming and cozy adventure awaits you here.\n\u2022 Fish, gather, decorate your house, and interact with cats! We have all kinds of activities that will make every day an unforgettable experience.\n\nActivities and Explorations as a Witch\n\u2022 Navigate forests, caves, cliffs and lakes on your broom to meet adorable life forms and complete your Encyclopedia.\n\u2022 Gather materials to craft problem-solving potions, discover hidden treasures and unlock new paths.\n\nStories of the Village and Its Inhabitants\n\u2022 Work as an apprentice witch. Help out at the village and solve problems for the villagers.\n\u2022 Make friends with the villagers as you restore the village. By establishing bonds, you can unlock their stories and even learn about their secrets.\n\nCollections and Home Decoration\n\u2022 Gather recipes and materials to craft furniture, which will give your living space a personal touch.\n\u2022 Collect and customize brooms to add extra enjoyment to your explorations.\n\nLaid-back Moments\n\u2022 Spend your peaceful free time fishing and chatting. Interact with cats to deepen your cross-species friendships.\n\u2022 Create your exclusive story in this magical yet ever so relatable world!",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Alcohol Reference"
+	],
 	"dlcs": [],
 	"size": "727 MiB"
 }

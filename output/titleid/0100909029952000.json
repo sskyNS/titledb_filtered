@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133681/22493c59ed483f6147fbda9874cf65ba7a38a9008242c1d404addaf467355e61.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3b6403384c954020850ca4a3ba88bbdf_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22493c59ed483f6147fbda9874cf65ba7a38a9008242c1d404addaf467355e61.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3a6d19c194a0d38b8ac69f21d62da8913fb43c98b3949d61a7a92a0788ebdfca.jpg",
 	"publisher": "Downmeadowstreet",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/3d0f7e365cea8a1aa3d98c20ba59659bab2d230b7bb51ca0d5aa8a0c3812e319.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/2ab44806d7d813412c7a8d47fe1fcc87680fd248a811d114e9bb077d7f1d355b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/ee9124cbcdd08724aa169e8231b91047870ba2a7c7744477db47e9907dfd9e7c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/1871aa98ed107eb4550849df9807c3b1cae26a8403ed0ba869ed5810c1ab6a83.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/cde00a2128363422cc902d6be749a0925ee01521b75bdf6d14c237dad028815b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133681/452806e33f76020d63addf22221110d04bee5865fa138140bbdddee33a813690.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3d0f7e365cea8a1aa3d98c20ba59659bab2d230b7bb51ca0d5aa8a0c3812e319.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2ab44806d7d813412c7a8d47fe1fcc87680fd248a811d114e9bb077d7f1d355b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ee9124cbcdd08724aa169e8231b91047870ba2a7c7744477db47e9907dfd9e7c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1871aa98ed107eb4550849df9807c3b1cae26a8403ed0ba869ed5810c1ab6a83.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cde00a2128363422cc902d6be749a0925ee01521b75bdf6d14c237dad028815b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/452806e33f76020d63addf22221110d04bee5865fa138140bbdddee33a813690.jpg"
 	],
 	"releaseDate": 20260919,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Action",
+		"Platformer",
+		"Other"
+	],
+	"intro": "Keep moving!",
+	"description": "Test your parkour skills in a dangerous lava-filled obstacle course packed with moving platforms and deadly traps. Time your jumps carefully and make it to the end of every level without falling into the magma.\n\nThink you've mastered the course? Try Hardcore Mode, where every checkpoint is disabled. One mistake means starting over.\n\nFeatures\n>Complete exciting lava-themed parkour levels.\n>Jump across moving platforms and over molten magma.\n>Use checkpoints to save your progress.\n>Take on Hardcore Mode with no checkpoints.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "318 MiB"
