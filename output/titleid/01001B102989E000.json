@@ -1,22 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000133457/2c0d7a6dfadfdf106c3b046d65c22b8aadf0908a7c38f64c27f96832145257ea.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6bb0d6e7c8db43c7b76e1e40341dfbf3_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c0d7a6dfadfdf106c3b046d65c22b8aadf0908a7c38f64c27f96832145257ea.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/986b50750727fa100669964e2d8562a000b8f5c676bf239eabf0351fe2bdaa4e.jpg",
 	"publisher": "Max Interactive Studio",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/26f27f1bf53e80baa6efcd10cbcc0e99a28fc5873da093c673b09b0bd8c04f79.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/6402cfdad3226024b8e26e8605b497af955763a4c3e874af8cca09e75065c2e0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/32a5d63ea0292ee5ffd4e62fe3c63994f6390c17ced862a140cde69802cf14db.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/112bf9cd460b6cb233921a5d22f95761d29ca91e040e61cbcaa99876879f87ad.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/be04e9479c4a0d017281d894f19d584dcd6c6cb76d312b3b174e2e4520da75fe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000133457/ebcd2db297190cadd0f4a40842cb569ccf43dbbb7ce4140e6b547b81597f933c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/26f27f1bf53e80baa6efcd10cbcc0e99a28fc5873da093c673b09b0bd8c04f79.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6402cfdad3226024b8e26e8605b497af955763a4c3e874af8cca09e75065c2e0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/32a5d63ea0292ee5ffd4e62fe3c63994f6390c17ced862a140cde69802cf14db.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/112bf9cd460b6cb233921a5d22f95761d29ca91e040e61cbcaa99876879f87ad.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/be04e9479c4a0d017281d894f19d584dcd6c6cb76d312b3b174e2e4520da75fe.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/ebcd2db297190cadd0f4a40842cb569ccf43dbbb7ce4140e6b547b81597f933c.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Education",
+		"Puzzle",
+		"Study",
+		"Training"
+	],
+	"intro": "Build words, score points, and master the hive.",
+	"description": "Word Hive 3 is a word puzzle game where each puzzle gives you eight letters: seven outer letters and one required center letter. Use them to create as many words as possible. Every word must include the center letter.\n\nLetters may be used more than once, and each word must contain at least four letters. Longer words earn more points, while special words that use all eight letters, known as pangrams, award bonus points.\n\nPut your mind to the test with every puzzle, discover new words, expand your vocabulary, and enjoy a rewarding word puzzle experience.\n\nIncrease your score to climb the global ranks, uncover every hidden word, and become the ultimate word master.\n\nWord Hive 3 uses an British English dictionary.\n\nFeatures\n\u2022 Play through 5,000 all-new word puzzle levels\n\u2022 Discover special words called pangrams by using all eight letters\n\u2022 Learn new English words and expand your vocabulary as you play\n\u2022 Compete with players around the world on the online leaderboard\n\u2022 Resume your last game and continue where you left off\n\u2022 Play in Handheld Mode, Tabletop Mode, or TV Mode",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "376 MiB"

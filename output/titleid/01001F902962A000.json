@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132564/bd43b5110392d543b21c590cf1c85b904a7a7b4b32c0284d053d811530c79839.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132564/51d979102259f33b412bc02c4020f729e819a3fcc772a42a010397248a4a83dc",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd43b5110392d543b21c590cf1c85b904a7a7b4b32c0284d053d811530c79839.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/81d2648f99f54e8a22f14fcae3a6f81fc40cdcce303db94d8c862857e61c9b77.jpg",
 	"publisher": "GaniTani",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/31adb37dd06d8d7d81cfc9c441c71f89ec1a2e52b87f0a3369fb52ab96820567.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/fa2b3016155a5821ee9c3a9b76f12bba0ef6552253c482d15f5502a8d6a17b75.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/70d569b8888c043a8d80220ba8325c3f25dac9771e1a94c3f947919cbcca7cfa.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/8bc8ca9fa2bf9a01e13e4fe18b883e617ab772f5f408f6afaa0bf66e08165770.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/4389d2bd398189b4ff4942a0f96b1477284396f5d5ed2885251bf75cc2f493e8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132564/05cbdfce04adf676ca506b3c4399bb861aeaa1666c9e9bf7feea9dc0bb47db69.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/31adb37dd06d8d7d81cfc9c441c71f89ec1a2e52b87f0a3369fb52ab96820567.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fa2b3016155a5821ee9c3a9b76f12bba0ef6552253c482d15f5502a8d6a17b75.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/70d569b8888c043a8d80220ba8325c3f25dac9771e1a94c3f947919cbcca7cfa.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8bc8ca9fa2bf9a01e13e4fe18b883e617ab772f5f408f6afaa0bf66e08165770.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4389d2bd398189b4ff4942a0f96b1477284396f5d5ed2885251bf75cc2f493e8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/05cbdfce04adf676ca506b3c4399bb861aeaa1666c9e9bf7feea9dc0bb47db69.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Education",
+		"Training",
+		"Study"
+	],
+	"intro": "An emotional, creative children's game where you color your own storybook and write your own tales.",
+	"description": "Crayon Story: Thumbelina is a creativity-boosting game based on the classic fairy tale that children love. Beyond just playing, children can decorate scenes and complete stories in their own words, fostering a sense of accomplishment.\n\n\nKey Features\n\n\nColoring: Touch the screen to fill scenes with vibrant colors. With intuitive controls, anyone can easily create their own masterpiece.\n\n\nWriting: Write your own sentences to match the colored scenes. Your child's imagination brings a unique version of 'Thumbelina' to life.\n\n\nPersonal Gallery: Completed pages are saved in your gallery, so you can revisit and enjoy your custom storybook anytime.\n\n\nStart a fun artistic journey with Crayon Story: Thumbelina by GaniTani!",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "104 MiB"

@@ -9,12 +9,13 @@
 	],
 	"releaseDate": 20260910,
 	"category": [
-		"\u30a2\u30fc\u30b1\u30fc\u30c9",
-		"\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-		"\u30d1\u30ba\u30eb"
+		"Arcade",
+		"Action",
+		"Adventure",
+		"Platformer"
 	],
-	"intro": "\u56db\u3064\u306e\u4e16\u754c\u3002\u3072\u3068\u308a\u306e\u82f1\u96c4\u3002\u4f1d\u8aac\u306e\u5192\u967a\u306e\u59cb\u307e\u308a\u3002",
-	"description": "KUBO\u3068\u5171\u306b\u65b0\u3057\u3044\u5192\u967a\u3078\u51fa\u767a\u3057\u307e\u3057\u3087\u3046\u3002\u60aa\u540d\u9ad8\u304d\u30e2\u30b0\u30e9\u30fc\u306b\u8a98\u62d0\u3055\u308c\u305f\u4f4f\u6c11\u305f\u3061\u3092\u6551\u3046\u305f\u3081\u3001\u8056\u306a\u308b\u7d50\u6676\u3092\u6c42\u3081\u3066\u4e16\u754c\u306e\u56db\u9685\u3092\u5192\u967a\u3057\u307e\u3059\u3002\n\n\u5730\u4e0b\u4e16\u754c\u3001\u5893\u5730\u3001\u6c34\u4e2d\u4e16\u754c\u3001\u7a7a\u306e\u4e16\u754c\u3092\u5de1\u308a\u3001\u6575\u306e\u57ce\u3067\u306e\u6700\u7d42\u6c7a\u6226\u307e\u3067\u3001\u6570\u591a\u304f\u306e\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u30dc\u30b9\u306b\u7acb\u3061\u5411\u304b\u3044\u306a\u304c\u3089\u30a2\u30a4\u30c6\u30e0\u3092\u96c6\u3081\u307e\u3057\u3087\u3046\u3002\n\n- 4\u3064\u306e\u30e6\u30cb\u30fc\u30af\u306a\u4e16\u754c\u3092\u63a2\u7d22\uff1a\u5730\u4e0b\u4e16\u754c\u3001\u5893\u5730\u3001\u6c34\u4e2d\u4e16\u754c\u3001\u7a7a\u306e\u4e16\u754c\n- \u30e2\u30b0\u30e9\u30fc\u306e\u57ce\u3078\u5411\u304b\u3046\u9053\u306e\u308a\u3067\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u30dc\u30b9\u3068\u306e\u6226\u95d8\n- KUBO\u3068KUBO 2\u3082\u30d7\u30ec\u30a4\u53ef\u80fd",
+	"intro": "Four worlds. One hero. And the two adventures that started it all.",
+	"description": "Join KUBO in a new adventure that will take you to the four corners of the world in search of the sacred crystals to free the inhabitants kidnapped by the infamous Moglar!\n\nJourney through the underworld, the graveyard, the underwater world, and the skies. Collect the items \u2014 there will be many monsters and bosses on your way before the final battle in your enemy's castle!\n\n- Explore four unique worlds: the underworld, the graveyard, the underwater realm, and the skies\n- Battle monsters and bosses on the road to Moglar's castle\n- Also includes KUBO and KUBO 2",
 	"languages": [
 		"ja",
 		"en",
@@ -30,7 +31,7 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "290 MiB"

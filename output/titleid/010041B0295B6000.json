@@ -1,23 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132426/577fb5e82f0a1056870e09e9a815bf22bd296126eaf7bf120602d1eebe6c6652.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000132426/cfd0006fcb07d56683a564083aeea097e145a4e6c1be4a087bef60a44ec1a27b",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/577fb5e82f0a1056870e09e9a815bf22bd296126eaf7bf120602d1eebe6c6652.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d541ff3071197419bb8025ce57fe3adfa11b4341c389b7c601646b44f6360cf4.jpg",
 	"publisher": "Top Hat Studios",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/ba653a5d56e6488686e8a4d754459de4f5a63eb54c22048c893fa5347f8790d4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/2771344b956ced009deef71b926a14c4038725a200c625c26bdf43507f46f88d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/623b809ed8feed9337cbd217845877c13a3fc911f1054cb69203297574345967.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/6cbd2cd911bd14fa9fb02762755defdabb9765e7c317b07fd4ce0f186414cb3b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/5fcd4521359d52a019216141b5dddad21d53bf9d0c8e0b2ca1b6d5614b30e465.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000132426/fea9d2285f31551975de8aa3b55c91037860e2403f82e301d7e2b59fb3dada10.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ba653a5d56e6488686e8a4d754459de4f5a63eb54c22048c893fa5347f8790d4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2771344b956ced009deef71b926a14c4038725a200c625c26bdf43507f46f88d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/623b809ed8feed9337cbd217845877c13a3fc911f1054cb69203297574345967.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6cbd2cd911bd14fa9fb02762755defdabb9765e7c317b07fd4ce0f186414cb3b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5fcd4521359d52a019216141b5dddad21d53bf9d0c8e0b2ca1b6d5614b30e465.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fea9d2285f31551975de8aa3b55c91037860e2403f82e301d7e2b59fb3dada10.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Adventure"
+	],
+	"intro": "In a society plagued by visions of the future, a group of friends attempt to find their own way in a predestined life. A fully voice acted dystopian furry visual novel/dating-sim. ",
+	"description": "Komorebi is a fully voice acted story taking place in a dystopian 2041. Set against the backdrop of social revolt, you move to Toronto to start a brand new chapter in your life. Make friends, party, and form bonds and romances that will last a lifetime! While pages turn in your life however, they also turn in the world. As your morals clash with those in power, you and your group may walk an irreversible path in the name of equality and a brighter future.\n\nEnjoy your new life...\n\nFEATURES\n- A lengthy story, several full novels in length.\n- Approx. 18,000 lines over 150,000 words of dialogue.\n- Over 10 hours of voiceover audio delivered by an incredible cast.\n- Romance a varied cast of characters with no limitations or restrictions. Romance one, or all.\n- Experience the story in your own unique way, through the Fragment Map system.\n- Gain more insight into the world through diary entries and counselor sessions.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Language",
+		"Suggestive Themes",
+		"Use of Alcohol"
+	],
 	"dlcs": [],
 	"size": "2.02 GiB"
 }

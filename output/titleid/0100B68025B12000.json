@@ -16,7 +16,7 @@
 		"Other"
 	],
 	"intro": "Unable to sleep, you navigate a quiet condo complex. There's no rush - just you, the building, its inhabitants, and the stories they hold.",
-	"description": "Condo is a quiet, short, and atmospheric first-person exploration game. You wander through an apartment complex at night, meet its residents, and uncover hidden stories.\n\nPlaytime: \u2248 30 minutes. \nFinding all events unlocks an ending. \nNo rush. No destination. \u2665",
+	"description": "Condo is a quiet, short, and atmospheric first-person exploration game. You wander through an apartment complex at night, meet its residents, and uncover hidden stories.\n\nPlaytime:  \u2248 30 minutes.\nFinding all events unlocks an ending.\nNo rush. No destination. \u2665",
 	"languages": [
 		"ja",
 		"en",
@@ -26,8 +26,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
-	"ratingContent": [],
+	"rating": 6,
+	"ratingContent": [
+		"Tobacco Reference"
+	],
 	"dlcs": [],
 	"size": "228 MiB"
 }

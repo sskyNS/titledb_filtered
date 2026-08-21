@@ -15,8 +15,8 @@
 		"Training",
 		"Party"
 	],
-	"intro": "Build first English words with a fun quiz!",
-	"description": "\u203bPlease note that this game does not support English.\n\nWant to build useful English vocabulary before secondary school?\n\nThis is a light, friendly quiz game for learning basic English words that are handy to know while children are still in primary school.\n\nHow to play is simple:\n\u30fbLook carefully at the picture\n\u30fbChoose the matching English word from 4 options\n\u30fbWhen you answer correctly, read a clear explanation\n\nEven if you are not sure at first, take your time and compare the picture with the choices.\n\nGet every question right and your English confidence may grow step by step. It is a fun way to get ahead in everyday learning.\n\nWhether you dream of using English in the future or just want school study to feel a bit easier, why not start with a quick quiz today?\n\nButton and touch controls are supported.",
+	"intro": "Ready for first English words?",
+	"description": "Can your child build English confidence one word at a time?\n\nWords learned early can make school feel a little easier. This quiz game helps kids practice basic English vocabulary in a fun, low-pressure way.\n\nHow to play:\n\u30fbLook closely at the picture\n\u30fbPick the matching English word from 4 choices\n\u30fbGet it right to read a detailed explanation\n\nEven when a word feels new, each question is simple to try, so kids can learn by playing again and again.\n\nAim for a perfect score and give English study a fun head start!\n\nPerfect for kids who dream of using English someday, and for anyone who wants school practice to feel more like play.\n\nSupports button controls and touch controls.",
 	"languages": [
 		"ja",
 		"es",
@@ -24,10 +24,8 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 0,
-	"ratingContent": [
-		"General"
-	],
+	"rating": 6,
+	"ratingContent": [],
 	"dlcs": [],
 	"size": "362 MiB"
 }

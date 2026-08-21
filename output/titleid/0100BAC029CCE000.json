@@ -1,22 +1,38 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000135048/3688ed3638bebe1b89727913167a4efab4ab9c16539c435286460fdf6f7adf5a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000135048/a3d33f04d296cd4581fc193190db981453bba62642fe58cc8382f8dc1091a9fb",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3688ed3638bebe1b89727913167a4efab4ab9c16539c435286460fdf6f7adf5a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/88f2f8ba9f0daf4b90cf31028077d7a3000b02f47187115eb5a1e8e031a515cd.jpg",
 	"publisher": "Iurie",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/516ea0ae92935778ead5f549462758b5056a26c5f02621f533e9b3b87ef35169.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/064ef8a7dbdfa3d67b832654f06d978f5074fcb6174bc6c64b229db50b50090f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/e7840cbda04dc0897b0b70220f82e68d5b0c742e8ff2a209e7b3a74fbe76338c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/cc14a84344542b037e7424edb7eccb201031d99185b2c7bae93f50f4ca537adb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/e8cf062f69e283762f76dd88b41c258279b471219eaf547975b59c29c1e58038.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135048/8f32eb414d1ef758125649b92ed93b40b6b5b0593d3dd08f9f1429b69ce16e0e.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/516ea0ae92935778ead5f549462758b5056a26c5f02621f533e9b3b87ef35169.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/064ef8a7dbdfa3d67b832654f06d978f5074fcb6174bc6c64b229db50b50090f.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e7840cbda04dc0897b0b70220f82e68d5b0c742e8ff2a209e7b3a74fbe76338c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/cc14a84344542b037e7424edb7eccb201031d99185b2c7bae93f50f4ca537adb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e8cf062f69e283762f76dd88b41c258279b471219eaf547975b59c29c1e58038.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8f32eb414d1ef758125649b92ed93b40b6b5b0593d3dd08f9f1429b69ce16e0e.jpg"
 	],
 	"releaseDate": 20260820,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Lifestyle",
+		"Arcade"
+	],
+	"intro": "Welcome guests, upgrade rooms, hire staff and build the hotel empire of your dreams!",
+	"description": "Welcome to Hotel Tycoon, a fun and relaxing hotel management game where every happy guest brings you closer to building the ultimate hotel empire!\n\nStart with a small hotel and transform it into a thriving business. Clean rooms, welcome new guests, collect money, upgrade furniture, unlock stylish decorations and expand your hotel floor by floor.\n\nHire helpful employees to speed up your business, improve every room and keep your guests satisfied while your hotel grows bigger than ever.\n\nUnlock new character skins with unique bonuses to customize your manager and improve your gameplay.\n\nMeet all kinds of funny visitors along the way. Most guests are ordinary travelers, but don't be surprised when strange visitors check in too. Skeletons, aliens and other unexpected characters can appear and make every session more entertaining.\n\nOnce you've mastered your first hotel, move on to an even bigger location with new opportunities and continue growing your hospitality empire.\n\nWhether you enjoy relaxing simulation games, casual tycoon experiences or management games, Hotel Tycoon offers several hours of satisfying progression that's easy to learn and rewarding to master.\n\nFeatures\n\n\u2022 Build and manage your own hotel\n\n\u2022 Clean rooms and prepare them for new guests\n\n\u2022 Welcome a variety of visitors\n\n\u2022 Upgrade rooms with better furniture\n\n\u2022 Expand your hotel with new areas\n\n\u2022 Hire employees to automate your business\n\n\u2022 Unlock character skins with unique bonuses\n\n\u2022 Earn money and grow your hotel empire\n\n\u2022 Discover funny special guests including skeletons and aliens\n\n\u2022 Unlock a second hotel with new challenges\n\nBecome the ultimate Hotel Tycoon!",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"pt",
+		"ru",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "188 MiB"

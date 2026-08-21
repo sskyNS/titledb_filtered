@@ -1,23 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117552/4d9245415444e544084012fcbe97869a1182ccc65ff3e865b780e8675d4d2f55.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/247ceedeb5d54a3796122f5f1d8f8103_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d9245415444e544084012fcbe97869a1182ccc65ff3e865b780e8675d4d2f55.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/55ff6bd32d95241a25e8c815fcac17c9694689e69a0576811abc76a40bb5da39.jpg",
 	"publisher": "Ratalaika Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/1c03209bfe9654a024139a063533e6c34caad64ea9d05b28452235dc94edd74a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/c4d0752b5282565239dfc6c2eb71d30cd5ce9ea3d334ebdcfedb1126b0fd20a2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/62f17c6a322839c9fa8f751fb8401aa68ceb6e4aa7b82a6271561115a473d015.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/980306773c70b8e21ecc1900a8768718ffbaf202e0e4734818ff22d074bae301.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/03ad55ba55dbeedf75fa80bae8f29b3203aecdcb459340c92fdd5919f80d5aee.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117552/32e55b26e789816d732baa97a9ba32fe146846e75fd0f2a01e934e3261bcc1e9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1c03209bfe9654a024139a063533e6c34caad64ea9d05b28452235dc94edd74a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c4d0752b5282565239dfc6c2eb71d30cd5ce9ea3d334ebdcfedb1126b0fd20a2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/62f17c6a322839c9fa8f751fb8401aa68ceb6e4aa7b82a6271561115a473d015.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/980306773c70b8e21ecc1900a8768718ffbaf202e0e4734818ff22d074bae301.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/03ad55ba55dbeedf75fa80bae8f29b3203aecdcb459340c92fdd5919f80d5aee.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/32e55b26e789816d732baa97a9ba32fe146846e75fd0f2a01e934e3261bcc1e9.jpg"
 	],
 	"releaseDate": 20260904,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Explore the island of Formentera and uncover its stories and ancient legends",
+	"description": "Tales of Formentera is an adventure game set on a small island inspired by the real landscapes of Formentera, where old legends shape its history. Something mysterious is happening, and the people of the island need your help to uncover the truth.\n\nExplore the island freely, visit its most iconic locations, and talk to the locals to learn about their stories, traditions, and legends. You will piece together clues that help you understand what is really going on. \n\nThroughout your journey, you will discover hidden places, solve puzzles, collect unique items, and help islanders with optional side quests. Tales of Formentera invites you to explore at your own pace and uncover the secrets of an island full of history, mystery, and charm.\n\n\nFeatures:\n* Adventure game focused on exploration and discovery\n* An open island inspired by the real locations of Formentera\n* Interact with islanders and learn about their stories and legends\n* Puzzles integrated into the environment\n* Optional side quests where you help the locals\n* Collectibles hidden throughout the island",
+	"languages": [
+		"en",
+		"es"
+	],
+	"numberOfPlayers": 2,
+	"rating": 13,
+	"ratingContent": [
+		"Language"
+	],
 	"dlcs": [],
 	"size": "75 MiB"
 }

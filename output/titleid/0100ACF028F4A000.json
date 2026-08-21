@@ -4,7 +4,7 @@
 	"publisher": "MASK",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/f2b0f9834e38091b55b2b5a22c8c562cd46a0e59f8286cd1c21840acb32a7ba7.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/8e9087af27ab6ba6e05c0945c620758dc14b85d70124029de10777b2a6606743.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3faa6eb17640718a1cf8b20237e4abdcef6e038078e528c1d2dea28b396a92f6.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/d98f50675210643139bac2de3a1e7c0ca2837010bcbffe5834b85d1598aae5ce.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/113b23ca0b7e14f8da66a1bcb8e035b290e98a0c40ccdaae6503b8a25b85676d.jpg"
 	],
@@ -14,8 +14,8 @@
 		"Training",
 		"Study"
 	],
-	"intro": "Can you nut out the pattern?",
-	"description": "Numbers and letters can tuck away some pretty clever rules. Can you work out what is going on before you lock in an answer?\n\nIt is easy to jump at the first option, but these quick puzzles reward a closer look, a bit of comparison and some clear thinking.\n\nThis is a text-based four-choice logic puzzle game with 40 stages to clear. Read the question, pick up the clues in the wording and choose the answer that best matches the hidden rule.\n\nHow to play:\n\n\u30fbRead the question carefully\n\u30fbCompare the four answer choices\n\u30fbSelect the option you think is right\n\u30fbReview the explanation after answering\n\nA correct answer gives you that nice aha feeling, and a wrong one still helps sharpen your reasoning for the next stage.\n\nGreat for a quick break, a casual brain workout, number puzzles, letter puzzles and bite-sized logic challenges.\n\nGive your observation skills a run and try to clear all 40 stages!\n\nButton and touch controls are supported, so you can play whichever way feels easiest.",
+	"intro": "Can you crack the pattern?\nTrain logic in quick rounds",
+	"description": "Think a simple set of numbers or letters is easy to read?\n\nThose familiar-looking patterns can turn tricky once the hidden rule is just out of sight.\n\nThis is a text-based 4-choice logic puzzle game where you observe the question, spot the rule, and choose the answer that fits.\n\nThere are 40 stages to clear, built for quick brain-training sessions with number, letter, and reasoning-style challenges.\n\nHow to play is simple!\n\n\u30fbRead the question carefully\n\u30fbLook for the hidden rule or shared pattern\n\u30fbChoose one answer from four options\n\u30fbCheck the explanation after answering\n\nEven when you miss, the explanation helps you see the logic and try the next puzzle with a sharper eye.\n\nRecommended for anyone who enjoys number puzzles, pattern quizzes, quick thinking, and casual brain training.\n\nUse your observation and reasoning skills to clear all 40 stages!\n\nButton controls and touch controls are supported.",
 	"languages": [
 		"ja",
 		"en",
@@ -23,10 +23,8 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 0,
-	"ratingContent": [
-		"General"
-	],
+	"rating": 6,
+	"ratingContent": [],
 	"dlcs": [],
 	"size": "145 MiB"
 }
