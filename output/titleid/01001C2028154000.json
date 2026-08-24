@@ -3,14 +3,12 @@
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/3cde665fb0990a764e9e03cc1876e460fe2363eb3c6eb0aded2f9da541d5e9d0.jpg",
 	"publisher": "Gametry",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/223a3df8475fbd2ebd44e2c6872a350332f097ca476d7800375b62ea9f82094d.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3519736f042621b8c83189ec45e6960d859a9dbcfddc7ce55aa04d905f067bf3.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/0b4bee6b1e30787e1ad85c9120723b468e21a37702c02490460935e2746611c8.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3ed25b850aeff485c9ea07c0181b570e1e4f269d6762def45c428c10e87b39a2.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/26a9b3d08892bc90b9b0e0c61abb31c320a6a36fa425820fc3bf42608009f605.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/482d9858671c2f32bffb1a7e3adb57fa01552253df55fe14446d6bd88a7e86e5.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/87188b09f0da485858177bd62cc48f3101146c8bcb3378ebc2cf7b41eec9a240.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/837917700d3032985aa590733dc5736fd04400be51aeed8738446d2742057c68.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f8470650af842c0bea3f26163cf67eb8bc5f0030651761edbfb3628230200eb0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b367de6b567f20afb9ea551260f13674c560e4ecab912e641365c3f0818e705e.jpg"
 	],
-	"releaseDate": 20260808,
+	"releaseDate": 20260823,
 	"category": [
 		"Shooter",
 		"Action",
@@ -22,9 +20,10 @@
 		"en"
 	],
 	"numberOfPlayers": 1,
-	"rating": 7,
+	"rating": 13,
 	"ratingContent": [
-		"Mild Violence"
+		"Blood",
+		"Violence"
 	],
 	"dlcs": [],
 	"size": "255 MiB"
