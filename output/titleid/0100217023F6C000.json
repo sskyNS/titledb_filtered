@@ -1,21 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000100079/ec0096b4065323167735377d8f06066fa765ed9f0c62a54e05e95cf7422db34a.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/58849f73272a4976822eab4c18690988_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec0096b4065323167735377d8f06066fa765ed9f0c62a54e05e95cf7422db34a.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/8ec1eb5eb2ce9ca728290d5a5bc775a83f1e11f25218c2426307b44285a9f316.jpg",
 	"publisher": "Top Hat Studios",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000100079/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000100079/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000100079/1b1c8fa88185403f0c6a371b970b251f25c6d9c898b757ac4d304e1e91fd98b8.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000100079/5cd083a5d1229f980e5b3bf01e0768f4d26990029f47aa031774d38d24694c3a.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d6b06f1ac5d48b9fc1e6fc9cfc10c879ebfdf91ceba677a5b9b69bbc52f3de73.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fe311f432b0593357505e163cb2bc1abe5e798d19ff1377a04b23a86e136b7bb.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1b1c8fa88185403f0c6a371b970b251f25c6d9c898b757ac4d304e1e91fd98b8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5cd083a5d1229f980e5b3bf01e0768f4d26990029f47aa031774d38d24694c3a.jpg"
 	],
 	"releaseDate": 20260922,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure",
+		"Platformer",
+		"Action",
+		"RPG"
+	],
+	"intro": "Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer, a tiny bird armed with a matchstick.",
+	"description": "Deep within the forest, at the bottom of a well, lives the only creature brave enough to kill the queen...\u00a0\n\n  Play as Glimmer - a tiny bird armed with a matchstick- who must burn the wicked queen to save his family. Explore a dark fairy-tale landscape and befriend the charming characters who reside in the kingdom\u2019s underbelly. Battle terrifying beasts and gain new abilities to expand your map. Solve puzzles, discover secrets, and unravel the mysteries that lie in this rotted kingdom.\n\nAmong the rotting ruins are a charming cast of characters just trying to get by.\u00a0 Go camping with Ilda, a tiny mouse who is on the run from the queens grasp. Explore an abandoned castle with Looter, a mysterious scavenger who searches the kingdom for the best wares to steal. And find and reunite with all of your sheltered siblings who were snatched up one night by a crazed hunter.\n\nLight up your matchstick to illuminate the world and aid in combat. Collect trinkets to upgrade your abilities, and mix-and-match them to customize your game play. Solve puzzles, defeat vicious bosses, and forge your path to the queens quarters to save your family.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"de",
+		"pt",
+		"ru",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Violence"
+	],
 	"dlcs": [],
-	"size": "0.98 GiB"
+	"size": "1008 MiB"
 }
