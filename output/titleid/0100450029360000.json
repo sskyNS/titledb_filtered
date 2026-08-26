@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000131564/929e915197cd8c2300c71cab31ddd8e6173ff15d6258246faf984e68ea84002c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/6c2ef0401f034dc3ab4eba8c6cc0f6c9_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/929e915197cd8c2300c71cab31ddd8e6173ff15d6258246faf984e68ea84002c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/c5175bdc649290b7569b12165a06dec58286c3872cab43d7b925ff66eba5bf95.jpg",
 	"publisher": "BBG Entertainment",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/762bceeccfc4df88a3ce307b8f6a0d12a0eaddfec2be652d7a6874f92f0d4970.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/c1c82ec49045da2e2a27a181a699e25ef58dc8b5023f9693f00df347beb5e0d2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/2c8f67b778b46d5e8ac90b3090afbf8e12609b04138a0fe3565a0c42e8ad4f44.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/c6f5de37551ca25c6a939e3192af732e0fbc5e56456da7e1753a00aa675c2e1a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/eaca6f2b259fa4fc57e46dd181aa4f85895abbec721f100dd80fe12115671dd2.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000131564/93367c015e27496b28e19ad3f674b1c22ce5ad16b5f6da53d397773af54cb2ef.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/762bceeccfc4df88a3ce307b8f6a0d12a0eaddfec2be652d7a6874f92f0d4970.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c1c82ec49045da2e2a27a181a699e25ef58dc8b5023f9693f00df347beb5e0d2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2c8f67b778b46d5e8ac90b3090afbf8e12609b04138a0fe3565a0c42e8ad4f44.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c6f5de37551ca25c6a939e3192af732e0fbc5e56456da7e1753a00aa675c2e1a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/eaca6f2b259fa4fc57e46dd181aa4f85895abbec721f100dd80fe12115671dd2.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/93367c015e27496b28e19ad3f674b1c22ce5ad16b5f6da53d397773af54cb2ef.jpg"
 	],
 	"releaseDate": 20261105,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Platformer",
+		"Action",
+		"Arcade"
+	],
+	"intro": "The legendary platforming classic is back!\nJump, collect, survive - Rediscover one of the greatest and most challenging video game classics of all time!",
+	"description": "Experience a milestone in video game history in a completely reimagined version! Authorized by original developer Matthew Smith, this reboot of the 1983 classic combines the distinctive and challenging gameplay of MANIC MINER with modern graphics, improved controls, newly arranged music, and extensive historical bonus content.\n\nStep back into the role of miner Willy and take on 20 legendary levels filled with deadly creatures, clever jumps, and tricky obstacles. Collect all the items before your oxygen runs out and master one of the most challenging platformers of all time.\n\nClimb the global MANIC MINER online leaderboard and become number one in one of the toughest classics in gaming history!\n\nThis re-release offers two modes: Enjoy the original pixel art look, or discover all the levels in atmospheric HD graphics with elaborate parallax scrolling, dynamic lighting effects, and lovingly designed backgrounds.\n\nThanks to modernized controls, MANIC MINER plays more precisely and smoothly than ever before, without losing any of the original\u2019s high standards.\n\nThe classic has also been reimagined musically: The works by Johann Strauss and Edvard Grieg, which were already featured in the original, have been rearranged to give the adventure a contemporary sound.\n\nIn addition, the collection includes a comprehensive interactive history that documents the exciting story behind the creation of MANIC MINER from the early 1980s to the present day.\n\nFeatures\n\u2022    Faithful, pixel-perfect recreation of the classic\n\u2022    All 20 original levels included in full\n\u2022    Choice between classic pixel graphics and a modern reinterpretation\n\u2022    Beautiful new backgrounds with parallax scrolling and atmospheric effects\n\u2022    Completely revamped controls for modern platforms\n\u2022    Global online leaderboard\n\u2022    Re-arranged soundtrack featuring classic works by Johann Strauss and Edvard Grieg\n\u2022    Extensive interactive history of the creation of Manic Miner\n\u2022    Authorized by original developer Matthew Smith\n\nJump, collect, survive - will you rise to the challenge?",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "410 MiB"

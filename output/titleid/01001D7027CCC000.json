@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000122854/584f663bfb898de350d1823737f4f798b4d544f5f9c15e87f16786f5e39eebc7.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/47af909ed4824d93a683c04c41c650e2_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/584f663bfb898de350d1823737f4f798b4d544f5f9c15e87f16786f5e39eebc7.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c0247d79d2603b780c27350b03abf95866664ce0f793fcac952125cf139dfc8.jpg",
 	"publisher": "Clear River Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/3275dfa3198ae8953c0dbaf914273aa6ecf274e8fa80a0049a6fa725f4098d1b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/6cc27b253ad951da79307f145dd627e24b5bfebdce14e4d28bf0a2b9b8112f64.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/2709418a55f1ffb5040d68ad86b7bd584b0339c45dfb1876e87bc45e2d5e7843.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/0c310f7a34e5d29740b07c9d672f2e1ac4089497e1f1fffcfb8badea842bdf40.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/33eaeabeec459afbb185432aa307c01200d488a5f773eeb34582236d249af4f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000122854/f890c059ba64f733dbf06d1fd4c6c35c69bc98ee871ed67c62b8c7536619cc53.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/3275dfa3198ae8953c0dbaf914273aa6ecf274e8fa80a0049a6fa725f4098d1b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6cc27b253ad951da79307f145dd627e24b5bfebdce14e4d28bf0a2b9b8112f64.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2709418a55f1ffb5040d68ad86b7bd584b0339c45dfb1876e87bc45e2d5e7843.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0c310f7a34e5d29740b07c9d672f2e1ac4089497e1f1fffcfb8badea842bdf40.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/33eaeabeec459afbb185432aa307c01200d488a5f773eeb34582236d249af4f0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f890c059ba64f733dbf06d1fd4c6c35c69bc98ee871ed67c62b8c7536619cc53.jpg"
 	],
 	"releaseDate": 20260908,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Board Game",
+		"Strategy",
+		"RPG",
+		"Multiplayer"
+	],
+	"intro": "The classic fusion of board and card games from 1997 is back and better with modern features!",
+	"description": "RETURN TO THE BEGINNING \nThe original Culdcept was released in 1997; a combination of digital board game and deck building, it saw numerous sequels, but that very first game never left Japan, until now!\n\nROLL THE DICE \nCuldcept The First uses a die (or two sometimes!) to move around the game board, with the aim of gathering a target amount of magic, then returning to the castle to win.  \nThe spaces on the board are land which can be claimed by summoning a creature to defend them. Land comes in four different colors representing terrain types; these in turn match the creatures\u2019 alignments. Land can also be upgraded, granting additional advantages to its owner.\n\nOVER 300 CARDS \nIf an opponent lands on your space, they can either pay a toll or attack your creature with one of their own. In these battles, players can also use special item cards to maximize their chances of winning. Your deck or \u201cbook,\u201d consists of 50 cards of various types, with a total of over 300!\n\nNEW FEATURES\nRewind: Jump back in time.\nQuick Save & Load: available anytime during the game.\nBonus Pack: Get more reward cards after a match.\nReveal Hands: Keep an eye on yours hand and your opponents'.\n\nSTORY \nHumanity was prosperous on the continent of Bablashca. But when mysterious stone tablets appear \u2013 fragments of the powerful ancient book, Culdcept \u2013  chaos and conflict follow. \nA lone youth arises to bring peace to the land, and you get to follow along!",
+	"languages": [
+		"en"
+	],
+	"numberOfPlayers": 4,
+	"rating": 13,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language",
+		"Partial Nudity"
+	],
 	"dlcs": [],
 	"size": "736 MiB"
 }
