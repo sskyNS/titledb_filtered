@@ -1,18 +1,26 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000135155/da95748fb5bdedb3caa39434ee506df78d6b788ec4637d789ad682916def1927.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000135155/25d48ea965192f08a9ab647e8ee18049d919a30b56ff19b0c6efa585890a8e53",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da95748fb5bdedb3caa39434ee506df78d6b788ec4637d789ad682916def1927.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/7643de2ea80deb46a0b113efe0c3432192ccc5a9440183bd47245254d8d581aa.jpg",
 	"publisher": "Electric Airship",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000135155/d8cfd7f0ea2f6d6ca28f30bdcafd0574b8f162689fe6647de05adc984ed871da.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d8cfd7f0ea2f6d6ca28f30bdcafd0574b8f162689fe6647de05adc984ed871da.jpg"
 	],
 	"releaseDate": 20260904,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"Puzzle"
+	],
+	"intro": "Make a pilgrimage skybound to the Isle of Reveries, where any wish can be granted.",
+	"description": "Take control of an owl named Lief as they make a pilgrimage skybound to the forsaken Isle of Reveries, where it's said that any wish can be granted. Players will fight through six mysterious dungeons, each with their own unique themes and puzzles, and meet charming anthropomorphic characters along the way in this retro-inspired adventure.\n\nUse your fairy companion's magic to duplicate and spawn a variety of objects in the world, and discover how they interact with your robust set of items to solve head-scratching puzzles.\n\n* EXPLORE A VAST OVERWORLD & CONQUER DUNGEONS\nEight different biomes in the overworld. Six different dungeons, each with their own unique theme, mechanics, and key item. \n\n* COPY & SPAWN OBJECTS\nUse Lief's fairy companion to copy and spawn a myriad of objects, using them to fight puzzles and fight terrifying enemies.\n\n* FORGE A COMMUNITY\nConstruct various buildings and forge a township. Characters that Lief saves throughout the game will move to the township, offering new quests and stories.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "402 MiB"
 }

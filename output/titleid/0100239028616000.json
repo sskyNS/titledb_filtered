@@ -1,22 +1,32 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126130/099d48951eee0e7a6d86b7cfc2e535130ae77ec48090ff81cc18bda9366bd759.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000126130/5e06fd077bbeb7e6b4a360ef979855feffeda574d34c26022ee6ee20b6af58d5",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/099d48951eee0e7a6d86b7cfc2e535130ae77ec48090ff81cc18bda9366bd759.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/879a02dbf9afd753fe5415a1ee275e54d9ee10fc403d88bc7d71e11365cb7c3d.jpg",
 	"publisher": "KOGADO STUDIO",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/d1498c5a7fcffbd8ff75858b6e5fdb43d728b5157d91e8a6c9baac56a0daa74b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/89143a748a75e71777ec9e9325144d342d1aaf14e0ba094e0b1f6ac67a94890d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/5d82ef7facb6d03da91a9bb077d372e5620445447eb9b20f951da42653920184.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/f5e406e7ee2cd1d934b0c7ebff68b9a445549d26de4dfff5a5450ceab8ebd52d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/3314bdfb5503db5e1791b2d2fa6124315d0cdf6f8ec1bb143c2362e1893a4bd5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000126130/e888688d399329947affd065c1f126eccfc27b9524187103191c9a74c2b1c7b9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d1498c5a7fcffbd8ff75858b6e5fdb43d728b5157d91e8a6c9baac56a0daa74b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/89143a748a75e71777ec9e9325144d342d1aaf14e0ba094e0b1f6ac67a94890d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/5d82ef7facb6d03da91a9bb077d372e5620445447eb9b20f951da42653920184.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f5e406e7ee2cd1d934b0c7ebff68b9a445549d26de4dfff5a5450ceab8ebd52d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3314bdfb5503db5e1791b2d2fa6124315d0cdf6f8ec1bb143c2362e1893a4bd5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e888688d399329947affd065c1f126eccfc27b9524187103191c9a74c2b1c7b9.jpg"
 	],
 	"releaseDate": 20260909,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Strategy",
+		"Board Game"
+	],
+	"intro": "Turn the tide of the war with nuanced strategies in One-inch Tactics.",
+	"description": "Kogado Studio, recognized for its simulation games in the early days of PC gaming, has taken on the challenge of simplicity in this title.\nBeneath the game's simple design lies a deep, strategic complexity.  \n\nImmerse yourself in the unparalleled enjoyment of strategy.  \n\n\u3010 POINTS \u3011\n\u25c6 [Gameplay] Intuitive, simple, and smooth operation.\n\n\u25c6 [Visuals] Featuring a stylized 3D playing field that resembles a board game, creating a relaxed, casual tabletop gaming atmosphere.\n\n\u25c6 [Battlefields] A wide variety of missions including mountains, urban areas, and fortresses. Deploy with the right equipment tailored to each situation.\n\n\u25c6 [Tactics] \"Line of Sight\" and \"Line of Fire\" come into play around cover, hills, and cliffs. Carefully scout, spot enemies, and turn the tide of battle in your favor.\n\n\u25c6 [Units] Pilots with unique strengths and weaknesses. Building the right squad to leverage their traits is key to victory.",
+	"languages": [
+		"ja",
+		"en",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "319 MiB"
