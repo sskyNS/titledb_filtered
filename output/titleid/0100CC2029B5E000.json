@@ -25,8 +25,11 @@
 		"es"
 	],
 	"numberOfPlayers": 1,
-	"rating": 6,
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "326 MiB"
 }

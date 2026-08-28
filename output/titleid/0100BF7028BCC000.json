@@ -1,23 +1,35 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128717/0ba26dcb0ac832c80c8eaed61123520b971eb732f64026890a56ee1f54c24f71.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128717/bcfe47ffa06b44d903ce340dec94d313b92139f1384a1f7fd2a0bc245f2478ba",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ba26dcb0ac832c80c8eaed61123520b971eb732f64026890a56ee1f54c24f71.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/6cf275cae78251a250caa28ae472e8d95cb4a1ce71c85b3feccc433a80297161.jpg",
 	"publisher": "Time Galleon",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/4b8b152bfa59250483f9a45e451af7ec6cb2d5a81a9745a4c80be6fae50f60ee.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/60cbff843fb2875c0b239ec79b90887b7859c6ec5ac45c211f79ffa8862825b1.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/49161abe8e53bbed9e50f0b414bbe13925b2de58e0adf5e8ad7bc71d85c5365c.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/a56a5d528fa9ad6b6d1ba5c44f77ca02efd0515067a865966ec5e29561a21abc.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/82fff4bfbd81b03b979a8e75f2d685274ab9ea7c1e1240eecac52484e481f21a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128717/c801bda3a866bf04d1960d1efa02ec69b96221ee14142ac9785e2c0bcadef493.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4b8b152bfa59250483f9a45e451af7ec6cb2d5a81a9745a4c80be6fae50f60ee.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/60cbff843fb2875c0b239ec79b90887b7859c6ec5ac45c211f79ffa8862825b1.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/49161abe8e53bbed9e50f0b414bbe13925b2de58e0adf5e8ad7bc71d85c5365c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/a56a5d528fa9ad6b6d1ba5c44f77ca02efd0515067a865966ec5e29561a21abc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/82fff4bfbd81b03b979a8e75f2d685274ab9ea7c1e1240eecac52484e481f21a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c801bda3a866bf04d1960d1efa02ec69b96221ee14142ac9785e2c0bcadef493.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Adventure"
+	],
+	"intro": "Weep for the dead! In this short psychological horror story, play as a professional mourner travelling between funerals. Ride a nightmarish bus whose destination depends on your choices.",
+	"description": "Candelaria travels from one funeral to the next, weeping for the departed she has never met in life, going on long night treks that keep her insomnia at bay.\n\nWhen she comes across a bus ticket she did not buy to the mysterious Eigengrau Line, she is forced to confront traumas from the past and define a new course for her life.\n\nITINERARY\n\nGet aboard a short, atmospheric story by Tiago Rech, award-winning author of TELEFORUM, Dodgeball Academia, No Place for Bravery, and Galaxy of Pen & Paper.\n\nWhat is your destination? Find 5+ endings created by your choices.\n\nExperience a unique, dark art style in 4K resolution.\n\nInteract with bizarre passengers during a surreal journey.\n\nGo to funerals, weep for the dead.\n\nFind yourself amidst your traumas... or run away forever.",
+	"languages": [
+		"en",
+		"pt",
+		"it",
+		"ru",
+		"ko",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Mild Violence"
+	],
 	"dlcs": [],
 	"size": "373 MiB"
 }

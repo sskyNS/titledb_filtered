@@ -1,22 +1,29 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110171/6d8ea9d21dd1f860db6d35add17c38191323e6e37de3a330a3285a615460d268.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000110171/b59fd1996b9eccddd22a7f748d7db6db15c7f43b47224b949c8030f389b3ee0a",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d8ea9d21dd1f860db6d35add17c38191323e6e37de3a330a3285a615460d268.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/5a43f1abf1ccab7f6ee81d6a5cb933203a441efe89cf725c551d531263636729.jpg",
 	"publisher": "INVECTOR GAME STUDIO",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/57185771c34f475368c67da6be7f4e2091df94f93375b6cfb65f6c7d4e8f905e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/0ec09ad687454e0ed6008f4d0139cd7b7051a38476b456094aef77e83642dc56.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/d6d0d5e8a4917a611e8b62e11de79016b783ef97ea06f79490fc7601637ce98a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/7045561608379bcaa9035b6973ed2e35b428b11680e313488eae61fd5f8165b9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/97057e72354a2597249064c993b503dc5a4bbb7b5b0a90948ce8f4ad923246be.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110171/743fc455659113103a6b22a26fb4a8130f6f5ad3432d938ae87ff885c798966d.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/57185771c34f475368c67da6be7f4e2091df94f93375b6cfb65f6c7d4e8f905e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/0ec09ad687454e0ed6008f4d0139cd7b7051a38476b456094aef77e83642dc56.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d6d0d5e8a4917a611e8b62e11de79016b783ef97ea06f79490fc7601637ce98a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/7045561608379bcaa9035b6973ed2e35b428b11680e313488eae61fd5f8165b9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/97057e72354a2597249064c993b503dc5a4bbb7b5b0a90948ce8f4ad923246be.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/743fc455659113103a6b22a26fb4a8130f6f5ad3432d938ae87ff885c798966d.jpg"
 	],
 	"releaseDate": 20260827,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Simulation",
+		"Arcade",
+		"Action",
+		"Adventure"
+	],
+	"intro": "Build your electronics empire! Stock the latest gadgets, serve customers, set prices, upgrade your store, and become the ultimate electronics retail tycoon.",
+	"description": "Build and manage your own electronics store!\n\nStock the shelves with the latest gadgets, electronics, and accessories. Set prices, organize your products, serve customers, and keep your store running smoothly.\n\nExpand your business as you earn profits. Unlock new products, upgrade your store, increase your inventory, and create the perfect shopping experience for your customers.\n\nEvery decision matters as your small electronics shop grows into a successful retail business.\n\nFeatures:\n\u2022 Manage your own electronics store\n\u2022 Stock and organize a variety of products\n\u2022 Set prices and maximize your profits\n\u2022 Serve customers and manage daily operations\n\u2022 Unlock new electronics and accessories\n\u2022 Upgrade and expand your store\n\u2022 Grow your business into an electronics retail empire\n\nStart small, make smart decisions, and become the ultimate electronics store tycoon!\n",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "659 MiB"

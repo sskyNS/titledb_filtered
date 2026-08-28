@@ -1,22 +1,31 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000129790/b6eb4b09b79807b37c87fae40be846e015268215332af5fa8ff63950598f0232.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/3cd732168fb14d10bd37f30d197a5ff6_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6eb4b09b79807b37c87fae40be846e015268215332af5fa8ff63950598f0232.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9149c7d1e9a0f1ce19cbc61595f71d9cb276d35363998a21aafc3904574c616a.jpg",
 	"publisher": "EpiXR Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129790/03a78ebd75f41e2eed0dd5fc32b3ae3cf8fe572d573868abf7a4cfded1325dea.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129790/f1e749b8ef91ec2bf55c2e0dee7bf9de71a8adb471eefd0dc3b2f1e1ef529a6a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129790/d5c18bbd692a3889006f2166dae78f87312a8a22b5eabba050a954db7b572827.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129790/1e96b841045f4bfb8d254c4bcb3c0f55e575f898708a890d9ae26244a96544bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000129790/277e871de98369fd84d671ffa14303d07db986c1cfebd82e1a739b95c788c924.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/03a78ebd75f41e2eed0dd5fc32b3ae3cf8fe572d573868abf7a4cfded1325dea.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f1e749b8ef91ec2bf55c2e0dee7bf9de71a8adb471eefd0dc3b2f1e1ef529a6a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/d5c18bbd692a3889006f2166dae78f87312a8a22b5eabba050a954db7b572827.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1e96b841045f4bfb8d254c4bcb3c0f55e575f898708a890d9ae26244a96544bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/277e871de98369fd84d671ffa14303d07db986c1cfebd82e1a739b95c788c924.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Board Game",
+		"Puzzle",
+		"Simulation"
+	],
+	"intro": "A classical Solitaire game with a modern twist. \nPlay classic Solitaire in a calm, anime-inspired world.",
+	"description": "This game combines timeless Solitaire gameplay with a peaceful anime presentation filled with soft colors and elegant designs.\n\nPlay classic Klondike Solitaire in 1-card or 3-card draw mode, focusing on clean moves, smart decisions, and a satisfying flow. Each completed game rewards you with score and experience, based on how efficiently you play.\n\nAs you gain experience, you level up and unlock cosmetic rewards. These include beautiful anime-style card skins, serene backgrounds inspired by cherry blossoms and temples, and stylish card backs. Every single card has multiple skins and can be customized individually.\n\nBefore each match, you can freely adjust your deck and table to match your mood. Whether you prefer soft pastel tones, detailed anime illustrations, or a more minimal look, every game feels personal and relaxing.\n\nWith no time pressure and a steady sense of progression, the game offers hours of soothing gameplay and a constantly growing collection of beautiful cards.",
+	"languages": [
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Suggestive Themes"
+	],
 	"dlcs": [],
 	"size": "408 MiB"
 }

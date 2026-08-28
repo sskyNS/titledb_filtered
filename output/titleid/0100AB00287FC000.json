@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000135128/49fed8d35677d5369ac6e4aaf83728d91c2f948cdf276b76ab9f9b99ad390cac.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000135128/6f37129ca0d8bed74603aa357bd31bef61450fe0f25b8f22dc0d4b596df52130",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/457eaac17cb335210ab48194f708fc9023957a4afaae0f2a594c337b664b9fe2.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/db70e7352e9c75b4eb0ee80a620b1ae5f4d40b6a396bf56a9d35d44ab3b1c026.jpg",
 	"publisher": "KEMCO",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/083b822fdf96cde040e05e206ec6b4af91e8a873db83a7b7aa4e4235708dafbe.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/65db3a62038ed3a04b4a206a14c0e2e623a31b570a7ce9ea4674ee9e59b898b5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/8eb5a913a9ad61df1c7ef8bd562d0ad99fb53714fbc30fa6d7cba4673863a9ab.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/b53c61cfde15808a80a70e253605def5309173ebca50c3c4d7dcda0b5ece0b0f.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/68b3c8553924ea62cbb43ea7c059f7147deb5434f551ff35064c3049b732ec99.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000135128/392dfaed9d186d7876cb4e7c727a6799e9b03d4e70e194e0374fa83d87099a98.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/0ba24e301de042ddd911bf4f4e80252dd19df67182b8edf11dd4aef058f26092.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/81179c271675fbb0c04e6afd5d5e495127b19772bdb79bac757397aad641f4dc.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f25872a4d3931120cf3d4438dbf5630954d9018c4eb318bf0c8c1bcea6849c17.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/48eab4add9b611de9286f4d3db8c5bbdee177105fe3748a4b88b0a4e112c6be0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2037d8556fabe2169b106bd04b56adff9671433918db276fb2ec504e52d5bb61.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/1267bdf23e1d443f0db96658d04c0cd409173554667d71b6c602952660575ffc.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure",
+		"Strategy",
+		"Simulation"
+	],
+	"intro": "Tie the knot of fate in a skybound fantasy RPG!",
+	"description": "A young cleric named Verselio once devoted his life to serving the deity Treises\u2014until the truth shattered everything he believed. When the divine is revealed to be a lie, faith turns into fury, and a journey of rebellion begins. Joined by a mysterious maiden, a disciplined vigilante chief, and a self-proclaimed deity, Verselio sets out across a vast fantasy world in search of answers. As their paths intertwine, each carries their own burdens, beliefs, and secrets, in a story of betrayal, redemption, and the meaning of faith in a deityless world.\n\nAsdivine Knot is a classic turn-based JRPG that blends strategic command battles with modern systems and deep customization. Master the shared Nexus Gauge to control the flow of combat, unleash powerful Nexus Skills, and summon devastating entities to turn the tide. Explore a wide world with your fully customizable airship, craft and upgrade equipment using collected materials, and shape your adventure with side quests, crew recruitment, fishing, and puzzle dungeons. Packed with rich content and designed for a complete single-player experience, this is a must-play fantasy RPG for fans of traditional Japanese role-playing games.",
+	"languages": [
+		"ja",
+		"en"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 13,
+	"ratingContent": [
+		"Blood",
+		"Suggestive Themes",
+		"Violence",
+		"In-Game Purchases"
+	],
 	"dlcs": [],
 	"size": "484 MiB"
 }

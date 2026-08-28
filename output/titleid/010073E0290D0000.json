@@ -1,5 +1,5 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1fe81059604510108ac682e1be4ff4f626a39b1a40a2e08a5c2e82efcc08d7e.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d0f08da2bf0efac083c18634e9188ba2cd34fed503baebf84fc3552d05553d77.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa574c4b6440d80a89cd9e68c9dd142ec0e414ed2c863cdf8ab7064684273bc8.jpg",
 	"publisher": "MASK",
 	"screenshots": [
@@ -8,15 +8,15 @@
 		"https://img-eshop.cdn.nintendo.net/i/daaac3599b2b52312d68e5d6aa49ddf03b4bd5a15950bbd676f469bc051818b7.jpg",
 		"https://img-eshop.cdn.nintendo.net/i/ba58d8a37ff696a10e1152361d439bca6433a26a73e8d1166a8c904219a65afb.jpg"
 	],
-	"releaseDate": 20260820,
+	"releaseDate": 20260903,
 	"category": [
-		"Communication",
-		"Study",
+		"Party",
+		"Education",
 		"Training",
-		"Education"
+		"Study"
 	],
-	"intro": "Can you spot the flaw?",
-	"description": "Think the scene is airtight at first glance?\n\nEvery detail may look ordinary, but one small spot is waiting for your detective eye.\n\nPerfect Crime Case Files is a casual picture puzzle game where you examine each case image and identify the single correct area hidden within it.\n\nHow to play:\n\u30fbStudy the illustration carefully\n\u30fbLook for the one place that matches the question\n\u30fbMove the cursor or tap the spot to answer\n\nThere are no long rules to learn. Just observe, think, and trust your instincts.\n\nWhether you notice it straight away or need a second look, each case gives you that satisfying \u201caha!\u201d moment.\n\nPerfect for a quick brain-teaser between tasks or a relaxed mystery session on the sofa.\n\nButton controls and touch controls are supported, so play in the style that suits you.",
+	"intro": "Can you crack the perfect setup?",
+	"description": "One scene, one suspicious detail\u2014can you spot where the case breaks?\n\nPerfect crimes look flawless at first glance. But if you slow down and really study the picture, something may start to feel off.\n\nThis is a casual picture-based mystery quiz where each case is solved by choosing one spot in the illustration.\n\n\u30fbRead the prompt\n\u30fbInspect the image carefully\n\u30fbSelect the one place that fits the answer\n\u30fbMove on to the next case\n\nNo complicated rules, no long setup\u2014just quick cases that test your eyes, focus, and deduction.\n\nWhether you nail it right away or miss the mark, every attempt helps sharpen your observation skills.\n\nTake on a file whenever you have a few minutes. Can you expose the flaw in the perfect crime?\n\nButton controls and touch controls are both supported.",
 	"languages": [
 		"ja",
 		"en",
@@ -24,7 +24,7 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 3,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "166 MiB"

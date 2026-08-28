@@ -1,22 +1,19 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bbf8190a30bba0990ba0914e745491eecd3abb870c29b928405817c2865391ac.jpg",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4cc8a306d817a9d582feebb52862e04a2df51ed8cfb93ac56334ab2e1366a39.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/9174206760bfd3cdf7ccdbd8b1b8ade14336775c0f15a07e90087102909805f8.jpg",
 	"publisher": "MASK",
 	"screenshots": [
-		"https://img-eshop.cdn.nintendo.net/i/ad8d2017bab4d473f1366162be5ba67c9b576bae6c1b01cfd08348758fff9a3e.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/5aa41c979c59dc55f434cf0660041c5125ea562db0c538c6de35af5bbc3c3d57.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/3742b70b88e712fb75a45ad07a2db6a4e10855838c270d7a899d3d6d4b249835.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/8f18f5b43cf7d60ce407c58bd7c0bdd1b5c52fd8357623f867645aa0caa4a99c.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/5aa41c979c59dc55f434cf0660041c5125ea562db0c538c6de35af5bbc3c3d57.jpg"
 	],
 	"releaseDate": 20260903,
 	"category": [
-		"Party",
 		"Communication",
-		"Study",
-		"Training"
+		"Education",
+		"Practical",
+		"Study"
 	],
-	"intro": "Reckon you can catch it?",
-	"description": "Sometimes the clue is sitting right there in the picture.\n\nYou know the moment: something feels a bit telling, so you take a closer look and trust your eye.\n\nCaught You Looking is an easygoing picture quiz where each round gives you one illustration and one correct spot to pick.\n\n\u30fbRead the prompt\n\u30fbScan the whole image carefully\n\u30fbUse the buttons or tap where you think the answer is\n\u30fbPick one spot and check whether you nailed it\n\nIt is simple to jump into, but sharp eyes make all the difference. Miss one, and you will want another go straight away.\n\nGreat for a quick break when you feel like a small observation challenge.\n\nPlayable with button controls and touch controls.",
+	"intro": "Can you catch the stare?",
+	"description": "Got sharp eyes for a busy picture?\n\nSometimes the answer jumps out. Sometimes you scan every corner and wonder how you missed it.\n\nCaught You Looking is a casual picture-puzzle game where each stage shows one image and asks you to find one exact spot. Read the prompt, check the scene, and select the area that matches.\n\nHow to play:\n\u30fbRead the prompt\n\u30fbLook over the whole image\n\u30fbSelect the spot that fits\n\u30fbMove on to the next quick challenge\n\nEach round is short and easy to jump into, but spotting the right place feels satisfying every time.\n\nPlay a quick stage whenever you want a light visual challenge.\n\nButton and touch controls are supported.",
 	"languages": [
 		"ja",
 		"en",
@@ -24,10 +21,8 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 13,
-	"ratingContent": [
-		"Sexualised Imagery"
-	],
+	"rating": 6,
+	"ratingContent": [],
 	"dlcs": [],
 	"size": "196 MiB"
 }

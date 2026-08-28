@@ -1,23 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116607/c4045341b71399a22e646282e2218e4c50b2fe36cbf6f47aad607f8ccfcb8a3c.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000116607/9ceb79a1714f3cdff3be3cebbd90aef32f23629290097b696eb2bf26818d84cc",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4045341b71399a22e646282e2218e4c50b2fe36cbf6f47aad607f8ccfcb8a3c.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/14e17dd7c959a7bb5cfbd8da7f74127d75b8ced5f713386d367fe48d27bc45f6.jpg",
 	"publisher": "indie.io",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/4b5d2ec98b565af961dcb35e492b7bcda43f639a76c2ab223348e90b42543e95.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/b9b599f0b549511e9b4407830389d3d7be364c18640a8b9166f9941af9eca576.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/13ab51078fd3748ad859c58960b7aa7d2fb7d8a9ff383393301b130227b79710.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/3312b9d66d993386d8b6d64f32fc65a6a80e2afbce1c1c027a4f920ee2601ef5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/2d7cc33a8aa682c120e8e414dc3761f7dacef144b6a5b5927acb48f0bf19f0b4.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000116607/60fe1682c708f8be6aa79086148fd9bc34388db6fe9c099762c784433ba18659.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/4b5d2ec98b565af961dcb35e492b7bcda43f639a76c2ab223348e90b42543e95.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b9b599f0b549511e9b4407830389d3d7be364c18640a8b9166f9941af9eca576.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/13ab51078fd3748ad859c58960b7aa7d2fb7d8a9ff383393301b130227b79710.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3312b9d66d993386d8b6d64f32fc65a6a80e2afbce1c1c027a4f920ee2601ef5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2d7cc33a8aa682c120e8e414dc3761f7dacef144b6a5b5927acb48f0bf19f0b4.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/60fe1682c708f8be6aa79086148fd9bc34388db6fe9c099762c784433ba18659.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Action",
+		"Adventure",
+		"RPG",
+		"Platformer"
+	],
+	"intro": "Carve your path through hordes of enemies, defying the gods to seize the power of Morrigan, Goddess of Death, and retrieve the soul of your beloved!",
+	"description": "When her husband was taken by the gods, Alys refused to accept their verdict. With sword in hand, she embarked on a quest to take his soul back, throwing down the gauntlet to the goddess of death, Morrigan. Neither the legions of godly servants nor the gods themselves will stop her wrath. \n\n \n\nWelcome to Soul Quest, a hack-and-slash tale of one woman's undying love and boundless grief. Carve through endless hordes of enemies and rip out their very souls. Battle the fates using a deep freeform combat system. Fight the Celtic gods - will you win and complete Alys\u2019 quest? \n\nEpic story of love conquering death, set in a fantasy world drawing on the rich legacy of Celtic myths and Arthurian legends.\n\nDeep combat system combining a broad variety of attacks, magic abilities, and ultimates, designed to be easy to understand and with plenty of ways to master it as you challenge Morrigan, the goddess of death! \n\nNon-stop action against hordes of foes, from fodder to cleave apart, to elite foes requiring quick thinking to defeat, and challenging bosses with plenty of aces up their sleeves. \n\nPlenty of secrets to discover across the vast levels, using Alys' ability to use vertical surfaces for sliding and jumping off. Then turn these skills on the enemy to outmaneuver and outfox them! \n\nChallenges await veteran players, putting your skills to the test with the highest difficulty levels leaving no room for error!",
+	"languages": [
+		"en",
+		"pt",
+		"es"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Blood",
+		"Mild Language"
+	],
 	"dlcs": [],
 	"size": "1.39 GiB"
 }
