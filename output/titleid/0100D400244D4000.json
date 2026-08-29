@@ -4,11 +4,11 @@
 	"publisher": "7Levels",
 	"screenshots": [
 		"https://img-eshop.cdn.nintendo.net/i/cbd12c69d5019fa0574ff38bdf1edd01fd18bc311e885b5460be4e8c70c86f04.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/e44e83d29fd928cb5e9718dc3bdd82260823d721344e4cd71d9bbffd44488cac.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/5a42fb10727f34a948417061acae41909e1cf2aa7ba1f9158b6fc11a819b71ef.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/d262779203aec0cf981c45f2a2392fcfe9917032df9ce201ae640c990fbd4049.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/913b9c893529078a508e02ca7488c4f74d7a87665ffad764e2e28d35001a0945.jpg",
-		"https://img-eshop.cdn.nintendo.net/i/7759fea585fe92cae9ac503f5f22a11f3e663e4b8abb08410453d791539fd3b3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/ac909be3c834e065b75f0dbc975ef2f63221c8e46f5041b7e93fd21d90f6fd77.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3006b458bf04359cfc1c65609cc9b9ee7b2cdfac4958f6e604ac5b619af0d481.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b2de28d02ac3b0c1f858222e730b890e1fc13ba66e45ed74f3bea40e90e0ff8.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3b901f2f03bb0a3ce8d262820a2c4212954ffe570b08d4c24bd7797f793d529c.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e5e9b8ad70aa147517bad3241acaafca59f238f2542ebf6026f41e133bc5e68b.jpg"
 	],
 	"releaseDate": 20260930,
 	"category": [
@@ -32,9 +32,11 @@
 		"pl"
 	],
 	"numberOfPlayers": 1,
-	"rating": 16,
+	"rating": 13,
 	"ratingContent": [
-		"Strong Violence"
+		"Blood",
+		"Language",
+		"Violence"
 	],
 	"dlcs": [],
 	"size": "1.76 GiB"
