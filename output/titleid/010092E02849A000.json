@@ -1,23 +1,42 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125588/208bae2c07051cfbeed6a1f63c9cb2c69ca41446acbcbfbf14b6f3eccfd4887e.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000125588/10d9fccb85485cdab8ad582ca1db0e178443a922a1cc71e0dfc9aa16d9a37662",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/208bae2c07051cfbeed6a1f63c9cb2c69ca41446acbcbfbf14b6f3eccfd4887e.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff987147480d95c89b0ce97b66792bcf628183b66d637e0c4b040465c732a9b8.jpg",
 	"publisher": "Mindscape",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/d3ff4937a4b4947f82ba32d8164680db04aca31b435a1dd436e03bb9d4ff86f0.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/b7f85e1780786cb31110ffd339be4f9bef40bdca5cc8222ff51be5d7c5c79d6b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/e65714b8e06d5b962013b30e9028afaab71452eec1bd1e9774292420082a033e.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/e681fe56f0c4e78f9fc922f42039b4bdb023fbb4f335a0d88fa2195bfe255a4d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/9431bb4e8e3b4d0095b256f07414eb6323e8d4d555ab4de94cd297aeb640aeb5.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000125588/649c158afb761b2837b620ce6c0408d5aa540efe8c37ca4cc910b963bfda2fc9.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/d3ff4937a4b4947f82ba32d8164680db04aca31b435a1dd436e03bb9d4ff86f0.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/b7f85e1780786cb31110ffd339be4f9bef40bdca5cc8222ff51be5d7c5c79d6b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e65714b8e06d5b962013b30e9028afaab71452eec1bd1e9774292420082a033e.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e681fe56f0c4e78f9fc922f42039b4bdb023fbb4f335a0d88fa2195bfe255a4d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/9431bb4e8e3b4d0095b256f07414eb6323e8d4d555ab4de94cd297aeb640aeb5.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/649c158afb761b2837b620ce6c0408d5aa540efe8c37ca4cc910b963bfda2fc9.jpg"
 	],
 	"releaseDate": 20261027,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Platformer",
+		"Adventure",
+		"Action",
+		"Arcade"
+	],
+	"intro": "Join Dog Man and his Supa Buddies for a supa-new adventure! Packed with boss fights, awesome gadgets and up to 10 playable characters, each with unique abilities. ",
+	"description": "Join Dog Man and his Supa Buddies for a supa-new adventure! A comic-book style game packed with action, humor, boss fights, and ability-granting gadgets. Play as 10 different characters from the comics, each with unique powers.  \n\nA hero is needed! Dr. Scum has set up Hypno Screens around the city, mind-controlling the innocent townsfolk. Now it\u2019s up to Dog Man - part Dog, part Man- to fight back against Dr. Scum and all his minions. Defeat Dr. Scum, save your friends, and rescue the city!  \n\nA game based on the wonderful Dog Man comic books by artist Dav Pilkey, also known for Captain Underpants. \n \nBark in Action Features:  \nWork Together with the Supa Buddies \nSwitch between Dog Man and his Supa Buddies: Dog Man, Li'l Petey, 80HD. Each has their own special abilities, to overcome obstacles and defeat Dr. Scum.  Phone in Friends to help you, like Commander Cupcake or Chief, for a total of 10 playable characters! \n \nExplore 60 Action Packed Levels \nExplore iconic locations from the Dog Man universe, such as the Cat Jail and Robo-Time Industries. Beat the clock in the Time Challenges, and discover the Mystery Levels full of surprises! \n \nPlay Solo or with a Friend \nDouble the action by having a second player join with unique special abilities. Couch co-op the whole family can enjoy! \n \nDiscover Unlockable Outfits and Supa Gadgets \nCollect sprockets to unlock crazy Gadgets. Collect yarn to craft cool new outfits like the Scarlet Shredder, Cat Kid and much more! \n \nStand up to Villains \nUse each character's signature fighting move to take down Dr. Scum's minions and the Supa-Bad-Guy himself. Use clever teamwork to beat bosses! \n",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"fr",
+		"pt",
+		"de",
+		"it",
+		"nl",
+		"zh",
+		"zh",
+		"pl"
+	],
+	"numberOfPlayers": 2,
+	"rating": 6,
+	"ratingContent": [
+		"Mild Fantasy Violence"
+	],
 	"dlcs": [],
 	"size": "1.42 GiB"
 }
