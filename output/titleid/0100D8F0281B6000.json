@@ -1,22 +1,30 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000124707/a2c8288efcdb8b43f5add6056d8ef5793969edf4121246801bffaca70fe176e1.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/ef7a904a0c3e42c796aede657bff3a64_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2c8288efcdb8b43f5add6056d8ef5793969edf4121246801bffaca70fe176e1.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/b2bdae816cb42736df436767c1861a19b6c07e95f1ea7dd6e5623db0c9b9640c.jpg",
 	"publisher": "FURYU Corporation",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/0d3e4deed169f0c2a142e6673e031d7a81d2e65d6aeb47747781a954095f5a97.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/904292cf72acd6c687e8b7566cf32639c58cfbbe653e87f8c4ece98a0055bf7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/8abb735472a02f833a634773cabfe1598d5bc2bdd19b102f4b24273ffddce576.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/4250590934ea4b5b8baf0d0577c647ebd99182e365ec7931872153c355b1203d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/3e84dadb4c639b582a167e82f282ada7156b557eb8c9d0cf5ae212a90408b1bd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000124707/c994bcdd946b6143b6efb4153c259cfcb4f33bce5a5e34fa8d27b46a086dcf39.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/0d3e4deed169f0c2a142e6673e031d7a81d2e65d6aeb47747781a954095f5a97.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/904292cf72acd6c687e8b7566cf32639c58cfbbe653e87f8c4ece98a0055bf7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8abb735472a02f833a634773cabfe1598d5bc2bdd19b102f4b24273ffddce576.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4250590934ea4b5b8baf0d0577c647ebd99182e365ec7931872153c355b1203d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/3e84dadb4c639b582a167e82f282ada7156b557eb8c9d0cf5ae212a90408b1bd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c994bcdd946b6143b6efb4153c259cfcb4f33bce5a5e34fa8d27b46a086dcf39.jpg"
 	],
 	"releaseDate": 20260902,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"RPG",
+		"Adventure"
+	],
+	"intro": " A fantasy RPG where a kiss can save the world.",
+	"description": "Exstetra follows Ryoma, a high school student chosen to become a Prisma, the savior destined to protect Amejia, a Tokyo fused with another world and doomed to destruction.\n\nDuring his journey, Ryoma meets future Prisma Knights who share his mission. By awakening their powers with a kiss, he joins them on an adventure to save two worlds.\n\n\u25c6 STORY \u25c6\n\nKiss her...\n\nIt is the only way to save two worlds from ruin.\n\nAmejia was born from the fusion of Tokyo and another realm. As the chosen Prisma, Ryoma fights to prevent the extinction of both worlds.\n\nFind the friends drawn into Amejia and awaken their hidden powers as Prisma Knights through the power of a kiss.\n\n\u25c6 WORLD \u25c6\n\nAmejia is a transformed version of Tokyo that has merged with another world.\n\nFeaturing artwork inspired by Tokyo Fantasy, it offers a beautiful yet haunting world unlike any other.\n\nExplore reimagined locations such as Shibuya and Akihabara.\n\n\u25c6 DUNGEON \u25c6\n\nMysterious labyrinths stretch across Amejia.\n\nBattle monsters, solve puzzles, discover treasure, gather materials, and explore dangerous dungeons as you venture ever deeper.\n\n\u25c6 BATTLE \u25c6\n\nThe only way to save the world is a kiss!\n\nFight alongside the Prisma Knights in strategic turn-based battles.\n\nForm a party of up to four characters, choose formations and skills, and adapt your tactics to every encounter.\n\nAn Auto-Battle feature is also available.\n\n\u2022 Ex Skills\n\nAs a Prisma, Ryoma can absorb Ex, the energy that powers this world, by defeating enemies.\n\nShare Ex with Prisma Knights through a kiss to awaken their strength and unleash powerful Ex Skills.\n\n\u2022 Party Formation and Affinity\n\nUp to four characters can participate in battle.\n\nTeam composition and relationships with allies both play important roles, so strengthen your bonds with a variety of companions.\n\n\u2022 Enchant System\n\nCombine skills attached to weapons, armor, and accessories to create customized battle strategies.\n\nGather materials, enhance your equipment, and prepare for powerful enemies.\n\n*This product is based on Exstetra, originally released in 2013. Some features and specifications may differ from the original version.",
+	"languages": [
+		"ja",
+		"en",
+		"zh",
+		"zh"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "6.31 GiB"

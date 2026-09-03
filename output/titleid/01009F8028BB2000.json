@@ -1,23 +1,39 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128670/f9076c6fd059103654374b84e14492f36ee4902e84382e3fd9c33b12d52f61ab.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000128670/de1d4d3daaf0f4e266e41dbe553a26ebe12b2bb445e853c32b8d603e738d8ebe",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9076c6fd059103654374b84e14492f36ee4902e84382e3fd9c33b12d52f61ab.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/717cc975480c58bfbc836e18c54020fb1dc9a55d1141a953934cabc6ea75c2c2.jpg",
 	"publisher": "Funday Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/7512e6ff5581efd798ed9945cb879a349ad5d6f52c1cea70c931d16ad93d1b23.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/e61c76efa62ae7817722dd5760361b0d045492e00977f0619934748f5b603f7d.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/8ec929dc46192b7b0e381ffbfc64b8abc110c8bbbfb63c6601c7329bd248e7de.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/4b647d28fc155da20d842539e039e2530fb00b449e3de901a42c1c93d3373f35.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/6948b23424919350a69711a676961588e42d4d207aa5ed0f381273b4d598f120.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000128670/22a3da2475d70e9f5d855783203413fb5869765ccba973d68bec807be0b12ba3.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/7512e6ff5581efd798ed9945cb879a349ad5d6f52c1cea70c931d16ad93d1b23.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/e61c76efa62ae7817722dd5760361b0d045492e00977f0619934748f5b603f7d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8ec929dc46192b7b0e381ffbfc64b8abc110c8bbbfb63c6601c7329bd248e7de.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4b647d28fc155da20d842539e039e2530fb00b449e3de901a42c1c93d3373f35.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6948b23424919350a69711a676961588e42d4d207aa5ed0f381273b4d598f120.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/22a3da2475d70e9f5d855783203413fb5869765ccba973d68bec807be0b12ba3.jpg"
 	],
 	"releaseDate": 20260928,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
+	"category": [
+		"Arcade",
+		"Simulation"
+	],
+	"intro": "Scritchy Scratchy is a super-satisfying scratch card incremental game. Buy stacks of scratch-offs, unlock auto-scratching, and chase massive jackpots. Will you play it safe or go all-in?",
+	"description": "Scritchy Scratchy is a super-satisfying scratch card incremental game where luck is your weapon, and glittering riches are just a scratch away.\n\nDive into a growing collection of scratchers, each with its own quirks, surprises, and sometimes downsides. Rip through tickets, uncover rare symbols, tweak your own luck, and chase absurd payouts.\n\nUnlock Scratch Bot, your tireless mechanical friend who scratches and reveals the rewards for you. Turn your run into a full-blown jackpot engine as your balance shoots through the roof while you sit back and relax.\n\nAs you prosper, you\u2019ll unlock upgrades that twist luck in your favor:\n\n\u2022 Boosted odds and payouts\n\u2022 Faster and easier scratching \n\u2022 New scratch card variants with unique rules\n\nBut power always comes with risk. Some cards tempt you with monstrous payouts at the cost of nasty penalties. Some offer steady income\u2026 others threaten your entire run. Will you play like a sensible adult or gamble like a degenerate in a neon casino?\n\nWhen you\u2019re ready for even more madness, Prestige to reset your run, gather Jack Points, and spend them on permanent upgrades that reshape your strategy. Build your own luck engine: Slow and steady, wildly explosive, or pure chaos.\n\nScritchy Scratchy is a dangerously satisfying progression casino, where every scratch is a little dopamine hit, and every run is one lucky break away from the big jackpot!",
+	"languages": [
+		"ja",
+		"en",
+		"pt",
+		"es",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh",
+		"pl"
+	],
 	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"rating": 10,
+	"ratingContent": [
+		"Gambling Themes"
+	],
 	"dlcs": [],
 	"size": "227 MiB"
 }
