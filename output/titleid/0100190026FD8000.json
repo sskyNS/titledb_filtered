@@ -1,22 +1,36 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000117337/fd99413544601390ec671ecbac9ceff823a135d5e936aebc4962c77403616daa.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/0b3c0c7e25c54bdc9145a200bef60a18_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd99413544601390ec671ecbac9ceff823a135d5e936aebc4962c77403616daa.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/d5894097bdace1e74d850572f8b3580466a97fb859ffafc14150cd8fa5f80fec.jpg",
 	"publisher": "TREVA",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/1b9c2ddaa08fb816729c86f5cca83fbe6bf3096b616b9f1ec80a98a21fb6160b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/2cc2eec70a136c68cb7490e03e207263f84de6a82ed31bef646eef12b2a893f9.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/83f1574490a30f18d5ab09edd5ca6bd5952ee5680be8344bc64646f6fe1b5e44.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/6d743569969d8a9dcf29deef889f82967bff7c5c3ce22568f106760bca6937fd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/4568e1035db42a4eae91b84826bf756951b42a792490904a3cbea8d3f9da09f3.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000117337/fd59e4019289d322a648c30cc8f55f6afc405cbf6cbf51211eb32d13cc9e8c97.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/1b9c2ddaa08fb816729c86f5cca83fbe6bf3096b616b9f1ec80a98a21fb6160b.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/2cc2eec70a136c68cb7490e03e207263f84de6a82ed31bef646eef12b2a893f9.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/83f1574490a30f18d5ab09edd5ca6bd5952ee5680be8344bc64646f6fe1b5e44.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6d743569969d8a9dcf29deef889f82967bff7c5c3ce22568f106760bca6937fd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/4568e1035db42a4eae91b84826bf756951b42a792490904a3cbea8d3f9da09f3.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/fd59e4019289d322a648c30cc8f55f6afc405cbf6cbf51211eb32d13cc9e8c97.jpg"
 	],
 	"releaseDate": 20260924,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
+	"category": [
+		"Adventure",
+		"Simulation",
+		"Sports",
+		"Lifestyle"
+	],
+	"intro": "A summer full of friendship, tournament excitement and horse-filled happiness!",
+	"description": "Summer holidays? Adventure time!\nNo sooner has Bibi returned to Martin's Farm than the next big adventure awaits: the Summer Cup is starting at Falkenstein Castle. Together with Tina and Alex, you compete in exciting riding disciplines \u2013 and show what friendship, fairness and a little bit of witchcraft can make possible.\n\nNew: carriage driving!\nThis has never been seen in a Bibi & Tina game before: Bibi, Tina and Alex have their very own vehicle ready for the Summer Cup. Steer a carriage along country tracks, through flower gates and around tight slalom courses! After all, champions do not only prove themselves in the saddle.\n\nStephanie wants the cup. At any cost.\nGood thing you are not on your own. Stephanie von Schotterburg has her very own ideas about how to win \u2013 and the closer the final gets, the clearer her intentions become. Now it is time to show what really matters: friendship and sticking together. And, of course, Bibi\u2019s witch power!\n\nRide, drive and fight your way to the final\nCheckpoint courses, show jumps, flag collecting, ring jousting \u2013 every discipline brings you closer to the final, and every mistake costs points. Timing, skill and a good sense of direction decide who ends up on the winners\u2019 podium.\n\nYou and your horse \u2013 a strong team!\nA good competition does not begin at the starting line. Brush your horse, pick out its hooves, feed it and decorate it for the big performance. After tough races, cool it down with water.\n\nWhat awaits you:\n\u2022 Experience an exciting Bibi & Tina adventure \u2013 with lots of great tasks and horse-filled moments!\n\u2022 Play as Bibi, Tina or Alex \u2013 together with Sabrina, Amadeus, Maharaja and seven more horses that you can unlock.\n\u2022 Discover the special highlight: carriage driving with races and slalom courses.\n\u2022 Train for different tournament disciplines and collect points for the final.\n\u2022 Ride checkpoint races, show jumping, slalom, flag races, ring jousting and trail races.\n\u2022 Care for your horse by brushing it, feeding it, picking out its hooves, decorating it and cooling it down.\n\u2022 Explore familiar places such as Martin's Farm, Falkenstein Castle, the Old Mill, Wolf's Gorge, the forest and Redwell Castle.",
+	"languages": [
+		"en",
+		"es",
+		"fr",
+		"de",
+		"it",
+		"nl",
+		"ru",
+		"pl"
+	],
+	"numberOfPlayers": 4,
+	"rating": 6,
 	"ratingContent": [],
 	"dlcs": [],
 	"size": "617 MiB"

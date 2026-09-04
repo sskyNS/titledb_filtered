@@ -12,8 +12,10 @@
 	],
 	"releaseDate": 20260903,
 	"category": [
+		"Arcade",
 		"Action",
-		"Adventure"
+		"Adventure",
+		"Platformer"
 	],
 	"intro": "Follow the voice, escape the routine, and discover the true cost of freedom.",
 	"description": "\"The Green Light\" is a first person horror game.\u00a0In The Green Light Fred is stuck in a dead-end job, trapped in a cycle of dissatisfaction. He hates his work, he hates his boss, and his life feels like one long, constant disappointment. But everything changes one late night during his shift. As he drifts through the monotony, a voice on the radio cuts through the silence, offering him something he\u2019s longed for: freedom. The voice tells him that his escape is waiting at a distant lighthouse, a beacon calling out to him from the darkness.\n\nWith nothing left to lose, Fred embarks on a journey that forces him to confront the depths of his own mind\u2014and the true cost of freedom.",
@@ -25,10 +27,10 @@
 		"zh"
 	],
 	"numberOfPlayers": 1,
-	"rating": 12,
+	"rating": 13,
 	"ratingContent": [
-		"Horror",
-		"Mild Swearing"
+		"Language",
+		"Mild Violence"
 	],
 	"dlcs": [],
 	"size": "4.42 GiB"

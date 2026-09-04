@@ -1,23 +1,40 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000097178/9fd9988c1f9baf526944f5b10cc7fe8188651bff95383178bf6443466c4d0ce3.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/20e38acf865a4636941a9e893d857e64_1024",
+	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9fd9988c1f9baf526944f5b10cc7fe8188651bff95383178bf6443466c4d0ce3.jpg",
+	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/e88d389ec4802b03d883bb96f40bbeaf7537dbf357d7bbb75d86be1d3c74fe79.jpg",
 	"publisher": "tinyBuild Games",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/8a510f49cca6a757bc34374c5af2fee0834d818aea783739380be216720e9c23.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/f536b4c8a397eebc4b95e0322841ebaa91737d7285cc217fa076038c73a0e61a.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/de02fd0adcd6e9e485c293beaabe195cf3014a8dad5da1135b9d606825218394.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/751a2c18d5b755136786b551d8115cfdfa9020520b8b23d27a01728b81351fe7.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/6b67d483970aa6039cda3d1b126b6b99029ecbb9f4a4fd7aeb70423bc1fa1bcd.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000097178/c85aab178bdfd896069da362a8efacc59776c4d7c35fb29021344c37dc8e22ca.jpg"
+		"https://img-eshop.cdn.nintendo.net/i/8a510f49cca6a757bc34374c5af2fee0834d818aea783739380be216720e9c23.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/f536b4c8a397eebc4b95e0322841ebaa91737d7285cc217fa076038c73a0e61a.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/de02fd0adcd6e9e485c293beaabe195cf3014a8dad5da1135b9d606825218394.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/751a2c18d5b755136786b551d8115cfdfa9020520b8b23d27a01728b81351fe7.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/6b67d483970aa6039cda3d1b126b6b99029ecbb9f4a4fd7aeb70423bc1fa1bcd.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/c85aab178bdfd896069da362a8efacc59776c4d7c35fb29021344c37dc8e22ca.jpg"
 	],
 	"releaseDate": 20260903,
-	"category": [],
-	"intro": "",
-	"description": "",
-	"languages": [],
-	"numberOfPlayers": 1,
-	"rating": "Unknown",
-	"ratingContent": [],
+	"category": [
+		"Racing",
+		"Multiplayer",
+		"Action"
+	],
+	"intro": "The ultimate competitive platformer is back! Cutthroat online and local races.",
+	"description": "THE NEXT GENERATION OF SPEEDRUNNERS\nThe original multiplayer gameplay formula of SpeedRunners is timeless. With the sequel, our goal is to carefully bring this unique \u2018SpeedRunners feel\u2019 into the new era without compromising on the depth and fluidity of the movement system while still keeping it easy to grasp. On top of that, King of Speed introduces vibrant high-definition graphics and improved netcode.\n\nGOTTA GO FAST\nSpeedRunners 2: King of Speed is a fast-paced competitive platformer and a sequel to one of the most beloved indie games of the 2010s. Pick a character of your choice from a vibrant cast of eccentric superheroes, both returning and new, and face off against your rivals in frenetic running races for up to 4 players per lobby, locally or online.\n\nBE THE LAST ONE RUNNING\nYour goal is to get ahead by any means necessary and cling to the first place as your opponents get consumed, one by one, by an ever-shrinking ring of fire. Prepare to run like your life depends on it, across multiple beautiful tracks set in a retrofuturistic world inspired by the superhero utopia of the 1960s.\n\nFAST AND FURIOUS\nKnock rivals off-screen and eliminate the competition by using powerful pick-ups like missiles, traps, freezing rays, or a golden grappling hook that allows you to pull runners in front of you.  Ruin friendships, break controllers, and make split-second decisions on your way to becoming the true King of Speed!\n\nMASTER COMPETITIVE PLATFORMING\nLearn the layout of expertly crafted maps and master the intuitive yet deep movement mechanics. Memorize the locations of booster pads, pick-ups, wall jumping sections, obstacles, blue ceilings that you can grapple to, and levers to open or close pathways. Run, jump, slide, and swing to victory!\n\nRUN AS YOU ARE\nSpeedRunners 2 is a competitive game that can be enjoyed casually but has a high skill ceiling, allowing you to hone your speedrunning prowess for hundreds of hours. Join a dedicated community to participate in tournaments, create custom challenges, and climb the leaderboards, or host a private lobby with your buddies for some laid-back PvP fun.",
+	"languages": [
+		"ja",
+		"en",
+		"es",
+		"pt",
+		"fr",
+		"de",
+		"ru",
+		"ko",
+		"zh"
+	],
+	"numberOfPlayers": 4,
+	"rating": 10,
+	"ratingContent": [
+		"Fantasy Violence",
+		"Mild Language"
+	],
 	"dlcs": [],
 	"size": "2.48 GiB"
 }
