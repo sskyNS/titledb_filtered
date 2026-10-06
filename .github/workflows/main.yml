@@ -44,6 +44,8 @@ jobs:
 
       - name: Merge and Package ZIP
         run: |
+          sudo apt-get update
+          sudo apt-get install -y brotli
           mkdir -p temp_merge
           if [ -d "output/titleid/" ]; then
             echo "Merging output/titleid/"
@@ -56,6 +58,9 @@ jobs:
           zip -r titleid.zip temp_merge/
           echo "ZIP size:"
           ls -lh titleid.zip
+          brotli -q 11 -k -f titleid.zip
+          echo "BR size:"
+          ls -lh titleid.zip.br
 
       - name: Calculate Cumulative Downloads
         env:
@@ -96,7 +101,9 @@ jobs:
           tag_name: "latest-package"
           name: "Switch游戏信息库"
           body: ${{ env.RELEASE_BODY }}
-          files: titleid.zip
+          files: |
+            titleid.zip
+            titleid.zip.br
           draft: false
           prerelease: false
           overwrite: true
