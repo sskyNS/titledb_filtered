@@ -2,7 +2,11 @@
 	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7f1c9fb324961abd29026ed29949f175cd078917a60c77c63787f4355bbe1bb.jpg",
 	"iconUrl": "https://img-eshop.cdn.nintendo.net/i/855456f8cb55db391ba1ff6d3aa4aa179ea8053a693c530572405d733dd90a50.jpg",
 	"publisher": "17Studio",
-	"screenshots": null,
+	"screenshots": [
+		"https://img-eshop.cdn.nintendo.net/i/4476c63d4e6457875da7ba072490c481ebc909e3026ea349866ac4b7a41af02d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/8ff7f57185722028d3b892e6f290bf1f8f41c6c6c45c3732383c7b2d4b5ba06d.jpg",
+		"https://img-eshop.cdn.nintendo.net/i/55c2ef9e70e3e15588834f80000139433cd6c4c667e0bc6979ae9fe88fae412d.jpg"
+	],
 	"releaseDate": 20260402,
 	"category": [
 		"Puzzle",
