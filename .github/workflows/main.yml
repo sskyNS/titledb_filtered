@@ -1,34 +1,89 @@
 name: Sync TitleDB and Release
-
 on:
   schedule:
     # 每 2 小时运行一次
     - cron: '0 */2 * * *'
   workflow_dispatch:
-
 jobs:
   sync-and-release:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
+      # 恢复上次成功拉取的上游数据，作为本次失败时的回退
+      # 缓存 key 按周轮换，避免每 2 小时生成一个新缓存把 10GB 配额刷爆
+      - name: Compute cache key
+        id: cachekey
+        run: echo "week=$(date -u '+%Y-%V')" >> $GITHUB_OUTPUT
+
+      - name: Restore upstream cache
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            titledb
+            eshopScrapper
+          key: upstream-${{ steps.cachekey.outputs.week }}
+          restore-keys: |
+            upstream-
+
+      # 上游拉取失败时保留缓存数据，不中断整个流水线
       - name: Clone Upstream Repos
         run: |
-          git clone --depth 1 https://github.com/blawar/titledb.git
-          git clone --depth 1 https://github.com/dev-chin/eshopScrapper.git
+          set +e
+
+          rm -rf titledb_new
+          git clone --depth 1 https://github.com/blawar/titledb.git titledb_new
+          if [ $? -eq 0 ] && [ -n "$(ls -A titledb_new/*.json 2>/dev/null)" ]; then
+            rm -rf titledb titledb_new/.git
+            mv titledb_new titledb
+            echo "titledb: 已更新到最新上游数据"
+          else
+            rm -rf titledb_new
+            if [ -d titledb ] && [ -n "$(ls -A titledb/*.json 2>/dev/null)" ]; then
+              echo "::warning::blawar/titledb 拉取失败，本次使用缓存数据继续"
+            else
+              echo "::error::blawar/titledb 拉取失败且无缓存，本次将跳过数据重建"
+            fi
+          fi
+
+          rm -rf eshopScrapper_new
+          git clone --depth 1 https://github.com/dev-chin/eshopScrapper.git eshopScrapper_new
+          if [ $? -eq 0 ]; then
+            rm -rf eshopScrapper eshopScrapper_new/.git
+            mv eshopScrapper_new eshopScrapper
+            echo "eshopScrapper: 已更新到最新上游数据"
+          else
+            rm -rf eshopScrapper_new
+            if [ -d eshopScrapper ]; then
+              echo "::warning::eshopScrapper 拉取失败，本次使用缓存数据继续"
+            else
+              echo "::warning::eshopScrapper 拉取失败且无缓存，本次跳过该数据源"
+            fi
+          fi
+
+          exit 0
+
+      - name: Save upstream cache
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            titledb
+            eshopScrapper
+          key: upstream-${{ steps.cachekey.outputs.week }}
 
       - name: Install Dependencies
         run: pip install requests
 
+      # script.py 内部会在 titledb 缺失时直接跳过，保持已有 output 不被清空
       - name: Run Python Script
         run: python -u script.py
 
@@ -39,8 +94,8 @@ jobs:
           git add --ignore-removal output/
           git add --ignore-removal output2/
           timestamp=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
-          git commit -m "Update: ${timestamp}" || exit 0
-          git push
+          git commit -m "Update: ${timestamp}" || echo "本次无数据变化"
+          git push || echo "推送失败或无变更"
 
       - name: Merge and Package ZIP
         run: |
@@ -67,29 +122,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
-
           RELEASE_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
             "https://api.github.com/repos/${{ github.repository }}/releases/tags/latest-package" || echo "{}")
-
           # 当前 asset 下载量
           CURRENT_COUNT=$(echo "$RELEASE_INFO" | jq -r \
             '.assets[] | select(.name=="titleid.zip") | .download_count // 0')
           CURRENT_COUNT=${CURRENT_COUNT:-0}
-
           # 历史累计基数（从 body 的 HTML 注释中提取）
           OLD_BODY=$(echo "$RELEASE_INFO" | jq -r '.body // ""')
           HISTORY_BASE=$(echo "$OLD_BODY" | grep -oP '(?<=<!-- history_downloads:)\d+(?= -->)' || echo "0")
           HISTORY_BASE=${HISTORY_BASE:-0}
-
           NEW_TOTAL=$((HISTORY_BASE + CURRENT_COUNT))
-
           echo "History base: $HISTORY_BASE"
           echo "Current asset downloads: $CURRENT_COUNT"
           echo "New cumulative total: $NEW_TOTAL"
-
+          # 数据新鲜度提示：上游不可用时明确标注
+          if [ -d "titledb" ] && [ -n "$(ls -A titledb/*.json 2>/dev/null)" ]; then
+            DATA_NOTE="数据源：titledb 上游正常"
+          else
+            DATA_NOTE="数据源：上游不可用，本次沿用历史数据"
+          fi
           {
             echo 'RELEASE_BODY<<EOF'
             echo "自动更新于 $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+            echo "${DATA_NOTE}"
             echo "风灵月影专用，每 2 小时定期更新，包含游戏截图、大小、厂商等内容。"
             echo "<!-- history_downloads:${NEW_TOTAL} -->"
             echo 'EOF'
