@@ -1,9 +1,16 @@
 {
-	"bannerUrl": "https://img-eshop.cdn.nintendo.net/i/47613b3630eb47707646ef8585ca62a008e29160ed0fc013337c7b1e92f7687a.jpg",
-	"iconUrl": "",
+	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000102971/b22e64d2b19afedd28065cf7f5ae2483ca7da84e301e576814b512593bf006ad.jpg",
+	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/bbadf07698824b34b2783e216c93bc26_1024",
 	"publisher": "Broken Arms Games",
-	"screenshots": [],
-	"releaseDate": 20260417,
+	"screenshots": [
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/8f75e533740de6776749c462aab2c7ee1ea7f34714b80443610f57dd3f38268b.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/83ae00deafb917ede1c083c2f1dc9ae0a8d6c0de0cad0488235fb05bd36b9393.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/6713945525fa318aa3d4217422e3b97c23e0c2d41ee174fe7b4e56e70fb25922.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/4c7d4f706f8f163409973d659b73e8f9f55fb16fbe468969ca5c2f2dab00d424.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/354897703edf1409cf92f8a4ce193c6c30a627cbbae401a91c68d8750c697b41.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000102971/bd91a8e7e365684a543e9ee4c5d39dc2c50839cfc2a690d010469d426aba1b40.jpg"
+	],
+	"releaseDate": 20260416,
 	"category": [],
 	"intro": "",
 	"description": "",
@@ -12,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "669 MiB"
+	"size": "839 MiB"
 }

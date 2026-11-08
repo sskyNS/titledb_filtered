@@ -1,12 +1,16 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/2d6dab5f85ec8ca3cad02c291bedd04033982b9ebe393a53cbbb9b3bd20fb229.jpg",
-	"iconUrl": "",
+	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000110905/20a536f4ecb1c181833d8b5c2883658699248da7754bb0565610697f81389f20",
 	"publisher": "Mojang",
 	"screenshots": [
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/ec67d198815cc795fe2d78b3d2ab0311a471a0ff8eda6c52e01860a24c05008b.jpg",
-		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/0bc59e722d7f8ad53c6b04bae6988f6422f50a5f7b81ec711f588224b65e116c.jpg"
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/abd4a34aeb0c99f08c9659a565dd557b0910defd2662bfb6620b85b739cf6a85.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/1024a2a09b6480480dec17a86e93831d33b6d0979f9a810f74a1cc5758e982b6.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/e8c2a105778868f6dba1a471525caf95ebedee7ca713b3eb181e44b155117ad7.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/3706a21528993ea68782fb1a87a1dd47083707cc30c96558d337cde58a475e48.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/c5c33cb276e468188a060a7363f1121f0c2626021a5a3de13582a2802f49dee8.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000110905/d5708b150ad987bd6ee4288d2ddefe65d959d161dd4c0dbe92cc0bb7ad591d54.jpg"
 	],
-	"releaseDate": 20261231,
+	"releaseDate": 20260929,
 	"category": [],
 	"intro": "",
 	"description": "",
@@ -15,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "6.06 GiB"
 }
