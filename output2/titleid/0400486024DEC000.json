@@ -1,9 +1,16 @@
 {
-	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000130792/82f44b9421bfed7181477f1f2755b4816ec54e2f943efb2d628062969a622869.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000130792/995f93e0d7038b333634cdcbcce8b865a5821bb03852c3ae9d2223aeab3b15d4",
+	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000130792/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809.jpg",
+	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000130792/da79eecb8ff4a1918790e0084cfcf8581a40f4864854e7a95615f5d43f41f937",
 	"publisher": "Nintendo",
-	"screenshots": [],
-	"releaseDate": 20261231,
+	"screenshots": [
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/2e76ea7cb3eb833a0cbe8c9b016b28b3a7ef95838b66c1eaced1c0db7747dd37.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/9fb8faf644291a8398e43eadab602842d21c6b80537f71be0462685f52605c51.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/67d498d429f20cc080565aa28f14ddd9a996a6e058e7717009389cdce9afd661.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/d96d5a7a81993f16b80186798e7b2a13e1f02fc01cb168845a8ad55655d47c3d.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/0b9ca24526fc399ba297a38fe4ef67307acb15b597520858e7db19b86488810c.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000130792/5a35ca13d17509ef3d469db21d0abb24a1d4c47f5d4fb950da4878b1cd97cab7.jpg"
+	],
+	"releaseDate": 20261105,
 	"category": [],
 	"intro": "",
 	"description": "",
@@ -12,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "24.88 GiB"
 }
