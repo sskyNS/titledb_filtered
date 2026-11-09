@@ -1,8 +1,15 @@
 {
 	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000127399/3555b8b8a858c760680ec629febf34a90a6298d7b21441f25bb6491514f0d43f.jpg",
-	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/71ab0d7e4efb47d9aebf2489a099c425_1024",
+	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/fcd952f07cb846b8b7fc04f70e5aee71_1024",
 	"publisher": "Akupara Games",
-	"screenshots": [],
+	"screenshots": [
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/4a1c90feaefbe6890439bbd76880c9b8b64cf701eb7275911c73120f65fa860a.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/c86a40b2af0c4ab22eef879d1900708fd8bad1e9689e3ef43488dccb0d9903ad.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/2be4838a5486a7224135840bdfedc1781edf55e912f707732eb091320e34b961.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/fac1bb5e5b237aee6d923e58ad799fccfc0fe2d304f711cecd0e53c053ccb86e.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/3363be9250964dcdddbd968338940f8666d90b1d886907a4f6563ac90067ad87.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000127399/1eeff49b60548b092d07eea20e257a177ca095687277cefd2cc3e1ea3b2df345.jpg"
+	],
 	"releaseDate": 20261008,
 	"category": [],
 	"intro": "",
@@ -12,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "1.11 GiB"
+	"size": "1.75 GiB"
 }

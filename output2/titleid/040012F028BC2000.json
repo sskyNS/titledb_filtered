@@ -1,8 +1,15 @@
 {
 	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128692/da1a51c79e918768af5d1556e7416c0bc906665606fd273622ecbbd5cc8cfa26.jpg",
 	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000128692/5e2cfe5c38b7143530e3d70b3333da41159969a4580972956860081eb288a50d",
-	"publisher": "CD PROJEKT RED S.A.",
-	"screenshots": [],
+	"publisher": "CD PROJEKT RED",
+	"screenshots": [
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/20af2c89e26c59101263b2be7593e222093394d8a8d2b7385134da5afceed392.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/36f62c80726232e89aa81474bb841355657ef5b8fbd401f612443099b4fecb30.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/248ef8e934776fe6ebd6b3cfaaab495b3f929a224fca243fe722b4f30a441772.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/5c1a634e80d36afc5b81d35feabb07ea9e48fba8d8ffa07ecb5b8b5724c742d2.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/610f1294bd9b94849e49391a33d127c94e6834e93ea5dcc91b8623a407ab9eb4.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000128692/d5978ad48072549f1b6b258b23562c990921e4bdec9d3a8c94a1b2d56eed2a1c.jpg"
+	],
 	"releaseDate": 20260929,
 	"category": [],
 	"intro": "",
@@ -12,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "42.34 GiB"
+	"size": "48.57 GiB"
 }

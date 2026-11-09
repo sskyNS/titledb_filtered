@@ -2,7 +2,14 @@
 	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000103437/a9eb205f727e9c8b847f8501293ebebb091b1abfff1c606166294cbad57789c2.jpg",
 	"iconUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000103437/93ebf691355b523803c854d60a355fbdc33af6dc64da389cac5df91c7d53454b",
 	"publisher": "Activision",
-	"screenshots": [],
+	"screenshots": [
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/26502a8ffc109a2c85434fcd7c4f23a9852d3ed2dd1202e3931e33a33672c5cc.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/33fd1ea3f673714dc18221d4339632369063e8dcb8414b2fce6259f0342f893c.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/0162b4b3ab1fcc4437be27fba4a0b4f618a769ac186ae873b91d902617ad37c7.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/5760d3d1ef82fdbdef9157c5cc2b9c3d6d1c2d0d025a3fb4f714ffb133011dd5.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/f8608713dd9410e27aae9a140b0a21fc35a8516e34d2d50cb6701c0e50eb612f.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000103437/8b851f14b536b842110ab1cae7d199742294652a07c8586091ca0ee71eeec66c.jpg"
+	],
 	"releaseDate": 20261016,
 	"category": [],
 	"intro": "",
@@ -12,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "21.98 GiB"
 }
