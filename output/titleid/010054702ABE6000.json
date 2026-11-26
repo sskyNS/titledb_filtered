@@ -1,13 +1,13 @@
 {
-	"bannerUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw78cd9db8/products/D70010000140704/heroBanner/a088c9ffa6ba3e15ed07713b54d93c01a0665f5784ad38d114f74f894701f48f.jpeg",
-	"iconUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw67fe33d5/products/D70010000140704/squareHeroBanner/b11128b853b5119f13d4111f49e0375635c5a7d9cd441d92ea094a1e85daa3bf.jpg",
+	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000140702/a088c9ffa6ba3e15ed07713b54d93c01a0665f5784ad38d114f74f894701f48f.jpg",
+	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/b02d13d9dd614eaf80681e267c727743_1024",
 	"publisher": "Eathrabaria",
 	"screenshots": [
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwb57d512b/products/D70010000140704/screenShot/707f7ee47c525a9be701eda2f9a8bd31066249b7292d4a313b03bbe67f6aeef1.jpeg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw6cc1d05b/products/D70010000140704/screenShot/0e4bf35fff77a45a407a1f134753c578d491d0016662e44b94fb80271b63a59a.jpeg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwd5c71305/products/D70010000140704/screenShot/b071dfbd4e6ddacd4e51f5c7c2f445f9dc2bd4e29107199c91588ce19c8a1c89.jpeg"
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000140702/707f7ee47c525a9be701eda2f9a8bd31066249b7292d4a313b03bbe67f6aeef1.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000140702/0e4bf35fff77a45a407a1f134753c578d491d0016662e44b94fb80271b63a59a.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000140702/b071dfbd4e6ddacd4e51f5c7c2f445f9dc2bd4e29107199c91588ce19c8a1c89.jpg"
 	],
-	"releaseDate": 0,
+	"releaseDate": 20261126,
 	"category": [],
 	"intro": "",
 	"description": "",
@@ -16,5 +16,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "69 MiB"
 }
