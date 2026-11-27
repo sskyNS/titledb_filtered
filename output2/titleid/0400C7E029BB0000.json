@@ -1,16 +1,16 @@
 {
-	"bannerUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw31349674/products/D70010000134594/heroBanner/972157b009732015327e5a5e743a5368e856c2503d3ad53bab7abd5a6bdcf79c.jpg",
-	"iconUrl": "https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw4cafa06d/products/D70010000134594/squareHeroBanner/01ddb845f12fcde5552260aead96c79b3db69b92425966dab2f8d8be5eb9592a.jpg",
-	"publisher": "\u30cf\u30e0\u30b9\u30bf\u30fc",
+	"bannerUrl": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch2/70010000134592/d386ff14dbff338dbf6ac7372ffda1747c9a138e85a3103d43734f361e2c3eee.jpg",
+	"iconUrl": "https://assets.nintendo.com/image/fetch/q_auto/f_auto/https://atum-img-lp1.cdn.nintendo.net/i/c/29e7fe07bbd74df1b1bb3bfe28e4577a_1024",
+	"publisher": "HAMSTER",
 	"screenshots": [
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwea259ea0/products/D70010000134594/screenShot/747a3343f79c59f63f68d83218107239ac5eed41a34721486e4a423803f8e787.jpg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw34758f41/products/D70010000134594/screenShot/46be227e5027774b901405c9624949a259602c3b5b6a61df374c8e8d9903755c.jpg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw3ab4ec09/products/D70010000134594/screenShot/8cd5582bd31ed520b9cac7a8423b84b0ac0a8109209c067d44d10812c1da00d8.jpg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dw0e05255c/products/D70010000134594/screenShot/a87f13253d23f66da97f5c7545154a4719b821b776d904c5756171dce094dc5f.jpg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwac68e5ce/products/D70010000134594/screenShot/9888d9772519d9d4d2a296e87eb899fa9b7a54b2edeadeafd7c2bcf5c0e60ba1.jpg",
-		"https://store-jp.nintendo.com/dw/image/v2/BFGJ_PRD/on/demandware.static/-/Sites-all-master-catalog/ja_JP/dwda96b3a9/products/D70010000134594/screenShot/badf8922f1a6779ec4d1643b49e2a9ed0a3297d31cf9bb1bbe27e6b7e818061c.jpg"
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/747a3343f79c59f63f68d83218107239ac5eed41a34721486e4a423803f8e787.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/46be227e5027774b901405c9624949a259602c3b5b6a61df374c8e8d9903755c.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/8cd5582bd31ed520b9cac7a8423b84b0ac0a8109209c067d44d10812c1da00d8.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/a87f13253d23f66da97f5c7545154a4719b821b776d904c5756171dce094dc5f.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/9888d9772519d9d4d2a296e87eb899fa9b7a54b2edeadeafd7c2bcf5c0e60ba1.jpg",
+		"https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/store/software/switch2/70010000134592/badf8922f1a6779ec4d1643b49e2a9ed0a3297d31cf9bb1bbe27e6b7e818061c.jpg"
 	],
-	"releaseDate": 0,
+	"releaseDate": 20261126,
 	"category": [],
 	"intro": "",
 	"description": "",
@@ -19,5 +19,5 @@
 	"rating": "Unknown",
 	"ratingContent": [],
 	"dlcs": [],
-	"size": "Unknown"
+	"size": "263 MiB"
 }
